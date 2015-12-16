@@ -15,6 +15,7 @@
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -84,7 +85,7 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000740">Smith, John A.</term>
-<term>Todd, John Payne, 1792-1858</term> <!-- really died in 1852 -->
+<term xml:id="per.002151">Todd, John Payne, 1792-1858</term> <!-- really died in 1852 -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -96,25 +97,25 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002152">
 <persName>Taylor, Catherine</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002153">
 <persName>Taylor, Ellen</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002154">
 <persName>Taylor, Henry</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002155">
 <persName>Taylor, John</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002156">
 <persName>Taylor, Ralph</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002157">
 <persName>Taylor, Sarah Elizabeth</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002158">
 <persName>McGuire, J. C. (James Clark), 1812-1888</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000829">
@@ -135,6 +136,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2015-12-14" who="#lkw">added xml:ids</change>  
 <change when="2015-06-24" who="#kln">reviewed; edited</change>    
 <change when="2015-06-18" who="#ea">changed xml id, added case id</change>         
 <change when="2015-03-11" who="#snc">Encoded and transcribed</change>

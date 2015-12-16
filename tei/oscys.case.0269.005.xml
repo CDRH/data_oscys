@@ -15,6 +15,7 @@
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -84,9 +85,9 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000476">Dunlop, James, 1793-</term>
-<term>Madison, Dolley, 1768-1849</term>
+<term xml:id="per.002159">Madison, Dolley, 1768-1849</term>
 <term xml:id="per.000044">Morsell, James Sewall</term>
-<term>Todd, John Payne, 1792-1858</term>
+<term xml:id="per.002151">Todd, John Payne, 1792-1858</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -98,25 +99,25 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002152">
 <persName>Taylor, Catherine</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002153">
 <persName>Taylor, Ellen</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002154">
 <persName>Taylor, Henry</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002155">
 <persName>Taylor, John</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002156">
 <persName>Taylor, Ralph</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002157">
 <persName>Taylor, Sarah Elizabeth</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002158">
 <persName>McGuire, J. C. (James Clark), 1812-1888</persName>
 </person>
 <person role="attorney_petitioner">
@@ -137,6 +138,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2015-12-14" who="#lkw">added xml:ids; transcription</change>  
 <change when="2015-06-24" who="#kln">reviewed; edited</change>          
 <change when="2015-06-18" who="#ea">changed xml id, added case id</change>     
 <change when="2015-03-12" who="#snc">Encoded and transcribed</change>
@@ -168,7 +170,7 @@ James C. McGuire admr J. P. Todd</p>
 
 thereafter remained in said District until the winter of 1852 when he died leaving a will by which he undertook to manumit said slaves of whom he took possession on his mothers death and held until his own death; that he was not in said District from the time said slaves were so brought into it, until he came as aforesaid in the summer of 1846; and it was admitted that the personal estate of said Todd exclusive of the said slaves <del>was</del> is insufficient to pay his just debts.</p>
 
-<p>And thereupon the Petitioners be their counsel prayed the court to instruct the jury (here insert A) which instruction the court refused to give, and the Petitioners by their counsel except thereto and pray the court to sign and seal this their first bill of Exceptions and to cause the same to be enrolled according to the statute, which is done accordingly this 1st day of December 1852</p>
+<p>And thereupon the Petitioners by their counsel prayed the court to instruct the jury (here insert A) which instruction the court refused to give, and the Petitioners by their counsel except thereto and pray the court to sign and seal this their first bill of Exceptions and to cause the same to be enrolled according to the statute, which is done accordingly this 1st day of December 1852</p>
 
 <p>Jas S Morsell (seal)</p>
 <p>Jas. Dunlop. (seal)</p>

@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -79,14 +80,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ben</term>
+<term xml:id="per.002172">Ben</term>
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
-<term>Henny</term>
-<term>Jenny</term>
-<term>Law, John</term>
-<term>Nanny</term>
-<term>Shorter</term>
-<term>Sopor, Nathan</term>
+<term xml:id="per.002173">Henny</term>
+<term xml:id="per.002174">Jenny</term>
+<term xml:id="per.000023">Law, John</term>
+<term xml:id="per.002175">Nanny</term>
+<!-- <term>Shorter</term> -->
+<term xml:id="per.002176">Sopor, Nathan</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -99,13 +100,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002169">
 <persName>Oakley, Anthony</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002170">
 <persName>Oakley, Michael</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002171">
 <persName>Young, Notley</persName>
 </person>
 <person role="attorney_petitioner">
@@ -125,7 +126,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>  
+<revisionDesc>
+<change when="2015-12-14" who="#lkw">added xml:ids; commented out Shorter</change>    
 <change when="2015-03-30" who="#kln">reviewed; edited</change>            
 <change when="2015-03-04" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
