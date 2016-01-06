@@ -15,6 +15,7 @@
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -97,22 +98,22 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002180">
 <persName>Adams, Isabella</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002181">
 <persName>Adams, Parmelia</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002182">
 <persName>Adams, Sylvester</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002183">
 <persName>Adams, Truelove</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002184">
 <persName>Holmes, James H.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002185">
 <persName>Ennis, John F.</persName>
 </person>
 <person role="attorney_defendant">
@@ -130,6 +131,7 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2015-01-05" who="#lkw">added xml:ids</change>
 <change when="2015-06-24" who="#kln">reviewed; edited</change>
 <change when="2015-06-23" who="#ea">changed xml id, added case id</change>             
 <change when="2015-03-10" who="#snc">Encoded and transcribed</change>
