@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -83,7 +84,7 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000476">Dunlop, James, 1793-</term>
-<term>Madella, Rebecca</term> <!-- aka Medulla -->
+<term xml:id="per.001841">Madella, Rebecca</term> <!-- aka Medulla -->
 <term xml:id="per.001217">Selden, William</term>
 <term xml:id="per.000740">Smith, John A.</term>
 </keywords>
@@ -97,16 +98,16 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002199">
 <persName>Medulla, Charles Henry</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002200">
 <persName>Medulla, Samuel A.</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002201">
 <persName>Medulla, Sarah Henrietta</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.001842">
 <persName>Munroe, Georgiana</persName>
 </person>
 <person role="attorney_petitioner">
@@ -126,7 +127,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>  
+<change when="2015-01-05" who="#lkw">added xml:ids</change>           
 <change when="2015-08-04" who="#kln">reviewed; edited</change> 
 <change when="2015-04-21" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
