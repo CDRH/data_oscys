@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -90,10 +91,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002216">
 <persName>Foote, Milford</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002217">
 <persName>Armistead, John B.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000023">
@@ -114,6 +115,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2015-01-11" who="#lkw">added xml:ids</change>
 <change when="2015-11-05" who="#kln">reviewed, edited</change>
 <change when="2015-08-05" who="#snc">transcribed, encoded</change>
 </revisionDesc>
@@ -135,7 +137,7 @@
 
 <div2 type="body">
 
-<p>The petition of Milford Foote respectfully sheweth That your petitioner is held in b ondage &amp; claimed by John B. Armistead as a slave, tho' your petitioner is justly entitled to his freedom in consequence of his having been illegally imported into &amp; sold within the district of Columbia. Your petitioner therefor prays that your honors will take his case into consideration &amp; that a subpoena may issue commanding the said John B to appear &amp;c: &amp; grant him such further &amp; other process &amp; relief as to your Honors may seen meet &amp; his case may require And as in duty bound he will ever pray &amp;c:</p>
+<p>The petition of Milford Foote respectfully sheweth That your petitioner is held in bondage &amp; claimed by John B. Armistead as a slave, tho' your petitioner is justly entitled to his freedom in consequence of his having been illegally imported into &amp; sold within the district of Columbia. Your petitioner therefor prays that your honors will take his case into consideration &amp; that a subpoena may issue commanding the said John B to appear &amp;c: &amp; grant him such further &amp; other process &amp; relief as to your Honors may seen meet &amp; his case may require And as in duty bound he will ever pray &amp;c:</p>
 
 <p>John Law<lb/>
 for Petr.</p>

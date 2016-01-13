@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -80,10 +81,10 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
-<term>Hale, E.</term> <!-- likely who is being referenced by "Haley" -->
+<term xml:id="per.002225">Hale, E.</term> <!-- likely who is being referenced by "Haley" -->
 <term xml:id="per.000044">Morsell, James Sewall</term>
-<term>Peter, John</term> 
-<term>Scott, William A.</term>
+<term xml:id="per.002232">Peter, John</term> 
+<term xml:id="per.002220">Scott, William A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -96,13 +97,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002222">
 <persName>Morris, Peter</persName>
 </person>
 <person role="defendant" xml:id="per.000278">
 <persName>Miller, George</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002219">
 <persName>Wiley, J.</persName>
 </person>
 <person role="attorney_defendant">
@@ -119,7 +120,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>    
+<revisionDesc>   
+<change when="2015-01-11" who="#lkw">added xml:ids</change> 
 <change when="2015-12-15" who="#kln">corrected caseid</change>
 <change when="2015-04-02" who="#kln">reviewed; edited</change>         
 <change when="2015-03-12" who="#ea">Encoded and transcribed.</change>

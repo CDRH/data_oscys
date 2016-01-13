@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -96,16 +97,16 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002222">
 <persName>Morris, Peter</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002223">
 <persName>Davis, Jonathan</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002224">
 <persName>Kincaid, James</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002219">
 <persName>Wiley, J.</persName>
 </person>
 <person role="attorney_defendant">
@@ -123,6 +124,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2015-01-11" who="#lkw">added xml:ids; transcription</change>
 <change when="2015-09-17" who="#kln">reviewed; edited</change>          
 <change when="2015-06-16" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
@@ -139,7 +141,7 @@
 
 <div2 type="body">
      
-<p>To the Honourable The Judges of The Circuit Court of the District of Columbia for the county of Washington The Petition of Negro Morris otherwise called Morris Peer <del>a</del> humbly sheweth that your Petitioner is entitled to freedom; and is nevertheless unjustly held in bondage as a slave by one Jonathan Davis and James Kincaid. He therefore prays that he may be discharged &amp; set free from slavery &amp; that the United States writ of subpoena may be issued to the said David &amp; Kincaid directed commanding them to appear and answer to your Petitioner in the premisses &amp; that such other relief may be given as the nature &amp; justice of his case may require. And inasmuch as the said David &amp; Kincaid are not residents of the District of Columbia but are traders in negroes there for the purpose of exportation therefrom and reside as your Petitioner is informed &amp; believes in the State of Georgia or South Carolina and your Petitioner hath just cause to fear that he will be forcibly &amp; fraudulently removed from the said District previously in the next court he prays that the said David &amp; Kincaid may <del>be</del> forthwith give proper security not to remove or carry him out of the District nor cause it to be done nor to sell him so that he may be taken away therefrom &amp; that he may be allowed reasonable access to his counsel &amp; time to prepare his testimony &amp; so forth according to Law &amp; the practice of yr. honble. Court in like cases</p>
+<p>To the Honourable The Judges of The Circuit Court of the District of Columbia for the county of Washington The Petition of Negro Morris otherwise called Morris Peer <del>a</del> humbly sheweth that your Petitioner is entitled to freedom; and is nevertheless unjustly held in bondage as a slave by one Jonathan Davis and James Kincaid. He therefore prays that he may be discharged &amp; set free from slavery &amp; that the United States writ of subpoena may be issued to the said Davis &amp; Kincaid directed commanding them to appear and answer to your Petitioner in the premisses &amp; that such other relief may be given as the nature &amp; justice of his case may require. And inasmuch as the said Davis &amp; Kincaid are not residents of the District of Columbia but are traders in negroes there for the purpose of exportation therefrom and reside as your Petitioner is informed &amp; believes in the State of Georgia or South Carolina and your Petitioner hath just cause to fear that he will be forcibly &amp; fraudulently removed from the said District previously in the next court he prays that the said David &amp; Kincaid may <del>be</del> forthwith give proper security not to remove or carry him out of the District nor cause it to be done nor to sell him so that he may be taken away therefrom &amp; that he may be allowed reasonable access to his counsel &amp; time to prepare his testimony &amp; so forth according to Law &amp; the practice of yr. honble. Court in like cases</p>
 
 <p>J Wiley Atty.</p>
      
