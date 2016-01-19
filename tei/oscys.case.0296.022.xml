@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -82,8 +83,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Turner, Thomas</term>
-<term>Turner, Thomas, Jr.</term>
+<term xml:id="per.002268">Turner, Thomas</term>
+<term xml:id="per.002148">Turner, Thomas, Jr.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -94,19 +95,19 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002260">
 <persName>Johnson, Ellen</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002261">
 <persName>Johnson, John Thomas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002262">
 <persName>Johnson, Louisa</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002263">
 <persName>Johnson, Robert</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002150">
 <persName>Adler, Morris</persName>
 </person>
 <person role="attorney_petitioner">
@@ -126,7 +127,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>        
+<change when="2015-01-11" who="#lkw">added xml:ids; transcription</change>      
 <change when="2015-07-07" who="#kln">reviewed; edited</change>
 <change when="2015-03-26" who="#snc">transcribed, encoded</change>
 </revisionDesc>
@@ -143,7 +145,7 @@
 
 <div2 type="body">
 
-<p>If the Jury believe From the evidence aforesaid that the Petitioner was the slave of Thomas Turner <del>decd</del> senr. in his lifetime: that the died in or prior to the year 1816 leaving the Petition as a part of his Estate; that she was returned in the Inventory made by his Exrs in the year 1816: That the second Executor settled <del>their</del> 1st account aforesaid in the Orphans Court in 1816: &amp; the <del>an</del>other acct aforesaid in 1821: and that no subsequent account appears by the records or files of said Court to have been settled in said Estate: and that the Defendant's intestate Thomas Turner Jr. was the son and one of the distributees of said estate: and that prior to the year 1831, the said Thomas Turner Jr. was in <gap extent="one word" reason="illegible"/> possession of the petitioner claiming her as his slave; then it is competent for the Jury to find from the evidence aforesaid, if the same shall so satisfy them, that the said Thomas Turner Jr. had become &amp; was, in &amp; prior to said year 1831, the sole owner of said petitioner, by distribution or otherwise: <del>and if they shall so find, then if they</del></p>
+<p>If the Jury believe From the evidence aforesaid that the Petitioner was the slave of Thomas Turner <del>decd</del> senr. in his lifetime: that he died in or prior to the year 1816 leaving the Petition as a part of his Estate; that she was returned in the Inventory made by his Exrs in the year 1816: That the second Executor settled <del>their</del> 1st account aforesaid in the Orphans Court in 1816: &amp; the <del>an</del>other acct aforesaid in 1821: and that no subsequent account appears by the records or files of said Court to have been settled in said Estate: and that the Defendant's intestate Thomas Turner Jr. was the son and one of the distributees of said estate: and that prior to the year 1831, the said Thomas Turner Jr. was in <gap extent="one word" reason="illegible"/> possession of the petitioner claiming her as his slave; then it is competent for the Jury to find from the evidence aforesaid, if the same shall so satisfy them, that the said Thomas Turner Jr. had become &amp; was, in &amp; prior to said year 1831, the sole owner of said petitioner, by distribution or otherwise: <del>and if they shall so find, then if they</del></p>
 
 <p>given</p>
 

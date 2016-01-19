@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -82,9 +83,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Barnacle, W. H.</term>
+<term xml:id="per.002269">Barnacle, W. H.</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Miller, A. W.</term>
+<term xml:id="per.002270">Miller, A. W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">  
@@ -99,19 +100,19 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002260">
 <persName>Johnson, Ellen</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002261">
 <persName>Johnson, John Thomas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002262">
 <persName>Johnson, Louisa</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002263">
 <persName>Johnson, Robert</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002150">
 <persName>Adler, Morris</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000829">
@@ -134,7 +135,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>         
+<change when="2015-01-11" who="#lkw">added xml:ids</change>     
 <change when="2015-07-06" who="#kln">reviewed; edited</change>
 <change when="2015-03-26" who="#snc">transcribed, encoded</change>
 </revisionDesc>
