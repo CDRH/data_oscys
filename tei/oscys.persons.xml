@@ -6441,7 +6441,8 @@ This file was compiled from information found in
 <persName type="full"> <surname>Kirby</surname>, <forename type="first" full="yes">John</forename> <forename type="middle" full="init">B.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<death notAfter="1829-01-15" source="http://earlywashingtondc.org/doc/oscys.case.0089.002">January 15, 1829</death>
+<!-- <death notAfter="1829-01-15" source="http://earlywashingtondc.org/doc/oscys.case.0089.002">January 15, 1829</death> -->
+<death when="1828" source="http://earlywashingtondc.org/doc/oscys.case.0315.004">1828</death>
 <residence  source="http://earlywashingtondc.org/doc/oscys.case.0206.005">Prince George's County (Md.)</residence>
 <residence  source="http://earlywashingtondc.org/doc/oscys.case.0206.005">Washington County (D.C.)</residence>
 </person>
@@ -8331,16 +8332,19 @@ This file was compiled from information found in
 <persName type="display">Wigle, Sarah</persName>
 <persName type="full"> <surname>Wigle</surname> <addName type="last" subtype="alternate">Vigel</addName>, <forename type="first" full="yes">Sarah</forename></persName>
 <sex>female</sex>
-<trait type="color"><ab></ab></trait>
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0315.004"><ab>negro</ab></trait>
 <residence>Washington County, District of Columbia</residence>
+<socecStatus notAfter="1838" source="http://earlywashingtondc.org/doc/oscys.case.0315.004">enslaved</socecStatus>
+<socecStatus when="1838" source="http://earlywashingtondc.org/doc/oscys.case.0315.004">free</socecStatus>
 </person>
 
 <person xml:id="per.000882" source="http://earlywashingtondc.org/doc/oscys.case.0120.001">
 <persName type="display">Wigle, Elisa</persName>
 <persName type="full"> <surname>Wigle</surname> <addName type="last" subtype="alternate">Vigel</addName>, <forename type="first" full="yes">Elisa</forename> <addName type="first" subtype="alternate">Eliza</addName></persName>
 <sex>female</sex>
-<trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0315.004"><ab>negro</ab></trait>
+<socecStatus notAfter="1842" source="http://earlywashingtondc.org/doc/oscys.case.0315.004">enslaved</socecStatus>
+<socecStatus when="1842" source="http://earlywashingtondc.org/doc/oscys.case.0315.004">free</socecStatus>
 <residence>Washington County, District of Columbia</residence>
 </person>
 
@@ -22784,8 +22788,9 @@ This file was compiled from information found in
 <persName type="display">Vigel, Susan</persName>
 <persName type="full"> <surname>Vigel</surname> <addName>Vigal</addName>, <forename type="first" full="yes">Susan</forename></persName>
 <sex>female</sex>
-<trait type="color"><ab></ab></trait>
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0315.004"><ab>negro</ab></trait>
 <socecStatus>enslaved</socecStatus>
+<age when="1828" source="http://earlywashingtondc.org/doc/oscys.case.0315.004">6 or 8 years old</age>
 </person>
 
 <!-- oscys.case.0315.001 end -->
@@ -22815,7 +22820,7 @@ This file was compiled from information found in
 <person xml:id="per.002377" source="http://earlywashingtondc.org/doc/oscys.case.0315.004">
 <persName type="display">Tolson</persName>
 <persName type="full"> <surname>Tolson</surname></persName>
-<sex></sex>
+<sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
@@ -22824,9 +22829,69 @@ This file was compiled from information found in
 <persName type="full"> <surname>Vigel</surname>, <forename type="first" full="yes">Richard</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
-<socecStatus>free</socecStatus>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.case.0315.004">enslaved</socecStatus>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.case.0315.004">free</socecStatus>
 </person>
+
+<person xml:id="per.002379" source="http://earlywashingtondc.org/doc/oscys.case.0315.004">
+<persName type="display">Naylor</persName>
+<persName type="full"> <surname>Naylor</surname></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<note>First name unknown. Brother of Henry Naylor.</note>
+</person>
+
+<!-- oscys.case.0315.004 start -->
+
+<!-- no file oscys.case.0315.005 -->
+<!-- no unique people oscys.case.0315.006 -->
+<!-- no unique people oscys.case.0315.007 -->
+<!-- no unique people oscys.case.0315.008 -->
+<!-- no unique people oscys.case.0315.009 -->
+<!-- no unique people oscys.case.0315.010 -->
+<!-- no unique people oscys.case.0315.011 -->
+<!-- no unique people oscys.case.0315.012 -->
+<!-- no unique people oscys.case.0315.013 -->
+
+<!-- oscys.case.0316.001 start -->
+
+<person xml:id="per.002380" source="http://earlywashingtondc.org/doc/oscys.case.0316.001">
+<persName type="display">Goolrick, Peter</persName>
+<persName type="full"> <surname>Goolrick</surname>, <forename type="first" full="yes">Peter</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.002381" source="http://earlywashingtondc.org/doc/oscys.case.0316.001">
+<persName type="display">Gracon, Virginia Frances</persName>
+<persName type="full"> <surname>Gracon</surname>, <forename type="first" full="yes">Virginia</forename> <forename type="middle" full="yes">Frances</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.002382" source="http://earlywashingtondc.org/doc/oscys.case.0316.001">
+<persName type="display">Jordan, Caroline Amanda</persName>
+<persName type="full"> <surname>Jordan</surname>, <forename type="first" full="yes">Caroline</forename> <forename type="middle" full="yes">Amanda</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.case.0316.001 end -->
+
+<!-- no unique people oscys.case.0316.002 -->
+<!-- no unique people oscys.case.0316.003 -->
+<!-- no unique people oscys.case.0316.004 -->
+<!-- no unique people oscys.case.0316.005 -->
+<!-- no unique people oscys.case.0316.006 -->
+<!-- no unique people oscys.case.0316.007 -->
+<!-- no unique people oscys.case.0316.008 -->
+<!-- no unique people oscys.case.0316.009 -->
+<!-- no unique people oscys.case.0316.010 -->
+<!-- no unique people oscys.case.0316.011 -->
+
+
+<!-- oscys.case.0317.001 start -->
 
 
 
