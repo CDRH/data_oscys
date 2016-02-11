@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -85,7 +86,7 @@
 <term xml:id="per.000476">Dunlop, James, 1793-</term>
 <term xml:id="per.001217">Selden, William</term>
 <term xml:id="per.000740">Smith, John A.</term>
-<term>Yates, Jane</term>
+<term xml:id="per.002401">Yates, Jane</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -97,20 +98,20 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002402">
 <persName>Proctor, Cynthia Eleanor</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002403">
 <persName>Proctor, Elizabeth Ann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002404">
 <persName>Proctor, Steven Washington</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002405">
 <persName>Dutton, Notley T.</persName>
 </person>
-<person role="attorney_petitioner">
-<persName xml:id="per.001366">Swann, Edward</persName>
+<person role="attorney_petitioner" xml:id="per.001366">
+<persName>Swann, Edward</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -127,6 +128,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2016-02-08" who="#lkw">added xml:ids</change> 
 <change when="2015-07-17" who="#kln">reviewed; edited</change>          
 <change when="2015-04-20" who="#snc">transcribed; encoded</change>
 </revisionDesc>

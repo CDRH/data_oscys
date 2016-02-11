@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -97,25 +98,25 @@
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002452">
 <persName>Eliza</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002453">
 <persName>Emily</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002454">
 <persName>Jane</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002455">
 <persName>John</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002456">
 <persName>Julia</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002457">
 <persName>Lucy</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002458">
 <persName>Cooke, Stephen</persName>
 </person>
 <person role="attorney_petitioner">
@@ -136,6 +137,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-08" who="#lkw">added xml:ids</change> 
 <change when="2015-12-01" who="#kln">reviewed, edited</change>
 <change when="2015-07-24" who="#snc">transcribed, encoded</change>
 </revisionDesc>
