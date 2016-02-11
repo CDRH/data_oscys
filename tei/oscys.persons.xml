@@ -8600,6 +8600,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Henderson</surname>, <forename type="first" full="yes">Richard</forename> <forename type="middle" full="init">H.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation>attorney</occupation>
 </person>
 
 <person xml:id="per.000909" source="http://earlywashingtondc.org/doc/oscys.case.0124.007">
@@ -23580,6 +23581,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Gale</surname>, <forename type="first" full="yes">Lyttleton</forename> <addName type="first" subtype="alternate">Littleton</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.case.0334.004">Cecil County (Md.)</residence>
 </person>
 
 <person xml:id="per.002451" source="http://earlywashingtondc.org/doc/oscys.case.0334.001">
@@ -23620,7 +23622,7 @@ This file was compiled from information found in
 <persName type="display">John</persName>
 <persName type="full"> <forename type="first" full="yes">John</forename></persName>
 <sex></sex>
-<trait type="color"><ab></ab></trait>
+<trait type="color" when="1802-12-31" source="http://earlywashingtondc.org/doc/oscys.case.0334.001"><ab>negro</ab></trait>
 <socecStatus>enslaved</socecStatus>
 <note>Last name unknown.</note>
 </person>
@@ -23662,6 +23664,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Chilton</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation>attorney</occupation>
 </person>
 
 <person xml:id="per.002460" source="http://earlywashingtondc.org/doc/oscys.case.0334.003">
@@ -23685,6 +23688,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Murrey, </surname>, <forename type="first" full="yes">Samuel</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation>justice of the peace</occupation>
 </person>
 
 <person xml:id="per.002463" source="http://earlywashingtondc.org/doc/oscys.case.0334.003">
@@ -23692,7 +23696,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Sim</surname>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<!--first name from 1822 D.C. city directory-->
+<note>First name source is the 1822 D.C. city directory.</note>
 <occupation>doctor</occupation>
 </person>
 
@@ -23719,7 +23723,46 @@ This file was compiled from information found in
 
 <!-- oscys.case.0334.003 end -->
 
+<!-- oscys.case.0334.004 start -->
 
+<person xml:id="per.002467" source="http://earlywashingtondc.org/doc/oscys.case.0334.004">
+<persName type="display">Baker, Jeremiah</persName>
+<persName type="full"> <surname>Baker</surname>, <forename type="first" full="yes">Jeremiah</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.002468" source="http://earlywashingtondc.org/doc/oscys.case.0334.004">
+<persName type="display">Baxter, Joseph</persName>
+<persName type="full"> <surname>Baxter</surname>, <forename type="first" full="yes">Joseph</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.002469" source="http://earlywashingtondc.org/doc/oscys.case.0334.004">
+<persName type="display">Coale, Samuel</persName>
+<persName type="full"> <surname>Coale</surname>, <forename type="first" full="yes">Samuel</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.002470" source="http://earlywashingtondc.org/doc/oscys.case.0334.004">
+<persName type="display">Coale, William</persName>
+<persName type="full"> <surname>Coale</surname>, <forename type="first" full="yes">William</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.002471" source="http://earlywashingtondc.org/doc/oscys.case.0334.004">
+<persName type="display">Reed, Nat</persName>
+<persName type="full"> <surname>Reed</surname>, <forename type="first" full="yes">Nat</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.case.0334.004 end -->
+
+<!-- oscys.case.0334.005 start -->
 
 
 
