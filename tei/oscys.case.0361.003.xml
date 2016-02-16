@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0360.003">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0361.003">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Francis Bowling &amp; Clarissa Gardner v. David Atkins. Complaint in Replevin</title>
+<title>Francis Bowling &amp; Clarissa Gardner v. Edward Simms. Agreement</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Muñoz, Trevor" xml:id="tm">Trevor Muñoz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0360.003</idno>
-<idno type="case">oscys.caseid.0384</idno>
+<idno type="project">oscys.case.0361.003</idno>
+<idno type="case">oscys.caseid.0385</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Complaint in Replevin</title>
+<title level="m" type="main">Agreement</title>
 <date when="1840-12-03">December 3, 1840</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Complaint</term>
+<term>Agreement</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -82,19 +82,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Atkins, David</term> <!--child of David & Matilda Atkins-->
-<term>Atkins, Frances</term> <!--child of David & Matilda Atkins-->
-<term>Atkins, George</term> <!--child of David & Matilda Atkins-->
-<term>Atkins, John William</term> <!--child of David & Matilda Atkins-->
-<term>Atkins, Mary</term> <!--child of David & Matilda Atkins-->
-<term>Atkins, Matilda</term>
+<term xml:id="per.001239">Atkins, Alfred</term>
+<term xml:id="per.001240">Atkins, Margaret Norah</term>
 <term>Doe, John</term>
 <term xml:id="per.001238">Gardner, Richard B.</term>
 <term>Roe, Richard</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Washington County (D.C.)</term>
+<term>Washington County (D.C)</term>
 <term>Washington (D.C)</term>
 </keywords>
 
@@ -108,8 +104,8 @@
 <person role="petitioner" xml:id="per.001242">
 <persName>Gardner, Clarissa B.</persName>
 </person>
-<person role="defendant" xml:id="per.001236">
-<persName>Atkins, David</persName>
+<person role="defendant">
+<persName>Simms, Edward</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000737">
 <persName>Brent, Robert J., 1811-1872</persName>
@@ -117,8 +113,8 @@
 <person role="attorney_petitioner" xml:id="per.000738">
 <persName>Brent, William Leigh, 1784-1848</persName>
 </person>
-<person role="attorney_defendant" xml:id="per.000829">
-<persName>Bradley, Joseph H. (Joseph Habersham), 1802-1887</persName>
+<person role="attorney_defendant">
+<persName/>
 </person>
 
 </listPerson>
@@ -133,7 +129,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="2016-02-08" who="#snc">transcribed; encoded</change>
+<change when="2016-02-16" who="#snc">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -144,7 +140,7 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="oscys.case.0360.003.001.jpg"/>
+<pb xml:id="p001" facs="oscys.case.0361.003.001.jpg"/>
 
 <div2 type="caption">
 
@@ -154,37 +150,37 @@
 
 <div2 type="body">
    
-<p>Daivd Atkins, late of Washington County, free negro, was summoned to answer unto Clarissa Gardiner and Francis Bowling, administrators of Richard B. Gardiner, decd. in a plea wherefore he took the following negroes  vir. David, aged about nine years, Mary, about seven years, George about four years, Francis, about three years, John William, about eight months, and their mother Matilda; of them the said Plaintiff, and unjustly detained them against sureties and pledges, &#38;c. And whereupon the said Plaintiffs, by Brent &#38; Brent, their attornies, complain<del>s</del> that the said Defendant heretofore, to wit, on the first day of <del>day of</del> December <gap/> in the year 1837 at Washington County aforesaid, in a certain place there called Washington City, took the following negroes, vir. David, aged about nine years, Mary, about seven years, George, about four years, Francis, about <del>four</del> three years, John William, about eight months, and their mother Matilda, aforesaid, of them the said Plaintiffs, and unjustly detained it againt sureties and pledges, until &#38;c, whereby the said Plaintiffs say that they are worse, and have damage to the value of two thousand doillars and therefore they bring suit, &#38;c</p>
+<p>Edward Simms, late of Washington County, merchant, was summoned to answer unto Clarissa Gardiner and Francis Bowling, administrators of Richard B. Gardiner, decd. in a plea wherefore he took the following negroes, vir. Margaret Norah, aged about thirteen years, and Alfred, aged about ten years, of them the said Plaintiffs, and unjustly detained them against dureties and pledges &#38;c.</p>
 
-<p>Brent &#38; Brent for Plaintiff</p>
+<p>And whereupon the said Plaintiffs, by Brent &#38; Brent, their attorneys, complain that the said Defendant, heretofore to wit, on the first <gap extent="one word"/> day of December in the year 1837 at Washington County aforesaid, in a certain place there called Washington City, took the negroes, vir. Margaret Norah, aged about thirteen years, and Alfred, aged about ten years, aforesaid, of them the said Plaintiffs, and unjustly detained them against sureties and pledges, until, &#38;c. whereby the said Plaintiffs say that they are the worse, and have damage to the value of fifteen hundred dollars and therefore they bring suit &#38;c.</p>
+
+<p>Brent &#38; Brent for Plaintiffs</p>
+
 <p>John Doe<lb/>
 Richard Roe<lb/>
-Pledges</p>
+pledges</p>
 
 </div2>
 
-<pb xml:id="p002" facs="oscys.case.0360.003.002.jpg"/>
+<pb xml:id="p002" facs="oscys.case.0361.003.002.jpg"/>
 
 <div2 type="back">
 
-<p><del>448. 118.</del> 106.</p>
-<p>Frances Bowlin<lb/>
-Clarissa Gardiner<lb/>
-v<lb/>
-David Atkins</p>
+<p><del>105. 631 447. 117</del> 105.</p>
 
-<p>Trials Nov 1841</p>
-<p>Replevin</p>
+<p>Nov 1841<lb/>
+Francis Bowling<lb/>
+Clarissa Gardner<lb/>
+vs<lb/>
+Edward Sims</p>
 
-<p>This clerk will docket the within case by consent &#38; file nar &#38; agreement<lb/>
+<p>The Clerk will file the within nar &#38; agreement &#38; docket case by consent<lb/>
 Brent &#38; Brent</p>
 
-<p>Rob Dyers <unclear extent="three words"/> Sec of 447<lb/>
-<del extent="five words"/></p>
+<p><del>Enter in for Jas. Thom Underwood</del><lb/>
+<unclear extent="one word"/>N. Dyers <unclear extent="one word"/></p>
 
-<p><del>Thomas <unclear extent="one word"/></del></p>
-<p>Filed 3 Dec 1840.</p>
-
+<p>Filed 3 Dec 1840</p>
 </div2>
 </div1>
     
