@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N" xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -98,41 +99,41 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Ann</persName> <!--sister of Susan-->
+<person role="petitioner" xml:id="per.002603">
+<persName>Ann</persName> 
 </person>
-<person role="petitioner">
-<persName>Bennett</persName> <!--brother of Susan-->
+<person role="petitioner" xml:id="per.002604">
+<persName>Bennett</persName> 
 </person>
-<person role="petitioner">
-<persName>Charity</persName> <!--daughter of Ann-->
+<person role="petitioner" xml:id="per.002605">
+<persName>Charity</persName> 
 </person>
-<person role="petitioner">
-<persName>Eliza</persName> <!--daughter of Ann-->
+<person role="petitioner" xml:id="per.002606">
+<persName>Eliza</persName> 
 </person>
-<person role="petitioner">
-<persName>Frank</persName> <!--brother of Susan-->
+<person role="petitioner" xml:id="per.002607">
+<persName>Frank</persName> 
 </person>
-<person role="petitioner">
-<persName>John</persName> <!--brother of Susan-->
+<person role="petitioner" xml:id="per.002608">
+<persName>John</persName> 
 </person>
-<person role="petitioner">
-<persName>Joyce, Louisa</persName> <!--daughter of Susan-->
+<person role="petitioner" xml:id="per.002609">
+<persName>Joyce, Louisa</persName> 
 </person>
-<person role="petitioner">
-<persName>Joyce, Michael</persName> <!--son of Susan-->
+<person role="petitioner" xml:id="per.002610">
+<persName>Joyce, Michael</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002611">
 <persName>Joyce, Susan</persName>
 </person>
-<person role="petitioner">
-<persName>Peter</persName> <!--son of Rachel-->
+<person role="petitioner" xml:id="per.002612">
+<persName>Peter</persName> 
 </person>
-<person role="petitioner">
-<persName>Polly</persName> <!--daughter of Ann-->
+<person role="petitioner" xml:id="per.002613">
+<persName>Polly</persName> 
 </person>
-<person role="petitioner">
-<persName>Rachael</persName> <!--sister of Susan-->
+<person role="petitioner" xml:id="per.002614">
+<persName>Rachael</persName> 
 </person>
 <person role="defendant" xml:id="per.001464">
 <persName>Carroll, Daniel, 1764-1849</persName>
@@ -155,6 +156,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-18" who="#lkw">added xml:ids</change> 
 <change when="2015-12-11" who="#kln">reviewed, edited</change>
 <change when="2015-11-02" who="#snc">transcribed; encoded</change>
 </revisionDesc>
