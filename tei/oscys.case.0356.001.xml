@@ -10,6 +10,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -94,10 +95,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002615">
 <persName>Arnold</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002616">
 <persName>Thomas, George N.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000001">
@@ -118,6 +119,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-18" who="#lkw">added xml:ids</change> 
 <change when="2015-12-02" who="#snc">transcribed; encoded</change>
 </revisionDesc>
 </teiHeader>
