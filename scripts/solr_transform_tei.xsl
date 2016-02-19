@@ -3,6 +3,17 @@
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 	xmlns:tei="http://www.tei-c.org/ns/1.0"
 	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+	<!-- ================================================ -->
+	<!--                     IMPORTS                      -->
+	<!-- ================================================ -->
+
+	<xsl:import href="../../../scripts/xslt/cdrh_to_solr/lib/common.xsl"/>
+
+	<!-- ================================================ -->
+	<!--                  OUTPUT FORMAT                   -->
+	<!-- ================================================ -->
+
 	<xsl:output indent="yes" omit-xml-declaration="yes"/>
 	
 	<!-- ================================================ -->
@@ -16,12 +27,6 @@
 	<xsl:param name="project" select="/TEI/teiHeader/fileDesc/publicationStmt/authority[1]"/>
 	<xsl:param name="slug"/><!-- will be lassed in from config.yml -->
 	
-	<!-- ================================================ -->
-	<!--                     INCLUDES                     -->
-	<!-- ================================================ -->
-
-	<xsl:include href="../../../scripts/xslt/cdrh_to_solr/lib/common.xsl"/>
-
 	<!-- ================================================ -->
 	<!--                    VARIABLES                     -->
 	<!-- ================================================ -->
@@ -96,7 +101,8 @@
 			<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when">
 				<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"/>
 			</xsl:when>
-			<xsl:otherwise>n.d.</xsl:otherwise>
+			<!-- if neither of these matches, do not show anything -->
+			<xsl:otherwise/>
 		</xsl:choose>
 	</xsl:variable>
 	
@@ -288,17 +294,14 @@
 		<!-- date -->
 				
 		<field name="date">
-			<xsl:choose>
-				<xsl:when test="$doc_date = 'n.d.'">
-					<xsl:value-of select="$doc_date"/>
-				</xsl:when>
-				<xsl:otherwise>
-					<xsl:call-template name="date_standardize">
-						<xsl:with-param name="datebefore"><xsl:value-of select="substring($doc_date,1,10)"/></xsl:with-param>
-					</xsl:call-template>
-					<xsl:text>T00:00:00Z</xsl:text>
-				</xsl:otherwise>
-			</xsl:choose>
+			<xsl:call-template name="date_standardize">
+				<xsl:with-param name="datebefore">
+					<xsl:value-of select="substring($doc_date,1,10)"/>
+				</xsl:with-param>
+			</xsl:call-template>
+			<xsl:if test="not($doc_date = '')">
+				<xsl:text>T00:00:00Z</xsl:text>
+			</xsl:if>
 		</field>
 
 		<!-- dateDisplay -->
@@ -605,6 +608,14 @@
 			<field name="jurisdiction_ss"><xsl:value-of select="normalize-space(.)"/></field>
 		</xsl:for-each>
 		
+		<!-- Claims -->
+
+		<xsl:for-each select="//keywords[@n='claims']/term/text()">
+			<field name="claims_ss">
+				<xsl:value-of select="normalize-space(.)"/>
+			</field>
+		</xsl:for-each>
+
 		<!-- Text -->
 
 		<xsl:if test="$doctype != 'person'">
@@ -883,12 +894,17 @@
 							<xsl:call-template name="JSON_Formatter">
 								<xsl:with-param name="json_label">
 									<xsl:value-of select="/TEI/teiHeader/fileDesc/titleStmt/title[1]"/>
-									<!-- adding the date to the end of the title -->
-									<xsl:text> (</xsl:text>
-									<xsl:call-template name="extractDate">
-										<xsl:with-param name="date" select="$doc_date"/>
-									</xsl:call-template>
-									<xsl:text>)</xsl:text>
+									<xsl:variable name="rel_doc_date">
+										<xsl:call-template name="extractDate">
+											<xsl:with-param name="date" select="$doc_date"/>
+										</xsl:call-template>
+									</xsl:variable>
+									<xsl:if test="not($rel_doc_date = '')">
+										<!-- adding the date to the end of the title -->
+										<xsl:text> (</xsl:text>
+											<xsl:value-of select="$rel_doc_date"/>
+										<xsl:text>)</xsl:text>
+									</xsl:if>
 								</xsl:with-param>
 								<xsl:with-param name="json_id">
 									<xsl:value-of select="/TEI/@xml:id"/>
@@ -1386,6 +1402,39 @@
 			</xsl:when>
 			<xsl:otherwise><xsl:value-of select="$s"/></xsl:otherwise>
 		</xsl:choose>
+	</xsl:template>
+
+	<!-- ================================================ -->
+	<!--               COMMON.XSL OVERRIDE                -->
+	<!-- ================================================ -->
+
+	<xsl:template name="extractDate">
+    <xsl:param name="date" />
+    <!--This template converts a date from format YYYY-MM-DD to mm D, YYYY (MM, MM-DD, optional)-->
+    
+    <xsl:variable name="YYYY" select="substring($date,1,4)" />
+    <xsl:variable name="MM" select="substring($date,6,2)" />
+    <xsl:variable name="DD" select="substring($date,9,2)" />
+
+    <xsl:choose>
+        <xsl:when test="matches($date, '([A-Za-z])')"><!-- if date contains a letter, show as is. todo fix date handling -->
+            
+            <xsl:value-of select="$date"/>
+        </xsl:when>
+        <xsl:when test="($DD != '') and ($MM != '') and ($DD != '')">
+            <xsl:call-template name="lookUpMonth"><xsl:with-param name="numValue" select="$MM" /></xsl:call-template><xsl:text> </xsl:text> <xsl:number format="1" value="$DD" />, <xsl:value-of select="$YYYY" />
+        </xsl:when>
+        <xsl:when test="($YYYY != '') and ($MM != '')">
+            <xsl:call-template name="lookUpMonth"><xsl:with-param name="numValue" select="$MM" /></xsl:call-template>, <xsl:value-of select="$YYYY" />
+        </xsl:when>
+        <xsl:when test="($DD != '') and ($MM != '')">
+            <xsl:call-template name="lookUpMonth"><xsl:with-param name="numValue" select="$MM" /></xsl:call-template>, <xsl:value-of select="$YYYY" />
+        </xsl:when>
+        <xsl:when test="($YYYY != '')">
+            <xsl:value-of select="$YYYY" />
+        </xsl:when>
+        <xsl:otherwise/>
+	    </xsl:choose>
 	</xsl:template>
 
 </xsl:stylesheet>
