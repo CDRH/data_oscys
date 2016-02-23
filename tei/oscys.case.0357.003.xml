@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -83,9 +84,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">  
+<term xml:id="per.002617">Ballard, Rice C. (Rice Carter), -1860</term>
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
-<term>Legge</term>
-<term>Marlborough, John</term>
+<term xml:id="per.002621">Legge</term>
+<term xml:id="per.002622">Marlborough, John</term>
 <term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
 </keywords>
 
@@ -97,10 +99,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002619">
 <persName>Daniel</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002620">
 <persName>Kincheloe, Ann</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000001">
@@ -121,6 +123,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-22" who="#lkw">added xml:ids; added Ballard to people</change>
 <change when="2016-02-12" who="#kln">reviewed; edited</change>
 <change when="2015-12-04" who="#snc">transcribed; encoded</change>
 </revisionDesc>

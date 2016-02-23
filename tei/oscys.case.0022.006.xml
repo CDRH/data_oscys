@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -83,16 +84,16 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bobadil</term>
-<term>Carr, Overton</term>
-<term>Frost, J. T.</term>
-<term>Jack</term>
+<term xml:id="per.002645">Bobadil</term>
+<term xml:id="per.002640">Carr, Overton, Sr.</term> 
+<term xml:id="per.002646">Frost, J. T.</term>
+<term xml:id="per.002647">Jack</term>
 <term xml:id="per.000023">Law, John</term>
-<term>Letty</term>
+<term xml:id="per.002648">Letty</term>
 <term xml:id="per.000128">Magruder, John Read</term>
-<term>Michael</term>
-<term>Nancy</term>
-<term>Patience</term>
+<term xml:id="per.002643">Michael</term>
+<term xml:id="per.002644">Nancy</term>
+<term xml:id="per.002649">Patience</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -131,6 +132,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-23" who="#lkw">added xml:ids</change>
 <change when="2015-09-24" who="#kln">reviewed; encoded</change>
 <change when="2015-07-22" who="#snc">transcribed, encoded</change>
 </revisionDesc>
