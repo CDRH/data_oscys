@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,20 +87,19 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Barnes, John</term> 
-<term>Clarke, Daniel</term>
-<term>Davis, Thomas A.</term>
-<term>Gantt, John Mackall</term>
-<term>Hagan, Henry</term>
-<term>Harris, Thomas, Jr.</term>
-<term>Johnson, Alexander</term>
-<term>Key, Edmund</term>
-<term>Neale, Charles</term>
-<term>Neale, James</term>
+<term xml:id="per.001952">Barnes, John</term>
+<term xml:id="per.002651">Clarke, Daniel</term>
+<term xml:id="per.002652">Davis, Thomas A.</term>
+<term xml:id="per.002653">Gantt, John Mackall, 1762-1811</term>
+<term xml:id="per.002654">Hagan, Henry</term>
+<term xml:id="per.002655">Harris, Thomas, Jr.</term>
+<term xml:id="per.002656">Johnson, Alexander</term>
+<term xml:id="per.002657">Key, Edmund</term>
+<term xml:id="per.002658">Neale, Charles</term>
+<term xml:id="per.001965">Neale, James</term>
 <term xml:id="per.000068">Queen, Mary</term>
-<term>Queen, Nancy</term>
-<term>Queen, Stephen</term>
-<term>Sanders, Henrietta</term>
+<term xml:id="per.002659">Queen, Nancy</term>
+<term xml:id="per.002660">Queen, Stephen</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -115,22 +115,22 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002661">
 <persName>Queen, Moses</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002662">
 <persName>Sanders, Henrietta</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002663">
 <persName>Causin, Gerard N.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000001">
 <persName>Key, Francis Scott, 1779-1843</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002664">
 <persName>Stone, Robert C.</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.001953">
 <persName>Chapman, Henry Henley, 1764-1821</persName>
 </person>
 </listPerson>
@@ -145,6 +145,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2016-02-24" who="#lkw">added xml:ids; deleted Henrietta Sanders from people</change> 
 <change when="2015-07-22" who="#kln">reviewed; edited</change>         
 <change when="2015-05-22" who="#ea">updated encoding</change>
 <change when="2013-04-30" who="#kln">added attorneys to header</change>
@@ -215,7 +216,7 @@ G. N. C.</p>
 
 <p>Sumd Thos A. Davis Shff</p>
 
-<p>And the said Henrietta Sanders by Henry Henley Chapman her attorney comes and defends the Complaint aforesaid, when and where the said Court shall take the same into consideration. Whereupon it is ordered by the Court here that the said Henrietta Sanders enter into recognizance with one security</p>
+<p>And the said Henrietta Sanders by Henry Henley Chapman her attorney comes and defends the Complaint aforesaid, when and where the said Court shall take the same into consideration. Whereupon it is ordered by the Court here that the said Henrietta Sanders enter into recognizance with one security
 
 
 <pb xml:id="p003" facs="oscys.mdcase.0003.001.003.jpg"/>
@@ -224,7 +225,7 @@ G. N. C.</p>
 
 <fw>December Term 1810</fw>
             
-<p>in the sum of one hundred and fifty pounds current money not to remove out of Charles County the aforesaid Moses Queen nor obstruct him from attending the Court from time to time in support of his petition for freedom preferred against her and in the mean time to feed clothe and use the said Petitioner well. Thereupon the said Henrietta Sanders and a certain James Neale of Bennet present here in Court jointly and severally acknowledge themselves to owe and stand justly indebted to the State of Maryland in the sum of one hundred and fifty pounds current money to be levied of their bodies goods and chattels Lands and Tenements to and for the use of the said State. Conditioned that the aforesaid Henrietta Sanders do not remove out of Charles County Moses Queen the petitioner aforesaid nor obstruct him from attending this Court from time to time in support of his petition for freedom preferred against her and in the mean time to feed, clothe and use the said Petitioner well and the said Moses Queen by his attornies aforesaid files in Court here the following affidavit to wit.</p>
+in the sum of one hundred and fifty pounds current money not to remove out of Charles County the aforesaid Moses Queen nor obstruct him from attending the Court from time to time in support of his petition for freedom preferred against her and in the mean time to feed clothe and use the said Petitioner well. Thereupon the said Henrietta Sanders and a certain James Neale of Bennet present here in Court jointly and severally acknowledge themselves to owe and stand justly indebted to the State of Maryland in the sum of one hundred and fifty pounds current money to be levied of their bodies goods and chattels Lands and Tenements to and for the use of the said State. Conditioned that the aforesaid Henrietta Sanders do not remove out of Charles County Moses Queen the petitioner aforesaid nor obstruct him from attending this Court from time to time in support of his petition for freedom preferred against her and in the mean time to feed, clothe and use the said Petitioner well and the said Moses Queen by his attornies aforesaid files in Court here the following affidavit to wit.</p>
 
 <p>Moses Queen<lb/>
 vs<lb/>
@@ -259,7 +260,7 @@ Revd. Charles Neale</p>
 
 <p>And the said Henrietta Sanders by her attorney aforesaid prays leave of the Court here to imparle until the third monday in August next and she hath it the same day is given to the said Moses Queen also.</p>
 
-<p>At which said third monday in August being the 21st day of the said month in the year of our Lord one thousand eight hundred and nine Comes again into the County Court here</p>
+<p>At which said third monday in August being the 21st day of the said month in the year of our Lord one thousand eight hundred and nine Comes again into the County Court here
 
 <pb xml:id="p004" facs="oscys.mdcase.0003.001.004.jpg"/>
 
@@ -267,7 +268,7 @@ Revd. Charles Neale</p>
 
 <fw>December Term 1810</fw>
                 
-<p>as well the said Moses Queen by his attornies aforesaid as the said Henrietta Sanders by her attorney aforesaid and the said Henrietta Sanders by her said attorney as before defends the Complaint aforesaid when and where the said Court shall take the same into consideration and prays further leave thereof to imparle until the third monday in March next and he hath it the same day is given to the said Moses Queen also. At which said third monday in March being the 19th day of the said month in the year of our Lord one thousand eight hundred and ten. Comes again into the County Court here as well the said Moses Queen but his attornies aforesaid as the said Henrietta Sanders by her attorney aforesaid Thereupon further process of and upon the premises aforesaid between the parties aforesaid by consent of the said parties and their attornies aforesaid and by order of the Court here thereon is further contained until the third monday in August next.</p>
+as well the said Moses Queen by his attornies aforesaid as the said Henrietta Sanders by her attorney aforesaid and the said Henrietta Sanders by her said attorney as before defends the Complaint aforesaid when and where the said Court shall take the same into consideration and prays further leave thereof to imparle until the third monday in March next and he hath it the same day is given to the said Moses Queen also. At which said third monday in March being the 19th day of the said month in the year of our Lord one thousand eight hundred and ten. Comes again into the County Court here as well the said Moses Queen but his attornies aforesaid as the said Henrietta Sanders by her attorney aforesaid Thereupon further process of and upon the premises aforesaid between the parties aforesaid by consent of the said parties and their attornies aforesaid and by order of the Court here thereon is further contained until the third monday in August next.</p>
                 
 <p>And now here at this day towit the third monday in August being the 20th day of the same month in the year of our Lord one thousand eight hundred and ten comes again into the County Court here the said Henrietta Sanders by her attorney aforesaid; Whereupon the said Moses Queen although solemnly called comes not nor doth he further prosecute his petition aforesaid against the said Henrietta Sanders in the plea aforesaid Whereupon it is ordered by the Court here that the petition aforesaid be dismissed. And the said Moses Queen by his attornies aforesaid prays an appeal from the decision aforesaid to the High Court of Appeals of the State of Maryland and it is granted him; It is therefore ordered by the Court here that the record and proceedings in the plea aforesaid with all things there unto relating be transmitted to the said High Court of Appeals and the same are transmitted to the said Court accordingly.</p>
                 
