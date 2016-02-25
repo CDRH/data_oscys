@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0007.010">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>David Queen v. Sylvester Boarman. Summons of Sylvester Boarman</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0007.010</idno>
+<idno type="case">oscys.caseid.0387</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Summons of Sylvester Boarman</title>
+<date when="1794-08-28">August 28, 1794</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Historical Society of Harford County, Md.</repository>
+<collection/>
+<idno/>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Summons</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term/>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Gibson, John Lee</term>
+<term>Preston, Benjamin</term>
+<term>Seney, Joshua</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Harford County (Md.)</term>
+<term>Bel Air (Md.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Queen, David</persName>
+</person>
+<person role="defendant">
+<persName>Boarman, Sylvester</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Pinkney, William</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Maryland. County Court (Harford County)</orgName>
+<placeName>Bel Air (Md.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>  
+<change when="2016-02-15" who="#kln">reviewed, edited</change>
+<change when="2016-02-10" who="#smb">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.mdcase.0007.010.001.jpg"/>
+
+<div2 type="caption">
+
+<p>Harford County<lb/>
+To Wit</p>
+
+<p>State of Maryland<lb/>
+To the Sherriff of Harford county Greeting</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>You are hereby commanded to Summon Sylvester Boarman, that he be and appear in his proper person before the Justices of Harford County Court at the Courthouse in Belleair in the same County on the second Monday in March next to Answer unto David Queen on a petition for freedom by him exhibited to the said Court and this you are not to Omit at your peril</p>
+
+<p>Witness the Honble. Joshua Seney Esquire Chief Justice of our said Court the 16th day of August Anno Domini 1794</p> 
+
+<p>Issued the 28th day of August 1794</p>
+
+<p>John Lee Gibson Clk</p>    
+     
+</div2>
+
+<pb xml:id="p002" facs="oscys.mdcase.0007.010.002.jpg"/>
+
+<div2 type="back">
+
+<p>16</p>
+
+<p>David Queen<lb/>
+vs<lb/>
+Sylvester Boarman</p>
+
+<p>Subpa. and Petition for freedom</p>
+
+<p>Summond<lb/>
+Ben: Preston<lb/>
+Shff</p> 
+
+<p>WP</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
