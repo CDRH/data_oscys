@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0007.007"> 
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ann Queen v. Sylvester Boarman. Petition for Freedom</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0007.007</idno>
+<idno type="case">oscys.caseid.0386</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petition for Freedom</title>
+<date when="1794-08-16">August 16, 1794</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Historical Society of Harford County, Md.</repository>
+<collection/>
+<idno/>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Petition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term/>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term>Gibson, John Lee</term>
+<term>Queen, Henny</term>
+<term xml:id="per.000068">Queen, Mary</term>
+<term xml:id="per.000066">Cooper, Nanny</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Harford County (Md.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Queen, Ann</persName>
+</person>
+<person role="defendant">
+<persName>Boarman, Sylvester</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Johnson, John</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Maryland. County Court (Harford County)</orgName>
+<placeName>Bel Air (Md.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>  
+<change when="2016-02-15" who="#kln">reviewed; edited</change>
+<change when="2016-02-10" who="#smb">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.mdcase.0007.007.001.jpg"/>
+
+<div2 type="caption">
+
+<p>To the Honble the Chief Justice and Associates<lb/> 
+of Harford County Court.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>The Petition of Nanny alias Ann Queen <del>respectfu</del> a black woman respectfully sheweth That your Petitioner is descended from a free woman named Mary Queen. Your Petitioner being the Daughter of Henny, who was the Daughter of Nanny who was the Daughter of Mary Queen. That your Petitioner, altho entitled to Freedom, is unjustly &amp; unlawfully held in Slavery &amp; Bondage by the reverend Sylvester Boarman of Harford County. He therefore prays, that Subp&#339;na in the ususal form may issue for the said Sylvester Boarman to answer the premisses, &amp; that your Petitioner may be adjudged free &amp; have such other &amp; further Relief as the Nature of her Case requires &amp; she will pray &amp;c.</p>
+
+<p>Wm Pinkney</p>
+
+</div2>
+
+<pb xml:id="p002" facs="oscys.mdcase.0007.007.002.jpg"/>
+
+<div2 type="back">
+
+<p>Nanny alias Ann Queen<lb/>
+agt.<lb/>
+S. Boarman</p>
+
+<p>Pet: for freedom</p>
+
+<p>Mr. Gibson will please to file &amp; issue Subpa as prayed<lb/>
+WP</p>
+
+<p>filed 16th Augst 1794</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
