@@ -88,39 +88,40 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000215">Ashton, John</term>
-<term>Barm, Thomas</term>
+<term xml:id="per.002679">Barm, Thomas</term>
+<term xml:id="per.001951">Barnes, Henry</term>
 <term xml:id="per.001952">Barnes, John</term>
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
 <term xml:id="per.000065">Carroll, James</term>
-<term>Chapman, George</term>
-<term>Cottrell, Burford</term>
-<term>Duckett, Thomas</term>
+<term xml:id="per.002435">Chapman, George</term>
+<term xml:id="per.001953">Chapman, Henry Henley, 1764-1821</term>
+<term xml:id="per.002680">Cottrell, Burford</term>
+<term xml:id="per.001488">Duckett, Thomas</term>
 <term xml:id="per.000067">Duvall, Benjamin</term>
 <term xml:id="per.000062">Duvall, Marsh Mareen</term>
-<term>Fenwick, James</term>
-<term>Gibbons, Walter D.</term>
-<term>Green, Joseph</term>
-<term>Harrison, Thomas</term>
-<term>Henderson</term>
-<term>John</term>
-<term xml:id="per.000183">Kilty, William, 1757-1821</term>
-<term>Lancaster, Francis</term>
+<term xml:id="per.001957">Fenwick, James</term>
+<term xml:id="per.001958">Gibbons, Walter D.</term>
+<term xml:id="per.001959">Green, Joseph</term>
+<term xml:id="per.002681">Harrison, Thomas</term>
+<term xml:id="per.002682">Henderson</term>
+<term xml:id="per.002683">John</term>
+<term xml:id="per.001960">Lancaster, Francis</term>
 <term xml:id="per.000128">Magruder, John Read, Jr.</term>
-<term>Mankin, Charles</term>
-<term>Mason, Richard</term>
-<term>McPherson, John</term>
-<term>McPherson, William, Jr.</term>
-<term>Middleton, Ignatius</term>
-<term>Murdock</term>
-<term>Neale, James</term>
+<term xml:id="per.001961">Mankin, Charles</term>
+<term xml:id="per.002684">Mason, Richard</term>
+<term xml:id="per.002685">McPherson, John</term>
+<term xml:id="per.002686">McPherson, William, Jr.</term>
+<term xml:id="per.002687">Middleton, Ignatius</term>
+<term xml:id="per.002688">Murdock</term>
+<term xml:id="per.001965">Neale, James</term>
 <term xml:id="per.000068">Queen, Mary</term>
 <term xml:id="per.001476">Queen, Phillis</term>
-<term>Queen, Ralph</term>
-<term>Sarah</term>
-<term>Simms, James</term>
+<term xml:id="per.002689">Queen, Ralph</term>
+<term xml:id="per.002690">Sarah</term>
+<term xml:id="per.002691">Simms, James</term>
 <term xml:id="per.001532">Stone, Michael Jenifer, 1747-1812</term>
-<term>Tom</term>
-<term>Turner, John B.</term>
+<term xml:id="per.002692">Tom</term>
+<term xml:id="per.001969">Turner, John B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -138,28 +139,22 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002659">
 <persName>Queen, Nancy</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002693">
 <persName>Sewall, Charles</persName>
 </person>
-<person role="attorney_petitioner">
-<persName>Barnes, Henry</persName>
-</person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.001947">
 <persName>Buchanan, Thomas</persName>
 </person>
-<person role="attorney_petitioner">
-<persName>Chapman, Henry Henley, 1764-1821</persName>
-</person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.001956">
 <persName>Digges, Francis</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.001973">
 <persName>Dorsey, Walter</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.000183">
 <persName>Kilty, William, 1757-1821</persName>
 </person>
 </listPerson>
@@ -174,7 +169,7 @@
 </profileDesc>
         
 <revisionDesc>  
-<change when="2016-02-24" who="#lkw">added xml:ids</change> 
+<change when="2016-02-24" who="#lkw">added xml:ids; removed William Kilty from people and moved Henry Barnes and Henry Chapman from attorneys for the petitioner to people; encoding</change> 
 <change when="2015-07-22" who="#kln">reviewed; edited</change>            
 <change when="2015-05-22" who="#ea">updated encoding</change>
 <change when="2014-01-16" who="#kln">added middle initial to Stone</change>
@@ -212,7 +207,7 @@ Revd Charles Sewall</p>
 
 <div2 type="body">
 
-<p>Be it remembered that on the 7th day of June Anno Domini 1794 Nancy Queen by Thomas Buchanan her attorney</p>    
+<p>Be it remembered that on the 7th day of June Anno Domini 1794 Nancy Queen by Thomas Buchanan her attorney    
      
 
 <pb xml:id="p002" facs="oscys.mdcase.0005.001.002.jpg"/>
@@ -221,7 +216,7 @@ Revd Charles Sewall</p>
 
 <fw>August Term 1796</fw>
 
-<p>exhibited to the Justices of the Court here her Petition for freedom against the Reverend Charles Sewall in the words following to wit "To the Honble the Justices of Charles County Court.</p>
+exhibited to the Justices of the Court here her Petition for freedom against the Reverend Charles Sewall in the words following to wit "To the Honble the Justices of Charles County Court.</p>
 
 <p>The Petition of Nancy Queen humbly sheweth that your Petitioner is entitled to her freedom being the Descendant of <del>of</del> a free Woman named Mary Queen and is unjustly held in slavery by the Revd. Mr. Charles Sewall of Charles County aforesaid. She therefore prays your Honors to take her case into Consideration and release her from such unlawful servitude and she will pray &amp;c</p>
 
@@ -231,7 +226,7 @@ Revd Charles Sewall</p>
 
 <p>Issued the 1st June 1794. (T. Buchanan) Jn B Turner Clk</p>
 
-<p>At which said third Monday in August being the day of the return of the aforegoing writ comes into the Court here the said</p>
+<p>At which said third Monday in August being the day of the return of the aforegoing writ comes into the Court here the said
 
 <pb xml:id="p003" facs="oscys.mdcase.0005.001.003.jpg"/>
 
@@ -239,11 +234,11 @@ Revd Charles Sewall</p>
 
 <fw>August Term 1796</fw>
 
-<p>Nancy Queen by her attorney aforesaid and the Sheriff of Charles County to whom the same writ was made and directed likewise comes and makes return thereof to the Court here thus endorsed, to wit. "Summd James Simms Shff" And the said Charles Sewall by Francis Digges and Walter Dorsey his attorneys comes and defends the Complaint aforesaid when and where the said Court shall take the same into consideration, Whereupon it is ordered by the Court here that the said Charles Sewall enter into Recognizance in the sum of one hundred pounds current Money not to remove out of Charles County the aforesaid Nancy Queen nor obstruct her from attending this Court from time to time in support of her Petition for freedom preferred against him, and in the mean time to feed, clothe and use the said Petitioner well. Thereupon a certain William Chandler Brent of Charles County present here in Court acknowledges himself to owe and stand justly indebted to the State of Maryland in the sum of one hundred pounds current Money to be levied of his body goods and Chattels lands and Tenements to and for the use of the said State, conditioned that the aforesaid Charles Sewell doth not remove out of Charles County Nancy Queen the petitioner aforesaid nor obstruct her from attending this court from time to time in support of her petition for freedom preferred against him and in the mean time to feed <del>her</del> clothe and use the said Petitioner well&#8212; And the said Charles Sewall by his attornies aforesaid prays leave of the Court here to imparle until next Court and he hath it and the same day is given to the said Nancy Queen also.</p>
+Nancy Queen by her attorney aforesaid and the Sheriff of Charles County to whom the same writ was made and directed likewise comes and makes return thereof to the Court here thus endorsed, to wit. "Summd James Simms Shff" And the said Charles Sewall by Francis Digges and Walter Dorsey his attorneys comes and defends the Complaint aforesaid when and where the said Court shall take the same into consideration, Whereupon it is ordered by the Court here that the said Charles Sewall enter into Recognizance in the sum of one hundred pounds current Money not to remove out of Charles County the aforesaid Nancy Queen nor obstruct her from attending this Court from time to time in support of her Petition for freedom preferred against him, and in the mean time to feed, clothe and use the said Petitioner well. Thereupon a certain William Chandler Brent of Charles County present here in Court acknowledges himself to owe and stand justly indebted to the State of Maryland in the sum of one hundred pounds current Money to be levied of his body goods and Chattels lands and Tenements to and for the use of the said State, conditioned that the aforesaid Charles Sewell doth not remove out of Charles County Nancy Queen the petitioner aforesaid nor obstruct her from attending this court from time to time in support of her petition for freedom preferred against him and in the mean time to feed <del>her</del> clothe and use the said Petitioner well&#8212; And the said Charles Sewall by his attornies aforesaid prays leave of the Court here to imparle until next Court and he hath it and the same day is given to the said Nancy Queen also.</p>
 
 <p>At which said next Court to wit The third Monday in March Anno Domini Seventeen hundred and ninety five come again the parties aforesaid by their attornies aforesaid, and the said Charles Sewall by his said attornies as before Defends the complaint aforesaid when and where the said Court shall take the same into Consideration and prays further leave thereof to imparle until next Court and he hath it and the same day is given to the said Nancy Queen also.</p>
 
-<p>At which said next Court to wit the third Monday in August Anno Domini Seventeen hundred and ninety five come again the parties aforesaid by their attornies aforesaid</p>
+<p>At which said next Court to wit the third Monday in August Anno Domini Seventeen hundred and ninety five come again the parties aforesaid by their attornies aforesaid
 
 <pb xml:id="p004" facs="oscys.mdcase.0005.001.004.jpg"/>
 
@@ -251,11 +246,11 @@ Revd Charles Sewall</p>
 
 <fw>August Term 1796</fw>
              
-<p>and the said Charles Sewall by his said attornies as before defends the Complaint aforesaid when and where the same Court Shall take the same into consideration whereupon this cause is by order of the Court here and by and with the consent of Parties continued until next Court.</p>
+and the said Charles Sewall by his said attornies as before defends the Complaint aforesaid when and where the same Court Shall take the same into consideration whereupon this cause is by order of the Court here and by and with the consent of Parties continued until next Court.</p>
 
 <p>At which said next Court to wit- The third monday in March Anno Domini Seventeen hundred and ninety six come again the parties aforesaid by their attornies aforesaid and the said Charles Sewell by his said attornies as before Defends the complaint aforesaid when and where the same Court Shall take the same into consideration. Whereupon this cause is by order of the court here and by and with the consent of parties continued until next Court.</p>
 
-<p>At which said next Court towit. The third monday in August Anno Domini Seventeen hundred and ninety six comes again as well the said Nancy Queen by her attorney aforesaid as the said Charles Sewall by Francis Digges Walter Dorsey and William Kilty his attornies, and the said Charles Sewall by his said attornies as before defends the . . . . . Complaint aforesaid when and where the said Court shall take the same into Consideration and admitting that the said Nancy Queen descended from Mary Queen mentioned in the said Petition, says that the said Mary Queen the great grand Mother of the petitioner from whom by descent the petitioner claims her freedom always was a slave and this the said Charles is ready to verify with at that, that the said Mary was free as alledged by the said petition. And the said Nancy by her attorney aforesaid saith that the said Mary Queen was not a slave at the time of the birth of the issue of Mary Queen from whom the said Nancy is descended as the said Charles above in pleading hath alledged, and this the said Nancy prays may be inquired of by the Country andsoforth, and the said Charles doth the like &amp;c. Whereupon for trying the issue aforesaid between the parties aforesaid above joined to be tryed by the country command is given to the Sheriff of Charles County that he cause to come beore the Justices of our County Court here immediately twelve &amp;c by whom &amp;c and who neither &amp;c to recognize &amp;c because as well &amp;c and afterwards to wit. on the same third monday in August aforesaid the Sheriff of Charles County</p>
+<p>At which said next Court towit. The third monday in August Anno Domini Seventeen hundred and ninety six comes again as well the said Nancy Queen by her attorney aforesaid as the said Charles Sewall by Francis Digges Walter Dorsey and William Kilty his attornies, and the said Charles Sewall by his said attornies as before defends the . . . . . Complaint aforesaid when and where the said Court shall take the same into Consideration and admitting that the said Nancy Queen descended from Mary Queen mentioned in the said Petition, says that the said Mary Queen the great grand Mother of the petitioner from whom by descent the petitioner claims her freedom always was a slave and this the said Charles is ready to verify with at that, that the said Mary was free as alledged by the said petition. And the said Nancy by her attorney aforesaid saith that the said Mary Queen was not a slave at the time of the birth of the issue of Mary Queen from whom the said Nancy is descended as the said Charles above in pleading hath alledged, and this the said Nancy prays may be inquired of by the Country andsoforth, and the said Charles doth the like &amp;c. Whereupon for trying the issue aforesaid between the parties aforesaid above joined to be tryed by the country command is given to the Sheriff of Charles County that he cause to come beore the Justices of our County Court here immediately twelve &amp;c by whom &amp;c and who neither &amp;c to recognize &amp;c because as well &amp;c and afterwards to wit. on the same third monday in August aforesaid the Sheriff of Charles County
 
 <pb xml:id="p005" facs="oscys.mdcase.0005.001.005.jpg"/>
 
@@ -263,7 +258,7 @@ Revd Charles Sewall</p>
 
 <fw>August Term 1796</fw>
 
-<p>to wit. Joseph Green Esquire to whom the aforegoing precept was made and directed makes return thereof to the Court here that he has here ready twelve &amp;c as he the said Sheriff was commanded to wit, Walter D. Gibbons, Charles Mankin, Francis Lancaster, Thomas Harrison, James Fenwick, George Chapman, Richard Mason, Ignatius Middleton, James Neale, John McPherson, Burford Cottrell, and William McPherson Junior, who being duly empannelled elected tried and sworn to say the truth in the premises upon their oath do say, that the said Mary Queen the great grand mother of the Petitioner from whom by descent the petitioner claims her freedom always was a slave as the said Charles Sewall by his plea aforesaid above hath alledged. Therefore it is adjudged by the Justices of the Court here that the said Nancy Queen is not entitled to her freedom, so as aforesaid by the Jurors aforesaid found and that the said Nancy Queen the petitioner return to the service of her master the aforesaid
+to wit. Joseph Green Esquire to whom the aforegoing precept was made and directed makes return thereof to the Court here that he has here ready twelve &amp;c as he the said Sheriff was commanded to wit, Walter D. Gibbons, Charles Mankin, Francis Lancaster, Thomas Harrison, James Fenwick, George Chapman, Richard Mason, Ignatius Middleton, James Neale, John McPherson, Burford Cottrell, and William McPherson Junior, who being duly empannelled elected tried and sworn to say the truth in the premises upon their oath do say, that the said Mary Queen the great grand mother of the Petitioner from whom by descent the petitioner claims her freedom always was a slave as the said Charles Sewall by his plea aforesaid above hath alledged. Therefore it is adjudged by the Justices of the Court here that the said Nancy Queen is not entitled to her freedom, so as aforesaid by the Jurors aforesaid found and that the said Nancy Queen the petitioner return to the service of her master the aforesaid
 Charles Sewall and in the service of her said master to remain &amp;c and that the said Charles Sewall of the Petition and premises aforesaid go thereof without day &amp;c.</p>
 
 <p>Memorandum it is agreed by the parties aforesaid Plaintiff and Defendant respectively to release all Errors that may appear in the pleadings in this cause.</p>
@@ -346,7 +341,7 @@ to this deponents fathers than that at Fingal which is about ten or twelve miles
 <p>Sworn to this 13th day of September 1794.<lb/>
 Before Thos Duckett associate J</p>
 
-<p>In Testimony, that the aforegoing is a true copy from ninety five</p>
+<p>In Testimony, that the aforegoing is a true copy from ninety five
 
 
 <pb xml:id="p011" facs="oscys.mdcase.0005.001.011.jpg"/>
@@ -355,7 +350,7 @@ Before Thos Duckett associate J</p>
 
 <fw>August Term 1796</fw>
   
-<p>filed in a petition for freedom depending in Prince George's County Court between Phillis Queen and John Ashton.</p>
+filed in a petition for freedom depending in Prince George's County Court between Phillis Queen and John Ashton.</p>
   
 <p>I have hereto set my Hand and affixed the seal of my office this twenty third day of September 1795.<lb/>
 John Read Magruder Junr. Clk of Prince Georges County Court</p>

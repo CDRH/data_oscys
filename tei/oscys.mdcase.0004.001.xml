@@ -88,30 +88,29 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.001952">Barnes, John</term>
-<term>Brightwill, Richard</term>
-<term>Burch, Augustine</term>
-<term>Clarke, Daniel</term>
-<term>Davis, Thomas A.</term>
-<term>Digges, John</term>
-<term>Gantt, John Mackall</term>
-<term>Hagan, Henry</term>
-<term>Harris, Thomas, Jr.</term>
-<term>Hawkins, Samuel</term>
-<term>Johnson, Alexander</term>
-<term>Key, Edmund</term>
-<term>Mudd, Massom</term>
-<term>Nelson, Frederick</term>
-<term>Norriss, Daniel</term>
-<term>Posey, Lawrence</term>
+<term xml:id="per.002665">Brightwill, Richard</term>
+<term xml:id="per.002666">Burch, Augustine</term>
+<term xml:id="per.002651">Clarke, Daniel</term>
+<term xml:id="per.002652">Davis, Thomas A.</term>
+<term xml:id="per.002667">Digges, John</term>
+<term xml:id="per.002653">Gantt, John Mackall, 1762-1811</term>
+<term xml:id="per.002654">Hagan, Henry</term>
+<term xml:id="per.002655">Harris, Thomas, Jr.</term>
+<term xml:id="per.002668">Hawkins, Samuel</term>
+<term xml:id="per.002656">Johnson, Alexander</term>
+<term xml:id="per.002657">Key, Edmund</term>
+<term xml:id="per.002669">Mudd, Massom</term>
+<term xml:id="per.002670">Nelson, Frederick</term>
+<term xml:id="per.002671">Norriss, Daniel</term>
+<term xml:id="per.002672">Posey, Lawrence</term>
 <term xml:id="per.000068">Queen, Mary</term>
-<term>Queen, Moses</term>
-<term>Queen, Nancy</term>
-<term>Queen, Stephen</term>
-<term>Rogerson, Thomas</term>
-<term>Sanders, Henrietta</term>
-<term>Vincent, William</term>
-<term>Wills, John B., Jr.</term>
-<term>Yates, Henry S.</term>
+<term xml:id="per.002661">Queen, Moses</term>
+<term xml:id="per.002660">Queen, Stephen</term>
+<term xml:id="per.002673">Rogerson, Thomas</term>
+<term xml:id="per.002662">Sanders, Henrietta</term>
+<term xml:id="per.002674">Vincent, William</term>
+<term xml:id="per.002675">Wills, John B., Jr.</term>
+<term xml:id="per.002676">Yates, Henry S.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -127,25 +126,25 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002659">
 <persName>Queen, Nancy</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002658">
 <persName>Neale, Charles</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002663">
 <persName>Causin, Gerard N.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000001">
 <persName>Key, Francis Scott, 1779-1843</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002677">
 <persName>Morris, John Boucher</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.001953">
 <persName>Chapman, Henry Henley, 1764-1821</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.002678">
 <persName>Dorsey, Clement</persName>
 </person>
 </listPerson>
@@ -160,7 +159,7 @@
 </profileDesc>
         
 <revisionDesc>  
-<change when="2016-02-24" who="#lkw">added xml:ids</change> 
+<change when="2016-02-24" who="#lkw">added xml:ids; removed Nancy Queen from people</change> 
 <change when="2015-07-22" who="#kln">reviewed; edited</change>             
 <change when="2015-05-22" who="#ea">updated encoding</change>
 <change when="2013-04-30" who="#kln">added attorneys to header</change>
@@ -296,7 +295,7 @@ John Boucher Morris her attornies as the said Charles Neale by Clement Dorsey an
 
 <p>John Barnes Clerk of Charles County Court. And now come into the Court of Appeals here as well the said Nancy Queen by Francis Scott Key her attorney as the said Charles Neale by Clement Dorsey and Henry H Chapman his attornies and thereupon on motion of the said Charles Neale by his attornies aforesaid it is ruled by the Court here that the said Nancy Queen assign the errors in the record of proceedings of the Judgment aforesaid brought before the Court here for correcting errors supposed to be therein or Judgment by the Court here will be entered against her in default thereof and the said Nancy Queen by her attorney aforesaid says that in the record of proceedings aforesaid as also in rendering the Judgment aforesaid it is manifestly erred in this that is to say, that by the record of proceedings aforesaid it appears that the Judgment aforesaid in form aforesaid given was given for the said Charles Neale against her the said Nancy Queen, when by the law of the Land that Judgment ought to have been given for her the said Nancy Queen against the said Charles Neale therefore in this it is manifestly erred and she prays that the Judgment aforesaid for this and other errors in the record of proceedings aforesaid being may be revoked annulled and held for naught and that she the said Nancy Queen to all which she by occasion of the Judgment aforesaid hath lost may be restored &amp;c. and she prays that the said Charles Neale may rejoin to the errors aforesaid and soforth. And Thereupon it is ruled by the Court here that the said Charles Neale may rejoin to the errors aforesaid by the said Nancy Queen above assigned in the record of proceedings of the Judgment aforesaid or Judgment by the Court here will be rendered against him in default thereof. And the said Charles Neale by his attornies aforesaid prays that a day may be given him to join in the errors by the said Nancy Queen above assigned in the record of proceedings aforesaid until the third monday in December next and to him it is granted the same day is also given to the said Nancy Queen then &amp;c.</p>
 
-<p>And now at this day towit the said third monday in December being the seventeenth day of the said month in the year of our Lord one thousand eight hundred and ten which said day was given to the said Charles Neale to join in the errors by the said Nancy Queen above assigned come into the Court of Appeals here the parties aforesaid by their attornies aforesaid And the said Charles Neale by his attornies aforesaid says that neither in the record of proceedings</p>
+<p>And now at this day towit the said third monday in December being the seventeenth day of the said month in the year of our Lord one thousand eight hundred and ten which said day was given to the said Charles Neale to join in the errors by the said Nancy Queen above assigned come into the Court of Appeals here the parties aforesaid by their attornies aforesaid And the said Charles Neale by his attornies aforesaid says that neither in the record of proceedings
 
 <pb xml:id="p006" facs="oscys.mdcase.0004.001.006.jpg"/>
 
@@ -304,7 +303,7 @@ John Boucher Morris her attornies as the said Charles Neale by Clement Dorsey an
 
 <fw>December Term 1810</fw>
 
-<p>aforesaid nor in rendering the Judgment aforesaid it is in any wise erred and he prays that this Court of Appeals here may proceed to examine as well the record of proceedings aforesaid as the matters aforesaid above assigned for error. And that the Judgment aforesaid in form aforesaid given may be in all things affirmed and soforth. Whereupon as well the record of proceedings aforesaid and the Judgment given in form aforesaid as the matters aforesaid by the said Nancy Queen above for errors assigned being seen and fully understood by the Court here and nature deliberation there upon had for it appears to the Court here that there is no error either in the record of proceedings aforesaid or in the giving Judgment aforesaid. Therefore it is considered by the Court here that the Judgment aforesaid in form aforesaid given be in all things affirmed and stand in full force and effect the said cause for error above assigned and alleged in any wise notwithstanding.</p>
+aforesaid nor in rendering the Judgment aforesaid it is in any wise erred and he prays that this Court of Appeals here may proceed to examine as well the record of proceedings aforesaid as the matters aforesaid above assigned for error. And that the Judgment aforesaid in form aforesaid given may be in all things affirmed and soforth. Whereupon as well the record of proceedings aforesaid and the Judgment given in form aforesaid as the matters aforesaid by the said Nancy Queen above for errors assigned being seen and fully understood by the Court here and nature deliberation there upon had for it appears to the Court here that there is no error either in the record of proceedings aforesaid or in the giving Judgment aforesaid. Therefore it is considered by the Court here that the Judgment aforesaid in form aforesaid given be in all things affirmed and stand in full force and effect the said cause for error above assigned and alleged in any wise notwithstanding.</p>
 
 <p>Memorandum. &#160; &#160; At the argument and decision of this case in the Court of Appeals. The Honorable John Mackall Gantt Esquire Judge withdrew from the Bench.</p>
 
