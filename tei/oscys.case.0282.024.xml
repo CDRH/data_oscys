@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0240.027">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0282.024">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Rebecca Madella v. Virginia Munroe. Summons of Virginia Munroe</title>
+<title>Sarah H. Madella v. Georgiana Munroe. Summons of Georgiana Munroe</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Muñoz, Trevor" xml:id="tm">Trevor Muñoz</principal>
-<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0240.027</idno>
-<idno type="case">oscys.caseid.0245</idno>
+<idno type="project">oscys.case.0282.024</idno>
+<idno type="case">oscys.caseid.0280</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of Virginia Munroe</title>
-<date when="1859-05-16">May 16, 1859</date>
+<title level="m" type="main">Summons of Georgiana Munroe</title>
+<date when="1859-05-14">May 14, 1859</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 21, Entry 6</collection>
-<idno>Box 904, Folder 59</idno>
+<idno>Box 904, Folder 63</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -82,27 +82,32 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>C</term>
 <term xml:id="per.000476">Dunlop, James, 1793-</term>
-<term>M</term>
 <term xml:id="per.001217">Selden, William</term>
+<term>Madella, Rebecca</term>
 <term xml:id="per.000740">Smith, John A.</term>
 </keywords>
 
-<keywords scheme="lcsh" n="places">
+<keywords scheme="lcsh" n="places">    
 <term>Washington County (D.C.)</term>
 <term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
-            
+
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Madella, Rebecca</persName>
+<persName>Medulla, Charles Henry</persName>
+</person>
+<person role="petitioner">
+<persName>Medulla, Samuel A.</persName>
+</person>
+<person role="petitioner">
+<persName>Medulla, Sarah Henrietta</persName>
 </person>
 <person role="defendant">
-<persName>Munroe, Virginia</persName>
+<persName>Munroe, Georgiana</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -121,8 +126,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>    
-<change when="2016-02-25" who="#snc">encoded; transcribed</change>
+<revisionDesc>         
+<change when="2016-03-01" who="#snc">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,19 +138,19 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="oscys.case.0240.027.001.jpg"/>
+<pb xml:id="p001" facs="oscys.case.0282.024.001.jpg"/>
 
 <div2 type="caption">
 
-<p>District of Columbia, to wit:<lb/> 
+<p>District of Columbia, to wit:<lb/>
 The United States of America,<lb/>
 To the Marshal of the District of Columbia&#8212;Greeting:</p>
 
 </div2>
 
 <div2 type="body">
-
-<p>We command you that you <del>take</del> Summon Virginia Munro&#8212; <del>late of Washington County, if shall be found within the County of Washington in your said District, and safely keep, so that you have body</del> before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo&#8212; next, to answer unto Rebecca Madella her <del>a</del> petition for freedom</p>
+     
+<p>We command you that you <del>take</del> Summon Georgiana Munroe <del>late of Washington County, if shall be found within the County of Washington in your said District, and safely keep, so that you have bod</del> before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo.&#8212; next, to answer <del>unto</del> The petition for freedom of Sarah H. Medulla </p>
 
 <p>Hereof fail not at your peril, and have you then and there this writ.</p>
 
@@ -153,26 +158,26 @@ To the Marshal of the District of Columbia&#8212;Greeting:</p>
 
 <p>Issued the 16t day of May 1859.</p>
 
-<p>Jno A Smith Clk</p>
+<p>Jno. A. Smith clk</p>
 
 <p>C &amp; M</p>
      
 </div2>
 
-<pb xml:id="p002" facs="oscys.case.0240.027.002.jpg"/>
+<pb xml:id="p002" facs="oscys.case.0282.024.002.jpg"/>
 
 <div2 type="back">
 
-<p>59</p>
+<p>63</p>
 
-<p>Rebecca Madella<lb/>
+<p>Sarah H. Medulla by Rebecca<lb/>
 ><lb/>
-Virginia Munroe</p>
+Georgiana Munroe</p>
 
 <p>Sub<lb/>
-22 Bre</p>
+17 Bre</p>
 
-<p>Pet for freedom<lb/>
+<p>pet for freedom<lb/>
 +</p>
 
 <p>Non Est<lb/>
