@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -87,20 +88,20 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000215">Ashton, John</term>
-<term>Barm, Thomas</term> <!-- Barns -->
+<term xml:id="per.002679">Barm, Thomas</term> <!-- Barns -->
 <term xml:id="per.000065">Carroll, James</term>
-<term>Duckett, Thomas</term>
+<term xml:id="per.001488">Duckett, Thomas</term>
 <term xml:id="per.000067">Duvall, Benjamin</term>
 <term xml:id="per.000062">Duvall, Marsh Mareen</term>
-<term>Henderson</term>
+<term xml:id="per.002682">Henderson</term>
 <term xml:id="per.000128">Magruder, John Read, Jr.</term>
-<term>Murdock</term>
+<term xml:id="per.002688">Murdock</term>
 <term>Newcomb, Betty</term>
 <term xml:id="per.000068">Queen, Mary</term>
 <term xml:id="per.001476">Queen, Phillis</term>
-<term>Queen, Ralph</term>
-<term>Sarah</term>
-<term>Tom</term>
+<term xml:id="per.002689">Queen, Ralph</term>
+<term xml:id="per.002690">Sarah</term>
+<term xml:id="per.002692">Tom</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -135,6 +136,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-15" who="#kln">reviewed; edited</change>
 <change when="2016-02-10" who="#smb">transcribed and encoded</change>
 </revisionDesc>

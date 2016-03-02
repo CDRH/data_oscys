@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -91,7 +92,7 @@
 <term xml:id="per.001486">Atwell</term>
 <term xml:id="per.000215">Ashton, John</term>
 <term xml:id="per.001498">Beall Jr., Richard</term>
-<term>Belt, J. S.</term>
+<term>Belt, J. S.</term><!-- Is this Jame B. Belt? -->
 <term xml:id="per.001499">Billingsley, Walter</term>
 <term xml:id="per.001469">Carrick, Ann</term>
 <term xml:id="per.001470">Carrick, John</term>
@@ -101,7 +102,7 @@
 <term xml:id="per.001490">Chapman, William</term>
 <term xml:id="per.002102">Chase, Jeremiah Townley, 1748-1828</term>
 <term xml:id="per.001514">Chase, Samuel, 1741-1811</term>
-<term>Clarke, Caleb</term>
+<term xml:id="per.000061">Clarke, Caleb</term>
 <term xml:id="per.001472">Clarke, Mary</term>
 <term xml:id="per.001496">Cooke, William</term>
 <term xml:id="per.000066">Cooper, Nanny</term>
@@ -109,7 +110,7 @@
 <term xml:id="per.001501">Cresap, James</term>
 <term xml:id="per.000072">Davis, George</term>
 <term xml:id="per.000073">Disney, Richard</term>
-<term>Duckett, Thomas</term>
+<term xml:id="per.001488">Duckett, Thomas</term>
 <term xml:id="per.001393">Duvall, Gabriel, 1752-1844</term>
 <term xml:id="per.000062">Duvall, Mareen</term>
 <term xml:id="per.001474">Fowler, Susannah</term>
@@ -198,6 +199,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-23" who="#kln">reviewed; edited</change>
 <change when="2016-02-01" who="#smb">transcribed and encoded</change>
 </revisionDesc>
