@@ -13,6 +13,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -49,7 +50,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Summons of James G. Robinson</title>
-<date when="1859-05-14">May 14, 1859</date>
+<date when="1859-05-16">May 16, 1859</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -86,7 +87,7 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000476">Dunlop, James, 1793-</term>
-<term>Frazier, Amelia</term>
+<term xml:id="per.002322">Frazier, Amelia</term>
 <term xml:id="per.001217">Selden, William</term>
 <term xml:id="per.000740">Smith, John A.</term>
 </keywords>
@@ -100,10 +101,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002319">
 <persName>Ambush, Stephen</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002320">
 <persName>Robinson, James G.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000829">
@@ -126,7 +127,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>      
+<change when="2016-03-04" who="#kln">reviewed, edited</change>       
 <change when="2016-03-01" who="#snc">encoded; transcribed</change>
 </revisionDesc>
 
@@ -150,15 +152,15 @@ To the Marshal of the District of Columbia&#8212;Greeting:</p>
 
 <div2 type="body">
 
-<p>We command you that you <del>take</del> summon James Robinson <del>late of Washington County, if shall be found within the County of Washington in your said District, and safely keep, so that you have bod</del> before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo&#8212; next, to answer <del>unto</del> The Petition for freedom of Stephen Ambush</p>
+<p>We command you that you <del>take</del> summon James Robinson <del>late of Washington County, if shall be found within the County of Washington in your said District, and safely keep, so that you have bod</del> before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo next, to answer <del>unto</del> The Petition for freedom of Stephen Ambush</p>
 
 <p>Hereof fail not at your peril, and have you then and there this writ.</p>
 
-<p>Witness, Jas. Dunlop Esquire, Chief Justice of our said Court, at the City of Washington, the 14t day of May Anno Domini one thousand eight hundred and 59</p>
+<p>Witness, Jas. Dunlop Esquire, Chief Justice of our said Court, at the City of Washington, the 14th day of May Anno Domini one thousand eight hundred and 59</p>
 
-<p>Issued the 16t day of May 1859</p>
+<p>Issued the 16th day of May 1859</p>
 
-<p>Jno A Smith Clk</p>
+<p>Jno A. Smith Clk</p>
 
 <p>Bradley Ratcliffe</p>
 
@@ -171,13 +173,13 @@ To the Marshal of the District of Columbia&#8212;Greeting:</p>
 <p>100</p>
 
 <p>Stephen Ambush<lb/>
-><lb/>
+<lb/>
 Jas. Robinson adr. Amelia Frazier</p>
 
 <p>Sub<lb/>
 12 Bre</p>
 
-<p>Pet. for freed.<lb/>
+<p>Pet. for freedom<lb/>
 +</p>
 
 <p>Non Est<lb/>
