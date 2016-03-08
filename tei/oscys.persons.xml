@@ -788,7 +788,7 @@ This file was compiled from information found in
 
 <person xml:id="per.000069" source="http://earlywashingtondc.org/doc/oscys.case.0011.005">
 <persName type="display">Ryland, Freders</persName> 
-<persName type="full"> <surname>Ryland</surname> <addName type="surname" full="yes" subtype="alternate">Riland</addName>, <forename type="first" full="yes">Freders</forename>
+<persName type="full"> <surname>Ryland</surname> <addName type="surname" full="yes" subtype="alternate">Riland</addName>, <forename type="first" full="yes">Freders</forename> <addName type="forename" full="yes" subtype="alternate">Freeders</addName>
 </persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
@@ -856,8 +856,8 @@ This file was compiled from information found in
 <!-- oscys.case.0011.009 start -->
 
 <person xml:id="per.000075" source="http://earlywashingtondc.org/doc/oscys.case.0011.009">
-<persName type="display">Jiams, John</persName> 
-<persName type="full"> <surname>Jiams</surname>, <forename type="first" full="yes">John</forename> <roleName type="military">Captain</roleName></persName>
+<persName type="display">Ijams, John</persName> 
+<persName type="full"> <surname>Ijams</surname> <addName type="surname" subtype="alternate">Iiams</addName> <addName type="surname" subtype="alternate">Jiams</addName>, <forename type="first" full="yes">John</forename> <roleName type="military">Captain</roleName></persName>
 <sex>male</sex>
 </person>
 
@@ -2101,14 +2101,14 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.000218" source="http://earlywashingtondc.org/doc/oscys.case.0025.006">
-<persName type="display">Hardwood, Richard</persName>
+<persName type="display">Harwood, Richard</persName>
 <persName type="full"> <surname>Harwood</surname>, <forename type="first" full="yes">Richard</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.000219" source="http://earlywashingtondc.org/doc/oscys.case.0025.006">
-<persName type="display">Hardwood, Thomas</persName>
+<persName type="display">Harwood, Thomas</persName>
 <persName type="full"> <surname>Harwood</surname>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
@@ -14055,8 +14055,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001491" source="http://earlywashingtondc.org/doc/oscys.mdcase.0001.004">
-<persName type="display">Jiams, Plummer</persName>
-<persName type="full"> <surname>Jiams</surname>, <forename type="first" full="yes">Plummer</forename></persName>
+<persName type="display">Ijams, Plummer</persName>
+<persName type="full"> <surname>Ijams</surname> <addName type="surname" subtype="alternate">Iiams</addName>, <forename type="first" full="yes">Plummer</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -14221,8 +14221,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001511" source="http://earlywashingtondc.org/doc/oscys.mdcase.0001.015">
-<persName type="display">Trueman, John</persName>
-<persName type="full"> <surname>Trueman</surname> <addName type="surname" subtype="alternate">Truman</addName>, <forename type="first" full="yes">John</forename></persName>
+<persName type="display">Truman, John</persName>
+<persName type="full"> <surname>Truman</surname> <addName type="surname" subtype="alternate">Trueman</addName>, <forename type="first" full="yes">John</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -14309,8 +14309,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001520" source="http://earlywashingtondc.org/doc/oscys.mdcase.0001.013">
-<persName type="display">Brugess, John Magruder</persName>
-<persName type="full"> <surname>Brugess</surname>, <forename type="first" full="yes">John</forename> <forename type="middle">Magruder</forename></persName>
+<persName type="display">Burgess, John Magruder</persName>
+<persName type="full"> <surname>Burgess</surname>, <forename type="first" full="yes">John</forename> <forename type="middle">Magruder</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -18651,6 +18651,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Buchanan</surname>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation>attorney</occupation>
 </person>
 
 <person xml:id="per.001948" source="http://earlywashingtondc.org/doc/oscys.case.0258.006">
@@ -18753,8 +18754,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001960" source="http://earlywashingtondc.org/doc/oscys.case.0258.008">
-<persName type="display">Lancaster, Frances</persName>
-<persName type="full"> <surname>Lancaster</surname>, <forename type="first" full="yes">Frances</forename></persName>
+<persName type="display">Lancaster, Francis</persName>
+<persName type="full"> <surname>Lancaster</surname>, <forename type="first" full="yes">Francis</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -19990,6 +19991,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Harwood</surname>, <forename type="first" full="yes">Richard</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<note>May be the same as per.000218.</note>
 </person>
 
 <!-- oscys.mdcase.0006.030 end -->

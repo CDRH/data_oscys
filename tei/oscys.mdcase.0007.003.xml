@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0007.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ann Queen v. Sylvester Boarman and David Queen v. Sylvester Boarman. Court Record of Phillis Queen v. John Ashton</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0007.003</idno>
+<idno type="case">oscys.caseid.0386</idno>
+<idno type="case">oscys.caseid.0387</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Court Record of Phillis Queen v. John Ashton</title>
+<date when="1801-03-26">March 26, 1801</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Historical Society of Harford County, Md.</repository>
+<collection/>
+<idno/>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Exhibit</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term/>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.000215">Ashton, John</term>
+<term xml:id="per.001517">Baden Jr., John</term>
+<term>Baden, Thomas</term>
+<term>Barm, Thomas</term>
+<term>Beard, Richard</term>
+<term xml:id="per.000217">Belt, Humphrey</term>
+<term>Belt, Levin</term>
+<term xml:id="per.001518">Boone, Joseph</term>
+<term xml:id="per.001520">Burgess, John Magruder</term>
+<term xml:id="per.000065">Carroll, James</term>
+<term>Compton, Henry Trueman</term>
+<term xml:id="per.001521">Coolidge, Samuel Judson</term>
+<term xml:id="per.000066">Cooper, Nanny</term>
+<term xml:id="per.001522">Craufurd, David</term>
+<term>Craufurd, Nathaniel</term>
+<term>Dick, Thomas</term>
+<term xml:id="per.000073">Disney, Richard</term>
+<term xml:id="per.001973">Dorsey, Walter</term>
+<term>Dorsey, William Hammond</term>
+<term xml:id="per.001543">Duckett, Allen Bowie</term>
+<term xml:id="per.001488">Duckett, Thomas</term>
+<term xml:id="per.000067">Duvall, Benjamin</term>
+<term xml:id="per.001393">Duvall, Gabriel, 1752-1844</term>
+<term xml:id="per.000062">Duvall, Mareen</term>
+<term xml:id="per.000219">Harwood, Thomas</term>
+<term>Henderson</term><!-- madam -->
+<term xml:id="per.001524">Hodges, Charles</term>
+<term xml:id="per.000075">Ijams, John</term>
+<term>Jackson, William John</term>
+<term xml:id="per.001495">Key, Philip Barton, 1757-1815</term>
+<term xml:id="per.000183">Kilty, William, 1757-1821</term>
+<term xml:id="per.001475">Larkin, Thomas</term>
+<term xml:id="per.001478">Lee, Edward</term>
+<term xml:id="per.000077">Lee, Lewis</term>
+<term>Leeke, Joseph</term>
+<term xml:id="per.001527">Magill, Thomas</term>
+<term xml:id="per.001528">Magruder, Dennis</term>
+<term xml:id="per.000128">Magruder, John Read, Jr.</term>
+<term>Murdock</term>
+<term>Newcomb, Betty</term>
+<term xml:id="per.000078">Queen, Edward</term>
+<term xml:id="per.000068">Queen, Mary</term>
+<term xml:id="per.001476">Queen, Phillis</term>
+<term>Queen, Ralph</term>
+<term>Queen, Winifred</term>
+<term xml:id="per.001477">Quynn, Allen</term>
+<term xml:id="per.001483">Randall, John</term>
+<term>Ridgely, Henry</term>
+<term>Sarah</term>
+<term>Sparrow, Solomon</term>
+<term xml:id="per.001532">Stone, Michael Jenifer, 1747-1812</term>
+<term>Sue</term>
+<term>Tom</term>
+<term xml:id="per.001512">Welch, Benjamin</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Anne Arundel County (Md.)</term>
+<term>Prince George's County (Md.)</term>
+<term>Upper Marlboro (Md.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson xml:id="oscys.caseid.0386">            
+<person role="petitioner">
+<persName>Queen, Ann</persName>
+</person>
+<person role="defendant">
+<persName>Boarman, Sylvester</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listPerson xml:id="oscys.caseid.0387">            
+<person role="petitioner">
+<persName>Queen, David</persName>
+</person>
+<person role="defendant">
+<persName>Boarman, Sylvester</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Maryland. County Court (Harford County)</orgName>
+<placeName>Bel Air (Md.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>  
+<change when="2016-02-22" who="#kln">reviewed; edited</change>
+<change when="2016-02-08" who="#smb">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.mdcase.0007.003.001.jpg"/>
+
+<div2 type="body">
+
+<p>Prince Georges County to wit At a County Court of the State of Maryland held for the County aforesaid at Upper Marlborough Town in said County on the first Monday in April being the fourth day of the same Month in the year of our Lord One Thousand Seven hundred and ninety six</p>
+
+<p>Present.<lb/>
+Michael Jenifer Stone Esquire Chief Justice<lb/>
+David Craufurd, and Thomas Duckett Esquires Associate Justices</p>
+
+<p>Joseph Boone Esquire Sheriff.<lb/>
+John Read Magruder Junr. Clerk</p>
+
+<p>In the record of proceedings of the same Court among other things is the following to wit.</p>
+
+</div2>
+
+<div2 type="caption">
+
+<table>
+<row>
+<cell>GD</cell>
+<cell/>
+</row>
+<row>
+<cell>Key</cell>
+<cell>Phillis Queen</cell>
+</row>
+<row>
+<cell>LB.</cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell>against</cell>
+</row>
+<row>
+<cell>WK</cell>
+<cell/>
+</row>
+<row>
+<cell>WD</cell>
+<cell>John Ashton</cell>
+</row>
+<row>
+<cell>ABD</cell>
+<cell/>
+</row>
+</table>
+
+</div2>
+
+<div2 type="body">
+
+<p>Prince Georges County to wit.</p>
+
+<p>Be it Remembered that heretofore to wit on the first Monday in April in the year of our Lord One Thousand seven hundred and ninety four Phillis Queen by Gabriel Duvall, Philip Barton Key and Levin Belt her Attornies preferred to the Justices of the County Court of the County aforesaid her petition for freedom against John Ashton in manner and form following to wit</p> 
+
+<p>To the Honourable the Justices of Prince Georges County Court</p>
+
+<p>The petition of Phillis Queen sheweth that your Petitioner is held in slavery in Prince Georges County by a certain John Ashton when she is advised that she is entitled to her freedom being descended from a free woman whose name was Mary Queen. She therefore prays that summons may issue for the said John Ashton of Prince Georges County to Answer this petition and that she the said Phillis Queen may be discharged from the further service of the said John Ashton and so forth</p>
+
+<p>G. Duvall<lb/>
+P.B. Key<lb/>
+L. Belt for Petir</p>
+
+<pb xml:id="p002" facs="oscys.mdcase.0007.003.002.jpg"/>
+
+<p>Whereupon Summons accordingly issued against the said John Ashton to answer the Petition aforesaid directed to the Sheriff of the County aforesaid in the words and figures following, to wit.</p>
+
+<p>Prince Georges County to wit The State of Maryland To the Sheriff of Prince Georges County Greeting.</p>
+
+<p>We Command you that you summon John Ashton late of Prince Georges County all excuses and delays set aside he be and appear before the Justices of our next County Court to be held at Upper Marlborough Town in said County on the first Monday in September next to answer the Petition of Phillis Queen preferred against him for freedom and in the mean time the said John Ashton shall not transport the said Phillis Queen out of this State but shall suffer and permit her to appear at our said County Court at the place and on the day aforesaid to prosecute her said Petition for freedom and shall at all times suffer the said Phillis Queen to have a reasonable time to advise with her counsel on her said petition and shall also in the mean time clothe feed and use the said Petitioner well. Hereof he shall not fail at his peril and fail you not at your peril and have you then and there this Writ Witness Michael J. Stone Esquire Chief Justice of our said County Court at the Town aforesaid the 12th day of July in Anno Domini 1794.</p>
+
+<p>Jno R Magruder Junr Clk</p>
+
+<p>Issued the 14th day of July 1794.</p>
+
+<p>GD. Key. L Belt</p>
+
+<p>And now at this day to wit the first Monday in September in the Year Seventeen hundred and ninety four being the day of the return of the aforegoing summons comes here into the County Court aforesaid the said Phillis Queen by her Attornies aforesaid and the Sheriff of the said County to wit William John Jackson Gentleman to whom the said summons was in form aforesaid directed likewise comes and makes return thereof to the Court here thus endorsed to wit</p>
+
+<p>Sumd. Wm. Jno Jackson Shff</p>
+
+<pb xml:id="p003" facs="oscys.mdcase.0007.003.003.jpg"/>
+
+<p>And the said John Ashton appears here in Court by William Kilty and William Hammond Dorsey his Attornies and at the prayer of the said Phillis Queen by her attorney aforesaid it is ordered by the Court here that the said John Ashton enter into recognizance in the sum of Two hundred pounds Current Money not to transport the said Phillis Queen from The State of Maryland nor obstruct her from attending this Court from time to time to prosecute her Petition for Freedom and at all times allow her to have a reasonable time to advise with her counsel on her said petition and to cloathe feed and use her well.</p>
+
+<p>Whereupon the said John Ashton present here in Court in his proper person acknowledges himself to owe and stand justly indebted to The State of Maryland in the Sum of Two hundred pounds Current Money To be levied of his body Goods and chattles lands and Tenements to the use of the said State. On Condition that the said John Ashton shall not transport a certain Phillis Queen out of the State of Maryland but shall suffer and permit her to attend this Court from time to time to prosecute her petition for freedom and shall at all times allow her a reasonable time to advise with her counsel on her said petition and shall also cloathe feed and use her well. And herewith the said John Ashton acknowledges himself to be content.</p>
+
+<p>The following Agreement entered into by the parties in the cause is filed to wit.</p>
+
+</div2>
+
+<div2 type="caption">
+
+<p>Phillis Queen<lb/>
+vs<lb/>
+John Ashton</p>
+
+<p>Peto for Freedom</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>It is agreed that a copy of the depos. taken in the peto. Edward Queen against John Ashton in the General Court be received as Evidence in this Cause and that the Depo. of Benjamin Duvall taken on Ten days Notice be read as evidence and that the afsaid depositions be read in all the cases of petitions filed in this Court against the Defendant</p>
+
+<p>G Duvall for Petr<lb/>
+W Kilty for Deft.</p>
+
+<pb xml:id="p004" facs="oscys.mdcase.0007.003.004.jpg"/>
+
+<p>And the said John Ashton by his Attornies aforesaid defends the force aforesaid when the Court shall take the same into consideration and prays leave of the Court here to imparle untill next Court and it is granted &amp; the same day is given the said Phillis Queen also.</p>
+
+<p>At which said next Court to wit the first Monday in April in the Year seventeen hundred and ninety five come here again into the County Court aforesaid as well the said Phillis Queen by her Attornies aforesaid as the said John Ashton by his attornies aforesaid. And the said John Ashton by his attornies (as before) defends the Complaint aforesaid when the Court shall take the same into consideration and prays leave of the Court here to imparle untill next Court and it is granted the same day is given to the said Phillis Queen also.</p>
+
+<p>At which said next Court to wit the first Monday in September in the Year last aforesaid come here again into the County Court aforesaid as well the said Phillis Queen by her Attornies aforesaid as the said John Ashton by William Kilty and Walter Dorsey his Attornies and thereupon further process of and upon the premises aforesaid between the parties aforesaid by consent of the said parties and their Attornies and by order of the Court here thereon is continued untill next Court.</p>
+
+<p>At which said next Court to wit the first Monday in April in the Year Seventeen hundred and ninety six come here again into the County Court aforesaid as well the said Phillis Queen by her Attornies aforesaid as the said John Ashton by William Kilty Walter Dorsey and Allen Bowie Duckett his Attornies and the said John Ashton by his Attornies as before defends the complaint aforesaid when the Court shall take the same into consideration and admitting
+
+<pb xml:id="p005" facs="oscys.mdcase.0007.003.005.jpg"/>
+
+that the said Phillis is descended from Mary Queen mentioned in the said Petition comes and says that the said Mary Queen the mother of the said petitioner from whom by descent the petitioner claims her Freedom always was a Slave and this the said John is ready to verify without that that the said Mary was free as alledged by the said petition.</p>
+
+<p>And the said Phillis by her Attorney aforesaid saith that the said Mary Queen was not a slave at the time of the birth of her the said Phillis as the said John above in pleading hath alledged and this the said Phillis prays may be enquired of by the Country &amp; soforth and the said John doth the like.</p>
+
+<p>Therefore let a jury thereon appear before the Justices of the Court here immediately by whom &amp;ca. and who neither &amp;ca. to recognize &amp;ca. because as well &amp;ca. who being called came that is to say Dennis Magruder Nathaniel Craufurd John Baden Junior Thomas Baden Thomas Dick John Magruder Burgess Samuel Judson Coolidge Thomas Harwood Thomas Magill Charles Hodges Humphrey Belt Senior and Henry Trueman Compton who being duly elected tried and sworn to say the truth in the premises aforesaid upon their oath do say that Mary Queen mentioned in the petition of the said Phillis was not a slave at the time of the birth of her the said Phillis as the said Phillis Queen by her replication aforesaid hath alledged</p>
+
+<p>Therefore it is considered by the Justices of the Court here that the said Phillis Queen is entitled to her Freedom and that therefore she be free liberated and discharged from the custody and possession of the said John Ashton.</p>
+
+<pb xml:id="p006" facs="oscys.mdcase.0007.003.006.jpg"/> 
+
+<p>It is also considered that the said Phillis Queen do recover against the said John Ashton that quantity of eight hundred and fifteen pounds of Tobacco to the said Phillis Queen by the Court here adjudged for her costs and charges by her about her suit in this behalf laid out and expended and the said John Ashton in mercy &amp;ca.</p> 
+
+<p>And be it remembered that the following depositions were filed in this cause to wit</p>
+
+<p>Benjamin Duvall aged eighty three Years being sworn on the holy evangels of Almighty God deposeth and saith that he knew a Negroe Woman belonging to James Carroll commonly called the Poppaw Queen who came into this Country in a Vessell the name of the Captain of which he did not hear but thinks the Vessell came into West River and that the said Poppaw Queen was purchased as he this Deponant always understood by the aforesaid James Carroll That this Deponants Father Mareen Duvall who lived at the White Marsh and adjoining the Plantation of the said Carroll did also purchase from the same Vessell a Negroe Woman who was called Sarah and that Old Mr Murdock purchased from the same Vessel a negroe man who was called Golden Coast Tom and that several other people in the neighbourhood purchased negroes from the same Vessell and Sarah aforesaid and the Poppaw Queen said a number of died during the passage and were thrown overboard and further said that they two were healthy being allowed to be on Deck and washing for the sailors and further said that one of the Poppaw Queens sisters came in with her and that two of her Brothers were in the Vessel and died on the passage This deponant further saith that the woman beforementioned as belonging to James Carroll often came to see his Fathers Woman Sarah that they spoke the same language and always said they were shipmates and that they spoke in a language that he could not understand, in their own country language and could talk for a whole day without his understanding them and that after the death of Sarah aforementioned the Poppaw Queen did not come to his Fathers any more</p>
+
+<p>That the Poppaw Queen wore beads on her arms and had her head dressed with them and twisted round her hair which was when dressed near a Yard long and on the
+
+<pb xml:id="p007" facs="oscys.mdcase.0007.003.007.jpg"/>
+
+Top she had a knot of beads. that he knew this woman belonging to James Carroll many years that she was always treated by her master as a slave that he never heard her or any other person say that she was entitled to or had any pretensions to freedom. That he knew a Mullatto Boy called Ralph who was her son (as it was said) by Thomas Barm who kept her as a mistress. That he never knew any other woman in the family of James Carroll by the name of Queen that he was frequently at Fingal where James Carroll lived That he never heard any disputing between James Carroll and the aforesaid negroe woman respecting her right to Freedom nor did he ever hear his Father or any of his Brothers or Sisters say that they had heard any such thing. That James Carroll had no other place of residence nearer to this deponants Fathers than that at Fingall which is about ten or twelve miles distant</p>
+
+<p>This Deponant further saith that he understood the aforementioned Sarah was a Mundingo Negroe and that the Poppaw Queen was not from the same country but from the Poppaw Country there being as he understood several different countrys from negroes came such as the Golden Coast and others. that Sarah was a Black Woman and spoke English pretty well and that the Poppaw Queen spoke it in a more broken manner Being asked if the woman purchased by his Father was dressed in the same manner as the Poppaw Queen, answers that she was not that she was almost naked having only a shirt round her shoulders and another round her waist, and that she likewise wore some blue beads and different from the Poppaw Queen</p>
+
+<p>Being asked if he ever saw the Poppaw Queen at the White Marsh</p> 
+
+<p>Answers, he has, she was frequently there.</p>
+
+<p>Being asked if he ever saw James Carroll there.</p>
+
+<p>Answers, He has frequently, that James Carroll commonly called her his Poppaw Queen.</p>
+
+<p>Being asked what was the complexion of the Poppaw Queen</p>
+
+<p>Answers, she was very yellow. Being asked how old he was when he last saw her, answers about fifteen or sixteen that he never saw her after he lived with Madam Henderson</p>
+
+<p>Being asked if he understood what became of the Poppaw Queen afterwards, Answers, He understood that James Carroll gave her away or sold her a considerable distance off</p>
+
+<pb xml:id="p008" facs="oscys.mdcase.0007.003.008.jpg"/>
+
+<p>Being asked if he remembers when his Father bought his negroes. Answers He does. that he thinks he was about Eight Years Old. Being asked how old he was when he left his Fathers neighbourhood. Answers. He was about Twenty Years Old that he never knew any of the Poppaw Queens children but Ralph who it was said was her son.</p>
+
+<p>This deponant further saith that a white servant Woman named Betty Newcomb belonging to James Carroll had a Mullatto Bastard child and was had up as he heard to Court and condemned to serve and that James Carroll sold the mother and child that the Poppaw Queen said she was a queen in her own country and it was so said among the negroes.</p>
+
+<p>Being asked if he ever heard any body say the Poppaw Queen was free or a slave, says he never heard any body say any thing about her. Being asked why he thought the vessel came into West river. Answers because his Father was gone two days. being asked if he ever heard that she came into West river, answers he did not</p>
+
+<p>And further this deponent saith not.</p>
+
+<p>Sworn to this 13th day of September 1794 before<lb/>
+Thos. Duckett Associate Justice</p>
+
+</div2>
+
+<div2 type="caption">
+
+<p>Phillis Queen<lb/>
+vs<lb/>
+John Ashton</p>
+
+<p>Petition for Freedom</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Richard Beard aged sixty years being sworn on the holy Evangely of Almighty God deposeth and saith that he has lived all his lifetime in the neighbourhood of Fingal the plantation of James Carrol that he has frequently been at that place and was well acquainted with the negroes living thereon and that he knew Phillis and her children and that he never understood that she or her children were entitled to their freedom that Phillis' mother had three children as this deponant has understood to wit. Phillis, Nanny Cooper, and Ralph. Being asked if he knew Captain John Imes. Answers that he was well acquainted with him. Being asked what was his general character answers that he drank hard kept much company and romanced a great deal and talked in a loose manner. Being asked if he was generally considered as being prejudiced in his opinions 
+
+<pb xml:id="p009" facs="oscys.mdcase.0007.003.009.jpg"/>
+
+says he does not know. Being asked if he lived in the neighbourhood of Imes and if he ever understood from him that Phillis was entitled to her freedom. Answers that he lived within a mile and a half of Imes for thirty or forty years and that he never heard Imes say that Phillis or any of that family were intitled to their freedom. Being asked if he knew whether there was any dispute or Difference between the mother of Richard Disney and James Carrol, answers that he has understood from old people who are now dead that there was a misunderstanding between the mother of the said Disney and said Carroll about a piece of Land He further saith that Capt Ijames lived in the neighbourhood of Fingal within about a mile &amp; a half thereof and he has understood that Capt Ijams lived was born there and lived ever since his memory and died there</p>
+
+<p>Richard Beard</p>
+
+<p>Sworn before me this 19th May 1795.<lb/>
+John Randall.</p>
+
+<p>The deposition of Benjamin Welch <del>of Benjamin Welsh of</del> of Ann Arundel County aged forty one years &amp; upwards being duly sworn on the holy Evangels of Almighty God deposeth and saith that he married a daughter of Edward Lee since deceased who lived to be a very old man living in the neighbourhood of Fingal the usual dwelling place of James Carroll and was well acquainted with James Carrolls negroes. That he never heard him the said Edward Lee say that any of them had any pretensions to freedom. That so far from his having any such suspicion he this Deponant knows that he the said Lee advised Solomon Sparrow his son in Law to buy a negro Girl called Winifred a Daughter of Old Phillis of Mr Ashton about twenty years ago and chose her out of all the negroes then at Fingal as the most suitable. That Lewis Lee the Brother of Edward Lee was then living near him and overseer for Mr Ashton and in the greatest intimacy with his Brother. That his this Deponants Father was a very old man and lived near to James Carrolls but that he never heard him or any of the Oldest settlers in the neighbourhood say that any of the priests negroes had any pretensions to Freedom. That he heard Edward Lee say that he never repented of any
+
+<pb xml:id="p010" facs="oscys.mdcase.0007.003.010.jpg"/> 
+
+thing so much in his life as that he did not buy Phillis at a time when he might have had her for five pounds but that he understood from Edward Lee that she was dangerously ill of the venereal disease when she was offered for that price and that her husband lived in Edward Lee's family.</p>
+
+<p>Being asked if he knew Captain John Ijams and what was his General character. Answers that he knew him very well and has always understood from his this deponants Father of Edward Lee and others that he Iiams was a very trifling man and not to be relied on and that he would say or do any thing that answered his own purpose.</p>
+
+<p>Ben: Welch</p>
+
+<p>20th April 1795. Benjamin Welsh within named personally appeared before the subscriber one of the Justices of the Peace of Ann Arundel County and made oath to the aforegoing Deposition.</p>
+
+<p>Allen Quynn.</p>
+
+<p>Joseph Leeke aged seventy seven Years being sworn on the holy <del>holy</del> Evangels of Almighty God deposeth &amp; saith that he was born and resided near the plantation of James Carroll called Fingal that he knew James Carroll very well who died when he this deponant was about fourteen or fifteen years of age. that he knew many of James Carrolls negroes living at Fingal particularly Phillis that he remembers particularly a black woman called Sue who lived in James Carrolls kitchen &amp; a yellow woman who lived &amp; worked with her but whose name he cannot now remember and was ye only woman of that colour on ye plantation to the best of his remembrance That he never understood that any of ye aforesaid women or any other negroes living with James Carroll had any pretentions to freedom. That they were all worked and treated like slaves &amp; that he himself always considered them as slaves &amp; to the best of his knowledge they were considered so by all others in the neighbourhood.</p>
+
+<p>Quest. 1st How long did you live near Fingal after James Carrolls death.</p>
+
+<p>Answer. near forty years</p>
+
+<pb xml:id="p011"/> <!-- image missing; transcription from Historical Society of Harford County, Md. -->
+
+<p>2nd Did you know a mullatto Lad called Ralph - the Brother of Phillis and Nanny above mentioned.</p>
+
+<p>Answer I did not to the best of my knowledge</p>
+
+<p>3rd Did you know one Thomas Barnes living in James Carrolls family</p>
+
+<p>Answer I did not</p>
+
+<p>4th Do you know how James Carroll got the above yellow woman or of what country she was</p>
+
+<p>Answer I know Nothing about it</p>
+
+<p>5th Was you often at James Carrolls dwelling place -</p>
+
+<p>Answer I have been there many times.</p>
+
+<p>6th Do you know what become of the above yellow woman after James Carrolls death</p>
+
+<p>Answer I do not</p>
+
+<p>7th Did the above woman dress better than the slaves or was she allowed more preveledges.</p>
+
+<p>Answer Not that I ever knew of she was only a cook</p>
+
+<p>8th Do you know any thing of a white woman living in James Carrolls family who had a child by a negro</p>
+
+<p>Answer No I know nothing about it</p>
+
+<p>9th Did you know Captain Larkins and what was his employment</p>
+
+<p>Answer I did. He was surveyor of Ann Arundel County as this Deponent has heard</p>
+
+<p>10th Do you know any other matter or thing material in the present case. If so declare it.</p>
+
+<p>Answer I know nothing more.</p>
+
+<p>On the 21st day of March 1795 came Joseph Leeke before me the subscriber a Justice of peace for Ann Arundel County and made Oath on the holy Evangels of Almighty God that the before mentioned deposition and the answers to the aforegoing Question are Just &amp; true to the best of his knowledge</p>
+
+<p>Sworn before<lb/>
+Henry Ridgely</p>
+
+</div2>
+
+<pb xml:id="p012" facs="oscys.mdcase.0007.003.012.jpg"/>
+
+<div2 type="back">
+
+<p>Phillis Queen<lb/>
+a<lb/>
+John Ashton</p>
+
+<p>Transcript</p>
+
+<p>No. 2</p>
+
+<p>Fild. 26 March 1801</p>
+
+<table>
+<row>
+<cell>Search</cell>
+<cell>10</cell>
+<cell/>
+</row>
+<row>
+<cell>Exempt</cell>
+<cell>188</cell>
+<cell/>
+</row>
+<row>
+<cell>Cert &amp; Seal</cell>
+<cell><hi rend="underline">8</hi></cell>
+<cell/>
+</row>
+<row>
+<cell/>
+<cell><hi rend="underline">206</hi> Tobo</cell>
+<cell>£1.5.9</cell>
+</row>
+<row>
+<cell/>
+<cell><unclear reason="illegible">Stamped</unclear> paper</cell>
+<cell><hi rend="underline">&#160;&#160;3.9</hi></cell>
+</row>
+<row>
+<cell/>
+<cell/>
+<cell>£ 1.9.6</cell>
+</row>
+</table>
+
+<p>Negroes<lb/>
+Queen<lb/>
+a<lb/>
+Bowman</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

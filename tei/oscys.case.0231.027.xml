@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Fanny Hamilton v. Mary Roberson. Petition for Freedom</title>
+<title>Fanny Hamilton v. Mary Roberson. Summons of Mary Roberson</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -48,8 +49,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petition for Freedom</title>
-<date when="1859-05-14">May 14, 1859</date>
+<title level="m" type="main">Summons of Mary Roberson</title>
+<date when="1859-05-16">May 16, 1859</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -69,7 +70,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Petition</term>
+<term>Summons</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -85,7 +86,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">  
-<term>K</term>
+<term xml:id="per.000476">Dunlop, James, 1793-</term>
+<term xml:id="per.001217">Selden, William</term>
+<term xml:id="per.000740">Smith, John A.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">   
@@ -97,14 +100,14 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.001818">
 <persName>Hamilton, Fanny</persName>
 </person>
-<person role="defendant">
-<persName>Roberson, Mary</persName> 
+<person role="defendant" xml:id="per.001819">
+<persName>Roberson, Mary</persName>
 </person>
-<person role="attorney_petitioner" xml:id="per.000751">
-<persName>Ratcliffe, Daniel</persName>
+<person role="attorney_petitioner">
+<persName/>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -121,6 +124,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-03-03" who="#kln">reviewed; edited</change>
 <change when="2016-02-29" who="#snc">encoded; transcribed</change>
 </revisionDesc>
 
@@ -144,7 +148,7 @@ To the Marshal of the District of Columbia&#8212;Greeting:</p>
 
 <div2 type="body">
 
-<p>We command you that you <del>take</del> Summon Mary Roberson <del>late of Washington County, if shall be found within the County of Washington in your said District, and safely keep, so that you have bod</del> before the Circuit Court of the District of Columbia to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo next, to answer <del>unto</del> The Petition for freedom of Fanny Hamilton&#8212;</p>
+<p>We command you that you <del>take</del> Summon Mary Roberson <del>late of Washington County, if shall be found within the County of Washington in your said District, and safely keep, so that you have bod</del> before the Circuit Court of the District of Columbia to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo next, to answer <del>unto</del> the Petition for freedom of Fanny Hamilton</p>
 
 <p>Hereof fail not at your peril, and have you then and there this writ.</p>     
 
@@ -165,7 +169,7 @@ To the Marshal of the District of Columbia&#8212;Greeting:</p>
 <p>58</p>
 
 <p>Fanny Hamilton<lb/>
-><lb/>
+<lb/>
 Mary Roberson</p>
 
 <p>Sub<lb/>

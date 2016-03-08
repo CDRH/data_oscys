@@ -10,6 +10,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -46,7 +47,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Summons of William Sexsmith</title>
-<date when="1859-05-14">May 14, 1859</date>
+<date when="1859-05-16">May 16, 1859</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -96,13 +97,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002196">
 <persName>Henderson, Milly</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002197">
 <persName>Sexsmith, William</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002198">
 <persName>Cross, William B. B.</persName>
 </person>
 <person role="attorney_defendant">
@@ -119,7 +120,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>
+<change when="2016-03-03" who="#kln">reviewed; edited</change>         
 <change when="2016-02-26" who="#snc">transcribed; encoded</change>
 </revisionDesc>
 
@@ -143,7 +145,7 @@ To the Marshal of the District of Columbia&#8212;Greeting:</p>
 
 <div2 type="body">
      
-<p>We command you that you <del>take</del> Summon William Sexsmith <del>late of Washington County, if he shall be found within the County of Washington in your said District, and safely keep, so that you have bod</del> before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo&#8212; next, to answer <del>unto</del> The petition for freedom of Milly Henderson</p>
+<p>We command you that you <del>take</del> Summon William Sexsmith <del>late of Washington County, if he shall be found within the County of Washington in your said District, and safely keep, so that you have bod</del> before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo next, to answer unto The Petition for freedom of Milly Henderson</p>
 
 <p>Hereof fail not at your peril, and have you then and there this writ.</p>
 
@@ -164,13 +166,13 @@ To the Marshal of the District of Columbia&#8212;Greeting:</p>
 <p>62</p>
 
 <p>Milly Henderson<lb/>
-><lb/>
+<lb/>
 William Sexsmith</p>
 
 <p>Sub<lb/>
 18 Bre</p>
 
-<p>Pet for freedom<lb/>
+<p>Pet. for freedom<lb/>
 +</p>
 
 <p>Non Est<lb/>
