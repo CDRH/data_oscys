@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -88,20 +89,20 @@
     
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.000194">Caldwell, Elias Boudinot, 1776-1825</term>
-<term>Dobbyn, John</term>
-<term>Dodge, Francis</term>
-<term>Hedges, Nicholas</term>
-<term>Horton, Charles</term>
-<term>Hough, John</term>
-<term>Hyde, Thomas</term>
-<term>Lindsay, Adam</term>
-<term>Lowry, Caesar</term>
-<term>Mountz, Jacob</term>
-<term>Queen, Nicholas L.</term>
-<term>Queen, Samuel</term>
-<term>St. Clair, George</term>
-<term>Veitch, James</term>
-<term>Wharm, David</term>
+<term xml:id="per.000090">Dobbyn, John</term>
+<term xml:id="per.002757">Dodge, Francis</term>
+<term xml:id="per.001572">Hedges, Nicholas</term>
+<term xml:id="per.002758">Horton, Charles</term>
+<term xml:id="per.000095">Hough, John</term>
+<term xml:id="per.001574">Hyde, Thomas</term>
+<term xml:id="per.001872">Lindsay, Adam</term>
+<term xml:id="per.002759">Lowry, Caesar</term>
+<term xml:id="per.002760">Mountz, Jacob</term>
+<term xml:id="per.001873">Queen, Nicholas L.</term>
+<term xml:id="per.001596">Queen, Samuel</term>
+<term xml:id="per.001461">St. Clair, George</term>
+<term xml:id="per.001875">Veitch, James</term>
+<term xml:id="per.001876">Wharm, David</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -116,10 +117,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002755">
 <persName>Lewis</persName>
 </person>
-<person role="defendant"> 
+<person role="defendant" xml:id="per.002756"> 
 <persName>Lowry, Mary</persName>
 </person>
 <person role="attorney_petitioner">
@@ -140,6 +141,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2016-03-07" who="#lkw">added xml:ids</change>
 <change when="2015-05-22" who="#ea">updated case number</change>    
 <change when="2015-01-28" who="#kln">reviewed; edited</change>
 <change when="2015-01-21" who="#ea">Encoded and transcribed.</change>

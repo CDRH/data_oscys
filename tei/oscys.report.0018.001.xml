@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -81,13 +82,13 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Coburn, John</term> 
+<term xml:id="per.000592">Coburn, John</term> 
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Milburn, George</term>
+<term xml:id="per.000593">Milburn, George</term>
 <term xml:id="per.000044">Morsell, James Sewall</term>
-<term>Southall, W. W.</term>
-<term>Straas, Martha</term>
-<term>Van Zandt, Nicholas B.</term>
+<term xml:id="per.000602">Southall, William W.</term>
+<term xml:id="per.000597">Straas, Martha</term>
+<term xml:id="per.000108">Vanzandt, Nicholas B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -129,6 +130,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-03-07" who="#lkw">added xml:ids; changed names of Southall and Vanzandt to match case files; transcription</change>
 <change when="2015-06-25" who="#ea">added case outcome</change>
 <change when="2015-06-02" who="#ea">updated case number</change>
 <change when="2015-04-15" who="#kln">encoded</change>
@@ -159,7 +161,7 @@ should, after such judgment, have filed a paper in that suit, claiming the petit
 
 <p>Possession of, and acts of ownership over, a colored person, are <term>primâ facie</term> evidence
 of slavery and ownership; and a sale of a slave by the importer, within three years
-after importation, gives the slave his freedom if such importer he the sole owner;
+after importation, gives the slave his freedom if such importer be the sole owner;
 but if the importer has only a distributive interest, with others, in the slave, such
 sale does not give freedom.</p>
 

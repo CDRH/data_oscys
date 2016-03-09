@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,20 +87,20 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Beall, Thomas</term>
-<term>Bird, Thomas</term>
-<term>Clarke, Francis</term>
-<term>Cox, John</term>
-<term>Davis, Susan</term>
-<term>Dove, Joseph</term>
-<term>Haye, John</term>
-<term>Hodges, Thomas C.</term>
-<term>Jones, Horatio</term>
-<term>Nevitt, William</term>
-<term>Ober, Jane</term>
-<term>Parry, Stephen</term>
-<term>Peltz, John</term>
-<term>Queen, Henry M.</term>
+<term xml:id="per.000429">Beall, Thomas</term>
+<term xml:id="per.002781">Bird, Thomas</term>
+<term xml:id="per.000085">Clarke, Francis</term>
+<term xml:id="per.001899">Cox, John</term>
+<term xml:id="per.000160">Davis, Susan</term>
+<term xml:id="per.001607">Dove, Joseph</term>
+<term xml:id="per.002782">Haye, John</term>
+<term xml:id="per.001573">Hodges, Thomas C.</term>
+<term xml:id="per.000097">Jones, Horatio</term>
+<term xml:id="per.002783">Nevitt, William</term>
+<term xml:id="per.002784">Ober, Jane</term>
+<term xml:id="per.002785">Parry, Stephen</term>
+<term xml:id="per.001459">Peltz, John</term>
+<term xml:id="per.000102">Queen, Henry M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -114,16 +115,16 @@
 
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.001601">
 <persName>Davis, John</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.001602">
 <persName>Davis, Mary Ann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.001603">
 <persName>Davis, Teresa</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.001604">
 <persName>Wood, Hezekiah</persName>
 </person>
 <person role="attorney_petitioner">
@@ -144,6 +145,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-03-07" who="#lkw">added xml:ids</change>
 <change when="2015-05-22" who="#ea">updated case number</change>
 <change when="2015-01-27" who="#kln">reviewed; edited</change>   
 <change when="2014-01-23" who="#ea">Encoded and transcribed.</change>
