@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0006.037">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0007.005">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Robert Thomas v. Henry Pile. James Mancaster's Answers to Interrogatories</title>
+<title>Ann Queen v. Sylvester Boarman and David Queen v. Sylvester Boarman. Agreement of Counsel</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
+<name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -39,8 +38,9 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0006.037</idno>
-<idno type="case">oscys.caseid.0342</idno>
+<idno type="project">oscys.mdcase.0007.005</idno>
+<idno type="case">oscys.caseid.0386</idno>
+<idno type="case">oscys.caseid.0387</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,15 +50,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">James Mancaster's Answers to Interrogatories</title>
-<date when="1794-10-11">October 11, 1794</date>
+<title level="m" type="main">Agreement of Counsel</title>
+<date when="1801-03-27">March 27, 1801</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Maryland State Archives</repository>
-<collection>General Court of Western Shore (Judgments)</collection>
-<idno>MSA S498-343</idno>
+<repository>Historical Society of Harford County, Md.</repository>
+<collection/>
+<idno/>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -71,7 +71,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Interrogatories</term>
+<term>Agreement</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -83,52 +83,68 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1794-10">October 1794</date></term>
+<term><date when="1801-03">March 1801</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.002078">Freeman, James</term>
-<term xml:id="per.001964">Mingo, Betty</term>
-<term xml:id="per.002046">Mancaster, James</term>
-<term xml:id="per.002055">Semple, John</term>
-<term xml:id="per.002059">Stone, David</term>
+<term xml:id="per.000215">Ashton, John</term>
+<term xml:id="per.000078">Queen, Edward</term>
+<term xml:id="per.000068">Queen, Mary</term>
+<term>Queen, Nancy</term>
+<term xml:id="per.001476">Queen, Phillis</term>
+<term>Sewall, Charles</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
 <term>Charles County (Md.)</term>
+<term>Prince George's County (Md.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>            
-<person role="petitioner" xml:id="per.001950">
-<persName>Thomas, Robert</persName>
+<listPerson xml:id="oscys.caseid.0386">            
+<person role="petitioner">
+<persName>Queen, Ann</persName>
 </person>
-<person role="defendant" xml:id="per.001943">
-<persName>Pile, Henry</persName>
+<person role="defendant">
+<persName>Boarman, Sylvester</persName>
 </person>
 <person role="attorney_petitioner">
-<persName/>
+<persName>Johnson, John</persName>
 </person>
 <person role="attorney_defendant">
-<persName/>
+<persName>Hall, Aquila</persName>
+</person>
+</listPerson>
+
+<listPerson xml:id="oscys.caseid.0387">            
+<person role="petitioner">
+<persName>Queen, David</persName>
+</person>
+<person role="defendant">
+<persName>Boarman, Sylvester</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Johnson, John</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Hall, Aquila</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Maryland. General Court of the Western Shore</orgName>
-<placeName>Annapolis (Md.)</placeName>
+<orgName>Maryland. County Court (Harford County)</orgName>
+<placeName>Bel Air (Md.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>  
-<change when="2016-01-11" who="#kln">reviewed; edited</change>           
-<change when="2015-12-10" who="#lkw">added xml:ids</change> 
-<change when="2015-06-11" who="#ea">encoded and transcribed</change>
+<change when="2016-02-16" who="#kln">reviewed; edited</change>
+<change when="2016-02-10" who="#smb">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,53 +155,36 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="oscys.mdcase.0006.037.001.jpg"/>
+<pb xml:id="p001" facs="oscys.mdcase.0007.005.001.jpg"/>
+
+<div2 type="caption">
+
+<p>Negro Nancy alias Ann Queen<lb/>
+vs<lb/>
+Sylvester Boarman</p>
+
+<p>David Queen<lb/>
+vs<lb/>
+Sylvester Boarman</p>
+
+</div2>
 
 <div2 type="body">
 
-<p>James Moncaster Aged 59 or 60 years being duly sworn on the holy Evangely of Almighty God before the subscriber one of the Justices of Charles County answereth and deposeth as follows. To the interrogatories of the petitioner as follows</p>
+<p>Petition for freedom. It is agreed that the petitioners in this cause are descended through the female line from a women named Mary Queen, the woman under whom Edward, and Phillis Queen who attained their freedom against John Ashton, the former in the General Court the latter in Prince Georges County Court. That she is also the same woman under whom Nancy Queen who claimed her freedom in Charles County Court against Charles Sewall which said Edward, Phillis and Nancy Queen are the same
 
-<p>1 Nothing of either</p>
+<pb xml:id="p002" facs="oscys.mdcase.0007.005.002.jpg"/>
 
-<p>2 I never knew her at all</p>
+persons maintained in the exemplifications herewith filed No. 1. 2. &amp; 3.</p>
 
-<p>3 I know her not.</p>
-
-<p>4 I know nothing of Betty Mingo nor her pedigree</p>     
+<p>John Johnson for Petr.<lb/>
+Aquila Hall for the Master</p>
      
-<p>Defts Interrs</p>
-
-<p>1 I knew her when she was a slave of David Stone, that he afterwards exchanged her with John Semple for a negro man. I always understood she was held as a slave by Mr Semple</p>
-
-<p>2 I lived on Point and Manor seven years with Richard Stone; and have lived from twenty one to this time on Point and Manor. I was only acquainted with David Stone</p>
-
-<pb xml:id="p002" facs="oscys.mdcase.0006.037.002.jpg"/>
-
-<p><del>3 I was only acquainted with David</del></p>
-
-<p>4 I never did</p>
-
-<p>James Muncaster<lb/>
-his J mark</p>
-
-<p>I certify that the foregoing deposition was taken before me this 11th. October 1794<lb/>
-James Freeman</p>
-
 </div2>
 
 <div2 type="back">
 
-<p>2.</p>
-
-<p>2 sid</p>
-
-<p>James Moncaster's Deposition</p>
-
-<p>No. 34.</p>
-
-<p>Entered</p>
-
-<p>Filed 31st. October 1794</p>
+<p>Fild. 27 Mar 1801</p>
 
 </div2>
 

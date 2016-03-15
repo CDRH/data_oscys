@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0256.002">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0007.010">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William Killegrew v. Daniel Carroll. Petition for Freedom</title>
+<title>David Queen v. Sylvester Boarman. Summons of Sylvester Boarman</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
-<principal n="Muñoz, Trevor" xml:id="tm">Trevor Muñoz</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Askren, Elizabeth" xml:id="ea">Encoded and transcribed.</name>
+<name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -31,13 +33,13 @@
 <name>Center for Digital Research in the Humanities</name>
 <address>
 <addrLine>319 Love Library</addrLine>
-<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0256.002</idno>
-<idno type="case">oscys.caseid.0258</idno>
+<idno type="project">oscys.mdcase.0007.010</idno>
+<idno type="case">oscys.caseid.0387</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,15 +49,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petition for Freedom</title>
-<date when="1809-01-06">January 6, 1809</date>
+<title level="m" type="main">Summons of Sylvester Boarman</title>
+<date when="1794-08-28">August 28, 1794</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>National Archives and Records Administration</repository>
-<collection>Record Group 21, Entry 6</collection>
-<idno>Box 3, Folder 54</idno>
+<repository>Historical Society of Harford County, Md.</repository>
+<collection/>
+<idno/>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -64,11 +66,11 @@
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
-<term>Case Papers</term>
+<term>Supplementary Documents</term>
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Petition</term>
+<term>Summons</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -80,30 +82,32 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1809-06">June 1809</date></term>
+<term><date when="1801-03">March 1801</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term/>
+<term>Gibson, John Lee</term>
+<term>Preston, Benjamin</term>
+<term>Seney, Joshua</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Washington County (D.C.)</term>
-<term>Washington (D.C.)</term>
+<term>Harford County (Md.)</term>
+<term>Bel Air (Md.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner" xml:id="per.001930">
-<persName>Killegrew, William</persName>
+<person role="petitioner">
+<persName>Queen, David</persName>
 </person>
-<person role="defendant" xml:id="per.001464">
-<persName>Carroll, Daniel, 1764-1849</persName>
+<person role="defendant">
+<persName>Boarman, Sylvester</persName>
 </person>
-<person role="attorney_petitioner" xml:id="per.000011">
-<persName>Hiort, Henry</persName>
+<person role="attorney_petitioner">
+<persName>Pinkney, William</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -112,17 +116,16 @@
             
 <listOrg>
 <org>
-<orgName>United States. Circuit Court (District of Columbia)</orgName>
-<placeName>Washington (D.C.)</placeName>
+<orgName>Maryland. County Court (Harford County)</orgName>
+<placeName>Bel Air (Md.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>  
-<change when="2015-11-30" who="#lkw">added xml:ids</change>
-<change when="2015-03-04" who="#kln">reviewed; edited</change>           
-<change when="2015-02-10" who="#ea">Encoded and transcribed.</change>
+<change when="2016-02-15" who="#kln">reviewed, edited</change>
+<change when="2016-02-10" who="#smb">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,41 +136,47 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="oscys.case.0256.002.001.jpg"/>
+<pb xml:id="p001" facs="oscys.mdcase.0007.010.001.jpg"/>
 
 <div2 type="caption">
 
-<p>To the Honble the Judges of the Circuit Court of the District of Columbia for the County of Washington.</p>
+<p>Harford County<lb/>
+To Wit</p>
+
+<p>State of Maryland<lb/>
+To the Sherriff of Harford county Greeting</p>
 
 </div2>
 
 <div2 type="body">
 
-<p>The Petition of Wm Killegrew, Humbly Sheweth,</p>
-     
-<p>That he is unlawfully detained in slavery by Daniel Carroll Esqr of Duddington, and prays that Process may issue to enable him to assert his right to freedom, And Your Petitioner as in duty bound with ever pray,</p>
-    
-<p>Hiort for the Petitioner<lb/>
-6th January 1809.</p>
+<p>You are hereby commanded to Summon Sylvester Boarman, that he be and appear in his proper person before the Justices of Harford County Court at the Courthouse in Belleair in the same County on the second Monday in March next to Answer unto David Queen on a petition for freedom by him exhibited to the said Court and this you are not to Omit at your peril</p>
 
+<p>Witness the Honble. Joshua Seney Esquire Chief Justice of our said Court the 16th day of August Anno Domini 1794</p> 
+
+<p>Issued the 28th day of August 1794</p>
+
+<p>John Lee Gibson Clk</p>    
+     
 </div2>
 
-<pb xml:id="p002" facs="oscys.case.0256.002.002.jpg"/>
+<pb xml:id="p002" facs="oscys.mdcase.0007.010.002.jpg"/>
 
 <div2 type="back">
 
-<p>54</p>
-    
-<p>Wm Killegrew<lb/>
+<p>16</p>
+
+<p>David Queen<lb/>
 vs<lb/>
-Daniel Carroll Esq. of Duddington</p>
-    
-<p>Petn for Freedom</p>
-    
-<p>Filed<lb/>
-6 January 1809</p>
-    
-<p>Hiort</p>
+Sylvester Boarman</p>
+
+<p>Subpa. and Petition for freedom</p>
+
+<p>Summond<lb/>
+Ben: Preston<lb/>
+Shff</p> 
+
+<p>WP</p>
 
 </div2>
 

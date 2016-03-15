@@ -10,6 +10,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -82,9 +83,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>C</term>
 <term xml:id="per.000476">Dunlop, James, 1793-</term>
-<term>M</term>
 <term xml:id="per.001217">Selden, William</term>
 <term xml:id="per.000740">Smith, John A.</term>
 </keywords>
@@ -98,10 +97,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.001841">
 <persName>Madella, Rebecca</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.001843">
 <persName>Munroe, Virginia</persName>
 </person>
 <person role="attorney_petitioner">
@@ -122,6 +121,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2016-03-03" who="#kln">reviewed; edited</change>
 <change when="2016-02-25" who="#snc">encoded; transcribed</change>
 </revisionDesc>
 
@@ -145,7 +145,7 @@ To the Marshal of the District of Columbia&#8212;Greeting:</p>
 
 <div2 type="body">
 
-<p>We command you that you <del>take</del> Summon Virginia Munro&#8212; <del>late of Washington County, if shall be found within the County of Washington in your said District, and safely keep, so that you have body</del> before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo&#8212; next, to answer unto Rebecca Madella her <del>a</del> petition for freedom</p>
+<p>We command you that you <del>take</del> Summon Virginia Munro <del>late of Washington County, if shall be found within the County of Washington in your said District, and safely keep, so that you have body</del> before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo next, to answer unto Rebecca Madella her <del>a</del> petition for freedom</p>
 
 <p>Hereof fail not at your peril, and have you then and there this writ.</p>
 
@@ -166,7 +166,7 @@ To the Marshal of the District of Columbia&#8212;Greeting:</p>
 <p>59</p>
 
 <p>Rebecca Madella<lb/>
-><lb/>
+<lb/>
 Virginia Munroe</p>
 
 <p>Sub<lb/>
