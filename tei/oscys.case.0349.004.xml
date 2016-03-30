@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -100,31 +101,31 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002583">
 <persName>Gordon, Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002584">
 <persName>Harrison, Margaret</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002585">
 <persName>Harrison, Mildred</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002586">
 <persName>Osborn, Jane</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002587">
 <persName>Richards, Berton</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002588">
 <persName>Richards, Milly</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002589">
 <persName>Richards, Nancy</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002590">
 <persName>Richards, William H.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002591">
 <persName>Crawford, Richard R.</persName>
 </person>
 <person role="attorney_defendant">
@@ -142,6 +143,7 @@
 </profileDesc>
         
 <revisionDesc>          
+<change when="2016-02-15" who="#lkw">added xml:ids</change>
 <change when="2015-12-07" who="#kln">reviewed, edited</change>
 <change when="2015-09-28" who="#snc">transcribed; encoded</change>
 </revisionDesc>

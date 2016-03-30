@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -100,37 +101,37 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002241">
 <persName>Herbert, Edward</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002242">
 <persName>Herbert, Elizabeth</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002243">
 <persName>Herbert, John</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002244">
 <persName>Herbert, Robert</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002245">
 <persName>Herbert, Rose</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002246">
 <persName>Herbert, Sandy</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002247">
 <persName>Herbert, Theodosia</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002248">
 <persName>Herbert, William</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002249">
 <persName>Ringgold, Mary</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002250">
 <persName>Smith, J. B. H.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002252">
 <persName>Stone, William J.</persName>
 </person>
 <person role="attorney_defendant">
@@ -148,6 +149,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2015-01-11" who="#lkw">added xml:ids</change> 
 <change when="2015-06-25" who="#kln">reviewed; edited</change>    
 <change when="2015-03-16" who="#snc">Encoded and transcribed</change>
 </revisionDesc>

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -90,9 +91,9 @@
 <term xml:id="per.000215">Ashton, John</term>
 <term xml:id="per.000078">Queen, Edward</term>
 <term xml:id="per.000068">Queen, Mary</term>
-<term>Queen, Nancy</term>
+<term xml:id="per.002659">Queen, Nancy</term>
 <term xml:id="per.001476">Queen, Phillis</term>
-<term>Sewall, Charles</term>
+<term xml:id="per.002693">Sewall, Charles</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -143,6 +144,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-16" who="#kln">reviewed; edited</change>
 <change when="2016-02-10" who="#smb">transcribed and encoded</change>
 </revisionDesc>

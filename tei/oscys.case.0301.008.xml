@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,11 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Boothe, Thomas</term>
-<term>Campbell, Alice</term>
-<term>Mareman, Ann</term>
-<term>Mareman, Susan</term>
-<term>Winifred</term>
+<term xml:id="per.002313">Boothe, Thomas</term>
+<!-- <term>Campbell, Alice</term> -->
+<term xml:id="per.002290">Boothe, Ann Mareman</term>
+<term xml:id="per.002294">Mareman, Susanna</term>
+<term xml:id="per.002303">Winifred</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -101,31 +102,31 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002304">
 <persName>Bond, Mary Ann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002305">
 <persName>Campbell, Alice</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002306">
 <persName>Dorsey, Elizabeth</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002307">
 <persName>Dorsey, John Henry</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002308">
 <persName>Eglin, Julia Ann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002309">
 <persName>Eglin, Maria Louisa</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002310">
 <persName>Eglin, Mary Ellana</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002311">
 <persName>Magruder, Thomas C.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.001913">
 <persName>Carrington, Edward C.</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.000829">
@@ -149,6 +150,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2015-01-20" who="#lkw">added xml:ids</change>
 <change when="2015-08-04" who="#kln">reviewed; edited</change>         
 <change when="2015-04-02" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

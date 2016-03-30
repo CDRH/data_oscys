@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Harriet Bell v. Reed. Summons of Reed</title>
+<title>Harriet Bell v. Lee. Summons of Lee</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -49,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of Reed</title>
+<title level="m" type="main">Summons of Lee</title>
 <date when="1856-05-23">May 23, 1856</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -100,16 +101,16 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002351">
 <persName>Bell, Harriet</persName>
 </person>
-<person role="defendant">
-<persName>Reed</persName>
+<person role="defendant" xml:id="per.002350">
+<persName>Lee</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000829">
 <persName>Bradley, Joseph H. (Joseph Habersham), 1802-1887</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002341">
 <persName>Bradley, Joseph H., Jr.</persName>
 </person>
 <person role="attorney_defendant">
@@ -127,6 +128,7 @@
 </profileDesc>
         
 <revisionDesc>     
+<change when="2016-01-20" who="#lkw">added xml:ids; changed defendant from Reed to Lee</change>
 <change when="2015-07-13" who="#kln">reviewed; edited</change>          
 <change when="2015-04-09" who="#snc">Encoded and transcribed</change>
 </revisionDesc>

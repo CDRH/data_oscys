@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -85,12 +86,13 @@
 </keywords>
  
 <keywords scheme="lcsh" n="people"> 
-<term>Baker, Jeremiah</term>
-<term>Baxter, Joseph</term>
-<term>Coale, Samuel</term>
-<term>Coale, William</term>
-<term>Gale, Lyttleton</term>
-<term>Rogers, Joseph</term>
+<term xml:id="per.002467">Baker, Jeremiah</term>
+<term xml:id="per.002468">Baxter, Joseph</term>
+<term xml:id="per.002469">Coale, Samuel</term>
+<term xml:id="per.002470">Coale, William</term>
+<term xml:id="per.002450">Gale, Lyttleton</term>
+<term xml:id="per.002471">Reed, Nat</term>
+<term xml:id="per.002451">Rogers, Joseph</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -101,25 +103,25 @@
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002452">
 <persName>Eliza</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002453">
 <persName>Emily</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002454">
 <persName>Jane</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002455">
 <persName>John</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002456">
 <persName>Julia</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002457">
 <persName>Lucy</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002458">
 <persName>Cooke, Stephen</persName>
 </person>
 <person role="attorney_petitioner">
@@ -140,6 +142,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-08" who="#lkw">added xml:ids</change> 
 <change when="2015-12-01" who="#kln">reviewed, edited</change>
 <change when="2015-07-24" who="#snc">transcribed, encoded</change>
 </revisionDesc>
@@ -166,7 +169,7 @@ set my hand and affixed my seal this thirty first day of December eighteen hundr
 <p>Witness<lb/>
 William Coale<lb/>
 Saml. Coale<lb/>
-Nat <unclear reason="illegible">Reed</unclear></p>
+Nat Reed</p>
 
 <p>Maryland Cecil County ss.</p>
 

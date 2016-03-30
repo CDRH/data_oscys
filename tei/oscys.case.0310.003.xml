@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,7 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Butler, Matilda</term>
+<term xml:id="per.001388">Butler, Matilda</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -98,10 +99,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002352">
 <persName>Humphreys, Harriet</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002353">
 <persName>Hunter, Robert W.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000851">
@@ -121,7 +122,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>     
+<revisionDesc>    
+<change when="2016-01-20" who="#lkw">added xml:ids; transcription</change> 
 <change when="2015-07-13" who="#kln">reviewed; edited</change>        
 <change when="2015-04-13" who="#snc">Encoded and transcribed</change>
 </revisionDesc>
@@ -144,7 +146,7 @@
 
 <div2 type="body">
 
-<p>Harriet Humphreys by Matilda Butler her next friend files this her petition &amp; respectfully represents unto your Honors that one Robert W Hunter now holds &amp; unjustly detains your petitioner in bondage as a slave and your petitioner further represents to your Honors that she is in fact &amp; <gap extent="one word" reason="illegible"/> a free negro woman &amp; entittled to her <unclear reason="illegible">uncontrolled</unclear> freedom and she prays your Honors to grant her the usual subpoena commanding the said Robert W Hunter to be &amp; appear before your Honors &amp; <gap extent="one word" reason="illegible"/> &amp;c &amp; hear &amp; determine her case according to law.</p>
+<p>Harriet Humphreys by Matilda Butler her next friend files this her petition &amp; respectfully represents unto your Honors that one Robert W Hunter now holds &amp; unjustly detains your petitioner in bondage as a slave and your petitioner further represents to your Honors that she is in fact &amp; <gap extent="one word" reason="illegible"/> a free negro woman &amp; entittled to her <unclear reason="illegible">uncontroled</unclear> freedom and she prays your Honors to grant her the usual subpoena commanding the said Robert W Hunter to be &amp; appear before your Honors &amp; answer &amp;c &amp; hear &amp; determine her case according to law.</p>
 
 <p>Chas S Wallach<lb/>
 for Petitioner</p>

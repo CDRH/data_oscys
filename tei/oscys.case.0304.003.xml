@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,21 +87,21 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Baker, Nancy H.</term>
-<term>Carr, Chloe Lee</term>
-<term>Carr, Nancy</term>
-<term>Carr, Overton, Jr.</term>
-<term>Catherine</term>
-<term>Frost, S.</term>
-<term>George</term>
-<term>Hanson, Grafton D.</term>
-<term>Ingle, John P.</term>
-<term>Mary</term>
-<term>Roach, Edward N.</term>
-<term>Robert</term>
-<term>Sissy</term>
-<term>Wells, Becky</term>
-<term>Wells, Betsy</term>
+<term xml:id="per.002325">Baker, Nancy H.</term>
+<term xml:id="per.002326">Carr, Chloe Lee</term>
+<term xml:id="per.002327">Carr, Nancy</term>
+<term xml:id="per.002328">Carr, Overton, Jr.</term>
+<term xml:id="per.002329">Catherine</term>
+<term xml:id="per.002330">Frost, S.</term>
+<term xml:id="per.002331">George</term>
+<term xml:id="per.002332">Hanson, Grafton D.</term>
+<term xml:id="per.002333">Ingle, John P.</term>
+<term xml:id="per.002334">Mary</term>
+<term xml:id="per.002315">Roach, Edward N.</term>
+<term xml:id="per.002335">Robert</term>
+<term xml:id="per.002336">Sissy</term>
+<term xml:id="per.002337">Wells, Becky</term>
+<term xml:id="per.002338">Wells, Betsy</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -112,10 +113,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002323">
 <persName>Jones, Andrew</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002324">
 <persName>Pearce, Joshua</persName>
 </person>
 <person role="attorney_petitioner">
@@ -136,6 +137,7 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2016-01-20" who="#lkw">added xml:ids; transcription</change> 
 <change when="2015-08-07" who="#kln">reviewed; edited</change>              
 <change when="2015-04-03" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
@@ -162,7 +164,7 @@
 
 <p>Fourth. I also give and bequeath to the said Overton Carr Junior all the stock of the Corporation of Washington City whenof I shall die possessed.</p>
 
-<p>Fifth. I give to my niece Nancy Carr my <gap extent="one word" reason="illegible"/> bedding, and all the household furniture that I shall die possessed of.</p>
+<p>Fifth. I give to my niece Nancy Carr my bed, bedding, and all the household furniture that I shall die possessed of.</p>
 
 <p>Sixthly. I hereby give and bequeath to my sister
 
@@ -177,7 +179,7 @@ Chloe Lee Carr all the residue of my property of whatsoever nature or descriptio
 <p>Signed, sealed, published and declared by the above named Nancy H. Baker to this her last Will and testament in the presence of us, who have here unto subscribed our names as witnesses, in the presence of the testatrix.<lb/>
 G. D. Hanson<lb/>
 S. Frost<lb/>
-John P. Prigle</p> 
+John P. Ingle</p> 
 
 <p>District of Columbia, Orphan's Court<lb/>
 Washington County, towit: December 10th 1839.</p>

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,9 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.000476">Dunlop, James, 1793-</term>
-<term xml:id="per.001216">Hoover, Jonah D.</term>
-<term xml:id="per.000740">Smith, John A.</term>
+<term/>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -100,10 +99,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002386">
 <persName>Steward, Susan</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002387">
 <persName>Holley, Henry L.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -124,6 +123,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-02-04" who="#lkw">added xml:ids; removed Dunlop, Hoover and Smith from people</change>  
 <change when="2015-07-15" who="#kln">reviewed; edited</change>             
 <change when="2015-04-15" who="#snc">Encoded and transcribed.</change>
 </revisionDesc>
@@ -146,7 +146,7 @@
 
 <div2 type="body">
      
-<p>Your Petitioner Susan Steward respectfully shews to your Honors that she is free and is claimed as slave by one Henry L. Holley and she prays process against him <gap extent="three words" reason="illegible"/> &amp; your Honors <unclear reason="illegible">enquire</unclear> <unclear reason="illegible">into</unclear> &amp;c</p>
+<p>Your Petitioner Susan Steward respectfully shews to your Honors that she is free and is claimed as slave by one Henry L. Holley and she prays process against him <gap extent="one words" reason="illegible"/> his answer &amp; your Honors <unclear reason="illegible">enquire</unclear> <unclear reason="illegible">into</unclear> <gap extent="one word"/></p>
 
 <p><gap extent="one name" reason="illegible"/></p>
      

@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -85,11 +86,12 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
-<term>Carroll, William, 1788-1844</term>
+<term xml:id="per.002558">Carroll, William, 1788-1844</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Erving, Nathan</term>
-<term>Erwin, John P.</term>
-<term>Tannehill, Wilkins, 1787-1858</term> 
+<term xml:id="per.002574">Ewing, Nathan</term>
+<term xml:id="per.002560">Erwin, John P.</term>
+<term xml:id="per.002575">Graham, Daniel, 1789-1869</term>
+<term xml:id="per.002564">Tannehill, Wilkins, 1787-1858</term> 
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -103,22 +105,22 @@
             
 <particDesc>   
 <listPerson>
-<person role="petitioner">
-<persName>Charles</persName>
-</person>            
-<person role="petitioner">
-<persName>Charlotte</persName> 
+<person role="petitioner" xml:id="per.002553">
+<persName>Stanley, Charles</persName>
 </person>
-<person role="petitioner">
-<persName>Mary Ann</persName>
+<person role="petitioner" xml:id="per.002554">
+<persName>Stanley, Charlotte</persName> 
 </person>
-<person role="defendant">
-<persName>Clay, Henry, 1777-1852</persName> 
+<person role="petitioner" xml:id="per.002555">
+<persName>Stanley, Mary Ann</persName>
+</person>
+<person role="defendant" xml:id="per.002556">
+<persName>Clay, Henry, 1777-1852</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000572">
 <persName>Beale, Robert</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.002557">
 <persName>Dawson, George W.</persName>
 </person>
 </listPerson>
@@ -133,6 +135,7 @@
 </profileDesc>
         
 <revisionDesc>     
+<change when="2016-02-15" who="#lkw">added xml:ids; added Daniel Graham to people; changed Erving to Ewing in all instances</change>
 <change when="2015-10-28" who="#kln">reviewed; edited</change>        
 <change when="2015-08-25" who="#snc">transcribed; encoded</change>
 </revisionDesc>
@@ -157,7 +160,7 @@ To all who shall see these Presents, Greeting;</p>
 
 <div2 type="body">
 
-<p>Know you that Nathan Erving who made the annexed certificate was at the time of making the same (3 Nov Inst) Clerk of the Court of Pleas and Quarter sessions in &#38; for our County of Davidson, duly appointed &#38; sworn; (which said Court is a Court of Record;) That all faith &#38; credit are due and ought to be given to his official acts as clerk aforesaid; and that his said Certificate is in due form of Law.</p>
+<p>Know you that Nathan Ewing who made the annexed certificate was at the time of making the same (3 Nov Inst) Clerk of the Court of Pleas and Quarter sessions in &#38; for our County of Davidson, duly appointed &#38; sworn; (which said Court is a Court of Record;) That all faith &#38; credit are due and ought to be given to his official acts as clerk aforesaid; and that his said Certificate is in due form of Law.</p>
 
 <p>In testimony whereof I have hereunto set my hand and caused the Great seal of the State to be affixed at Nashville this 6 day of Nov 1829</p>
 

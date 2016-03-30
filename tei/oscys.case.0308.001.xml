@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -97,16 +98,16 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002349">
 <persName>Bell, Louisa</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002350">
 <persName>Lee</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000829">
 <persName>Bradley, Joseph H. (Joseph Habersham), 1802-1887</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002341">
 <persName>Bradley, Joseph H., Jr.</persName>
 </person>
 <person role="attorney_defendant">
@@ -124,6 +125,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-01-20" who="#lkw">added xml:ids; transcription</change>
 <change when="2015-07-13" who="#kln">reviewed; edited</change>             
 <change when="2015-04-09" who="#snc">Encoded and transcribed</change>
 </revisionDesc>
@@ -146,7 +148,7 @@
 
 <div2 type="body">
 
-<p>The Petition of <del>Louisa</del> <del>Harriet</del> Louisa Bell shows that she is free, and has been seized &amp; is now held and is about to be carried out of this District by a certain &#8212; Lee <del>Green</del> &amp; others to her unknown &amp; she prays the process of this Cout that she may be adjudged free</p>
+<p>The Petition of <del>Louisa</del> <del>Harriet</del> Louisa Bell shows that she is free, and has been seized &amp; is now held and is about to be carried out of this District by a certain &#8212; Lee <del>Green</del> &amp; others to her unknown &amp; she prays the process of this Court that she may be adjudged free</p>
 
 <p>Bradley &amp; Bradley<lb/>
 for Petitner</p>

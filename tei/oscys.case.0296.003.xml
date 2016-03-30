@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,8 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Johnson, John</term>
-<term>Turner, Thomas, Jr.</term>
+<term xml:id="per.002147">Johnson, John</term>
+<term xml:id="per.002148">Turner, Thomas, Jr.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">  
@@ -100,19 +101,19 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002260">
 <persName>Johnson, Ellen</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002261">
 <persName>Johnson, John Thomas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002262">
 <persName>Johnson, Louisa</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002263">
 <persName>Johnson, Robert</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002150">
 <persName>Adler, Morris</persName>
 </person>
 <person role="attorney_petitioner">
@@ -132,7 +133,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>           
+<change when="2015-01-11" who="#lkw">added xml:ids</change>   
 <change when="2015-07-06" who="#kln">reviewed; edited</change>
 <change when="2015-03-19" who="#snc">transcribed, encoded</change>
 </revisionDesc>
@@ -169,11 +171,11 @@ she removed to another part of said Town; where she carried on the same sort of 
 
 <p>That shortly after she as aforesaid left her said Masters residence, <del>and</del> which residing near him the defendant intestate was in her shop, and there purchased some oranges from her, &#38; said to a free white person who was also there purchasing "Madam dont you think Ellen is rather hard on me, I have given her herself, and her two children and now she wants me to give her the other." and on another occasion, and shortly after the last mentioned occurrence meeting the same witness and asking her how Ellen was getting along he said, speaking of Ellen, "she is a free dealer, I pay no debts of her contracting, and have nothing to do with her":</p>
 
-<p>That after the said Ellen so aforesaid left the residence of her said Master, she gave birth to a number of children three only of which are now living, and have grown up to be valuable: that the said Turner refused to pay more than half the expenses attending the birth of said twins, and never did thereafter contribute a cent to any of the expenses incident to the birth and nurture of any of her after born children: and sometime within</p>
+<p>That after the said Ellen so aforesaid left the residence of her said Master, she gave birth to a number of children three only of which are now living, and have grown up to be valuable: that the said Turner refused to pay more than half the expenses attending the birth of said twins, and never did thereafter contribute a cent to any of the expenses incident to the birth and nurture of any of her after born children: and sometime within
 
 <pb xml:id="p003" facs="oscys.case.0296.003.003.jpg"/>
 
-<p>a year or two before the death of said Turner which happened in the summer of 1849 he visited said Ellen and there in the presence of a respectable white witness said on seeing some of Nellys children come in from the street, "Nelly Why dont you put your children out to trades and when they grow up they will be able to earn their bread".</p>
+a year or two before the death of said Turner which happened in the summer of 1849 he visited said Ellen and there in the presence of a respectable white witness said on seeing some of Nellys children come in from the street, "Nelly Why dont you put your children out to trades and when they grow up they will be able to earn their bread".</p>
 
 <p>That John the oldest son of said Nelly was sued in George Town before a Justice of the Peace of said Town, in the life time of said Turner in the year 1849, and judgement recovered against him and a fine imposed for the infraction of an ordinance of said town, and said fine was paid either by said John, or by his Father.</p>
  

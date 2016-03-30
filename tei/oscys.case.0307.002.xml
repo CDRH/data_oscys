@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -100,22 +101,22 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002345">
 <persName>Jackson, Mary</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002346"><!-- James -->
 <persName>Jackson, Samuel</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002347">
 <persName>Jackson, William</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002348">
 <persName>Davis, Benjamin</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000829">
 <persName>Bradley, Joseph H. (Joseph Habersham), 1802-1887</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002341">
 <persName>Bradley, Joseph H., Jr.</persName>
 </person>
 <person role="attorney_defendant">
@@ -133,6 +134,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2016-01-20" who="#lkw">added xml:ids</change>
 <change when="2015-08-13" who="#kln">reviewed; edited</change>              
 <change when="2015-04-10" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
