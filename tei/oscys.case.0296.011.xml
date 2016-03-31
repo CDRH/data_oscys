@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ellen Johnson v. Morris Adler. Verdict</title>
+<title>Ellen Johnson v. Morris Adler and Rachel Johnson v. Morris Adler. Verdict</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
@@ -102,8 +102,8 @@
 
 </textClass>
             
-<particDesc>   
-<listPerson>            
+<particDesc>           
+<listPerson type="oscys.caseid.0298"> 
 <person role="petitioner" xml:id="per.002260">
 <persName>Johnson, Ellen</persName>
 </person>
@@ -126,6 +126,24 @@
 <persName>Carlisle, James M.</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.000830">
+<persName>Marbury, John</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0288">            
+<person role="petitioner" xml:id="per.002149">
+<persName>Johnson, Rachel</persName>
+</person>
+<person role="defendant" corresp="per.002150">
+<persName>Adler, Morris</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.000829">
+<persName>Bradley, Joseph H. (Joseph Habersham), 1802-1887</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.000847">
+<persName>Carlisle, James M.</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000830">
 <persName>Marbury, John</persName>
 </person>
 </listPerson>
