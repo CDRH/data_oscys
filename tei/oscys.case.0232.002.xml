@@ -10,7 +10,6 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
-<name n="McCormick, Kylie L." xml:id="klm">Kylie L. McCormick</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
@@ -100,10 +99,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.001821">
 <persName>Addison, Henry</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.001822">
 <persName>Rogers, Thomas</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.001235">

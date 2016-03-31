@@ -11,7 +11,6 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -103,10 +102,10 @@
 <person role="defendant">
 <persName>Cornwell, John</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.000854">
 <persName>Ennis, John F.</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.002274">
 <persName>Neale, Christopher</persName>
 </person>
 </listPerson>
@@ -122,7 +121,6 @@
         
 <revisionDesc>      
 <change when="2016-02-05" who="#kln">edited transcription</change>  
-<change when="2015-12-14" who="#lkw">added xml:ids; transcription</change> 
 <change when="2015-06-03" who="#kln">reviewed; edited</change>          
 <change when="2015-04-06" who="#snc">Encoded and transcribed</change>
 </revisionDesc>
