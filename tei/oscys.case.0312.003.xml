@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,7 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Grigsby, Spottiswood</term>
+<term xml:id="per.002361">Grigsby, Spottiswood</term>
 <term xml:id="per.000740">Smith, John A.</term>
 </keywords>
 
@@ -100,19 +101,19 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002357">
 <persName>Gassaway, Charity</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002358">
 <persName>Gassaway, Lewis</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002359">
 <persName>Rose, Adam</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000847">
 <persName>Carlisle, James M.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002360">
 <persName>Maury, William A.</persName>
 </person>
 <person role="attorney_defendant">
@@ -130,6 +131,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-01-20" who="#lkw">added xml:ids; transcription</change>
 <change when="2015-08-13" who="#kln">reviewed; edited</change>          
 <change when="2015-04-23" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
@@ -152,7 +154,7 @@
 
 <div2 type="body">
 
-<p>The Petition of Lewis Gassaway and Charity his wife negroes of the city of Washington &amp; District aforesaid, respectfully sheweth unto your Honors. That your Petitioners were prior to the first day of January in the year of our Lord eighteen hundred and fifty six, resident in the State of Virginia and then and there held in servitude as the slaves of one Spottiswood Grigsby a resident of the said state; That on or about the said first day of January the said Spottiswood Grigsby sold your Petitioner to one Adam Rose a resident of the City of Washington in the District aforesaid, and that your Petitioners were on or about the said first day of January brought into the said District to reside as the proper slaves and property of the said Adam Rose against the law <del>in such case</del> and the form of the statute in such cases made and provided; and your petitioners are advised and have <gap extent="one word" reason="illegible"/> to believe that by <gap extent="one word" reason="illegible"/> of their said illegal importation into the District aforesaid and produces the <gap extent="one word" reason="illegible"/> sufficient in law they are free and discharged from their said servitude and are unjustly held in bondage by the said Adam Rose; and that they might of right and Justice to be allowed from their said servitude; and to that end your Petitioners humbly
+<p>The Petition of Lewis Gassaway and Charity his wife negroes of the city of Washington &amp; District aforesaid, respectfully sheweth unto your Honors. That your Petitioners were prior to the first day of January in the year of our Lord eighteen hundred and fifty six, resident in the State of Virginia and then and there held in servitude as the slaves of one Spottiswood Grigsby a resident of the said state; That on or about the said first day of January the said Spottiswood Grigsby sold your Petitioner to one Adam Rose a resident of the City of Washington in the District aforesaid, and that your Petitioners were on or about the said first day of January brought into the said District to reside as the proper slaves and property of the said Adam Rose against the law <del>in such case</del> and the form of the statute in such cases made and provided; and your petitioners are advised and have reason to believe that by reason of their said illegal importation into the District aforesaid and produces the reasons sufficient in law they are free and discharged from their said servitude and are unjustly held in bondage by the said Adam Rose; and that they might of right and Justice to be relieved from their said servitude; and to that end your Petitioners humbly
 
 
 <pb xml:id="p002" facs="oscys.case.0312.003.002.jpg"/>

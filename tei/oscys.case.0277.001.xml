@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -83,10 +84,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bett</term>
-<term>Greenfield, Gabriel P. T.</term>
-<term>Jone</term>
-<term>Queen, Henry M.</term>
+<term xml:id="per.002186">Bett</term>
+<term xml:id="per.000776">Greenfield, Gabriel P. T.</term>
+<term xml:id="per.002187">Jone</term>
+<term xml:id="per.000102">Queen, Henry M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -101,19 +102,19 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002188">
 <persName>Hannah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002189">
 <persName>Patt</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002190">
 <persName>Patty</persName>
 </person>
 <person role="defendant" xml:id="per.000775">
 <persName>Greenfield, Gerard T.</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.001816">
 <persName>Greenfield, Thomas</persName>
 </person>
 <person role="attorney_petitioner">
@@ -134,6 +135,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2015-01-05" who="#lkw">added xml:ids</change>
 <change when="2015-04-01" who="#kln">reviewed; edited</change>          
 <change when="2015-03-06" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Nelly Brown v. Nicholas Young. Summons of Nicholas Young</title>
+<title>Thomas Brown v. Nicholas Young. Summons of Nicholas Young</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Muñoz, Trevor" xml:id="tm">Trevor Muñoz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N" xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -87,6 +88,7 @@
 <keywords scheme="lcsh" n="people">  
 <term xml:id="per.000006">Boyd, Washington</term>
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.000016">Brown, Nelly</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
 </keywords>
 
@@ -99,13 +101,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner" xml:id="per.000016">
-<persName>Brown, Nelly</persName>
-</person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002601">
 <persName>Brown, Thomas</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002602">
 <persName>Young, Nicholas</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000011">
@@ -126,6 +125,8 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-03-31" who="#kln">removed Nelly from particDesc</change>
+<change when="2016-02-18" who="#lkw">added xml:ids</change>  
 <change when="2015-12-11" who="#kln">reviewed, edited</change>
 <change when="2015-11-02" who="#snc">transcribed; encoded</change>
 </revisionDesc>

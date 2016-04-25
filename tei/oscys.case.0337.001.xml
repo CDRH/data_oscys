@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -95,8 +96,8 @@
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
-<persName>Ward, Amelia</persName><!--surname listed in .008, aka Ammy-->
+<person role="petitioner" xml:id="per.002505">
+<persName>Ward, Amelia</persName>
 </person>
 <person role="defendant" xml:id="per.000194">
 <persName>Caldwell, Elias Boudinot, 1776-1825</persName>
@@ -122,6 +123,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-15" who="#lkw">added xml:ids</change> 
 <change when="2015-12-02" who="#kln">reviewed, edited</change>
 <change when="2015-07-29" who="#snc">transcribed, encoded</change>
 </revisionDesc>

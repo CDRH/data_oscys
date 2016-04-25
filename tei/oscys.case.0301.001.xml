@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,30 +87,30 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Cecil, Ethelbert</term>
-<term>Combs, George</term>
-<term>Forrest, James</term>
-<term>Greenwell, Edmund</term>
-<term>Harriott</term>
-<term>Hayden, Ann Penny</term>
-<term>Hayden, George</term>
-<term>Hopewell, Bennett</term>
-<term>Leigh, Lewis</term>
-<term>Leigh, Mary Attaway</term>
-<term>Mareman, Ann</term>
-<term>Mareman, James</term>
-<term>Mareman, John</term>
-<term>Mareman, Joseph</term>
-<term>Mareman, Susanna</term>
-<term>Mareman, Thomas</term>
-<term>O'Neale, Charles</term>
-<term>O'Neale, Mary</term>
-<term>Phil</term>
-<term>Price, John</term>
-<term>Price, Julian</term>
-<term>Price, Susanna</term>
-<term>Price, William</term>
-<term>Winifred</term>
+<term xml:id="per.002280">Cecil, Ethelbert</term>
+<term xml:id="per.002281">Combs, George</term>
+<term xml:id="per.002282">Forrest, James</term>
+<term xml:id="per.002283">Greenwell, Edmund</term>
+<term xml:id="per.002284">Harriott</term>
+<term xml:id="per.002285">Hayden, Ann Penny</term>
+<term xml:id="per.002286">Hayden, George</term>
+<term xml:id="per.002287">Hopewell, Bennett</term>
+<term xml:id="per.002288">Leigh, Lewis</term>
+<term xml:id="per.002289">Leigh, Mary Attaway</term>
+<term xml:id="per.002290">Mareman, Ann</term>
+<term xml:id="per.002291">Mareman, James</term>
+<term xml:id="per.002292">Mareman, John</term>
+<term xml:id="per.002293">Mareman, Joseph</term>
+<term xml:id="per.002294">Mareman, Susanna</term>
+<term xml:id="per.002295">Mareman, Thomas</term>
+<term xml:id="per.002296">O'Neale, Charles</term>
+<term xml:id="per.002297">O'Neale, Mary</term>
+<term xml:id="per.002298">Phil</term>
+<term xml:id="per.002299">Price, John</term>
+<term xml:id="per.002300">Price, Julian</term>
+<term xml:id="per.002301">Price, Susanna</term>
+<term xml:id="per.002302">Price, William</term>
+<term xml:id="per.002303">Winifred</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -120,28 +121,28 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002304">
 <persName>Bond, Mary Ann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002305">
 <persName>Campbell, Alice</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002306">
 <persName>Dorsey, Elizabeth</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002307">
 <persName>Dorsey, John Henry</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002308">
 <persName>Eglin, Julia Ann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002309">
 <persName>Eglin, Maria Louisa</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002310">
 <persName>Eglin, Mary Ellana</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002311">
 <persName>Magruder, Thomas C.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -162,6 +163,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2015-01-20" who="#lkw">added xml:ids</change>
 <change when="2015-08-04" who="#kln">reviewed; edited</change>           
 <change when="2015-04-01" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

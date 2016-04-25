@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -87,56 +88,59 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Boothe, Jeremiah</term>
-<term>Brent, William</term>
-<term>Burch, Benjamin</term>
-<term>Cassin, Joseph</term>
-<term>Coombe, Griffith</term>
-<term>Craig, Robert</term>
-<term>Darling, Dennison</term>
-<term>Dobbyn, John</term>
-<term>Dodge, Francis</term>
-<term>Duckett, Allen Bowie</term>
-<term>Eliason, John</term>
-<term>Elliot, Richard</term>
-<term>Flaut, Christian</term>
-<term>Forrest, Richard</term>
-<term>French, Thomas</term>
-<term>Harris, Ann</term>
-<term>Homer, Mary Ann</term>
-<term>Hough, John</term>
-<term>Huddlestone, Joseph</term>
-<term>Hyde, Thomas</term>
-<term>Jameson, Richard</term>
-<term>Johns, Richard</term>
-<term>Joncherez, Alexander L.</term>
-<term>Key, Philip Barton, 1757-1815</term>
-<term>Lindsay, Adam</term>
-<term>Lowe, E. M.</term>
-<term>Lowe, Michael</term>
-<term>McIntire, Samuel</term>
-<term>Moore, George</term>
-<term>Mountz, Jacob</term>
-<term>Newton, Ignatius</term>
-<term>Queen, Henry M.</term>
-<term>Queen, Nicholas L.</term>
-<term>Rabbit, John</term>
-<term>Shorter, Catherine</term>
-<term>Shorter, Charles</term>
-<term>Shorter, Jane</term>
-<term>Shorter, Mary</term>
-<term>Smallwood, Samuel N.</term>
-<term>Speake, Samuel</term>
-<term>St. Clair, George</term>
-<term>Sullivan, Ann</term>
-<term>Thompson, John</term>
-<term>Veitch, James</term>
-<term>Warren, Samuel</term>
-<term>Washington, Baily</term>
-<term>Wharm, David</term>
-<term>Wheeler, Edward</term>
-<term>Wood, Hezekiah</term>
-<term>Wright, Matthew</term>
+<term xml:id="per.002763">Boothe, Jeremiah</term>
+<term xml:id="per.000003">Brent, William</term>
+<term xml:id="per.002741">Burch, Benjamin</term>
+<term xml:id="per.001454">Cassin, Joseph</term>
+<term xml:id="per.001869">Coombs, Griffith</term>
+<term xml:id="per.002742">Craig, Robert</term>
+<term xml:id="per.002764">Darling, Dennison</term>
+<term xml:id="per.000090">Dobbyn, John</term>
+<term xml:id="per.002757">Dodge, Francis</term>
+<term xml:id="per.002780">Drummond, Hugh</term>
+<term xml:id="per.001543">Duckett, Allen Bowie</term>
+<term xml:id="per.002765">Eliason, John</term>
+<term xml:id="per.002766">Elliot, Richard</term>
+<term xml:id="per.002767">Flaut, Christian</term>
+<term xml:id="per.002768">Forrest, Richard</term>
+<term xml:id="per.002769">French, Thomas</term>
+<term xml:id="per.002721">Frost, John T.</term>
+<term xml:id="per.002770">Harris, Ann</term>
+<term xml:id="per.002771">Homer, Mary Ann</term>
+<term xml:id="per.000095">Hough, John</term>
+<term xml:id="per.002772">Huddlestone, Joseph</term>
+<term xml:id="per.001574">Hyde, Thomas</term>
+<term xml:id="per.001552">Jameson, Richard</term>
+<term xml:id="per.002701">Johns, Richard</term>
+<term xml:id="per.001870">Joncherez, Alexander L.</term>
+<term xml:id="per.001495">Key, Philip Barton, 1757-1815</term>
+<term xml:id="per.001872">Lindsay, Adam</term>
+<term xml:id="per.000127">Lowe, Enoch M.</term>
+<term xml:id="per.001590">Lowe, Michael</term>
+<term xml:id="per.002773">McIntire, Samuel</term>
+<term xml:id="per.001592">Moore, George</term>
+<term xml:id="per.002760">Mountz, Jacob</term>
+<term xml:id="per.001580">Newton, Ignatius</term>
+<term xml:id="per.000102">Queen, Henry M.</term>
+<term xml:id="per.001873">Queen, Nicholas L.</term>
+<term xml:id="per.001596">Queen, Samuel</term>
+<term xml:id="per.000156">Rabbit, John</term>
+<term xml:id="per.002774">Shorter, Catherine</term>
+<term xml:id="per.002775">Shorter, Charles</term>
+<term xml:id="per.002776">Shorter, Jane</term>
+<term xml:id="per.002777">Shorter, Mary</term>
+<term xml:id="per.001597">Smallwood, Samuel N.</term>
+<term xml:id="per.001581">Speake, Samuel</term>
+<term xml:id="per.001461">St. Clair, George</term>
+<term xml:id="per.002778">Sullivan, Ann</term>
+<term xml:id="per.001874">Thompson, John</term>
+<term xml:id="per.001875">Veitch, James</term>
+<term xml:id="per.002779">Warren, Samuel</term>
+<term xml:id="per.000109">Washington, Baily</term>
+<term xml:id="per.001876">Wharm, David</term>
+<term xml:id="per.000110">Wheeler, Edward</term>
+<term xml:id="per.001604">Wood, Hezekiah</term>
+<term xml:id="per.002752">Wright, Matthew</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">   
@@ -152,10 +156,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002761">
 <persName>Joice, Clem</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002762">
 <persName>Alexander, Robert</persName>
 </person>
 <person role="attorney_petitioner">
@@ -176,6 +180,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2016-03-07" who="#lkw">added xml:ids; added John T. Frost, Hugh Drummond and Samuel Queen to people</change>
 <change when="2015-06-22" who="#kln">reviewed; edited</change>
 <change when="2015-05-22" who="#ea">updated case number</change>
 <change when="2015-01-23" who="#ea">Encoded and transcribed.</change>

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -87,23 +88,23 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Burnett, Charles A.</term>
-<term>Astin, Chloe</term>
-<term>Astin, David</term>
+<term xml:id="per.001453">Burnett, Charles A.</term>
+<term xml:id="per.002706">Astin, Chloe</term>
+<term xml:id="per.002707">Astin, David</term>
 <term xml:id="per.000194">Caldwell, Elias Boudinot, 1776-1825</term>
-<term>Caldwell, Timothy</term>
-<term>Davis, Shadrack</term>
-<term>Foxon, William</term>
-<term>Hedges, Nicholas</term>
-<term>Hide, Thomas</term>
-<term>Higdon, Gustavus</term>
-<term>Middleton, Electius</term>
-<term>Minifee, Charles</term>
-<term>Purcell, Pierce</term>
-<term>Thompson, John</term>
-<term>Thompson, Moses</term>
-<term>Traverse, Nicholas</term>
-<term>Veitch, James</term>
+<term xml:id="per.002708">Caldwell, Timothy</term>
+<term xml:id="per.002709">Davis, Shadrack</term>
+<term xml:id="per.002710">Foxon, William</term>
+<term xml:id="per.001572">Hedges, Nicholas</term>
+<term xml:id="per.002711">Hide, Thomas</term>
+<term xml:id="per.002712">Higdon, Gustavus</term>
+<term xml:id="per.002713">Middleton, Electius</term>
+<term xml:id="per.000166">Minifee, Charles</term>
+<term xml:id="per.002714">Purcell, Pierce</term>
+<term xml:id="per.002715">Thompson, John</term>
+<term xml:id="per.002716">Thompson, Moses</term>
+<term xml:id="per.002717">Traverse, Nicholas</term>
+<term xml:id="per.001875">Veitch, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -118,10 +119,10 @@
 
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002718">
 <persName>Burr, Moses</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002719">
 <persName>Dunnahoo, Patrick</persName>
 </person>
 <person role="attorney_petitioner">
@@ -142,6 +143,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2015-06-25" who="#ea">added case outcome</change>
 <change when="2015-05-22" who="#ea">updated case number</change>
 <change when="2015-01-27" who="#kln">reviewed; edited</change>
@@ -177,7 +179,7 @@ Patrick Dunnahoo</p>
 <p>Jury fee paid by Mr Caldwell</p>
 
 <list type="simple">
-<item>1. Burnett, Charles A.</item>
+<item>1. Charles A. Burnett</item>
 <item>2. Charles Minifie</item>
 <item>3. Electius Middleton</item>
 <item>4. Gustavus Higdon</item>

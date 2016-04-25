@@ -13,6 +13,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -92,10 +93,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002619">
 <persName>Daniel</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002620">
 <persName>Kincheloe, Ann</persName>
 </person>
 <person role="attorney_petitioner">
@@ -115,7 +116,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>      
+<change when="2016-03-07" who="#lkw">added xml:ids</change>       
 <change when="2016-02-15" who="#kln">transcribed and encoded</change>
 </revisionDesc>
 
@@ -127,7 +129,7 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="oscys.report.0035.001.jpg"/>
+<pb xml:id="p001" facs="oscys.report.0035.001.001.jpg"/>
 
 <div2 type="caption"> 
 
@@ -144,12 +146,12 @@
 </div2>
 
 <div2 type="body">
-     
+
 <p>Petition for freedom.</p>
 
 <p>Upon the trial, the Court (<term>nem. con.</term>) instructed the jury that from the fact that young Kincheloe had authority to hire out the slave and receive his wages, they could not infer that he had authority to sell the slave; and further instructed the jury, (Morsell, J., <term>contr&#224;</term>,) that if they should be satisfied by the evidence, 
 
-<pb xml:id="p002" facs="oscys.report.0035.001.jpg"/>
+<pb xml:id="p002" facs="oscys.report.0035.001.002.jpg"/>
 
 that the importation of the petitioner into the county of Washington was with the intent that he should be hired to remain a limited time only, and not to reside permanently, it was not such an importation as is within the <bibl type="code">first section of the Maryland Act of 1796, c. 67.</bibl></p> 
 

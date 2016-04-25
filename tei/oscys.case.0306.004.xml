@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -98,10 +99,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002343">
 <persName>Gray, George</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002344">
 <persName>Howison, Stephen</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000851">
@@ -122,6 +123,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2016-01-20" who="#lkw">added xml:ids; transcription</change>
 <change when="2015-07-13" who="#kln">reviewed; edited</change>            
 <change when="2015-04-13" who="#snc">Encoded and transcribed.</change>
 </revisionDesc>
@@ -144,7 +146,7 @@
 
 <div2 type="body">
      
-<p>George Gray of the County aforesaid file this his Petition against Stephen Howison administrator of all &amp; <gap extent="one or two words" reason="illegible"/> the Goods &amp; chattels, rights &amp; credits of Mary Ann Potts decd &amp; represents that your Petitioner is now held in slavery by the said Stephen Howison administrator for as aforesaid &amp; that in fact your Petitioner is by law entitled to his freedom &amp; respectfully prays your Honors to grant him the usual subpoena &amp;c. &amp; to hear &amp; determine this his petition &amp; your Petitioner will ever pay &amp;c.</p>
+<p>George Gray of the County aforesaid files this his Petition against Stephen Howison administrator of all &amp; <gap extent="one or two words" reason="illegible"/> the Goods &amp; chattels, rights &amp; credits of Mary Ann Potts decd &amp; represents that your Petitioner is now held in slavery by the said Stephen Howison administrator for as aforesaid &amp; that in fact your Petitioner is by law entitled to his freedom &amp; respectfully prays your Honors to grant him the usual subpoena &amp;c. &amp; to hear &amp; determine this his petition &amp; your Petitioner will ever pay &amp;c.</p>
     
 <p>Chas S Wallach<lb/>
 for Petitioner</p>

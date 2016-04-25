@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -90,8 +91,8 @@
 <term xml:id="per.000215">Ashton, John</term>
 <term xml:id="per.001517">Baden Jr., John</term>
 <term>Baden, Thomas</term>
-<term>Barm, Thomas</term>
-<term>Beard, Richard</term>
+<term xml:id="per.002679">Barm, Thomas</term>
+<term xml:id="per.000216">Beard, Richard</term>
 <term xml:id="per.000217">Belt, Humphrey</term>
 <term>Belt, Levin</term>
 <term xml:id="per.001518">Boone, Joseph</term>
@@ -112,10 +113,10 @@
 <term xml:id="per.001393">Duvall, Gabriel, 1752-1844</term>
 <term xml:id="per.000062">Duvall, Mareen</term>
 <term xml:id="per.000219">Harwood, Thomas</term>
-<term>Henderson</term><!-- madam -->
+<term xml:id="per.002682">Henderson</term><!-- madam -->
 <term xml:id="per.001524">Hodges, Charles</term>
 <term xml:id="per.000075">Ijams, John</term>
-<term>Jackson, William John</term>
+<term xml:id="per.001525">Jackson, William John</term>
 <term xml:id="per.001495">Key, Philip Barton, 1757-1815</term>
 <term xml:id="per.000183">Kilty, William, 1757-1821</term>
 <term xml:id="per.001475">Larkin, Thomas</term>
@@ -125,21 +126,21 @@
 <term xml:id="per.001527">Magill, Thomas</term>
 <term xml:id="per.001528">Magruder, Dennis</term>
 <term xml:id="per.000128">Magruder, John Read, Jr.</term>
-<term>Murdock</term>
+<term xml:id="per.002688">Murdock</term>
 <term>Newcomb, Betty</term>
 <term xml:id="per.000078">Queen, Edward</term>
 <term xml:id="per.000068">Queen, Mary</term>
 <term xml:id="per.001476">Queen, Phillis</term>
-<term>Queen, Ralph</term>
-<term>Queen, Winifred</term>
+<term xml:id="per.002689">Queen, Ralph</term>
+<term xml:id="per.001482">Queen, Winifred</term>
 <term xml:id="per.001477">Quynn, Allen</term>
 <term xml:id="per.001483">Randall, John</term>
 <term>Ridgely, Henry</term>
-<term>Sarah</term>
+<term xml:id="per.002690">Sarah</term>
 <term>Sparrow, Solomon</term>
 <term xml:id="per.001532">Stone, Michael Jenifer, 1747-1812</term>
 <term>Sue</term>
-<term>Tom</term>
+<term xml:id="per.002692">Tom</term>
 <term xml:id="per.001512">Welch, Benjamin</term>
 </keywords>
 
@@ -192,6 +193,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-22" who="#kln">reviewed; edited</change>
 <change when="2016-02-08" who="#smb">transcribed and encoded</change>
 </revisionDesc>

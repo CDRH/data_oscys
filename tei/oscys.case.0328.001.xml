@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -99,35 +100,38 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002422">
 <persName>Beall, Charles</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002423">
 <persName>Kinner, Adeline</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002424">
 <persName>Kinner, Eliza</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002425">
 <persName>Kinner, George</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002426">
 <persName>Kinner, John</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002427">
 <persName>Kinner, Lucy</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002428">
 <persName>Kinner, William</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002429">
 <persName>Plunkett, John</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002430">
 <persName>Plunkett, Maria</persName>
 </person>
-<person role="attorney_petitioner">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.000847">
+<persName>Carlisle, James M.</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.002360">
+<persName>Maury, William A.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -144,6 +148,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-02-08" who="#lkw">added xml:ids; added Carlisle and Maury to attorney_petitioner</change> 
 <change when="2015-08-14" who="#kln">reviewed; edited</change>           
 <change when="2015-04-30" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

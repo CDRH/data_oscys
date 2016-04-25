@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -83,14 +84,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Davis, Jonathan</term>
-<term>Glasse</term>
-<term>Hale, E.</term>
-<term>Kincaid, James</term>
-<term>Queen, Nicholas L.</term>
+<term xml:id="per.002223">Davis, Jonathan</term>
+<term xml:id="per.002226">Glass, James</term>
+<term xml:id="per.002225">Hale, E.</term>
+<term xml:id="per.002224">Kincaid, James</term>
+<term xml:id="per.001873">Queen, Nicholas L.</term>
 <term xml:id="per.000014">Rapine, Daniel</term>
-<term>Speake, George</term>
-<term>Wiley, J.</term>
+<term xml:id="per.002227">Speake, George</term>
+<term xml:id="per.002219">Wiley, J.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -104,7 +105,7 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002222">
 <persName>Morris, Peter</persName>
 </person>
 <person role="defendant" xml:id="per.000278">
@@ -128,6 +129,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2015-01-11" who="#lkw">added xml:ids</change>
 <change when="2015-12-15" who="#kln">corrected caseid</change>
 <change when="2015-04-01" who="#kln">reviewed; edited</change>            
 <change when="2015-03-12" who="#ea">Encoded and transcribed.</change>
