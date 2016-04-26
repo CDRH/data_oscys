@@ -95,17 +95,21 @@
 <term>Washington (D.C.)</term>
 </keywords>
 
+<keywords scheme="original" n="outcome">
+<term>Motion for New Trial</term>
+</keywords>
+
 </textClass>
             
 <particDesc>   
-<listPerson type="oscys.caseid.0317">            
-<person role="petitioner">
-<persName>Vigel, Susan</persName>
+<listPerson type="oscys.caseid.0316">            
+<person role="petitioner" xml:id="per.002371">
+<persName>Vigel, Mary</persName>
 </person>
-<person role="defendant">
-<persName>Naylor, Henry</persName>
+<person role="defendant" xml:id="per.001292">
+<persName>Nevitt, Robert K.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002372">
 <persName>Blair, Montgomery</persName>
 </person>
 <person role="attorney_defendant">
@@ -113,14 +117,14 @@
 </person>
 </listPerson>
 
-<listPerson type="oscys.caseid.0316">            
+<listPerson type="oscys.caseid.0317">            
 <person role="petitioner" xml:id="per.002374">
 <persName>Vigel, Susan</persName>
 </person>
 <person role="defendant" xml:id="per.000883">
 <persName>Naylor, Henry</persName>
 </person>
-<person role="attorney_petitioner" xml:id="per.002372">
+<person role="attorney_petitioner" corresp="per.002372">
 <persName>Blair, Montgomery</persName>
 </person>
 <person role="attorney_defendant">
