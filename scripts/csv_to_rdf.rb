@@ -13,8 +13,8 @@ tei_path = File.join(File.dirname(__FILE__), '../tei/oscys.persons.xml')
 output = File.join(File.dirname(__FILE__), '../rdf/oscys.relationships.ttl')
 
 PREFIXES = {
-  :oscys => 'http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#',
-  :osrdf => 'http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.relationships#',
+  :oscys => 'http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#',
+  :osrdf => 'http://earlywashingtondc.org/rdf/oscys.relationships#',
   :rdf => 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'
 }
 
