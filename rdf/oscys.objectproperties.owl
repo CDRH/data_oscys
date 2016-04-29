@@ -6,12 +6,12 @@
 <!ENTITY daml "http://www.daml.org/2001/03/daml+oil#" >
 <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
 <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
-<!ENTITY lit "http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#" >
+<!ENTITY lit "http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#" >
 ]>
 
-<rdf:RDF xmlns="http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#"
-   xml:base="http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl"
-   xmlns:lit="http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#"
+<rdf:RDF xmlns="http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#"
+   xml:base="http://earlywashingtondc.org/rdf/oscys.objectproperties.owl"
+   xmlns:lit="http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#"
    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
    xmlns:owl2xml="http://www.w3.org/2006/12/owl2-xml#"
    xmlns:owl="http://www.w3.org/2002/07/owl#"
@@ -30,14 +30,14 @@
 
 <!-- legal relationships -->
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#legalRelationship -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#legalRelationship -->    
 <owl:ObjectProperty rdf:about="#legalRelationship">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#legal -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#legal -->    
 <owl:ObjectProperty rdf:about="#legal">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -45,7 +45,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#judgeOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#judgeOf -->    
 <owl:ObjectProperty rdf:about="#judgeOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -53,7 +53,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#judgedBy -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#judgedBy -->    
 <owl:ObjectProperty rdf:about="#judgedBy">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -61,7 +61,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#defendantAgainst -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#defendantAgainst -->    
 <owl:ObjectProperty rdf:about="#defendantAgainst">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -69,7 +69,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#petitionerAgainst -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#petitionerAgainst -->    
 <owl:ObjectProperty rdf:about="#petitionerAgainst">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -77,7 +77,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#attorneyFor -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#attorneyFor -->    
 <owl:ObjectProperty rdf:about="#attorneyFor">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -85,7 +85,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#clientOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#clientOf -->    
 <owl:ObjectProperty rdf:about="#clientOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -94,7 +94,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#attorneyAgainst -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#attorneyAgainst -->    
 <owl:ObjectProperty rdf:about="#attorneyAgainst">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -102,7 +102,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#oppositionsAttorney -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#oppositionsAttorney -->    
 <owl:ObjectProperty rdf:about="#oppositionsAttorney">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -110,7 +110,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#opposingAttorneys -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#opposingAttorneys -->    
 <owl:ObjectProperty rdf:about="#opposingAttorneys">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -118,28 +118,28 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#witnessOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#witnessOf -->    
 <owl:ObjectProperty rdf:about="#witnessOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#witnessFor -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#witnessFor -->    
 <owl:ObjectProperty rdf:about="#witnessFor">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#witnessAgainst -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#witnessAgainst -->    
 <owl:ObjectProperty rdf:about="#witnessAgainst">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#clerkOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#clerkOf -->    
 <owl:ObjectProperty rdf:about="#clerkOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -147,7 +147,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#correspondentOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#correspondentOf -->    
 <owl:ObjectProperty rdf:about="#correspondentOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -155,28 +155,28 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#depondentOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#depondentOf -->    
 <owl:ObjectProperty rdf:about="#deponentOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#depondentFor -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#depondentFor -->    
 <owl:ObjectProperty rdf:about="#deponentFor">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#depondentAgainst -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#depondentAgainst -->    
 <owl:ObjectProperty rdf:about="#deponentAgainst">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#deposed -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#deposed -->    
 <owl:ObjectProperty rdf:about="#deposed">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -184,7 +184,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#deposedBy -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#deposedBy -->    
 <owl:ObjectProperty rdf:about="#deposedBy">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -192,14 +192,14 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#marshalOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#marshalOf -->    
 <owl:ObjectProperty rdf:about="#marshalOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#attorneyWith-->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#attorneyWith-->
 <owl:ObjectProperty rdf:about="#attorneyWith">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
     <rdfs:domain rdf:resource="#Person"/>
@@ -207,14 +207,14 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#notaryFor -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#notaryFor -->    
 <owl:ObjectProperty rdf:about="#notaryFor">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#jurorwith -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#jurorwith -->    
 <owl:ObjectProperty rdf:about="#jurorWith">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
     <rdfs:domain rdf:resource="#Person"/>
@@ -222,63 +222,63 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#jurorFor -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#jurorFor -->    
 <owl:ObjectProperty rdf:about="#jurorFor">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#juryPoolFor -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#juryPoolFor -->    
 <owl:ObjectProperty rdf:about="#juryPoolFor">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#recognizanceWith -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#recognizanceWith -->    
 <owl:ObjectProperty rdf:about="#recognizanceWith">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#nextFriendOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#nextFriendOf -->    
 <owl:ObjectProperty rdf:about="#nextFriendOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#administratorFor -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#administratorFor -->    
 <owl:ObjectProperty rdf:about="#administratorFor">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#executorFor -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#executorFor -->    
 <owl:ObjectProperty rdf:about="#executorFor">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#agentFor -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#agentFor -->    
 <owl:ObjectProperty rdf:about="#agentFor">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#secretaryFor -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#secretaryFor -->    
 <owl:ObjectProperty rdf:about="#secretaryFor">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#sued -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#sued -->    
 <owl:ObjectProperty rdf:about="#sued">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -286,7 +286,7 @@
     <owl:Inverseof rdf:resource="#suedBy"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#suedBy -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#suedBy -->    
 <owl:ObjectProperty rdf:about="#suedBy">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -294,7 +294,7 @@
     <owl:Inverseof rdf:resource="#sued"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#setFree -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#setFree -->    
 <owl:ObjectProperty rdf:about="#setFree">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -302,7 +302,7 @@
     <owl:Inverseof rdf:resource="#setFreeBy"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#setFreeBy -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#setFreeBy -->    
 <owl:ObjectProperty rdf:about="#setFreeBy">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -313,14 +313,14 @@
 
 <!-- family relationships -->
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#familyRelationship -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#familyRelationship -->    
 <owl:ObjectProperty rdf:about="#familyRelationship">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#familyOf -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#familyOf -->
 
 <owl:ObjectProperty rdf:about="#familyOf">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -329,7 +329,7 @@
     <rdfs:subPropertyOf rdf:resource="#familyRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#parentOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#parentOf -->    
 <owl:ObjectProperty rdf:about="#parentOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -337,7 +337,7 @@
     <rdfs:subPropertyOf rdf:resource="#familyRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#childOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#childOf -->    
 <owl:ObjectProperty rdf:about="#childOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -345,7 +345,7 @@
     <rdfs:subPropertyOf rdf:resource="#familyRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#descendantOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#descendantOf -->    
 <owl:ObjectProperty rdf:about="#descendantOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -353,7 +353,7 @@
     <rdfs:subPropertyOf rdf:resource="#familyRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#ancestorOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#ancestorOf -->    
 <owl:ObjectProperty rdf:about="#ancestorOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -361,7 +361,7 @@
     <rdfs:subPropertyOf rdf:resource="#familyRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#spouseOf -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#spouseOf -->
 
 <owl:ObjectProperty rdf:about="#spouseOf">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -370,7 +370,7 @@
     <rdfs:subPropertyOf rdf:resource="#familyRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#siblingOf -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#siblingOf -->
 
 <owl:ObjectProperty rdf:about="#siblingOf">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -379,7 +379,7 @@
     <rdfs:subPropertyOf rdf:resource="#familyRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#guardianOf -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#guardianOf -->
 
 <owl:ObjectProperty rdf:about="#guardianOf">
     <rdfs:range rdf:resource="#Person"/>
@@ -387,7 +387,7 @@
     <rdfs:subPropertyOf rdf:resource="#familyRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#inheritedSlaveFrom -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#inheritedSlaveFrom -->    
 <owl:ObjectProperty rdf:about="#inheritedSlaveFrom">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -395,7 +395,7 @@
     <rdfs:subPropertyOf rdf:resource="#familyRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#leftSlaveTo -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#leftSlaveTo -->    
 <owl:ObjectProperty rdf:about="#leftSlaveTo">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -406,14 +406,14 @@
 
 <!-- neighbor and acquantaince relationships -->
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#socialRelationship -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#socialRelationship -->    
 <owl:ObjectProperty rdf:about="#socialRelationship">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#acquaintanceOf -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#acquaintanceOf -->
 <owl:ObjectProperty rdf:about="#acquaintanceOf">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
     <rdfs:domain rdf:resource="#Person"/>
@@ -421,7 +421,7 @@
     <rdfs:subPropertyOf rdf:resource="#socialRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#friendOf -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#friendOf -->
 
 <owl:ObjectProperty rdf:about="#friendOf">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -430,7 +430,7 @@
     <rdfs:subPropertyOf rdf:resource="#socialRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#livesWith -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#livesWith -->
 
 <owl:ObjectProperty rdf:about="#livesWith">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -439,7 +439,7 @@
     <rdfs:subPropertyOf rdf:resource="#socialRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#neighborOf -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#neighborOf -->
 
 <owl:ObjectProperty rdf:about="#neighborOf">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -450,14 +450,14 @@
 
 <!-- work/business relationships -->
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#workRelationship -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#workRelationship -->    
 <owl:ObjectProperty rdf:about="#workRelationship">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#businessRelationshipWith -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#businessRelationshipWith -->    
 <owl:ObjectProperty rdf:about="#businessRelationshipWith">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -465,7 +465,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#slaveholderOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#slaveholderOf -->    
 <owl:ObjectProperty rdf:about="#slaveholderOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -473,7 +473,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#enslavedBy -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#enslavedBy -->    
 <owl:ObjectProperty rdf:about="#enslavedBy">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -481,7 +481,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#indenturedTo -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#indenturedTo -->    
 <owl:ObjectProperty rdf:about="#indenturedTo">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -489,7 +489,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#indenturerOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#indenturerOf -->    
 <owl:ObjectProperty rdf:about="#indenturerOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -497,7 +497,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#employerOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#employerOf -->    
 <owl:ObjectProperty rdf:about="#employerOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -505,7 +505,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#employeeOf -->    
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#employeeOf -->    
 <owl:ObjectProperty rdf:about="#employeeOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -513,7 +513,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#secretaryOf -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#secretaryOf -->
 
 <owl:ObjectProperty rdf:about="#secretaryOf">
     <rdfs:domain rdf:resource="#Person"/>
@@ -521,7 +521,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#workRelationshipsWith -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#workRelationshipsWith -->
 
 <owl:ObjectProperty rdf:about="#workRelationshipsWith">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -530,7 +530,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#hiredOutTo -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#hiredOutTo -->
 
 <owl:ObjectProperty rdf:about="#hiredOutTo">
     <rdfs:domain rdf:resource="#Person"/>
@@ -539,7 +539,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#hired -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#hired -->
 
 <owl:ObjectProperty rdf:about="#hired">
     <rdfs:domain rdf:resource="#Person"/>
@@ -548,7 +548,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#soldSlaveTo -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#soldSlaveTo -->
 
 <owl:ObjectProperty rdf:about="#soldSlaveTo">
     <rdfs:domain rdf:resource="#Person"/>
@@ -557,7 +557,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#purchasedSlaveFrom -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#purchasedSlaveFrom -->
 
 <owl:ObjectProperty rdf:about="#purchasedSlaveFrom">
     <rdfs:domain rdf:resource="#Person"/>
@@ -566,7 +566,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#exchangedSlavesWith -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#exchangedSlavesWith -->
 
 <owl:ObjectProperty rdf:about="#exchangedSlavesWith">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -575,7 +575,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#hadContractWith -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#hadContractWith -->
 
 <owl:ObjectProperty rdf:about="#hadContractWith">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -584,7 +584,7 @@
     <rdfs:subPropertyOf rdf:resource="#workRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#businessRelationshipWith -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#businessRelationshipWith -->
 
 <owl:ObjectProperty rdf:about="#businessRelationshipWith">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -595,7 +595,7 @@
 
 <!-- delete below -->
 
-<!--<!-\- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#clerkedBy -\->    
+<!--<!-\- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#clerkedBy -\->    
 <owl:ObjectProperty rdf:about="#clerkedBy">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
@@ -603,7 +603,7 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-\- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#immediateFamilyOf -\->
+<!-\- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#immediateFamilyOf -\->
 
 <owl:ObjectProperty rdf:about="#immediateFamilyOf">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -612,7 +612,7 @@
     <rdfs:subPropertyOf rdf:resource="#familyRelationship"/>
 </owl:ObjectProperty>
 
-<!-\- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#lifePartnerOf -\->
+<!-\- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#lifePartnerOf -\->
 
 <owl:ObjectProperty rdf:about="#lifePartnerOf">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -620,17 +620,17 @@
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#immediateFamilyOf"/>
 </owl:ObjectProperty>
-<!-\- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#memberOf -\->
+<!-\- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#memberOf -\->
 
 <owl:ObjectProperty rdf:about="#memberOf"/>
 
-<!-\- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#hasMember -\->
+<!-\- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#hasMember -\->
 
 <owl:ObjectProperty rdf:about="#hasMember">
     <owl:Inverseof rdf:resource="#memberOf"/>
 </owl:ObjectProperty>
 
-<!-\- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#professionallyRelatedTo -\->
+<!-\- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#professionallyRelatedTo -\->
 
 <owl:ObjectProperty rdf:about="#professionallyRelatedTo">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -638,7 +638,7 @@
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#socialRelationship"/>
 </owl:ObjectProperty>
-<!-\- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#proximityAcquaintanceOf -\->
+<!-\- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#proximityAcquaintanceOf -\->
 
 <owl:ObjectProperty rdf:about="#proximityAcquaintanceOf">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -647,7 +647,7 @@
     <rdfs:subPropertyOf rdf:resource="#socialRelationship"/>
 </owl:ObjectProperty>
 
-<!-\- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#romanticWith -\->
+<!-\- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#romanticWith -\->
 
 <owl:ObjectProperty rdf:about="#romanticWith">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -655,7 +655,7 @@
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#socialAcquaintanceOf"/>
 </owl:ObjectProperty>
-<!-\- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#socialAcquaintanceOf -\->
+<!-\- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#socialAcquaintanceOf -\->
 
 <owl:ObjectProperty rdf:about="#socialAcquaintanceOf">
     <rdf:type rdf:resource="&owl;SymmetricProperty"/>
@@ -665,17 +665,17 @@
 </owl:ObjectProperty>
 -->
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#provenance -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#provenance -->
 
 <owl:ObjectProperty rdf:about="#provenance"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#source -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#source -->
 
 <owl:ObjectProperty rdf:about="#source"/>
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#sourceNote -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#sourceNote -->
 
 <owl:ObjectProperty rdf:about="#sourceNote"/>
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#sourcePages -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#sourcePages -->
 
 <owl:ObjectProperty rdf:about="#sourcePages"/>
 
@@ -688,68 +688,68 @@
 -->
 
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#birth -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#birth -->
 
 <owl:DatatypeProperty rdf:about="#birth"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#death -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#death -->
 
 <owl:DatatypeProperty rdf:about="#death"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#firstName -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#firstName -->
 
 <owl:DatatypeProperty rdf:about="#firstName"/>
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#lastName -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#lastName -->
 
 <owl:DatatypeProperty rdf:about="#lastName"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#middleName -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#middleName -->
 
 <owl:DatatypeProperty rdf:about="#middleName"/>
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#altName -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#altName -->
 
 <owl:DatatypeProperty rdf:about="#altName"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#fullName -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#fullName -->
 
 <owl:DatatypeProperty rdf:about="#fullName"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#residence -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#residence -->
 
 <owl:DatatypeProperty rdf:about="#residence"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#sex -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#sex -->
 
 <owl:DatatypeProperty rdf:about="#sex"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#occupation -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#occupation -->
 
 <owl:DatatypeProperty rdf:about="#occupation"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#hasAuthor -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#hasAuthor -->
 
 <owl:DatatypeProperty rdf:about="#hasAuthor">
     <rdfs:subPropertyOf rdf:resource="#hasCreator"/>
 </owl:DatatypeProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#hasCreator -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#hasCreator -->
 
 <owl:DatatypeProperty rdf:about="#hasCreator"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#hasEditor -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#hasEditor -->
 
 <owl:DatatypeProperty rdf:about="#hasEditor">
     <rdfs:subPropertyOf rdf:resource="#hasCreator"/>
 </owl:DatatypeProperty>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#hasURL -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#hasURL -->
 
 <owl:DatatypeProperty rdf:about="#hasURL"/>
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#pubYear -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#pubYear -->
 
 <owl:DatatypeProperty rdf:about="#pubYear"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#sameAs -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#sameAs -->
 
 <owl:DatatypeProperty rdf:about="#sameAs"/>
 
@@ -761,29 +761,29 @@
     ///////////////////////////////////////////////////////////////////////////////////////
 -->
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#Entity -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#Entity -->
 
 <owl:Class rdf:about="#Entity"/>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#Organization -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#Organization -->
 
 <owl:Class rdf:about="#Organization">
     <rdfs:subClassOf rdf:resource="#Entity"/>
 </owl:Class>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#Person -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#Person -->
 
 <owl:Class rdf:about="#Person">
     <rdfs:subClassOf rdf:resource="#Entity"/>
 </owl:Class>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#Place -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#Place -->
 
 <owl:Class rdf:about="#Place">
     <rdfs:subClassOf rdf:resource="#Entity"/>
 </owl:Class>
 
-<!-- http://cdrhsites.unl.edu/data/projects/oscys/rdf/oscys.objectproperties.owl#Work -->
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#Work -->
 
 <owl:Class rdf:about="#Work">
     <rdfs:subClassOf rdf:resource="#Entity"/>
