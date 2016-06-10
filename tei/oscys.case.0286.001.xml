@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,8 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Butler, George</term>
-<term>Goddard, John H.</term>
+<term xml:id="per.002208">Butler, George</term>
+<term xml:id="per.002209">Goddard, John H.</term>
 <term xml:id="per.001216">Hoover, Jonah D.</term>
 </keywords>
 
@@ -103,16 +104,16 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002210">
 <persName>Bowman, Julia A.</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002211">
 <persName>Bowman, Marly</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002212">
 <persName>Bowman, Sylvester</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002213">
 <persName>Boss, William</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.001180">
@@ -133,6 +134,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2015-01-11" who="#lkw">added xml:ids; transcription</change>
 <change when="2015-06-25" who="#kln">reviewed; edited</change>
 <change when="2015-04-09" who="#snc">Encoded and transcribed</change>
 </revisionDesc>
@@ -155,7 +157,9 @@
 
 <div2 type="body">
 
+
 <p>Your Petitioners <del>Jessie</del> Julia A. Bowman and her children (minors) <del>Julia A and</del> Marly &amp; Sylvester Bowman by their next friend the said same Bowman respectfully represent unto your Honors that the said same Bowman some eight or ten years ago, after having been here in said District many years as a free woman went north as a servant to a Lady then traveling or going north, that hearing recently <del>regard</del> that her husband was very ill in said District, she returned here with her aforesaid children to be near him and to offer him <gap extent="one or two words" reason="illegible"/> in his last moments. That she shortly after her arrival here in said District was arrested by one William Boss and has been committed at the insistence and request of said Boss (as she is informed) to the Jail of the District, Where your Petitioner and her said Children now is, your Petitioner asserts that she and her said children are free and she asks your Honors to inquire into same. Your Petitioner is also afraid that said Boss or some other person will cause her and her said children to be carried beyond this District. she therefore asks that said Boss may be enjoined by injunction from so doing, and that also the
+
 
 <pb xml:id="p002" facs="oscys.case.0286.001.002.jpg"/>
 
@@ -167,7 +171,7 @@ for Pet</p>
 <p>District of Columbia<lb/>
 County Wash' } to wit</p>
 
-<p>Personally appeared before me in my county aforesaid George Butler and made oath that the aforesaid  <gap extent="one word" reason="illegible"/> so far as <gap extent="one word" reason="illegible"/> <del>within his own knowledge is correct, and</del> he believes to be <gap extent="one word" reason="illegible"/></p>
+<p>Personally appeared before me in my county aforesaid George Butler and made oath that the aforesaid  <gap extent="one word" reason="illegible"/> so far as noted <del>within his own knowledge is correct, and</del> he believes to be correct</p>
 
 <p>J. H. Goddard J. P.</p>
 

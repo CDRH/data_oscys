@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -85,7 +86,7 @@
 <term xml:id="per.001286">Hoff, Lawrence</term>
 <term xml:id="per.001284">Keeting</term>
 <term xml:id="per.001288">Little</term>
-<term>McLean, John, 1785-1861</term>
+<term xml:id="per.002803">McLean, John, 1785-1861</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -115,7 +116,6 @@
 </person>
 <person role="attorney_petitioner" xml:id="per.000744">
 <persName>Hoban, James</persName>
-<persName/>
 </person>
 <person role="attorney_defendant" xml:id="per.000737">
 <persName>Brent, Robert J., 1811-1872</persName>
@@ -134,7 +134,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>            
+<change when="2016-03-07" who="#lkw">added xml:ids</change>
 <change when="2016-02-04" who="#kln">reviewed, edited</change>
 <change when="2016-01-29" who="#smb">transcribed and encoded</change>
 </revisionDesc>

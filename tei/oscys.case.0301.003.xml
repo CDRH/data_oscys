@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mary Ann Bond et al. v. Thomas C. Magruder. Motion for a New Trial</title>
+<title>Mary Ann Bond et al. v. Thomas C. Magruder. Motion for New Trial</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -49,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Motion for a New Trial</title>
+<title level="m" type="main">Motion for New Trial</title>
 <date when="1854-04-26">April 26, 1854</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -95,37 +96,41 @@
 
 <keywords scheme="original" n="outcome">
 <term>Verdict for Defendant</term>
+<term>Motion for New Trial</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>     
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002304">
 <persName>Bond, Mary Ann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002305">
+<persName>Campbell, Alice</persName>
+</person>
+<person role="petitioner" xml:id="per.002306">
 <persName>Dorsey, Elizabeth</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002307">
 <persName>Dorsey, John Henry</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002308">
 <persName>Eglin, Julia Ann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002309">
 <persName>Eglin, Maria Louisa</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002310">
 <persName>Eglin, Mary Ellana</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002311">
 <persName>Magruder, Thomas C.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.001913">
 <persName>Carrington, Edward C.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.000854">
 <persName>Ennis, John F.</persName>
 </person>
 <person role="attorney_defendant">
@@ -142,7 +147,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>            
+<change when="2015-01-20" who="#lkw">added xml:ids</change> 
 <change when="2015-08-04" who="#kln">reviewed; edited</change>  
 <change when="2015-04-02" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

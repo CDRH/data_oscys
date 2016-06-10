@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -82,7 +83,7 @@
 
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>French</term>
+<term xml:id="per.002545">French</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -107,7 +108,7 @@
 <person role="attorney_petitioner" xml:id="per.000001">
 <persName>Key, Francis Scott, 1779-1843</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.002550">
 <persName>Swann</persName>
 </person>
 </listPerson>
@@ -122,6 +123,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-03-07" who="#lkw">added xml:ids</change>
 <change when="2015-06-25" who="#ea">added case outcome</change>
 <change when="2015-06-02" who="#ea">updated case number</change>
 <change when="2015-04-16" who="#kln">encoded</change>
@@ -208,11 +210,11 @@ her request, after her confinement, she was permitted by her
 master, who was reelected, to hire herself out in Washington,
 until he should return to Congress, in December, 1829; which
 permission was given by a writing inclosed in a letter to Mr.
-French, the agent of the defendant. That she accordingly hired</p>
+French, the agent of the defendant. That she accordingly hired
 
 <pb xml:id="p665" facs="oscys.report.0024.001.003.jpg"/>
 
-<p>herself out, and received her wages to her own use. That the
+herself out, and received her wages to her own use. That the
 defendant, learning that she had a free husband in Washington,
 and that she wished to live with him, agreed that if he could
 raise $400 for him he should have her. That the money was

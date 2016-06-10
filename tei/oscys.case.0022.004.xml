@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -83,9 +84,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Carr, Overton</term> 
-<term>Michael</term>
-<term>Nancy</term>
+<term xml:id="per.002640">Carr, Overton, Sr.</term> 
+<term xml:id="per.002643">Michael</term>
+<term xml:id="per.002644">Nancy</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -123,6 +124,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-23" who="#lkw">added xml:ids; transcription</change>
 <change when="2015-09-24" who="#kln">reviewed; encoded</change>
 <change when="2015-07-21" who="#snc">transcribed, encoded</change>
 </revisionDesc>
@@ -153,7 +155,7 @@ Seper 16th 1799</p>
 
 <div2 type="back">
 
-<p>Revd Ml Moscross<lb/>
+<p>Revd Mr Moscross<lb/>
 Overton Carr's Bill of Sale<lb/>
 Septr 16th 1799</p>
 

@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -100,25 +101,25 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002518">
 <persName>Ann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002519">
 <persName>Margaret</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002520">
 <persName>Rebecca</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002521">
 <persName>William</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002385">
 <persName>Pumphrey, Lloyd</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000640">
 <persName>Turner, Thomas</persName>
 </person>
-<person role="attorney_defendant" xml:id="per.000549">
+<person role="attorney_petitioner" xml:id="per.000549">
 <persName>Cox, Clement</persName>
 </person>
 </listPerson>
@@ -133,6 +134,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-15" who="#lkw">added xml:ids; changed Cox from attorney_defendant to attorney_petitioner</change> 
 <change when="2015-10-15" who="#kln">reviewed; edited</change>
 <change when="2015-08-07" who="#snc">transcribed, encoded</change>
 </revisionDesc>

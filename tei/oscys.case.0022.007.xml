@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -84,7 +85,7 @@
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
 <term xml:id="per.000063">Fitzhugh, Nicholas</term>
-<term>Nancy</term>
+<term xml:id="per.002644">Nancy</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -123,6 +124,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-23" who="#lkw">added xml:ids</change>
 <change when="2015-10-22" who="#kln">reviewed; encoded</change>
 <change when="2015-07-22" who="#snc">transcribed, encoded</change>
 </revisionDesc>

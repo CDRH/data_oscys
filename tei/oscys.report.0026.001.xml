@@ -13,6 +13,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -81,8 +82,8 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">  
-<term>Wallingsford, Rachael</term> <!-- alt spelling Rachel -->
-<term>Wayne, James Moore, 1790-1867</term>
+<term xml:id="per.001689">Wallingsford, Rachael</term>
+<term xml:id="per.002799">Wayne, James Moore, 1790-1867</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -99,19 +100,19 @@
 
 <particDesc>   
 <listPerson>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.001683">
 <persName>Allen, Eliza Jane</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.001684">
 <persName>Allen, John Davy</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.001685">
 <persName>Allen, Julia Maria</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.001686">
 <persName>Allen, Sarah Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.001687">
 <persName>Wallingsford, Joseph</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.001016">
@@ -120,8 +121,8 @@
 <person role="attorney_petitioner" xml:id="per.000001">
 <persName>Key, Francis Scott, 1779-1843</persName>
 </person>
-<person role="attorney_defendant">
-<persName>Brent, William Leigh</persName>
+<person role="attorney_defendant" xml:id="per.000738">
+<persName>Brent, William Leigh, 1784-1848</persName>
 </person>
 </listPerson>
 
@@ -135,6 +136,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-03-07" who="#lkw">added xml:ids</change>
 <change when="2015-06-02" who="#ea">updated case number</change>
 <change when="2015-04-17" who="#kln">transcribed; encoded</change>
 </revisionDesc>

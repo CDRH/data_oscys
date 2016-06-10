@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name> 
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -87,24 +88,24 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Bayley, Chester</term>
-<term>Brookes, Joseph</term>
-<term>Burch, Benjamin</term>
-<term>Corcoran, Thomas</term>
-<term>Craig, Robert</term>
-<term>Ingle, Henry</term>
-<term>Lee, Archibald</term>
-<term>Lowdermilk, Samuel</term>
-<term>O'Neale, William</term>
-<term>Richardson, David K.</term>
-<term>Sacheverell, Catherine</term>
-<term>Smallwood, Samuel N.</term>
-<term>Smith, William</term>
-<term>Tarleton, Sarah</term>
-<term>Waters, William</term>
-<term>Wheeler, Edward</term>
-<term>Williams, Benjamin</term>
-<term>Wright, Mathew</term>
+<term xml:id="per.002739">Bayley, Chester</term>
+<term xml:id="per.002740">Brookes, Joseph</term>
+<term xml:id="per.002741">Burch, Benjamin</term>
+<term xml:id="per.000010">Corcoran, Thomas</term>
+<term xml:id="per.002742">Craig, Robert</term>
+<term xml:id="per.000096">Ingle, Henry</term>
+<term xml:id="per.002743">Lee, Archibald</term>
+<term xml:id="per.002744">Lowdermilk, Samuel</term>
+<term xml:id="per.002745">O'Neale, William</term>
+<term xml:id="per.002746">Richardson, David K.</term>
+<term xml:id="per.002747">Sacheverell, Catherine</term>
+<term xml:id="per.000113">Smallwood, Samuel N.</term>
+<term xml:id="per.002748">Smith, William</term>
+<term xml:id="per.002749">Tarleton, Sarah</term>
+<term xml:id="per.002750">Waters, William</term>
+<term xml:id="per.000110">Wheeler, Edward</term>
+<term xml:id="per.002751">Williams, Benjamin</term>
+<term xml:id="per.002752">Wright, Mathew</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -119,10 +120,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002753">
 <persName>Reason, Reubin</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002754">
 <persName>Bridges, John</persName>
 </person>
 <person role="attorney_petitioner">
@@ -143,6 +144,7 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2016-03-07" who="#lkw">added xml:ids</change>
 <change when="2015-05-22" who="#ea">updated case number</change>
 <change when="2015-01-27" who="#kln">reviewed; edited</change>           
 <change when="2014-01-21" who="#ea">Encoded and transcribed.</change>

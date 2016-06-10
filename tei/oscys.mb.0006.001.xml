@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L" xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -87,23 +88,23 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Boswell, Benjamin</term>
-<term>Boswell, William</term>
-<term>Burnett, Charles A.</term>
-<term>Claxton, Thomas</term>
-<term>Edwards, John</term>
-<term>Forrest, Joseph</term>
-<term>Holmead, John</term>
-<term>Hughes, Thomas</term>
-<term>McFarlan, John</term>
-<term>Morin, Lewis</term>
-<term>Nicholls, William S.</term>
-<term>Dyer, Henry O.</term>
-<term>Renner, Daniel</term>
-<term>Riggs, Elisha</term>
-<term>Way, Andrew</term>
-<term>Wheaton, Joseph</term>
-<term>Worthington, William</term>
+<term xml:id="per.002728">Boswell, Benjamin</term>
+<term xml:id="per.002729">Boswell, William</term>
+<term xml:id="per.001453">Burnett, Charles A.</term>
+<term xml:id="per.000087">Claxton, Thomas</term>
+<term xml:id="per.002730">Edwards, John</term>
+<term xml:id="per.001157">Forrest, Joseph</term>
+<term xml:id="per.002695">Holmead, John</term>
+<term xml:id="per.002731">Hughes, Thomas</term>
+<term xml:id="per.002732">McFarlan, John</term>
+<term xml:id="per.002697">Morin, Lewis</term>
+<term xml:id="per.002733">Nicholls, William S.</term>
+<term xml:id="per.002734">Dyer, Henry O.</term>
+<term xml:id="per.000103">Renner, Daniel</term>
+<term xml:id="per.002704">Riggs, Elisha</term>
+<term xml:id="per.002735">Way, Andrew</term>
+<term xml:id="per.002736">Wheaton, Joseph</term>
+<term xml:id="per.000111">Worthington, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -118,10 +119,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002737">
 <persName>Davis, Harry</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002738">
 <persName>Baltzer, John</persName>
 </person>
 <person role="attorney_petitioner">
@@ -142,6 +143,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2016-03-07" who="#lkw">added xml:ids</change>
 <change when="2015-06-25" who="#ea">added case outcome</change>
 <change when="2015-06-22" who="#kln">reviewed; edited</change>             
 <change when="2015-05-22" who="#ea">updated case number</change>

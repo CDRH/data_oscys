@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -100,10 +101,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002339">
 <persName>Bell, Charles</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002340">
 <persName>Jones, Luther</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000829">
@@ -124,6 +125,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-01-20" who="#lkw">added xml:ids</change>
 <change when="2015-08-10" who="#kln">reviewed; edited</change>           
 <change when="2015-04-07" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
@@ -148,7 +150,7 @@ To the Marshal of the District of Columbia&#8212;Greeting:</p>
 
 <div2 type="body">
 
-<p>We command you that you <del>take</del> sum. Luther Jones. late of Washington County, if he shall be found within the County of Washington in your said District, and he safely keep, so that you have his body before he Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 4th Monday of March <del>Inst</del> <gap extent="one word" reason="illegible"/> next, to answer <del>unto</del> the petition for freedom Charles Bell.</p>     
+<p>We command you that you <del>take</del> sum. Luther Jones. late of Washington County, if he shall be found within the County of Washington in your said District, and he safely keep, so that you have his body before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 4th Monday of March <del>Inst</del> <gap extent="one word" reason="illegible"/> next, to answer <del>unto</del> the petition for freedom Charles Bell.</p>     
      
 <p>Hereof fail not, at your peril, and have you then and there this writ.</p>
 

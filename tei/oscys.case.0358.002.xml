@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,6 +87,7 @@
 <term xml:id="per.000502">Ashton, Henry</term>
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
+<term xml:id="per.002625">Scott, C.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -98,16 +100,16 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Harriet</persName>
+<person role="petitioner" xml:id="per.001434">
+<persName>Lemon, Harriet</persName>
 </person>
-<person role="petitioner">
-<persName>Kitty</persName>
+<person role="petitioner" xml:id="per.001435">
+<persName>Lemon, Kitty</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002623">
 <persName>Bacon, Susanna</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002624">
 <persName>Hicks, Nehemiah</persName>
 </person>
 <person role="attorney_petitioner">
@@ -128,6 +130,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-22" who="#lkw">added xml:ids; added C. Scott to people</change>
 <change when="2016-02-15" who="#kln">reviewed; edited</change>
 <change when="2016-01-14" who="#snc">transcribed, encoded</change>
 </revisionDesc>
@@ -170,7 +173,7 @@ Nehemiah Hicks served<lb/>
 Susanna Bacon</p>
 
 <p><gap extent="one word" reason="illegible"/> on Mrs Susanna Bacon<lb/>
-C. Scott <gap extent="one word" reason="illegible"/><lb/>
+C. Scott <unclear extent="one word" reason="illegible">svd</unclear><lb/>
 for Henry Ashton Marshal</p>
 
 <p>Served on Nehemiah Hicks June 27th 1832<lb/>

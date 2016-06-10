@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -83,15 +84,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fountain, John</term>
-<term>Parker, Daniel</term>
-<term>Richardson, Ezekiel</term>
-<term>Stanley, George</term> <!-- alt spelling Standley -->
-<term>Stanley, Jonathan</term>
-<term>Stanley, Leah</term>
-<term>Stanley, Rachel</term>
-<term>Ward, George</term>
-<term>Woolford, Levin</term>
+<term xml:id="per.002565">Fountain, John</term>
+<term xml:id="per.002561">Parker, Daniel</term>
+<term xml:id="per.002566">Richardson, Ezekiel</term>
+<term xml:id="per.002562">Stanley, George</term>
+<term xml:id="per.002567">Stanley, Jonathan</term>
+<term xml:id="per.002568">Stanley, Leah</term>
+<term xml:id="per.002563">Stanley, Rachel</term>
+<term xml:id="per.002569">Ward, George</term>
+<term xml:id="per.002570">Woolford, Levin</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -102,17 +103,17 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Charles</persName>
+<person role="petitioner" xml:id="per.002553">
+<persName>Stanley, Charles</persName>
 </person>
-<person role="petitioner">
-<persName>Charlotte</persName> 
+<person role="petitioner" xml:id="per.002554">
+<persName>Stanley, Charlotte</persName> 
 </person>
-<person role="petitioner">
-<persName>Mary Ann</persName>
+<person role="petitioner" xml:id="per.002555">
+<persName>Stanley, Mary Ann</persName>
 </person>
-<person role="defendant">
-<persName>Clay, Henry, 1777-1852</persName> 
+<person role="defendant" xml:id="per.002556">
+<persName>Clay, Henry, 1777-1852</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -131,7 +132,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>       
+<change when="2016-02-15" who="#lkw">added xml:ids</change>      
 <change when="2015-10-28" who="#kln">reviewed; edited</change>
 <change when="2015-08-25" who="#snc">transcribed; encoded</change>
 </revisionDesc>

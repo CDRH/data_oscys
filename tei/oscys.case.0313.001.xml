@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -100,35 +101,35 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002362">
 <persName>Lyles, Albert</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002363">
 <persName>Lyles, Henry</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002364">
 <persName>Lyles, Laura</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002365">
 <persName>Lyles, Richard</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002366">
 <persName>Lyles, Sylvester</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002367">
 <persName>Lyles, Washington</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002368">
 <persName>Lyles, William</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002369">
 <persName>Hyatt, Christopher C.</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002370">
 <persName>Sheriff, Dionysius</persName>
 </person>
-<person role="attorney_petitioner">
-<persName xml:id="per.001366">Swann, Edward</persName>
+<person role="attorney_petitioner" xml:id="per.001366">
+<persName >Swann, Edward</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -145,6 +146,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-01-20" who="#lkw">added xml:ids</change>
 <change when="2015-08-13" who="#kln">reviewed; edited</change>            
 <change when="2015-04-10" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

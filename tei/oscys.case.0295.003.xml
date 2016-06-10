@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,7 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Alexander, Sandy</term>
+<term xml:id="per.002253">Alexander, Sandy</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
 <term xml:id="per.001216">Hoover, Jonah D.</term>
 <term xml:id="per.000740">Smith, John A.</term>
@@ -101,19 +102,19 @@
 
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002254">
 <persName>Taylor, Emily</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002255">
 <persName>Taylor, Henry</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002256">
 <persName>Taylor, Ida</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002257">
 <persName>Taylor, Mary</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002258">
 <persName>Mushett, James M. A.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000851">
@@ -134,6 +135,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2015-01-11" who="#lkw">added xml:ids</change> 
 <change when="2015-06-25" who="#kln">reviewed; edited</change>              
 <change when="2015-04-02" who="#snc">transcribed; encoded</change>
 </revisionDesc>

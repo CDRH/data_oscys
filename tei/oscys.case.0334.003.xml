@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -84,15 +85,17 @@
  
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
-<term>Chilton, William</term>
-<term>Cooke, John</term>
-<term>Gale, Lyttleton</term><!-- incorrectly spelled Littleton here -->
-<term>Hammet, George</term>
-<term>Henderson, Richard H.</term>
-<term>Murrey, Samuel</term>
-<term>Rogers, Joseph</term>
-<term>Sim, Thomas</term><!--first name from 1822 D.C. city directory-->
-<term>Tom</term>
+<term xml:id="per.002459">Chilton, William</term>
+<term xml:id="per.002460">Cooke, John</term>
+<term xml:id="per.002450">Gale, Lyttleton</term>
+<term xml:id="per.002461">Hammet, George</term>
+<term xml:id="per.000908">Henderson, Richard H.</term>
+<term xml:id="per.002462">Murrey, Samuel</term>
+<term xml:id="per.002451">Rogers, Joseph</term>
+<term xml:id="per.002463">Sim, Thomas</term>
+<term xml:id="per.002464">Swann</term>
+<term xml:id="per.002465">Taylor, N.T.</term>
+<term xml:id="per.002466">Tom</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -108,25 +111,25 @@
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002452">
 <persName>Eliza</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002453">
 <persName>Emily</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002454">
 <persName>Jane</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002455">
 <persName>John</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002456">
 <persName>Julia</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002457">
 <persName>Lucy</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.002458">
 <persName>Cooke, Stephen</persName>
 </person>
 <person role="attorney_petitioner">
@@ -147,6 +150,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-08" who="#lkw">added xml:ids; added people to term</change> 
 <change when="2015-11" who="#kln">reviewed; edited</change>
 <change when="2015-07-23" who="#snc">transcribed, encoded</change>
 </revisionDesc>
@@ -172,7 +176,7 @@
 
 <pb xml:id="p002" facs="oscys.case.0334.003.002.jpg"/>
 
-that your orator did not at the trial in the County Court of Loudoun claim Lucy &#38; her children as slaves. Your orator does not now claim them, as slaves. But as they were delivered to yr orator by the Jailor G. Hammet, on certain terms &#38; conditions, in trust for their owner Joseph Rogers, and as your orator paid a valuable consideration on receiving them in trust, at the solicitation of Lucy herself, in the expectation, that their owner wd soon demand them, and repay him the same, and other reasonable expenses incurred for them. Your orator presumes that he has the right to hold Lucy &#38; her children as a security for the repayment thereof, untill they are legally entitled to their freedom. The more so, as it was at the solicitation of Lucy herself, that yr orator advanced the $46.92, and recd her &#38; her son, as pledges for the repayment of it, when they shd be demanded by their owner. As to Lucy's four  younger children, they were born under your orator's roof, and have been clothed &#38; fed at his expense. Your orator's claim against them is compensation for his trouble &#38; expense, to be ascertained by impartial, upright men, to be paid by their services, when able to render any. Thus wd the business have been settled by the magistrates of the County of Loudoun, had not Lucy &#38; her children been stolen away from your orator by Tom the slave of Dr. Sim of George Town. He came in the dead of night, and without the knowledge of any of yr orator's family, stole them out of your orator's house &#38; carried them off. Your orator presumes that, if this Hon'ble Court has known, that this claim of Lucy to immediate freedom, had been fairly and fully tried in the County Court of Loudoun before an impartial jury, &#38; judgement given agt. her <del>immediate</del> claim to immediate freedom, That this Hon'ble Court wd not have taken her &#38; her children under its protection. Your orator presumes that this Hon'ble Ct. will not reverse the Judgement of the County Ct. of Loudoun. If after a fair trial of Lucy's claim in the County Ct. of Loudoun, and verdict &#38; judgement against her, your orator may be compelled by this Hon'ble Ct. either to abandon his claim to Lucy &#38; her children, as pledges placed in his hands to secure the repayment of monies advanced on their acct &amp; for their benefit, or to travel from home out of his own state to another district; again to fee lawyers; again to encounter the expense &amp; trouble of a tedious suitat law to defend his claim; then may he be compelled, should Lucy not succeed in this Hon'ble Ct., to follow her from Ct. to Court through the States. If this Hon'ble Court should not respect the decision &amp; Judgment of the County Ct. of Loudoun; your orator cannot expect, that other Courts would respect the decision &amp; Judgment of this Hon'ble Court. Your orator is informed, that it is alledged in favor of Lucy's claim, that Rogers promised not to carry her &amp; son out of the State of Maryland. Should this be legally proved, your orator presumes, that Rogers breach of promise to Gale, does not entitle Lucy &amp; children to freedom sooner than the time fixed in the deed of manumission. That if Rogers' breach of promise cancelled the contract between him &amp; Gale, that then Gale's title to Lucy &amp; her children <unclear reason="illegible">revives</unclear>; &amp; they become again his property. Your orator presumes, that t he original contract between Gale &amp; Rogers 
+that your orator did not at the trial in the County Court of Loudoun claim Lucy &#38; her children as slaves. Your orator does not now claim them, as slaves. But as they were delivered to yr orator by the Jailor G. Hammet, on certain terms &#38; conditions, in trust for their owner Joseph Rogers, and as your orator paid a valuable consideration on receiving them in trust, at the solicitation of Lucy herself, in the expectation, that their owner wd soon demand them, and repay him the same, and other reasonable expenses incurred for them. Your orator presumes that he has the right to hold Lucy &#38; her children as a security for the repayment thereof, untill they are legally entitled to their freedom. The more so, as it was at the solicitation of Lucy herself, that yr orator advanced the $46.92, and recd her &#38; her son, as pledges for the repayment of it, when they shd be demanded by their owner. As to Lucy's four  younger children, they were born under your orator's roof, and have been clothed &#38; fed at his expense. Your orator's claim against them is compensation for his trouble &#38; expense, to be ascertained by impartial, upright men, to be paid by their services, when able to render any. Thus wd the business have been settled by the magistrates of the County of Loudoun, had not Lucy &#38; her children been stolen away from your orator by Tom the slave of Dr. Sim of George Town. He came in the dead of night, and without the knowledge of any of yr orator's family, stole them out of your orator's house &#38; carried them off. Your orator presumes that, if this Hon'ble Court has known, that this claim of Lucy to immediate freedom, had been fairly and fully tried in the County Court of Loudoun before an impartial jury, &#38; judgement given agt. her <del>immediate</del> claim to immediate freedom, That this Hon'ble Court wd not have taken her &#38; her children under its protection. Your orator presumes that this Hon'ble Ct. will not reverse the Judgement of the County Ct. of Loudoun. If after a fair trial of Lucy's claim in the County Ct. of Loudoun, and verdict &#38; judgement against her, your orator may be compelled by this Hon'ble Ct. either to abandon his claim to Lucy &#38; her children, as pledges placed in his hands to secure the repayment of monies advanced on their acct &amp; for their benefit, or to travel from home out of his own state to another district; again to fee lawyers; again to encounter the expense &amp; trouble of a tedious suit at law to defend his claim; then may he be compelled, should Lucy not succeed in this Hon'ble Ct., to follow her from Ct. to Court through the States. If this Hon'ble Court should not respect the decision &amp; Judgment of the County Ct. of Loudoun; your orator cannot expect, that other Courts would respect the decision &amp; Judgment of this Hon'ble Court. Your orator is informed, that it is alledged in favor of Lucy's claim, that Rogers promised not to carry her &amp; son out of the State of Maryland. Should this be legally proved, your orator presumes, that Rogers breach of promise to Gale, does not entitle Lucy &amp; children to freedom sooner than the time fixed in the deed of manumission. That if Rogers' breach of promise cancelled the contract between him &amp; Gale, that then Gale's title to Lucy &amp; her children <unclear reason="illegible">revives</unclear>; &amp; they become again his property. Your orator presumes, that the original contract between Gale &amp; Rogers 
 
 <pb xml:id="p003" facs="oscys.case.0334.003.003.jpg"/>
 

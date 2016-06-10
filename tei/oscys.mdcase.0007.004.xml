@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -56,9 +57,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>Historical Society of Harford County, Md.</repository>
-<collection/>
-<idno/>
+<repository>Historical Society of Harford County, Maryland</repository>
+<collection>County Court Records Collection, Bel Air, Maryland</collection>
+<idno>Folder 32:14 - Court Records</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -92,7 +93,7 @@
 <term>Baldwin, John</term>
 <term>Beard, Lambert</term>
 <term xml:id="per.000217">Belt, Humphrey</term>
-<term>Carroll</term> 
+<term>Carroll</term> <!-- Baldwin? -->
 <term xml:id="per.001393">Duvall, Gabriel, 1752-1844</term>
 <term xml:id="per.000218">Harwood, Richard</term>
 <term xml:id="per.000219">Harwood, Thomas</term>
@@ -103,9 +104,9 @@
 <term>Queen, Charles</term>
 <term xml:id="per.000068">Queen, Mary</term>
 <term xml:id="per.001476">Queen, Phillis</term>
-<term>Queen, Ralph</term>
-<term>Queen, Winifred</term>
-<term>Randall, John</term>
+<term xml:id="per.002689">Queen, Ralph</term>
+<term xml:id="per.001482">Queen, Winifred</term>
+<term xml:id="per.001483">Randall, John</term>
 <term>Rogers, Woodes, -1732</term>
 <term xml:id="per.000069">Ryland, Freders</term> 
 <term>Selkirk, Alexander, 1676-1721</term>
@@ -165,6 +166,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-18" who="#kln">reviewed, edited</change>
 <change when="2016-02-08" who="#smb">transcribed and encoded</change>
 </revisionDesc>

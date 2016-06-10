@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -84,11 +85,11 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Berry</term> <!-- jury pool -->
-<term>Broom</term> <!-- jury pool -->
-<term>French</term> <!-- witness for petitioner-->
-<term>Miller, Robert</term> <!-- jury pool -->
-<term>Pyfer, H.</term> <!-- jury pool -->
+<term xml:id="per.002546">Berry</term> 
+<term xml:id="per.002547">Broom</term> 
+<term xml:id="per.002545">French</term>
+<term xml:id="per.002548">Miller, Robert</term> 
+<term xml:id="per.002549">Pyfer, H.</term> 
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -108,7 +109,10 @@
 <person role="attorney_petitioner" xml:id="per.000001">
 <persName>Key, Francis Scott, 1779-1843</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_petitioner" xml:id="per.000572">
+<persName>Beale, Robert</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.002550">
 <persName>Swann</persName>
 </person>
 </listPerson>
@@ -120,11 +124,14 @@
 <person role="defendant" corresp="per.000704">
 <persName>White, Joseph M., 1781-1839</persName>
 </person>
-<person role="attorney_petitioner" corresp="per.000001">
+ <person role="attorney_petitioner" corresp="per.000001">
 <persName>Key, Francis Scott, 1779-1843</persName>
 </person>
-<person role="attorney_defendant">
-<persName>Swann</persName>
+<person role="attorney_petitioner" corresp="per.000572">
+<persName>Beale, Robert</persName>
+</person>
+<person role="attorney_defendant" corresp="per.002550">
+<persName>Swann</persName> 
 </person>
 </listPerson>
 
@@ -138,6 +145,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-02-15" who="#lkw">added xml:ids; commented out Key and Swann for caseis.00091; added Beale for petitioner</change>
 <change when="2015-12-04" who="#kln">reviewed, edited</change>
 <change when="2015-08-21" who="#snc">transcribed; encoded</change>
 </revisionDesc>

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N" xml:id="snc">Steph Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -87,24 +88,28 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Naylor, George</term>
+<term xml:id="per.000699">Naylor, George</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
 <term>Washington (D.C.)</term>
 </keywords>
 
+<keywords scheme="original" n="outcome">
+<term>Motion for New Trial</term>
+</keywords>
+
 </textClass>
             
 <particDesc>   
-<listPerson type="oscys.caseid.0317">            
-<person role="petitioner">
-<persName>Vigel, Susan</persName>
+<listPerson type="oscys.caseid.0316">            
+<person role="petitioner" xml:id="per.002371">
+<persName>Vigel, Mary</persName>
 </person>
-<person role="defendant">
-<persName>Naylor, Henry</persName>
+<person role="defendant" xml:id="per.001292">
+<persName>Nevitt, Robert K.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002372">
 <persName>Blair, Montgomery</persName>
 </person>
 <person role="attorney_defendant">
@@ -112,14 +117,14 @@
 </person>
 </listPerson>
 
-<listPerson type="oscys.caseid.0316">            
-<person role="petitioner">
-<persName>Vigel, Mary</persName>
+<listPerson type="oscys.caseid.0317">            
+<person role="petitioner" xml:id="per.002374">
+<persName>Vigel, Susan</persName>
 </person>
-<person role="defendant">
-<persName>Nevitt, Robert K.</persName>
+<person role="defendant" xml:id="per.000883">
+<persName>Naylor, Henry</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" corresp="per.002372">
 <persName>Blair, Montgomery</persName>
 </person>
 <person role="attorney_defendant">
@@ -136,7 +141,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>        
+<revisionDesc>       
+<change when="2016-01-20" who="#lkw">added xml:ids</change> 
 <change when="2015-07-15" who="#kln">reviewed; edited</change>         
 <change when="2015-04-22" who="#snc">Encoded and transcribed.</change>
 </revisionDesc>

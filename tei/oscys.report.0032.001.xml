@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -86,13 +87,13 @@
 <term xml:id="per.001601">Davis, John</term>
 <term xml:id="per.000028">Davis, Mary</term>
 <term xml:id="per.000160">Davis, Susan</term>
-<term>Catron, John, approximately 1786-1865</term>
-<term>Kirby, John B.</term> 
-<term>Naylor, George</term>
+<term xml:id="per.002802">Catron, John, approximately 1786-1865</term>
+<term xml:id="per.000689">Kirby, John Baptist</term> 
+<term xml:id="per.000699">Naylor, George</term>
 <term xml:id="per.000168">Swann, Caleb</term>
-<term>Vigel, Eliza</term> <!-- Susan's sister -->
-<term>Vigel, Richard</term> <!-- Susan's brother -->
-<term>Vigel, Sarah</term> <!-- Susan's mother -->
+<term xml:id="per.000882">Wigle, Elisa</term> <!-- Susan's sister -->
+<term xml:id="per.002378">Vigel, Richard</term> <!-- Susan's brother -->
+<term xml:id="per.000881">Wigle, Sarah</term> <!-- Susan's mother -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -108,15 +109,14 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.002374">
 <persName>Vigel, Susan</persName> 
 </person>
-<person role="defendant"> 
+<person role="defendant" xml:id="per.000883"> 
 <persName>Naylor, Henry</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002372">
 <persName>Blair, Montgomery</persName>
-<persName/>
 </person>
 <person role="attorney_defendant" xml:id="per.000829">
 <persName>Bradley, Joseph H. (Joseph Habersham), 1802-1887</persName>
@@ -132,7 +132,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>         
+<change when="2016-03-07" who="#lkw">added xml:ids; added Kirby's middle name to match case documents; changed Eliza to Elisa and Vigle to Wigle where needed to match case document</change>    
 <change when="2016-02-03" who="#kln">reviewed, edited</change>
 <change when="2016-01-27" who="#smb">transcribed and encoded</change>
 </revisionDesc>
