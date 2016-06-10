@@ -48,7 +48,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Petition of Joseph Wallingsford</title>
-<date/>
+<date when="1827-04-11">April 14, 1827</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -84,7 +84,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
+<term>Beall, Aquila</term> <!--clerk for Prince George County-->
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
+<term>Hilleary, Clement G.</term> 
 <term xml:id="per.001689">Wallingsford, Rachael</term>
 </keywords>
 
@@ -115,8 +117,8 @@
 <person role="attorney_petitioner">
 <persName/>
 </person>
-<person role="attorney_defendant">
-<persName/>
+<person role="attorney_defendant" xml:id="per.001183">
+<persName>Ashton, Henry</persName>
 </person>
 </listPerson>
             
@@ -130,6 +132,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-06-07" who="#snc">encoded missing petition pages</change>
 <change when="2015-11-09" who="#lkw">added xml:ids; transcription</change>  
 <change when="2015-01-12" who="#kln">reviewed; edited</change>            
 <change when="2014-11" who="#snc">encoded</change>
@@ -163,7 +166,7 @@ labour to procure a subsistence; after feeding and clothing himself and family t
 
 <pb xml:id="p003" facs="oscys.case.0205.008.003.jpg"/>
 
-the property of your orator. That afterward finding his said wife was determined to live apart from him, at her own request and by her express agreement he agreed to give her a certain sum of money in property &amp; cash for her future separate support, amounting, as your orator believes to $900 or thereabouts which was the amount which she alleged that she had brought with her by her marriage, consisting of the aforesaid negro girl, $75 cash, a bed, a horse five head of cattle, 200 weight of bacon &amp; sundry other small articles of house hold &amp; kitchen furniture, one single bill for $125 and one other of $200 amounting altogether to the aforesaid sum of $900, which she agreed to take as placing her in the same situation in which she was before the said marriage and thereupon to acquit and discharge your orator from all further claim upon him for support, and your orator avers that he did actually deliver all the aforesaid money notes and property to her in pursuance of said agreement and that she carried all away. Your orator further sates that after the expiration of about 2 years as nearly as he can now recollect his said wife became again dissatisfied with her situation and returned to his house and for about 3 weeks would stay about two or three days at a time and go away and return <gap extent="one or two words" reason="illegible"/>
+the property of your orator. That afterward finding his said wife was determined to live apart from him, at her own request and by her express agreement he agreed to give her a certain sum of money in property &amp; cash for her future separate support, amounting, as your orator believes to $900 or thereabouts which was the amount which she alleged that she had brought with her by her marriage, consisting of the aforesaid negro girl, $75 cash, a bed, a horse five head of cattle, 200 weight of bacon &amp; sundry other small articles of house hold &amp; kitchen furniture, one single bill for $125 and one other of $200 amounting altogether to the aforesaid sum of $900, which she agreed to take as placing her in the same situation in which she was before the said marriage and thereupon to acquit and discharge your orator from all further claim upon him for support, and your orator avers that he did actually deliver all the aforesaid money notes and property to her in pursuance of said agreement and that she carried all away. Your orator further sates that after the expiration of about 2 years as nearly as he can now recollect his said wife became again dissatisfied with her situation and returned to his house and for about 3 weeks would stay about two or three days at a time and go away and return and pass
 
 <pb xml:id="p004" facs="oscys.case.0205.008.004.jpg"/>
 
@@ -175,19 +178,37 @@ Whereupon he determined to appeal from the decree of your honors in said suit fo
 
 <pb xml:id="p006" facs="oscys.case.0205.008.006.jpg"/>
 
-That thereupon he publicly advertised <del>it</del> in a news paper in the City of Washington the National Intelligence, that his wife had left him and that he forbid all persons from harboring her, in the hope that she would thus be driven to the necessity of returning home to <del>him</del> live with him, which she however still persisted in refusing to do. Your orator further states that when he afterwards heard of the reversal of the said decree of your honors and was informed by his Counsel that he was thereby restored to all his marital rights he again called upon his said wife and requested her to come and live with him promising her again protection &amp; kindness which she still refused to do and on the contrary at the next Term of your Honl Court thereafter filed another petition in your Honl Court praying for alimony your orator should pay to his said wife$120 per annum quarterly during the <gap extent="one or two words" reason="illegible"/> of the said <gap extent="one or two words" reason="illegible"/>. Your orator will further state that he has been almost reduced to ruin by the necessity of paying that annuity and that he can see no certain prospect of an end to that suit, that his said wife has still retained the said property which he gave to her by <del>order of</del>virtue of the said agreement and that the said negro girl has now become a woman and has two children all of whom with the 
+That thereupon he publicly advertised <del>it</del> in a news paper in the City of Washington the National Intelligence, that his wife had left him and that he forbid all persons from harboring her, in the hope that she would thus be driven to the necessity of returning home to <del>him</del> live with him, which she however still persisted in refusing to do. Your orator further states that when he afterwards heard of the reversal of the said decree of your honors and was informed by his Counsel that he was thereby restored to all his marital rights he again called upon his said wife and requested her to come and live with him promising her again protection &amp; kindness which she still refused to do and on the contrary at the next Term of your Honl Court thereafter filed another petition in your Honl Court praying for alimony your orator should pay to his said wife$120 per annum quarterly during the <del>de</del>pendencies of the said <unclear>list</unclear>. Your orator will further state that he has been almost reduced to ruin by the necessity of paying that annuity and that he can see no certain prospect of an end to that suit, that his said wife has still retained the said property which he gave to her by <del>order of</del>virtue of the said agreement and that the said negro girl has now become a woman and has two children all of whom with the 
 
 <pb xml:id="p007" facs="oscys.case.0205.008.007.jpg"/>
 
-mother are worth $450. That for the purpose of enabling himself to pay the said $120, he went about 4 or 5 weeks ago to the City of Washington where his said wife keeps the said negroes and took them in his possession, as he was advised he had a right to do, and as he was directed by Judge Cranch, before whom he was obliged to go before he could get full possession of them and was about to bring them away when his said wife finding by the Judgment of Judge Cranch, that he had a right to bring them away and use them as his own property, became greatly distressed and offended and agreed that if your orator would suffer the said negroes mother &amp; children to remain with her she would on that account agree never to claim of him any thing more in consequence of the said interlocatory order, and that she would discontinue her suit for alimony and that each party should retain what they had and he quits forever after. Which was assented to by your orator who left the said woman and children with her as agreed upon but said is may it please your honors that since that time she was still persisted in claiming the said allowance of $120 per annum and ordered the sheriff to <gap extent="one word" reason="illegible"/> your orator therefor she still refusing to</p> 
-
-</div2>
+mother are worth $450. That for the purpose of enabling himself to pay the said $120, he went about 4 or 5 weeks ago to the City of Washington where his said wife keeps the said negroes and took them in his possession, as he was advised he had a right to do, and as he was directed by Judge Cranch, before whom he was obliged to go before he could get full possession of them and was about to bring them away when his said wife finding by the Judgment of Judge Cranch, that he had a right to bring them away and use them as his own property, became greatly distressed and offended and agreed that if your orator would suffer the said negroes mother &amp; children to remain with her she would on that account agree never to claim of him any thing more in consequence of the said interlocatory order, and that she would discontinue her suit for alimony and that each party should retain what they had and he quits forever after. Which was assented to by your orator who left the said woman and children with her as agreed upon but said is may it please your honors that since that time she was still persisted in claiming the said allowance of $120 per annum and ordered the sheriff to <gap extent="one word" reason="illegible"/> your orator therefor she still refusing to 
 
 <pb xml:id="p008" facs="oscys.case.0205.008.008.jpg"/>
 
+comply with the said agreement all of which oppresive unjust and contrary to Equity and good conscience, wherefore youyr orator prays your honors to suspend the execution of the said interfactory order to compel his said wife to appear on this Honorable Court and answer this cross bill and petition and to do for your orator which further Equity he may be entitled to by the Case which he should make our and as is duty bouynd he will everpray &amp;c</p>
+ 
+<p>H. Ashton for Petr.</p>
+
+<p>Maryland Prince George County towit,</p>
+
+<p>On this 14th day of April 1827 personally appears Jospeh Wallinford party petitioner in the foregoing petition before the subscriber a justice of the peace in and for the county aforesaid made oath on the Holy Evangelly of Almighty God that the parts stated in the said petition are of his own Knowledge and true and that such as are stated as from the information of others he believes to be true.</p>
+
+<p>Sworn before<lb/>
+Clement G. Hilleary</p>
+
+<pb xml:id="p009" facs="oscys.case.0205.008.009.jpg"/>
+
+<p>Maryland Prince Georges County Set.</p>
+<p>I berby certify that the aforegoing Peititon is truly taken and copied from the original filed in my office.</p>
+<p>In Testimony whereof I have hereunto subscribed my names an affixed the seal of Prince George County Court this 8th day of January anno Domino 1835</p>
+<p>Aquila Beall Clk of P. G. County Court</p></div2>
+
+<pb xml:id="p010" facs="oscys.case.0205.008.010.jpg"/>
+
 <div2 type="back">
  
-<p>284</p>
+<p>286</p>
 
 <p>Wallingsford<lb/>
 vs<lb/>

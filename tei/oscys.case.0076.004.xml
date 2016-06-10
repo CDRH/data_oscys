@@ -127,6 +127,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-04-22" who="#snc">added back image</change>
 <change when="2015-11-09" who="#snc">added idno; edited term</change>
 <change when="2014-12-10" who="#lkw">added xml:ids</change>
 <change when="2014-10-03" who="#kln">converted to new TEI</change>
@@ -153,6 +154,12 @@
 
 </div2>
 
+<pb xml:id="p002" facs="oscys.case.0076.004.002.jpg"/>
+
+<div2 type="back">
+
+<p>A Bill of sale to be recorded</p>
+</div2>
 </div1>
 
 </body>

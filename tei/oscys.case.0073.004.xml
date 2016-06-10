@@ -1,17 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0075.003">
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0073.004">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>John Baptist Lee v. Augustus Preuss. Petition for Freedom</title>
+<title>Janette Lee v. Augustus Preuss. Summons of Augustus Preuss</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Muñoz, Trevor" xml:id="tm">Trevor Muñoz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
-<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
-<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -36,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0075.003</idno>
-<idno type="case">oscys.caseid.0075</idno>
+<idno type="project">oscys.case.0073.004</idno>
+<idno type="case">oscys.caseid.0073</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,15 +45,15 @@
 
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petition for Freedom</title>
-<date when="1827-04-25">April 25, 1827</date>
+<title level="m" type="main">Summons of Augustus Preuss</title>
+<date when="1826-11-18">November 18, 1826</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 21, Entry 6</collection>
-<idno>Box 385, Folder 109/110/111</idno>
+<idno>Box 377, Folder 389</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -68,7 +66,7 @@
 </keywords>
 
 <keywords scheme="original" n="subcategory">
-<term>Petition</term>
+<term>Summons</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -80,11 +78,13 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1827-05">May 1827</date></term>
+<term><date when="1826-12">December 1826</date></term>
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term/>
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.000004">Cranch, William, 1769-1855</term>
+<term xml:id="per.000461">Ringgold, Tench</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -96,14 +96,14 @@
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.000630">
-<persName>Lee, John Baptist</persName>
+<person role="petitioner" xml:id="per.000619">
+<persName>Lee, Janette</persName>
 </person>
 <person role="defendant" xml:id="per.000617">
 <persName>Preuss, Augustus</persName>
 </person>
-<person role="attorney_petitioner" xml:id="per.000629">
-<persName>Barrell, S. B.</persName>
+<person role="attorney_petitioner" xml:id="per.000572">
+<persName>Beale, Robert</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -120,12 +120,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2015-04-01" who="#snc">edited idno</change>
-<change when="2015-11-18" who="#snc">added idno</change>
-<change when="2014-12-10" who="#lkw">added xml:ids</change>
-<change when="2014-10-03" who="#kln">converted to new TEI</change>
-<change when="2013-04-26" who="#kln">added attorneys to header</change>
-<change when="2013-03-21" who="#kln">transcribed, encoded</change>
+<change when="2016-03-30" who="#snc">transcribed and encoded</change>
 </revisionDesc>
 </teiHeader>
 
@@ -135,46 +130,55 @@
 
 <div1 type="case">
 
-<pb xml:id="p001" facs="oscys.case.0075.003.001.jpg"/>
+<pb xml:id="p001" facs="oscys.case.0073.004.001.jpg"/>
 
 <div2 type="caption">
 
-<p>To the Honorable, the Judges of the Circuit Court for the County of Washington, in the District of Columbia.</p>
+<p>District of Columbia, to wit:</p>
+
+<p>The United States of America,</p>
+
+<p>To the Marshal of the District of Columbia, greeting:</p>
 
 </div2>
 
 <div2 type="body">
 
-<p>The Petition of John Baptist Lee humbly sheweth unto your Honors that he
-is entitled to his freedom and is unjustly &amp; illegally held in bondage by one
-Augustus Preuss who intends, (as your petitioner is informed and verily believes) to sell him a slave for life. Wherefore he prays your
-Honors, that a subpoena may issue from your Honorable Court to the said
-Augustus Preuss directed, commanding him to be and appear
-before your Honorable Court and answer hereto. and that your
-petitioner may be discharged from his service and obtain such relief in the
-premises as to your Honors may seem meet. And as in duty bound will ever pray &amp;c</p>
+<p>You are hereby commanded to summon Augustus Preuss if he shall be found in the county of Washington, that (all excuses set aside) he be and appear before the Circuit Court of the District of Columbia, to be held for the county of Washington, in the city of Washington, on the first Monday of December next, to <del>testify on the part of</del> answer the Petition of Freedom of Janette Lee filed in court against him</p>
 
-<p>S.B. Barrell<lb/>
-Atty for Petr.</p>
+<p>Hereof fail not at your peril: and have you then and there this precept.</p> 
 
-<p>April 25th 1827.</p>
-   
+<p>Witness W. Cranch Esquire, chief Judge of the said Court.</p>
+
+<p>Issued the 18th day of November 1826</p>
+
+<p>W. Brent, Clk</p>
+
+<p>(Beale)</p>
+
 </div2>
- 
-<pb xml:id="p002" facs="oscys.case.0075.003.002.jpg"/>
+   
+<pb xml:id="p002" facs="oscys.case.0073.004.002.jpg"/>
 
 <div2 type="back">
 
-<p>281</p>
-<p>Joh. B Lee<lb/>
+<p>389</p>
+
+<p>Janett Lee<lb/>
 vs<lb/>
-Aug. Preuss<lb/>
-Petition for Freedom</p>
-<p>Filed 25th April 1827</p>
+Augustus Preuss</p>
+
+<p>Subpa<lb/>
+1 Bre</p>
+
+<p>Non Est</p>
+
+<p>T Ringgold<lb/>
+Marshal</p>  
 
 </div2>
+ 
 </div1>
-   
 </body>
 </text>
 </TEI>
