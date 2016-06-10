@@ -1,15 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0360.010">
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0360.010">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Francis Bowling &amp; Clarissa Gardner v. David Atkins. Docket Sheet</title>
+<title>Francis Bowling &amp; Clarissa Gardiner v. David Atkins. Docket Sheet</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Muñoz, Trevor" xml:id="tm">Trevor Muñoz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -46,7 +49,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Docket Sheet</title>
-<date when="1841-12-17">December 17, 1841</date>
+<date/>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -74,7 +77,7 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Petition for Freedom</term>
+<term><!-- Petition for Freedom, Habeas Corpus, &c. --></term>
 </keywords>
 
 <keywords scheme="original" n="term">
@@ -101,7 +104,7 @@
 <persName>Bowling, Francis</persName>
 </person>
 <person role="petitioner" xml:id="per.001242">
-<persName>Gardner, Clarissa B.</persName>
+<persName>Gardiner, Clarissa B.</persName>
 </person>
 <person role="defendant" xml:id="per.001236">
 <persName>Atkins, David</persName>
@@ -127,6 +130,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2016-03-18" who="#kln">reviewed; edited</change>
 <change when="2016-02-16" who="#snc">transcribed; encoded</change>
 </revisionDesc>
 
@@ -140,28 +144,45 @@
 
 <pb xml:id="p006" facs="oscys.case.0360.010.001.jpg"/>
 
-<div2 type="caption">
-
-<p><add place="margin">B &#38; B</add> Francis Bowling &#38; Clarissa Gardner<lb/>
-vs<lb/>
-<add place="margin">Bradley</add> David Atkins</p>
-
-</div2>
-
 <div2 type="body">
 
-<p>448 Trials Nov 1840<lb/>
-Ref (dockit) A greet <del>rule</del> nar</p>
-
-<p>178 Trials Mar: 1841<lb/>
-<del>nar</del> property in deft <unclear extent="one word"/></p>
-
-<p>106 Trials Nov 1841-<lb/>
-property in a <unclear extent="one word"/><lb/>
-<unclear>posis</unclear> free &#38; i<unclear>fo</unclear></p>
+<table>
+<row>
+<cell>B &#38; B</cell>
+<cell>Francis Bowling &#38; Clarissa Gardner</cell>
+<cell>448 Trials Nov 1840<lb/>
+Repn (dok'd) Agreet<lb/>
+<del>rule</del> Nar</cell>
+</row>
+<row>
+<cell/>
+<cell>vs</cell>
+<cell/>
+</row>
+<row>
+<cell>Bradley</cell>
+<cell>David Atkins</cell>
+<cell>172 Trials Mar: 1841<lb/>
+<del>Nar</del> propty in deft <gap extent="one word" reason="illegible"/></cell>
+</row>
+<row>
+<cell/>
+<cell/>
+<cell>106 Trials Nov 1841.<lb/>
+propty in a <gap extent="one word" reason="illegible"/><lb/>
+propy free &#38; <gap extent="one word" reason="illegible"/></cell>
+</row>
+</table>
 
 <p>Exceptions</p>
-<p>16 Dec Jury Sworn<lb/>
+
+<figure>
+<figDesc>
+sketch of a man in profile
+</figDesc>
+</figure>
+
+<p>16 Decr. Jury Sworn<lb/>
 Verdict for deft</p>
 
 </div2>
