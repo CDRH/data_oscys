@@ -262,7 +262,6 @@ This file was compiled from information found in
 <persName type="full"> <surname>Brown</surname>, <forename type="first" full="yes">Nelly</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
 </person>
 
 <person xml:id="per.000017" source="http://earlywashingtondc.org/doc/oscys.case.0004.001">
@@ -4337,6 +4336,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Randall</surname>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
+<occupation>attorney</occupation>
 </person>
 
 <!-- oscys.case.0046.005 end -->
@@ -8592,10 +8592,11 @@ This file was compiled from information found in
 
 <person xml:id="per.000904" source="http://earlywashingtondc.org/doc/oscys.case.0124.007">
 <persName type="display">Buckner, Ariss</persName>
-<persName type="full"> <surname>Buckner</surname>, <forename type="first" full="yes">Ariss</forename></persName>
+<persName type="full"> <surname>Buckner</surname>, <forename type="first" full="yes">Ariss</forename> <addName type="forename" subtype="alternate">Aris</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<occupation>judge</occupation>
+<occupation>justice of the peace</occupation>
+<residence>Loudoun County (Va.)</residence>
 </person>
 
 <person xml:id="per.000905" source="http://earlywashingtondc.org/doc/oscys.case.0124.007">
@@ -20825,8 +20826,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.002176" source="http://earlywashingtondc.org/doc/oscys.case.0274.003">
-<persName type="display">Sopor, Nathan</persName>
-<persName type="full"> <surname>Sopor</surname>, <forename type="first" full="yes">Nathan</forename></persName>
+<persName type="display">Soper, Nathan</persName>
+<persName type="full"> <surname>Soper</surname>, <forename type="first" full="yes">Nathan</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 <occupation>overseer</occupation>
