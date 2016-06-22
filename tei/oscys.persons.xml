@@ -532,6 +532,7 @@ This file was compiled from information found in
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>attorney</occupation>
+<occupation>judge (1815-1863)</occupation>
 </person>
 
 <!-- oscys.case.0008.001 end -->
@@ -12347,13 +12348,14 @@ This file was compiled from information found in
 <trait type="color"><ab></ab></trait>
 </person>
 
+<!-- same as per.001621
 <person xml:id="per.001302" source="http://earlywashingtondc.org/doc/oscys.case.0177.012">
 <persName type="display">Morsell, D. H.</persName>
 <persName type="full"> <surname>Morsell</surname>, <forename type="first" full="init">D.</forename> <forename type="init" full="init">H.</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 <occupation when="1842-12-01"  source="http://earlywashingtondc.org/doc/oscys.case.0177.012">justice of the peace</occupation>
-</person>
+</person>-->
 
 <person xml:id="per.001303" source="http://earlywashingtondc.org/doc/oscys.case.0177.012">
 <persName type="display">Walker, John</persName>
@@ -15281,7 +15283,7 @@ This file was compiled from information found in
 
 <person xml:id="per.001621" source="http://earlywashingtondc.org/doc/oscys.case.0193.003">
 <persName type="display">Morsell, Benjamin K.</persName>
-<persName type="full"> <surname>Morsell</surname>, <forename type="first" full="yes">B. K.</forename></persName>
+<persName type="full"> <surname>Morsell</surname>, <forename type="first" full="yes">Benjamin K.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation when="1834-04-10">justice of the peace</occupation>
