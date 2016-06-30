@@ -262,7 +262,6 @@ This file was compiled from information found in
 <persName type="full"> <surname>Brown</surname>, <forename type="first" full="yes">Nelly</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
 </person>
 
 <person xml:id="per.000017" source="http://earlywashingtondc.org/doc/oscys.case.0004.001">
@@ -533,6 +532,7 @@ This file was compiled from information found in
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>attorney</occupation>
+<occupation>judge (1815-1863)</occupation>
 </person>
 
 <!-- oscys.case.0008.001 end -->
@@ -2626,19 +2626,21 @@ This file was compiled from information found in
 
 <!-- oscys.case.0033.001 start -->
 
+<!-- not a person; should be E B Caldwell
 <person xml:id="per.000273" source="http://earlywashingtondc.org/doc/oscys.case.0033.001">
 <persName type="display">McDowell, E.</persName>
 <persName type="full"> <surname>McDowell</surname>, <forename type="first" full="init">E.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-</person>
+</person>-->
 
+<!-- not a person; should be James S Morsell
 <person xml:id="per.000274" source="http://earlywashingtondc.org/doc/oscys.case.0033.001">
 <persName type="display">Morrell, James S.</persName>
 <persName type="full"> <surname>Morrell</surname>, <forename type="first" full="yes">James</forename> <forename type="middle" full="init">S.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-</person>
+</person>-->
 
 <person xml:id="per.000275" source="http://earlywashingtondc.org/doc/oscys.case.0033.001">
 <persName type="display">Torrey, Jesse</persName>
@@ -4070,7 +4072,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Jones</surname></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<note>Forename is unknown.</note>
+<note>Forename is unknown. Probably Walter Jones (per.000435).</note>
 </person>
 
 <!-- oscys.case.0041.003 end -->
@@ -4335,6 +4337,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Randall</surname>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
+<occupation>attorney</occupation>
 </person>
 
 <!-- oscys.case.0046.005 end -->
@@ -4872,7 +4875,7 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.000528" source="http://earlywashingtondc.org/doc/oscys.case.0057.005">
-<persName type="display">Trip[lett, Thomas</persName>
+<persName type="display">Triplett, Thomas</persName>
 <persName type="full"> <surname>Triplett</surname>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
@@ -5972,6 +5975,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Turner</surname>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation>attorney</occupation>
 </person>
 
 <!-- oscys.case.0078.001 end -->
@@ -7805,7 +7809,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Tyler</surname>, <forename type="first" full="yes">Trueman</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<occupation source="http://earlywashingtondc.org/doc/oscys.case.0258.020">attorney</occupation>
+<occupation>Register of Wills, Prince George's County (Md.)</occupation>
 </person>
 
 <!-- oscys.case.0104.010 end -->
@@ -8069,7 +8073,7 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.000853" source="http://earlywashingtondc.org/doc/oscys.case.0109.001">
-<persName type="display">Allen, Ann Turner</persName>
+<persName type="display">Allen, Ann</persName>
 <persName type="full"> <surname>Allen</surname>, <forename type="first" full="yes">Ann</forename> <surname type="maiden">Turner</surname></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
@@ -8589,10 +8593,11 @@ This file was compiled from information found in
 
 <person xml:id="per.000904" source="http://earlywashingtondc.org/doc/oscys.case.0124.007">
 <persName type="display">Buckner, Ariss</persName>
-<persName type="full"> <surname>Buckner</surname>, <forename type="first" full="yes">Ariss</forename></persName>
+<persName type="full"> <surname>Buckner</surname>, <forename type="first" full="yes">Ariss</forename> <addName type="forename" subtype="alternate">Aris</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<occupation>judge</occupation>
+<occupation>justice of the peace</occupation>
+<residence>Loudoun County (Va.)</residence>
 </person>
 
 <person xml:id="per.000905" source="http://earlywashingtondc.org/doc/oscys.case.0124.007">
@@ -12343,13 +12348,14 @@ This file was compiled from information found in
 <trait type="color"><ab></ab></trait>
 </person>
 
+<!-- same as per.001621
 <person xml:id="per.001302" source="http://earlywashingtondc.org/doc/oscys.case.0177.012">
 <persName type="display">Morsell, D. H.</persName>
 <persName type="full"> <surname>Morsell</surname>, <forename type="first" full="init">D.</forename> <forename type="init" full="init">H.</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 <occupation when="1842-12-01"  source="http://earlywashingtondc.org/doc/oscys.case.0177.012">justice of the peace</occupation>
-</person>
+</person>-->
 
 <person xml:id="per.001303" source="http://earlywashingtondc.org/doc/oscys.case.0177.012">
 <persName type="display">Walker, John</persName>
@@ -15276,8 +15282,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001621" source="http://earlywashingtondc.org/doc/oscys.case.0193.003">
-<persName type="display">Morsell, B. K.</persName>
-<persName type="full"> <surname>Morsell</surname>, <forename type="first" full="yes">B. K.</forename></persName>
+<persName type="display">Morsell, Benjamin K.</persName>
+<persName type="full"> <surname>Morsell</surname>, <forename type="first" full="yes">Benjamin K.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation when="1834-04-10">justice of the peace</occupation>
@@ -20139,6 +20145,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Mason</surname>, <forename type="first" full="yes">Thomson</forename> <forename type="middle" full="init">F.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation>attorney</occupation>
 </person>
 
 <person xml:id="per.002113" source="http://earlywashingtondc.org/doc/oscys.case.0259.001">
@@ -20821,8 +20828,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.002176" source="http://earlywashingtondc.org/doc/oscys.case.0274.003">
-<persName type="display">Sopor, Nathan</persName>
-<persName type="full"> <surname>Sopor</surname>, <forename type="first" full="yes">Nathan</forename></persName>
+<persName type="display">Soper, Nathan</persName>
+<persName type="full"> <surname>Soper</surname>, <forename type="first" full="yes">Nathan</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 <occupation>overseer</occupation>
@@ -21837,6 +21844,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Tyler</surname>, <forename type="first" full="yes">Trueman</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<note>May be the same as per.002805.</note>
 </person>
 
 <!-- oscys.case.0296.013 end -->
@@ -22028,7 +22036,7 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.002290" source="http://earlywashingtondc.org/doc/oscys.case.0301.001">
-<persName type="display">Boothe, Ann Mareman</persName>
+<persName type="display">Boothe, Ann</persName>
 <persName type="full"> <surname>Boothe</surname>, <forename type="first" full="yes">Ann</forename> <surname type="maiden">Mareman</surname> <addName type="maiden">Merryman</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
@@ -23680,7 +23688,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Cooke</surname>, <forename type="first" full="yes">Stephen</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
-<occupation>doctor</occupation>
+<occupation source="http://earlywashingtondc.org/doc/oscys.case.0334.006">doctor</occupation>
 </person>
 
 <!-- oscys.case.0334.001 end -->
@@ -25325,6 +25333,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Lynn</surname>, <forename type="first" full="yes">Adam</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation>justice of the peace</occupation>
 </person>
 
 <!-- oscys.case.0358.004 end -->
@@ -26788,6 +26797,20 @@ This file was compiled from information found in
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
+
+
+
+<!-- oscys.case.0258.020 start (addition) -->
+
+<person xml:id="per.002805" source="http://earlywashingtondc.org/doc/oscys.case.0258.020">
+<persName type="display">Tyler, Trueman</persName>
+<persName type="full"> <surname>Tyler</surname>, <forename type="first" full="yes">Trueman</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>attorney</occupation>
+<note>May be the same as per.002271.</note>
+</person>
+
 
 <!--
 
