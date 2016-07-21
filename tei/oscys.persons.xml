@@ -4074,7 +4074,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Jones</surname></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<note>Forename is unknown.</note>
+<note>Forename is unknown. Probably Walter Jones (per.000435).</note>
 </person>
 
 <!-- oscys.case.0041.003 end -->
@@ -4749,7 +4749,7 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.000513" source="http://earlywashingtondc.org/doc/oscys.case.0057.001">
-<persName type="display">Wharton, Charles H.</persName>
+<persName type="display">Wharton, Charles H. W.</persName>
 <persName type="full"> <surname>Wharton</surname>, <forename type="first" full="yes">Charles</forename> <forename type="middle" full="init">H.</forename> <forename type="middle" full="init">W.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
@@ -6801,7 +6801,7 @@ This file was compiled from information found in
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>register of wills</occupation>
-<note>May be the Alexander Moore  (per.000712) who is the defendant in this case.</note>
+<note>May be the same as per.000712</note>
 </person>
 
 <person xml:id="per.000722" source="http://earlywashingtondc.org/doc/oscys.case.0092.004">
@@ -8076,7 +8076,7 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.000853" source="http://earlywashingtondc.org/doc/oscys.case.0109.001">
-<persName type="display">Allen, Ann Turner</persName>
+<persName type="display">Allen, Ann</persName>
 <persName type="full"> <surname>Allen</surname>, <forename type="first" full="yes">Ann</forename> <surname type="maiden">Turner</surname></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
@@ -12741,8 +12741,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001345" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
-<persName type="display">Ann</persName>
-<persName type="full"><forename type="first" full="yes">Ann</forename></persName>
+<persName type="display">Graham, Ann</persName>
+<persName type="full"><surname>Graham</surname>, <forename type="first" full="yes">Ann</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -12755,8 +12755,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001347" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
-<persName type="display">Alexander</persName>
-<persName type="full"><surname>Alexander</surname>, <addName type="honorific">Mrs.</addName></persName>
+<persName type="display">Alexander, Frances</persName>
+<persName type="full"><surname>Alexander</surname>, <forename type="first" full="yes">Frances</forename> <surname type="maiden">Brown</surname></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -12790,8 +12790,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001352" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
-<persName type="display">Milly</persName>
-<persName type="full"><forename type="first" full="yes">Milly</forename></persName>
+<persName type="display">Dunbar, Milly</persName>
+<persName type="full"><surname>Dunbar</surname>, <forename type="first" full="yes">Milly</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -12803,16 +12803,17 @@ This file was compiled from information found in
 <trait type="color"><ab></ab></trait>
 </person>
 
+<!--same as per.000721
 <person xml:id="per.001354" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
 <persName type="display">Moore, A.</persName>
 <persName type="full"><surname>Moore, </surname>, <forename type="first" full="init">A.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-</person>
+</person>-->
 
 <person xml:id="per.001355" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
-<persName type="display">Rachael</persName>
-<persName type="full"><forename type="first" full="yes">Rachael</forename></persName>
+<persName type="display">Graham, Rachel</persName>
+<persName type="full"><surname>Graham</surname>, <forename type="first" full="yes">Rachel</forename> <addName type="forename" subtype="alternate">Rachael</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -12826,7 +12827,7 @@ This file was compiled from information found in
 
 <person xml:id="per.001357" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
 <persName type="display">Swann, Frances</persName>
-<persName type="full"> <surname>Swann</surname>, <forename type="first" full="yes">Frances</forename></persName>
+<persName type="full"><surname>Swann</surname>, <forename type="first" full="yes">Frances</forename> <surname type="maiden">Brown</surname></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -12839,8 +12840,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001359" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
-<persName type="display">Swann, William I.</persName>
-<persName type="full"> <surname>Swann</surname>, <forename type="first" full="yes">William</forename> <forename type="middle" full="init">I.</forename></persName>
+<persName type="display">Swann, William T.</persName>
+<persName type="full"> <surname>Swann</surname>, <forename type="first" full="yes">William</forename> <forename type="middle" full="init">T.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <death notAfter="1825-09-15">before September 5, 1825</death>
@@ -20147,11 +20148,12 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.002112" source="http://earlywashingtondc.org/doc/oscys.case.0259.001">
-<persName type="display">Mason, Thomson F.</persName>
+<persName type="display">Mason, Thomson Francis, 1785-1838</persName>
 <persName type="full"> <surname>Mason</surname>, <forename type="first" full="yes">Thomson</forename> <forename type="middle" full="init">F.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>attorney</occupation>
+<idno>http://viaf.org/viaf/26132353</idno>
 </person>
 
 <person xml:id="per.002113" source="http://earlywashingtondc.org/doc/oscys.case.0259.001">
@@ -22042,7 +22044,7 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.002290" source="http://earlywashingtondc.org/doc/oscys.case.0301.001">
-<persName type="display">Boothe, Ann Mareman</persName>
+<persName type="display">Boothe, Ann</persName>
 <persName type="full"> <surname>Boothe</surname>, <forename type="first" full="yes">Ann</forename> <surname type="maiden">Mareman</surname> <addName type="maiden">Merryman</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
@@ -25340,6 +25342,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Lynn</surname>, <forename type="first" full="yes">Adam</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation>justice of the peace</occupation>
 </person>
 
 <!-- oscys.case.0358.004 end -->
