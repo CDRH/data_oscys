@@ -9,6 +9,7 @@
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Bryant, Samantha M." xml:id="smb">Samantha M. Bryant</name>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
@@ -86,8 +87,7 @@
 <keywords scheme="lcsh" n="people">
 <!-- <term>Egerton, James</term>
 <term>Forrest, James</term>
-<term>Thompson, Ann</term>
- -->
+<term>Thompson, Ann</term> -->
 <term xml:id="per.000320">James</term>
 <term xml:id="per.000321">James</term>
 <term xml:id="per.000298">Joseph</term>
@@ -138,6 +138,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-07-25" who="#kln">corrected transcription based on new images</change>
 <change when="2016-02-17" who="#smb">reviewed document</change>
 <change when="2015-11-09" who="#snc">added idno</change>
 <change when="2014-10-01" who="#lkw">added xml:ids; commented out people and added new people</change>
@@ -191,7 +192,7 @@
 <cell>Jim (son of Rachel)</cell>
 <cell>do do 7 do</cell>
 <cell>100</cell>
-<cell>00 - <unclear reason="illegible">J</unclear></cell>
+<cell>00 - <unclear reason="illegible">W</unclear></cell>
 </row>
 <row>
 <cell>Nell</cell>
@@ -236,7 +237,7 @@
 <cell>00 +</cell>
 </row>
 <row>
-<cell>1 bay horse . . . . do . . do . . do</cell>
+<cell>1 bay horse do do do</cell>
 <cell/>
 <cell><hi rend="underline">20</hi></cell>
 <cell>00 +</cell>
@@ -254,8 +255,7 @@
 <cell>00 - W</cell>
 </row>
 <row>
-<cell>1 sacking bottom bed <unclear reason="illegible">
-stead</unclear></cell>
+<cell>1 sacking bottom bed stead</cell>
 <cell/>
 <cell>3</cell>
 <cell>00 - W</cell>
@@ -263,18 +263,18 @@ stead</unclear></cell>
 <row>
 <cell>1 large trunk</cell>
 <cell/>
-<cell><del>7</del></cell>
-<cell><del>00</del></cell>
+<cell><del>1</del></cell>
+<cell><del>50</del></cell>
 </row>
 <row>
 <cell>1 large chest</cell>
 <cell/>
-<cell><unclear reason="illegible">17</unclear></cell>
-<cell><unclear reason="illegible">00</unclear> +</cell>
+<cell>1</cell>
+<cell>75 +</cell>
 </row>
 <row>
 <cell>14 oz &amp; 10 <gap extent="one abbreviated word" reason="illegible"/> plate</cell>
-<cell/>
+<cell>costs @ 111 p oz</cell>
 <cell>15</cell>
 <cell>95 - J</cell>
 </row>
@@ -297,13 +297,13 @@ stead</unclear></cell>
 <cell>50 + J</cell>
 </row>
 <row>
-<cell>2 <gap extent="one abbreviated word" reason="illegible"/> sheets</cell>
+<cell>2 <unclear reason="illegible">pr.</unclear> sheets</cell>
 <cell/>
 <cell>5</cell>
 <cell>00 +</cell>
 </row>
 <row>
-<cell>2 <gap extent="one abbreviated word" reason="illegible"/> pillow cases</cell>
+<cell>1 <unclear reason="illegible">pr.</unclear> pillow cases</cell>
 <cell/>
 <cell/>
 <cell><del>40</del> +</cell>
@@ -336,37 +336,37 @@ stead</unclear></cell>
 <cell>1 small trunk</cell>
 <cell/>
 <cell/>
-<cell><del>25</del> +</cell>
+<cell>25 +</cell>
 </row>
 <row>
 <cell>1 <del>Cupboard</del></cell>
 <cell/>
 <cell/>
-<cell>50 J</cell>
+<cell><del>25</del> +</cell>
 </row>
 <row>
 <cell>1 spider</cell>
 <cell/>
 <cell/>
-<cell>75 J</cell>
+<cell>50 J</cell>
 </row>
 <row>
 <cell>1 Jin Case</cell>
+<cell/>
+<cell/>
+<cell>75 J</cell>
+</row>
+<row>
+<cell>1 silver watch</cell>
 <cell/>
 <cell>8</cell>
 <cell>00 W</cell>
 </row>
 <row>
-<cell>1 silver watch</cell>
+<cell>wearing apparel</cell>
 <cell/>
 <cell><hi rend="underline">20</hi></cell>
 <cell><hi rend="underline">00</hi> +</cell>
-</row>
-<row>
-<cell>wearing apparel</cell>
-<cell/>
-<cell/>
-<cell/>
 </row>
 <row>
 <cell/>
