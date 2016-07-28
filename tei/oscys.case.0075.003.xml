@@ -56,7 +56,7 @@
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 21, Entry 6</collection>
-<idno>Box 385, Folder 62</idno>
+<idno>Box 385, Folder 109/110/111</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -104,7 +104,7 @@
 <persName>Preuss, Augustus</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000629">
-<persName>Barrell, S. B.</persName>
+<persName>Barrell, Samuel B.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -121,7 +121,9 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-07-28" who="#kln">reviewed, edited back</change>
 <change when="2016-04-26" who="#smb">reviewed document</change>
+<change when="2015-04-01" who="#snc">edited idno, added back page</change>
 <change when="2015-11-18" who="#snc">added idno</change>
 <change when="2014-12-10" who="#lkw">added xml:ids</change>
 <change when="2014-10-03" who="#kln">converted to new TEI</change>
@@ -155,6 +157,21 @@ Atty for Petr.</p>
    
 </div2>
  
+<pb xml:id="p002" facs="oscys.case.0075.003.002.jpg"/>
+
+<div2 type="back">
+
+<p>281</p>
+
+<p>Jno B Lee<lb/>
+vs<lb/>
+Augs Preuss</p>
+
+<p>Petition for Freedom</p>
+
+<p>filed 25th April 1827</p>
+
+</div2>
 </div1>
    
 </body>
