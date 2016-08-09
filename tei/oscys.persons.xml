@@ -8241,8 +8241,8 @@ This file was compiled from information found in
 <!-- oscys.case.0115.003 start -->
 
 <person xml:id="per.000867" source="http://earlywashingtondc.org/doc/oscys.case.0115.003">
-<persName type="display">Foye, M.</persName>
-<persName type="full"> <surname>Foye</surname>, <forename type="first" full="init">M.</forename></persName>
+<persName type="display">Foy, Mordecai</persName>
+<persName type="full"> <surname>Foy</surname> <addName type="surname">Foye</addName>, <forename type="first" full="yes">Mordecai</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -9734,13 +9734,14 @@ This file was compiled from information found in
 <trait type="color"><ab></ab></trait>
 </person>
 
+<!-- same as per.002240
 <person xml:id="per.001037" source="http://earlywashingtondc.org/doc/oscys.case.0133.009">
 <persName type="display">Stettinius, Sam</persName>
 <persName type="full"> <surname>Stettinius</surname>, <forename type="first" full="yes">Sam</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>justice of the peace</occupation>
-</person>
+</person>-->
 
 <!-- oscys.case.0133.009 end -->
 
@@ -10755,8 +10756,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001150" source="http://earlywashingtondc.org/doc/oscys.case.0147.002">
-<persName type="display">Orme, W. C.</persName>
-<persName type="full"> <surname>Orme</surname>, <forename type="first" full="init">W.</forename> <forename type="middle" full="init">C.</forename></persName>
+<persName type="display">Orme, William C.</persName>
+<persName type="full"> <surname>Orme</surname>, <forename type="first" full="yes">William</forename> <forename type="middle" full="init">C.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -12176,11 +12177,11 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001281" source="http://earlywashingtondc.org/doc/oscys.case.0177.006">
-<persName type="display">Brooke, Edward</persName>
-<persName type="full"> <surname>Brooke</surname>, <forename type="first" full="yes">Edward</forename></persName>
+<persName type="display">Brooke, Edmund</persName>
+<persName type="full"> <surname>Brooke</surname>, <forename type="first" full="yes">Edmund</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<note>May be Edmund Brooke per.001197.</note>
+<note>May be same as per.001197.</note>
 </person>
 
 <person xml:id="per.001282" source="http://earlywashingtondc.org/doc/oscys.case.0177.006">
@@ -12250,8 +12251,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001291" source="http://earlywashingtondc.org/doc/oscys.case.0177.006">
-<persName type="display">Middleton, B. J.</persName>
-<persName type="full"> <surname>Middleton</surname>, <forename type="first" full="init">B. </forename> <forename type="middle" full="init">J.</forename></persName>
+<persName type="display">Middleton, Benjamin F.</persName>
+<persName type="full"> <surname>Middleton</surname>, <forename type="first" full="yes">Benjamin</forename> <forename type="middle" full="init">F.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -21540,6 +21541,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Stettinius, </surname>, <forename type="first" full="yes">Samuel</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation source="http://earlywashingtondc.org/doc/oscys.case.0133.009">justice of the peace</occupation>
 </person>
 
 <!-- oscys.case.0293.001 end -->
