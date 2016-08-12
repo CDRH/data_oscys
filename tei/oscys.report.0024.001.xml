@@ -83,7 +83,7 @@
 
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term xml:id="per.002545">French</term>
+<term xml:id="per.002545">French, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -91,9 +91,9 @@
 <term>Washington (D.C.)</term>
 </keywords>
 
-<keywords scheme="original" n="outcome">
+<!--<keywords scheme="original" n="outcome">
 <term>Verdict for Defendant</term>
-</keywords>
+</keywords>-->
 
 </textClass>
 
@@ -123,6 +123,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-08-12" who="#kln">added forename to French</change>
 <change when="2016-07-28" who="#snc">added case xml:ids</change>
 <change when="2016-03-07" who="#lkw">added xml:ids</change>
 <change when="2015-06-25" who="#ea">added case outcome</change>
