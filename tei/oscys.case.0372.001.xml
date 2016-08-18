@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0372.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Fanny Smith v. Joseph Thornton. Petition for Freedom</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0372.001</idno>
+<idno type="case">oscys.caseid.0397</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petition for Freedom</title>
+<date when="1807-11-19">November 19, 1807</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Library of Virginia, Richmond, Virginia</repository>
+<collection>Local Government Records Collection, Arlington County Court Records</collection>
+<idno>Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Petition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1808-07">July 1808</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.002936">Fenwick, Joseph</term>
+<term xml:id="per.002937">Fenwick, Robert</term>
+<term xml:id="per.002938">Muncaster, J.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Kentucky</term>
+<term>Maryland</term>
+<term>Alexandria County (Va.)</term>
+<term>Alexandria (Va.)</term>
+<term>Washington (D.C.)</term>
+</keywords>  
+
+<keywords scheme="original" n="outcome">
+<term>Verdict for Plaintiff</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.002939">
+<persName>Smith, Fanny</persName>
+</person>
+<person role="defendant" xml:id="per.002940">
+<persName>Thornton, Joseph</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.000122">
+<persName>Lee, Edmund J.</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.002941">
+<persName>Lee, Francis L.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>     
+<change when="2016-07-11" who="#lkw">added xml:ids</change>
+<change when="2016-06-15" who="#snc">reviewed</change>           
+<change when="2016-03-28" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.case.0372.001.001.jpg"/>
+
+<div2 type="caption">
+
+<p>To the Honorable Judges of the Circuit Court of the U. S. for the district of Columbia, sitting in the County of Alexandria.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Fanny Smith, humbly petitioning, sheweth to your honors that she is illegally detained in slavery by a certain Joseph Thornton in the town of Alexandria, for this - that she was born in the State of Maryland on the estate of a certain Robert Fenwicke, whose slave she was and continued to be until the said Robert Fenwicke passed her by sale or gift to his son Joseph Fenwicke, who carried her into the state of Kentucky, where she remained some time, and afterwards brought her back again into the state of Maryland. Your petitioner sheweth further to your honors, that after she had remained some time in Maryland, the said Joseph Fenwicke brought her into the town of Alexandria in the Commonwealth of Virginia, without any intention of residing permanently in that place; &amp; without being taken, within the time limited and in manner required, the oath prescribed by the laws of Virginia in cases of this kind. And your petitioner further sheweth to your honors that the said Joseph Fenwicke, after residing for a short time in the said town of Alexandria, sold your petitioner to a certain Joseph Thornton, who now claims your petitioner as his slave; and who contrary to the act of assembly 
+
+<pb xml:id="p002" facs="oscys.case.0372.001.002.jpg"/>
+
+against the importation of slaves, now claims her in slavery: all which is extremely grievous to your petitioner, who believes herself to be entitled to her freedom, both by the laws of Maryland and Virginia. Wherefore your petitioner humbly prays that your honors will permit her to sue in your honorable court for her freedom in forma pauperis; and that she may for that purpose be <gap extent="one word" reason="illegible"/> with the process and protection of the court against the said Joseph Thornton. Your petitioner also prays that your honors will be pleased to assign her counsel and to grant her every favor and priviledge to which the rules of law and the philanthropy of the court may in any wise entitle her. And further your petitioner prays not.</p>
+
+<p>Fanny Smith.</p>
+
+<p>Novr. 19. 1807.</p>
+
+</div2>
+
+<pb xml:id="p003" facs="oscys.case.0372.001.003.jpg"/>
+
+<div2 type="back">
+
+<p>Fanny Smith<lb/>
+a<lb/>
+Joseph Thornton</p>
+
+<p>Petition</p>
+
+<p>1807. Novr. Term, 4th day, Peto. <unclear reason="illegible">Regd.</unclear> &amp; Fras. L. Lee esqr. assigned as counsel to report a Statement of Facts and his Opinion thereon. 20th day the Counsel Appt. to report a Statemt of facts in this case made a report Whereupon it is ordered that the sd petitioner have leave to commence a Suit in forma pauperis agt. Joseph Thornton for her freedom &amp; Edmd. J. Lee, Esqr. is assigned her as Counsel to prosecute the Same &amp; ordered that the said Petitioner be committed to the custody of the Marshall until the said Deft. shall give bond &amp; Security in the Sum of $300.  to have the said petitioner forthcoming to answer the Judgment of the Court in this Suit.</p> 
+
+<p>1808. January Contd.<lb/>
+February Contd.<lb/>
+March Contd.<lb/>
+April Continued<lb/>
+May Continued</p>
+
+<p>July Term 4th day It is ordered that Wednesday next be assigned for the trial of this cause.</p>
+
+<p>9th day On motion it is ordered that the deft. bring into Court Negro Fanny Smith, the pltff to attend the trial of this Suit.</p>
+
+<p>10th day. It is ordered by consent of parities that the 17th day of this Court be assigned for the trial of this cause.</p>
+
+<p>1808. July Term 17th day Jury sworn &amp; Verdict for Plaintiff for One Cent Damages &amp; Judgt. accordingly.</p>
+
+<p>We of the Jury find for the Plaintiff<lb/>
+one Cent Damages<lb/>
+J. Muncaster foreman</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
