@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.report.0066.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Cleary Moore v. Thomas Jacobs. Circuit Court Report</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.report.0066.001</idno>
+<idno type="case">oscys.caseid.0440</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</title>
+<author n="Cranch, William, 1769-1855">William Cranch</author>
+<publisher>Little, Brown and Company</publisher>
+<biblScope>Volume IV</biblScope>
+<date when="1852">1852</date>
+<pubPlace>Boston</pubPlace>
+</bibl>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Court Report</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1833-05">May 1833</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term>Mills, William</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Maryland</term>
+<term>Alexandria County (Va.)</term>
+<term>Alexandria (Va.)</term>
+</keywords>
+
+<!--<keywords scheme="original" n="outcome">
+<term>Judgment for Defendant</term>
+</keywords>-->
+
+</textClass>          
+ 
+<particDesc>   
+<listPerson> 
+<person role="petitioner">
+<persName>Moore, Cleary</persName> <!-- Clara -->
+</person>
+<person role="defendant">
+<persName>Jacobs, Thomas</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.002274">
+<persName>Neale, Christopher</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.002883">
+<persName>Taylor, Robert I.</persName>
+</person>
+</listPerson>       
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>         
+<change when="2016-08-02" who="#kln">reviewed; edited</change>    
+<change when="2016-07-21" who="#snc">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p312" facs="oscys.report.0066.001.001.jpg"/>
+
+<div2 type="caption"> 
+
+<p>Negro Clara Moore v. Thomas Jacobs.</p>
+
+</div2>
+
+<div2 type="syllabus"> 
+
+<p>A female slave, owned in Alexandria, D. C., is removed with her owner to Maryland to reside; she runs away from her owner in Maryland and comes to Alexandria; her owner in Maryland, sells her (running) to a resident of Alexandria.</p>
+
+<p>This escape of the slave into Alexandria, was not a voluntary importation into Alexandria; and the sale was not such a sale as could give her a right to freedom under the <bibl type="code">Maryland law of 1796, c. 67</bibl>.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Petition for freedom. The petitioner was owned by Mr. Mills, in Alexandria, D. C., who removed to Maryland to reside, and settle there, and took the petitioner with him. She ran away and returned to Alexandria. While there, her owner in Maryland, sold her ("running") to the respondent, Thomas Jacobs.</p>
+
+<p>Mr. Neale, for the petitioner, contended that the sale within three years after the removal gave her a right to freedom, under the <bibl type="code">third section of the Maryland Act of 1796, c, 67</bibl>.</p>
+
+<p>Mr. Taylor, <term>contrà</term>. There was no sale in Maryland within the meaning and intent of that act. The slave was not then in Maryland, but in Alexandria.</p>
+
+<p>Mr. Neale, in reply, referred to the case of <bibl type="case" xml:id="oscys.caseid.0436">Delilah v. Jacobs in this Court at the last term, (ante, p. 238.)</bibl></p>
+
+<p>The Court (<term>nem. con.</term>) was of opinion that the slave was lawfully imported into Maryland; and that her escape to Alexandria was not a voluntary importation into Alexandria county; and that the sale in Alexandria, after such escape, was not such a sale as could give the petitioner a right to freedom under the <bibl type="code">Maryland Act of 1796, c. 67</bibl>.</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
