@@ -1078,8 +1078,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.000103" source="http://earlywashingtondc.org/doc/oscys.case.0011.013">
-<persName type="display">Rennor, Daniel</persName>
-<persName type="full"> <surname>Rennor</surname> <addName type="last" subtype="alternate">Renner</addName>, <forename type="first" full="yes">Daniel</forename></persName>
+<persName type="display">Renner, Daniel</persName>
+<persName type="full"> <surname>Renner</surname>, <forename type="first" full="yes">Daniel</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -1121,8 +1121,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.000109" source="http://earlywashingtondc.org/doc/oscys.case.0011.013">
-<persName type="display">Washington, Baily</persName>
-<persName type="full"> <surname>Washington</surname>, <forename type="first" full="yes">Baily</forename></persName>
+<persName type="display">Washington, Bailey</persName>
+<persName type="full"> <surname>Washington</surname>, <forename type="first" full="yes">Bailey</forename> <addName type="first">Baily</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -1846,7 +1846,7 @@ This file was compiled from information found in
 
 <person xml:id="per.000190" source="http://earlywashingtondc.org/doc/oscys.case.0022.001">
 <persName type="display">Stevens, John</persName>
-<persName type="full"> <surname>Stevens</surname> <addName type="last" subtype="alternate">Stephens</addName>, <forename type="first" full="yes">John</forename></persName>
+<persName type="full"> <surname>Stevens</surname> <addName type="surname" subtype="alternate">Stephens</addName>, <forename type="first" full="yes">John</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -2774,7 +2774,6 @@ This file was compiled from information found in
 <persName type="full"> <surname>Clarke</surname>, <forename type="first" full="yes">Walter</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus when="1815-05-31">free</socecStatus>
 <residence when="1815-05-31">Washington County (D.C.)</residence>
 </person>
 
@@ -4411,15 +4410,15 @@ This file was compiled from information found in
 <!-- oscys.case.0049.001 start -->
 
 <person xml:id="per.000480" source="http://earlywashingtondc.org/doc/oscys.case.0049.001">
-<persName type="display">Garner, Thomas</persName>
-<persName type="full"> <surname>Garner</surname> <addName type="last" subtype="alternate">Gardner</addName>, <forename type="first" full="yes">Thomas</forename> <addName type="first" subtype="alternate">Tom</addName></persName>
+<persName type="display">Gardner, Thomas</persName>
+<persName type="full"> <surname>Gardner</surname> <addName type="surname" subtype="alternate">Garner</addName>, <forename type="first" full="yes">Thomas</forename> <addName type="first" subtype="alternate">Tom</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.000481" source="http://earlywashingtondc.org/doc/oscys.case.0049.001">
-<persName type="display">Garner, Vincent</persName>
-<persName type="full"> <surname>Garner</surname>, <forename type="first" full="yes">Vincent</forename></persName>
+<persName type="display">Gardner, Vincent</persName>
+<persName type="full"> <surname>Gardner</surname> <addName type="surname" subtype="alternate">Garner</addName>, <forename type="first" full="yes">Vincent</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab>colored</ab></trait>
 <age>under 21</age>
@@ -5505,7 +5504,7 @@ This file was compiled from information found in
 
 <person xml:id="per.000593" source="http://earlywashingtondc.org/doc/oscys.case.0070.002">
 <persName type="display">Milburn, George</persName>
-<persName type="full"> <surname>Milburn</surname> <addName type="last" subtype="alternate">Milburne</addName>, <forename type="first" full="yes">George</forename></persName>
+<persName type="full"> <surname>Milburn</surname> <addName type="surname" subtype="alternate">Milburne</addName>, <forename type="first" full="yes">George</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -6009,8 +6008,8 @@ This file was compiled from information found in
 <!-- oscys.case.0080.001 start -->
 
 <person xml:id="per.000643" source="http://earlywashingtondc.org/doc/oscys.case.0080.001">
-<persName type="display">Hook, Lamar</persName>
-<persName type="full"> <surname>Hook</surname>, <forename type="first" full="yes">Lamar</forename></persName>
+<persName type="display">Hook, James</persName>
+<persName type="full"> <surname>Hook</surname>, <forename type="first" full="yes">James</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -6128,8 +6127,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.000655" source="http://earlywashingtondc.org/doc/oscys.case.0083.001">
-<persName type="display">Miller, Thomas, Jr.</persName>
-<persName type="full"> <surname>Miller</surname>, <forename type="first" full="yes">Thomas</forename>  <genName>Junior</genName></persName>
+<persName type="display">Miller, Thomas</persName>
+<persName type="full"> <surname>Miller</surname>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence source="http://earlywashingtondc.org/doc/oscys.case.0083.003">Washington (D.C.)</residence>
@@ -6148,13 +6147,14 @@ This file was compiled from information found in
 <trait type="color"><ab></ab></trait>
 </person>
 
+<!-- changed to per.002540, George McCandless
 <person xml:id="per.000657" source="http://earlywashingtondc.org/doc/oscys.case.0083.003">
 <persName type="display">McCandlys</persName>
 <persName type="full"> <surname>McCandlys</surname></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <note>Forename unknown.</note>
-</person>
+</person>-->
 
 <person xml:id="per.000658" source="http://earlywashingtondc.org/doc/oscys.case.0083.003">
 <persName type="display">Miller, James Richard</persName>
@@ -6569,7 +6569,7 @@ This file was compiled from information found in
 
 <person xml:id="per.000699" source="http://earlywashingtondc.org/doc/oscys.case.0089.003">
 <persName type="display">Naylor, George</persName>
-<persName type="full"> <surname>Naylor</surname> <addName type="last" subtype="alternate">Nailor</addName>, <forename type="first" full="yes">George</forename></persName>
+<persName type="full"> <surname>Naylor</surname> <addName type="surname" subtype="alternate">Nailor</addName>, <forename type="first" full="yes">George</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation when="1829-06-15">justice of the peace</occupation>
@@ -7349,7 +7349,6 @@ This file was compiled from information found in
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
-<note>Unlikely the same person as Daniel Bell (per.000871).</note>
 </person>
 
 <person xml:id="per.000774" source="http://earlywashingtondc.org/doc/oscys.case.0104.001">
@@ -7518,7 +7517,7 @@ This file was compiled from information found in
 
 <person xml:id="per.000794" source="http://earlywashingtondc.org/doc/oscys.case.0104.008">
 <persName type="display">White, Mary</persName>
-<persName type="full"> <surname>White</surname>, <forename type="first" full="yes">Mary</forename> <forename type="middle" full="init">A.</forename></persName>
+<persName type="full"> <surname>White</surname>, <forename type="first" full="yes">Mary</forename> <forename type="middle" full="yes">Ann</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -7576,7 +7575,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Worthington</surname>, <forename type="first" full="yes">William</forename> <forename type="middle" full="init">G.</forename> <forename type="middle" full="init">D.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<note>May be per.000111 from case http://earlywashingtondc.org/doc/oscys.case.0011</note>
+<note>May be per.000111</note>
 </person>
 
 <!-- oscys.case.0104.009 end -->
@@ -8243,8 +8242,8 @@ This file was compiled from information found in
 <!-- oscys.case.0115.003 start -->
 
 <person xml:id="per.000867" source="http://earlywashingtondc.org/doc/oscys.case.0115.003">
-<persName type="display">Foye, M.</persName>
-<persName type="full"> <surname>Foye</surname>, <forename type="first" full="init">M.</forename></persName>
+<persName type="display">Foy, Mordecai</persName>
+<persName type="full"> <surname>Foy</surname> <addName type="surname">Foye</addName>, <forename type="first" full="yes">Mordecai</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -8288,7 +8287,6 @@ This file was compiled from information found in
 <sex>male</sex>
 <trait type="color" when="1835-09-24"><ab>colored</ab></trait>
 <socecStatus>enslaved</socecStatus>
-<note>Unlikely to be the same Daniel Bell as per.000773.</note>
 </person>
 
 <person xml:id="per.000872" source="http://earlywashingtondc.org/doc/oscys.case.0117.001">
@@ -8379,7 +8377,7 @@ This file was compiled from information found in
 
 <person xml:id="per.000881" source="http://earlywashingtondc.org/doc/oscys.case.0120.001">
 <persName type="display">Wigle, Sarah</persName>
-<persName type="full"> <surname>Wigle</surname> <addName type="last" subtype="alternate">Vigel</addName>, <forename type="first" full="yes">Sarah</forename></persName>
+<persName type="full"> <surname>Wigle</surname> <addName type="surname" subtype="alternate">Vigel</addName>, <forename type="first" full="yes">Sarah</forename></persName>
 <sex>female</sex>
 <trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0315.004"><ab>negro</ab></trait>
 <residence>Washington County, District of Columbia</residence>
@@ -8389,7 +8387,7 @@ This file was compiled from information found in
 
 <person xml:id="per.000882" source="http://earlywashingtondc.org/doc/oscys.case.0120.001">
 <persName type="display">Wigle, Elisa</persName>
-<persName type="full"> <surname>Wigle</surname> <addName type="last" subtype="alternate">Vigel</addName>, <forename type="first" full="yes">Elisa</forename> <addName type="first" subtype="alternate">Eliza</addName></persName>
+<persName type="full"> <surname>Wigle</surname> <addName type="surname" subtype="alternate">Vigel</addName>, <forename type="first" full="yes">Elisa</forename> <addName type="first" subtype="alternate">Eliza</addName></persName>
 <sex>female</sex>
 <trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0315.004"><ab>negro</ab></trait>
 <socecStatus notAfter="1842" source="http://earlywashingtondc.org/doc/oscys.case.0315.004">enslaved</socecStatus>
@@ -8399,7 +8397,7 @@ This file was compiled from information found in
 
 <person xml:id="per.000883" source="http://earlywashingtondc.org/doc/oscys.case.0120.001">
 <persName type="display">Naylor, Henry</persName>
-<persName type="full"> <surname>Naylor</surname> <addName type="last" subtype="alternate">Nailor</addName>, <forename type="first" full="yes">Henry</forename></persName>
+<persName type="full"> <surname>Naylor</surname> <addName type="surname" subtype="alternate">Nailor</addName>, <forename type="first" full="yes">Henry</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation when="1847-04-26">justice of the peace</occupation>
@@ -9737,13 +9735,14 @@ This file was compiled from information found in
 <trait type="color"><ab></ab></trait>
 </person>
 
+<!-- same as per.002240
 <person xml:id="per.001037" source="http://earlywashingtondc.org/doc/oscys.case.0133.009">
 <persName type="display">Stettinius, Sam</persName>
 <persName type="full"> <surname>Stettinius</surname>, <forename type="first" full="yes">Sam</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>justice of the peace</occupation>
-</person>
+</person>-->
 
 <!-- oscys.case.0133.009 end -->
 
@@ -10758,8 +10757,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001150" source="http://earlywashingtondc.org/doc/oscys.case.0147.002">
-<persName type="display">Orme, W. C.</persName>
-<persName type="full"> <surname>Orme</surname>, <forename type="first" full="init">W.</forename> <forename type="middle" full="init">C.</forename></persName>
+<persName type="display">Orme, William C.</persName>
+<persName type="full"> <surname>Orme</surname>, <forename type="first" full="yes">William</forename> <forename type="middle" full="init">C.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -11954,8 +11953,8 @@ This file was compiled from information found in
 <!-- oscys.case.0172.005 start -->
 
 <person xml:id="per.001260" source="http://earlywashingtondc.org/doc/oscys.case.0172.005">
-<persName type="display">Marshal</persName>
-<persName type="full"> <surname>Marshal</surname></persName>
+<persName type="display">Marshal, William</persName>
+<persName type="full"> <surname>Marshal</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -12179,11 +12178,11 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001281" source="http://earlywashingtondc.org/doc/oscys.case.0177.006">
-<persName type="display">Brooke, Edward</persName>
-<persName type="full"> <surname>Brooke</surname>, <forename type="first" full="yes">Edward</forename></persName>
+<persName type="display">Brooke, Edmund</persName>
+<persName type="full"> <surname>Brooke</surname>, <forename type="first" full="yes">Edmund</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<note>May be Edmund Brooke per.001197.</note>
+<note>May be same as per.001197.</note>
 </person>
 
 <person xml:id="per.001282" source="http://earlywashingtondc.org/doc/oscys.case.0177.006">
@@ -12253,8 +12252,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001291" source="http://earlywashingtondc.org/doc/oscys.case.0177.006">
-<persName type="display">Middleton, B. J.</persName>
-<persName type="full"> <surname>Middleton</surname>, <forename type="first" full="init">B. </forename> <forename type="middle" full="init">J.</forename></persName>
+<persName type="display">Middleton, Benjamin F.</persName>
+<persName type="full"> <surname>Middleton</surname>, <forename type="first" full="yes">Benjamin</forename> <forename type="middle" full="init">F.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -14652,7 +14651,7 @@ This file was compiled from information found in
 
 <person xml:id="per.001554" source="http://earlywashingtondc.org/doc/oscys.case.0001.015">
 <persName type="display">Riggs, George W.</persName>
-<persName type="full"> <surname>Riggs</surname> <addName type="last" subtype="alternate">Rigges</addName>, <forename type="first" full="yes">George </forename> <forename type="middle" full="init">W.</forename></persName>
+<persName type="full"> <surname>Riggs</surname> <addName type="surname" subtype="alternate">Rigges</addName>, <forename type="first" full="yes">George </forename> <forename type="middle" full="init">W.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -14717,8 +14716,8 @@ This file was compiled from information found in
 <!-- oscys.case.0001.026 start -->
 
 <person xml:id="per.001559" source="http://earlywashingtondc.org/doc/oscys.case.0001.026">
-<persName type="display">Wren, Polly</persName>
-<persName type="full"> <surname>Wren</surname>, <forename type="first" full="yes">Polly</forename></persName>
+<persName type="display">Wren, Mary</persName>
+<persName type="full"> <surname>Wren</surname>, <forename type="first" full="yes">Mary</forename> <addName type="first" subtype="alternate">Polly</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -15261,7 +15260,7 @@ This file was compiled from information found in
 
 <person xml:id="per.001617" source="http://earlywashingtondc.org/doc/oscys.case.0193.003">
 <persName type="display">Jones, Eliza Ann</persName>
-<persName type="full"> <surname>Jones</surname>, <forename type="first" full="yes">Eliza</forename> <forename type="middle" full="yes">Ann</forename></persName>
+<persName type="full"> <surname>Jones</surname>, <forename type="first" full="yes">Eliza</forename> <forename type="middle" full="yes">Ann</forename> <addName type="surname" subtype="maiden">Stockett</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -15303,8 +15302,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001623" source="http://earlywashingtondc.org/doc/oscys.case.0193.003">
-<persName type="display">Stocket, Margaret</persName>
-<persName type="full"> <surname>Stocket</surname>, <forename type="first" full="yes">Margaret</forename></persName>
+<persName type="display">Stockett, Margaret</persName>
+<persName type="full"> <surname>Stockett</surname>, <forename type="first" full="yes">Margaret</forename></persName>
 <death when="1834">1834</death>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
@@ -15341,8 +15340,8 @@ This file was compiled from information found in
 <!-- oscys.case.0193.005 start -->
 
 <person xml:id="per.001627" source="http://earlywashingtondc.org/doc/oscys.case.0193.005">
-<persName type="display">Wech, Henry</persName>
-<persName type="full"> <surname>Wech</surname>, <forename type="first" full="yes">Henry</forename></persName>
+<persName type="display">West, Henry</persName>
+<persName type="full"> <surname>West</surname>, <forename type="first" full="yes">Henry</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation when="1834-03-03">justice of the peace</occupation>
@@ -16031,8 +16030,8 @@ This file was compiled from information found in
 <!-- oscys.case.0205.006 start -->
 
 <person xml:id="per.001693" source="http://earlywashingtondc.org/doc/oscys.case.0205.006">
-<persName type="display">Brenton, Samuel</persName>
-<persName type="full"> <surname>Brenton</surname>, <forename type="first" full="yes">Samuel</forename></persName>
+<persName type="display">Brereton, Samuel</persName>
+<persName type="full"> <surname>Brereton</surname>, <forename type="first" full="yes">Samuel</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -16050,8 +16049,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001695" source="http://earlywashingtondc.org/doc/oscys.case.0205.007">
-<persName type="display">Boone</persName>
-<persName type="full"> <surname>Boone</surname></persName>
+<persName type="display">Boone, Arnold</persName>
+<persName type="full"> <surname>Boone</surname>, <forename type="first" full="yes">Arnold</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -16468,15 +16467,15 @@ This file was compiled from information found in
 <!-- oscys.case.0213.004 start -->
 
 <person xml:id="per.001739" source="http://earlywashingtondc.org/doc/oscys.case.0213.004">
-<persName type="display">Coltman, C. S.</persName>
-<persName type="full"> <surname>Coltman</surname>, <forename type="first" full="init">C.</forename> <forename type="middle" full="init">S.</forename></persName>
+<persName type="display">Coltman, Charles L.</persName>
+<persName type="full"> <surname>Coltman</surname>, <forename type="first" full="yes">Charles</forename> <forename type="middle" full="init">L.</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.001740" source="http://earlywashingtondc.org/doc/oscys.case.0213.004">
-<persName type="display">Coltman, R.</persName>
-<persName type="full"> <surname>Coltman</surname>, <forename type="first" full="init">R.</forename></persName>
+<persName type="display">Coltman, Robert</persName>
+<persName type="full"> <surname>Coltman</surname>, <forename type="first" full="yes">Robert</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -17585,7 +17584,7 @@ This file was compiled from information found in
 
 <person xml:id="per.001842" source="http://earlywashingtondc.org/doc/oscys.case.0240.001">
 <persName type="display">Munroe, Georgiana</persName>
-<persName type="full"> <surname>Munroe</surname> <addName type="last" subtype="alternate">Monroe</addName>, <forename type="first" full="yes">Georgiana</forename></persName>
+<persName type="full"> <surname>Munroe</surname> <addName type="surname" subtype="alternate">Monroe</addName>, <forename type="first" full="yes">Georgiana</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -17678,7 +17677,6 @@ This file was compiled from information found in
 <persName type="full"> <surname>Bell</surname>, <forename type="first" full="yes">Daniel</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<note>This is not the same Daniel Bell as per.000773. He may be the same Daniel Bell as per.000871.</note>
 </person>
 
 <person xml:id="per.001848" source="http://earlywashingtondc.org/doc/oscys.case.0242.001">
@@ -17783,7 +17781,6 @@ This file was compiled from information found in
 <trait type="color"><ab></ab></trait>
 <age when="1835-09-14">2</age>
 <socecStatus>enslaved</socecStatus>
-<note>Son of Daniel Bell per.001847. Not the same Daniel Bell as per.000773 or per.000871.</note>
 </person>
 
 <person xml:id="per.001858" source="http://earlywashingtondc.org/doc/oscys.case.0243.007">
@@ -18011,7 +18008,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Graeff</surname> <surname type="maiden">Brooke</surname></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
-<note>First name unknown. Maiden name Brooke.</note>
+<note>First name unknown.</note>
 <residence source="http://earlywashingtondc.org/doc/oscys.case.0249.004">Alexandria, Va.</residence>
 <residence source="http://earlywashingtondc.org/doc/oscys.case.0249.004">Washington, D.C.</residence>
 </person>
@@ -18267,15 +18264,15 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001903" source="http://earlywashingtondc.org/doc/oscys.case.0252.010">
-<persName type="display">Bond</persName>
-<persName type="full"> <surname>Bond</surname></persName>
+<persName type="display">Bond, William</persName>
+<persName type="full"> <surname>Bond</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.001904" source="http://earlywashingtondc.org/doc/oscys.case.0252.010">
-<persName type="display">Clements</persName>
-<persName type="full"> <surname>Clements</surname></persName>
+<persName type="display">Clements, Samuel N.</persName>
+<persName type="full"> <surname>Clements</surname>, <forename type="first" full="yes">Samuel</forename> <forename type="middle" full="init">N.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -18288,8 +18285,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001906" source="http://earlywashingtondc.org/doc/oscys.case.0252.010">
-<persName type="display">Edmonston, B. B.</persName>
-<persName type="full"> <surname>Edmonston</surname>, <forename type="first" full="init">B.</forename> <forename type="middle" full="init">B.</forename></persName>
+<persName type="display">Edmonston, Brook B.</persName>
+<persName type="full"> <surname>Edmonston</surname>, <forename type="first" full="yes">Brook</forename> <forename type="middle" full="init">B.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -18302,8 +18299,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001908" source="http://earlywashingtondc.org/doc/oscys.case.0252.010">
-<persName type="display">Gardner, D. A.</persName>
-<persName type="full"> <surname>Gardner</surname>, <forename type="first" full="init">D.</forename> <forename type="middle" full="init">A.</forename></persName>
+<persName type="display">Gardner, David A.</persName>
+<persName type="full"> <surname>Gardner</surname>, <forename type="first" full="yes">David</forename> <forename type="middle" full="init">A.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -18316,8 +18313,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001910" source="http://earlywashingtondc.org/doc/oscys.case.0252.010">
-<persName type="display">Knight, Samuel M.</persName>
-<persName type="full"> <surname>Knight</surname>, <forename type="first" full="yes">Samuel</forename> <forename type="middle" full="init">M.</forename></persName>
+<persName type="display">McKnight, Samuel</persName>
+<persName type="full"> <surname>McKnight</surname>, <forename type="first" full="yes">Samuel</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -18330,8 +18327,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001912" source="http://earlywashingtondc.org/doc/oscys.case.0252.010">
-<persName type="display">Watkins, R. H.</persName>
-<persName type="full"> <surname>Watkins</surname>, <forename type="first" full="init">R.</forename> <forename type="middle" full="init">H.</forename></persName>
+<persName type="display">Watkins, Robert H.</persName>
+<persName type="full"> <surname>Watkins</surname>, <forename type="first" full="yes">Robert</forename> <forename type="middle" full="init">H.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -19199,8 +19196,8 @@ This file was compiled from information found in
 <!-- oscys.case.0258.017 start -->
 
 <person xml:id="per.002010" source="http://earlywashingtondc.org/doc/oscys.case.0258.017">
-<persName type="display">Hewitt, John</persName>
-<persName type="full"> <surname>Hewitt</surname> <addName type="surname" subtype="alternate">Huitt</addName>, <forename type="first" full="yes">John</forename></persName>
+<persName type="display">Huitt</persName>
+<persName type="full"> <surname>Huitt</surname></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>attorney</occupation>
@@ -20509,7 +20506,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002147" source="http://earlywashingtondc.org/doc/oscys.case.0268.001">
 <persName type="display">Johnson, John</persName>
-<persName type="full"> <surname>Johnson</surname> <addName type="last" subtype="alternate">Johnston</addName>, <forename type="first" full="yes">John</forename></persName>
+<persName type="full"> <surname>Johnson</surname> <addName type="surname" subtype="alternate">Johnston</addName>, <forename type="first" full="yes">John</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -20524,7 +20521,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002149" source="http://earlywashingtondc.org/doc/oscys.case.0268.001">
 <persName type="display">Johnson, Rachel</persName>
-<persName type="full"> <surname>Johnson</surname> <addName type="last" subtype="alternate">Johnston</addName>, <forename type="first" full="yes">Rachel</forename> <addName type="first" subtype="alternate">Ratchel</addName></persName>
+<persName type="full"> <surname>Johnson</surname> <addName type="surname" subtype="alternate">Johnston</addName>, <forename type="first" full="yes">Rachel</forename> <addName type="first" subtype="alternate">Ratchel</addName></persName>
 <sex>female</sex>
 <trait type="color" when="1852-11"><ab>negro</ab></trait>
 <socecStatus>enslaved</socecStatus>
@@ -21349,7 +21346,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002221" source="http://earlywashingtondc.org/doc/oscys.case.0290.001">
 <persName type="display">Yeates, William, Jr.</persName>
-<persName type="full"> <surname>Yeates</surname> <addName type="last" subtype="alternate">Yates</addName>, <forename type="first" full="yes">William</forename> <genName>junior</genName></persName>
+<persName type="full"> <surname>Yeates</surname> <addName type="surname" subtype="alternate">Yates</addName>, <forename type="first" full="yes">William</forename> <genName>junior</genName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -21390,7 +21387,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002225" source="http://earlywashingtondc.org/doc/oscys.case.0290.003">
 <persName type="display">Hale, E.</persName>
-<persName type="full"> <surname>Hale</surname> <addName type="last" subtype="alternate">Haley</addName>, <forename type="first" full="init">E.</forename></persName>
+<persName type="full"> <surname>Hale</surname> <addName type="surname" subtype="alternate">Haley</addName>, <forename type="first" full="init">E.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -21401,7 +21398,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002226" source="http://earlywashingtondc.org/doc/oscys.case.0290.004">
 <persName type="display">Glass, James</persName>
-<persName type="full"> <surname>Glass</surname> <addName type="last" subtype="alternate">Glasse</addName> <forename>James</forename></persName>
+<persName type="full"> <surname>Glass</surname> <addName type="surname" subtype="alternate">Glasse</addName> <forename>James</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <note>First name unknown.</note>
@@ -21546,6 +21543,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Stettinius, </surname>, <forename type="first" full="yes">Samuel</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation source="http://earlywashingtondc.org/doc/oscys.case.0133.009">justice of the peace</occupation>
 </person>
 
 <!-- oscys.case.0293.001 end -->
@@ -22073,7 +22071,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002294" source="http://earlywashingtondc.org/doc/oscys.case.0301.001">
 <persName type="display">Mareman, Susanna</persName>
-<persName type="full"> <surname>Mareman</surname> <addName type="last" subtype="alternate">Maryman</addName>, <forename type="first" full="yes">Susanna</forename> <addName type="first" subtype="alternate">Susan</addName></persName>
+<persName type="full"> <surname>Mareman</surname> <addName type="surname" subtype="alternate">Maryman</addName>, <forename type="first" full="yes">Susanna</forename> <addName type="first" subtype="alternate">Susan</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <residence>Saint Mary's County (Md.)</residence>
@@ -22365,7 +22363,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002324" source="http://earlywashingtondc.org/doc/oscys.case.0304.001">
 <persName type="display">Pearce, Joshua</persName>
-<persName type="full"> <surname>Pearce</surname> <addName type="last" subtype="alternate">Pierce</addName>, <forename type="first" full="yes">Joshua</forename></persName>
+<persName type="full"> <surname>Pearce</surname> <addName type="surname" subtype="alternate">Pierce</addName>, <forename type="first" full="yes">Joshua</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -22833,7 +22831,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002371" source="http://earlywashingtondc.org/doc/oscys.case.0314.001">
 <persName type="display">Vigel, Mary</persName>
-<persName type="full"> <surname>Vigel</surname> <addName type="last" subtype="alternate">Vigal</addName>, <forename type="first" full="yes">Mary</forename></persName>
+<persName type="full"> <surname>Vigel</surname> <addName type="surname" subtype="alternate">Vigal</addName>, <forename type="first" full="yes">Mary</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
@@ -23035,7 +23033,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002389" source="http://earlywashingtondc.org/doc/oscys.case.0319.001">
 <persName type="display">Someby, Mary Lucinda</persName>
-<persName type="full"> <surname>Someby</surname> <addName type="last" subtype="alternate">Sumbry</addName>, <forename type="first" full="yes">Mary</forename> <addName type="first" subtype="alternate">May</addName><forename type="first" full="yes">Lucinda</forename></persName>
+<persName type="full"> <surname>Someby</surname> <addName type="surname" subtype="alternate">Sumbry</addName>, <forename type="first" full="yes">Mary</forename> <addName type="first" subtype="alternate">May</addName><forename type="first" full="yes">Lucinda</forename></persName>
 <sex>female</sex>
 <trait type="color" when="1854-10-14"><ab>colored</ab></trait>
 <socecStatus>enslaved</socecStatus>
@@ -23632,7 +23630,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002451" source="http://earlywashingtondc.org/doc/oscys.case.0334.001">
 <persName type="display">Rogers, Joseph</persName>
-<persName type="full"> <surname>Rogers</surname> <addName type="last" subtype="alternate">Rodgers</addName>, <forename type="first" full="yes">Joseph</forename> <addName type="first" subtype="alternate">John</addName></persName>
+<persName type="full"> <surname>Rogers</surname> <addName type="surname" subtype="alternate">Rodgers</addName>, <forename type="first" full="yes">Joseph</forename> <addName type="first" subtype="alternate">John</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -23722,7 +23720,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002461" source="http://earlywashingtondc.org/doc/oscys.case.0334.003">
 <persName type="display">Hammet, George</persName>
-<persName type="full"> <surname>Hammet</surname> <addName type="last" subtype="alternate">Hammat</addName>, <forename type="first" full="yes">George</forename></persName>
+<persName type="full"> <surname>Hammet</surname> <addName type="surname" subtype="alternate">Hammat</addName>, <forename type="first" full="yes">George</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>jailer</occupation>
@@ -24061,7 +24059,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002502" source="http://earlywashingtondc.org/doc/oscys.case.0336.001">
 <persName type="display">Quandell, Thomas</persName>
-<persName type="full"> <surname>Quandell</surname> <addName type="last" subtype="alternate">Quantrill</addName>, <forename type="first" full="yes">Thomas</forename></persName>
+<persName type="full"> <surname>Quandell</surname> <addName type="surname" subtype="alternate">Quantrill</addName>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -24330,7 +24328,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002525" source="http://earlywashingtondc.org/doc/oscys.case.0341.004">
 <persName type="display">Sparling, Thomas</persName>
-<persName type="full"> <surname>Sparling</surname> <addName type="last" subtype="alternate">Spurling</addName>, <forename type="first" full="yes">Thomas</forename></persName>
+<persName type="full"> <surname>Sparling</surname> <addName type="surname" subtype="alternate">Spurling</addName>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence>Virginia</residence>
@@ -24351,8 +24349,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.002527" source="http://earlywashingtondc.org/doc/oscys.case.0341.005">
-<persName type="display">Sewall</persName>
-<persName type="full"> <surname>Sewall</surname></persName>
+<persName type="display">Sewall, Joseph</persName>
+<persName type="full"> <surname>Sewall</surname>, <forename type="first" full="yes">Joseph</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <note>First name unknown.</note>
@@ -24481,7 +24479,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002540" source="http://earlywashingtondc.org/doc/oscys.case.0344.001">
 <persName type="display">McCandless, George</persName>
-<persName type="full"> <surname>McCandless</surname>, <forename type="first" full="yes">George</forename></persName>
+<persName type="full"> <surname>McCandless</surname> <addName type="surname">McCandliss</addName>, <forename type="first" full="yes">George</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -24533,8 +24531,8 @@ This file was compiled from information found in
 <!-- oscys.case.0346.003 start -->
 
 <person xml:id="per.002545" source="http://earlywashingtondc.org/doc/oscys.case.0346.003">
-<persName type="display">French</persName>
-<persName type="full"> <surname>French</surname></persName>
+<persName type="display">French, William</persName>
+<persName type="full"> <surname>French</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <note>First name unknown.</note>
@@ -24545,15 +24543,15 @@ This file was compiled from information found in
 <!-- oscys.case.0346.004 start -->
 
 <person xml:id="per.002546" source="http://earlywashingtondc.org/doc/oscys.case.0346.004">
-<persName type="display">Berry</persName>
-<persName type="full"> <surname>Berry</surname></persName>
+<persName type="display">Berry, Elisha D.</persName>
+<persName type="full"> <surname>Berry</surname>, <forename type="first" full="yes">Elisha</forename> <forename type="middle" full="init">D.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.002547" source="http://earlywashingtondc.org/doc/oscys.case.0346.004">
-<persName type="display">Broom</persName>
-<persName type="full"> <surname>Broom</surname></persName>
+<persName type="display">Broome</persName>
+<persName type="full"> <surname>Broome</surname> <addName type="surname" subtype="alternate">Broom</addName>, <forename type="first" full="yes">Abraham</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -24566,8 +24564,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.002549" source="http://earlywashingtondc.org/doc/oscys.case.0346.004">
-<persName type="display">Pyfer, H.</persName>
-<persName type="full"> <surname>Pyfer</surname>, <forename type="first" full="yes">H.</forename></persName>
+<persName type="display">Pyfer, Henry</persName>
+<persName type="full"> <surname>Pyfer</surname>, <forename type="first" full="yes">Henry</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -24678,7 +24676,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002559" source="http://earlywashingtondc.org/doc/oscys.case.0348.004">
 <persName type="display">Condon, James</persName>
-<persName type="full"> <surname>Condon</surname> <addName type="last" subtype="alternate">Conden</addName>, <forename type="first" full="yes">James</forename></persName>
+<persName type="full"> <surname>Condon</surname> <addName type="surname" subtype="alternate">Conden</addName>, <forename type="first" full="yes">James</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence notAfter="1805">Maryland</residence>
@@ -24707,7 +24705,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002562" source="http://earlywashingtondc.org/doc/oscys.case.0348.005">
 <persName type="display">Stanley, George</persName>
-<persName type="full"> <surname>Stanley</surname> <addName type="last" subtype="alternate">Stanly</addName> <addName type="last" subtype="alternate">Standley</addName>, <forename type="first" full="yes">George</forename></persName>
+<persName type="full"> <surname>Stanley</surname> <addName type="surname" subtype="alternate">Stanly</addName> <addName type="surname" subtype="alternate">Standley</addName>, <forename type="first" full="yes">George</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence>Dorchester County (Md.)</residence>
@@ -24715,7 +24713,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002563" source="http://earlywashingtondc.org/doc/oscys.case.0348.005">
 <persName type="display">Stanley, Rachel</persName>
-<persName type="full"> <surname>Stanley</surname> <addName type="last" subtype="alternate">Stanly</addName>, <forename type="first" full="yes">Rachel</forename></persName>
+<persName type="full"> <surname>Stanley</surname> <addName type="surname" subtype="alternate">Stanly</addName>, <forename type="first" full="yes">Rachel</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -24861,7 +24859,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002579" source="http://earlywashingtondc.org/doc/oscys.case.0348.010">
 <persName type="display">Mowbray, John</persName>
-<persName type="full"> <surname>Mowbray</surname> <addName type="last" subtype="alternate">Mowbary</addName>, <forename type="first" full="yes">John</forename></persName>
+<persName type="full"> <surname>Mowbray</surname> <addName type="surname" subtype="alternate">Mowbary</addName>, <forename type="first" full="yes">John</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -25034,7 +25032,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002598" source="http://earlywashingtondc.org/doc/oscys.case.0352.001">
 <persName type="display">Scrivener, Charles</persName>
-<persName type="full"> <surname>Scrivener</surname> <addName type="last" subtype="alternate">Scrivner</addName>, <forename type="first" full="yes">Charles</forename></persName>
+<persName type="full"> <surname>Scrivener</surname> <addName type="surname" subtype="alternate">Scrivner</addName>, <forename type="first" full="yes">Charles</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -25322,7 +25320,7 @@ This file was compiled from information found in
 
 <person xml:id="per.002628" source="http://earlywashingtondc.org/doc/oscys.case.0358.003">
 <persName type="display">Talbot, McKenzie</persName>
-<persName type="full"> <surname>Talbot</surname> <addName type="last" subtype="alternate">Tallbert</addName>, <forename type="first" full="yes">McKenzie</forename> <addName type="first" subtype="alternate">MacKensey</addName></persName>
+<persName type="full"> <surname>Talbot</surname> <addName type="surname" subtype="alternate">Tallbert</addName>, <forename type="first" full="yes">McKenzie</forename> <addName type="first" subtype="alternate">MacKensey</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -26288,7 +26286,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Smith</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<note>May be the same person as William Waters (per.000686).</note>
+<note>May be the same person as per.000686.</note>
 </person>
 
 <person xml:id="per.002749" source="http://earlywashingtondc.org/doc/oscys.mb.0014.001">
@@ -26314,8 +26312,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.002752" source="http://earlywashingtondc.org/doc/oscys.mb.0014.001">
-<persName type="display">Wright, Mathew</persName>
-<persName type="full"> <surname>Wright</surname>, <forename type="first" full="yes">Mathew</forename></persName>
+<persName type="display">Wright, Matthew</persName>
+<persName type="full"> <surname>Wright</surname>, <forename type="first" full="yes">Matthew</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -26738,6 +26736,7 @@ This file was compiled from information found in
 <birth when="1790" source="#viaf">1790</birth>
 <death when="1867" source="#viaf">1867</death>
 <trait type="color"><ab></ab></trait>
+<occupation>Justice of the Supreme Court</occupation>
 <idno>http://viaf.org/viaf/51248653</idno>
 </person>
 

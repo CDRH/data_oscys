@@ -103,7 +103,7 @@
 <persName>Battaile, John</persName>
 </person>
 <person role="defendant" xml:id="per.000655">
-<persName>Miller, Thomas, Jr.</persName>
+<persName>Miller, Thomas</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000572">
 <persName>Beale, Robert</persName>
@@ -123,6 +123,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-08-08" who="#kln">removed Jr. from defendant</change>
 <change when="2016-05-05" who="#smb">reviewed document</change>
 <change when="2015-11-18" who="#snc">added idno</change>
 <change when="2014-12-15" who="#lkw">added xml:ids</change>
