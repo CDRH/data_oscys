@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.report.0060.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Joe Crawford v. Robert A. Slye. Circuit Court Report</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.report.0060.001</idno>
+<idno type="case">oscys.caseid.0152</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</title>
+<author n="Cranch, William, 1769-1855">William Cranch</author>
+<publisher>Little, Brown and Company</publisher>
+<biblScope>Volume IV</biblScope>
+<date when="1852">1852</date>
+<pubPlace>Boston</pubPlace>
+</bibl>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Court Report</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1834-03">March 1834</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Judgment for Plaintiff</term>
+</keywords>
+
+</textClass>          
+ 
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.001122">
+<persName>Crawford, Joe</persName>
+</person>
+<person role="defendant">
+<persName>Slye, Robert A.</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.000464">
+<persName>Wallach, Richard</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000738">
+<persName>Brent, William Leigh, 1784-1848</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000830">
+<persName>Marbury, John</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Washington (D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>     
+<change when="2016-08-02" who="#kln">reviewed; edited</change>        
+<change when="2016-07-19" who="#snc">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p457" facs="oscys.report.0060.001.001.jpg"/>
+
+<div2 type="caption"> 
+
+<p>Negro Jos. Crawford v. Robert A. Slye.</p>
+
+</div2>
+
+<div2 type="syllabus"> 
+
+<p>The list of slaves required by the eleventh section of the <bibl type="code">Maryland act of 1796, c. 67</bibl>, most designate the sex. The name "Jo," does not designate the sex.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Petition for freedom. The importation of the slave (the petitioner) was alleged to be justified under the <bibl type="code">11th section of the Act of Maryland, 1796, c. 67</bibl>, which requires a list of the slaves so imported, distinguishing their sex. The list merely calls the slave "Jo."</p>
+
+<p>The Court (Thruston, J., absent,) decided that the list required by the 11th section must be such as is required by the 8th, and must designate the sex as well as the name; and that the list offered does not designate the sex; and that therefore the petitioner is entitled to freedom.</p>
+
+<p>Mr. Key and Mr. Wallach, for the petitioner.</p>
+
+<p>Messrs. Marbury and Brent, for defendant.</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
