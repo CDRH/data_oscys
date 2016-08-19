@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.report.0036.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Rose v. James Kennedy Jr. Circuit Court Report</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.report.0036.001</idno>
+<idno type="case">oscys.caseid.0383</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</title>
+<author n="Cranch, William, 1769-1855">William Cranch</author>
+<publisher>Little, Brown and Company</publisher>
+<biblScope>Volume I</biblScope>
+<date when="1852">1852</date>
+<pubPlace>Boston</pubPlace>
+</bibl>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Court Report</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1801-07">July 1801</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term xml:id="per.000004">Cranch, William 1769-1855</term>
+<term xml:id="per.002819">Hooe, Robert T.</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term>Virginia</term>
+</keywords>
+
+</textClass>
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.002808">
+<persName>Harry</persName> 
+</person>
+<person role="petitioner" xml:id="per.002809">
+<persName>Joe</persName> 
+</person>
+<person role="petitioner" xml:id="per.002810">
+<persName>Rose</persName> 
+</person>
+<person role="defendant" xml:id="per.002811"> 
+<persName>Kennedy, James, Jr.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016-07-29" who="#kln">reviewed; edited</change>             
+<change when="2016-07-07" who="#snc">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p029" facs="oscys.report.0036.001.001.jpg"/>
+
+<div2 type="caption"> 
+
+<p>Negro Rose v. James Kennedy.</p>
+
+</div2>
+
+<div2 type="syllabus"> 
+
+<p>The certificate of a justice of the peace of an oath taken by the owner of a slave may be read to the jury as evidence in itself that the oath required by the statute was taken, although the oath so certified varies from that prescribed.</p>
+
+</div2>
+
+<div2 type="body">
+     
+<p>Action of assault and battery to try the plaintiff's right to freedom.</p>
+
+<pb xml:id="p030" facs="oscys.report.0036.001.002.jpg"/>
+     
+<p>She was brought into Virginia in the year 1792, and she claimed to be free because her owner had not taken the oath prescribed by the <bibl type="code">Act of Virginia of 17th December, 1792, section 4, Revised Code, p. 196, (Ed. 1803, p. 187.)</bibl></p>
+
+<p>The defendant produced a certificate, by T. Hooe, a justice of the peace, of an oath taken by the owner on the 28th of December, 1792, but varying in some respects from the oath prescribed.</p>
+
+<p>The plaintiff objected to the paper being read to the jury, to prove that the owner took the oath prescribed by law, on account of the variance; and prayed the Court to instruct the jury that the paper, in itself, is not evidence of that fact.</p>
+
+<p>But the Court refused to give that instruction, and directed it to be read to the jury, and instructed them that they might judge from that, and the testimony produced, whether the oath was taken or not.</p>
+
+<p>Cranch, J. contr&#0224;</p>
+
+<p>The paper is not in itself evidence that the oath, as prescribed, was taken, For when a magistrate undertakes to verify how he has administered an oath, the jury cannot, without proof, presume any thing not certified. They cannot say that he administered the oath in any format than he has certified.</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

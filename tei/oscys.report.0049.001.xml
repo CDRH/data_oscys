@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.report.0049.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charles Taylor v. Ariss Buckner &amp; Bernard H. Bucker. Circuit Court Report</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.report.0049.001</idno>
+<idno type="case">oscys.caseid.0460</idno>
+<idno type="case">oscys.caseid.0461</idno>
+<idno type="case">oscys.caseid.0454</idno>
+<idno type="case">oscys.caseid.0455</idno>
+<idno type="case">oscys.caseid.0462</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</title>
+<author n="Cranch, William, 1769-1855">William Cranch</author>
+<publisher>Little, Brown and Company</publisher>
+<biblScope>Volume IV</biblScope>
+<date when="1852">1852</date>
+<pubPlace>Boston</pubPlace>
+</bibl>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Court Report</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1835-05">May 1835</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term xml:id="per.000044">Morsell, James Sewall</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Alexandria County (Va.)</term>
+<term>Washington County (D.C.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term/>
+</keywords>
+
+</textClass>          
+   
+<particDesc>
+<listPerson type="oscys.caseid.0460"> 
+<person role="petitioner">
+<persName>Jackson, Henry</persName>
+</person>
+<person role="defendant" xml:id="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.002883">
+<persName>Taylor, Robert I.</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
+</person>
+</listPerson>
+   
+<listPerson type="oscys.caseid.0461"> 
+<person role="petitioner">
+<persName>Jackson, Fanny</persName>
+</person>
+<person role="petitioner">
+<persName>Jackson, Louisa</persName>
+</person>
+<person role="petitioner">
+<persName>Jackson, Maria</persName>
+</person>
+<person role="petitioner">
+<persName>Jackson, Robert</persName>
+</person>
+<person role="defendant" corresp="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
+</person>
+<person role="attorney_defendant" corresp="per.002883">
+<persName>Taylor, Robert I.</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0454"> 
+<person role="petitioner">
+<persName>Taylor, Charles</persName>
+</person>
+<person role="defendant" corresp="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
+</person>
+<person role="attorney_defendant" corresp="per.002883">
+<persName>Taylor, Robert I.</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0455"> 
+<person role="petitioner">
+<persName>Brent, Alexander</persName>
+</person>
+<person role="defendant" corresp="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
+</person>
+<person role="attorney_defendant" corresp="per.002883">
+<persName>Taylor, Robert I.</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0462"> 
+<person role="petitioner">
+<persName>Jackson, Cassius</persName>
+</person>
+<person role="defendant" corresp="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
+</person>
+<person role="attorney_defendant" corresp="per.002883">
+<persName>Taylor, Robert I.</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>    
+<change when="2016-08-01" who="#kln">reviewed; edited</change>         
+<change when="2016-07-12" who="#snc">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p540" facs="oscys.report.0049.001.001.jpg"/>
+
+<div2 type="caption"> 
+
+<p>Negro Charles Taylor v. Ariss Buckner.</p>
+
+</div2>
+
+<div2 type="syllabus"> 
+
+<p>An importation of slaves by a person who has only a life estate in them is an importation within the <bibl type="code">Maryland act of 1796, c. 67, &#167; 1</bibl>; and the consent of the rever-
+
+<pb xml:id="p541" facs="oscys.report.0049.001.002.jpg"/>
+
+sioner to the importation is not necessary to give freedom to the slaves thus imported.</p>
+
+<p>The question of the intent with which the importation is made is for the jury.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Petition for freedom by Negro Charles Taylor, and others; six cases; removed from Washington to Alexandria county for a fair trial.</p>
+
+<p>The petitioners claim freedom by reason of their importation from Virginia into the county of Washington "to reside," contrary to the <bibl type="code">Maryland Act of 1796, c. 67, &#167; 1</bibl>.</p>
+
+<p>Mr. Taylor, for the defendant, having offered evidence that some of the petitioners, namely, Fanny and her children, were the property of the defendant for the life of his wife only, prayed the Court to instruct the jury, that the importation of those petitioners by the defendant could not give them any right to freedom under the first section of the <bibl type="code">Maryland Act of 1796, c. 67</bibl>; and cited <bibl type="case" xml:id="oscys.caseid.0028">Negro Sally v. Ball, 1 Wheat. 1</bibl>; and the <bibl type="code">Virginia Law of 1819, &#167;&#167; 48 and 49, 2 Revc. Co. 431</bibl>.</p>
+
+<p>But the Court (Morsell, J., not having heard the argument, gave no opinion,) refused to give the instruction.</p>
+
+<p>Mr. Taylor, then prayed the Court to instruct the jury that such importation, without the consent of the reversioners, could not give those petitioners a right to freedom under the first section of the <bibl type="code">Maryland Act of 1796, c. 67</bibl>, which the Court still refused to give, notwithstanding the case of <bibl type="case" corresp="oscys.caseid.0028">Negro Sally v. Ball, 1 Wheat. 5</bibl>, considering the words, "since it is the property of the person importing the slave which is forfeited," as dictum only; that point not being necessary to the decision of that cause, the slave in that case not having been brought in to reside or for sale, but only for a year's service, and having been, in the course of the year, carried back to Virginia.</p>
+
+<p>Mr. Key, for the petitioners, contended that the hiring out in Washington of the slave of a non-resident, for more than a year, is evidence that the bringing in was "to reside," contrary to the first section; and that it had been so decided by this Court.</p>
+
+<p>Mr. Jones denied it; and appealed to the Court.</p>
+
+<p>The Court (<term>nem. con.</term>) said that they did not recollect any such decision; but that the question was always left open to the jury, as to the intent with which the importation was made.</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
