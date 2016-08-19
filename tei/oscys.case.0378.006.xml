@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0378.006">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>China v. Benjamin D. Patterson. Certificate of William S. Morsell</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0378.006</idno>
+<idno type="case">oscys.caseid.0403</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Certificate of William S. Morsell</title>
+<date when="1809-12-22">December 22, 1809</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Library of Virginia, Richmond, Virginia</repository>
+<collection>Local Government Records Collection, Arlington County Court Records</collection>
+<idno>Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Certificate</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1811-11">November 1811</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.002976">Griffiss, Joseph</term>
+<term xml:id="per.002977">Morsell, William S.</term>
+<term xml:id="per.002978">Sedwick, Joshua</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Calvert County (Md.)</term>
+</keywords>  
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.002971">
+<persName>China</persName>
+</person>
+<person role="defendant" xml:id="per.002792">
+<persName>Patterson, Benjamin D.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>          
+<change when="2016-07-11" who="#lkw">added xml:ids</change> 
+<change when="2016-06-17" who="#snc">reviewed</change>    
+<change when="2016-04-07" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.case.0378.006.001.jpg"/>
+
+<div2 type="caption">
+
+<p>State of Maryland Calvert County sct</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>I hereby certify that Joseph Griffiss and Joshua Sedwick Gentlemen were on the first Instant, still are, and ever since have been, two of the Justices of the peace of the State of Maryland for Calvert County legally commissioned and qualified and to all acts of theirs as such due saith and credit <del>are</del> is and ought to be given as well in courts of Justice as thereout</p>
+
+<p>In Testimony whereof I have hereto subscribed my name and affixed the public seal of my office this 11th day of December in the year Eighteen hundred and ten</p>
+
+<p>William S Morsell Clk<lb/>
+Calv Coty Court</p>
+
+</div2>
+
+<pb xml:id="p002" facs="oscys.case.0378.006.002.jpg"/>
+
+<div2 type="back">
+
+<p>Patterson<lb/>
+ads<lb/>
+Negroe China</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0424.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ex parte Nicholas Reester. Petition for Writ of Habeas Corpus</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0424.002</idno>
+<idno type="case">oscys.caseid.0452</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petition for Writ of Habeas Corpus</title>
+<date/>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Library of Virginia, Richmond, Virginia</repository>
+<collection>Local Government Records Collection, Arlington County Court Records</collection>
+<idno>Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Petition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Habeas Corpus</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1835-10">October 1835</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">   
+<term>Lynn, Adam</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term>Alexandria County (Va.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">    
+<term>Discharged</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Reester, Nicholas</persName> <!-- alt spelling: Reister -->
+</person>
+<person role="defendant">
+<persName/>
+</person>
+<person role="attorney_petitioner">
+<persName>Snowden, Edgar</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>   
+<change when="2016-07-20" who="#kln">reviewed, edited</change>          
+<change when="2016-06-23" who="#ea">Encoded and transcribed</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.case.0424.002.001.jpg"/>
+
+<div2 type="caption">
+
+<p>To the Hon. the Judges of the United States Circuit Court of the District of Columbia for the County of Alexandria:</p>
+
+</div2>
+
+<div2 type="body">
+     
+<p>The petition of Nicholas Reister respectfully represents that he is a free man of color, and that he is now illegally confined in the jail of this county, under a committment from Adam Lynn, and held as a slave. That he has satisfactory evidence to submit to your honors that he is thus free and held illegally as aforesaid. And that in fact there is no cause whatever for his confinement and detention</p>
+
+<p>He therefore prays your Honors to award him the United States writ of Habeas Corpus, to the keeper of the said jail directed, commanding him to bring before your honors <del>th</del> your petitioner, to submit to and receive &amp;c</p>
+
+<p>Edgar Snowden<lb/>
+Sol for Nicholas Reister</p>
+
+</div2>
+
+<pb xml:id="p002" facs="oscys.case.0424.002.002.jpg"/>
+
+<div2 type="back">
+
+<p>Nicholas Reester<lb/>
+Petition for Habeas Corpus</p>
+
+<pb xml:id="p003" facs="oscys.case.0424.002.003.jpg"/>
+
+<p>Nicholas Reester<lb/>
+petition for Hab Corpus</p>
+
+<p>1835 Oct. 7' day<lb/>
+writ ordered. petitioner brought into Court &amp; discharged &amp;</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
