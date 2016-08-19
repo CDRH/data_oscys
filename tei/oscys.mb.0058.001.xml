@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mb.0058.001">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>William Fenwick v. Lansing Tooker. Minute Book Entry</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mb.0058.001</idno>
+<idno type="case">oscys.caseid.0180</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Minutes of the U.S. Circuit Court for the District of Columbia, 1801-1863</title>
+<date when="1836-01-05">January 5, 1836</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration</repository>
+<collection>Record Group 21</collection>
+<idno>Microfilm 1021, Reel 4</idno>
+<msName>Minutes of the U.S. Circuit Court for the District of Columbia, 1801-1863</msName>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Minute Book</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1835-11">November 1835</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people"> 
+<term>Adams, John</term>
+<term xml:id="per.001694">Ashton, Leonard</term>
+<term>Ball, Robert</term>
+<term>Brown, Joel</term>
+<term>Clarke, Joseph S.</term><!-- same as Clarke, Joseph? -->
+<term xml:id="per.000004">Cranch, William 1769-1855</term>
+<term>Drury, Samuel</term>
+<term>Essex, James F.</term>
+<term>Funk, Henry</term>
+<term xml:id="per.001311">Gates, Mary</term>
+<term xml:id="per.001312">Goddard, Mary Ann</term>
+<term>Grammer, G. C.</term>
+<term>Gird, John</term>
+<term xml:id="per.001323">Hawley, William</term>
+<term>Holtzman</term>
+<term xml:id="per.000739">Hunter, Alexander</term>
+<term>Knowles, William</term>
+<term xml:id="per.000122">Lee, Edmund J.</term>
+<term>Jones, Richard</term>
+<term>Magruder, James A.</term><!-- per.000264 ?? -->
+<term>McCauley, William M.</term>
+<term xml:id="per.000044">Morsell, James Sewall</term>
+<term>Nailor, Thomas</term>
+<term>Prout, William</term>
+<term>Ragan, Basil</term>
+<term xml:id="per.002240">Stettinius, Samuel</term>
+<term xml:id="per.001340">Tennison, George</term>
+<term xml:id="per.000064">Thurston, Buckner, 1763-1845</term>
+<term>Tilly, Henry W.</term>
+<term>Trunnell, Henry</term>
+<term xml:id="per.001321">Wilson, John A.</term>
+<term>Young, James</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term/>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Verdict for Plaintiff</term>
+</keywords>
+
+</textClass>
+
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.001305">
+<persName>Fenwick, William</persName>
+</person>
+<person role="defendant" xml:id="per.001306">
+<persName>Tooker, Lansing</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Washington (D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+
+<revisionDesc> 
+<change when="2016-08-15" who="#kln">reviewed, edited</change>
+<change when="2016-08-01" who="#ea">Encoded and transcribed</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>  
+   
+<div1 type="minutes">
+
+<pb xml:id="p001" facs="oscys.mb.0058.001.001.jpg"/>
+
+<div2 type="caption">
+
+<p>Negro William<lb/>
+ast<lb/>
+Lansing Tooker</p>
+
+<p>648 Trials</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Jury Sworn Verdict for Petr</p>
+
+<list rend="simple">
+<head>for Petr</head>
+<item>Wm. Knowles</item>
+<item>Mary Goddard</item>
+<item>Revd Mr Hawley</item>
+<item>Mrs Gates</item>
+<item>Wm Prout</item>
+<item>Geo: Tennison</item>
+<item>Ed. J. Lee</item>
+</list>
+
+<list rend="simple">
+<head>for Deft</head>
+<item>Henry Trunnell</item>
+<item>Mrs Holtzman</item>
+<item>John A. Wilson</item>
+<item>Basil Ragan</item>
+<item>Leonard Ashton</item>
+<item>Alexa Hunter</item>
+<item>Robt Ball</item>
+<item>John Gird</item>
+</list>
+
+<p>Same Jury as above in 493 Trials<lb/>
+Hy Funk vs Jas. Young</p>
+
+<list rend="simple">
+<item>1 James A. Magruder</item>
+<item>2 John Adams</item>
+<item>3 James F. Essex</item>
+<item>4 Richard Jones</item>
+<item>5 Joel Brown</item>
+<item>6 Joseph S Clarke</item>
+<item>7 Samuel Drury</item>
+<item>8 Samuel Stettinius</item>
+<item>9 G. C. Grammer</item>
+<item>10 Henry W. Tilly</item>
+<item>11 Thomas Nailor</item>
+<item>12 Wm M McCauly</item>
+</list>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>
+

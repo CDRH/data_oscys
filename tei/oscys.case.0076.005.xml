@@ -38,7 +38,10 @@
 </address>
 </distributor>
 <idno type="project">oscys.case.0075.005</idno>
-<idno type="case">oscys.caseid.0076</idno>
+<idno type="case">oscys.caseid.0072</idno>
+<idno type="case">oscys.caseid.0073</idno>
+<idno type="case">oscys.caseid.0074</idno>
+<idno type="case">oscys.caseid.0075</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,7 +51,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Verdict</title>
+<title level="m" type="main">Special Verdict</title>
 <date/>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -56,7 +59,7 @@
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 21, Entry 6</collection>
-<idno>Box 385, Folder 109,110,111</idno>
+<idno>Box 385, Folder 109/110/111</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -95,23 +98,66 @@
 <term>Prince George's County (Md.)</term>
 </keywords>
 
+<!--<keywords scheme="original" n="outcome">
+<term>Special Verdict</term>
+</keywords>-->
+
 </textClass>
 
 <particDesc>
-<listPerson>
-<person role="petitioner" xml:id="per.000619">
-<persName>Lee, Janette</persName>
-</person>
-<person role="petitioner" xml:id="per.000630">
-<persName>Lee, John Baptist</persName>
-</person>
+<listPerson xml:id="oscys.caseid.0072">
 <person role="petitioner" xml:id="per.000616">
 <persName>Lee, Lizette</persName>
 </person>
+<person role="defendant" xml:id="per.000617">
+<persName>Preuss, Augustus</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listPerson xml:id="oscys.caseid.0073">
+<person role="petitioner" xml:id="per.000619">
+<persName>Lee, Janette</persName>
+</person>
+<person role="defendant" corresp="per.000617">
+<persName>Preuss, Augustus</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listPerson xml:id="oscys.caseid.0074">
 <person role="petitioner" xml:id="per.000623">
 <persName>Lee, Nancy</persName>
 </person>
-<person role="defendant" xml:id="per.000617">
+<person role="defendant" corresp="per.000617">
+<persName>Preuss, Augustus</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listPerson>
+<person role="petitioner" xml:id="per.000630">
+<persName>Lee, John Baptist</persName>
+</person>
+<person role="defendant" corresp="per.000617">
 <persName>Preuss, Augustus</persName>
 </person>
 <person role="attorney_petitioner">
@@ -132,6 +178,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-08-17" who="#kln">edited TEI header to reflect filed in four cases</change>
 <change when="2016-07-28" who="#kln">reviewed, edited new pages</change>
 <change when="2016-04-26" who="#smb">reviewed document</change>
 <change when="2015-04-01" who="#snc">edited page breaks; edited</change>
