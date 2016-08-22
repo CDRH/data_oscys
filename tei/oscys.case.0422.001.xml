@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0422.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ex parte James White. Petition for Habeas Corpus</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0422.001</idno>
+<idno type="case">oscys.caseid.0450</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petition for Habeas Corpus</title>
+<date when="1841-11-08">November 8, 1841</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Library of Virginia, Richmond, Virginia</repository>
+<collection>Local Government Records Collection, Arlington County Court Records</collection>
+<idno>Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Petition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Habeas Corpus</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1841-11">November 1841</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">   
+<term/>
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term>Alexandria County (Va.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">   
+<term>Discharged</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>White, James</persName> 
+</person>
+<person role="defendant">
+<persName/>
+</person>
+<person role="attorney_petitioner" xml:id="per.000122">
+<persName>Lee, Edmund J.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>  
+<change when="2016-07-15" who="#kln">reviewed, edited</change>
+<change when="2016-06-21" who="#ea">Encoded and transcribed</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.case.0422.001.001.jpg"/>
+
+<div2 type="caption">
+
+<p>To the Honorable the Circuit Court of the District of Columbia for the County of Alexandria.</p>
+
+</div2>
+
+<div2 type="body">
+     
+<p>The Petition of James White a free negro, respectfully sheweth to the Court that he is illegally detained by the Jailor of this County Your petitioner prays the court to grant him a writ of Habeas Corpus returnable forthwith to be <unclear reason="illegible">directd</unclear> the Jailor of this County commanding to bring your petitioner before the Court with the cause of his detention, that the court may inquire into the legality of his imprisonment.</p>
+
+<p>Edm: J Lee for Petitioner
+8th Novr 1841</p>
+
+</div2>
+
+<pb xml:id="p002" facs="oscys.case.0422.001.002.jpg"/>
+
+<div2 type="back">
+
+<p>Exparte James White</p>
+
+<p>petition</p>
+
+<p>1841 Nov: Term 2d day
+Hab. awd &amp; on hearing petitioner discharged</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

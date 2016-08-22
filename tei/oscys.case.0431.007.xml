@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0431.007">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Henry Jackson v. Ariss Buckner &amp; Bernard H. Bucker. Docket Sheet</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0431.007</idno>
+<idno type="case">oscys.caseid.0460</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Docket Sheet</title>
+<date/>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Library of Virginia, Richmond, Virginia</repository>
+<collection>Local Government Records Collection, Arlington County Court Records</collection>
+<idno>Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Docket</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1835-05">1835 May</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Alexandria County (Va.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson> 
+<person role="petitioner">
+<persName>Jackson, Henry</persName>
+</person>
+<person role="defendant" xml:id="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.000873">
+<persName>Dermott, John J.</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>     
+<change when="2016-07-07" who="#snc">reviewed; edited</change>          
+<change when="2016-06-27" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.case.0431.007.001.jpg"/>
+
+<div2 type="caption">
+
+<p>Dermott.<lb/>
+Henry Jackson.<lb/>
+vs<lb/>
+Bernard H. Buckner &amp; Aris Buckner<lb/>
+Jones. Vol.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>81 Apps Nov 1833.<lb/>
+Peto for freedom; Non Sunt. Afft by Aris.<lb/>
+rule plea.</p>
+
+<p>190 Impl Mch 1834. admd to be removed to Alexa. County.</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

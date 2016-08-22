@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mb.0026.002">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>John Battaile v. Thomas Miller. Minute Book Entry</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mb.0026.002</idno>
+<idno type="case">oscys.caseid.0083</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Minutes of the U.S. Circuit Court for the District of Columbia, 1801-1863</title>
+<date when="1828-05-30">May 30, 1828</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration</repository>
+<collection>Record Group 21</collection>
+<idno>Microfilm 1021, Reel 3</idno>
+<msName>Minutes of the U.S. Circuit Court for the District of Columbia, 1801-1863</msName>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Minute Book</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1828-05">May 1828</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people"> 
+<term>Adams, George A.</term>
+<term>Berry, Philip T.</term>
+<term>Boutcher, Alfred H.</term>
+<term>Butler, David, Jr.</term>
+<term>Carberry, Thomas</term><!-- Carbery -->
+<term xml:id="per.001793">Casanave, Peter</term>
+<term>Clark, John F.</term>
+<term>Dixon, John</term>
+<term>Eckell, Charles E.</term>
+<term>Eliason, Asbury</term>
+<term>Gassaway, Hanson</term>
+<term>Goszler, George A.</term>
+<term>Ingle, Edward</term>
+<term xml:id="per.001797">Kennedy, James</term>
+<term>King, Francis</term>
+<term>Litle, Charles</term>
+<term xml:id="per.002540">McCandless, George</term>
+<term>McElroy, Anthony</term>
+<term>Miller, Thomas, Jr.</term>
+<term>Poor, Nathaniel P.</term>
+<term>Preston, Anthony</term>
+<term>Queen, John</term>
+<term>Ratcliffe, Joseph</term>
+<term>Smith, Lewis</term>
+<term xml:id="per.002752">Wright, Matthew</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Washington (D.C.)</term>
+</keywords>
+
+<!--<keywords scheme="original" n="outcome">
+<term>Verdict for Plaintiff</term>
+</keywords>
+-->
+</textClass>
+
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.000654">
+<persName>Battaile, John</persName> 
+</person>
+<person role="defendant" xml:id="per.000655"> 
+<persName>Miller, Thomas</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Washington (D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+
+<revisionDesc> 
+<change when="2016-08-08" who="#kln">reviewed, edited</change>
+<change when="2016-07-05" who="#ea">Encoded and transcribed</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>  
+   
+<div1 type="minutes">
+
+<pb xml:id="p001" facs="oscys.mb.0026.002.001.jpg"/>
+
+<div2 type="caption">
+
+<p>John Battles<lb/>
+agt<lb/>
+Thomas Miller</p>
+
+<p>135 Trials</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Jury Sworn Verdict for Petitioner</p>
+
+<list rend="simple">
+<head>Sworn for Petitioner</head>
+<item>Thomas Miller Jr.</item>
+<item>Geo: McCandless</item>
+</list>
+
+<list rend="simple">
+<item>1 George A. Adams</item>
+<item>2 Philip T Berry</item>
+<item>3 John Dixon</item>
+<item>4 Asbury Eliason</item>
+<item>Geo: A Goszler Chd by Petr</item>
+<item>5 Peter Casanave</item>
+<item>Edwd M <gap extent="one surname" reason="illegible"/> Chd. by Petr</item>
+<item>6 Lewis Smith</item>
+<item>Charles <unclear reason="illegible">Litle</unclear> Chd by Deft</item>
+<item>David Butler Jr. Chd by Pr</item>
+<item>7 Anthony Preston</item>
+<item>Alfred H Boutcher Chd by deft</item>
+<item>Charles E Eckell Chd by deft</item>
+<item>8 James Kennedy</item>
+<item>Anthony McElroy Chd by deft</item>
+<item>Joseph Ratcliffe Chd by Petr</item>
+<item>Francis King chd by Deft</item>
+<item>9 John Queen</item>
+<item>John F Webb chd by deft</item>
+<item>Nathl P. Poor Chd by deft</item>
+<item>Edwd Ingle Chd by deft</item>
+<item>10 Hanson Gassaway</item>
+<item>John F. Clark Chd by deft</item>
+<item>11 Thomas Carbery</item>
+<item>12 Matthew Wright</item>
+</list>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>
+

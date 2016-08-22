@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0393.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>William v. John Swann. Affidavit of Robert I. Taylor</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0393.002</idno>
+<idno type="case">oscys.caseid.0418</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Affidavit of Robert I. Taylor</title>
+<date/>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Library of Virginia, Richmond, Virginia</repository>
+<collection>Local Government Records Collection, Arlington County Court Records</collection>
+<idno>Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Affidavit</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1822-05">May 1822</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.003130">Hampson, Bryant</term>
+<term xml:id="per.003131">Hoffman, Edmonds</term><!-- possibly Peter E. Hoffman -->
+<term xml:id="per.003132">Plummer, Gerard</term>
+<term xml:id="per.003126">Plummer, John</term>
+<term xml:id="per.003127">Plummer, Sarah</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Alexandria County (Va.)</term>
+<term>Prince George's County (Md.)</term>
+<term>Alexandria (Va.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.003128">
+<persName>William</persName>
+</person>
+<person role="defendant" xml:id="per.003129">
+<persName>Swann, John</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.002883">
+<persName>Taylor, Robert I.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>   
+<change when="2016-08-01" who="#lkw">added xml:ids</change>
+<change when="2016-06-28" who="#snc">reviewed; edited</change>             
+<change when="2016-05-19" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.case.0393.002.001.jpg"/>
+
+<div2 type="caption">
+
+<p>To the Honorable Judges of the Circuit Court of the District of Columbia sitting at Alexandria.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>The Subscriber who was assigned as Counsel for negroe William to state and report his claim to freedom and the evidence in support thereof respectfully reports.</p>
+
+<p>That from the evidence of Gerard Plummer &amp; Bryan Hampson, whose affidavits are herewith submitted it appears that  the Petitioner had been brought up in Prince Georges County in the State of Maryland as the property of John Plummer, and that on the said Johns death he became the property of his widow by whom he was imported <del>as</del> sent into the County of Alexandria, where he has remained more than one year.</p>
+
+<p>It does not appear that the Importer of the Petitioner has brought himself within any of the exceptions to the Act prohibiting the Importation of Slaves.</p>
+
+<p>The Subscriber is therefore of Opinion that his Importation was in violation of the said Act, and that he is entitled to his freedom &amp; should be permitted to institute Suit in forma pauperis for the recovery thereof against John Swann by whom he is now illegally held.</p>
+
+<p>R. I. Taylor</p>
+
+<p>Decr. 23. 1820</p>
+
+</div2>
+
+<pb xml:id="p002" facs="oscys.case.0393.002.002.jpg"/>
+
+<div2 type="back">
+
+<p>In the Case of Negroe William a pauper</p>
+
+<p>1820<lb/>
+Novem. Term 22d day<lb/>
+R. I. Taylor assigned as Counsel for the Petitioner to state and report his claim to freedom and the evidence in support thereof, this day returned his report, which having been received and considered by the Court, It is thereupon ordered that the Petitioner have leave to Institute Suit in this Court in forma pauperis for the recovery of his freedom against John Swann and that process do issue accordingly. And that in the mean time the marshal do take &amp; Keep the Petitioner into his Custody until the said John Swann shall enter bond &amp; <gap extent="one word" reason="illegible"/> before the Clerk of this Court in the penalty of $800 to have the said Petitioner forthcoming to answer the Judgment of the Court</p>
+
+<p>1821.<lb/>
+May Term 21st day<lb/>
+Continued</p>
+
+<p>Novem. Term 22nd Day<lb/>
+Sarah Plummer owner of the slave produced to the Court a paper writing &amp; moved the Court to have John Swann &amp; Edmonds Hoffman called as on a Recognizance which motion was overruled.</p>
+
+<p>1822<lb/>
+May Term 24th day<lb/>
+Discontinued</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

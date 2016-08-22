@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0431.013">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Jacksons et al. v. Ariss Buckner &amp; Bernard H. Bucker. Affidavit of Ariss Buckner</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0431.013</idno>
+<idno type="case">oscys.caseid.0460</idno>
+<idno type="case">oscys.caseid.0461</idno>
+<idno type="case">oscys.caseid.0454</idno>
+<idno type="case">oscys.caseid.0455</idno>
+<idno type="case">oscys.caseid.0462</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Affidavit of Ariss Buckner</title>
+<date when="1834-05-20">May 20, 1834</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Library of Virginia, Richmond, Virginia</repository>
+<collection>Local Government Records Collection, Arlington County Court Records</collection>
+<idno>Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Affidavit</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1835-05">1835 May</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.000866">Armfield, John</term>
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.000131">Franklin, Isaac</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Alexandria County (Va.)</term>
+<term>Washington County (D.C.)</term>
+<term>Alexandria (Va.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>
+<listPerson type="oscys.caseid.0460"> 
+<person role="petitioner">
+<persName>Jackson, Henry</persName>
+</person>
+<person role="defendant" xml:id="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+   
+<listPerson type="oscys.caseid.0461"> 
+<person role="petitioner">
+<persName>Jackson, Fanny</persName>
+</person>
+<person role="petitioner">
+<persName>Jackson, Louisa</persName>
+</person>
+<person role="petitioner">
+<persName>Jackson, Maria</persName>
+</person>
+<person role="petitioner">
+<persName>Jackson, Robert</persName>
+</person>
+<person role="defendant" corresp="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0454"> 
+<person role="petitioner">
+<persName>Taylor, Charles</persName>
+</person>
+<person role="defendant" corresp="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0455"> 
+<person role="petitioner">
+<persName>Brent, Alexander</persName>
+</person>
+<person role="defendant" corresp="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0462"> 
+<person role="petitioner">
+<persName>Jackson, Cassius</persName>
+</person>
+<person role="defendant" corresp="per.000904">
+<persName>Buckner, Ariss</persName>
+</person>
+<person role="defendant">
+<persName>Buckner, Bernard H.</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>        
+<change when="2016-07-07" who="#snc">reviewed</change>       
+<change when="2016-06-28" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.case.0431.013.001.jpg"/>
+
+<div2 type="caption">
+
+<p>Imparlance docket. March Term 1834.</p>
+
+<p>No. <del>3</del> 190. &amp; No. 191. 202. 301. 302. 304</p>
+
+<p>Negro Henry Jackson vs B. H. &amp; Aris Buckner</p>
+
+<p>" Fanny Jackson &amp; children vs same</p>
+
+<p>" Jenny Bill vs same</p>
+
+<p>" Charles vs same</p>
+
+<p>Negro Alexander vs same</p>
+
+<p>Cassius Jackson vs same</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Aris Buckner, one of the defts in the above cases, makes oath that he is credibly &amp; certainly informed, and has good reason to think &amp; believe, and does verily think &amp; believe, that a fair &amp; impartial trial of the above named cases cannot be had in the county of Washington; where the said suits are depending: and prays for the usual order for removing the same into the county of Alexandria, pursuant to the provisions of the act of congress in such cases.</p>
+
+<p>And the said deft further makes oath, that some time early in the session of this court, commencing in March last, he duly made &amp; presented to the court then in session an affidavit duly sworn to in open court, of the same effect as above, and thereupon moved the court for such order as aforesaid; which order, no opposition being thereto made, he understood was granted; and he attended the late term of this court at Alexandria, under the full expectation and belief of finding such order carried into
+
+<pb xml:id="p002" facs="oscys.case.0431.013.002.jpg"/>
+
+effect, and the said case there docketed for trial: but to his surprise discovered that the cases had not been transmitted from this court to that; and upon inquiry finds that, owing to the accidental omission &amp; inadvertency either of the court or the clerk, no trace either of the former affidavit, or of the motion &amp; order thereupon made, can be discovered among the papers or records of this court; he presumes that the affidavit was mislaid by the court, and the order, though in fact allowed in the mind of the court, was forgotten to be delivered to the clerk; because the clerk distinctly recollects the fact of the affidavit being presented to the court, but has no recollection of any order thereupon being communicated to him from the court.</p>
+
+<p>This deft further states that a suit is depending in the Court at Alexandria, brought by a negro woman, one of the same set of negroes as those who are petitioners in the above cases, against Franklin &amp; Armfield, to whom she was sold, and which suit is defended by this defendant, as being answerable over: that the last-mentioned case is to be tried at the ensuing adjourned term at Alexandria, when &amp; where it would be highly convenient &amp; save much expense to try all the cases together, as they are all intimately connected together, in the evidence &amp; principles of 
+
+<pb xml:id="p003" facs="oscys.case.0431.013.003.jpg"/>
+
+law on which they depend.<lb/>
+Ariss Buckner</p>
+
+<p>Sworn to by Aris Buckner in open court this 20th May 1834<lb/>
+Test W. Brent clk</p>
+
+</div2>
+
+<pb xml:id="p004" facs="oscys.case.0431.013.004.jpg"/>
+
+<div2 type="back">
+
+<p>Trials, March term, 1834. No.</p>
+
+<p>filed 20 May 1834</p>
+
+<p>Remove the Cause</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
