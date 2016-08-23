@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -102,16 +103,16 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003168">
 <persName>Luckett, Susanna</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003169">
 <persName>Walkom, Elizabeth</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003170">
 <persName>Walkom, Jonathan P.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.003171">
 <persName>Ramsay, Jesse T.</persName>
 </person>
 <person role="attorney_defendant">
@@ -129,6 +130,7 @@
 </profileDesc>
         
 <revisionDesc>       
+<change when="2016-08-22" who="#lkw">added xml:ids; transcription</change>  
 <change when="2016-06-28" who="#snc">reviewed</change>        
 <change when="2016-05-25" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -151,7 +153,7 @@
 
 <div2 type="body">
 
-<p>The Counsel assigned by the Court for Susanna Luckett suing in forma pauperis respectfully states to the Court that Susanna Lucket a black woman, was brot from the State of Maryland, by the defendant into the County of Alexandria on the 3d Day of Sept 1821, that she was not recorded, and that she has remained in the County of Alexandria, more than 12 months. That also she has been hired into the State of Maryland, and has remained there one year. The Counsel states that if the facts are supported of which <del>they</del> he has strong evidence she is entitled to her freedom under the Laws of this county, and also according to the Laws of Maryland. The Counsel further states to the Court that he deems it unnessary to enter into any further previous <gap extent="one word" reason="illegible"/>. He has taken considerable pains to understand the right of the said Lucket to her freedom, and he is of the opinion that she is entitled to it. That <del>her</del> since her right to freedom has accused the <del>defendant</del> plaintiff has had a child born unto her.</p>
+<p>The Counsel assigned by the Court for Susanna Luckett suing in forma pauperis respectfully states to the Court that Susanna Lucket a black woman, was brot from the State of Maryland, by the defendant into the County of Alexandria on the 3d Day of Sept 1821, that she was not recorded, and that she has remained in the County of Alexandria, more than 12 months. That also she has been hired into the State of Maryland, and has remained there one year. The Counsel states that if the facts are supported of which <del>they</del> he has strong evidence she is entitled to her freedom under the Laws of this county, and also according to the Laws of Maryland. The Counsel further states to the Court that he deems it unnessary to enter into any further previous discussion. He has taken considerable pains to understand the right of the said Lucket to her freedom, and he is of the opinion that she is entitled to it. That <del>her</del> since her right to freedom has accused the <del>defendant</del> plaintiff has had a child born unto her.</p>
 
 <p>J. T. Ramsay</p>
 

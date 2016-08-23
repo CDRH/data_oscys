@@ -97,38 +97,43 @@
 
 </textClass>
             
-<particDesc>   
-<person role="petitioner">
+<particDesc>  
+ 
+
+<listPerson xml:id="oscys.caseid.0424">            
+<person role="petitioner" xml:id="per.003161">
 <persName>Dorcas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003162">
 <persName>Julia</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003163">
 <persName>Smith, James</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002883">
 <persName>Taylor, Robert I.</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.002112">
 <persName>Mason, Thompson F.</persName>
 </person>
+</listPerson>
 
 <listPerson xml:id="oscys.caseid.0425">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003164">
 <persName>Fanny</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003165">
 <persName>Kell, Isaac</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" corresp="#per.002883">
 <persName>Taylor, Robert I.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
 </person>
 </listPerson>
-            
+
+   
 <listOrg>
 <org>
 <orgName>United States. Circuit Court (District of Columbia)</orgName>
@@ -139,7 +144,7 @@
 </profileDesc>
         
 <revisionDesc>  
-<change when="2016-08-04" who="#lkw">added xml:ids</change>  
+<change when="2016-08-04" who="#lkw">added xml:ids; transcription</change>  
 <change when="2016-06-28" who="#snc">reviewed; edited</change>                  
 <change when="2016-05-24" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -158,7 +163,7 @@
 
 <p>Negroe Fanny vs Isaac Kell</p>
 
-<p>Negores Julia v James Smith</p>
+<p>Negroes Julia v James Smith</p>
 
 </div2>
 

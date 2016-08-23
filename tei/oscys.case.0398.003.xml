@@ -88,10 +88,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Carrington, Timothy</term>
-<term>Neale, Christopher</term>
-<term>Simms, William</term>
-<term>Smith, Alexander</term>
+<term xml:id="per.003157">Carrington, Timothy</term>
+<term xml:id="per.002274">Neale, Christopher</term>
+<term xml:id="per.003160">Simms, William</term>
+<term xml:id="per.003166">Smith, Alexander</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -102,16 +102,16 @@
             
 <particDesc>   
 <listPerson xml:id="oscys.caseid.0424">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003161">
 <persName>Dorcas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003162">
 <persName>Julia</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003163">
 <persName>Smith, James</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002883">
 <persName>Taylor, Robert I.</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.002112">
@@ -120,13 +120,13 @@
 </listPerson>
 
 <listPerson xml:id="oscys.caseid.0425">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003164">
 <persName>Fanny</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003165">
 <persName>Kell, Isaac</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" corresp="#per.002883">
 <persName>Taylor, Robert I.</persName>
 </person>
 <person role="attorney_defendant">

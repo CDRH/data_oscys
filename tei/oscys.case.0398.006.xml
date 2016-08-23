@@ -89,10 +89,9 @@
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000006">Boyd, Washington</term>
 <term xml:id="per.000004">Cranch, William 1769-1855</term>
-<term>Deneale, George, 1766-1818</term>
-<term>Dorcas</term>
-<term>Minor, Daniel</term>
-<term>Scott, James S.</term>
+<term xml:id="per.002816">Deneale, George, 1766-1818</term>
+<term xml:id="per.002897">Minor, Daniel</term>
+<term xml:id="per.003159">Scott, James S.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -109,16 +108,16 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003161">
 <persName>Dorcas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003162">
 <persName>Julia</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003163">
 <persName>Smith, James</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002883">
 <persName>Taylor, Robert I.</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.002112">
@@ -136,7 +135,7 @@
 </profileDesc>
         
 <revisionDesc>        
-<change when="2016-08-04" who="#lkw">added xml:ids</change>  
+<change when="2016-08-04" who="#lkw">added xml:ids; removed Dorcas from people; trancription</change>  
 <change when="2016-06-28" who="#snc">reviewed</change>      
 <change when="2016-05-25" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -185,7 +184,7 @@ Jas. S Scott</p>
 
 <p><del>69</del> <del>50.</del> 55 <del>69.</del> <del>81</del> <del>126</del> <del>74</del></p>
 
-<p>Negroes Julia "Paupers"<lb/>
+<p>Negroes Dorcas &amp; Julia "Paupers"<lb/>
 vs<lb/>
 James Smith</p>
 

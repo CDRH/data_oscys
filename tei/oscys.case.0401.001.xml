@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,7 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>McCarty, Daniel</term>
+<term xml:id="per.003179">McCarty, Daniel</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -103,13 +104,13 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003180">
 <persName>Letty</persName>
 </person>
 <person role="defendant" xml:id="per.002112">
 <persName>Mason, Thomson Francis, 1785-1838</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.003181">
 <persName>Hooe, Bernard</persName>
 </person>
 <person role="attorney_defendant">
@@ -127,6 +128,7 @@
 </profileDesc>
         
 <revisionDesc>        
+<change when="2016-08-22" who="#lkw">added xml:ids; transcription</change>
 <change when="2016-06-30" who="#snc">reviewed</change>     
 <change when="2016-05-26" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -149,7 +151,7 @@
 
 <p>She has been informed &amp; believes that she is entitled to her freedom, &amp; for the recovery of it she prays that she may be allowed to sue in this court in forma pauperis.</p>
 
-<p>Bernard Hooe assigned as Counsel for the petitioner Letty respectfully reports that he has enquired into the facts of her case, &amp; is <gap extent="one word" reason="illegible"/> that they have been correctly set forth in the petition<del>er</del>, &amp; that the petitioner is entitled to her freedom.</p>
+<p>Bernard Hooe assigned as Counsel for the petitioner Letty respectfully reports that he has enquired into the facts of her case, &amp; is satisfied that they have been correctly set forth in the petition<del>er</del>, &amp; that the petitioner is entitled to her freedom.</p>
 
 <p>B. Hooe.<lb/>
 April 16th, 1827.</p>
