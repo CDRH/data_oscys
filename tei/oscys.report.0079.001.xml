@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.report.0079.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Peter Lee &amp; Lewis Lee v. D. T. Cureton &amp; Augustus Preuss. Civil Court Report</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2014</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.report.0079.001</idno>
+<idno type="case">oscys.caseid.0432</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Reports of Decisions in the Supreme Court of the United States</title>
+<author n="Curtis, Benjamin Robbins">Benjamin Robbins Curtis</author>
+<publisher>Little, Brown and Company</publisher>
+<biblScope>Volume XV</biblScope>
+<date when="1852">1870</date>
+<pubPlace>Boston</pubPlace>
+</bibl>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Court Report</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1844-01">January 1844</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term>Adams, John</term>
+<term>Adams, Wesley</term>
+<term>Cleaveland, Harrison</term>
+<term>Furguson</term>
+<term>Little, Charles</term>
+<term>Sarah</term><!-- bad transcription from printer lists her as Susan later in document; don't encode -->
+<term>Summers, Simon</term>
+<term xml:id="per.002799">Wayne, James Moore, 1790-1867</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Alexandria County (Va.)</term>
+<term>Fairfax County (Va.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Judgment Affirmed</term>
+</keywords>
+
+</textClass>          
+ 
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Roberts, Julia</persName> 
+</person>
+<person role="defendant">
+<persName>Adams, Austin L.</persName>
+</person>
+<person role="defendant">
+<persName>Harding, Ann C.</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.000737">
+<persName>Brent, Robert J., 1811-1872</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000829">
+<persName>Bradley, Joseph H. (Joseph Habersham), 1802-1887</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.002274">
+<persName>Neale, Christopher</persName>
+</person>
+</listPerson>  
+
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>             
+<change when="2016-08-04" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p187" facs="oscys.report.0079.001.001.jpg"/>
+
+<div2 type="caption"> 
+
+<p>Austin L. Adams and Ann C. Harding, Plaintiffs in Error, v. Julia Roberts.</p>
+
+<p>2 H. 486.</p>
+
+</div2>
+
+<div2 type="syllabus"> 
+
+<p>The court cannot give an instruction which makes the case turn on one point only, when there are other grounds necessary to be passed upon by the jury; nor one which assumes as true a controverted fact.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Error to the circuit court for the county of Alexandria in the District of Columbia, in a suit for freedom by the defendant in error. As the opinion of the court rested upon the want of applicability to the evidence of the instructions prayed for, it is necessary to insert the bills of exception.</p>
+
+<pb xml:id="p188" facs="oscys.report.0079.001.002.jpg"/>
+
+<p>1st Bill of Exceptions.</p>
+
+<p>At the trial of this cause, the petitioner having given evidence tending to show that, previous to the year 1801, Sarah, the mother of the petitioner, was the property of Simon Summers, and remained in his possession until about the year 1799, when she was placed, by said Summers, in the possession of Wesley Adams, who, about that time, married the daughter of said Summers, and who lived then, and continued to live for many years thereafter, in Fairfax county, Virginia; then gave evidence that diligent search had been made among the records of Fairfax county, Virginia, for an original deed of manumission of said petitioner's mother, by said Summers, but no such original deed could be found, and that the same is lost; but that there was among said records the enrolment of a deed, whereof the annexed paper, marked A, is admitted to be a true copy, and of the certificates of acknowledgment, and the recording of the same. And further offered evidence, that said deed was personally acknowledged by the said Simon Summers, in the county court of the said county of Fairfax; the said slave, Sarah, being then there in the said county, and having always before resided in the said county. And the petitioner then read in evidence the said paper, marked A, purporting to be the copy of a deed of manumission from said Summers, of the negro woman, named Sarah, named therein; and then gave evidence tending to show that the petitioner was the child of said named Sarah, and is now about 38 (28) years of age; and further gave evidence tending to show that the defendant, Harding, makes no claim to the petitioner in her own right, but solely by the direction of her co-defendant, Adams, who is the son of the Wesley Adams above named, and his aid wife, the daughter of said Summers. And the petitioner further gave evidence tending to show that, about the year 1820, the said Wesley Adams brought Sarah, the petitioner's mother, to the public poor-house, in Fairfax county, State of Virginia, and applied to the overseers of the poor for said county, for alimony for said Sarah, as a free woman of color, and her two small children; and that a levy was made upon said county for their support, and they were supported until the year 1826, when a levy was made for the support of said Sarah and the three children, which she then had with her, but among whom the petitioner was not included; and that said levy, when raised, was placed in t he hands of said Wesley Adams, for their support as aforesaid. And further gave evidence tending to show that Sarah passed as free for a number of years, and that Wesley Adams, about the year 1826, said that Sarah and her children were free, and that the
+
+<pb xml:id="p189" facs="oscys.report.0079.001.003.jpg"/>
+
+said Adams wanted to sell the petitioner to a witness, to serve him until she should reach twenty-five years of age, when she was to go free; and that Simon Summers had given slaves to him in such a way as to be of no service to him, as they became free so soon as they became valuable. And the petitioner further gave evidence tending to prove that, at the division of the estate of Simon Summers, who died in 1836, the defendant, Adams, was present, and that in said division, the said Sarah was brought into hotchpot, that is, Wesley Adams was charged, as distributee of Simon Summers's estate, with the value of the services of said Sarah, up to the year 1814, when she went free, and up to which time the said Summers had allowed her to serve Wesley Adams. And the plaintiff further offered evidence to prove that the said Simon Summers resided in  the county of Fairfax before and until the 27th of February, 1801, when the county of Alexandria was erected, consisting of a part of the said county of Fairfax; and the then residence of the said Simon Summers fell within the said county of Alexandria, in the District of Columbia, without any change of his actual residence; that the slaves mentioned in the deed of emancipation had always resided in the said county of Fairfax, up to the date of the said deed, and to the time of its acknowledgement as aforesaid.</p>
+
+<p>The defendants then offered evidence tending to prove, that an order was made by the overseers of the poor of the said county of Fairfax, in 1825, to demand of the said Wesley Adams the $20 advanced him for the support of Sarah's infant children.</p>
+
+<p>The defendants then gave evidence tending to show that said Sarah died some years ago on the land of John Adams, and after remaining two days there, was buried at the expense of the defendant, Austin L. Adams.</p>
+
+<p>The defendants then gave evidence tending to show that at the date of the paper marked A, namely, 30th of December, 1801, the said Simon Summers was a resident of the county of Alexandria, District of Columbia, and did not reside in Fairfax county, Virginia. But the witnesses who proved the said residence of the said Summers, proved, on cross-examination, that at said last-mentioned date, the said Sarah was in the possession of Wesley Adams, in Fairfax county, Virginia; and that at said date Simon Summers owned 200 acres of woodland in said Fairfax county, and was interested in another tract of land in said Fairfax county, on which there was a house, and which was cultivated land, but which was tenanted by one Furguson; and that said Simon Summers resided before 1800,
+
+<pb xml:id="p190" facs="oscys.report.0079.001.004.jpg"/>
+
+in Fairfax county, in Virginia, and never removed from the place where he then resided; but that the place of his residence was included within the lines of the District of Columbia, and that he continued to reside in the same place until his death.</p>
+
+<p>Whereupon the defendants, by their counsel, prayed the court to instruct the jury, that if they shall believe, from the above evidence, that the said Simon Summers did reside in the county of Alexandria, District of Columbia, at the time of the executing and acknowledging of the deed aforesaid, and continued so to reside until his death, in 1836, then that the deed of emancipation so, as aforesaid made, executed, acknowledged, and recorded in the county court of Fairfax county, Virginia, does not entitle the petitioner to freedom under the statute of Virginia, in such cases made and provided, entitled <bibl type="code">"An act reducing into one the several acts concerning slaves, free negroes, and mulattoes," passed December 17, 1792</bibl>.</p>
+
+<p>But the court refused to give the instruction as prayed, &amp;c.</p>
+
+<p>2d Bill of Exceptions.</p>
+
+<p>Be it remembered, that on the trial of this cause, the petitioner and defendant having offered the evidence contained in the first bill of exceptions, and this being all the evidence adduced on the part of the petitioner and defendant aforesaid, the defendants, by their counsel, prayed the court to instruct the jury that the testimony aforesaid, although believed by the jury, is not sufficient in law to maintain the issue joined; and, therefore, the law is for the defendants.</p>
+
+<p>But the court refused to give the instruction so prayed, not being willing to certify that the evidence so stated as aforesaid is all the evidence adduced by the parties in the said cause, and because such an instruction would take the cause from the consideration of the jury, without giving the petitioner the benefit of presumption which the jury might draw from the facts so given in evidence.</p>
+
+<p>Neale and Bradley, for the plaintiffs in error.</p>
+
+<p>Brent, Sen., for the defendant.</p>
+
+<p>Wayne, J., delivered the opinion of the court.</p>
+
+<p>We think the court below did not err in refusing to give the instructions asked for by the defendants in either the 1st of 2nd bill of exceptions.</p>
+
+<p>By the statute of Virginia, two modes are pointed out in which manumission by deed can be accomplished.</p>
+
+<pb xml:id="p191" facs="oscys.report.0079.001.005.jpg"/>
+
+<p>1. The instrument in writing under the hand and seal of the party, must be attested and proved in the county or corporation court by two witnesses; or</p>
+
+<p>2. It must be acknowledged by the party in the court of the county where he or she resides.</p>
+
+<p>Either of these modes is effectual. It is stated in the bill of exceptions, and is not contradicted, that the county of Alexandria was made on the 27th of February, 1801, being composed of what had been a part of the county of Fairfax, in Virginia, and that Summers owned 200 acres of woodland in Fairfax county, and was interested in another tract of land also in said county, upon which there was a house. But it does not appear how far within the line of the district the actual residence of Summers was thrown; whether the dividing line ran through his farm, separating the house from the great body of the land, or whether the land upon which his slaves resided was a separate estate, detached from his residence. But it sufficiently appears, that up to February, 1801, Summers had been accustomed to resort to the court of Fairfax county, for the transaction of business of every description, and that the jurisdiction under which he lived, then became changed, without its having been done by his removal from where he had lived before.</p>
+
+<p>The claimant, in support of her freedom, alleges, that Summers executed an instrument under his hand and seal on the 30th December, 1801, to which the names of Charles Little and Harrison Cleaveland are attached as witnesses. Upon the 18th of January, 1802, by a copy admitted to be a copy of that instrument, and not objected to when offered as evidence, it appears that Summers went into court in Fairfax county and acknowledged it to be a deed of manumission. The court ordered it to be recorded, and it was done. There is nothing in the record to show whether or not the two witnesses were present with him in court when he made this acknowledgment. If they were, the case would clearly fall within the first mode pointed out by the statute, being an instrument in writing under the hand and seal of the party, attested and proved in the county court by two witnesses. It is not said in what court the attestation and proof must be made, in the case of a non-resident owning slaves resident in Virginia, but we presume that in such a case the attestation and proof ought to be made in the county court where the slave resides.</p>
+
+<p>It is not necessary, however, to decide that question in this case, because the proof, to substantiate and give validity to the instrument does not exist; but we have recited the preceding facts because they are evidence in the case, and are connected with the paper puport-
+
+<pb xml:id="p192" facs="oscys.report.0079.001.006.jpg"/>
+
+ing to be a copy of a deed of manumission, which was introduced to sustain the claimant's demand for freedom. This, then, is the copy of an original paper, not denied to be such by the plaintiffs in error, and the question occurring is, how ought it to have been considered in the court below as a part of the evidence in the cause, with reference to the instructions asked? In the first instruction, the court is asked to put the case, that the deed of emancipation so as aforesaid made, executed, and acknowledged and recorded, did not entitle the petitioner to freedom, under the statute in such cases made and provided by an act, entitled <bibl type="code">"An act reducing into one the several acts concerning slaves, free negroes, and mulattoes," passed December 17, 1792</bibl>.</p>
+
+<p>The paper in evidence was the copy of an original, the execution of which by the grantor was not denied. It was received as evidence upon proof of the loss of the original. It was forty years old. No proof of its execution was necessary, its antiquity proved it. But, it is said, the proof and attestation before the court in Virginia, to give it validity, was wanting, and that it appeared to be so upon the face of the paper given in evidence. That might or might not be so. But it was a fact in controversy between the parties, as much so as any other fact in the case, and the court could not be asked to instruct the jury upon their belief of another single fact, namely, the residence of Simon Summers in the county of Alexandria, that the party was not entitled to freedom under the statute of Virginia. The instruction as asked, excludes all the other evidence, and puts the legal issue proposed on it upon a single fact. It excludes, also, all presumptions which the jury might make from the other evidence in connection with the antiquity of the paper which was before them. The court did not err in refusing to give the first instruction.</p>
+
+<p>The second instruction asked for by the defendants in the court below was, that the testimony, although believed by the jury, was not sufficient in law to entitle the petitioner to her freedom.</p>
+
+<p>If the jury believed all the evidence offered, the case would have stood thus: Susan, the mother of Julia, was to become free on the 1st of January, 1814. If they believed that fact, and also believed that Julia was born after that day, she was the child of a free woman, and of course free herself. The trial took place at May term, 1842. Evidence was offered to show that Julia was then about twenty-eight years old. If she was twenty-eight years of age at any period between the 1st of January and May, 1842, of course she was born after her mother had become free. The instruction asked the court to deprive the jury of the power of saying she was born in that interval. This was a fact especially proper for the consideration of the jury, and the court could not have given the instruction asked by the defendant, that the testimony was not sufficient in law to entitle the petitioner to her freedom, without assuming the fact that Julia was not born in the interval already mentioned. We think the court did not err in refusing the instruction.</p>
+
+<p>The judgment of the court below is affirmed.</p>
+
+</div2>
+
+</div1>
+
+</body>
+
+</text>
+
+</TEI>

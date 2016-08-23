@@ -442,8 +442,9 @@
 		</field>
 				
 		<!-- subCategory -->
-		
-		<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term">
+	        
+                <!-- Note: will support multiple subcategories in the future -->	
+		<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term[1]">
 			<xsl:if test="normalize-space(.) != ''">
 				<field name="subCategory">
 					<xsl:value-of select="."/>
