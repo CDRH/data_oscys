@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
 	xpath-default-namespace="http://www.tei-c.org/ns/1.0"
 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -605,8 +606,19 @@
 			</xsl:if>
 		</xsl:for-each>
 					
-		<xsl:for-each select="//orgName">
-			<field name="jurisdiction_ss"><xsl:value-of select="normalize-space(.)"/></field>
+		<xsl:for-each select="//org">
+			<xsl:variable name="org"><xsl:value-of select="./orgName"/></xsl:variable>
+			<xsl:variable name="place"><xsl:value-of select="./placeName"/></xsl:variable>
+			<xsl:variable name="jurisdiction">
+				<xsl:value-of select="$org"/>
+				<xsl:choose>
+					<xsl:when test="$place/text()">
+						- 
+						<xsl:value-of select="$place"/>
+					</xsl:when>
+				</xsl:choose>
+			</xsl:variable>
+			<field name="jurisdiction_ss"><xsl:value-of select="normalize-space($jurisdiction)"/></field>
 		</xsl:for-each>
 		
 		<!-- Claims -->
@@ -855,8 +867,19 @@
 				</xsl:call-template>
 				
 				<xsl:for-each select="//orgName">
+					<xsl:variable name="org"><xsl:value-of select="./orgName"/></xsl:variable>
+					<xsl:variable name="place"><xsl:value-of select="./placeName"/></xsl:variable>
+					<xsl:variable name="jurisdiction">
+						<xsl:value-of select="$org"/>
+						<xsl:choose>
+							<xsl:when test="$place/text()">
+								- 
+								<xsl:value-of select="$place"/>
+							</xsl:when>
+						</xsl:choose>
+					</xsl:variable>
 					<field name="jurisdiction_ss" update="add">
-						<xsl:value-of select="."/>
+						<xsl:value-of select="normalize-space($jurisdiction)"/>
 					</field>
 				</xsl:for-each>
 			
