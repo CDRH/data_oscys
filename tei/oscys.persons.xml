@@ -11897,7 +11897,7 @@ This file was compiled from information found in
 
 <person xml:id="per.001254" source="http://earlywashingtondc.org/doc/oscys.case.0172.001">
 <persName type="display">Armistead, Susan</persName>
-<persName type="full"> <surname>Armistead</surname>, <forename type="first" full="yes">Susan</forename></persName>
+<persName type="full"> <surname>Armistead</surname> <addName type="surname" subtype="alternate">Armstead</addName>, <forename type="first" full="yes">Susan</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -11908,7 +11908,7 @@ This file was compiled from information found in
 
 <person xml:id="per.001255" source="http://earlywashingtondc.org/doc/oscys.case.0172.002">
 <persName type="display">Armistead, Robert</persName>
-<persName type="full"> <surname>Armistead</surname>, <forename type="first" full="yes">Robert</forename></persName>
+<persName type="full"> <surname>Armistead</surname> <addName type="surname" subtype="alternate">Armstead</addName>, <forename type="first" full="yes">Robert</forename></persName>
 <death when="1835-09-15" source="http://earlywashingtondc.org/doc/oscys.case.0172.005">September 15, 1835</death>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
@@ -15961,7 +15961,7 @@ This file was compiled from information found in
 <trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.007"><ab>negro</ab></trait>
 <socecStatus>enslaved</socecStatus>
 <socecStatus when="1826-09-26" source="http://earlywashingtondc.org/doc/oscys.case.0205.007">free</socecStatus>
-<note>Physical description in http://earlywashingtondc.org/doc/oscys.case.0205.009.</note>
+<note>Physical description in oscys.case.0205.009.</note>
 </person>
 
 <person xml:id="per.001687" source="http://earlywashingtondc.org/doc/oscys.case.0205.001">
@@ -17680,13 +17680,14 @@ This file was compiled from information found in
 <trait type="color"><ab></ab></trait>
 </person>
 
+<!--same as per.001859
 <person xml:id="per.001848" source="http://earlywashingtondc.org/doc/oscys.case.0242.001">
 <persName type="display">Bell, Harriet</persName>
 <persName type="full"> <surname>Bell</surname> <addName type="surname" subtype="alternate">Beall</addName>, <forename type="first" full="yes">Harriet</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
-</person>
+</person>-->
 
 <!-- oscys.case.0242.001 end -->
 
@@ -17795,7 +17796,7 @@ This file was compiled from information found in
 
 <person xml:id="per.001859" source="http://earlywashingtondc.org/doc/oscys.case.0243.007">
 <persName type="display">Bell, Harriet</persName>
-<persName type="full"> <surname>Bell</surname>, <forename type="first" full="yes">Harriet</forename></persName>
+<persName type="full"> <surname>Bell</surname> <addName type="surname" subtype="alternate">Beall</addName>, <forename type="first" full="yes">Harriet</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <age when="1835-09-14">3 months</age>
