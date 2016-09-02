@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,7 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term/>
+<term xml:id="per.003190">McKenzie, Alexander</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -104,16 +105,16 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003189">
 <persName>Barby, Rosetta</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003184">
 <persName>Lewis, Benjamin</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.002112">
 <persName>Mason, Thomson Francis, 1785-1838</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.002883">
 <persName>Taylor, Robert I.</persName>
 </person>
 </listPerson>
@@ -127,7 +128,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>      
+<change when="2016-08-22" who="#lkw">added xml:ids; trancription; added Alexander McKenzie</change>   
 <change when="2016-06-30" who="#snc">reviewed</change>    
 <change when="2016-05-26" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -174,7 +176,7 @@ Benjn Lewis</p>
 <p>1828 Nov: Term 4th day<lb/>
 Petition filed &amp; leave to sue in forma pauperis &amp; process ordered to be issued</p>
 
-<p>14th day. The petitioner by T. F. Mson her atto: filed her decln agt. said Lewis who by R. I. Taylor his attoy appeared &amp; pleaded not gty. &amp; issue is thereupon fd.</p>
+<p>14th day. The petitioner by T. F. Mason her atto: filed her decln agt. said Lewis who by R. I. Taylor his attoy appeared &amp; pleaded not gty. &amp; issue is thereupon fd.</p>
 
 <p>15th day. ordered that the said Rosetta be committed to the custody of hte marsl until said Lewis enter into bond &amp; secy: in the penalty of $1500 conditioned &amp;c</p>
 
@@ -182,7 +184,7 @@ Petition filed &amp; leave to sue in forma pauperis &amp; process ordered to be 
 Jury sworn &amp; verd: for the plaintiff for 1 cent damgs &amp; Jud.</p>
 
 <p>We of the jury find for the plaintiff and assess the damages to the sum of one cent<lb/>
-Alexr <gap extent="one surname" reason="illegible"/><lb/>
+Alexr <unclear extent="one surname" reason="illegible">McKenzie</unclear><lb/>
 Foreman</p>
 
 <p>Mas</p>

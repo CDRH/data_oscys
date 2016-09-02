@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,7 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ware, Kinsey</term>
+<term xml:id="per.003232">Ware, Kinsey</term>
+<term xml:id="per.000688">Clarke, Robert</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -103,7 +105,7 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003233">
 <persName>Richardson, Fanny</persName>
 </person>
 <person role="defendant">
@@ -127,6 +129,7 @@
 </profileDesc>
         
 <revisionDesc>      
+<change when="2016-08-29" who="#lkw">added xml:ids; added Robert Clarke to people</change>   
 <change when="2016-06-30" who="#snc">reviewed</change>
 <change when="2016-06-06" who="#kln">edited case name</change>       
 <change when="2016-06-01" who="#kln">transcribed, encoded</change>

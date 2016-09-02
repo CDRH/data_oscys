@@ -2,7 +2,7 @@
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0404.004">
-    
+
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,16 +87,16 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Beall, Aquila</term>
-<term>Boyle, James</term>
-<term>Brashears, Jeremiah</term>
+<term xml:id="per.003195">Beall, Aquila</term>
+<term xml:id="per.003196">Boyle, James</term>
+<term xml:id="per.003197">Brashears, Jeremiah</term>
 <term xml:id="per.000004">Cranch, William 1769-1855</term>
-<term>Dorsey, Francis</term>
-<term>Govers, William</term>
+<term xml:id="per.003198">Dorsey, Francis</term>
+<term xml:id="per.003199">Govers, William</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>Warner, Overton C.</term>
-<term>Watkins, John</term>
-<term>Williams, Theodore M.</term>
+<term xml:id="per.003200">Warner, Overton C.</term>
+<term xml:id="per.003201">Watkins, John</term>
+<term xml:id="per.003202">Williams, Theodore M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -109,10 +110,10 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
-<persName>Cambell, Mary</persName>
+<person role="petitioner" xml:id="per.003193">
+<persName>Campbell, Mary</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003194">
 <persName>Anderson, Asa</persName>
 </person>
 <person role="attorney_petitioner">
@@ -122,7 +123,7 @@
 <persName/>
 </person>
 </listPerson>
-            
+
 <listOrg>
 <org>
 <orgName>United States. Circuit Court (District of Columbia)</orgName>
@@ -133,6 +134,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-08-22" who="#lkw">added xml:ids; changed Cambell to Campbell in header</change>   
 <change when="2016-06-30" who="#snc">reviewed</change>          
 <change when="2016-05-27" who="#kln">transcribed, encoded</change>
 </revisionDesc>

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,7 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Lloyd, Edward</term>
+<term xml:id="per.003217">Lloyd, Edward</term>
 <term xml:id="per.002630">Lynn, Adam</term>
 </keywords>
 
@@ -105,10 +106,10 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003218">
 <persName>Cooper, William</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.000661">
 <persName>Legg, Elias P.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.002112">
@@ -128,7 +129,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>    
+<change when="2016-08-29" who="#lkw">added xml:ids</change>     
 <change when="2016-06-30" who="#snc">reviewed</change>    
 <change when="2016-05-31" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -153,6 +155,7 @@
 
 <p>I have examined into the circumstances upon which the petitioner William Cooper claims his freedom &amp; find they are correctly set forth in his within <del>within</del> petition, &amp; I am of opinion that he is entitled to his freedom.<lb/>
 Thomson F Mason</p>
+
 
 </div2>
 

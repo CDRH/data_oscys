@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,10 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Hawke, Thomas A.</term>
-<term>Martin, Thomas J.</term>
+<term xml:id="per.000502">Ashton, Henry</term>
+<term xml:id="per.003235">Hawke, Thomas A.</term>
+<term xml:id="per.003270">Martin, Thomas J.</term>
 <term xml:id="per.001621">Morsell, Benjamin K.</term>
-<term>Williams, James</term>
+<term xml:id="per.003236">Williams, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -101,7 +103,7 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003268">
 <persName>Morris, Thomas</persName>
 </person>
 <person role="defendant">
@@ -125,6 +127,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2016-08-29" who="#lkw">added xml:ids; added Henry Ashton to people</change>   
 <change when="2016-07-01" who="#snc">reviewed</change>          
 <change when="2016-06-06" who="#kln">transcribed, encoded</change>
 </revisionDesc>
