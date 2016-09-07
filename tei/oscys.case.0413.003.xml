@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,8 +87,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Mills, William</term>
-<term>Proctor, John</term>
+<term xml:id="per.003284">Mills, William</term>
+<term xml:id="per.003287">Proctor, John</term>
+<term xml:id="per.003288">Veleet, WIlliam</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -100,10 +102,10 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003285">
 <persName>Moore, Cleary</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003286">
 <persName>Jacobs, Thomas</persName>
 </person>
 <person role="attorney_petitioner">
@@ -124,6 +126,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2016-09-06" who="#lkw">added xml:ids; added William Veleet to people</change> 
 <change when="2016-07-01" who="#snc">reviewed</change>          
 <change when="2016-06-07" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -154,7 +157,7 @@ Thomas Jacobs.</p>
 
 sale was made the Petitioner was lying hid &amp; secreted in Alexandria and <gap extent="one or two words" reason="strikethrough"/> the said Mills was wholly ignorant of the place where she was, and sold her as it is <gap extent="one word" reason="strikethrough"/> commonly <gap extent="one word" reason="illegible"/> running. That the Petitioner has ever since the said sale remained in Alexandria in the possession of the said Proctor or of the Defdt claiming under him.</p>
 
-<p>In on the matter aforesaid the law be for the plf then we find for the plf &amp; assess her damages to one cent. and if on the said matter the law be fore the defdt then we find for the defdt</p>
+<p>In on the matter aforesaid the law be for the plf then we find for the plf &amp; assess her damages to one cent. and if on the said matter the law before the defdt then we find for the defdt</p>
 
 <p>Wm <unclear reason="illegible">Veelet</unclear> fr</p>
 
