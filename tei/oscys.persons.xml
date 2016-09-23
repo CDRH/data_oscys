@@ -5030,11 +5030,14 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.000545" source="http://earlywashingtondc.org/doc/oscys.case.0060.001">
-<persName type="display">Lear, B. L.</persName>
-<persName type="full"> <surname>Lear</surname>, <forename type="first" full="init">B.</forename> <forename type="middle" full="init">L.</forename></persName>
+<persName type="display" source="#viaf">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</persName>
+<persName type="full"> <surname>Lear</surname>, <forename type="first" full="yes">Benjamin</forename> <forename type="middle" full="yes">Lincoln</forename></persName>
+<birth source="#viaf" when="1792">1792</birth>
+<death source="#viaf" when="1832">1832</death>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>attorney</occupation>
+<idno>http://viaf.org/viaf/107951773</idno>
 </person>
 
 <!-- oscys.case.0060.001 end -->
@@ -25099,6 +25102,8 @@ This file was compiled from information found in
 <persName type="full"> <forename type="first" full="yes">Bennett</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<note>Last name unknown.</note>
 </person>
 
 <person xml:id="per.002605" source="http://earlywashingtondc.org/doc/oscys.case.0355.001">
@@ -25142,6 +25147,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Joyce</surname>, <forename type="first" full="yes">Louisa</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
 </person>
 
 <person xml:id="per.002610" source="http://earlywashingtondc.org/doc/oscys.case.0355.001">
@@ -25149,6 +25155,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Joyce</surname>, <forename type="first" full="yes">Michael</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
 </person>
 
 <person xml:id="per.002611" source="http://earlywashingtondc.org/doc/oscys.case.0355.001">
@@ -25156,6 +25163,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Joyce</surname>, <forename type="first" full="yes">Susan</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
 </person>
 
 <person xml:id="per.002612" source="http://earlywashingtondc.org/doc/oscys.case.0355.001">
