@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,15 +87,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Brooks, Clara</term>
-<term>Brooks, Sarah</term>
-<term>Finley, Oliver P.</term>
-<term>Hodson, William</term>
+<term xml:id="per.003303">Brooks, Clara</term>
+<term xml:id="per.003311">Sarah</term>
+<term xml:id="per.003304">Finley, Oliver P.</term>
+<term xml:id="per.003314">Hodson, William</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>Marsletter</term>
-<term>Ricketts, Benjamin</term>
-<term>Stewart, James Montgomery</term>
-<term>Young</term>
+<term xml:id="per.003315">Marsletter</term>
+<term xml:id="per.003316">Ricketts, Benjamin</term>
+<term xml:id="per.003305">Stewart, James Montgomery</term>
+<term xml:id="per.003317">Young</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -107,10 +108,10 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003306">
 <persName>Brooks, Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003307">
 <persName>Nutt, William D.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -130,7 +131,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>   
+<revisionDesc>
+<change when="2016-09-21" who="#lkw">added xml:ids; transcription</change>      
 <change when="2016-07-01" who="#snc">reviewed; edited</change>           
 <change when="2016-06-08" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -147,7 +149,7 @@
 
 <div2 type="body">
 
-<p>Know all Men by these presents that I James Montgomery Stewart of the Town of Alexandria and District of Columbia in consideration of the payments and covenants herein contained and expressed, have granted Bargained and Sold, and by these presents do grant Bargain and Sell unto Mr Oliver P. Finley of the Town and District aforesaid, my mulatto woman Clara for <del>Life</del> seven years, and her child Sarah for Life, for the Sum of hone hundred and fifty Dollars to be paid me in manner following, viz. The Said Finley is to give me Messrs. Marsletters &amp; Youngs note at four months after date for one hundred and twelve Dollars, and his own note at four months for the Ballance thirty eight Dollars. And the said Finley doth Bind himself, his heirs Executors administrators or Assigns at the Expiration of Seven Years from the date of these presents to Sett free the Said mulatto woman Clara according to the true Intent and meaning of these presents and I the Said Jas M Stewart likewise at the Expiration of the Said Seven years do liberate Said Clara from all claims of me my heirs Executors administrators or assigns. In Testimony whereof we the parties have hereunto Sett our hands and affixed our Seals this twenty fourth day of July in the Year of our Lord One thousand eight hundred and five</p>
+<p>Know all Men by these presents that I James Montgomery Stewart of the Town of Alexandria and District of Columbia in consideration of the payments and covenants herein contained and expressed, have granted Bargained and Sold, and by these presents do grant Bargain and Sell unto Mr Oliver P. Finley of the Town and District aforesaid, my mulatto woman Clara for <del>Life</del> seven years, and her child Sarah for Life, for the Sum of one hundred and fifty Dollars to be paid me in manner following, viz. The Said Finley is to give me Messrs. Marsletters &amp; Youngs note at four months after date for one hundred and twelve Dollars, and his own note at four months for the Ballance thirty eight Dollars. And the said Finley doth Bind himself, his heirs Executors administrators or Assigns at the Expiration of Seven Years from the date of these presents to Sett free the Said mulatto woman Clara according to the true Intent and meaning of these presents and I the Said Jas M Stewart likewise at the Expiration of the Said Seven years do liberate Said Clara from all claims of me my heirs Executors administrators or assigns. In Testimony whereof we the parties have hereunto Sett our hands and affixed our Seals this twenty fourth day of July in the Year of our Lord One thousand eight hundred and five</p>
 
 <p>O. P. Finley (seal)</p>
 
@@ -179,7 +181,7 @@ Finley</p>
 
 <p>Ann Brook's case</p>
 
-<p>Does property during a term of years belong to <gap extent="one word" reason="illegible"/> or to the fee or is it free?</p>
+<p>Does progeny during a term of years belong to <gap extent="one word" reason="illegible"/> or to the fee or is it free?</p>
 
 <p><unclear reason="illegible">Donl</unclear> Brooks <gap extent="three words" reason="illegible"/></p>
 

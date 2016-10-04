@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,11 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Brooks, Clara</term>
-<term>Cattell, Charles I.</term>
-<term>Deneale, George, 1766-1818</term>
-<term>Finley, Oliver P.</term>
-<term>Litle, C.</term>
+<term xml:id="per.003303">Brooks, Clara</term>
+<term xml:id="per.003312">Cattell, Charles I.</term>
+<term xml:id="per.002816">Deneale, George, 1766-1818</term>
+<term xml:id="per.003304">Finley, Oliver P.</term>
+<term xml:id="per.003313">Litle, C.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -102,10 +103,10 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003306">
 <persName>Brooks, Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003307">
 <persName>Nutt, William D.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -126,6 +127,7 @@
 </profileDesc>
         
 <revisionDesc>        
+<change when="2016-09-21" who="#lkw">added xml:ids</change>   
 <change when="2016-07-01" who="#snc">reviewed; edited</change>      
 <change when="2016-06-08" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -178,7 +180,7 @@ Negroe Clara</p>
 
 <p>At a united States Sircuit Court of the District of Columbia Continued and held for the County of Alexandria the 12th day of May 1817.</p>
 
-<p>That Deed of Manumission from Oliver P. Finley to Negroe Clara was proved by the oath of Charles I. <unclear reason="illegible">Cattell</unclear> to be the Act and Deed of the said Oliver P. Finley and ordered to be certified And at another Court continued and held for the County aforesaid the 29th day of November 1817 Oliver P. Finley acknowledged the s ame to be his Act and Deed which is ordered to be recorded.</p>
+<p>That Deed of Manumission from Oliver P. Finley to Negroe Clara was proved by the oath of Charles I. <unclear reason="illegible">Cattell</unclear> to be the Act and Deed of the said Oliver P. Finley and ordered to be certified And at another Court continued and held for the County aforesaid the 29th day of November 1817 Oliver P. Finley acknowledged the same to be his Act and Deed which is ordered to be recorded.</p>
 
 <p>Test,<lb/>
 G. Deneale CC:</p>

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ann Brooks v. William D. Nutt. Summons of James</title>
+<title>Ann Brooks v. William D. Nutt. Summons of James Irwin</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -49,7 +50,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of James</title>
+<title level="m" type="main">Summons of James Irwin</title>
 <date when="1834-05-06">May 6, 1834</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -88,9 +89,9 @@
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000004">Cranch, William 1769-1855</term>
 <term xml:id="per.000739">Hunter, Alexander</term>
-<term>James</term>
+<term xml:id="per.003321">Irwin, James</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>Mandell, John C.</term>
+<term xml:id="per.002989">Mandell, John C.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -102,10 +103,10 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003306">
 <persName>Brooks, Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003307">
 <persName>Nutt, William D.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -126,6 +127,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-09-21" who="#lkw">added xml:ids; added the last name of Irwin</change>   
 <change when="2016-07-01" who="#snc">reviewed</change>           
 <change when="2016-06-08" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -149,7 +151,7 @@ May Term, 1834</p>
 
 <div2 type="body">
 
-<p>You are hereby commanded to summon James <gap extent="one surname" reason="illegible"/> Sd that he be and appear before Court here, immediately, as Witness for Wm D. Nutt ads <del>suit</del> Ann Brooks</p>
+<p>You are hereby commanded to summon James <unclear reason="illegible">Irwin</unclear> So that he be and appear before Court here, immediately, as Witness for Wm D. Nutt ads <del>suit</del> Ann Brooks</p>
 
 <p>Issued 6th day of May 1834</p>
 

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,14 +87,14 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bean, Edward</term>
-<term>Beard</term>
-<term>Callis, Henry A.</term>
+<term xml:id="per.003296">Bean, Edward</term>
+<term xml:id="per.003297">Beard</term>
+<term xml:id="per.000084">Callis, Henry A.</term>
 <term xml:id="per.000004">Cranch, William 1769-1855</term>
-<term>Hatton, Callis B.</term>
+<term xml:id="per.003298">Hatton, Callis B.</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>Minor, Daniel</term>
-<term>Steward, Henry</term> 
+<term xml:id="per.002897">Minor, Daniel</term>
+<term xml:id="per.003299">Steward, Henry</term> 
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -130,6 +131,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-09-20" who="#lkw">added xml:ids</change> 
 <change when="2016-07-01" who="#snc">reviewed</change>            
 <change when="2016-06-07" who="#kln">transcribed, encoded</change>
 </revisionDesc>

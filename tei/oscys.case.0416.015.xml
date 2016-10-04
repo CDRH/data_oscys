@@ -22,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -98,31 +98,31 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003345">
 <persName>Shorter, Charles</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003346">
 <persName>Shorter, Mary</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003330">
 <persName>Shorter, Rachel</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003347">
 <persName>Shorter, Thomas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003348">
 <persName>Shorter, William</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003349">
 <persName>Smith, Jeremiah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003350">
 <persName>Smith, Sarah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003351">
 <persName>Smith, Thomas</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003328">
 <persName>Casanave, Ann</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000473">
@@ -143,6 +143,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-09-21" who="#lkw">added xml:ids</change>   
 <change when="2016-07-01" who="#snc">reviewed</change>            
 <change when="2016-06-15" who="#kln">transcribed, encoded</change>
 </revisionDesc>
