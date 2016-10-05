@@ -88,9 +88,8 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000004">Cranch, William 1769-1855</term>
-<term>Deneale, George, 1766-1818</term>
-<term>Dorcas</term>
-<term>Minor, Daniel</term>
+<term xml:id="per.002816">Deneale, George, 1766-1818</term>
+<term xml:id="per.002897">Minor, Daniel</term>
 <term xml:id="per.000461">Ringgold, Tench</term>
 </keywords>
 
@@ -108,16 +107,16 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003161">
 <persName>Dorcas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003162">
 <persName>Julia</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003163">
 <persName>Smith, James</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002883">
 <persName>Taylor, Robert I.</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.002112">
@@ -135,7 +134,7 @@
 </profileDesc>
         
 <revisionDesc>   
-<change when="2016-08-04" who="#lkw">added xml:ids</change>  
+<change when="2016-08-04" who="#lkw">added xml:ids; removed Dorcas from people</change>  
 <change when="2016-06-28" who="#snc">reviewed</change>                 
 <change when="2016-05-25" who="#kln">transcribed, encoded</change>
 </revisionDesc>

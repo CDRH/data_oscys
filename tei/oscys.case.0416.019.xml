@@ -22,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,9 +86,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Campbell, Enoch</term>
-<term>Campbell, Simon</term>
-<term>Soper, Thomas</term>
+<term xml:id="per.003336">Campbell, Enoch</term>
+<term xml:id="per.003357">Campbell, Simon</term>
+<term xml:id="per.003342">Soper, Thomas</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -104,31 +104,31 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003345">
 <persName>Shorter, Charles</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003346">
 <persName>Shorter, Mary</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003330">
 <persName>Shorter, Rachel</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003347">
 <persName>Shorter, Thomas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003348">
 <persName>Shorter, William</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003349">
 <persName>Smith, Jeremiah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003350">
 <persName>Smith, Sarah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003351">
 <persName>Smith, Thomas</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003328">
 <persName>Casanave, Ann</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.001183">
@@ -148,7 +148,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc> 
+<change when="2016-09-21" who="#lkw">added xml:ids; transcription</change>               
 <change when="2016-07-06" who="#snc">reviewed; edited</change>  
 <change when="2016-06-17" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -167,7 +168,7 @@
 
 <p>Rachel Shorter and Mary Shorter in behalf of themselves and children<lb/>
 vs<lb/>
-Ann Assanave</p>
+Ann Cassanave</p>
 
 <p>pet. for freedom</p>
 
@@ -201,7 +202,7 @@ enable them to employ any other probably effectual means of proving the attendan
 vs<lb/>
 Ann Cassanave</p>
 
-<p>The clerk will please to file these reashs for a new trial and <gap extent="three words" reason="illegible"/> subpoena<lb/>
+<p>The clerk will please to file these reasons for a new trial and <gap extent="three words" reason="illegible"/> subpoena<lb/>
 H Ashton</p>
 
 <p>filed 4th June 1824</p>

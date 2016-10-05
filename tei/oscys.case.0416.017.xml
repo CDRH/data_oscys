@@ -22,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,8 +86,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Oakley, Betty</term>
-<term>Oakley, Lucy</term><!-- may be same as per.002516 -->
+<term xml:id="per.003353">Oakley, Betty</term>
+<term xml:id="per.003354">Oakley, Lucy</term>
 <term xml:id="per.000499">Wells, Ann</term>
 </keywords>
 
@@ -101,31 +101,31 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003345">
 <persName>Shorter, Charles</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003346">
 <persName>Shorter, Mary</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003330">
 <persName>Shorter, Rachel</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003347">
 <persName>Shorter, Thomas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003348">
 <persName>Shorter, William</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003349">
 <persName>Smith, Jeremiah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003350">
 <persName>Smith, Sarah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003351">
 <persName>Smith, Thomas</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003328">
 <persName>Casanave, Ann</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.001183">
@@ -145,7 +145,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>           
+<revisionDesc>
+<change when="2016-09-21" who="#lkw">added xml:ids; transcription</change>              
 <change when="2016-07-06" who="#snc">reviewed</change>  
 <change when="2016-06-17" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -166,7 +167,7 @@
 
 <p>Int 1st. Do you know any thing of a woman named Ann Wells and one named Betty Oakley who formerly lived in Prince Georges County Maryland or either of them and if yea state what was their state and condition in life, from whence they came, in what family they lived and every other circumstance and particular which has come to your knowledge about either of them whether it be from your own knowledge on the information of others and if from the information of others state from whoever and of what time?</p>
 
-<p>Int 2nd. If those two women were white women state what you know or have heard about the women and <gap extent="one word" reason="illegible"/> cause of them and their descendants having become slaves</p>
+<p>Int 2nd. If those two women were white women state what you know or have heard about the women and cause cause of them and their descendants having become slaves</p>
 
 <pb xml:id="p002" facs="oscys.case.0416.017.002.jpg"/>
 

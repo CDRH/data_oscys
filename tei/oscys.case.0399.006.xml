@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,8 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>May, Edward A.</term>
-<term>Neale, Christopher</term>
+<term xml:id="per.003173">May, Edward A.</term>
+<term xml:id="per.002274">Neale, Christopher</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -99,13 +100,13 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003168">
 <persName>Luckett, Susanna</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003169">
 <persName>Walkom, Elizabeth</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003170">
 <persName>Walkom, Jonathan P.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -126,6 +127,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2016-08-22" who="#lkw">added xml:ids; transcription</change>  
 <change when="2016-06-28" who="#snc">reviewed; edited</change>          
 <change when="2016-05-25" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -148,7 +150,7 @@
 
 <div2 type="body">
 
-<p>Complaint having been made before me Chr: Neale a Justice of the Peace for the County aforesaid by Negro Susannah, <gap extent="one word" reason="illegible"/> as she is illegally held in bondage by <del>Mrs</del> Jonathan P Walkom. This is therefore to require you to summon the aforesaid Jonathan Walkom to appear before me or some other Justice of the Peace to answer the Premises. Given from under my hand this 27 day of January 1823.</p>
+<p>Complaint having been made before me Chr: Neale a Justice of the Peace for the County aforesaid by Negro Susannah, that she is illegally held in bondage by <del>Mrs</del> Jonathan P Walkom. This is therefore to require you to summon the aforesaid Jonathan Walkom to appear before me or some other Justice of the Peace to answer the Premises. Given from under my hand this 27 day of January 1823.</p>
 
 <p>Chr: Neale J. P. Alx. Cty.</p>
 

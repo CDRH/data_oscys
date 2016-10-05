@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -87,7 +88,7 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.001432">Bayne, John H.</term>
-<term>Crowe, Lanty</term> 
+<term xml:id="per.002912">Crowe, Lanty</term>
 <term xml:id="per.001430">Lemon, Nelly</term> 
 </keywords>
 
@@ -108,8 +109,8 @@
 <person role="defendant" xml:id="per.002624">
 <persName>Hicks, Nehemiah</persName>
 </person>
-<person role="attorney_petitioner">
-<persName>Hodgson, William L.</persName>
+<person role="attorney_petitioner" xml:id="per.002911">
+<persName>Hodgson, William Ludwell</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -125,7 +126,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>          
+<revisionDesc>  
+<change when="2016-09-20" who="#lkw">added xml:ids</change>         
 <change when="2016-07-01" who="#snc">reviewed</change>    
 <change when="2016-06-07" who="#kln">changed from Kitty's case to Harriet's</change>
 <change when="2016-03-09" who="#kln">transcribed, encoded</change>

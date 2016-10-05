@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,11 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Brooks, Clara</term>
-<term>Finley, Oliver P.</term>
-<term>Gregory</term>
-<term>Sarah</term>
-<term>Stewart, James Montgomery</term>
+<term xml:id="per.003303">Brooks, Clara</term>
+<term xml:id="per.003304">Finley, Oliver P.</term>
+<term xml:id="per.003310">Gregory, W.</term>
+<term xml:id="per.003311">Sarah</term>
+<term xml:id="per.003305">Stewart, James Montgomery</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -106,14 +107,14 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003306">
 <persName>Brooks, Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003307">
 <persName>Nutt, William D.</persName>
 </person>
-<person role="attorney_petitioner">
-<persName>Huitt, Thomas W.</persName><!-- alt: Hewitt -->
+<person role="attorney_petitioner" xml:id="per.003308">
+<persName>Huitt, Thomas W.</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -130,6 +131,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2016-09-21" who="#lkw">added xml:ids</change>   
 <change when="2016-07-01" who="#snc">reviewed</change>          
 <change when="2016-06-08" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -162,7 +164,7 @@
 
 <p>We find that during the said Term of seven years and whilst the said Clara was so held by the said Oliver P. Finley, the Petitioner the daughter of the said <del>Sarah</del> Clara was born, that is to say in the year 1811</p>
 
-<p>We find that the said Oliver P. Finley during his life and the Defdt after his death, held the said Petitioner as a slave claiming her as the property of the said Oliver during his life and as the property of the Defdt as his administrator since his death, from the time of the birth of the plf til the institution of this suit. and that the Defdt still claims to hold the Petitioner as his slave in his <gap extent="one or two words" reason="illegible"/> of administrator as aforesaid.</p>
+<p>We find that the said Oliver P. Finley during his life and the Defdt after his death, held the said Petitioner as a slave claiming her as the property of the said Oliver during his life and as the property of the Defdt as his administrator since his death, from the time of the birth of the plf til the institution of this suit. and that the Defdt still claims to hold the Petitioner as his slave in his <unclear reason="illegible">character</unclear> of administrator as aforesaid.</p>
 
 <p>We find that the said James
 

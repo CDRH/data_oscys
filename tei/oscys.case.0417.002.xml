@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Hyman, Christy" xml:id="ch">Christy Hyman</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,12 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Allen, John</term>   
-<term>Campbell, James</term>
-<term>Chenault, Elijah</term>
-<term>Crippen, Thomas</term>
-<term>Harris</term>
-<term>Hoffman, Jacob</term>
+<term xml:id="per.003369">Allen, John</term>   
+<term xml:id="per.002867">Campbell, James</term>
+<term xml:id="per.003370">Chenault, Elijah</term>
+<term xml:id="per.003371">Crippen, Thomas</term>
+<term xml:id="per.002880">Hoffman, Jacob</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -103,26 +103,26 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003362">
 <persName>Isaac</persName> 
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003363">
 <persName>Letty</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003364">
 <persName>John</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003365">
 <persName>Peter</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003366">
 <persName>Sarah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003367">
 <persName>Sinah</persName>
 </person>
-<person role="defendant">
-<persName>Harris, Edwin</persName>
+<person role="defendant" xml:id="per.003368">
+<persName>Harris, Edwin L.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -142,6 +142,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2016-10-04" who="#lkw">added xml:ids; removed Harris from terms</change>   
 <change when="2016-07-22" who="#kln">reviewed, edited</change>            
 <change when="2016-06-17" who="#ch">transcribed and encoded</change>
 </revisionDesc>

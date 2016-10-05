@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -89,9 +90,8 @@
 <term xml:id="per.000866">Armfield, John</term>   
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
 <term xml:id="per.000131">Franklin, Isaac</term>
-<term xml:id="per.000001">Key, Francis Scott, 1779-1843</term>
 <term xml:id="per.002630">Lynn, Adam</term>
-<term>McKenzie</term>
+<term xml:id="per.003372">McKenzie</term>
 <term xml:id="per.001616">Robey, Washington</term>
 </keywords>
 
@@ -104,23 +104,26 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003373">
 <persName>Shiner, Ann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003374">
 <persName>Shiner, Harriet</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003375">
 <persName>Shiner, Mary Ann</persName>
 </person>
-<person role="petitioner"> 
+<person role="petitioner" xml:id="per.003376"> 
 <persName>Shiner, Phillis</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003377">
 <persName>Pumphrey, Levi</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000873">
 <persName>Dermott, John J.</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -137,6 +140,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2016-10-04" who="#lkw">added xml:ids; added Key as attorney for the petitioner</change>   
 <change when="2016-06-21" who="#kln">reviewed; edited</change>
 <change when="2016-06-20" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

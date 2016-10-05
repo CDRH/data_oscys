@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -87,13 +88,13 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000004">Cranch, William 1769-1855</term>
-<term>Dorsey, Sarah</term>
-<term>Garner, Margaret</term>
-<term>Green, Hannah Ann</term>
+<term xml:id="per.003237">Dorsey, Sarah</term>
+<term xml:id="per.003238">Garner, Margaret</term>
+<term xml:id="per.003239">Green, Hannah Ann</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>McRea, Elizabeth</term>
-<term>McRea, James M.</term>
-<term>Scott, C.</term>
+<term xml:id="per.003240">McRea, Elizabeth</term>
+<term xml:id="per.003241">McRea, James M.</term>
+<term xml:id="per.002625">Scott, Charles</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -106,7 +107,7 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003233">
 <persName>Richardson, Fanny</persName>
 </person>
 <person role="defendant">
@@ -130,6 +131,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-08-29" who="#lkw">added xml:ids</change>   
 <change when="2016-07-01" who="#snc">reviewed</change> 
 <change when="2016-06-06" who="#kln">edited case name</change>          
 <change when="2016-06-02" who="#kln">transcribed, encoded</change>

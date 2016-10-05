@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,8 +87,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Burch, James</term>
-<term>Stabler, William</term>
+<term xml:id="per.003266">Burch, James</term>
+<term xml:id="per.003235">Hawke, Thomas A.</term>
+<term xml:id="per.003267">Stabler, William</term>
+<term xml:id="per.003236">Williams, James</term>
+<term xml:id="per.003269">Janney, Jacob</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -103,7 +107,7 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003268">
 <persName>Morris, Thomas</persName>
 </person>
 <person role="defendant">
@@ -127,6 +131,7 @@
 </profileDesc>
         
 <revisionDesc>     
+<change when="2016-08-29" who="#lkw">added xml:ids; added Hawke, Williams, and Janney to people</change>   
 <change when="2016-07-01" who="#snc">reviewed</change>         
 <change when="2016-06-06" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -151,8 +156,8 @@
 
 <p>Your petitioner Thomas Morris humbly represents to your Honors, that he is now confined in the Jail of Washington County, in this District, where he was originally placed at the instance of &#160; &#160; &#160; Burch of Alexandria and is now detained for the payment of jail fees, and, he believes, for no other cause. Your petitioner believes his confinement to be illegal &amp; unjust; and prays the Court to grant him the U. States writ of Habeas Corpus, directed to the Jailor of Washington County, commanding him to bring the body of your petitioner before your Honors, in order that he cause of his said detention may be enquired into, &amp; your petitioner discharged. Your petitioner begs leave to refer your honors to the certificate of said Jailer hereto annexed.</p>
 
-<p>Thos. Morris<lb/>
-<gap extent="one word" reason="illegible"/> Wm <unclear reason="illegible">Stabler</unclear></p>
+<p>for Thos. Morris<lb/>
+Wm Stabler</p>
 
 <p>Set the writ issue by order of the Court 12th Novr. 1832.</p>
 

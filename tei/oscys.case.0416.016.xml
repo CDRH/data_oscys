@@ -22,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,18 +86,19 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Benson, C.</term>
-<term>Darnell, Robert</term>
-<term>Diggs, Mary</term>
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.003352">Benson, C.</term>
+<term xml:id="per.003331">Darnall, Robert</term>
+<term xml:id="per.003332">Diggs, Mary</term>
 <term xml:id="per.001393">Duvall, Gabriel, 1752-1844</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>Michael</term>
+<term xml:id="per.003333">Michael</term>
 <term xml:id="per.002176">Soaper, Nathan</term>
 <term xml:id="per.000499">Wells, Ann</term>
-<term>Wells, Jack</term>
-<term>Wells, Nan</term>
-<term>Wells, Rachael</term>
-<term>Young, Notley</term>
+<term xml:id="per.003334">Wells, Jack</term>
+<term xml:id="per.003335">Wells, Nan</term>
+<term xml:id="per.003324">Wells, Rachael</term>
+<term xml:id="per.003360">Young, Notley</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -110,31 +111,31 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003345">
 <persName>Shorter, Charles</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003346">
 <persName>Shorter, Mary</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003330">
 <persName>Shorter, Rachel</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003347">
 <persName>Shorter, Thomas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003348">
 <persName>Shorter, William</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003349">
 <persName>Smith, Jeremiah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003350">
 <persName>Smith, Sarah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003351">
 <persName>Smith, Thomas</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003328">
 <persName>Casanave, Ann</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000473">
@@ -155,6 +156,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2016-09-21" who="#lkw">added xml:ids; changed spelling of Darnell to Darnall; added William Brent to people</change>   
 <change when="2016-07-01" who="#snc">reviewed</change>          
 <change when="2016-06-15" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -183,7 +185,7 @@
 
 <p>Sworn to before the subscriber one of the Justices of the Peace for Prince Georges County this first day of October 1823.</p>
 
-<p>C. <gap extent="one or two names" reason="illegible"/> Benson</p>
+<p>C. <gap extent="one or two names" reason="illegible"/>Benson</p>
 
 </div2>
 

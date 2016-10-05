@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,8 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Fitzhugh, Norman R.</term>
-<term>Kerr, James D.</term>
+<term xml:id="per.003219">Fitzhugh, Norman R.</term>
+<term xml:id="per.003220">Kerr, James D.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -98,34 +99,34 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003221">
 <persName>Arnold</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003222">
 <persName>Hannah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003223">
 <persName>Hannah</persName><!-- child -->
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003224">
 <persName>Milly</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003225">
 <persName>Peggy</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003226">
 <persName>Rebecca</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003227">
 <persName>Sophia</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003228">
 <persName>William</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003229">
 <persName>West, Arthur P.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002883">
 <persName>Taylor, Robert I.</persName>
 </person>
 <person role="attorney_defendant">
@@ -143,6 +144,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-08-29" who="#lkw">added xml:ids</change>   
 <change when="2016-06-30" who="#snc">reviewed</change>           
 <change when="2016-05-31" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -172,13 +174,13 @@ vs<lb/>
 
 <p>Whereupon R. I. T. is assigned their counsel to state and report their case to the Court. And the <unclear reason="illegible">said</unclear> counsel thereupon reported the case of the said Petitioners and that in his opinion entitled to their freedom.</p>
 
-<p>Whereupon it is by the court ordered that the Clerk do issue process against the said Arthur P West to appear and answer the complt of the</p>
+<p>Whereupon it is by the court ordered that the Clerk do issue process against the said Arthur P West to appear and answer the complt of the
 
 <pb xml:id="p002" facs="oscys.case.0406.002.002.jpg"/>
 
-<p><gap extent="several lines" reason="strikethrough"/></p>
+<gap extent="several lines" reason="strikethrough"/>
 
-<p>of the said Petitioners. And that in the mean time the <del>Complts</del> Petitioners shall be and remain in the custody of the marshal until the said Arthur P West shall give bond with security in penalty of $1600 either in court or with the clerk thereof to have the said Petitioner forthcoming to <gap extent="one word" reason="illegible"/> the Judgment of the court. Whereupon the said Arthur P West and Jas D. Kerr &amp; Norman R. Fitzhugh his sureties acknowledged themselves &amp;c</p>
+of the said Petitioners. And that in the mean time the <del>Complts</del> Petitioners shall be and remain in the custody of the marshal until the said Arthur P West shall give bond with security in penalty of $1600 either in court or with the clerk thereof to have the said Petitioner forthcoming to <gap extent="one word" reason="illegible"/> the Judgment of the court. Whereupon the said Arthur P West and Jas D. Kerr &amp; Norman R. Fitzhugh his sureties acknowledged themselves &amp;c</p>
 
 <p><gap extent="several lines" reason="strikethrough"/></p>
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0416.023">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0416.024">
     
 <teiHeader>
 <fileDesc>
@@ -22,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -38,7 +38,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0416.023</idno>
+<idno type="project">oscys.case.0416.024</idno>
 <idno type="case">oscys.caseid.0444</idno>
 
 <availability>
@@ -87,11 +87,8 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
-<term>Shorter, Ann</term>
-<term>Shorter, Mary</term>
-<term>Shorter, Rachel</term>
-<term>Shorter, William</term>
-<term>Young, Nicholas</term>
+<term xml:id="per.003359">Shorter, Ann</term>
+<term xml:id="per.002602">Young, Nicholas</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -103,31 +100,31 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003345">
 <persName>Shorter, Charles</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003346">
 <persName>Shorter, Mary</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003330">
 <persName>Shorter, Rachel</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003347">
 <persName>Shorter, Thomas</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003348">
 <persName>Shorter, William</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003349">
 <persName>Smith, Jeremiah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003350">
 <persName>Smith, Sarah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003351">
 <persName>Smith, Thomas</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003328">
 <persName>Casanave, Ann</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000473">
@@ -148,6 +145,7 @@
 </profileDesc>
         
 <revisionDesc>          
+<change when="2016-09-21" who="#lkw">added xml:ids; transcription</change>   
 <change when="2016-07-06" who="#snc">reviewed</change>     
 <change when="2016-06-17" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -188,7 +186,7 @@ Mary Shorter and child</p>
 
 <p>No. 405</p>
 
-<p>Nichs. Young in $100 for Mrs Cassanave for all petrs. except the three above but for their 2 children</p>
+<p>Nichs. Young in $1000 for Mrs Cassanave for all petrs. except the three above but for their 2 children</p>
 
 </div2>
 

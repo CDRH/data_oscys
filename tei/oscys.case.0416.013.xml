@@ -22,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,10 +86,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Bowie, Davis</term>
-<term>Braders, Joseph</term>
-<term>Legg, Eli</term>
-<term>Neale, Christopher</term>
+<term xml:id="per.003230">Bowie, Davis</term>
+<term xml:id="per.003343">Braders, Joseph</term>
+<term xml:id="per.000661">Legg, Elias P.</term>
+<term xml:id="per.002274">Neale, Christopher</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -100,10 +100,10 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003326">
 <persName>Wells, Daniel</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003327">
 <persName>Lewis, Benjamin F.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -124,6 +124,7 @@
 </profileDesc>
         
 <revisionDesc>           
+<change when="2016-09-21" who="#lkw">added xml:ids</change>   
 <change when="2016-07-01" who="#snc">reviewed</change>   
 <change when="2016-06-14" who="#kln">transcribed, encoded</change>
 </revisionDesc>

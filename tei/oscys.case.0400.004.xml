@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,8 +87,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Addison, S.</term>
-<term>Monroe</term>
+<term xml:id="per.003177">Addison, S.</term>
+<term xml:id="per.003168">Luckett, Susanna</term>
+<term xml:id="per.003178">Monroe</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -98,13 +100,13 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003176">
 <persName>Luckett, Sarah Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003169">
 <persName>Walkom, Elizabeth</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003170">
 <persName>Walkom, Jonathan P.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -125,6 +127,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-08-22" who="#lkw">added xml:ids; added Susanna Luckett to people</change>  
 <change when="2016-06-30" who="#snc">reviewed</change>           
 <change when="2016-05-26" who="#kln">transcribed, encoded</change>
 </revisionDesc>

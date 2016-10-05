@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -89,10 +90,11 @@
 <term xml:id="per.000006">Boyd, Washington</term>
 <term xml:id="per.000004">Cranch, William 1769-1855</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>May, Edward A.</term>
-<term>May, Jonathan C.</term>
-<term>McClish, Martha</term>
-<term>Scott, C.</term>
+<term xml:id="per.003173">May, Edward A.</term>
+<term xml:id="per.001335">May, Jonathan C.</term>
+<term xml:id="per.003174">McClish, Martha</term>
+<term xml:id="per.003175">Pittman, Henry</term>
+<term xml:id="per.002625">Scott, Charles</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -105,16 +107,16 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003168">
 <persName>Luckett, Susanna</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003169">
 <persName>Walkom, Elizabeth</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003170">
 <persName>Walkom, Jonathan P.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.003171">
 <persName>Ramsay, Jesse T.</persName>
 </person>
 <person role="attorney_defendant">
@@ -131,7 +133,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc> 
+<revisionDesc>
+<change when="2016-08-22" who="#lkw">added xml:ids; added Pittman to people</change>   
 <change when="2016-06-30" who="#snc">reviewed; edited</change>               
 <change when="2016-05-25" who="#kln">transcribed, encoded</change>
 </revisionDesc>
