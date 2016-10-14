@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,8 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">   
-<term>Minor, Daniel</term>
-<term>Simmons</term>
+<term xml:id="per.002897">Minor, Daniel</term>
+<term xml:id="per.003458">Simmons</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -100,7 +101,7 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003459">
 <persName>Holmes, Nathaniel</persName> 
 </person>
 <person role="defendant">
@@ -123,7 +124,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>        
+<change when="2016-10-13" who="#lkw">added xml:ids</change>     
 <change when="2016-07-15" who="#kln">reviewed and edited.</change>
 <change when="2016-06-20" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
@@ -146,7 +148,7 @@
 
 <div2 type="body">
 
-<p>Humbly complaining sheweth unto your Honors, your petitioner Nathaniel Holmes, that he is a free man and came to the town of Alexandria some time in June 1841. on board the Schooner Wm &amp; Eliza commanded by on Captain Simmons: on his arrival here your petitioner had the bad fortune to have a disagreement with his said Captain as to the amount of wages due your petitioner which resulted in a refusal on the part of Captain Simmons to pay him any wages at all; in consequence of which your petition was obliged to avail himself of the assistance of law, and obtained from a Magistrate of this County a judgment against the said Captain Simmons. For these reasons your petition did not quit the town of Alexandria with the schooner in which he came to it, and was left in the said town without the requisite evidence of his freedom, which he had neglected to bring with him, not anticipating more than a short absence from home.</p>
+<p>Humbly complaining sheweth unto your Honors, your petitioner Nathaniel Holmes, that he is a free man and came to the town of Alexandria some time in June 1841. on board the Schooner Wm &amp; Eliza commanded by on Captain Simmons: on his arrival here your petitioner had the bad fortune to have a disagreement with his said Captain as to the amount of wages due your petitioner which resulted in a refusal on the part of Captain Simmons to pay him any wages at all; in consequence of which your petition was obliged to avail himself of the assistance of law, and obtained from a Magistrate of this County a judgment against the said Captain Simmons. For these reasons your petitioner did not quit the town of Alexandria with the schooner in which he came to it, and was left in the said town without the requisite evidence of his freedom, which he had neglected to bring with him, not anticipating more than a short absence from home.</p>
 
 <p>In this condition, your petitioner was arrested on the charge of being a runaway slave, and on this charge was committed to the Jail of Alexandria County, which is kept by Daniel Minor, in whose custody your petitioner has been ever since his commitment.</p>
 

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -98,13 +99,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003380">
 <persName>Jackson, Nelly</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003381">
 <persName>Tebbs, Thomas</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.002988">
 <persName>Simms, John D.</persName>
 </person>
 <person role="attorney_defendant">
@@ -122,6 +123,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-10-04" who="#lkw">added xml:ids</change>   
 <change when="2016-07-06" who="#snc">reviewed</change>         
 <change when="2016-06-20" who="#kln">transcribed, encoded</change>
 </revisionDesc>
