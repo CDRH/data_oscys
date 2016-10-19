@@ -15962,12 +15962,13 @@ This file was compiled from information found in
 <persName type="full"> <surname>Allen</surname>, <forename type="first" full="yes">Sarah</forename> <forename type="first" full="yes">Ann</forename></persName>
 <sex>female</sex>
 <age when="1826-08" source="http://earlywashingtondc.org/doc/oscys.case.0205.009">19</age>
-<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.005"><ab>negro</ab></trait>
-<socecStatus>enslaved</socecStatus>
-<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.007"><ab>negro</ab></trait>
+<!--<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.005"><ab>negro</ab></trait>
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.007"><ab>negro</ab></trait>-->
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.009"><ab>negro</ab>
+<note>"of dark complexion aged about nineteen years, about five feet two and an half inches high, large full mouth, a small scar on her forehead, a small scar on her left fore finger between the second and third joints"</note>
+</trait>
 <socecStatus>enslaved</socecStatus>
 <socecStatus when="1826-09-26" source="http://earlywashingtondc.org/doc/oscys.case.0205.007">free</socecStatus>
-<note>Physical description in oscys.case.0205.009.</note>
 </person>
 
 <person xml:id="per.001687" source="http://earlywashingtondc.org/doc/oscys.case.0205.001">
@@ -24111,10 +24112,10 @@ This file was compiled from information found in
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
 <residence source="http://earlywashingtondc.org/doc/oscys.case.0337.005">Maryland</residence>
-<residence source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Washington (D.C.)</residence>
-<residence source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Georgetown (Washington, D.C.)</residence>
+<residence notAfter="1820-05" source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Washington (D.C.)</residence>
+<residence when="1820-05" source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Prince George's County (Md.)</residence>
 <residence when="1820-12-07" source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Fredericksburg (Va.)</residence>
-<residence when="1820-12" source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Washington (D.C.)</residence>
+<residence when="1821-12" source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Washington (D.C.)</residence>
 </person>
 
 <!-- oscys.case.0337.001 end -->
@@ -29093,7 +29094,7 @@ This file was compiled from information found in
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <residence>Prince George's County (Md.)</residence>
-<death notBefore="1810-01-08"  source="http://earlywashingtondc.org/doc/oscys.case.0382.004">after 1810-01-08</death>
+<death notBefore="1810-01-08" source="http://earlywashingtondc.org/doc/oscys.case.0382.004">after January 8, 1810</death>
 </person>
 
 <person xml:id="per.003033" source="http://earlywashingtondc.org/doc/oscys.case.0382.003">
