@@ -612,7 +612,7 @@
 			<xsl:variable name="jurisdiction">
 				<xsl:value-of select="$org"/>
 				<xsl:choose>
-					<xsl:when test="$place/text()">
+					<xsl:when test="not($place/text() = '')">
 						- 
 						<xsl:value-of select="$place"/>
 					</xsl:when>
@@ -866,13 +866,13 @@
 					</xsl:with-param>
 				</xsl:call-template>
 				
-				<xsl:for-each select="//orgName">
+				<xsl:for-each select="//org">
 					<xsl:variable name="org"><xsl:value-of select="./orgName"/></xsl:variable>
 					<xsl:variable name="place"><xsl:value-of select="./placeName"/></xsl:variable>
 					<xsl:variable name="jurisdiction">
 						<xsl:value-of select="$org"/>
 						<xsl:choose>
-							<xsl:when test="$place/text()">
+							<xsl:when test="not($place/text() = '')">
 								- 
 								<xsl:value-of select="$place"/>
 							</xsl:when>
