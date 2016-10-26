@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,7 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">   
-<term>Eaches, Joseph</term>
+<term xml:id="per.003548">Eaches, Joseph</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -101,13 +102,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003549">
 <persName>Rustin, Moses</persName> 
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003550">
 <persName>Stromatt, John E.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.003551">
 <persName>Smith, Francis L.</persName>
 </person>
 <person role="attorney_defendant">
@@ -125,6 +126,7 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2016-10-26" who="#lkw">added xml:ids; transcription</change> 
 <change when="2016-07-21" who="#kln">reviewed, edited</change>             
 <change when="2016-06-29" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
@@ -147,7 +149,7 @@
 
 <div2 type="body">
      
-<p>Your petitioner Moses Rustin shews, to your honors, that he was born in Charles County in the State of Maryland, and was held in bondage as a slave in said County by John E. Stromatt (and his father prior to his death) until about the year 1828, when he was taken by the same John E. Stromatt to the City of Washington, when your petitioner remained in slavery for some years, he was afterwards taken to the State of Mississippi, where he remained a few months, and from thence back to said Charles County. Subsequently about the spring of 1837, your petitioner was brought to the Town of Alexandria, in the District of Columbia, where he has remained ever since, having been to the said Charles County once or twice since said last named period or a visit of a few days. Your petitioner states that the said John E. Stromatt claims the right to control, and hold your petitioner in bondage, and to receive compensation then for his services, and has so received such <gap extent="one word" reason="illegible"/> up to the insuing of the
+<p>Your petitioner Moses Rustin shews, to your honors, that he was born in Charles County in the State of Maryland, and was held in bondage as a slave in said County by John E. Stromatt (and his father prior to his death) until about the year 1828, when he was taken by the same John E. Stromatt to the City of Washington, when your petitioner remained in slavery for some years, he was afterwards taken to the State of Mississippi, where he remained a few months, and from thence back to said Charles County. Subsequently about the spring of 1837, your petitioner was brought to the Town of Alexandria, in the District of Columbia, where he has remained ever since, having been to the said Charles County once or twice since said last named period or a visit of a few days. Your petitioner states that the said John E. Stromatt claims the right to control, and hold your petitioner in bondage, and to receive compensation then for his services, and has so received such <unclear extent="one word" reason="illegible">hires</unclear> up to the issuing of the
 
 <pb xml:id="p002" facs="oscys.case.0429.001.002.jpg"/>
 

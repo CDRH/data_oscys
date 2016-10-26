@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,12 +87,12 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">   
-<term>Becky</term>
-<term>Foster, Elizabeth</term>
-<term>Foster, John</term>
-<term>Foster, John</term><!-- son of John -->
-<term>Foster, Solomon</term>
-<term>Gill, May</term>
+<term xml:id="per.003480">Becky</term>
+<term xml:id="per.003481">Foster, Elizabeth</term>
+<term xml:id="per.003482">Foster, John</term>
+<term xml:id="per.003483">Foster, John</term><!-- son of John -->
+<term xml:id="per.003484">Foster, Solomon</term>
+<term xml:id="per.003485">Gill, May</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -104,13 +105,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003486">
 <persName>Reester, Nicholas</persName> 
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003487">
 <persName>Bates</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.003466">
 <persName>Snowden, Edgar</persName>
 </person>
 <person role="attorney_defendant">
@@ -128,6 +129,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2016-10-17" who="#lkw">added xml:ids; transcription</change>
 <change when="2016-07-20" who="#kln">reviewed, edited</change>
 <change when="2016-06-21" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
@@ -146,7 +148,7 @@
      
 <p>The petition of Nicholas Reester respectfully shows to the Court that one &#8212; Bates of Mobile holds him illegally in Slavery, and that upon complaint of this to a Magistrate he was committed for the purpose of affording him an opportunity of making this petition to the jail of the County of Alexandria, and that he is still in jail.</p>
 
-<p>Your petitioner states to the Court that his mother Becky <gap extent="one word" reason="strikethrough"/> was given by John Foster of Baltimore to his son John Foster and Elizabeth his wife. That he was born the slave of said John Foster the younger. And that he has been regularly manumitted and set free by <unclear reason="illegible">May</unclear> <unclear reason="illegible">Gill</unclear> of Baltimore the only remaining child of said John and Elizabeth Foster. That notwithstanding this, Solomon Foster the brother of the said John Foster, who has no right or claim to your petitioner, has sold him into slavery.</p>
+<p>Your petitioner states to the Court that his mother Becky <unclear extent="one word" reason="strikethrough">Foster</unclear> was given by John Foster of Baltimore to his son John Foster and Elizabeth his wife. That he was born the slave of said John Foster the younger. And that he has been regularly manumitted and set free by <unclear reason="illegible">May</unclear> <unclear reason="illegible">Gill</unclear> of Baltimore the only remaining child of said John and Elizabeth Foster. That notwithstanding this, Solomon Foster the brother of the said John Foster, who has no right or claim to your petitioner, has sold him into slavery.</p>
 
 <p>Your petitioner therefore prays the Court that he may be permitted to sue for his freedom in forma pauperis.</p>
 

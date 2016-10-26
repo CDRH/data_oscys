@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -87,8 +88,8 @@
     
 <keywords scheme="lcsh" n="people">   
 <term xml:id="per.000004">Cranch, William 1769-1855</term>
-<term>Deneale, George, 1766-1818</term>
-<term>Mandell, John C.</term>
+<term xml:id="per.002816">Deneale, George, 1766-1818</term>
+<term xml:id="per.002989">Mandell, John C.</term>
 <term xml:id="per.000461">Ringgold, Tench</term>
 </keywords>
 
@@ -106,11 +107,11 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003522">
 <persName>Slater, Cyrus</persName> 
 </person>
-<person role="defendant">
-<persName>Bell, Enoch</persName>
+<person role="defendant" xml:id="per.003523">
+<persName>Bell, Enoch</persName><!-- Alias: Even/Evan -->
 </person>
 <person role="attorney_petitioner" xml:id="per.000122">
 <persName>Lee, Edmund J.</persName>
@@ -130,6 +131,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2016-10-17" who="#lkw">added xml:ids</change> 
 <change when="2016-07-20" who="#kln">reviewed, edited</change>            
 <change when="2016-06-28" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

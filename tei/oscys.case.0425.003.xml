@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -87,10 +88,10 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000904">Buckner, Ariss</term>
-<term>Eskridge, Charles G.</term>
+<term xml:id="per.003489">Eskridge, Charles G.</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>Luckett, Francis W.</term>
-<term>Rogers, Thomas</term>
+<term xml:id="per.003490">Luckett, Francis W.</term>
+<term xml:id="per.003491">Rogers, Thomas</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -104,13 +105,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003488">
 <persName>Brent, Rachael</persName> 
 </person>
 <person role="defendant" xml:id="per.000866">
 <persName>Armfield, John</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.003181">
 <persName>Hooe, Bernard</persName>
 </person>
 <person role="attorney_defendant">
@@ -128,6 +129,7 @@
 </profileDesc>
         
 <revisionDesc>         
+<change when="2016-10-17" who="#lkw">added xml:ids; transcription</change>
 <change when="2016-06-27" who="#kln">reviewed and edited</change>    
 <change when="2016-06-22" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
@@ -211,9 +213,9 @@ Armfield.</p>
 <p>Recd under seal &amp; opened 28 May 1834.<lb/>
 Edm: J. Lee C.C.</p>
 
-<p>Edmond J. Lee Esqr.
-Clerk of the Court
-<gap extent="one word" reason="illegible"/> of Bernard Hooe Esq
+<p>Edmond J. Lee Esqr.<lb/>
+Clerk of the Court<lb/>
+<unclear extent="one word" reason="illegible">Care</unclear> of Bernard Hooe Esq<lb/>
 Alexandria</p>
 
 </div2>

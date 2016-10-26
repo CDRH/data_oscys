@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,9 +87,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">   
-<term>Deneale, George, 1766-1818</term>
+<!-- <term xml:id="per.002816">Deneale, George, 1766-1818</term> -->
 <term xml:id="per.001523">Doe, John</term>
-<term>Janney, Thomas</term>
+<term xml:id="per.003524">Janney, Thomas</term>
 <term xml:id="per.001531">Roe, Richard</term>
 </keywords>
 
@@ -105,11 +106,11 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003522">
 <persName>Slater, Cyrus</persName> 
 </person>
-<person role="defendant">
-<persName>Bell, Enoch</persName>
+<person role="defendant" xml:id="per.003523">
+<persName>Bell, Enoch</persName><!-- Alias: Even/Evan -->
 </person>
 <person role="attorney_petitioner" xml:id="per.000122">
 <persName>Lee, Edmund J.</persName>
@@ -129,6 +130,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-10-17" who="#lkw">added xml:ids; commented out Deneale; transcription</change> 
 <change when="2016-07-20" who="#kln">reviewed, edited</change>           
 <change when="2016-06-28" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
@@ -151,7 +153,7 @@
 
 <div2 type="body">
      
-<p>Cyrus <del>complains</del> alias Cyrus Slater complains of Enoch Bell in custody &amp;c <gap extent="one word" reason="illegible"/> the <gap extent="one word" reason="strikethrough"/> the said Defendant on the &#160; &#160; day of &#160; &#160; &#160; in the year &#160; &#160; with force and arms to wit with swords, clubs and staves upon the said plaintiff at Alexandra in the County aforesd. did make an<del>d</del> assault on him &amp; did imprison him the said plaintiff against his will without any reasonable cause and against the law of the land <del>for</del> for a long time to wit for one month kept &amp; detained him, and other injuries to him then &amp; there and against the peace of the United States, and to the damage of the said plaintiff One hundred dollars &amp; therefore he brings suit &amp;c</p>
+<p>Cyrus <del>complains</del> alias Cyrus Slater complains of Enoch Bell in custody &amp;c <unclear extent="one word" reason="illegible">for</unclear> that <gap extent="one word" reason="strikethrough"/> the said Defendant on the &#160; &#160; day of &#160; &#160; &#160; in the year &#160; &#160; with force and arms to wit with swords, clubs and staves upon the said plaintiff at Alexandra in the County aforesd. did make an<del>d</del> assault on him &amp; did imprison him the said plaintiff against his will without any reasonable cause and against the law of the land <del>for</del> for a long time to wit for one month kept &amp; detained him, and other injuries to him then &amp; there and against the peace of the United States, and to the damage of the said plaintiff One hundred dollars &amp; therefore he brings suit &amp;c</p>
 
 <p>Lee pq</p>
 

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,8 +87,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">   
-<term>Eaches, Joseph</term>
-<term>Hancock, John B.</term>
+<term xml:id="per.003548">Eaches, Joseph</term>
+<term xml:id="per.003553">Hancock, John B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -99,13 +100,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003549">
 <persName>Rustin, Moses</persName> 
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003550">
 <persName>Stromatt, John E.</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.003551">
 <persName>Smith, Francis L.</persName>
 </person>
 <person role="attorney_defendant">
@@ -123,6 +124,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2016-10-26" who="#lkw">added xml:ids</change> 
 <change when="2016-07-21" who="#kln">reviewed, edited</change>            
 <change when="2016-06-29" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
@@ -146,7 +148,7 @@ Alexandria County, to wit.</p>
 
 <div2 type="body">
      
-<p>Whereas Moses Rustin, a negro man, now in the possession of John E. Stromatt, hath complained before me Joseph Eaches a Justice of the Peace for the County aforesaid, in the District of Columbia, that he is illegally detained in slavery, by the said John E. Stromatt although he is entitled to his freedom. These are therefore, to require you, to summon the said John E. Stromatt to appear before me, or some other magistrate, of the County of Alexandria, aforesaid, at my office, on the 20th day of this present month, to answer the said complaint; and for such other proceedings thereupon, as are authorized by law: and then and there make return <gap extent="one word" reason="illegible"/> you have executed this warrant.</p>
+<p>Whereas Moses Rustin, a negro man, now in the possession of John E. Stromatt, hath complained before me Joseph Eaches a Justice of the Peace for the County aforesaid, in the District of Columbia, that he is illegally detained in slavery, by the said John E. Stromatt although he is entitled to his freedom. These are therefore, to require you, to summon the said John E. Stromatt to appear before me, or some other magistrate, of the County of Alexandria, aforesaid, at my office, on the 20th day of this present month, to answer the said complaint; and for such other proceedings thereupon, as are authorized by law: and then and there make return <unclear extent="one word" reason="illegible">how</unclear> you have executed this warrant.</p>
 
 <p>Given under my hand and seal this 20th day December 1845.<lb/>
 Jos. Eaches (seal)</p>

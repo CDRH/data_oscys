@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -88,9 +89,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Buckner, Lucy Hooe</term><!-- maiden: Hooe -->
+<term xml:id="per.003501">Buckner, Lucy Hooe</term>
 <term xml:id="per.000004">Cranch, William 1769-1855</term>
-<term>Hooe, Bernard, Sr.</term><!-- no relation to attorney Bernard Hooe -->
+<term xml:id="per.003502">Hooe, Bernard, Sr.</term>
 <term xml:id="per.000044">Morsell, James Sewall</term>
 <term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
 </keywords>
@@ -105,13 +106,13 @@
             
 <particDesc>   
 <listPerson type="oscys.caseid.0454"> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003498">
 <persName>Taylor, Charles</persName>
 </person>
 <person role="defendant" xml:id="per.000904">
 <persName>Buckner, Ariss</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003499">
 <persName>Buckner, Bernard H.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -123,13 +124,13 @@
 </listPerson>
   
 <listPerson type="oscys.caseid.0455"> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003503">
 <persName>Brent, Alexander</persName>
 </person>
 <person role="defendant" corresp="per.000904">
 <persName>Buckner, Ariss</persName>
 </person>
-<person role="defendant">
+<person role="defendant" corresp="per.003499">
 <persName>Buckner, Bernard H.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -141,22 +142,22 @@
 </listPerson>
 
 <listPerson type="oscys.caseid.0461"> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003504">
 <persName>Jackson, Fanny</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003505">
 <persName>Jackson, Louisa</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003506">
 <persName>Jackson, Maria</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003507">
 <persName>Jackson, Robert</persName>
 </person>
 <person role="defendant" corresp="per.000904">
 <persName>Buckner, Ariss</persName>
 </person>
-<person role="defendant">
+<person role="defendant" corresp="per.003499">
 <persName>Buckner, Bernard H.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -177,6 +178,7 @@
 </profileDesc>
         
 <revisionDesc>          
+<change when="2016-10-17" who="#lkw">added xml:ids</change>
 <change when="2016-07-06" who="#snc">reviewed; edited</change>  
 <change when="2016-06-22" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -198,7 +200,7 @@ Alexander Brent<lb/>
 against<lb/>
 Buckners.</p>
 
-<p>Memorandum. On the Trial of this suit which was instituted by the plf to recover their freedom on the grounds of their having been illegally removed by the Defdt Ariss Buckner from the Commonwealth of Virginia into the County of Washington in the District of Columbia. The plf having laid before the Jury evidence tending to prove the removal alledged and the residence of the plf after such removal in the said County of Washington The Defdts gave in evidence to the Jury the will of Bernard Hooe Senr. father of Lucy Buckner the wife of the Defdt Ariss Buckner, in these words (here insert it) and proved that at the time of said removal the said Lucy Buckner was still living and had seven children then and yet living of whom three were Infants under the age of twenty one years, all which so <gap extent="one word" reason="illegible"/> age, except one were living with the Defdt Ariss Buckner their father, and all who were of age knew of the said importations of the petitioners and were in the County of Washington when said <del>slaves</del> Petitioners were <gap extent="one word" reason="strikethrough"/> there and prayed the Court to instruct the Jury. That if they believe from the evidence the Petitioners to have been removed from the Commonwealth of Virginia to the said County of Washington by the said Ariss Buckner for sale or to reside as they charge, without the consent of each of the children as were under age, and of the guardians of such of them as were under the age of twenty one years
+<p>Memorandum. On the Trial of this suit which was instituted by the plf to recover their freedom on the grounds of their having been illegally removed by the Defdt Ariss Buckner from the Commonwealth of Virginia into the County of Washington in the District of Columbia. The plf having laid before the Jury evidence tending to prove the removal alledged and the residence of the plf after such removal in the said County of Washington The Defdts gave in evidence to the Jury the will of Bernard Hooe Senr. father of Lucy Buckner the wife of the Defdt Ariss Buckner, in these words (here insert it) and proved that at the time of said removal the said Lucy Buckner was still living and had seven children then and yet living of whom three were Infants under the age of twenty one years, all which so <unclear extent="one word" reason="illegible">under</unclear> age, except one were living with the Defdt Ariss Buckner their father, and all who were of age knew of the said importations of the petitioners and were in the County of Washington when said <del>slaves</del> Petitioners were <gap extent="one word" reason="strikethrough"/> there and prayed the Court to instruct the Jury. That if they believe from the evidence the Petitioners to have been removed from the Commonwealth of Virginia to the said County of Washington by the said Ariss Buckner for sale or to reside as they charge, without the consent of each of the children as were under age, and of the guardians of such of them as were under the age of twenty one years
 
 <pb xml:id="p002" facs="oscys.case.0426.006.002.jpg"/>
 
