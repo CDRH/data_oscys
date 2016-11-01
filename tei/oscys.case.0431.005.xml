@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -101,13 +102,13 @@
             
 <particDesc>
 <listPerson type="oscys.caseid.0460"> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003563">
 <persName>Jackson, Henry</persName>
 </person>
 <person role="defendant" xml:id="per.000904">
 <persName>Buckner, Ariss</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003499">
 <persName>Buckner, Bernard H.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000873">
@@ -119,22 +120,22 @@
 </listPerson>
    
 <listPerson type="oscys.caseid.0461"> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003504">
 <persName>Jackson, Fanny</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003505">
 <persName>Jackson, Louisa</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003506">
 <persName>Jackson, Maria</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003507">
 <persName>Jackson, Robert</persName>
 </person>
 <person role="defendant" corresp="per.000904">
 <persName>Buckner, Ariss</persName>
 </person>
-<person role="defendant">
+<person role="defendant" corresp="per.003499">
 <persName>Buckner, Bernard H.</persName>
 </person>
 <person role="attorney_petitioner" corresp="per.000873">
@@ -155,6 +156,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-10-26" who="#lkw">added xml:ids</change>  
 <change when="2016-07-06" who="#snc">reviewed</change>           
 <change when="2016-06-27" who="#kln">transcribed, encoded</change>
 </revisionDesc>

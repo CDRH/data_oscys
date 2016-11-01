@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,16 +87,16 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Ball, Spencer M.</term>
-<term>Cleaveland, Harrison</term>
-<term>Fanny</term>
-<term>Hannah</term><!-- Sarah's child -->
-<term>Little, Charles</term>
-<term>Milly</term>
-<term>Moss, William</term>
-<term>Sarah</term>
-<term>Summers, Simon</term>
-<term>Will</term>
+<term xml:id="per.003597">Ball, Spencer M.</term>
+<term xml:id="per.003598">Cleaveland, Harrison</term>
+<term xml:id="per.003599">Fanny</term>
+<term xml:id="per.003600">Hannah</term><!-- Sarah's child -->
+<term xml:id="per.003004">Little, Charles</term>
+<term xml:id="per.003601">Milly</term>
+<term xml:id="per.003007">Moss, William</term>
+<term xml:id="per.003574">Sarah</term>
+<term xml:id="per.003575">Somers, Simon</term>
+<term xml:id="per.003584">Will</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -106,13 +107,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003571">
 <persName>Roberts, Julia</persName> 
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003572">
 <persName>Adams, Austin L.</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003573">
 <persName>Harding, Ann C.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -132,7 +133,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>     
+<revisionDesc>    
+<change when="2016-10-26" who="#lkw">added xml:ids; changed Summers to Somers; added the year 1812</change>  
 <change when="2016-07-13" who="#kln">reviewed, edited</change>        
 <change when="2016-07-06" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
@@ -151,7 +153,7 @@
 
 <p>A</p>
      
-<p>Know all men by these presents that I Simon Summers have in my possession the here after named people now in the County of Fairfax and state of Virginia which are slaves during their natural lives, which is Contrary to the spirit of Christianity or humanity, and whereas by an act of Assembly of said state, passed in the year of our Lord one thousand seven Hundred and seventy six, giving the holders of slaves liberty to manumit them: Or by these presents liberate each slave in the following manner. Negroes Milly about the age of 39 years, to be free the first day of <unclear reason="illegible">January</unclear>, Fanny about the age 39 years to be free the 1st day of January 1813 Sarah about the age of 18 years to be free 1st day of January 1814 Will about the age of 14 years to be free the 1st day of January 1818 Hannah Sarahs Child about the age of five months to be free the first day of January 1829 all the Children that may be born of Fanny and Sarah, to be free at the age of 25 years and their children and Hannahs children are to be free at the age of 21 years.</p>
+<p>Know all men by these presents that I Simon Summers have in my possession the here after named people now in the County of Fairfax and state of Virginia which are slaves during their natural lives, which is Contrary to the spirit of Christianity or humanity, and whereas by an act of Assembly of said state, passed in the year of our Lord one thousand seven Hundred and seventy six, giving the holders of slaves liberty to manumit them: Or by these presents liberate each slave in the following manner. Negroes Milly about the age of 39 years, to be free the first day of <unclear reason="illegible">January</unclear> 1812, Fanny about the age 39 years to be free the 1st day of January 1813 Sarah about the age of 18 years to be free 1st day of January 1814 Will about the age of 14 years to be free the 1st day of January 1818 Hannah Sarahs Child about the age of five months to be free the first day of January 1829 all the Children that may be born of Fanny and Sarah, to be free at the age of 25 years and their children and Hannahs children are to be free at the age of 21 years.</p>
 
 <p>As witness my hand and seal this 31st day of december 1801.<lb/>
 Simon Summers (seal)</p>

@@ -13,6 +13,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Hyman, Christy" xml:id="ch">Christy Hyman</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -21,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -85,11 +86,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">   
-<term>Bayly, Mountjoy</term>
+<term xml:id="per.003559">Bayly, Mountjoy</term>
 <term xml:id="per.000004">Cranch, William 1769-1855</term>
-<term>Langston, Thomas</term>
-<term>McIver, E.</term>
-<term>Withers, Car</term>
+<term xml:id="per.003560">Langston, Thomas</term>
+<term xml:id="per.003561">McIver, E.</term>
+<term xml:id="per.003562">Withers, Car</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -101,10 +102,10 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003557">
 <persName>Williams, Jane</persName> 
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003558">
 <persName>Love, Richard H.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -124,7 +125,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>   
+<change when="2016-10-26" who="#lkw">added xml:ids</change>           
 <change when="2016-07-15" who="#ch">transcribed and encoded</change>
 </revisionDesc>
 
