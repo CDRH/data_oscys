@@ -7405,12 +7405,13 @@ This file was compiled from information found in
 
 <!-- oscys.case.0104.008 start -->
 
+<!-- same as per.001851
 <person xml:id="per.000778" source="http://earlywashingtondc.org/doc/oscys.case.0104.008">
 <persName type="display">Armstead, Sarah</persName>
 <persName type="full"> <surname>Armstead</surname>, <forename type="first" full="yes">Sarah</forename> <forename type="middle" full="yes">Jane</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
-</person>
+</person>-->
 
 <person xml:id="per.000779" source="http://earlywashingtondc.org/doc/oscys.case.0104.008">
 <persName type="display">Davis, John</persName>
@@ -10871,8 +10872,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001162" source="http://earlywashingtondc.org/doc/oscys.case.147.008">
-<persName type="display">Dyre, Edward</persName>
-<persName type="full"> <surname>Dyre</surname>, <forename type="first" full="yes">Edward</forename></persName>
+<persName type="display">Dyer, Edward</persName>
+<persName type="full"> <surname>Dyer</surname>, <forename type="first" full="yes">Edward</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -11713,6 +11714,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Dyer</surname>, <forename type="first" full="init">E.</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
+<note>May be per.001162</note>
 </person>
 
 <person xml:id="per.001238" source="http://earlywashingtondc.org/doc/oscys.case.0168.001">
@@ -17721,8 +17723,8 @@ This file was compiled from information found in
 <!-- oscys.case.0243.002 start -->
 
 <person xml:id="per.001851" source="http://earlywashingtondc.org/doc/oscys.case.0243.002">
-<persName type="display">Armistead, Sarah Jane</persName>
-<persName type="full"> <surname>Armistead</surname>, <forename type="first" full="yes">Sarah</forename> <forename type="middle" full="yes">Jane</forename></persName>
+<persName type="display">O'Brien, Sarah Jane</persName>
+<persName type="full"> <surname>O'Brien</surname> <surname type="maiden">Armistead</surname> <addName type="maiden" subtype="alternate">Armstead</addName>, <forename type="first" full="yes">Sarah</forename> <forename type="middle" full="yes">Jane</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
