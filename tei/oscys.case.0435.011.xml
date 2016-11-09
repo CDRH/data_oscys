@@ -13,6 +13,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -21,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -87,16 +88,18 @@
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.001347">Alexander, Frances</term>
 <term xml:id="per.001343">Alexander, Richard B.</term>
-<term>Bronaugh, Carey</term>
+<term xml:id="per.003684">Bronaugh, Carey</term>
+<term xml:id="per.003632">Brown, Richard</term>
 <term xml:id="per.001346">Christy</term>
 <term xml:id="per.001352">Dunbar, Milly</term>
 <term xml:id="per.001345">Graham, Ann</term>
 <term xml:id="per.001342">Graham, Moses</term>
-<term>Hunter, Alexander</term><!-- may be per.000739 -->
+<term xml:id="per.003181">Hooe, Bernard</term>
+<term xml:id="per.003685">Hunter, Alexander</term><!-- may be per.000739 -->
 <term xml:id="per.001349">Jenny</term>
-<term>Jerry</term>
-<term>Minor, Thomas J.</term>
-<term>Simon</term>
+<term xml:id="per.003686">Jerry</term>
+<term xml:id="per.003687">Minor, Thomas J.</term>
+<term xml:id="per.003688">Simon</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -130,7 +133,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>            
+<change when="2016-10-26" who="#lkw">added xml:ids; added Bernard Hooe to people; added Richard Brown to people</change>   
 <change when="2016-07-06" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 

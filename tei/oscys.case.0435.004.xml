@@ -13,6 +13,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -21,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,15 +87,15 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.001343">Alexander, Richard B.</term><!-- Dr. Alexander -->
-<term>Cagely</term>
-<term>Causin, Nancy</term>
-<term>Curtis, Jacob</term>
-<term>Evans, William</term>
-<term>Hooe, Bernard</term>
-<term>Hunter</term>
-<term>Sherwood, William</term>
+<term xml:id="per.003633">Cagely</term>
+<term xml:id="per.003634">Causin, Nancy</term>
+<term xml:id="per.003639">Curtis, Jacob</term>
+<term xml:id="per.003635">Evans, William</term>
+<term xml:id="per.003181">Hooe, Bernard</term>
+<term xml:id="per.003640">Hunter</term>
+<term xml:id="per.003637">Sherwood, William</term>
 <term xml:id="per.000740">Smith, John A.</term>
-<term>Williams, Basil</term>
+<term xml:id="per.003638">Williams, Basil</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -133,6 +134,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2016-10-26" who="#lkw">added xml:ids</change>  
 <change when="2016-06-30" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 
