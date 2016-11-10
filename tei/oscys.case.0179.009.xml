@@ -13,6 +13,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -21,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -87,9 +88,9 @@
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.001347">Alexander, Frances</term>
 <term xml:id="per.001348">Brown, Elizabeth</term>
-<term>Coote, Clement T.</term>
+<term xml:id="per.003694">Coote, Clement T.</term>
 <term xml:id="per.001352">Dunbar, Milly</term>
-<term>Magruder, William</term>
+<term xml:id="per.003673">Magruder, William</term>
 <term xml:id="per.001357">Swann, Frances</term>
 </keywords>
 
@@ -128,7 +129,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>     
+<change when="2016-10-26" who="#lkw">added xml:ids</change>          
 <change when="2016-07-01" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 

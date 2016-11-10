@@ -152,7 +152,7 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.000004" source="http://earlywashingtondc.org/doc/oscys.case.0001.002">
-<persName type="display" source="#viaf">Cranch, William 1769-1855</persName> 
+<persName type="display" source="#viaf">Cranch, William, 1769-1855</persName> 
 <persName type="full"> <surname>Cranch</surname>, <forename type="first" full="yes">William</forename></persName>
 <birth when="1769" source="#viaf">1769</birth>
 <death when="1855" source="#viaf">1855</death>
@@ -2288,7 +2288,6 @@ This file was compiled from information found in
 <trait type="color"><ab>negro</ab></trait>
 <socecStatus>enslaved</socecStatus>
 <residence source="http://earlywashingtondc.org/doc/oscys.case.0029.004">Northumberland County (Va.)</residence>
-<residence>Northumberland County (Va.)</residence>
 </person>
 
 <person xml:id="per.000237" source="http://earlywashingtondc.org/doc/oscys.case.0029.001">
@@ -7409,12 +7408,13 @@ This file was compiled from information found in
 
 <!-- oscys.case.0104.008 start -->
 
+<!-- same as per.001851
 <person xml:id="per.000778" source="http://earlywashingtondc.org/doc/oscys.case.0104.008">
 <persName type="display">Armstead, Sarah</persName>
 <persName type="full"> <surname>Armstead</surname>, <forename type="first" full="yes">Sarah</forename> <forename type="middle" full="yes">Jane</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
-</person>
+</person>-->
 
 <person xml:id="per.000779" source="http://earlywashingtondc.org/doc/oscys.case.0104.008">
 <persName type="display">Davis, John</persName>
@@ -7945,8 +7945,8 @@ This file was compiled from information found in
 <!-- oscys.case.0105.007 start -->
 
 <person xml:id="per.000840" source="http://earlywashingtondc.org/doc/oscys.case.0105.007">
-<persName type="display">Simsen, John</persName>
-<persName type="full"> <surname>Simsen</surname>, <forename type="first" full="yes">John</forename></persName>
+<persName type="display">Smiser, John</persName>
+<persName type="full"> <surname>Smiser</surname>, <forename type="first" full="yes">John</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -10877,8 +10877,8 @@ This file was compiled from information found in
 </person>
 
 <person xml:id="per.001162" source="http://earlywashingtondc.org/doc/oscys.case.147.008">
-<persName type="display">Dyre, Edward</persName>
-<persName type="full"> <surname>Dyre</surname>, <forename type="first" full="yes">Edward</forename></persName>
+<persName type="display">Dyer, Edward</persName>
+<persName type="full"> <surname>Dyer</surname>, <forename type="first" full="yes">Edward</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -11719,6 +11719,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Dyer</surname>, <forename type="first" full="init">E.</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
+<note>May be per.001162</note>
 </person>
 
 <person xml:id="per.001238" source="http://earlywashingtondc.org/doc/oscys.case.0168.001">
@@ -12727,6 +12728,8 @@ This file was compiled from information found in
 <trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0179.002" when="1840-04"><ab>negro</ab></trait>
 <socecStatus when="1840-03">enslaved</socecStatus>
 <socecStatus when="1843-01" source="http://earlywashingtondc.org/doc/oscys.report.0028.001">free</socecStatus>
+<socecStatus when="1844-12-25" source="http://earlywashingtondc.org/doc/oscys.case.0179.007">free</socecStatus>
+<birth source="http://earlywashingtondc.org/doc/oscys.case.0435.011" when="1813-12-25">December 25, 1813</birth>
 </person>
 
 <person xml:id="per.001343" source="http://earlywashingtondc.org/doc/oscys.case.0179.001">
@@ -12734,6 +12737,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Alexander</surname>, <forename type="first" full="yes">Richard</forename> <forename type="middle" full="init">B.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<occupation source="http://earlywashingtondc.org/doc/oscys.case.0179.009">doctor</occupation>
 </person>
 
 <!-- oscys.case.0179.001 end -->
@@ -12755,6 +12759,7 @@ This file was compiled from information found in
 <sex>female</sex>
 <trait type="color"><ab>colored</ab></trait>
 <socecStatus source="http://earlywashingtondc.org/doc/oscys.case.0435.001">free</socecStatus>
+<birth  source="http://earlywashingtondc.org/doc/oscys.case.0435.011" when="1807">1807</birth>
 </person>
 
 <person xml:id="per.001346" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
@@ -12762,6 +12767,7 @@ This file was compiled from information found in
 <persName type="full"><forename type="first" full="yes">Christy</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<birth  source="http://earlywashingtondc.org/doc/oscys.case.0435.011" when="1821-12">December 1821</birth>
 </person>
 
 <person xml:id="per.001347" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
@@ -12769,6 +12775,7 @@ This file was compiled from information found in
 <persName type="full"><surname>Alexander</surname>, <forename type="first" full="yes">Frances</forename> <surname type="maiden">Brown</surname></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<death when="1823" source="http://earlywashingtondc.org/doc/oscys.case.0179.010">1823</death>
 </person>
 
 <person xml:id="per.001348" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
@@ -12787,6 +12794,7 @@ This file was compiled from information found in
 <persName type="full"><forename type="first" full="yes">Jenny</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<birth source="http://earlywashingtondc.org/doc/oscys.case.0435.011" when="1816-09">September 1816</birth>
 </person>
 
 <person xml:id="per.001350" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
@@ -12849,6 +12857,7 @@ This file was compiled from information found in
 <persName type="full"><surname>Swann</surname>, <forename type="first" full="yes">Frances</forename> <surname type="maiden">Brown</surname></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<residence>Fairfax County (Va.)</residence>
 </person>
 
 <person xml:id="per.001358" source="http://earlywashingtondc.org/doc/oscys.case.0179.003">
@@ -15979,12 +15988,13 @@ This file was compiled from information found in
 <persName type="full"> <surname>Allen</surname>, <forename type="first" full="yes">Sarah</forename> <forename type="first" full="yes">Ann</forename></persName>
 <sex>female</sex>
 <age when="1826-08" source="http://earlywashingtondc.org/doc/oscys.case.0205.009">19</age>
-<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.005"><ab>negro</ab></trait>
-<socecStatus>enslaved</socecStatus>
-<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.007"><ab>negro</ab></trait>
+<!--<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.005"><ab>negro</ab></trait>
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.007"><ab>negro</ab></trait>-->
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0205.009"><ab>negro</ab>
+<note>"of dark complexion aged about nineteen years, about five feet two and an half inches high, large full mouth, a small scar on her forehead, a small scar on her left fore finger between the second and third joints"</note>
+</trait>
 <socecStatus>enslaved</socecStatus>
 <socecStatus when="1826-09-26" source="http://earlywashingtondc.org/doc/oscys.case.0205.007">free</socecStatus>
-<note>Physical description in oscys.case.0205.009.</note>
 </person>
 
 <person xml:id="per.001687" source="http://earlywashingtondc.org/doc/oscys.case.0205.001">
@@ -17739,8 +17749,8 @@ This file was compiled from information found in
 <!-- oscys.case.0243.002 start -->
 
 <person xml:id="per.001851" source="http://earlywashingtondc.org/doc/oscys.case.0243.002">
-<persName type="display">Armistead, Sarah Jane</persName>
-<persName type="full"> <surname>Armistead</surname>, <forename type="first" full="yes">Sarah</forename> <forename type="middle" full="yes">Jane</forename></persName>
+<persName type="display">O'Brien, Sarah Jane</persName>
+<persName type="full"> <surname>O'Brien</surname> <surname type="maiden">Armistead</surname> <addName type="maiden" subtype="alternate">Armstead</addName>, <forename type="first" full="yes">Sarah</forename> <forename type="middle" full="yes">Jane</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -24131,10 +24141,10 @@ This file was compiled from information found in
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
 <residence source="http://earlywashingtondc.org/doc/oscys.case.0337.005">Maryland</residence>
-<residence source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Washington (D.C.)</residence>
-<residence source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Georgetown (Washington, D.C.)</residence>
+<residence notAfter="1820-05" source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Washington (D.C.)</residence>
+<residence when="1820-05" source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Prince George's County (Md.)</residence>
 <residence when="1820-12-07" source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Fredericksburg (Va.)</residence>
-<residence when="1820-12" source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Washington (D.C.)</residence>
+<residence when="1821-12" source="http://earlywashingtondc.org/doc/oscys.case.0337.003">Washington (D.C.)</residence>
 </person>
 
 <!-- oscys.case.0337.001 end -->
@@ -29113,7 +29123,7 @@ This file was compiled from information found in
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <residence>Prince George's County (Md.)</residence>
-<death notBefore="1810-01-08"  source="http://earlywashingtondc.org/doc/oscys.case.0382.004">after 1810-01-08</death>
+<death notBefore="1810-01-08" source="http://earlywashingtondc.org/doc/oscys.case.0382.004">after January 8, 1810</death>
 </person>
 
 <person xml:id="per.003033" source="http://earlywashingtondc.org/doc/oscys.case.0382.003">
@@ -35371,6 +35381,8 @@ per.001746
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <note>Last name unknown.</note>
+<socecStatus>enslaved</socecStatus>
+<birth  source="http://earlywashingtondc.org/doc/oscys.case.0435.011" when="1814-09-01">September 1, 1814</birth>
 </person>
 
 <person xml:id="per.003687" source="http://earlywashingtondc.org/doc/oscys.case.0435.011">
@@ -35386,6 +35398,8 @@ per.001746
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <note>Last name unknown.</note>
+<socecStatus>enslaved</socecStatus>
+<birth  source="http://earlywashingtondc.org/doc/oscys.case.0435.011" when="1823-03-06">March 6, 1823</birth>
 </person>
 
 <!-- oscys.case.0435.011 end -->
@@ -35440,8 +35454,38 @@ per.001746
 
 <!-- no unique people oscys.case.0435.017 -->
 
+<!-- start new documents from cases already encoded -->
 
-<!-- oscys.case.0435.017 start -->
+<!-- no unique people oscys.case.0179.007 -->
+
+<!-- oscys.case.0179.008 start -->
+
+<person xml:id="per.003693" source="http://earlywashingtondc.org/doc/oscys.case.0179.008">
+<persName type="display">Magruder</persName>
+<persName type="full"> <surname>Magruder</surname> <surname type="birth">Brown</surname></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<note>First name unknown. Wife of William Magruder (per.003673).</note>
+</person>
+
+<!-- oscys.case.0179.008 end -->
+
+<!-- oscys.case.0179.009 start -->
+
+<person xml:id="per.003694" source="http://earlywashingtondc.org/doc/oscys.case.0179.009">
+<persName type="display">Coote, Clement T.</persName>
+<persName type="full"> <surname>Coote</surname>, <forename type="first" full="yes">Clement</forename> <forename type="middle" full="init">T.</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>justice of the peace</occupation>
+</person>
+
+<!-- oscys.case.0179.009 end -->
+
+<!-- no unique people oscys.case.0179.010 -->
+<!-- no unique people oscys.case.0179.011 -->
+
+<!-- oscys.case.0179.011 start -->
 
 
 <!--
