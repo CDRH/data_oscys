@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -87,17 +88,19 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Brenner, Joseph</term> 
-<term>Brent, Christopher</term>
+<term xml:id="per.003748">Brenner, Joseph</term> 
+<term xml:id="per.003749">Brent, Christopher</term>
 <term xml:id="per.001146">Clarke, William</term>
 <term xml:id="per.000490">Forrest, John B.</term>
-<term>Glover, Charles</term>
-<term>Grammer, G. C.</term>
-<term>Hughes, John</term>
-<term>King, George, Jr.</term><!-- same as or son of per.001575? -->
-<term>Lyons, John</term>
-<term>Thomson, George</term>
-<term>Waters, Thomas G.</term>
+<term xml:id="per.003750">Glover, Charles</term>
+<term xml:id="per.003751">Grammer, G. C.</term>
+<term xml:id="per.003752">Hughes, John</term>
+<term xml:id="per.003753">King, George, Jr.</term><!-- same as or son of per.001575? -->
+<term xml:id="per.003754">Lyons, John</term><!-- may be per.000647 -->
+<term xml:id="per.003755">Steel, William</term>
+<term xml:id="per.003756">Thomson, George</term>
+<term xml:id="per.003757">Waters, Thomas G.</term>
+<term xml:id="per.000109">Washington, Bailey</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -136,6 +139,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-10-26" who="#lkw">added xml:ids; added Steel and Washington to people</change>  
 <change when="2016-08-05" who="#kln">reviewed, edited</change>
 <change when="2016-07-13" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
