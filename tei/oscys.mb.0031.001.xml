@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,17 +88,17 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Crandle, George</term>
-<term>Crockwell, John</term>
-<term>Easby, William</term>
-<term>Hanson, Samuel</term>
-<term>Hopkins, George W.</term>
-<term>Jones, Richard</term>
+<term xml:id="per.003843">Crandle, George</term>
+<term xml:id="per.003870">Crockwell, John</term>
+<term xml:id="per.003871">Easby, William</term>
+<term xml:id="per.003872">Hanson, Samuel</term>
+<term xml:id="per.003873">Hopkins, George W.</term>
+<term xml:id="per.003874">Jones, Richard</term>
 <term xml:id="per.001290">MacGill, Thomas</term><!-- Magill -->
-<term>Matlock, Simeon</term>
-<term>Marshall, James</term>
-<term>Neale, John E.</term>
-<term>Washington, N. C.</term>
+<term xml:id="per.003875">Matlock, Simeon</term>
+<term xml:id="per.003876">Marshall, James</term>
+<term xml:id="per.003877">Neale, John E.</term>
+<term xml:id="per.003878">Washington, N. C.</term>
 <term xml:id="per.000979">Waters, William N.</term>
 </keywords>
 
@@ -137,6 +138,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-11-18" who="#lkw">added xml:ids</change>  
 <change when="2016-08-09" who="#kln">reviewed, edited</change> 
 <change when="2016-07-22" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

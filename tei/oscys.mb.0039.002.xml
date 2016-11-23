@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -89,42 +90,42 @@
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.001694">Ashton, Leonard</term>
 <term xml:id="per.001695">Boone, Arnold</term>
-<term>Bradley, Henry</term>
+<term xml:id="per.003929">Bradley, Henry</term>
 <term xml:id="per.001693">Brereton, Samuel</term>
 <term xml:id="per.000970">Burns, Benjamin</term>
-<term>Callan, John F.</term>
-<term>Colburn, James</term>
-<term>Donn, Thomas C.</term>
-<term>Dowson, Alfred R.</term>
-<term>Dougherty, William</term>
-<term>Edes, William H.</term><!-- Edds -->
-<term>Ferguson, John B.</term>
-<term>Force, Peter</term>
-<term>Hebb, William</term>
+<term xml:id="per.003930">Callan, John F.</term>
+<term xml:id="per.003931">Colburn, James</term>
+<term xml:id="per.003932">Donn, Thomas C.</term>
+<term xml:id="per.003763">Dowson, Alfred R.</term>
+<term xml:id="per.003933">Dougherty, William</term>
+<term xml:id="per.003905">Edes, William H.</term><!-- Edds -->
+<term xml:id="per.000782">Ferguson, John B.</term>
+<term xml:id="per.003934">Force, Peter</term>
+<term xml:id="per.003509">Hebb, William</term>
 <term xml:id="per.001175">Fuller, Azariah</term><!-- Asariah -->
-<term>Hurdle, Noble</term>
-<term>Kelby, William B.</term>
-<term>Kirby, Samuel</term>
-<term>Lyons, Charles</term>
-<term>Marshall</term>
-<term>McGee, William</term>
+<term xml:id="per.003889">Hurdle, Noble</term>
+<term xml:id="per.003935">Kelby, William B.</term>
+<term xml:id="per.003936">Kirby, Samuel</term>
+<term xml:id="per.003937">Lyons, Charles</term>
+<term xml:id="per.003938">Marshall</term>
+<term xml:id="per.003939">McGee, William</term>
 <term xml:id="per.001697">Magill, William</term><!-- McGill -->
 <term xml:id="per.001698">Meade, Fanny</term>
 <term xml:id="per.001688">Meade, James</term>
 <term xml:id="per.001621">Morsell, Benjamin K.</term>
-<term>Morsell, Richard J.</term>
+<term xml:id="per.003329">Morsell, Richard J.</term>
 <term xml:id="per.001045">Nailor, Allison</term>
-<term>Owens, James</term>
-<term>Parker, George</term>
-<term>Sewall, Bennet</term>
-<term>Smith, Anthony</term>
+<term xml:id="per.003867">Owens, James</term>
+<term xml:id="per.003940">Parker, George</term>
+<term xml:id="per.003891">Sewall, Bennet</term>
+<term xml:id="per.003892">Smith, Anthony</term>
 <term xml:id="per.002240">Stettinius, Samuel</term>
-<term>Stettinius, William</term>
-<term>Summers, James</term>
+<term xml:id="per.003941">Stettinius, William</term>
+<term xml:id="per.003849">Summers, James</term>
 <term xml:id="per.001699">Wallingsford, Amelia</term>
 <term xml:id="per.000660">Weightman, Roger Chew, 1787-1786</term>
-<term>Williams, Philip</term>
-<term>Young, Abner H.</term>
+<term xml:id="per.003893">Williams, Philip</term>
+<term xml:id="per.003917">Young, Abner H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -172,6 +173,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-22" who="#lkw">added xml:ids</change> 
 <change when="2016-08-10" who="#kln">reviewed, edited</change>
 <change when="2016-07-18" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -88,26 +89,26 @@
 
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.001793">Casanave, Peter</term>
-<term>Clarke, Walter</term><!-- per.000287 ?? -->
-<term>Crandle, George</term>
-<term>Edes, William H.</term>
-<term>Everett, James</term>
-<term>Green, William</term>
-<term>Haney, Hugh</term>
-<term>Harbaugh, Leonard</term>
+<term xml:id="per.003904">Clarke, Walter</term><!-- per.000287 ?? -->
+<term xml:id="per.003843">Crandle, George</term>
+<term xml:id="per.003905">Edes, William H.</term>
+<term xml:id="per.003906">Everett, James</term>
+<term xml:id="per.003907">Green, William</term>
+<term xml:id="per.003908">Haney, Hugh</term>
+<term xml:id="per.003909">Harbaugh, Leonard</term>
 <term xml:id="per.001797">Kennedy, James</term>
-<term>Lawner, Michael</term>
-<term>Lloyd, Thomas</term>
-<term>Maddox, William R.</term>
-<term>Myer, F. L.</term>
+<term xml:id="per.003910">Larner, Michael</term>
+<term xml:id="per.003911">Lloyd, Thomas</term>
+<term xml:id="per.003864">Maddox, William R.</term>
+<term xml:id="per.003912">Myer, F. L.</term>
 <term xml:id="per.001150">Orme, William C.</term>
-<term>Russell, Frederick A.</term>
-<term>Stillings, John</term>
-<term>Stott, Samuel</term>
-<term>Thompson, William</term>
+<term xml:id="per.003913">Russell, Frederick A.</term>
+<term xml:id="per.003914">Stillings, John</term>
+<term xml:id="per.003915">Stott, Samuel</term>
+<term xml:id="per.003916">Thompson, William</term>
 <term xml:id="per.000979">Waters, William N.</term>
 <term xml:id="per.000513">Wharton, Charles H. W.</term>
-<term>Young, Abner H.</term>
+<term xml:id="per.003917">Young, Abner H.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -146,6 +147,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-22" who="#lkw">added xml:ids</change> 
 <change when="2016-08-10" who="#kln">reviewed, edited</change>
 <change when="2016-07-22" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

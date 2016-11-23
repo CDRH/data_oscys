@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,24 +88,24 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Bradley, P.</term>
-<term>Bradley, W. A.</term>
-<term>Butt, Richard</term> 
+<term xml:id="per.003841">Bradley, P.</term>
+<term xml:id="per.003842">Bradley, W. A.</term>
+<term xml:id="per.001861">Butt, Richard</term> 
 <term xml:id="per.000870">Clarke, Edward W.</term>
-<term>Crandle, George</term>
-<term>Dean, William</term>
-<term>Drury, Samuel</term>
+<term xml:id="per.003843">Crandle, George</term>
+<term xml:id="per.003844">Dean, William</term>
+<term xml:id="per.003845">Drury, Samuel</term>
 <term xml:id="per.001162">Dyer, Edward</term>
-<term>Gittings, Benjamin E.</term>
-<term>Gittings, Martin L.</term>
+<term xml:id="per.003846">Gittings, Benjamin E.</term>
+<term xml:id="per.003847">Gittings, Martin L.</term>
 <term xml:id="per.001285">Goddard, John H.</term>
 <term xml:id="per.000813">Grimes, John</term>
-<term>King, Vincent</term>
-<term>Lambright, George</term>
-<term>Middleton, James</term>
-<term>Robertson, Henry B.</term><!-- probably same as per.001807 and/or per.000899 -->
-<term>Summers, James</term>
-<term>Waters, William N.</term>
+<term xml:id="per.001287">King, Vincent</term>
+<term xml:id="per.003848">Lambright, George</term>
+<term xml:id="per.003742">Middleton, James</term>
+<term xml:id="per.000899">Robertson, Henry B.</term><!-- probably same as per.001807 and/or per.000899 -->
+<term xml:id="per.003849">Summers, James</term>
+<term xml:id="per.000979">Waters, William N.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -149,6 +150,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-10-26" who="#lkw">added xml:ids</change>  
 <change when="2016-08-09" who="#kln">reviewed, edited</change>
 <change when="2016-07-22" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,20 +88,20 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Anderson, Robert P.</term>
+<term xml:id="per.003779">Anderson, Robert P.</term>
 <term xml:id="per.001792">Birth, James</term>
-<term>Callan, Nicholas</term>
+<term xml:id="per.003781">Callan, Nicholas</term>
 <term xml:id="per.001794">Cover, George</term>
-<term>Coppersmith, John</term>
-<term>Cripps, William L.</term>
-<term>Harrison, Samuel</term>
-<term>Hines, Matthew</term>
-<term>Hughes, David</term>
-<term>Masi, Seraphim</term>
-<term xml:id="per.002540">McCandless, George</term>
-<term>Miller, Thomas, Jr.</term>
-<term>Nicholls, Isaac S.</term>
-<term>Williams, John</term>
+<term xml:id="per.003797">Coppersmith, John</term>
+<term xml:id="per.003782">Cripps, William L.</term>
+<term xml:id="per.003798">Harrison, Samuel</term><!-- not per.003104 -->
+<term xml:id="per.003787">Hines, Matthew</term>
+<term xml:id="per.003788">Hughes, David</term>
+<term xml:id="per.003790">Masi, Seraphim</term>
+<term xml:id="per.002540">McCandless, George</term><!-- witness -->
+<term xml:id="per.003799">Miller, Thomas, Jr.</term><!-- witness -->
+<term xml:id="per.003792">Nicholls, Isaac S.</term>
+<term xml:id="per.003796">Williams, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -139,6 +140,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-10-26" who="#lkw">added xml:ids</change>  
 <change when="2016-08-08" who="#kln">reviewed, edited</change>
 <change when="2016-07-25" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

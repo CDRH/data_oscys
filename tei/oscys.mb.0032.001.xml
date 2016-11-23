@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,20 +88,20 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Bayly, Benjamin S.</term>
-<term>Bradley, Charles</term>
+<term xml:id="per.003879">Bayly, Benjamin S.</term>
+<term xml:id="per.003880">Bradley, Charles</term>
 <term xml:id="per.001282">Campbell, Daniel</term>
-<term>Clepham, James</term>
-<term>Cross, Henry L.</term>
-<term>Duffy, Matthias</term>
-<term>Fuller, A.</term>
-<term>Fulton, Charles C.</term>
-<term>Gittings, Martin L.</term>
-<term>Hall, James C.</term><!-- probably per.001068 -->
-<term>Hyde, Thomas V.</term><!-- per.001574 ? -->
-<term>Lindsay, Abraham B.</term>
-<term>Porter, Daniel P.</term>
-<term>Wheatly, Francis</term>
+<term xml:id="per.003881">Clepham, James</term>
+<term xml:id="per.003851">Cross, Henry L.</term>
+<term xml:id="per.003882">Duffy, Matthias</term>
+<term xml:id="per.003883">Fuller, A.</term><!-- witness  -->
+<term xml:id="per.003884">Fulton, Charles C.</term>
+<term xml:id="per.003847">Gittings, Martin L.</term>
+<term xml:id="per.001068">Hall, James C.</term><!-- witness -->
+<term xml:id="per.001574">Hyde, Thomas V.</term>
+<term xml:id="per.003885">Lindsay, Abraham B.</term>
+<term xml:id="per.003857">Porter, Daniel P.</term>
+<term xml:id="per.003859">Wheatly, Francis</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -139,6 +140,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-18" who="#lkw">added xml:ids</change> 
 <change when="2016-08-09" who="#kln">reviewed, edited</change>
 <change when="2016-07-22" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
