@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,23 +88,23 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Bayly, Mountjoy</term><!-- Bailey -->
-<term>Blackwell, George W. B.</term>
-<term>Boone, Francis</term>
-<term>Cooke, Thomas</term>
-<term>Forrest, Benjamin S.</term>
+<term xml:id="per.003559">Bayly, Mountjoy</term>
+<term xml:id="per.004015">Blackwell, George W. B.</term>
+<term xml:id="per.003732">Boone, Francis</term>
+<term xml:id="per.003738">Cooke, Thomas</term>
+<term xml:id="per.004016">Forrest, Benjamin S.</term>
 <term xml:id="per.001456">Greenfield, Walter</term>
-<term>Gustine, Robert G.</term>
+<term xml:id="per.004017">Gustine, Robert G.</term>
 <term xml:id="per.001287">King, Vincent</term>
-<term>Lookerman, John</term>
+<term xml:id="per.004018">Lookerman, John</term>
 <term xml:id="per.001458">Moore, William</term>
-<term>Mudd, Jeremiah</term>
+<term xml:id="per.003711">Mudd, Jeremiah</term>
 <term xml:id="per.001579">Naylor, John L.</term>
-<term>Newton, Clement</term>
-<term>Reynolds, Thomas</term>
+<term xml:id="per.003712">Newton, Clement</term>
+<term xml:id="per.003728">Reynolds, Thomas</term>
 <term xml:id="per.001582">Stelle, Pontius D.</term>
-<term>Stone, Edward</term>
-<term>Washington, Robert P.</term>
+<term xml:id="per.004019">Stone, Edward</term>
+<term xml:id="per.004020">Washington, Robert P.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -148,6 +149,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-22" who="#lkw">added xml:ids</change> 
 <change when="2016-08-12" who="#kln">reviewed, edited</change>
 <change when="2016-07-14" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

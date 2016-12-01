@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,23 +88,23 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Avery, George D.</term>
-<term>Baker, John</term>
-<term>Clagett, Walter</term><!-- could be per.002972 -->
-<term>G., John</term>
-<term>Harrison, Gustavus</term>
-<term>Kurtz, Daniel</term>
-<term>Magruder, Peter</term>
-<term>McWilliams, Clement</term>
-<term>Peck, Enos</term>
-<term>Ragan, Ann</term>
-<term>Reed, Robert</term>
-<term>Reed, Sandford</term>
-<term>Robinson</term>
-<term>Russell, Frederick A.</term>
-<term>Smith, Henry</term>
-<term>Stettinius, John</term>
-<term>Wilson, Thomas</term>
+<term xml:id="per.003988">Avery, George D.</term>
+<term xml:id="per.003989">Baker, John</term><!-- coule be per.002530 -->
+<term xml:id="per.003990">Clagett, Walter</term><!-- could be per.002972 -->
+<term xml:id="per.003991">Goszler, John</term>
+<term xml:id="per.003992">Harrison, Gustavus</term>
+<term xml:id="per.003993">Kurtz, Daniel</term>
+<term xml:id="per.003994">Magruder, Peter</term>
+<term xml:id="per.003777">McWilliams, Clement</term>
+<term xml:id="per.003995">Peck, Enos</term>
+<term xml:id="per.003996">Ragan, Ann</term>
+<term xml:id="per.003997">Reed, Robert</term>
+<term xml:id="per.003998">Reed, Sandford</term>
+<term xml:id="per.003999">Robinson</term>
+<term xml:id="per.003913">Russell, Frederick A.</term>
+<term xml:id="per.004000">Smith, Henry</term>
+<term xml:id="per.004001">Stettinius, John</term>
+<term xml:id="per.004002">Wilson, Thomas</term>
 <term xml:id="per.001262">Wiltberger, Charles H.</term>
 </keywords>
 
@@ -146,6 +147,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-11-22" who="#lkw">added xml:ids; added last name for John Goszler</change> 
 <change when="2016-08-11" who="#kln">reviewed, edited</change> 
 <change when="2016-07-13" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
@@ -181,7 +183,7 @@ N Pross as to the Child Charlotte</p>
 <item>John Baker</item>
 <item>Robt Reed</item>
 <item>Sandford Reed</item>
-<item>John G<gap extent="about six characters" reason="illegible"/></item>
+<item>John <unclear reason="illegible">Goszler</unclear></item>
 <item>Mr Robinson</item>
 </list>
 

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,19 +88,19 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Boutcher, Alfred H.</term>
-<term>Brooke, Walter T.</term>
-<term>Clark, John F.</term><!-- Clarke -->
-<term>Cross, Henry L.</term>
-<term>Dixon, John</term>
-<term>Lowry, James H.</term>
-<term>Orme, Jeremiah</term>
-<term>Reitz, Frederick</term>
-<term>Stevens, Paul</term><!-- Stephens -->
-<term>Stuart, David</term>
-<term>Taylor, Thomas</term>
-<term>White, Robert</term>
-<term>Williams, Philip</term>
+<term xml:id="per.003780">Boutcher, Alfred H.</term>
+<term xml:id="per.004045">Brooke, Walter T.</term>
+<term xml:id="per.003804">Clark, John F.</term>
+<term xml:id="per.003851">Cross, Henry L.</term>
+<term xml:id="per.003783">Dixon, John</term>
+<term xml:id="per.004046">Lowry, James H.</term>
+<term xml:id="per.004047">Orme, Jeremiah</term>
+<term xml:id="per.004048">Reitz, Frederick</term>
+<term xml:id="per.003834">Stevens, Paul</term>
+<term xml:id="per.004049">Stuart, David</term>
+<term xml:id="per.004050">Taylor, Thomas</term>
+<term xml:id="per.004051">White, Robert</term>
+<term xml:id="per.003893">Williams, Philip</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -144,6 +145,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-30" who="#lkw">added xml:ids</change>
 <change when="2016-08-12" who="#kln">reviewed, edited</change>
 <change when="2016-08-01" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

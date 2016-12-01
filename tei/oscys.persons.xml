@@ -3556,14 +3556,14 @@ This file was compiled from information found in
 <person xml:id="per.000385" source="http://earlywashingtondc.org/doc/oscys.case.0036.010">
 <persName type="display">Lowe, Samuel P.</persName>
 <persName type="full"> <surname>Lowe</surname> <addName type="surname" subtype="alternate">Lorve</addName>, <forename type="first" full="yes">Samuel</forename> <addName type="forename" subtype="alternate">Saml</addName> <forename type="middle" full="init">P.</forename></persName>
-<sex></sex>
+<sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.000386" source="http://earlywashingtondc.org/doc/oscys.case.0036.010">
 <persName type="display">Lurty, Chloe</persName>
 <persName type="full"> <surname>Lurty</surname>, <forename type="first" full="yes">Chloe</forename></persName>
-<sex></sex>
+<sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
@@ -34202,7 +34202,7 @@ per.001746
 
 <person xml:id="per.003559" source="http://earlywashingtondc.org/doc/oscys.case.0430.005">
 <persName type="display">Bayly, Mountjoy</persName>
-<persName type="full"> <surname>Bayly</surname>, <forename type="first" full="yes">Mountjoy</forename></persName>
+<persName type="full"> <surname>Bayly</surname> <addName>Bailey</addName>, <forename type="first" full="yes">Mountjoy</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <idno>http://viaf.org/viaf/39302839</idno>
@@ -36306,7 +36306,7 @@ per.001746
 
 <person xml:id="per.003804" source="http://earlywashingtondc.org/doc/oscys.mb.0026.002">
 <persName type="display">Clark, John F.</persName>
-<persName type="full"> <surname>Clark</surname>, <forename type="first" full="yes">John</forename> <forename type="middle" full="init">F.</forename></persName>
+<persName type="full"> <surname>Clark</surname> <addName type="last" subtype="alternate">Clarke</addName>, <forename type="first" full="yes">John</forename> <forename type="middle" full="init">F.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -37322,7 +37322,7 @@ per.001746
 
 <person xml:id="per.003939" source="http://earlywashingtondc.org/doc/oscys.mb.0039.002">
 <persName type="display">McGee, William</persName>
-<persName type="full"> <surname>McGee</surname>, <forename type="first" full="yes">William</forename></persName>
+<persName type="full"> <surname>McGee</surname> <addName type="last" subtype="alternate">Magee</addName>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -37631,71 +37631,614 @@ per.001746
 <!-- oscys.mb.0045.001 start -->
 
 <person xml:id="per.003979" source="http://earlywashingtondc.org/doc/oscys.mb.0045.001">
-<persName type="display"></persName>
-<persName type="full"> <surname></surname>, <forename type="first" full="yes"></forename></persName>
-<sex></sex>
+<persName type="display">Boucher, Theodore</persName>
+<persName type="full"> <surname>Boucher</surname>, <forename type="first" full="yes">Theodore</forename></persName>
+<sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.003980" source="http://earlywashingtondc.org/doc/oscys.mb.0045.001">
-<persName type="display"></persName>
-<persName type="full"> <surname></surname>, <forename type="first" full="yes"></forename></persName>
-<sex></sex>
+<persName type="display">Corrock, Thomas</persName>
+<persName type="full"> <surname>Corrock, Thomas</surname>, <forename type="first" full="yes"></forename></persName>
+<sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.003981" source="http://earlywashingtondc.org/doc/oscys.mb.0045.001">
-<persName type="display"></persName>
-<persName type="full"> <surname></surname>, <forename type="first" full="yes"></forename></persName>
-<sex></sex>
+<persName type="display">Coombes, Michael R.</persName>
+<persName type="full"> <surname>Coombes, Michael R.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.003982" source="http://earlywashingtondc.org/doc/oscys.mb.0045.001">
-<persName type="display"></persName>
-<persName type="full"> <surname></surname>, <forename type="first" full="yes"></forename></persName>
-<sex></sex>
+<persName type="display">Davis, Joseph W.</persName>
+<persName type="full"> <surname>Davis, Joseph W.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.003983" source="http://earlywashingtondc.org/doc/oscys.mb.0045.001">
-<persName type="display"></persName>
-<persName type="full"> <surname></surname>, <forename type="first" full="yes"></forename></persName>
-<sex></sex>
+<persName type="display">Guy, Benjamin F.</persName>
+<persName type="full"> <surname>Guy, Benjamin F.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.003984" source="http://earlywashingtondc.org/doc/oscys.mb.0045.001">
-<persName type="display"></persName>
-<persName type="full"> <surname></surname>, <forename type="first" full="yes"></forename></persName>
-<sex></sex>
+<persName type="display">Harbaugh, Edward L.</persName>
+<persName type="full"> <surname>Harbaugh, Edward L.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.003985" source="http://earlywashingtondc.org/doc/oscys.mb.0045.001">
-<persName type="display"></persName>
-<persName type="full"> <surname></surname>, <forename type="first" full="yes"></forename></persName>
-<sex></sex>
+<persName type="display">Harris, James</persName>
+<persName type="full"> <surname>Harris, James</surname>, <forename type="first" full="yes"></forename></persName>
+<sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.003986" source="http://earlywashingtondc.org/doc/oscys.mb.0045.001">
-<persName type="display"></persName>
-<persName type="full"> <surname></surname>, <forename type="first" full="yes"></forename></persName>
-<sex></sex>
+<persName type="display">Lord, Francis B.</persName>
+<persName type="full"> <surname>Lord, Francis B.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.003987" source="http://earlywashingtondc.org/doc/oscys.mb.0045.001">
-<persName type="display"></persName>
-<persName type="full"> <surname></surname>, <forename type="first" full="yes"></forename></persName>
-<sex></sex>
+<persName type="display">Smith, James</persName>
+<persName type="full"> <surname>Smith, James</surname>, <forename type="first" full="yes"></forename></persName>
+<sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <!-- oscys.mb.0045.001 end -->
 
-<!-- oscys.mb.0046.001 start -->
+<!-- no unique people oscys.mb.0046.001 -->
+
+<!-- oscys.mb.0046.002 start -->
+
+<person xml:id="per.003988" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Avery, George D.</persName>
+<persName type="full"> <surname>Avery</surname>, <forename type="first" full="yes">George</forename> <forename type="middle" full="init">D.</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003989" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Baker, John</persName>
+<persName type="full"> <surname>Baker</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003990" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Clagett, Walter</persName>
+<persName type="full"> <surname>Clagett</surname>, <forename type="first" full="yes">Walter</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003991" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Goszler, John</persName>
+<persName type="full"> <surname>Goszler</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003992" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Harrison, Gustavus</persName>
+<persName type="full"> <surname>Harrison</surname>, <forename type="first" full="yes">Gustavus</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003993" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Kurtz, Daniel</persName>
+<persName type="full"> <surname>Kurtz</surname>, <forename type="first" full="yes">Daniel</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003994" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Magruder, Peter</persName>
+<persName type="full"> <surname>Magruder</surname>, <forename type="first" full="yes">Peter</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003995" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Peck, Enos</persName>
+<persName type="full"> <surname>Peck</surname>, <forename type="first" full="yes">Enos</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003996" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Ragan, Ann</persName>
+<persName type="full"> <surname>Ragan</surname>, <forename type="first" full="yes">Ann</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003997" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Reed, Robert</persName>
+<persName type="full"> <surname>Reed</surname>, <forename type="first" full="yes">Robert</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003998" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Reed, Sandford</persName>
+<persName type="full"> <surname>Reed</surname>, <forename type="first" full="yes">Sandford</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.003999" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Robinson</persName>
+<persName type="full"> <surname>Robinson</surname></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<note>First name unknown.</note>
+</person>
+
+<person xml:id="per.004000" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Smith, Henry</persName>
+<persName type="full"> <surname>Smith</surname>, <forename type="first" full="yes">Henry</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004001" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Stettinius, John</persName>
+<persName type="full"> <surname>Stettinius</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004002" source="http://earlywashingtondc.org/doc/oscys.mb.0046.002">
+<persName type="display">Wilson, Thomas</persName>
+<persName type="full"> <surname>Wilson</surname>, <forename type="first" full="yes">Thomas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.mb.0046.002 end-->
+
+<!-- oscys.mb.0047.001 start -->
+
+<person xml:id="per.004003" source="http://earlywashingtondc.org/doc/oscys.mb.0047.001">
+<persName type="display">Brent, John H.</persName>
+<persName type="full"> <surname>Brent</surname>, <forename type="first" full="yes">John</forename> <forename type="middle" full="init">H.</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004004" source="http://earlywashingtondc.org/doc/oscys.mb.0047.001">
+<persName type="display">Carberry, Thomas</persName>
+<persName type="full"> <surname>Carberry</surname>, <forename type="first" full="yes">Thomas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004005" source="http://earlywashingtondc.org/doc/oscys.mb.0047.001">
+<persName type="display">Clark, Isaac</persName>
+<persName type="full"> <surname>Clark</surname>, <forename type="first" full="yes">Isaac</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004006" source="http://earlywashingtondc.org/doc/oscys.mb.0047.001">
+<persName type="display">Gunton, William</persName>
+<persName type="full"> <surname>Gunton</surname>, <forename type="first" full="yes">William</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004007" source="http://earlywashingtondc.org/doc/oscys.mb.0047.001">
+<persName type="display">King, William, Jr.</persName>
+<persName type="full"> <surname>King</surname>, <forename type="first" full="yes">William</forename> <genName>junior</genName></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004008" source="http://earlywashingtondc.org/doc/oscys.mb.0047.001">
+<persName type="display">McLean, Cornelius</persName>
+<persName type="full"> <surname>McLean</surname>, <forename type="first" full="yes">Cornelius</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004009" source="http://earlywashingtondc.org/doc/oscys.mb.0047.001">
+<persName type="display">Orme, Rezin</persName>
+<persName type="full"> <surname>Orme</surname>, <forename type="first" full="yes">Rezin</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.mb.0047.001 end -->
+
+<!-- oscys.mb.0048.001 start -->
+
+<person xml:id="per.004010" source="http://earlywashingtondc.org/doc/oscys.mb.0048.001">
+<persName type="display">Addison, Henry</persName>
+<persName type="full"> <surname>Addison</surname>, <forename type="first" full="yes">Henry</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004011" source="http://earlywashingtondc.org/doc/oscys.mb.0048.001">
+<persName type="display">Brown, Thomas</persName>
+<persName type="full"> <surname>Brown</surname>, <forename type="first" full="yes">Thomas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004012" source="http://earlywashingtondc.org/doc/oscys.mb.0048.001">
+<persName type="display">Millard, Joshua</persName>
+<persName type="full"> <surname>Millard</surname>, <forename type="first" full="yes">Joshua</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004013" source="http://earlywashingtondc.org/doc/oscys.mb.0048.001">
+<persName type="display">Nezdorf, Tobias</persName>
+<persName type="full"> <surname>Nezdorf</surname>, <forename type="first" full="yes">Tobias</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004014" source="http://earlywashingtondc.org/doc/oscys.mb.0048.001">
+<persName type="display">Wilson, Lat C.</persName>
+<persName type="full"> <surname>Wilson</surname>, <forename type="first" full="yes">Lat</forename> <forename type="middle" full="init">C.</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.mb.0048.001 end -->
+
+<!-- oscys.mb.0049.001 start -->
+
+<person xml:id="per.004015" source="http://earlywashingtondc.org/doc/oscys.mb.0049.001">
+<persName type="display">Blackwell, George W. B.</persName>
+<persName type="full"> <surname>Blackwell, George W. B.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004016" source="http://earlywashingtondc.org/doc/oscys.mb.0049.001">
+<persName type="display">Forrest, Benjamin S.</persName>
+<persName type="full"> <surname>Forrest, Benjamin S.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004017" source="http://earlywashingtondc.org/doc/oscys.mb.0049.001">
+<persName type="display">Gustine, Robert G.</persName>
+<persName type="full"> <surname>Gustine, Robert G.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004018" source="http://earlywashingtondc.org/doc/oscys.mb.0049.001">
+<persName type="display">Lookerman, John</persName>
+<persName type="full"> <surname>Lookerman, John</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004019" source="http://earlywashingtondc.org/doc/oscys.mb.0049.001">
+<persName type="display">Stone, Edward</persName>
+<persName type="full"> <surname>Stone, Edward</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004020" source="http://earlywashingtondc.org/doc/oscys.mb.0049.001">
+<persName type="display">Washington, Robert P.</persName>
+<persName type="full"> <surname>Washington, Robert P.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.mb.0049.001 end -->
+
+<!-- oscys.mb.0050.001 start -->
+
+<person xml:id="per.004021" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Beall, Ninian</persName>
+<persName type="full"> <surname>Beall</surname>, <forename type="first" full="yes">Ninian</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004022" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Berryman, Newton</persName>
+<persName type="full"> <surname>Berryman</surname>, <forename type="first" full="yes">Newton</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004023" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Cartburn</persName>
+<persName type="full"> <surname>Cartburn</surname></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<note>First name unknown.</note>
+</person>
+
+<person xml:id="per.004024" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Cockwell</persName>
+<persName type="full"> <surname>Cockwell</surname></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<note>First name unknown.</note>
+</person>
+
+<person xml:id="per.004025" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Corcoran, Thomas</persName>
+<persName type="full"> <surname>Corcoran</surname>, <forename type="first" full="yes">Thomas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004026" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Hariss, Caleb</persName>
+<persName type="full"> <surname>Hariss</surname>, <forename type="first" full="yes">Caleb</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004027" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Robertson</persName>
+<persName type="full"> <surname>Robertson</surname></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<note>First name unknown.</note>
+</person>
+
+<person xml:id="per.004028" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Sandiford, Thomas</persName>
+<persName type="full"> <surname>Sandiford</surname>, <forename type="first" full="yes">Thomas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004029" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Thomas, James</persName>
+<persName type="full"> <surname>Thomas</surname>, <forename type="first" full="yes">James</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004030" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Varnum, Jacob B.</persName>
+<persName type="full"> <surname>Varnum</surname>, <forename type="first" full="yes">Jacob</forename> <forename type="middle" full="init">B.</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004031" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Wharton, James</persName>
+<persName type="full"> <surname>Wharton</surname>, <forename type="first" full="yes">James</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004032" source="http://earlywashingtondc.org/doc/oscys.mb.0050.001">
+<persName type="display">Williams, Edward</persName>
+<persName type="full"> <surname>Williams</surname>, <forename type="first" full="yes">Edward</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.mb.0050.001 end -->
+
+<!-- oscys.mb.0051.001 start -->
+
+<person xml:id="per.004033" source="http://earlywashingtondc.org/doc/oscys.mb.0051.001">
+<persName type="display">Brown, Joel</persName>
+<persName type="full"> <surname>Brown</surname>, <forename type="first" full="yes">Joel</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004034" source="http://earlywashingtondc.org/doc/oscys.mb.0051.001">
+<persName type="display">Harry, John</persName>
+<persName type="full"> <surname>Harry</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004035" source="http://earlywashingtondc.org/doc/oscys.mb.0051.001">
+<persName type="display">Harvey, James</persName>
+<persName type="full"> <surname>Harvey</surname>, <forename type="first" full="yes">James</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004036" source="http://earlywashingtondc.org/doc/oscys.mb.0051.001">
+<persName type="display">Helm, Joseph</persName>
+<persName type="full"> <surname>Helm</surname>, <forename type="first" full="yes">Joseph</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004037" source="http://earlywashingtondc.org/doc/oscys.mb.0051.001">
+<persName type="display">Hyde, Uriah</persName>
+<persName type="full"> <surname>Hyde</surname>, <forename type="first" full="yes">Uriah</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.mb.0051.001 end -->
+
+<!-- oscys.mb.0052.001 start -->
+
+<person xml:id="per.004038" source="http://earlywashingtondc.org/doc/oscys.mb.0052.001">
+<persName type="display">Cheshire, Archibald</persName>
+<persName type="full"> <surname>Cheshire</surname>, <forename type="first" full="yes">Archibald</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004039" source="http://earlywashingtondc.org/doc/oscys.mb.0052.001">
+<persName type="display">Collins, George</persName>
+<persName type="full"> <surname>Collins</surname>, <forename type="first" full="yes">George</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004040" source="http://earlywashingtondc.org/doc/oscys.mb.0052.001">
+<persName type="display">Hilton, John</persName>
+<persName type="full"> <surname>Hilton</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004041" source="http://earlywashingtondc.org/doc/oscys.mb.0052.001">
+<persName type="display">Hooe, Howson</persName>
+<persName type="full"> <surname>Hooe</surname>, <forename type="first" full="yes">Howson</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004042" source="http://earlywashingtondc.org/doc/oscys.mb.0052.001">
+<persName type="display">Ober, Robert</persName>
+<persName type="full"> <surname>Ober</surname>, <forename type="first" full="yes">Robert</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004043" source="http://earlywashingtondc.org/doc/oscys.mb.0052.001">
+<persName type="display">Pairo, Thomas W.</persName>
+<persName type="full"> <surname>Pairo</surname>, <forename type="first" full="yes">Thomas</forename> <forename type="middle" full="init">W.</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004044" source="http://earlywashingtondc.org/doc/oscys.mb.0052.001">
+<persName type="display">Wood, Basil</persName>
+<persName type="full"> <surname>Wood</surname>, <forename type="first" full="yes">Basil</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.mb.0052.001 end -->
+
+<!-- oscys.mb.0053.001 start -->
+
+<person xml:id="per.004045" source="http://earlywashingtondc.org/doc/oscys.mb.0053.001">
+<persName type="display">Brooke, Walter T.</persName>
+<persName type="full"> <surname>Brooke, Walter T.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004046" source="http://earlywashingtondc.org/doc/oscys.mb.0053.001">
+<persName type="display">Lowry, James H.</persName>
+<persName type="full"> <surname>Lowry, James H.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004047" source="http://earlywashingtondc.org/doc/oscys.mb.0053.001">
+<persName type="display">Orme, Jeremiah</persName>
+<persName type="full"> <surname>Orme, Jeremiah</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004048" source="http://earlywashingtondc.org/doc/oscys.mb.0053.001">
+<persName type="display">Reitz, Frederick</persName>
+<persName type="full"> <surname>Reitz, Frederick</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004049" source="http://earlywashingtondc.org/doc/oscys.mb.0053.001">
+<persName type="display">Stuart, David</persName>
+<persName type="full"> <surname>Stuart, David</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004050" source="http://earlywashingtondc.org/doc/oscys.mb.0053.001">
+<persName type="display">Taylor, Thomas</persName>
+<persName type="full"> <surname>Taylor, Thomas</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004051" source="http://earlywashingtondc.org/doc/oscys.mb.0053.001">
+<persName type="display">White, Robert</persName>
+<persName type="full"> <surname>White, Robert</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.mb.0053.001 end -->
+
+<!-- oscys.mb.0054.001 start -->
+
+<person xml:id="per.004052" source="http://earlywashingtondc.org/doc/oscys.mb.0054.001">
+<persName type="display">Bayne, Epsworth</persName>
+<persName type="full"> <surname>Bayne, Epsworth</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+<note>May be the same person as Elsworth Bayne (per.003143).</note>
+<!-- First name of Epsworth and Elsworth may be Ebsworth -->
+</person>
+
+<person xml:id="per.004053" source="http://earlywashingtondc.org/doc/oscys.mb.0054.001">
+<persName type="display">Clements, Robert H.</persName>
+<persName type="full"> <surname>Clements, Robert H.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004054" source="http://earlywashingtondc.org/doc/oscys.mb.0054.001">
+<persName type="display">Davidson, John</persName>
+<persName type="full"> <surname>Davidson, John</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004055" source="http://earlywashingtondc.org/doc/oscys.mb.0054.001">
+<persName type="display">Hinkle, Nathaniel A.</persName>
+<persName type="full"> <surname>Hinkle, Nathaniel A.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004056" source="http://earlywashingtondc.org/doc/oscys.mb.0054.001">
+<persName type="display">Parsons, William</persName>
+<persName type="full"> <surname>Parsons, William</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004057" source="http://earlywashingtondc.org/doc/oscys.mb.0054.001">
+<persName type="display">Smith, J. A.</persName>
+<persName type="full"> <surname>Smith, J. A.</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004058" source="http://earlywashingtondc.org/doc/oscys.mb.0054.001">
+<persName type="display">Wool, Benjamin</persName>
+<persName type="full"> <surname>Wool, Benjamin</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- oscys.mb.0054.001 end -->
+
+<!-- no unique people oscys.mb.0055.001 -->
+
+<!-- oscys.mb.0056.001 start -->
 
 
 

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,38 +88,38 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Bayne, Epsworth</term>
+<term xml:id="per.004052">Bayne, Epsworth</term>
 <term xml:id="per.002546">Berry, Elisha D.</term>
-<term>Berryman, Newton</term>
-<term>Boone, John B.</term><!-- same as John Boone? -->
-<term>Brady, Nathaniel</term>
-<term>Clements, Robert H.</term>
-<term>Cooper, Joseph</term>
-<term>Davidson, John</term>
-<term>Edelin, Edward</term><!-- could be per.002125 -->
-<term>Flinn, Thomas</term>
-<term>Harrison, Richard</term>
-<term>Hebb, William</term>
-<term>Hinkle, Nathaniel A.</term>
-<term>Holmead, Henry</term>
-<term>Holtzman, George</term>
+<term xml:id="per.004022">Berryman, Newton</term>
+<term xml:id="per.003696">Boone, John B.</term>
+<term xml:id="per.003861">Brady, Nathaniel</term>
+<term xml:id="per.004053">Clements, Robert H.</term>
+<term xml:id="per.003817">Cooper, Joseph</term>
+<term xml:id="per.004054">Davidson, John</term>
+<term xml:id="per.002125">Edelin, Edward</term>
+<term xml:id="per.003294">Flinn, Thomas</term>
+<term xml:id="per.003824">Harrison, Richard</term>
+<term xml:id="per.003509">Hebb, William</term>
+<term xml:id="per.004055">Hinkle, Nathaniel A.</term>
+<term xml:id="per.003825">Holmead, Henry</term>
+<term xml:id="per.003863">Holtzman, George</term>
 <term xml:id="per.001574">Hyde, Thomas</term>
-<term>Kirby, George</term><!-- probably per.000696 -->
-<term>Marbury, William</term>
-<term>McGee, William</term><!-- Magee -->
+<term xml:id="per.000696">Kirby, George</term>
+<term xml:id="per.002111">Marbury, William</term>
+<term xml:id="per.003939">McGee, William</term>
 <term xml:id="per.000977">McPherson, Henry H.</term>
-<term>Mitchell, Judson</term>
+<term xml:id="per.003830">Mitchell, Judson</term>
 <term xml:id="per.000978">Orme, Thomas</term>
-<term>Owens, James</term>
-<term>Parsons, William</term>
+<term xml:id="per.003867">Owens, James</term>
+<term xml:id="per.004056">Parsons, William</term>
 <term xml:id="per.002549">Pyfer, Henry</term>
 <term xml:id="per.002315">Roach, Edward N.</term>
-<term>Scott, Alexander</term>
-<term>Smith, J. A.</term>
-<term>Smith, Lewis</term>
-<term>Townsend, Singleton</term>
+<term xml:id="per.003833">Scott, Alexander</term>
+<term xml:id="per.004057">Smith, J. A.</term>
+<term xml:id="per.003795">Smith, Lewis</term>
+<term xml:id="per.003836">Townsend, Singleton</term>
 <term xml:id="per.001436">Webster, Samuel</term>
-<term>Wool, Benjamin</term>
+<term xml:id="per.004058">Wool, Benjamin</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -172,6 +173,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-30" who="#lkw">added xml:ids</change>
 <change when="2016-08-12" who="#kln">reviewed, edited</change>
 <change when="2016-08-01" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
