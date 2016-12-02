@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,38 +88,38 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Adams, John</term>
+<term xml:id="per.004066">Adams, John</term>
 <term xml:id="per.001694">Ashton, Leonard</term>
-<term>Ball, Robert</term>
-<term>Brown, Joel</term>
-<term>Clarke, Joseph S.</term><!-- same as Clarke, Joseph? -->
+<term xml:id="per.004067">Ball, Robert</term>
+<term xml:id="per.004033">Brown, Joel</term>
+<term xml:id="per.000972">Clarke, Joseph S.</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Drury, Samuel</term>
-<term>Essex, James F.</term>
-<term>Funk, Henry</term>
+<term xml:id="per.003845">Drury, Samuel</term>
+<term xml:id="per.004068">Essex, James F.</term>
+<term xml:id="per.004069">Funk, Henry</term>
 <term xml:id="per.001311">Gates, Mary</term>
 <term xml:id="per.001312">Goddard, Mary Ann</term>
-<term>Grammer, G. C.</term>
-<term>Gird, John</term>
+<term xml:id="per.003751">Grammer, G. C.</term>
+<term xml:id="per.004070">Gird, John</term>
 <term xml:id="per.001323">Hawley, William</term>
-<term>Holtzman</term>
+<term xml:id="per.004071">Holtzman</term>
 <term xml:id="per.000739">Hunter, Alexander</term>
-<term>Knowles, William</term>
+<term xml:id="per.004072">Knowles, William</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>Jones, Richard</term>
-<term>Magruder, James A.</term><!-- per.000264 ?? -->
-<term>McCauley, William M.</term>
+<term xml:id="per.003874">Jones, Richard</term>
+<term xml:id="per.000264">Magruder, James A.</term>
+<term xml:id="per.003828">McCauley, William M.</term>
 <term xml:id="per.000044">Morsell, James Sewall</term>
-<term>Nailor, Thomas</term>
-<term>Prout, William</term>
-<term>Ragan, Basil</term>
+<term xml:id="per.004073">Nailor, Thomas</term>
+<term xml:id="per.003832">Prout, William</term>
+<term xml:id="per.004074">Ragan, Basil</term>
 <term xml:id="per.002240">Stettinius, Samuel</term>
 <term xml:id="per.001340">Tennison, George</term>
 <term xml:id="per.000064">Thurston, Buckner, 1763-1845</term>
-<term>Tilly, Henry W.</term>
-<term>Trunnell, Henry</term>
+<term xml:id="per.004075">Tilly, Henry W.</term>
+<term xml:id="per.004076">Trunnell, Henry</term>
 <term xml:id="per.001321">Wilson, John A.</term>
-<term>Young, James</term>
+<term xml:id="per.004065">Young, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -157,6 +158,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-30" who="#lkw">added xml:ids</change>
 <change when="2016-08-15" who="#kln">reviewed, edited</change>
 <change when="2016-08-01" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

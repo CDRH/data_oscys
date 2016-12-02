@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,41 +88,42 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term xml:id="per.001851">Armistead, Sarah Jane</term><!-- married name: O'Brien -->
-<term>Bayne, John</term>
-<term>Brown, Eleen</term>
-<term>Busey, William</term>
-<term>Butler, Abraham</term>
+<term xml:id="per.001851">O'Brien, Sarah Jane</term><!-- birth name: Armistead -->
+<term xml:id="per.001432">Bayne, John H.</term>
+<term xml:id="per.004099">Brown, Eleen</term>
+<term xml:id="per.004100">Busey, William</term>
+<term xml:id="per.004101">Butler, Abraham</term>
 <term xml:id="per.001861">Butt, Richard</term>
-<term>Crandle, George</term><!-- probably per.001795 -->
-<term>Deheemer</term>
+<term xml:id="per.003843">Crandle, George</term>
+<term xml:id="per.004102">Deheemer</term><!-- Mrs. -->
 <term xml:id="per.000780">Davis, Sarah</term>
 <term xml:id="per.000779">Davis, John</term>
-<term>Duvall</term>
-<term>Ennis, Gregory</term>
+<term xml:id="per.004103">Duvall</term><!-- Mrs. -->
+<term xml:id="per.000974">Ennis, Gregory</term>
 <term xml:id="per.001908">Gardner, D. A.</term>
-<term>Goddard, Ann</term>
+<term xml:id="per.004104">Goddard, Ann</term>
 <term xml:id="per.000783">Harris, Sarah</term>
-<term>Jackson, Alexander</term>
-<term>Jocelin, Elizabeth</term>
-<term>Langley</term>
-<term>Lusby, Thomas</term>
+<term xml:id="per.004105">Jackson, Alexander</term>
+<term xml:id="per.004106">Jocelin, Elizabeth</term>
+<term xml:id="per.004107">Langley</term><!-- Mrs. -->
+<term xml:id="per.004108">Lusby, Thomas</term>
 <term xml:id="per.001260">Marshal, William</term>
 <term xml:id="per.000786">Marshall, Elizabeth</term>
-<term>Masi, Vincent</term>
-<term>McCatheren, Jas.</term>
+<term xml:id="per.004109">Masi, Vincent</term>
+<term xml:id="per.004110">McCatheren, Jas</term>
 <term xml:id="per.000788">Newman, Priscilla</term>
-<term>Scott, Ellen</term>
-<term>Smith, Frank</term>
-<term>Smitson</term>
-<term>Storm, Leonard</term>
-<term>Tucker, James</term>
-<term>Ray, Alfred</term>
-<term>Robb, Margaret</term>
+<term xml:id="per.004111">Scott, Ellen</term>
+<term xml:id="per.004112">Smith, Frank</term>
+<term xml:id="per.004113">Smitson</term><!-- Mrs. -->
+<term xml:id="per.004114">Storm, Leonard</term>
+<term xml:id="per.004115">Thomas</term><!-- last name unclear -->
+<term xml:id="per.002490">Tucker, James</term>
+<term xml:id="per.003974">Ray, Alfred</term>
+<term xml:id="per.004116">Robb, Margaret</term>
 <term xml:id="per.000792">Wheat, William</term>
 <term xml:id="per.000793">White, Ann</term>
 <term xml:id="per.000794">White, Mary Ann</term>
-<term>Wilson, William</term>
+<term xml:id="per.004117">Wilson, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -160,6 +162,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-30" who="#lkw">added xml:ids; added Thomas to people</change>
 <change when="2016-08-15" who="#kln">reviewed, edited</change>
 <change when="2016-08-04" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

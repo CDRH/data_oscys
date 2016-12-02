@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,37 +88,37 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Barnes</term>
+<term xml:id="per.001019">Barnes, Peggy</term>
 <term xml:id="per.000968">Beeler, Louis</term>
-<term>Bryan</term>
+<term xml:id="per.004077">Bryan</term>
 <term xml:id="per.000287">Clarke, Walter</term>
-<term>Clarke, Joseph S.</term><!-- same as Clarke, Joseph? -->
-<term>Drury, Samuel</term>
-<term>Ferguson, John B.</term>
-<term>Hanly, Edmund</term>
-<term>Harbaugh, Joseph</term>
-<term>Hodgson</term>
-<term>Hopkins, George W.</term>
-<term>Jones, Richard</term>
-<term>Lowe</term>
+<term xml:id="per.000972">Clarke, Joseph S.</term>
+<term xml:id="per.003845">Drury, Samuel</term>
+<term xml:id="per.000782">Ferguson, John B.</term>
+<term xml:id="per.004078">Hanly, Edmund</term>
+<term xml:id="per.004079">Harbaugh, Joseph</term>
+<term xml:id="per.004080">Hodgson</term>
+<term xml:id="per.003873">Hopkins, George W.</term>
+<term xml:id="per.003874">Jones, Richard</term>
+<term xml:id="per.004081">Lowe</term>
 <term xml:id="per.001151">Owens, Thomas</term><!-- Owen -->
-<term>Marbury</term>
-<term>McGill, Thomas</term>
-<term>Patterson, Robert S.</term>
-<term>Rusted</term>
-<term>Serratt</term>
-<term>Soper</term><!-- same as Marine D. Soper? -->
-<term>Soper, Marine D.</term>
-<term>Sullivan</term>
-<term>Talburt, Alexander</term>
-<term>Talburt, Eli</term>
-<term>Talbut, Thomas</term>
-<term>Thompson</term><!-- Mrs -->
-<term>Thompson</term><!-- Mr -->
-<term>Walker, Zach</term>
-<term>Watkins</term>
-<term>Waugh, Warring</term>
-<term>Willit, Voltaire</term>
+<term xml:id="per.004082">Marbury</term>
+<term xml:id="per.004083">McGill, Thomas</term>
+<term xml:id="per.004084">Patterson, Robert S.</term>
+<term xml:id="per.004085">Rusted</term>
+<term xml:id="per.004086">Serratt</term>
+<term xml:id="per.004087">Soper</term><!-- same as Marine D. Soper? -->
+<term xml:id="per.004088">Soper, Marine D.</term>
+<term xml:id="per.004089">Sullivan</term>
+<term xml:id="per.004090">Talburt, Alexander</term>
+<term xml:id="per.004091">Talburt, Eli</term>
+<term xml:id="per.004092">Talbut, Thomas</term>
+<term xml:id="per.004093">Thompson</term><!-- Mrs -->
+<term xml:id="per.004094">Thompson</term><!-- Mr -->
+<term xml:id="per.004095">Walker, Zach</term>
+<term xml:id="per.004096">Watkins</term>
+<term xml:id="per.004097">Waugh, Warring</term>
+<term xml:id="per.004098">Willit, Voltaire</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -156,6 +157,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-30" who="#lkw">added xml:ids</change>
 <change when="2016-08-15" who="#kln">reviewed, edited</change>
 <change when="2016-08-04" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
