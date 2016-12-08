@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,27 +88,27 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Boling, Basil</term>
+<term xml:id="per.004248">Boling, Basil</term>
 <term xml:id="per.002741">Burch, Benjamin</term>
-<term>Bussard, John R.</term>
-<term>Clarke, Joseph</term>
-<term>Cloud, Abner</term>
-<term>Crae, Chloe</term>
+<term xml:id="per.003699">Bussard, John R.</term>
+<term xml:id="per.003700">Clarke, Joseph</term>
+<term xml:id="per.004249">Cloud, Abner</term>
+<term xml:id="per.004250">Crae, Chloe</term>
 <term xml:id="per.001569">Doyle, Sally</term>
-<term>Dunn, Thomas</term>
+<term xml:id="per.004059">Dunn, Thomas</term>
 <term xml:id="per.000092">Graham, William</term>
-<term>Hobart</term>
-<term>Holmead, Anthony</term>
+<term xml:id="per.004251">Hobart</term>
+<term xml:id="per.003708">Holmead, Anthony</term>
 <term xml:id="per.002731">Hughes, Thomas</term>
 <term xml:id="per.001574">Hyde, Thomas</term>
-<term>Jones, Charles</term>
-<term>Mudd, Jeremiah</term>
-<term>Pickerell, John</term>
-<term>Pritchard, John</term>
-<term>Richardson, Thomas K.</term>
-<term>Sewall, Clement</term>
-<term>Scott, Allen</term>
-<term>Woodward, Mary</term>
+<term xml:id="per.004252">Jones, Charles</term>
+<term xml:id="per.003711">Mudd, Jeremiah</term>
+<term xml:id="per.004253">Pickerell, John</term>
+<term xml:id="per.004254">Pritchard, John</term>
+<term xml:id="per.004255">Richardson, Thomas K.</term>
+<term xml:id="per.004256">Sewall, Clement</term>
+<term xml:id="per.004239">Scott, Allen</term>
+<term xml:id="per.004257">Woodward, Mary</term>
 <term xml:id="per.000111">Worthington, William</term>
 <term xml:id="per.001559">Wren, Mary</term>
 </keywords>
@@ -148,6 +149,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-05" who="#kln">reviewed, edited</change>
 <change when="2016-07-12" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

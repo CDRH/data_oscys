@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -88,17 +89,18 @@
 
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.000287">Clarke, Walter</term>
-<term>Cochran, David</term>
-<term>Goszler, John</term><!-- Gosler -->
-<term>Grammer, G. C.</term>
-<term>Ingle, John P.</term><!-- per.002333 ?? -->
-<term>Lambert, Mary</term>
-<term>Langley, Hezekiah</term>
-<term>Lowe, Samuel P.</term>
+<term xml:id="per.004192">Cochran, David</term>
+<term xml:id="per.004193">De Brash, Ed</term>
+<term xml:id="per.003991">Goszler, John</term>
+<term xml:id="per.003751">Grammer, G. C.</term>
+<term xml:id="per.002333">Ingle, John P.</term>
+<term xml:id="per.004194">Lambert, Morry</term>
+<term xml:id="per.003776">Langley, Hezekiah</term>
+<term xml:id="per.000385">Lowe, Samuel P.</term>
 <term xml:id="per.002548">Miller, Robert</term>
-<term>Sandiford, Thomas</term><!-- Sandeford -->
-<term>Scott, Alexander</term>
-<term>Shanks, Michael</term><!-- per.001036 ?? -->
+<term xml:id="per.004028">Sandiford, Thomas</term>
+<term xml:id="per.004195">Scott, Alexander</term><!-- witness -->
+<term xml:id="per.004196">Shanks, Michael</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -140,6 +142,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids; added Ed to people</change>
 <change when="2016-08-17" who="#kln">reviewed, edited</change>
 <change when="2016-08-04" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
@@ -174,10 +177,10 @@ Clement Smith</p>
 </list>
 
 <list rend="simple">
-<item>1 John Gosler</item>
-<item>2 Mary Lambert</item>
+<item>1 John Goszler</item>
+<item>2 <unclear reason="illegible">Morry</unclear> Lambert</item>
 <item>3 Walter Clarke</item>
-<item>4 Ed De <gap extent="one name" reason="illegible"/></item>
+<item>4 Ed De <unclear extent="one name" reason="illegible">Brash</unclear></item>
 <item>5 Hz Langley</item>
 <item>6 Sl P Lowe.</item>
 <item>7 Michael Shanks</item>

@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,17 +88,17 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Bittinger, John</term>
-<term>Brown, Charles B.</term>
-<term>Gittings, Jedediah</term>
-<term>Harrison, Richard</term>
-<term>Hines, David</term>
-<term>Jackson, David</term>
-<term>Milburn, Benedict</term>
-<term>Murphy, Francis J.</term>
-<term>Oyster, David W.</term>
-<term>Shedd, William P.</term>
-<term>Wannall, Charles P.</term>
+<term xml:id="per.004134">Bittinger, John</term>
+<term xml:id="per.004135">Brown, Charles B.</term>
+<term xml:id="per.004136">Gittings, Jedediah</term>
+<term xml:id="per.003824">Harrison, Richard</term>
+<term xml:id="per.004137">Hines, David</term>
+<term xml:id="per.004138">Jackson, David</term>
+<term xml:id="per.004139">Milburn, Benedict</term>
+<term xml:id="per.004140">Murphy, Francis J.</term>
+<term xml:id="per.004141">Oyster, David W.</term>
+<term xml:id="per.004142">Shedd, William P.</term>
+<term xml:id="per.004132">Wannall, Charles P.</term>
 <term xml:id="per.000979">Waters, William N.</term>
 </keywords>
 
@@ -137,6 +138,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-15" who="#kln">reviewed, edited</change>
 <change when="2016-08-04" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

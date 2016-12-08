@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,32 +88,32 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Alexander, William</term>
-<term>Bacon, Samuel</term>
-<term>Baden, John W.</term>
-<term>Bates, Robert W.</term>
+<term xml:id="per.004197">Alexander, William</term>
+<term xml:id="per.004198">Bacon, Samuel</term>
+<term xml:id="per.004199">Baden, John W.</term>
+<term xml:id="per.004200">Bates, Robert W.</term>
 <term xml:id="per.000968">Beeler, Louis</term>
-<term>Crandle, George</term><!-- probably per.001795 -->
-<term>Douglass, R. S.</term>
-<term>Douglass, Samuel</term><!-- probably be per.002390 -->
-<term>Hallowell, Benjamin</term>
-<term>Harquhan, Thos. L.</term>
-<term>Herman, Mary</term>
+<term xml:id="per.003843">Crandle, George</term><!-- probably per.001795 -->
+<term xml:id="per.004201">Douglass, R. S.</term>
+<term xml:id="per.003962">Douglass, Samuel</term><!-- probably be per.002390 -->
+<term xml:id="per.004202">Hallowell, Benjamin</term>
+<term xml:id="per.004203">Farquhan, Thos. L.</term>
+<term xml:id="per.004204">Herman, Mary</term>
 <term xml:id="per.001193">Hoffman, Peter E.</term>
-<term>Hough, Susan B.</term>
-<term>Johnson, John M.</term>
-<term>Kemp, Rebecca</term>
-<term>Lindsley</term>
-<term>Lynch, James</term><!-- probably per.001691 -->
-<term>McKnight, Charles</term>
-<term>Mohun, Francis</term>
-<term>Perkins, William H.</term>
-<term>Simmes, Elexius</term>
-<term>Simmons, Catherine</term>
-<term>Queen, Edward H.</term>
+<term xml:id="per.004205">Hough, Susan B.</term>
+<term xml:id="per.004206">Johnson, John M.</term>
+<term xml:id="per.004207">Kemp, Rebecca</term>
+<term xml:id="per.004208">Lindsley</term>
+<term xml:id="per.004209">Lynch, James</term><!-- probably per.001691 -->
+<term xml:id="per.004210">McKnight, Charles</term><!-- per.002875 -->
+<term xml:id="per.004211">Mohun, Francis</term>
+<term xml:id="per.003868">Perkins, William H.</term>
+<term xml:id="per.004212">Simmes, Elexius</term>
+<term xml:id="per.004213">Simmons, Catherine</term>
+<term xml:id="per.004214">Queen, Edward H.</term>
 <term xml:id="per.000979">Waters, William N.</term>
-<term>Weightman, Henry T.</term><!-- probably per.001372 -->
-<term>Whiting</term>
+<term xml:id="per.001372">Weightman, Henry T.</term><!-- probably per.001372 -->
+<term xml:id="per.004215">Whiting</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -151,6 +152,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-17" who="#kln">reviewed, edited</change>
 <change when="2016-08-04" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

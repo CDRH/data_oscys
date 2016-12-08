@@ -13,6 +13,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -21,7 +22,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -86,23 +87,23 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Beall, Ninian</term>
-<term>Clark, Edward W.</term>
-<term>Clark, Isaac</term>
-<term>Cochran, David</term>
+<term xml:id="per.004021">Beall, Ninian</term>
+<term xml:id="per.004243">Clark, Edward W.</term>
+<term xml:id="per.004005">Clark, Isaac</term>
+<term xml:id="per.004192">Cochran, David</term>
 <term xml:id="per.001794">Cover, George</term>
-<term>Crandle, George</term><!-- probably per.001795 -->
-<term>Harrington, Richard</term>
-<term>Hedges, Nicholas</term>
-<term>Ingle, Edward</term>
+<term xml:id="per.003843">Crandle, George</term><!-- probably per.001795 -->
+<term xml:id="per.004244">Harrington, Richard</term>
+<term xml:id="per.001572">Hedges, Nicholas</term>
+<term xml:id="per.003808">Ingle, Edward</term>
 <term xml:id="per.000593">Milburn, George</term>
 <term xml:id="per.002548">Miller, Robert</term>
-<term>Orme, Rezin</term>
-<term>Prout, William</term>
-<term>Rives</term>
-<term>Shanks, Michael</term><!-- per.001036 ?? -->  
-<term>Watson</term>
-<term>Woodward, Thomas</term>
+<term xml:id="per.004009">Orme, Rezin</term>
+<term xml:id="per.003832">Prout, William</term>
+<term xml:id="per.004245">Rives</term>
+<term xml:id="per.004196">Shanks, Michael</term><!-- per.001036 ?? -->  
+<term xml:id="per.004246">Watson</term>
+<term xml:id="per.004247">Woodward, Thomas</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -144,6 +145,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-05" who="ea">Encoded and transcribed</change>
 </revisionDesc>
 

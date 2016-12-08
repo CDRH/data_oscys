@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,27 +88,27 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Baldwin, Henry C.</term>
-<term>Bownian, Charles</term>
-<term>Bowen, James</term>
-<term>Butler, Hess</term>
-<term>Gallagher, Thomas</term>
-<term>Harmer, Thomas H.</term>
-<term>Hewitt, John R.</term>
-<term>Hines, David</term>
-<term>Jones, F. A.</term>
-<term>Kirby, Wallach</term>
-<term>McKeldren, John C.</term>
-<term>Meredith, Moses</term>
-<term>Rainey, Robert</term>
-<term>Robey, James E.</term>
-<term>Sage, Gustavus A.</term>
-<term>Scott, Edward M.</term>
-<term>Stendley, George</term>
-<term>Stolt, Samuel</term>
-<term>Taylor, Henry</term>
-<term>Weems, Jesse</term>
-<term>Winnsatt, Joseph</term>
+<term xml:id="per.004143">Baldwin, Henry C.</term>
+<term xml:id="per.004144">Bownian, Charles</term>
+<term xml:id="per.004145">Bowen, James</term>
+<term xml:id="per.004146">Butler, Hess</term>
+<term xml:id="per.004147">Gallagher, Thomas</term>
+<term xml:id="per.004148">Harmer, Thomas H.</term>
+<term xml:id="per.004149">Hewitt, John R.</term>
+<term xml:id="per.004137">Hines, David</term>
+<term xml:id="per.004150">Jones, F. A.</term>
+<term xml:id="per.004151">Kirby, Wallach</term>
+<term xml:id="per.004152">McKeldren, John C.</term>
+<term xml:id="per.004153">Meredith, Moses</term>
+<term xml:id="per.004154">Rainey, Robert</term>
+<term xml:id="per.004155">Robey, James E.</term>
+<term xml:id="per.004156">Sage, Gustavus A.</term>
+<term xml:id="per.004157">Scott, Edward M.</term>
+<term xml:id="per.004158">Stendley, George</term>
+<term xml:id="per.004159">Stolt, Samuel</term>
+<term xml:id="per.004160">Taylor, Henry</term>
+<term xml:id="per.004161">Weems, Jesse</term>
+<term xml:id="per.004162">Winnsatt, Joseph</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -122,10 +123,10 @@
 
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004163">
 <persName>Nelson, Jesse</persName> 
 </person>
-<person role="defendant"> 
+<person role="defendant" xml:id="per.004164"> 
 <persName>Cornwell, John</persName>
 </person>
 <person role="attorney_petitioner">
@@ -146,6 +147,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-16" who="#kln">reviewed, edited</change>
 <change when="2016-08-04" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

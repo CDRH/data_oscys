@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -88,24 +89,24 @@
 
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
-<term>Chew, Samuel</term>
-<term>Clarke, John D.</term>
-<term>Dant, William</term>
-<term>Fales, Nathan</term>
-<term>Ferguson, John B.</term><!-- Fergusson -->
-<term>Harvey, James</term>
-<term>Hurdle, Noble</term>
-<term>Knott, Harrison</term>
-<term>McCauley, William M.</term>
-<term>Mount, John</term>
+<term xml:id="per.004231">Chew, Samuel</term>
+<term xml:id="per.004232">Clarke, John D.</term>
+<term xml:id="per.004233">Dant, William</term>
+<term xml:id="per.004234">Fales, Nathan</term>
+<term xml:id="per.004235">Fergusson, John B.</term>
+<term xml:id="per.004035">Harvey, James</term>
+<term xml:id="per.003889">Hurdle, Noble</term>
+<term xml:id="per.004236">Knott, Harrison</term>
+<term xml:id="per.003828">McCauley, William M.</term>
+<term xml:id="per.003901">Mount, John</term>
 <term xml:id="per.000883">Naylor, Henry</term>
-<term>O'Donohoe, Timothy</term>
-<term>Peek, Joseph</term>
-<term>Scott, Allen</term>
-<term>Strass</term><!-- could be per.000597 -->
-<term>Stuart, Walter</term>
+<term xml:id="per.004237">O'Donohoe, Timothy</term>
+<term xml:id="per.004238">Peek, Joseph</term>
+<term xml:id="per.004239">Scott, Allen</term>
+<term xml:id="per.004240">Strass</term><!-- could be per.000597 -->
+<term xml:id="per.004241">Stuart, Walter</term>
 <term xml:id="per.001267">Talburt, Lewin</term>
-<term>Tilly, Henry W.</term><!-- Tilley -->
+<term xml:id="per.004075">Tilly, Henry W.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -123,7 +124,7 @@
 <person role="petitioner" xml:id="per.001266">
 <persName>Mary</persName> 
 </person>
-<person role="defendant"> 
+<person role="defendant" xml:id="per.004242"> 
 <persName>Talburt, Jane</persName>
 </person>
 <person role="attorney_petitioner">
@@ -144,6 +145,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-19" who="#kln">reviewed, edited</change>
 <change when="2016-08-05" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
