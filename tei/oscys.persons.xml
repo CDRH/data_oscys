@@ -15270,6 +15270,7 @@ This file was compiled from information found in
 <persName type="full"> <surname>Hobbs, </surname>, <forename type="first" full="yes">Rebecca</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab>colored</ab></trait>
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.report.0054.001"><ab>negro</ab></trait>
 <socecStatus>enslaved</socecStatus>
 <residence source="http://earlywashingtondc.org/doc/oscys.case.0193.003">Maryland</residence>
 <residence when="1833-06-05" source="http://earlywashingtondc.org/doc/oscys.case.0193.003">Washington (D.C.)</residence>
@@ -15302,18 +15303,20 @@ This file was compiled from information found in
 <persName type="full"> <surname>Jones</surname>, <forename type="first" full="yes">Eliza</forename> <forename type="middle" full="yes">Ann</forename> <addName type="surname" subtype="birth">Stockett</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0054.001">Washington (D.C.)</residence>
 </person>
 
 <person xml:id="per.001618" source="http://earlywashingtondc.org/doc/oscys.case.0193.003">
 <persName type="display">Jones, Ethan A.</persName>
-<persName type="full"> <surname>Jones</surname>, <forename type="first" full="yes">Ethan A.</forename></persName>
+<persName type="full"> <surname>Jones</surname>, <forename type="first" full="yes">Ethan</forename> <forename type="middle" full="init">A.</forename> <addName type="first" subtype="alternate">Thomas</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0054.001">Washington (D.C.)</residence>
 </person>
 
 <person xml:id="per.001619" source="http://earlywashingtondc.org/doc/oscys.case.0193.003">
 <persName type="display">Jones, Joseph J.</persName>
-<persName type="full"> <surname>Jones, </surname>, <forename type="first" full="yes">Joseph J.</forename></persName>
+<persName type="full"> <surname>Jones</surname>, <forename type="first" full="yes">Joseph</forename> <forename type="middle" full="init">J.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -15327,7 +15330,7 @@ This file was compiled from information found in
 
 <person xml:id="per.001621" source="http://earlywashingtondc.org/doc/oscys.case.0193.003">
 <persName type="display">Morsell, Benjamin K.</persName>
-<persName type="full"> <surname>Morsell</surname>, <forename type="first" full="yes">Benjamin K.</forename></persName>
+<persName type="full"> <surname>Morsell</surname>, <forename type="first" full="yes">Benjamin</forename> <forename type="middle" full="init">K.</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation when="1834-04-10">justice of the peace</occupation>
@@ -15335,7 +15338,7 @@ This file was compiled from information found in
 
 <person xml:id="per.001622" source="http://earlywashingtondc.org/doc/oscys.case.0193.003">
 <persName type="display">Orme, W. C.</persName>
-<persName type="full"> <surname>Orme</surname>, <forename type="first" full="yes">W. C.</forename></persName>
+<persName type="full"> <surname>Orme</surname>, <forename type="first" full="init">W.</forename> <forename type="middle" full="init">C.</forename></persName>
 <sex></sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -39875,7 +39878,23 @@ per.001746
 
 <!-- end oscys.report.0048.001 -->
 
-<!-- start oscys.report.0049.001 -->
+<!-- no unique people oscys.report.0049.001 -->
+<!-- no unique people oscys.report.0050.001 -->
+<!-- no unique people oscys.report.0051.001 -->
+<!-- no unique people oscys.report.0052.001 -->
+<!-- no unique people oscys.report.0053.001 -->
+
+<!-- start oscys.report.0054.001 -->
+
+<person xml:id="per.004267" source="http://earlywashingtondc.org/doc/oscys.report.0054.001">
+<persName type="display">McGill, George Henry</persName>
+<persName type="full"> <surname>McGill, George Henry</surname>, <forename type="first" full="yes"></forename></persName>
+<sex></sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- end oscys.report.0054.001 -->
+
 
 
 

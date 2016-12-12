@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -85,7 +86,7 @@
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
 <term xml:id="per.001617">Jones, Eliza Ann</term>
 <term xml:id="per.001618">Jones, Ethan A.</term> <!-- Eliza's husband, may be named Thomas -->
-<term>McGill, George Henry</term>
+<term xml:id="per.004267">McGill, George Henry</term>
 <term xml:id="per.001623">Stockett, Margaret</term>
 <term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
 </keywords>
@@ -118,7 +119,7 @@
 <person role="attorney_defendant" xml:id="per.000549">
 <persName>Cox, Clement</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.002550">
 <persName>Swann</persName>
 </person>
 </listPerson>
@@ -133,6 +134,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-01" who="#kln">reviewed; edited</change>           
 <change when="2016-07-19" who="#snc">transcribed; encoded</change>
 </revisionDesc>
