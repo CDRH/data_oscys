@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -82,22 +83,22 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Bill</term>
-<term>Brown, John</term>
-<term>Chapman, Kitty</term>
-<term>Chapman, Kitty Jane</term>
+<term xml:id="per.004281">Bill</term>
+<term xml:id="per.004282">Brown, John</term>
+<term xml:id="per.004283">Chapman, Kitty</term>
+<term xml:id="per.004284">Chapman, Kitty Jane</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Edelin, Frances</term>
-<term>Edelin, George</term>
-<term>Edelin, John B.</term>
-<term>Edelin, Richard James</term>
-<term>Harriett</term>
-<term>Henry</term>
-<term>John</term>
-<term>Letty</term>
-<term>Lucy</term>
+<term xml:id="per.004285">Edelin, Frances</term>
+<term xml:id="per.004286">Edelin, George</term>
+<term xml:id="per.004287">Edelin, John B.</term>
+<term xml:id="per.004288">Edelin, Richard James</term>
+<term xml:id="per.004289">Harriett</term>
+<term xml:id="per.004290">Henry</term>
+<term xml:id="per.004291">John</term>
+<term xml:id="per.004292">Letty</term>
+<term xml:id="per.004293">Lucy</term>
 <term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
-<term>Queen, Eliza</term>
+<term xml:id="per.004294">Queen, Eliza</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -112,13 +113,13 @@
  
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004295">
 <persName>Chapman, Eliza</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004296">
 <persName>Chapman, Robert</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004297">
 <persName>Fenwick, Robert</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000001">
@@ -140,6 +141,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-02" who="#kln">reviewed; edited</change>          
 <change when="2016-07-20" who="#snc">transcribed; encoded</change>
 </revisionDesc>

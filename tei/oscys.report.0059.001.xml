@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -82,11 +83,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Clagett</term>
-<term>Claggett, Thomas</term>
-<term>Maria</term>
-<term>Rhoda</term>
-<term>Osborn, Elizabeth</term>
+<term xml:id="per.004274">Clagett</term>
+<!--<term>Claggett, Thomas</term> -->
+<term xml:id="per.004275">Maria</term>
+<term xml:id="per.004276">Rhoda</term>
+<term xml:id="per.004277">Osborn, Elizabeth</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -101,10 +102,10 @@
  
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004278">
 <persName>Quando, Harry</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004279">
 <persName>Clagett, Thomas</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000001">
@@ -125,6 +126,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2016-12-05" who="#lkw">added xml:ids; commented out Thomas Claggett in people</change>
 <change when="2016-08-02" who="#kln">reviewed; edited</change>         
 <change when="2016-07-19" who="#snc">transcribed; encoded</change>
 </revisionDesc>
