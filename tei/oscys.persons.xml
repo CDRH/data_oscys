@@ -6235,7 +6235,7 @@ This file was compiled from information found in
 <persName type="display">Harris, Christopher</persName>
 <persName type="full"> <surname>Harris</surname>, <forename type="first" full="yes">Christopher</forename></persName>
 <sex>male</sex>
-<trait type="color"><ab></ab></trait>
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.report.0065.001"><ab>negro</ab></trait>
 <socecStatus>enslaved</socecStatus>
 <residence notAfter="1825" source="http://earlywashingtondc.org/doc/oscys.case.0085.001">Virginia</residence>
 <residence when="1825" source="http://earlywashingtondc.org/doc/oscys.case.0085.001">Washington (D.C.)</residence>
@@ -6243,7 +6243,7 @@ This file was compiled from information found in
 
 <person xml:id="per.000665" source="http://earlywashingtondc.org/doc/oscys.case.0084.001">
 <persName type="display">Alexander, Penelope B.</persName>
-<persName type="full"> <surname>Alexander</surname>, <forename type="first" full="yes">Penelope</forename> <forename type="middle" full="init">B.</forename></persName>
+<persName type="full"> <surname>Alexander</surname>, <forename type="first" full="yes">Penelope</forename> <addName type="first" subtype="alternate">Nelly</addName> <forename type="middle" full="init">B.</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -18260,6 +18260,8 @@ This file was compiled from information found in
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence>District of Columbia</residence>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Alexandria (Va.)</residence>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Maryland</residence>
 </person>
 
 <!-- oscys.case.0252.001 end -->
@@ -31591,8 +31593,8 @@ This file was compiled from information found in
 <persName type="full"> <surname>Mills</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<residence>Alexandria (Va.)</residence>
-<residence>Baltimore (Md.)</residence>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Alexandria (Va.)</residence>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Baltimore (Md.)</residence>
 </person>
 
 <person xml:id="per.003285" source="http://earlywashingtondc.org/doc/oscys.case.0413.001">
@@ -31602,6 +31604,9 @@ This file was compiled from information found in
 <trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0413.001"><ab>colored</ab></trait>
 <trait type="color" source="http://earlywashingtondc.org/doc/oscys.case.0413.004"><ab>negro</ab></trait>
 <socecStatus>enslaved</socecStatus>
+<socecStatus when="1840" source="http://earlywashingtondc.org/doc/oscys.report.0066.001">free</socecStatus>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Alexandria (Va.)</residence>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Baltimore (Md.)</residence>
 </person>
 
 <person xml:id="per.003286" source="http://earlywashingtondc.org/doc/oscys.case.0413.001">
@@ -39237,21 +39242,25 @@ per.001746
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.report.0066.001"><ab>negro</ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Virginia</residence>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Alexandria (Va.)</residence>
 </person>
 
 <person xml:id="per.004190" source="http://earlywashingtondc.org/doc/oscys.mb.0066.001">
 <persName type="display">Lee, Samuel</persName>
 <persName type="full"> <surname>Lee</surname>, <forename type="first" full="yes">Samuel</forename></persName>
 <sex>male</sex>
-<trait type="color"><ab></ab></trait>
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.report.0066.001"><ab>negro</ab></trait>
 <socecStatus>enslaved</socecStatus>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Virginia</residence>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Alexandria (Va.)</residence>
 </person>
 
 <person xml:id="per.004191" source="http://earlywashingtondc.org/doc/oscys.mb.0066.001">
 <persName type="display">Lee, Elizabeth</persName>
 <persName type="full"> <surname>Lee</surname>, <forename type="first" full="yes">Elizabeth</forename></persName>
 <sex>female</sex>
-<trait type="color"><ab></ab></trait>
 </person>
 
 <!-- oscys.mb.0066.001 end -->
@@ -40224,7 +40233,38 @@ per.001746
 
 <!-- end oscys.report.0064.001 -->
 
-<!-- start oscys.report.0065.001 -->
+<!-- no unique people oscys.report.0065.001 -->
+<!-- no unique people oscys.report.0066.001 -->
+<!-- no unique people oscys.report.0067.001 -->
+
+<!-- start oscys.report.0068.001 -->
+
+<person xml:id="per.004304" source="http://earlywashingtondc.org/doc/oscys.report.0068.001">
+<persName type="display">Tabbs</persName>
+<persName type="full"> <surname>Tabbs</surname></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>attorney</occupation>
+</person>
+
+<!-- end oscys.report.0068.001 -->
+
+<!-- start oscys.report.0069.001 -->
+
+<person xml:id="per.004305" source="http://earlywashingtondc.org/doc/oscys.report.0069.001">
+<persName type="display">Lee, R. B.</persName>
+<persName type="full"> <surname>Lee</surname>, <forename type="first" full="yes">R.</forename> <forename type="middle" full="yes">B.</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<death notAfter="1834-01">before January 1834</death>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Virginia</residence>
+<residence source="http://earlywashingtondc.org/doc/oscys.report.0066.001">Alexandria (Va.)</residence>
+</person>
+
+<!-- end oscys.report.0069.001 -->
+
+<!-- start oscys.report.0070.001 -->
+
 
 
 <!--
