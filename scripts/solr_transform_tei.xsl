@@ -822,7 +822,7 @@
 					<xsl:value-of select="."/>
 				</field>
 
-				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term">
+				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term/text()">
 					<field update="add" name="outcomeData_ss">
 						<xsl:call-template name="JSON_Formatter">
 							<xsl:with-param name="json_label">
@@ -851,7 +851,7 @@
 					</field>
 				</xsl:for-each>
 
-				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term">
+				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term/text()">
 					<field update="add" name="outcome_ss">
 						<xsl:value-of select="normalize-space(.)"/>
 					</field>
