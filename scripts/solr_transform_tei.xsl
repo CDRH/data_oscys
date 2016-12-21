@@ -106,6 +106,20 @@
 			<xsl:otherwise/>
 		</xsl:choose>
 	</xsl:variable>
+  
+  <xsl:variable name="doc_date_display">
+    <!-- added doc_date_display to pull display dates directly from date element rather than generating -->
+    <xsl:choose>
+      <xsl:when test="//keywords[@n='subcategory']/term = 'Court Report'">
+        <xsl:value-of select="//keywords[@n='term']/term/date"></xsl:value-of>
+      </xsl:when>
+      <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date">
+        <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date"/>
+      </xsl:when>
+      <!-- if neither of these matches, do not show anything -->
+      <xsl:otherwise/>
+    </xsl:choose>
+  </xsl:variable>
 	
 	<xsl:template name="tei_general" exclude-result-prefixes="#all">
 		<xsl:param name="filenamepart"/>
@@ -308,9 +322,7 @@
 		<!-- dateDisplay -->
 		
 		<field name="dateDisplay">
-			<xsl:call-template name="extractDate">
-				<xsl:with-param name="date" select="$doc_date"/>
-			</xsl:call-template>
+		  <xsl:value-of select="$doc_date_display"/>
 		</field>
 				
 		<!-- type -->
@@ -524,6 +536,12 @@
 		<!-- ================================================ -->
 				
 		<xsl:call-template name="people"/>
+	  
+	  <!-- sourceTitle_s -->
+	  <!-- added to address that "Document:" in document metadata needs a different title than the page title -->
+	  <field name="sourceTitle_s">
+	    <xsl:value-of select="normalize-space(/TEI/teiHeader/fileDesc[1]/sourceDesc[1]/bibl[1]/title[@type='main'])"/>
+	  </field>
 
 		<!-- recordType_s -->
 		
@@ -822,39 +840,33 @@
 					<xsl:value-of select="."/>
 				</field>
 
-				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term">
-					<field update="add" name="outcomeData_ss">
-						<xsl:call-template name="JSON_Formatter">
-							<xsl:with-param name="json_label">
-								<xsl:value-of select="normalize-space(.)"/>
-							</xsl:with-param>
-							<xsl:with-param name="json_date">
-								<!--<xsl:variable name="doc_date">
-									<xsl:choose>
-										<xsl:when test="//keywords[@n='subcategory']/term = 'Court Report'">
-											<xsl:value-of select="//keywords[@n='term']/term/date/@when"></xsl:value-of>
-										</xsl:when>
-										<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when">
-											<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"/>
-										</xsl:when>
-										<xsl:otherwise>n.d.</xsl:otherwise>
-									</xsl:choose>
-									<!-\-<xsl:value-of select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='term']/term/date/@when"/>-\->
-									<!-\-<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"/>-\->
-								</xsl:variable>-->
-								<xsl:value-of select="$doc_date"/>
-							</xsl:with-param>
-							<xsl:with-param name="json_id">
-								<xsl:value-of select="/TEI/@xml:id"/>
-							</xsl:with-param>
-						</xsl:call-template>
-					</field>
+				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term/text()">
+				  <xsl:if test="normalize-space(.) != ''">
+   					<field update="add" name="outcomeData_ss">
+   						<xsl:call-template name="JSON_Formatter">
+   							<xsl:with-param name="json_label">
+   								<xsl:value-of select="normalize-space(.)"/>
+   							</xsl:with-param>
+   							<xsl:with-param name="json_date">
+   								<xsl:value-of select="$doc_date"/>
+   							</xsl:with-param>
+   						  <xsl:with-param name="json_date_display">
+   						    <xsl:value-of select="$doc_date_display"/>
+   						  </xsl:with-param>
+   							<xsl:with-param name="json_id">
+   								<xsl:value-of select="/TEI/@xml:id"/>
+   							</xsl:with-param>
+   						</xsl:call-template>
+   					</field>
+				  </xsl:if>
 				</xsl:for-each>
 
-				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term">
-					<field update="add" name="outcome_ss">
-						<xsl:value-of select="normalize-space(.)"/>
-					</field>
+				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term/text()">
+				  <xsl:if test="normalize-space(.) != ''">
+   					<field update="add" name="outcome_ss">
+   						<xsl:value-of select="normalize-space(.)"/>
+   					</field>
+				  </xsl:if>
 				</xsl:for-each>
 
 				<xsl:variable name="caseid" select="normalize-space(.)"></xsl:variable>
@@ -1279,9 +1291,10 @@
 	
 	<xsl:template name="JSON_Formatter">
 		<xsl:param name="json_label"/>
-		<xsl:param name="json_date"/>
-		<xsl:param name="json_id"/>
-		<xsl:text>{</xsl:text>
+	  <xsl:param name="json_date"/>
+	  <xsl:param name="json_date_display"/>
+	  <xsl:param name="json_id"/>
+	  <xsl:text>{</xsl:text>
 		
 		<!-- Label -->
 		<xsl:if test="$json_label != ''">
@@ -1308,7 +1321,12 @@
 			<xsl:text>"dateDisplay":"</xsl:text>
 			<xsl:call-template name="escape-string">
 				<xsl:with-param name="s">
-					<xsl:call-template name="extractDate"><xsl:with-param name="date" select="$json_date"/></xsl:call-template>
+				  <xsl:choose>
+				    <xsl:when test="$json_date_display != ''"><xsl:value-of select="$json_date_display"/></xsl:when>
+				    <xsl:otherwise>
+				      <xsl:call-template name="extractDate"><xsl:with-param name="date" select="$json_date"/></xsl:call-template>
+				    </xsl:otherwise>
+				  </xsl:choose>
 				</xsl:with-param>
 			</xsl:call-template>
 			<xsl:text>"</xsl:text>
