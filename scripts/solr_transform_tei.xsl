@@ -710,8 +710,8 @@
 			<field name="personAltName_ss"><xsl:value-of select="normalize-space(.)"></xsl:value-of></field>
 		</xsl:for-each>
 		
-		<xsl:for-each select="persName/surname[@type='maiden']">
-			<field name="personMaidenName_ss"><xsl:value-of select="normalize-space(.)"/></field>
+		<xsl:for-each select="persName/surname[@type='birth']">
+			<field name="personBirthName_ss"><xsl:value-of select="normalize-space(.)"/></field>
 		</xsl:for-each>
 		
 		<xsl:for-each select="sex[normalize-space()]">
