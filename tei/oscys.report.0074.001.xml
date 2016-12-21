@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -82,19 +83,19 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Ann</term>
-<term>Bill</term>
-<term>Dorsey</term>
-<term>Hanson</term>
-<term>John</term>
-<term>Martha</term>
-<term>Nichols, B. B.</term>
-<term>Prather, Benjamin</term>
-<term>Prather, Eliza</term> 
-<term>Prather, Rachel</term>
-<term>Rachel</term>
-<term>Robert</term>
-<term>Sarah</term>
+<term xml:id="per.004314">Ann</term>
+<term xml:id="per.004315">Bill</term>
+<term xml:id="per.004316">Dorsey</term>
+<term xml:id="per.004317">Hanson</term>
+<term xml:id="per.004318">John</term>
+<term xml:id="per.004319">Martha</term>
+<term xml:id="per.004320">Nichols, B. B.</term>
+<term xml:id="per.004321">Prather, Benjamin</term>
+<term xml:id="per.004322">Prather, Eliza</term> 
+<term xml:id="per.004323">Prather, Rachel</term>
+<term xml:id="per.004324">Rachel</term>
+<term xml:id="per.004325">Robert</term>
+<term xml:id="per.004326">Sarah</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -109,13 +110,13 @@
  
 <particDesc>   
 <listPerson>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004327">
 <persName>Bell, Bacchus</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004328">
 <persName>Williams, Joseph</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004329">
 <persName>McCormick, Alexander</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000737">
@@ -127,7 +128,7 @@
 <person role="attorney_defendant" xml:id="per.000829">
 <persName>Bradley, Joseph H. (Joseph Habersham), 1802-1887</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.004330">
 <persName>Mennifee</persName>
 </person>
 </listPerson>
@@ -142,6 +143,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-03" who="#kln">reviewed, edited</change>           
 <change when="2016-07-22" who="#snc">transcribed; encoded</change>
 </revisionDesc>
