@@ -823,38 +823,29 @@
 				</field>
 
 				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term/text()">
-					<field update="add" name="outcomeData_ss">
-						<xsl:call-template name="JSON_Formatter">
-							<xsl:with-param name="json_label">
-								<xsl:value-of select="normalize-space(.)"/>
-							</xsl:with-param>
-							<xsl:with-param name="json_date">
-								<!--<xsl:variable name="doc_date">
-									<xsl:choose>
-										<xsl:when test="//keywords[@n='subcategory']/term = 'Court Report'">
-											<xsl:value-of select="//keywords[@n='term']/term/date/@when"></xsl:value-of>
-										</xsl:when>
-										<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when">
-											<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"/>
-										</xsl:when>
-										<xsl:otherwise>n.d.</xsl:otherwise>
-									</xsl:choose>
-									<!-\-<xsl:value-of select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='term']/term/date/@when"/>-\->
-									<!-\-<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"/>-\->
-								</xsl:variable>-->
-								<xsl:value-of select="$doc_date"/>
-							</xsl:with-param>
-							<xsl:with-param name="json_id">
-								<xsl:value-of select="/TEI/@xml:id"/>
-							</xsl:with-param>
-						</xsl:call-template>
-					</field>
+				  <xsl:if test="normalize-space(.) != ''">
+   					<field update="add" name="outcomeData_ss">
+   						<xsl:call-template name="JSON_Formatter">
+   							<xsl:with-param name="json_label">
+   								<xsl:value-of select="normalize-space(.)"/>
+   							</xsl:with-param>
+   							<xsl:with-param name="json_date">
+   								<xsl:value-of select="$doc_date"/>
+   							</xsl:with-param>
+   							<xsl:with-param name="json_id">
+   								<xsl:value-of select="/TEI/@xml:id"/>
+   							</xsl:with-param>
+   						</xsl:call-template>
+   					</field>
+				  </xsl:if>
 				</xsl:for-each>
 
 				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term/text()">
-					<field update="add" name="outcome_ss">
-						<xsl:value-of select="normalize-space(.)"/>
-					</field>
+				  <xsl:if test="normalize-space(.) != ''">
+   					<field update="add" name="outcome_ss">
+   						<xsl:value-of select="normalize-space(.)"/>
+   					</field>
+				  </xsl:if>
 				</xsl:for-each>
 
 				<xsl:variable name="caseid" select="normalize-space(.)"></xsl:variable>
