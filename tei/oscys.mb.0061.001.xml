@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,24 +88,24 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Corcoran, George W.</term>
-<term>Dawson, William</term>
-<term>Elwell, Francis H.</term>
-<term>Finley</term>
-<term>Garretson, Nimrod</term>
-<term>Henshaw, Joshua L.</term>
-<term>Joice, John J.</term>
-<term>Lissell</term>
+<term xml:id="per.004119">Cissell</term><!-- Miss -->
+<term xml:id="per.004120">Corcoran, George W.</term>
+<term xml:id="per.004121">Dawson, William</term>
+<term xml:id="per.004122">Elwell, Francis H.</term>
+<term xml:id="per.004123">Finley</term><!-- Mrs. -->
+<term xml:id="per.004124">Garretson, Nimrod</term>
+<term xml:id="per.004125">Henshaw, Joshua L.</term>
+<term xml:id="per.004126">Joice, John J.</term>
 <term xml:id="per.001929">Mackall, Brooke</term>
 <term xml:id="per.000830">Marbury, John</term>
-<term>Newton, A. Lewis</term>
-<term>Plumsell, Stephen B.</term>
-<term>Ramsburg, Jacob</term>
-<term>Rodier, Henry</term>
-<term>Storm, Leonard</term>
-<term>Tolson, John</term>
-<term>Wannall, Charles P.</term>
-<term>Warner</term>
+<term xml:id="per.004127">Newton, A. Lewis</term>
+<term xml:id="per.004128">Plumsell, Stephen B.</term>
+<term xml:id="per.004129">Ramsburg, Jacob</term>
+<term xml:id="per.004130">Rodier, Henry</term>
+<term xml:id="per.004114">Storm, Leonard</term>
+<term xml:id="per.004131">Tolson, John</term>
+<term xml:id="per.004132">Wannall, Charles P.</term>
+<term xml:id="per.004133">Warner</term><!-- Mrs. -->
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -152,6 +153,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-15" who="#kln">reviewed, edited</change>
 <change when="2016-08-04" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
@@ -188,8 +190,8 @@ Morris Adler Admr of Thomas Turner</p>
 <item>Mrs Finley</item>
 <item>Mrs Warner</item>
 <item>Miss Cissell</item>
-<item>John Marbury Esqr<lb/>
-<gap extent="one word" reason="illegible"/></item>
+<item>John Marbury Esqr</item>
+<item><gap extent="one word" reason="illegible"/></item>
 </list>
 
 <list rend="simple">

@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Rachel Graham v. Francis Swann. Transcript from Alexandria County</title>
+<title>Rachel Graham v. Frances Swann. Transcript from Alexandria County</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -21,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,7 +87,7 @@
     
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.001523">Doe, John</term>
-<term>Lee, Cassius F.</term>
+<term xml:id="per.003461">Lee, Cassius F.</term>
 <term xml:id="per.001531">Roe, Richard</term>
 </keywords>
 
@@ -105,13 +106,13 @@
 <person role="defendant" xml:id="per.001357">
 <persName>Swann, Frances</persName>
 </person>
-<person role="attorney_petitioner" xml:id="per.001562">
+<!-- <person role="attorney_petitioner" xml:id="per.001562">
 <persName>Swann, Thomas, 1789-1845</persName>
-</person>
+</person> -->
 <person role="attorney_petitioner" xml:id="per.000435">
 <persName>Jones, Walter, 1776-1861</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.001356">
 <persName>Semmes, Thomas</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.001366">
@@ -129,6 +130,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2016-10-26" who="#lkw">added xml:ids; transcription; commented out Swann as attorney for petitioner</change>  
 <change when="2016-07-05" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 
@@ -158,7 +160,7 @@ Frances Swann Defendant</p>
 
 <div2 type="body">
 
-<p>Be it remembered that heretofore to wit: at the rules held in the Clerk's office of the said Court for the month of May 1842, came the plaintiff by Thomas Swann Esq her attorney and filed there a certain bill against the said defendant, which is in the words following:</p>
+<p>Be it remembered that heretofore to wit: at the rules held in the Clerk's office of the said Court for the month of May 1842, came the plaintiff by Thomas Semmes Esq her attorney and filed there a certain bill against the said defendant, which is in the words following:</p>
 
 <p>District of Columbia<lb/>
 Alexandria County to wit</p>

@@ -13,6 +13,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -21,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -90,7 +91,8 @@
 <term xml:id="per.001352">Dunbar, Milly</term>
 <term xml:id="per.001345">Graham, Ann</term>
 <term xml:id="per.001355">Graham, Rachel</term>
-<term>Molly</term>
+<term xml:id="per.003693">Magruder</term><!-- Mrs. Magruder -->
+<term xml:id="per.003636">Molly</term>
 <term xml:id="per.000513">Wharton, Charles H. W.</term>
 </keywords>
 
@@ -129,6 +131,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2016-10-26" who="#lkw">added xml:ids; added Mrs. Magruder to people</change>  
 <change when="2016-06-30" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 

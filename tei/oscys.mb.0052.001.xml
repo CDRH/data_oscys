@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -88,26 +89,26 @@
 
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.002530">Baker, John W.</term>
-<term>Brent, John H.</term>
-<term>Brown, Thomas</term>
-<term>Carberry, Thomas</term>
-<term>Cheshire, Archibald</term>
-<term>Clark, Isaac</term>
-<term>Collins, George</term>
+<term xml:id="per.004003">Brent, John H.</term>
+<term xml:id="per.004011">Brown, Thomas</term>
+<term xml:id="per.004004">Carberry, Thomas</term>
+<term xml:id="per.004038">Cheshire, Archibald</term>
+<term xml:id="per.004005">Clark, Isaac</term>
+<term xml:id="per.004039">Collins, George</term>
 <term xml:id="per.000490">Forrest, John B.</term>
-<term>Goszler, John</term>
-<term>Hilton, John</term>
-<term>Hooe, Howson</term>
+<term xml:id="per.003991">Goszler, John</term>
+<term xml:id="per.004040">Hilton, John</term>
+<term xml:id="per.004041">Hooe, Howson</term>
 <term xml:id="per.002618">Kincheloe, John C.</term>
-<term xml:id="per.000661">Legg, Eli</term>
-<term>McLean, Cornelius</term>
+<term xml:id="per.000661">Legg, Elias P.</term>
+<term xml:id="per.004008">McLean, Cornelius</term>
 <term xml:id="per.002733">Nicholls, William S.</term>
-<term>Ober, Robert</term>
-<term>Pairo, Thomas W.</term>
+<term xml:id="per.004042">Ober, Robert</term>
+<term xml:id="per.004043">Pairo, Thomas W.</term>
 <term xml:id="per.002385">Pumphrey, Lloyd</term>
-<term>Ridgely, William G.</term>
-<term>Wood, Basil</term>
-<term>Young, Ezekiel</term>
+<term xml:id="per.003767">Ridgely, William G.</term>
+<term xml:id="per.004044">Wood, Basil</term>
+<term xml:id="per.003778">Young, Ezekiel</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -146,6 +147,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-30" who="#lkw">added xml:ids</change>
 <change when="2016-08-12" who="#kln">reviewed, edited</change>
 <change when="2016-07-13" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

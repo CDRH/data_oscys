@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,15 +87,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">   
-<term>Adams, Wesley</term>
-<term>Adams, William</term><!-- nephew of Wesley Adams -->
-<term>Ball, William</term><!-- could be per.000251 -->
-<term>Crump</term>
-<term>Harrison</term>
-<term>Johnson</term>
-<term>Sarah</term>
-<term>Summers, Simon</term><!-- father in law of Wesley Adams -->
-<term>Will</term>
+<term xml:id="per.003577">Adams, Wesley</term>
+<term xml:id="per.003579">Adams, William</term><!-- nephew of Wesley Adams -->
+<term xml:id="per.003580">Ball, William</term><!-- could be per.000251 -->
+<term xml:id="per.003581">Crump</term>
+<term xml:id="per.003582">Harrison</term>
+<term xml:id="per.003583">Johnson</term>
+<term xml:id="per.003574">Sarah</term>
+<term xml:id="per.003575">Summers, Simon</term><!-- father in law of Wesley Adams -->
+<term xml:id="per.003584">Will</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -106,13 +107,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003571">
 <persName>Roberts, Julia</persName> 
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003572">
 <persName>Adams, Austin L.</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003573">
 <persName>Harding, Ann C.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -133,6 +134,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2016-10-26" who="#lkw">added xml:ids</change> 
 <change when="2016-07-13" who="#kln">reviewed, edited</change>             
 <change when="2016-07-05" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

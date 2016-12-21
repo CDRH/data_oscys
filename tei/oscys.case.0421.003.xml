@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -87,8 +88,8 @@
     
 <keywords scheme="lcsh" n="people">   
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Lee, Cassius F.</term>
-<term>Minor, Daniel</term>
+<term xml:id="per.003461">Lee, Cassius F.</term>
+<term xml:id="per.002897">Minor, Daniel</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -100,7 +101,7 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003459">
 <persName>Holmes, Nathaniel</persName> 
 </person>
 <person role="defendant">
@@ -124,6 +125,7 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2016-10-13" who="#lkw">added xml:ids</change>    
 <change when="2016-07-15" who="#kln">reviewed and edited.</change>
 <change when="2016-06-20" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

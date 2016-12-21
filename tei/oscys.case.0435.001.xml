@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Rachel Graham v. Francis Swann. Petition for Freedom</title>
+<title>Rachel Graham v. Frances Swann. Petition for Freedom</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -21,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -88,9 +89,9 @@
 <term xml:id="per.001347">Alexander, Frances</term><!-- mother of Frances Swann -->
 <term xml:id="per.001348">Brown, Elizabeth</term>
 <term xml:id="per.001345">Graham, Ann</term><!-- sister of Rachel Graham -->
-<term>Keene, Newton</term><!-- probably per.000931 -->
-<term>McKnight, Charles</term>
-<term>Meade, Theodore</term>
+<term xml:id="per.003453">Keene, Newton</term>
+<term xml:id="per.003629">McKnight, Charles</term>
+<term xml:id="per.003630">Meade, Theodore</term>
 <term xml:id="per.001352">Dunbar, Milly</term><!-- mother of Rachel Graham -->
 </keywords>
 
@@ -112,7 +113,7 @@
 <person role="attorney_petitioner" xml:id="per.000435">
 <persName>Jones, Walter, 1776-1861</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.001356">
 <persName>Semmes, Thomas</persName>
 </person>
 <person role="attorney_defendant">
@@ -130,6 +131,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2016-10-26" who="#lkw">added xml:ids</change>  
 <change when="2016-06-29" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 

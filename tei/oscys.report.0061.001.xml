@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -82,7 +83,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Childs, John</term>
+<term xml:id="per.003247">Childs, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -94,31 +95,31 @@
  
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003250">
 <persName>Delilah</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003251">
 <persName>George</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003252">
 <persName>James</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003253">
 <persName>John William</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003254">
 <persName>Juliann</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003255">
 <persName>Spencer</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003256">
 <persName>Thornton</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003257">
 <persName>Jacobs, George</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003258">
 <persName>Williams, Augustine B.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -140,6 +141,7 @@
 </profileDesc>
         
 <revisionDesc>   
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-02" who="#kln">reviewed; edited</change>          
 <change when="2016-07-20" who="#snc">transcribed; encoded</change>
 </revisionDesc>
@@ -150,7 +152,7 @@
 
 <body>  
                
-<div1 type="case">
+<div1 type="report">
 
 <pb xml:id="p238" facs="oscys.report.0061.001.001.jpg"/>
 

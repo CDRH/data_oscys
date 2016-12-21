@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,19 +88,19 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Addison, Anthony</term>
-<term>Bennett, John J.</term>
-<term>Bittenger, John</term>
-<term>Brown, Thomas</term>
-<term>Clark, Ruben B.</term>
-<term>Cooper, William</term>
-<term>Duley, Edmund G.</term>
-<term>Fowler, Samuel</term>
-<term>Murphey, William</term>
-<term>Neale, John E.</term>
-<term>Simmons, Cephas</term>
-<term>Sylvester, Thomas</term>
-<term>Pumphrey, Samuel</term>
+<term xml:id="per.004171">Addison, Anthony</term>
+<term xml:id="per.004172">Bennett, John J.</term><!-- jury pool -->
+<term xml:id="per.004173">Bittenger, John</term>
+<term xml:id="per.004011">Brown, Thomas</term>
+<term xml:id="per.004174">Clark, Ruben B.</term>
+<term xml:id="per.004175">Cooper, William</term>
+<term xml:id="per.004176">Duley, Edmund G.</term>
+<term xml:id="per.004177">Fowler, Samuel</term>
+<term xml:id="per.004178">Murphey, William</term>
+<term xml:id="per.003877">Neale, John E.</term>
+<term xml:id="per.004179">Simmons, Cephas</term>
+<term xml:id="per.004180">Sylvester, Thomas</term>
+<term xml:id="per.004181">Pumphrey, Samuel</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -138,6 +139,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-16" who="#kln">reviewed, edited</change>
 <change when="2016-08-04" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

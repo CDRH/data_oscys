@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,37 +88,37 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Blagden, George</term> 
-<term>Boone, John</term>
-<term>Bond, William</term>
-<term>Brent, Robert</term><!-- per.001560 ?? -->
-<term>Bussard, John R.</term>
-<term>Clarke, Joseph</term>
-<term>Collard, George</term>
-<term>Collingwood, Samuel</term>
-<term>Crook, Barney</term>
-<term>Forrest, Joseph</term>
-<term>Harkness, Samuel</term>
-<term>Hersey, John</term>
-<term>Heugh, John</term>
+<term xml:id="per.003695">Blagden, George</term> 
+<term xml:id="per.003696">Boone, John</term>
+<term xml:id="per.003697">Bond, William</term>
+<term xml:id="per.003698">Brent, Robert</term><!-- per.001560 ?? -->
+<term xml:id="per.003699">Bussard, John R.</term>
+<term xml:id="per.003700">Clarke, Joseph</term>
+<term xml:id="per.003701">Collard, George</term>
+<term xml:id="per.003702">Collingwood, Samuel</term>
+<term xml:id="per.003703">Crook, Barney</term>
+<term xml:id="per.003704">Forrest, Joseph</term>
+<term xml:id="per.003705">Harkness, Samuel</term>
+<term xml:id="per.003706">Hersey, John</term>
+<term xml:id="per.003707">Heugh, John</term>
 <term xml:id="per.001573">Hodges, Thomas C.</term>
-<term>Holmead, Anthony</term>
-<term>Johnson, George</term>
+<term xml:id="per.003708">Holmead, Anthony</term>
+<term xml:id="per.003709">Johnson, George</term>
 <term xml:id="per.000097">Jones, Horatio</term>
-<term>McKenney, Thomas A.</term>
+<term xml:id="per.003710">McKenney, Thomas A.</term>
 <term xml:id="per.001458">Moore, William</term>
-<term>Mudd, Jeremiah</term>
-<term>Newton, Clement</term>
-<term>Patterson, Edgar</term>
-<term>Patterson, James</term>
-<term>Perkins, Jeremiah</term>
-<term>Renner, John</term>
-<term>Sprigg, Benjamin</term>
+<term xml:id="per.003711">Mudd, Jeremiah</term>
+<term xml:id="per.003712">Newton, Clement</term>
+<term xml:id="per.003713">Patterson, Edgar</term>
+<term xml:id="per.003714">Patterson, James</term>
+<term xml:id="per.003715">Perkins, Jeremiah</term>
+<term xml:id="per.003716">Renner, John</term>
+<term xml:id="per.003717">Sprigg, Benjamin</term>
 <term xml:id="per.000105">Stephenson, Clotworthy</term>
 <term xml:id="per.001461">St. Clair, George</term>
-<term>Stull, John J.</term>
-<term>Tolmie, Margaret</term>
-<term>Turner, Walter</term>
+<term xml:id="per.003718">Stull, John J.</term>
+<term xml:id="per.003719">Tolmie, Margaret</term>
+<term xml:id="per.003720">Turner, Walter</term>
 <term xml:id="per.000195">Wilson, Alexander</term>
 </keywords>
 
@@ -157,6 +158,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-10-26" who="#lkw">added xml:ids</change>  
 <change when="2016-08-05" who="#kln">reviewed, edited</change> 
 <change when="2016-07-13" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

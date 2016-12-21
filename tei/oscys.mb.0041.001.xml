@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,36 +88,36 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Berry, Brook M.</term><!-- could be per.000680 -->
+<term xml:id="per.003946">Berry, Brook M.</term><!-- could be per.000680 -->
 <term xml:id="per.002547">Broome, Abraham</term><!-- Broom -->
-<term>Butler, David, Jr.</term>
-<term>Callan, Nicholas</term>
+<term xml:id="per.003802">Butler, David, Jr.</term>
+<term xml:id="per.003781">Callan, Nicholas</term>
 <term xml:id="per.002328">Carr, Overton</term>
-<term>Cooper, Joseph</term>
+<term xml:id="per.003817">Cooper, Joseph</term>
 <term xml:id="per.000496">Coxe, Richard S. (Richard Smith), 1792-1865</term>
-<term>Fenwick, Thomas</term>
-<term>Frank, Mary</term>
-<term>Gaither, Greenbury</term>
-<term>Harrison, Richard</term>
-<term>Hoskinson, Thomas</term>
+<term xml:id="per.003822">Fenwick, Thomas</term>
+<term xml:id="per.003947">Frank, Mary</term>
+<term xml:id="per.003823">Gaither, Greenbury</term>
+<term xml:id="per.003824">Harrison, Richard</term>
+<term xml:id="per.003899">Hoskinson, Thomas</term>
 <term xml:id="per.001574">Hyde, Thomas</term>
-<term>Lipscomb, Jesse</term>
-<term>Lowe, Samuel P.</term>
-<term>Marshall, Thomas</term><!-- Marshal -->
-<term>Marsh, Morris</term>
-<term>McCauley, William M.</term>
-<term>McWilliams, Clement</term>
-<term>O'Neale, William</term>
+<term xml:id="per.003948">Lipscomb, Jesse</term>
+<term xml:id="per.000385">Lowe, Samuel P.</term>
+<term xml:id="per.003827">Marshall, Thomas</term><!-- Marshal -->
+<term xml:id="per.003949">Marsh, Morris</term>
+<term xml:id="per.003828">McCauley, William M.</term>
+<term xml:id="per.003777">McWilliams, Clement</term>
+<term xml:id="per.002745">O'Neale, William</term>
 <term xml:id="per.002549">Pyfer, Henry</term>
-<term>Riffle, Jacob</term>
-<term>Robinson, Samuel</term><!-- could be per.000511 -->
+<term xml:id="per.003950">Riffle, Jacob</term>
+<term xml:id="per.003951">Robinson, Samuel</term><!-- could be per.000511 -->
 <term xml:id="per.002315">Roach, Edward N.</term>
-<term>Scott, Alexander</term>
-<term>Smith, Lewis</term>
-<term>Stevens, Paul</term><!-- Stephens -->
+<term xml:id="per.003833">Scott, Alexander</term>
+<term xml:id="per.003795">Smith, Lewis</term>
+<term xml:id="per.003834">Stevens, Paul</term><!-- Stephens -->
 <term xml:id="per.001562">Swann, Thomas, 1789-1845</term>
-<term>Townsend, Singleton</term>
-<term>Wheatly, William</term>
+<term xml:id="per.003836">Townsend, Singleton</term>
+<term xml:id="per.003839">Wheatly, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -176,6 +177,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-22" who="#lkw">added xml:ids</change> 
 <change when="2016-08-10" who="#kln">reviewed, edited</change>
 <change when="2016-07-26" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

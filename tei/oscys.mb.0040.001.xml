@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -88,16 +89,16 @@
 
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.000968">Beeler, Louis</term>
-<term>Brooks, Michael</term>
-<term>Callan, John F.</term>
-<term>Callan, Nicholas</term>
-<term>Crandle, George</term><!-- probably per.001795 -->
-<term>Harr, Henry</term>
-<term>Hopkins, John</term>
-<term>Lacy, Edward</term>
-<term>Lloyd, Thomas</term>
-<term>Mount, John</term>
-<term>Parker, Thomas</term>
+<term xml:id="per.003942">Brooks, Michael</term>
+<term xml:id="per.003930">Callan, John F.</term>
+<term xml:id="per.003781">Callan, Nicholas</term>
+<term xml:id="per.003843">Crandle, George</term><!-- probably per.001795 -->
+<term xml:id="per.003853">Harr, Henry</term>
+<term xml:id="per.003943">Hopkins, John</term>
+<term xml:id="per.003944">Lacy, Edward</term>
+<term xml:id="per.003911">Lloyd, Thomas</term>
+<term xml:id="per.003901">Mount, John</term>
+<term xml:id="per.003945">Parker, Thomas</term>
 <term xml:id="per.000979">Waters, William N.</term>
 </keywords>
 
@@ -137,6 +138,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2016-11-22" who="#lkw">added xml:ids</change> 
 <change when="2016-08-10" who="#kln">reviewed, edited</change> 
 <change when="2016-07-22" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

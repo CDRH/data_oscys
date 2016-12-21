@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -88,18 +89,17 @@
 
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.001902">Bates, Edgar H.</term>
-<term>Boucher, Theodore</term>
-<term xml:id="per.000829">Bradley, Joseph H. (Joseph Habersham), 1802-1887</term>
-<term>Corrock, Thomas</term>
-<term>Coombes, Michael R.</term>
-<term>Davis, Joseph W.</term>
-<term>Guy, Benjamin F.</term>
-<term>Harbaugh, Edward L.</term>
-<term>Harris, James</term>
-<term>Lord, Francis B.</term>
-<term>McGuire, James</term><!-- could be per.002158 -->
+<term xml:id="per.003979">Boucher, Theodore</term>
+<term xml:id="per.003980">Corrock, Thomas</term>
+<term xml:id="per.003981">Coombes, Michael R.</term>
+<term xml:id="per.003982">Davis, Joseph W.</term>
+<term xml:id="per.003983">Guy, Benjamin F.</term>
+<term xml:id="per.003984">Harbaugh, Edward L.</term>
+<term xml:id="per.003985">Harris, James</term>
+<term xml:id="per.003986">Lord, Francis B.</term>
+<term xml:id="per.003972">McGuire, James</term>
 <term xml:id="per.001911">Sothoron, George M.</term>
-<term>Smith, James</term>
+<term xml:id="per.003987">Smith, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -141,6 +141,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-22" who="#lkw">added xml:ids</change> 
 <change when="2016-08-11" who="#kln">reviewed, edited</change>
 <change when="2016-07-18" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

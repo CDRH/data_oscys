@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -89,8 +90,8 @@
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
 <term xml:id="per.000739">Hunter, Alexander</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>Mandell, John C.</term>
-<term>Richards, William B.</term>
+<term xml:id="per.002989">Mandell, John C.</term>
+<term xml:id="per.003492">Richards, William B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -107,13 +108,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003488">
 <persName>Brent, Rachael</persName> 
 </person>
 <person role="defendant" xml:id="per.000866">
 <persName>Armfield, John</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.003181">
 <persName>Hooe, Bernard</persName>
 </person>
 <person role="attorney_defendant">
@@ -131,6 +132,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2016-10-17" who="#lkw">added xml:ids</change>
 <change when="2016-06-27" who="#kln">reviewed and edited</change>         
 <change when="2016-06-22" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

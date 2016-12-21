@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,19 +88,19 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Baker, John</term>
-<term>Brent, John H.</term>
-<term>Carberry, Thomas</term>
-<term>Clark, Isaac</term>
-<term>Davis, Richard</term>
-<term>Goszler, John</term>
-<term>Grammer, G. C.</term>
-<term>Gunton, William</term>
-<term>King, William, Jr.</term>
-<term>McLean, Cornelius</term>
+<term xml:id="per.003989">Baker, John</term>
+<term xml:id="per.004003">Brent, John H.</term>
+<term xml:id="per.004004">Carberry, Thomas</term>
+<term xml:id="per.004005">Clark, Isaac</term>
+<term xml:id="per.003762">Davis, Richard</term>
+<term xml:id="per.003991">Goszler, John</term>
+<term xml:id="per.003751">Grammer, G. C.</term>
+<term xml:id="per.004006">Gunton, William</term>
+<term xml:id="per.004007">King, William, Jr.</term>
+<term xml:id="per.004008">McLean, Cornelius</term>
 <term xml:id="per.000830">Marbury, John</term>
-<term>Orme, Rezin</term>
-<term>Waters, Thomas G.</term>
+<term xml:id="per.004009">Orme, Rezin</term>
+<term xml:id="per.003757">Waters, Thomas G.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -138,6 +139,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-22" who="#lkw">added xml:ids</change> 
 <change when="2016-08-11" who="#kln">reviewed, edited</change>
 <change when="2016-07-13" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

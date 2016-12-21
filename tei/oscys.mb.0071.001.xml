@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,33 +88,33 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Arden, Daniel D.</term>
-<term>Callan, Nicholas</term>
+<term xml:id="per.004216">Arden, Daniel D.</term>
+<term xml:id="per.003781">Callan, Nicholas</term>
 <term xml:id="per.002328">Carr, Overton</term>
-<term>Carter, John</term>
+<term xml:id="per.004217">Carter, John</term>
 <term xml:id="per.001793">Casanave, Peter</term>
-<term>Cooper, Issac</term>
+<term xml:id="per.003771">Cooper, Issac</term>
 <term xml:id="per.001794">Cover, George</term>
-<term>Goddard, John</term>
-<term>Grammer, G. C.</term>
-<term>Gunnell, William H.</term>
-<term>Haller, George W.</term>
-<term>Hicks, Albert</term>
-<term>Holmead, John B.</term>
-<term>Horner, Reubin W.</term>
-<term>Johnson, Lewis</term>
-<term>Kurtz, John</term>
-<term>Lindsley, Eleazer</term>
-<term>Lowe, Samuel P.</term>
-<term>Lyons, John</term>
-<term>Millard, Joshua</term>
-<term>Potts, Samuel L.</term>
-<term>Orme, Jeremiah</term>
-<term>Semms, Edward</term>
-<term>Scrivner, John</term>
+<term xml:id="per.004218">Goddard, John</term>
+<term xml:id="per.003751">Grammer, G. C.</term>
+<term xml:id="per.004219">Gunnell, William H.</term>
+<term xml:id="per.004220">Haller, George W.</term>
+<term xml:id="per.004221">Hicks, Albert</term>
+<term xml:id="per.004222">Holmead, John B.</term>
+<term xml:id="per.004223">Horner, Reubin W.</term>
+<term xml:id="per.004224">Johnson, Lewis</term>
+<term xml:id="per.004225">Kurtz, John</term>
+<term xml:id="per.004226">Lindsley, Eleazer</term>
+<term xml:id="per.000385">Lowe, Samuel P.</term>
+<term xml:id="per.003754">Lyons, John</term>
+<term xml:id="per.004012">Millard, Joshua</term>
+<term xml:id="per.004227">Potts, Samuel L.</term>
+<term xml:id="per.004047">Orme, Jeremiah</term>
+<term xml:id="per.004228">Semms, Edward</term>
+<term xml:id="per.004229">Scrivner, John</term>
 <term xml:id="per.002240">Stettinius, Samuel</term>
-<term>Wails, Isaac</term>
-<term>Wheatly, William</term><!-- Wheatley -->
+<term xml:id="per.004230">Wails, Isaac</term>
+<term xml:id="per.003839">Wheatly, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -152,6 +153,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-18" who="#kln">reviewed, edited</change>
 <change when="2016-08-05" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

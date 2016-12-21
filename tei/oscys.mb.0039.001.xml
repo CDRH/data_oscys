@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,37 +88,37 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Bates, Thomas</term>
+<term xml:id="per.003918">Bates, Thomas</term>
 <term xml:id="per.001693">Brereton, Samuel</term>
-<term>Butler, Charles</term>
-<term>Collins, Edward</term>
-<term>Drury, Samuel</term>
-<term>Eaton, William</term>
-<term>Ennis, Gregory</term>
-<term>Hebb, William</term>
-<term>Kirkwood, Wallis</term><!-- Wallace -->
-<term>Maddox, William R.</term>
+<term xml:id="per.003886">Butler, Charles</term>
+<term xml:id="per.003919">Collins, Edward</term>
+<term xml:id="per.003845">Drury, Samuel</term>
+<term xml:id="per.003920">Eaton, William</term>
+<term xml:id="per.000974">Ennis, Gregory</term>
+<term xml:id="per.003509">Hebb, William</term>
+<term xml:id="per.003895">Kirkwood, Wallis</term><!-- Wallace -->
+<term xml:id="per.003864">Maddox, William R.</term>
 <term xml:id="per.001698">Meade, Fanny</term>
 <term xml:id="per.001688">Meade, James</term>
 <term xml:id="per.001621">Morsell, Benjamin K.</term>
-<term>Mount, John</term>
+<term xml:id="per.003901">Mount, John</term>
 <term xml:id="per.001150">Orme, William C.</term>
-<term>Owens, James</term>
+<term xml:id="per.003867">Owens, James</term>
 <term xml:id="per.002315">Roach, Edward N.</term>
-<term>Sebley, Henry W.</term>
-<term>Sherman, William D.</term>
-<term>Smoot, Samuel</term>
+<term xml:id="per.003921">Sebley, Henry W.</term>
+<term xml:id="per.003922">Sherman, William D.</term>
+<term xml:id="per.003923">Smoot, Samuel</term>
 <term xml:id="per.002240">Stettinius, Samuel</term>
-<term>Summers, James</term>
-<term>Sweeny, George</term>
-<term>Thompson, Samuel</term>
-<term>Thompson, William</term>
-<term>Tolson, Edward</term>
-<term>Waller, Abraham B.</term>
+<term xml:id="per.003849">Summers, James</term>
+<term xml:id="per.003924">Sweeny, George</term>
+<term xml:id="per.003925">Thompson, Samuel</term><!-- may be  xml:id="per.000309"  -->
+<term xml:id="per.003916">Thompson, William</term>
+<term xml:id="per.003926">Tolson, Edward</term>
+<term xml:id="per.003927">Waller, Abraham B.</term>
 <term xml:id="per.001699">Wallingsford, Amelia</term>
-<term>Williams, Philip</term>
-<term>Young, Abner H.</term>
-<term>Young, John M.</term>
+<term xml:id="per.003893">Williams, Philip</term>
+<term xml:id="per.003917">Young, Abner H.</term>
+<term xml:id="per.003928">Young, John M.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -161,6 +162,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-22" who="#lkw">added xml:ids</change> 
 <change when="2016-08-10" who="#kln">reviewed, edited</change>
 <change when="2016-07-18" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

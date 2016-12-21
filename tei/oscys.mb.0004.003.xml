@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -89,16 +90,16 @@
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.002741">Burch, Benjamin</term>
 <term xml:id="per.000287">Clarke, Walter</term>
-<term>Collingwood, Samuel</term>
+<term xml:id="per.003702">Collingwood, Samuel</term>
 <term xml:id="per.001455">Cochrane, Alexander</term>
 <term xml:id="per.000089">Delaplaine, Joseph</term>
-<term>Harkness, Samuel</term>
-<term>Holtzman, William</term>
-<term>Jenkins, Edward</term>
-<term>Mudd, Jeremiah</term>
+<term xml:id="per.003705">Harkness, Samuel</term>
+<term xml:id="per.004258">Holtzman, William</term>
+<term xml:id="per.004259">Jenkins, Edward</term>
+<term xml:id="per.003711">Mudd, Jeremiah</term>
 <term xml:id="per.000103">Renner, Daniel</term>
-<term>Richardson, Thomas</term>
-<term>Wingard, Abraham</term>
+<term xml:id="per.004255">Richardson, Thomas K.</term>
+<term xml:id="per.004262">Wingard, Abraham</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -149,6 +150,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-05" who="#kln">reviewed, edited</change> 
 <change when="2016-07-12" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

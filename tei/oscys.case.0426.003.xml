@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,7 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Hutchinson, Alexander</term>
+<term xml:id="per.003500">Hutchinson, Alexander</term>
 <term xml:id="per.002630">Lynn, Adam</term>
 </keywords>
 
@@ -100,13 +101,13 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003498">
 <persName>Taylor, Charles</persName>
 </person>
 <person role="defendant" xml:id="per.000904">
 <persName>Buckner, Ariss</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003499">
 <persName>Buckner, Bernard H.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -127,6 +128,7 @@
 </profileDesc>
         
 <revisionDesc>          
+<change when="2016-10-17" who="#lkw">added xml:ids; transcription</change>
 <change when="2016-07-06" who="#snc">reviewed</change>  
 <change when="2016-06-22" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -145,7 +147,7 @@
 
 <p>The Deposition of Alexander Hutchinson taken by consent of parties at the office of Adam Lynn in Alexandria on the 14' of May 1835. to be read in Evidence on the Trial of a suit now depending in the Circuit Court of the United States for the County of Alexandria in which Charles and other Negroes are Plaintiff &amp; Ariss Buckner Defendant</p>
 
-<p>Alexander Hutchinson a Witness on behalf of the Deft being first duly Sworn to testify the whole Truth Deposes &amp; Says&#8212;That some time in the Winter of 1829-30, he received a Message from the Deft. Ariss Buckner (through <unclear reason="illegible">Dept.</unclear> Father) that the said Deft. wished to rent the Deponent his Farm called Auburn for a term of years, reserving to himself a room in the Dwelling house on said Farm for his own use when up on business the time to commence the first day of January 1830. that at the time the deponent received the aforesaid Message, he understood that the Deft Ariss Buckner and family were residents of the City of Washington. The Deponent at the time aforesaid lived about 10 or 12 miles from his Father, and when visiting him frequently found the Deft Buckner there and have stayed all night with him. The Term proposed by the Deft Buckner for the rent of said Farm was not <gap extent="one word" reason="illegible"/> to by the Deponent &amp; at the time aforesd the Deponent resided about 16 miles from the Deft Buckner in County of Fauquier Va.</p>
+<p>Alexander Hutchinson a Witness on behalf of the Deft being first duly Sworn to testify the whole Truth Deposes &amp; Says&#8212;That some time in the Winter of 1829-30, he received a Message from the Deft. Ariss Buckner (through <unclear reason="illegible">Dept.</unclear> Father) that the said Deft. wished to rent the Deponent his Farm called Auburn for a term of years, reserving to himself a room in the Dwelling house on said Farm for his own use when up on business the time to commence the first day of January 1830. that at the time the deponent received the aforesaid Message, he understood that the Deft Ariss Buckner and family were residents of the City of Washington. The Deponent at the time aforesaid lived about 10 or 12 miles from his Father, and when visiting him frequently found the Deft Buckner there and have stayed all night with him. The Term proposed by the Deft Buckner for the rent of said Farm was not <unclear extent="one word" reason="illegible">acceeded</unclear> to by the Deponent &amp; at the time aforesd the Deponent resided about 16 miles from the Deft Buckner in County of Fauquier Va.</p>
 
 <p>Alexander Hutchinson</p>
 
@@ -162,7 +164,7 @@ County of Alexandria ss</p>
 
 <div2 type="body">
 
-<p>I Adam Lynn a Justice of Peace for said County do hereby Certify that the foregoing deposition of Alexander Hutchinson was taken before me according to the Caption thereof and that the Witness was Sworn &amp; signed the said <gap extent="one word" reason="illegible"/> before me</p>
+<p>I Adam Lynn a Justice of Peace for said County do hereby Certify that the foregoing deposition of Alexander Hutchinson was taken before me according to the Caption thereof and that the Witness was Sworn &amp; signed the said <unclear extent="one word" reason="illegible">Depositer</unclear> before me</p>
 
 <p>Given under my hand &amp; Seal this 14' May 1835<lb/>
 Adam Lynn (s)</p>

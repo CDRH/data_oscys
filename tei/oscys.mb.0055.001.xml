@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,28 +88,28 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Berry, Brook M.</term><!-- could be per.000680 -->
-<term>Boone, John B.</term><!-- same as John Boone? -->
+<term xml:id="per.003946">Berry, Brook M.</term>
+<term xml:id="per.003696">Boone, John B.</term>
 <term xml:id="per.002547">Broome, Abraham</term>
-<term>Butler, David, Jr.</term>
-<term>Callan, Nicholas</term>
+<term xml:id="per.003802">Butler, David, Jr.</term>
+<term xml:id="per.003781">Callan, Nicholas</term>
 <term xml:id="per.002328">Carr, Overton</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Gaither, Greenbury</term>
-<term>Harrison, Richard</term>
+<term xml:id="per.003823">Gaither, Greenbury</term>
+<term xml:id="per.003824">Harrison, Richard</term>
 <term xml:id="per.001574">Hyde, Thomas</term>
-<term>Lowe, Samuel P.</term>
-<term>Marsh, Morris</term>
-<term>Marshall, Thomas</term>
+<term xml:id="per.000385">Lowe, Samuel P.</term>
+<term xml:id="per.003949">Marsh, Morris</term>
+<term xml:id="per.003827">Marshall, Thomas</term>
 <term xml:id="per.000977">McPherson, Henry H.</term>
-<term>McWilliams, Clement</term>
+<term xml:id="per.003777">McWilliams, Clement</term>
 <term xml:id="per.000044">Morsell, James Sewall</term>
 <term xml:id="per.001790">Ramsay, Andrew</term>
-<term>Robinson, Samuel</term><!-- could be per.000511 -->
-<term>Scott, Alexander</term>
+<term xml:id="per.003951">Robinson, Samuel</term>
+<term xml:id="per.003833">Scott, Alexander</term>
 <term xml:id="per.000064">Thurston, Buckner, 1763-1845</term>
-<term>Townsend, Singleton</term>
-<term>Wheatly, William</term>
+<term xml:id="per.003836">Townsend, Singleton</term>
+<term xml:id="per.003839">Wheatly, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -147,6 +148,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-30" who="#lkw">added xml:ids</change>
 <change when="2016-08-12" who="#kln">reviewed, edited</change>
 <change when="2016-08-01" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

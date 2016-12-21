@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,31 +88,33 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Adams, George A.</term>
-<term>Berry, Philip T.</term>
-<term>Boutcher, Alfred H.</term>
-<term>Butler, David, Jr.</term>
-<term>Carberry, Thomas</term><!-- Carbery -->
+<term xml:id="per.003800">Adams, George A.</term>
+<term xml:id="per.003801">Berry, Philip T.</term>
+<term xml:id="per.003780">Boutcher, Alfred H.</term>
+<term xml:id="per.003802">Butler, David, Jr.</term>
+<term xml:id="per.003803">Carbery, Thomas</term><!-- Carberry? -->
 <term xml:id="per.001793">Casanave, Peter</term>
-<term>Clark, John F.</term>
-<term>Dixon, John</term>
-<term>Eckell, Charles E.</term>
-<term>Eliason, Asbury</term>
-<term>Gassaway, Hanson</term>
-<term>Goszler, George A.</term>
-<term>Ingle, Edward</term>
+<term xml:id="per.003804">Clark, John F.</term>
+<term xml:id="per.003805">Dixon, John</term><!-- may be per.002946 -->
+<term xml:id="per.003806">Eckell, Charles E.</term>
+<term xml:id="per.003807">Edward</term><!-- Last name unclear -->
+<term xml:id="per.003785">Eliason, Asbury</term>
+<term xml:id="per.003764">Gassaway, Hanson</term>
+<term xml:id="per.003786">Goszler, George A.</term>
+<term xml:id="per.003808">Ingle, Edward</term>
 <term xml:id="per.001797">Kennedy, James</term>
-<term>King, Francis</term>
-<term>Litle, Charles</term>
+<term xml:id="per.003789">King, Francis</term>
+<term xml:id="per.003809">Litle, Charles</term><!-- may be Charles Little per.003004 -->
 <term xml:id="per.002540">McCandless, George</term>
-<term>McElroy, Anthony</term>
-<term>Miller, Thomas, Jr.</term>
-<term>Poor, Nathaniel P.</term>
-<term>Preston, Anthony</term>
-<term>Queen, John</term>
-<term>Ratcliffe, Joseph</term>
-<term>Smith, Lewis</term>
+<term xml:id="per.003791">McElroy, Anthony</term>
+<term xml:id="per.003799">Miller, Thomas, Jr.</term><!-- witness -->
+<term xml:id="per.003810">Poor, Nathaniel P.</term>
+<term xml:id="per.003811">Preston, Anthony</term>
+<term xml:id="per.003812">Queen, John</term>
+<term xml:id="per.003793">Ratcliffe, Joseph</term>
+<term xml:id="per.003795">Smith, Lewis</term>
 <term xml:id="per.002752">Wright, Matthew</term>
+<term xml:id="per.003813">Webb, John F.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -150,6 +153,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-10-26" who="#lkw">added xml:ids; added Webb to people</change>  
 <change when="2016-08-08" who="#kln">reviewed, edited</change>
 <change when="2016-07-05" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

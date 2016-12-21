@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -89,21 +90,22 @@
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.002546">Berry, Elisha D.</term>
 <term xml:id="per.002547">Broome, Abraham</term>
-<term>Brown, Joel</term>
-<term>Callan, Nicholas</term>
+<term xml:id="per.004033">Brown, Joel</term>
+<term xml:id="per.003781">Callan, Nicholas</term>
 <term xml:id="per.002545">French, William</term>
-<term>Harry, John</term>
-<term>Harvey, James</term> 
-<term>Helm, Joseph</term>
-<term>King, Francis</term>
-<term>Magruder, Peter</term>
-<term>Marsh, Morris</term>
-<term>McCauley, William M.</term>
-<term>Millard, Joshua</term>
+<term xml:id="per.004034">Harry, John</term>
+<term xml:id="per.004035">Harvey, James</term> 
+<term xml:id="per.004036">Helm, Joseph</term>
+<term xml:id="per.004037">Hyde, Uriah</term>
+<term xml:id="per.003789">King, Francis</term>
+<term xml:id="per.003994">Magruder, Peter</term>
+<term xml:id="per.003949">Marsh, Morris</term>
+<term xml:id="per.003828">McCauley, William M.</term>
+<term xml:id="per.004012">Millard, Joshua</term>
 <term xml:id="per.002548">Miller, Robert</term>
 <term xml:id="per.001150">Orme, William C.</term>
 <term xml:id="per.002549">Pyfer, Henry</term>
-<term>Sandiford, Thomas</term>
+<term xml:id="per.004028">Sandiford, Thomas</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -142,6 +144,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-30" who="#lkw">added xml:ids; added Hyde to people</change> 
 <change when="2016-08-12" who="#kln">reviewed, edited</change>
 <change when="2016-07-14" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

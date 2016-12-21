@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,29 +88,29 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Bayly, Mountjoy</term>
-<term>Bixby, Nathaniel P.</term>
-<term>Boone, Francis</term>
-<term>Brashears, John W.</term>
+<term xml:id="per.003559">Bayly, Mountjoy</term>
+<term xml:id="per.003731">Bixby, Nathaniel P.</term>
+<term xml:id="per.003732">Boone, Francis</term>
+<term xml:id="per.003724">Brashears, John W.</term>
 <term xml:id="per.002694">Burch, Samuel</term>
 <term xml:id="per.000086">Clarke, Robert</term>
 <term xml:id="per.000087">Claxton, Thomas</term>
-<term>Cooke, Thomas</term>
-<term>Dunn, Thomas</term>
+<term xml:id="per.003738">Cooke, Thomas</term>
+<term xml:id="per.004059">Dunn, Thomas</term>
 <term xml:id="per.001456">Greenfield, Walter</term>
-<term>Gustine, Robert G.</term>
+<term xml:id="per.004017">Gustine, Robert G.</term>
 <term xml:id="per.001287">King, Vincent</term>
-<term>Leonard, Jacob</term>
-<term>Lyles, William H.</term>
+<term xml:id="per.004060">Leonard, Jacob</term>
+<term xml:id="per.002874">Lyles, William Henry</term>
 <term xml:id="per.001458">Moore, William</term>
-<term>Mudd, Jeremiah</term>
+<term xml:id="per.003711">Mudd, Jeremiah</term>
 <term xml:id="per.001579">Naylor, John L.</term>
-<term>Reynolds, Thomas</term>
-<term>Rhodes, William</term>
+<term xml:id="per.003728">Reynolds, Thomas</term>
+<term xml:id="per.003729">Rhodes, William</term>
 <term xml:id="per.000105">Stephenson, Clotworthy</term>
 <term xml:id="per.000190">Stevens, John</term>
 <term xml:id="per.000109">Washington, Bailey</term>
-<term>Weightman, William</term>
+<term xml:id="per.004061">Weightman, William</term>
 <term xml:id="per.002752">Wright, Matthew</term>
 </keywords>
 
@@ -151,6 +152,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-30" who="#lkw">added xml:ids</change>
 <change when="2016-08-12" who="#kln">reviewed, edited</change>
 <change when="2016-08-01" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>

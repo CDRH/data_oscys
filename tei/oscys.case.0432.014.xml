@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -87,11 +88,11 @@
     
 <keywords scheme="lcsh" n="people">   
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Lee, Cassius F.</term>
-<term>Minor, Daniel</term>
-<term>Minor, George</term>
-<term>Minor, Smith</term>
-<term>Minor, William</term>
+<term xml:id="per.003461">Lee, Cassius F.</term>
+<term xml:id="per.002897">Minor, Daniel</term>
+<term xml:id="per.003263">Minor, George</term>
+<term xml:id="per.003593">Minor, Smith</term>
+<term xml:id="per.003248">Minor, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -104,13 +105,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003571">
 <persName>Roberts, Julia</persName> 
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003572">
 <persName>Adams, Austin L.</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003573">
 <persName>Harding, Ann C.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -131,6 +132,7 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2016-10-26" who="#lkw">added xml:ids</change> 
 <change when="2016-07-13" who="#kln">reviewed, edited</change>            
 <change when="2016-07-05" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

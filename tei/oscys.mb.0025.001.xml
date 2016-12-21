@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,30 +88,30 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Anderson, Robert P.</term>
+<term xml:id="per.003779">Anderson, Robert P.</term>
 <term xml:id="per.001792">Birth, James</term>
-<term>Boutcher, Alfred H.</term>
-<term>Callan, Nicholas</term>
+<term xml:id="per.003780">Boutcher, Alfred H.</term>
+<term xml:id="per.003781">Callan, Nicholas</term>
 <term xml:id="per.001793">Casanave, Peter</term>
 <term xml:id="per.001794">Cover, George</term>
-<term>Cripps, William L.</term>
-<term>Dixon, John</term>
-<term>Eckell, Charles E.</term>
-<term>Eliason, Asbury</term>
-<term>Goszler, George A.</term>
-<term>Gassaway, Hanson</term>
-<term>Hines, Matthew</term>
+<term xml:id="per.003782">Cripps, William L.</term>
+<term xml:id="per.003783">Dixon, John</term><!-- Likely per.002946 -->
+<term xml:id="per.003784">Eckell, Charles E.</term>
+<term xml:id="per.003785">Eliason, Asbury</term>
+<term xml:id="per.003786">Goszler, George A.</term>
+<term xml:id="per.003764">Gassaway, Hanson</term>
+<term xml:id="per.003787">Hines, Matthew</term>
 <term xml:id="per.000643">Hook, James</term>
-<term>Hughes, David</term>
+<term xml:id="per.003788">Hughes, David</term>
 <term xml:id="per.001797">Kennedy, James</term>
-<term>King, Francis</term>
-<term>Masi, Seraphim</term>
-<term>McElroy, Anthony</term>
-<term>Nicholls, Isaac S.</term>
-<term>Ratcliffe, Joseph</term>
-<term>Selden, Cary</term>
-<term>Smith, Lewis</term>
-<term>Williams, John</term>
+<term xml:id="per.003789">King, Francis</term>
+<term xml:id="per.003790">Masi, Seraphim</term>
+<term xml:id="per.003791">McElroy, Anthony</term>
+<term xml:id="per.003792">Nicholls, Isaac S.</term>
+<term xml:id="per.003793">Ratcliffe, Joseph</term>
+<term xml:id="per.003794">Selden, Cary</term>
+<term xml:id="per.003795">Smith, Lewis</term>
+<term xml:id="per.003796">Williams, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places"> 
@@ -149,6 +150,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-10-26" who="#lkw">added xml:ids</change>  
 <change when="2016-08-08" who="#kln">reviewed, edited</change>
 <change when="2016-07-26" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

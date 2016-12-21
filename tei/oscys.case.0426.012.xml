@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -88,12 +89,12 @@
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000003">Brent, William, 1774-1848</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Buckingham</term><!-- wife of Caleb -->
-<term>Digges, William</term>
-<term>Hebb, William</term>
-<term>Hewitt, William</term>
+<term xml:id="per.003518">Buckingham</term><!-- wife of Caleb -->
+<term xml:id="per.003512">Digges, William</term>
+<term xml:id="per.003509">Hebb, William</term>
+<term xml:id="per.003519">Hewitt, William</term>
 <term xml:id="per.000122">Lee, Edmund J.</term>
-<term>Stewart, George</term>
+<term xml:id="per.003520">Stewart, George</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -105,13 +106,13 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003498">
 <persName>Taylor, Charles</persName>
 </person>
 <person role="defendant" xml:id="per.000904">
 <persName>Buckner, Ariss</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003499">
 <persName>Buckner, Bernard H.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -131,7 +132,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>      
+<revisionDesc>     
+<change when="2016-10-17" who="#lkw">added xml:ids; transcription</change> 
 <change when="2016-07-06" who="#snc">reviewed</change>     
 <change when="2016-06-23" who="#kln">transcribed, encoded</change>
 </revisionDesc>
@@ -172,7 +174,7 @@ To the Marshal of the District of Columbia, Greeting.</p>
 
 <p>70</p>
 
-<p>Tyalor &amp; als<lb/>
+<p>Taylor &amp; als<lb/>
 v.<lb/>
 Buckner</p>
 

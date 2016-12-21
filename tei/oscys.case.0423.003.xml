@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -86,9 +87,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">   
-<term>Colquhoun, William S.</term>
-<term>Dunnington, Francis H.</term>
-<term>Hampton, Thomas R.</term>
+<term xml:id="per.001745">Colquhoun, William S.</term>
+<term xml:id="per.003467">Dunnington, Francis H.</term>
+<term xml:id="per.003472">Hampton, Thomas R.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">   
@@ -101,13 +102,13 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003468">
 <persName>Blue, Caroline</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003469">
 <persName>Blue, Noah</persName> 
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003470">
 <persName>Dunnington, Charles W. C.</persName>
 </person>
 <person role="attorney_petitioner">
@@ -128,6 +129,7 @@
 </profileDesc>
         
 <revisionDesc>
+<change when="2016-10-17" who="#lkw">added xml:ids</change>  
 <change when="2016-07-18" who="#kln">reviewed, edited</change>                
 <change when="2016-06-21" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

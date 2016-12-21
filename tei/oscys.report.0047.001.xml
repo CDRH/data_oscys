@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -82,10 +83,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Carrington, Timothy</term>
-<term>Dorcas</term><!-- from oscys.caseid.0424 -->
-<term>Simms, William</term>
-<term>Smith, Alexander</term>
+<term xml:id="per.003157">Carrington, Timothy</term>
+<term xml:id="per.003161">Dorcas</term>
+<term xml:id="per.003160">Simms, William</term>
+<term xml:id="per.003166">Smith, Alexander</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -100,18 +101,16 @@
  
 <particDesc>   
 <listPerson>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003164">
 <persName>Fanny</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003165">
 <persName>Kell, Isaac</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.002883">
 <persName>Taylor, Robert I.</persName>
-<!-- middle initial varies between I. & J. in many sources here and elswhere
-https://goo.gl/0RklEj p19fn32 -->
 </person>
-<person role="attorney_petitioner" xml:id="per.002112">
+<person role="attorney_defendant" xml:id="per.002112">
 <persName>Mason, Thomson F.</persName>
 </person>
 </listPerson>
@@ -126,6 +125,7 @@ https://goo.gl/0RklEj p19fn32 -->
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-12-05" who="#lkw">added xml:ids; changed Mason from attorney_petitioner to attorney_defendant</change>
 <change when="2016-08-01" who="#kln">reviewed; edited</change>           
 <change when="2016-07-12" who="#snc">transcribed; encoded</change>
 </revisionDesc>
@@ -136,7 +136,7 @@ https://goo.gl/0RklEj p19fn32 -->
 
 <body>  
                
-<div1 type="case">
+<div1 type="report">
 
 <pb xml:id="p412" facs="oscys.report.0047.001.001.jpg"/>
 

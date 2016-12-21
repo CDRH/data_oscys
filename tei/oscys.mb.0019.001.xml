@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,27 +88,26 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Beale, George</term>
-<term>Bigsby, Nathaniel</term>
-<term>Boone, Ignatius</term>
-<term>Brashears, John W.</term>
-<term>Brooke, Samuel</term> 
-<term>Collingwood, Samuel</term>
-<term>Duvall, William</term>
+<term xml:id="per.003721">Beale, George</term>
+<term xml:id="per.003722">Bigsby, Nathaniel</term>
+<term xml:id="per.003723">Boone, Ignatius</term>
+<term xml:id="per.003724">Brashears, John W.</term>
+<term xml:id="per.003725">Brooke, Samuel</term> 
+<term xml:id="per.003702">Collingwood, Samuel</term>
+<term xml:id="per.003726">Duvall, William</term>
 <term xml:id="per.002765">Eliason, John</term>
-<term>Esias</term><!-- surname unclear -->
-<term>Forrest, Joseph</term>
+<term xml:id="per.003727">Esias</term><!-- surname unclear -->
+<term xml:id="per.003704">Forrest, Joseph</term>
 <term xml:id="per.001456">Greenfield, Walter</term>
-<term>Holmead, Anthony</term>
-<term xml:id="per.000001">Key, Francis Scott, 1779-1843</term>
+<term xml:id="per.003708">Holmead, Anthony</term>
 <term xml:id="per.002743">Lee, Archibald</term>
-<term>Lyles, William H.</term>
+<term xml:id="per.002874">Lyles, William H.</term>
 <term xml:id="per.001458">Moore, William</term>
-<term>Mudd, Jeremiah</term>
-<term>Newton, Clem</term>
-<term>Perkins, Jeremiah</term>
-<term>Reynolds, Thomas</term>
-<term>Rhodes, William</term>
+<term xml:id="per.003711">Mudd, Jeremiah</term>
+<term xml:id="per.003712">Newton, Clement</term>
+<term xml:id="per.003715">Perkins, Jeremiah</term>
+<term xml:id="per.003728">Reynolds, Thomas</term>
+<term xml:id="per.003729">Rhodes, William</term>
 <term xml:id="per.001461">St. Clair, George</term>
 </keywords>
 
@@ -132,8 +132,8 @@
 <person role="defendant" xml:id="per.000228"> 
 <persName>Pic, Mary Ann</persName>
 </person>
-<person role="attorney_petitioner">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -150,6 +150,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-10-26" who="#lkw">added xml:ids; changed Clem to Clement; moved Key to attorney_petitioner</change>  
 <change when="2016-08-05" who="#kln">reviewed, edited</change>
 <change when="2016-07-25" who="#ea">Encoded and transcribed</change>
 </revisionDesc>

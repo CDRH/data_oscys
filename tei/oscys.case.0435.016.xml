@@ -6,13 +6,14 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Rachel Graham v. Francis Swann. Bond</title>
+<title>Rachel Graham v. Frances Swann. Bond</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -21,7 +22,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -85,9 +86,8 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>McNamee, Charles</term>
-<term>Middleton, E. J.</term>
-<term xml:id="per.001366">Swann, Edward</term>
+<term xml:id="per.003691">McNamee, Charles</term>
+<term xml:id="per.003692">Middleton, E. J.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -107,8 +107,8 @@
 <person role="attorney_petitioner">
 <persName/>
 </person>
-<person role="attorney_defendant">
-<persName/>
+<person role="attorney_defendant" xml:id="per.001366">
+<persName>Swann, Edward</persName>
 </person>
 </listPerson>
             
@@ -122,6 +122,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2016-10-26" who="#lkw">added xml:ids; moved Edward Swann to attorney_defendant</change>  
 <change when="2016-07-07" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 

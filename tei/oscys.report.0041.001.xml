@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
             
@@ -99,8 +100,8 @@
 <person role="defendant" xml:id="per.003107">
 <persName>Robinson, Matthew</persName>
 </person>
-<person role="attorney_petitioner">
-<persName>Hewitt</persName><!-- could be Thomas W. Hewitt and/or per.002010 -->
+<person role="attorney_petitioner" xml:id="per.004263">
+<persName>Hewitt</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.002883">
 <persName>Taylor, Robert I.</persName>
@@ -117,6 +118,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
 <change when="2016-08-01" who="#kln">reviewed; edited</change>           
 <change when="2016-07-08" who="#snc">transcribed; encoded</change>
 </revisionDesc>
@@ -127,7 +129,7 @@
 
 <body>  
                
-<div1 type="case">
+<div1 type="report">
 
 <pb xml:id="p220" facs="oscys.report.0041.001.001.jpg"/>
 

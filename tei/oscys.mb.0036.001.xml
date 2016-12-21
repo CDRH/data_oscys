@@ -14,6 +14,7 @@
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -22,7 +23,7 @@
 
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2016</date>
 </edition>
 </editionStmt>
 
@@ -87,35 +88,35 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term>Berton, Chancy</term>
-<term>Boone, John B.</term>
+<term xml:id="per.003815">Berton, Chancy</term>
+<term xml:id="per.003696">Boone, John B.</term>
 <term xml:id="per.002547">Broome, Abraham</term>
 <term xml:id="per.001198">Brooke, Mary</term>
-<term>Callan, Nicholas</term>
+<term xml:id="per.003781">Callan, Nicholas</term>
 <term xml:id="per.002328">Carr, Overton</term>
-<term>Eschbach, John</term>
-<term>Cropley, Samuel</term>
-<term>Dowling, William</term>
-<term>Farrant, John</term>
-<term>Gaither, Greenbury</term>
-<term>Haskinson, Thomas</term>
-<term>Janney, Jacob</term>
-<term>Lynch, Ambrose</term>
-<term>Maddox, William R.</term>
-<term>McCauley, William M.</term>
-<term>McCutchin, John</term>
-<term>Mitchell, Matthew</term>
-<term>Mount, John</term>
-<term>O'Neale, William</term>
-<term>Phillips, Jonathan</term>
+<term xml:id="per.003896">Eschbach, John</term>
+<term xml:id="per.003820">Cropley, Samuel</term>
+<term xml:id="per.003897">Dowling, William</term>
+<term xml:id="per.003898">Farrar, John</term>
+<term xml:id="per.003823">Gaither, Greenbury</term>
+<term xml:id="per.003899">Hoskinson, Thomas</term>
+<term xml:id="per.003826">Janney, Jacob</term>
+<term xml:id="per.003900">Lynch, Ambrose</term>
+<term xml:id="per.003864">Maddox, William R.</term>
+<term xml:id="per.003865">McCauly, William M.</term>
+<term xml:id="per.003829">McCutchin, John</term>
+<term xml:id="per.003831">Mitchell, Matthew</term>
+<term xml:id="per.003901">Mount, John</term>
+<term xml:id="per.002745">O'Neale, William</term>
+<term xml:id="per.003902">Phillips, Jonathan</term>
 <term xml:id="per.002549">Pyfer, Henry</term>
 <term xml:id="per.002315">Roach, Edward N.</term>
-<term>Scott, Alexander</term>
+<term xml:id="per.003833">Scott, Alexander</term>
 <term xml:id="per.001199">Scott, John D.</term>
-<term>Townsend, Singleton</term>
-<term>Tubman, George M.</term>
-<term>Waugh, Albert P.</term>
-<term>Wheatly, William</term>
+<term xml:id="per.003836">Townsend, Singleton</term>
+<term xml:id="per.003837">Tubman, George M.</term>
+<term xml:id="per.003838">Waugh, Albert P.</term>
+<term xml:id="per.003839">Wheatly, William</term>
 <term xml:id="per.001204">Williams, James</term>
 </keywords>
 
@@ -155,6 +156,7 @@
 </profileDesc>
 
 <revisionDesc> 
+<change when="2016-11-22" who="#lkw">added xml:ids</change> 
 <change when="2016-08-09" who="#kln">reviewed, edited</change>
 <change when="2016-07-26" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
