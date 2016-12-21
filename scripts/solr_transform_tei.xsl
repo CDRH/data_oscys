@@ -694,16 +694,24 @@
 		<!-- personName -->
 		<!-- I added the [1] qualifier because otherwise  -->
 		<xsl:for-each select="persName[1][normalize-space()]">
-			<field name="personName_ss"><xsl:call-template name="persNameFormatter"></xsl:call-template></field>
+			<field name="personName_ss">
+				<xsl:call-template name="persNameFormatter"></xsl:call-template>
+			</field>
 			<field name="personNameData_ss">
 				<xsl:call-template name="dataIDSourceData">
-					<xsl:with-param name="label"><xsl:call-template name="persNameFormatter"/></xsl:with-param>
+					<xsl:with-param name="label">
+						<xsl:call-template name="persNameFormatter"/>
+					</xsl:with-param>
 				</xsl:call-template>
 			</field>
 		</xsl:for-each>
 		
 		<xsl:for-each select="persName/addName[normalize-space()]">
 			<field name="personAltName_ss"><xsl:value-of select="normalize-space(.)"></xsl:value-of></field>
+		</xsl:for-each>
+		
+		<xsl:for-each select="persName/surname[@type='maiden']">
+			<field name="personMaidenName_ss"><xsl:value-of select="normalize-space(.)"/></field>
 		</xsl:for-each>
 		
 		<xsl:for-each select="sex[normalize-space()]">
@@ -962,14 +970,8 @@
 	<!-- ================================================ -->
 	
 	<xsl:template name="persNameFormatter">
-		<xsl:choose>
-			<xsl:when test="not(child::*)">
-				<xsl:value-of select="normalize-space(.)"></xsl:value-of>
-			</xsl:when>
-			<xsl:otherwise>
-				<xsl:value-of select="normalize-space(.)"></xsl:value-of>
-			</xsl:otherwise>
-		</xsl:choose>
+		<!-- used to have when test="not(child::*)"> but outcome was same, so I'm condensing -->
+		<xsl:value-of select="normalize-space(.)"/>
 	</xsl:template>
 	
 	<!-- ================================================ -->
