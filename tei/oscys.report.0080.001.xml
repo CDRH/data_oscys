@@ -14,12 +14,13 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -79,12 +80,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Baltimore, Charles Calvert, Lord, 1637-1715</term>
+<term xml:id="per.004336">Baltimore, Charles Calvert, Lord, 1637-1715</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
 <term xml:id="per.001543">Duckett, Allen Bowie</term>
-<term>Joice, Ann</term>
-<term>Lane, Thomas</term>
+<term xml:id="per.004337">Joice, Ann</term>
+<term xml:id="per.004338">Lane, Thomas</term>
 <term xml:id="per.002752">Wright, Matthew</term>
+<term>Young, N.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -129,7 +131,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>           
+<change when="2017-01-03" who="#lkw">added xml:ids; added Young to people</change>  
 <change when="2016-08-19" who="#kln">reviewed, edited</change>
 <change when="2016-08-12" who="#snc">transcribed, encoded</change>
 </revisionDesc>

@@ -13,12 +13,13 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -78,10 +79,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Chapman</term>
-<term>Lacy</term>
-<term>Lee</term>
-<term>Payne</term>
+<term xml:id="per.004341">Chapman</term>
+<term xml:id="per.004342">Lacy</term>
+<term xml:id="per.004343">Lee</term>
+<term xml:id="per.004344">Payne</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -98,10 +99,10 @@
  
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004345">
 <persName>Foster, William</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004346">
 <persName>Simmons, William</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000011">
@@ -128,6 +129,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2017-01-03" who="#lkw">added xml:ids; transcription</change> 
 <change when="2016-08-19" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 
@@ -163,7 +165,7 @@
 
 <pb xml:id="p317" facs="oscys.report.0084.001.002.jpg"/>
 
-<p>Mr. Jones and Mr. Hiort, for the petitioner, contended, that as the law in Washington county was to continue as it was before the twenty-seventh of February, eighteen hundred and one, and as the law before that day, in the county of Washington, was, that no slave could be lawfully imported into that county, the law is the same yet, and that a bringing from Alexandria county to Washington is the same as from Virginia to Maryland. If this adopted law is to be construed so strictly, there is no limitation to importation of slaves, even directly from Africa. The <bibl type="code">Act of Congress of the third of May, 1802, c. 52, § 7, [2 Stat. at Large, 193,]</bibl> only authorizes slaves to be brought from Virginia and Maryland into the district as they might before the twenty-seventh of February, 1810. That is, Virginia slaves may be brought into Alexandria county, and Maryland slaves into Washington county, but it does not authorize the bringing of slaves from Virginia into Maryland, nor from Maryland into Virginia. Lacy carried Lee's slaves from Alexandria to Georgetown, and the Court decided it was a carrying out of the State of Virginia, within the meaning of the <bibl type="code">Act of Assembly of Virginia of the 25th of January, 1798, § 6 and 7, p. 374</bibl>.</p>
+<p>Mr. Jones and Mr. Hiort, for the petitioner, contended, that as the law in Washington county was to continue as it was before the twenty-seventh of February, eighteen hundred and one, and as the law before that day, in the county of Washington, was, that no slave could be lawfully imported into that county, the law is the same yet, and that a bringing from Alexandria county to Washington is the same as from Virginia to Maryland. If this adopted law is to be construed so strictly, there is no limitation to importation of slaves, even directly from Africa. The <bibl type="code">Act of Congress of the third of May, 1802, c. 52, § 7, [2 Stat. at Large, 193,]</bibl> only authorizes slaves to be brought from Virginia and Maryland into the district as they might before the twenty-seventh of February, 1801. That is, Virginia slaves may be brought into Alexandria county, and Maryland slaves into Washington county, but it does not authorize the bringing of slaves from Virginia into Maryland, nor from Maryland into Virginia. Lacy carried Lee's slaves from Alexandria to Georgetown, and the Court decided it was a carrying out of the State of Virginia, within the meaning of the <bibl type="code">Act of Assembly of Virginia of the 25th of January, 1798, § 6 and 7, p. 374</bibl>.</p>
 
 <p>The Court (<term>nem. con.</term>) refused the instruction, saying that they must take the whole act, or no part of it. If this construction be not given to the statute, there is no law to prevent the importation of slaves into the District of Columbia. It was the intention of Congress to continue in force in this part of the district all the laws as they then existed.</p>
 

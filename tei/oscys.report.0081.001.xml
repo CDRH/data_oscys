@@ -14,12 +14,13 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -80,7 +81,7 @@
     
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Dermott, James R.</term>
+<term xml:id="per.004340">Dermott, James R.</term>
 <term xml:id="per.000063">Fitzhugh, Nicholas</term>
 <term xml:id="per.002725">Washington, Lund</term>
 </keywords>
@@ -125,6 +126,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2017-01-03" who="#lkw">added xml:ids</change> 
 <change when="2016-08-19" who="#kln">reviewed, edited</change>            
 <change when="2016-08-12" who="#snc">transcribed, encoded</change>
 </revisionDesc>
