@@ -23,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -87,9 +87,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Gibson, John Lee</term>
-<term>Preston, Benjamin</term>
-<term>Seney, Joshua</term>
+<term xml:id="per.004355">Gibson, John Lee</term>
+<term xml:id="per.004362">Preston, Benjamin</term>
+<term xml:id="per.004363">Seney, Joshua</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -101,15 +101,15 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004361">
 <persName>Queen, David</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004358">
 <persName>Boarman, Sylvester</persName>
 </person>
-<person role="attorney_petitioner">
+<!-- <person role="attorney_petitioner" xml:id="per.004360">
 <persName>Pinkney, William</persName>
-</person>
+</person>-->
 <person role="attorney_defendant">
 <persName/>
 </person>
@@ -125,6 +125,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2017-01-09" who="#lkw">added additional xml:ids</change>
 <change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-15" who="#kln">reviewed, edited</change>
 <change when="2016-02-10" who="#smb">transcribed and encoded</change>

@@ -23,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -105,31 +105,31 @@
             
 <particDesc>   
 <listPerson xml:id="oscys.caseid.0386">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004357">
 <persName>Queen, Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004358">
 <persName>Boarman, Sylvester</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.004359">
 <persName>Johnson, John</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant"  xml:id="per.004364">
 <persName>Hall, Aquila</persName>
 </person>
 </listPerson>
 
 <listPerson xml:id="oscys.caseid.0387">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004361">
 <persName>Queen, David</persName>
 </person>
-<person role="defendant">
+<person role="defendant" corresp="per.004358">
 <persName>Boarman, Sylvester</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" corresp="per.004359">
 <persName>Johnson, John</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant"  corresp="per.004364">
 <persName>Hall, Aquila</persName>
 </person>
 </listPerson>
@@ -144,6 +144,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2017-01-09" who="#lkw">added additional xml:ids</change>
 <change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-16" who="#kln">reviewed; edited</change>
 <change when="2016-02-10" who="#smb">transcribed and encoded</change>

@@ -23,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -90,23 +90,23 @@
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.000215">Ashton, John</term>
 <term xml:id="per.001517">Baden Jr., John</term>
-<term>Baden, Thomas</term>
+<term xml:id="per.004368">Baden, Thomas</term>
 <term xml:id="per.002679">Barm, Thomas</term>
 <term xml:id="per.000216">Beard, Richard</term>
 <term xml:id="per.000217">Belt, Humphrey</term>
-<term>Belt, Levin</term>
+<term xml:id="per.004369">Belt, Levin</term>
 <term xml:id="per.001518">Boone, Joseph</term>
 <term xml:id="per.001520">Burgess, John Magruder</term>
 <term xml:id="per.000065">Carroll, James</term>
-<term>Compton, Henry Trueman</term>
+<term xml:id="per.004370">Compton, Henry Trueman</term>
 <term xml:id="per.001521">Coolidge, Samuel Judson</term>
 <term xml:id="per.000066">Cooper, Nanny</term>
 <term xml:id="per.001522">Craufurd, David</term>
-<term>Craufurd, Nathaniel</term>
-<term>Dick, Thomas</term>
+<term xml:id="per.004371">Craufurd, Nathaniel</term>
+<term xml:id="per.004372">Dick, Thomas</term>
 <term xml:id="per.000073">Disney, Richard</term>
 <term xml:id="per.001973">Dorsey, Walter</term>
-<term>Dorsey, William Hammond</term>
+<term xml:id="per.004373">Dorsey, William Hammond</term>
 <term xml:id="per.001543">Duckett, Allen Bowie</term>
 <term xml:id="per.001488">Duckett, Thomas</term>
 <term xml:id="per.000067">Duvall, Benjamin</term>
@@ -122,12 +122,12 @@
 <term xml:id="per.001475">Larkin, Thomas</term>
 <term xml:id="per.001478">Lee, Edward</term>
 <term xml:id="per.000077">Lee, Lewis</term>
-<term>Leeke, Joseph</term>
+<term xml:id="per.004374">Leeke, Joseph</term>
 <term xml:id="per.001527">Magill, Thomas</term>
 <term xml:id="per.001528">Magruder, Dennis</term>
 <term xml:id="per.000128">Magruder, John Read, Jr.</term>
 <term xml:id="per.002688">Murdock</term>
-<term>Newcomb, Betty</term>
+<term xml:id="per.004365">Newcomb, Betty</term>
 <term xml:id="per.000078">Queen, Edward</term>
 <term xml:id="per.000068">Queen, Mary</term>
 <term xml:id="per.001476">Queen, Phillis</term>
@@ -135,11 +135,11 @@
 <term xml:id="per.001482">Queen, Winifred</term>
 <term xml:id="per.001477">Quynn, Allen</term>
 <term xml:id="per.001483">Randall, John</term>
-<term>Ridgely, Henry</term>
+<term xml:id="per.004375">Ridgely, Henry</term>
 <term xml:id="per.002690">Sarah</term>
-<term>Sparrow, Solomon</term>
+<term xml:id="per.002967">Sparrow, Solomon</term>
 <term xml:id="per.001532">Stone, Michael Jenifer, 1747-1812</term>
-<term>Sue</term>
+<term xml:id="per.004376">Sue</term>
 <term xml:id="per.002692">Tom</term>
 <term xml:id="per.001512">Welch, Benjamin</term>
 </keywords>
@@ -154,10 +154,10 @@
             
 <particDesc>   
 <listPerson xml:id="oscys.caseid.0386">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004357">
 <persName>Queen, Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004358">
 <persName>Boarman, Sylvester</persName>
 </person>
 <person role="attorney_petitioner">
@@ -169,10 +169,10 @@
 </listPerson>
 
 <listPerson xml:id="oscys.caseid.0387">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004361">
 <persName>Queen, David</persName>
 </person>
-<person role="defendant">
+<person role="defendant" corresp="per.004358">
 <persName>Boarman, Sylvester</persName>
 </person>
 <person role="attorney_petitioner">
@@ -193,6 +193,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2017-01-09" who="#lkw">added additional xml:ids</change>
 <change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-22" who="#kln">reviewed; edited</change>
 <change when="2016-02-08" who="#smb">transcribed and encoded</change>
@@ -336,7 +337,7 @@ that the said Phillis is descended from Mary Queen mentioned in the said Petitio
 <p>Therefore let a jury thereon appear before the Justices of the Court here immediately by whom &amp;ca. and who neither &amp;ca. to recognize &amp;ca. because as well &amp;ca. who being called came that is to say Dennis Magruder Nathaniel Craufurd John Baden Junior Thomas Baden Thomas Dick John Magruder Burgess Samuel Judson Coolidge Thomas Harwood Thomas Magill Charles Hodges Humphrey Belt Senior and Henry Trueman Compton who being duly elected tried and sworn to say the truth in the premises aforesaid upon their oath do say that Mary Queen mentioned in the petition of the said Phillis was not a slave at the time of the birth of her the said Phillis as the said Phillis Queen by her replication aforesaid hath alledged</p>
 
 <p>Therefore it is considered by the Justices of the Court here that the said Phillis Queen is entitled to her Freedom and that therefore she be free liberated and discharged from the custody and possession of the said John Ashton.</p>
-
+<!-- start -->
 <pb xml:id="p006" facs="oscys.mdcase.0007.003.006.jpg"/> 
 
 <p>It is also considered that the said Phillis Queen do recover against the said John Ashton that quantity of eight hundred and fifteen pounds of Tobacco to the said Phillis Queen by the Court here adjudged for her costs and charges by her about her suit in this behalf laid out and expended and the said John Ashton in mercy &amp;ca.</p> 

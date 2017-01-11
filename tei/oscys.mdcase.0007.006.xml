@@ -23,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -96,7 +96,7 @@
 <term xml:id="per.002682">Henderson</term>
 <term xml:id="per.000128">Magruder, John Read, Jr.</term>
 <term xml:id="per.002688">Murdock</term>
-<term>Newcomb, Betty</term>
+<term xml:id="per.004365">Newcomb, Betty</term>
 <term xml:id="per.000068">Queen, Mary</term>
 <term xml:id="per.001476">Queen, Phillis</term>
 <term xml:id="per.002689">Queen, Ralph</term>
@@ -112,15 +112,15 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004357">
 <persName>Queen, Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004358">
 <persName>Boarman, Sylvester</persName>
 </person>
-<person role="attorney_petitioner">
+<!-- <person role="attorney_petitioner" xml:id="per.004359">
 <persName>Johnson, John</persName>
-</person>
+</person> -->
 <person role="attorney_defendant">
 <persName/>
 </person>
@@ -136,6 +136,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2017-01-09" who="#lkw">added additional xml:ids</change>
 <change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-15" who="#kln">reviewed; edited</change>
 <change when="2016-02-10" who="#smb">transcribed and encoded</change>

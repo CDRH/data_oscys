@@ -23,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -97,7 +97,7 @@
 <term xml:id="per.001469">Carrick, Ann</term>
 <term xml:id="per.001470">Carrick, John</term>
 <term xml:id="per.001471">Carroll, Anthony</term>
-<term>Carroll, John, 1735-1815</term><!-- I think maybe Warfield means John Ashton, not Carroll. We didn't encode him in oscys.mdcase.0001.005 or oscys.mdcase.0001.015 -->
+<!-- <term>Carroll, John, 1735-1815</term>I think maybe Warfield means John Ashton, not Carroll. We didn't encode him in oscys.mdcase.0001.005 or oscys.mdcase.0001.015 -->
 <term xml:id="per.000065">Carroll, James</term>
 <term xml:id="per.001490">Chapman, William</term>
 <term xml:id="per.002102">Chase, Jeremiah Townley, 1748-1828</term>
@@ -115,8 +115,8 @@
 <term xml:id="per.000062">Duvall, Mareen</term>
 <term xml:id="per.001474">Fowler, Susannah</term>
 <term xml:id="per.001502">Gassaway, John</term>
-<term>Goldsborough, Robert, 1740-1798</term>
-<term>Goldsmith, William</term>
+<term xml:id="per.004366">Goldsborough, Robert, 1740-1798</term>
+<term xml:id="per.004367">Goldsmith, William</term>
 <term xml:id="per.001503">Gover, Robert</term>
 <term xml:id="per.001493">Gwinn, John</term>
 <term xml:id="per.001504">Henry</term>
@@ -160,10 +160,10 @@
             
 <particDesc>   
 <listPerson xml:id="oscys.caseid.0386">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004357">
 <persName>Queen, Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004358">
 <persName>Boarman, Sylvester</persName>
 </person>
 <person role="attorney_petitioner">
@@ -175,10 +175,10 @@
 </listPerson>
 
 <listPerson xml:id="oscys.caseid.0387">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004361">
 <persName>Queen, David</persName>
 </person>
-<person role="defendant">
+<person role="defendant" corresp="per.004358">
 <persName>Boarman, Sylvester</persName>
 </person>
 <person role="attorney_petitioner">
@@ -199,6 +199,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2017-01-09" who="#lkw">added additional xml:ids</change>
 <change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-23" who="#kln">reviewed; edited</change>
 <change when="2016-02-01" who="#smb">transcribed and encoded</change>
