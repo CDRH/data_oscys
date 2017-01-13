@@ -59,6 +59,7 @@
 				<xsl:when test="$doctype = 'person'">
 					<xsl:for-each select="//person">
 						<doc>
+						  <field name="update_increment_i" update="inc">1</field>
 							<xsl:call-template name="tei_general">
 								<xsl:with-param name="filenamepart" select="$filenamepart"/>
 								<xsl:with-param name="slug" select="$slug"/>
@@ -69,6 +70,7 @@
 				</xsl:when>
 				<xsl:when test="$doctype = 'caseid'">
 					<doc>
+					  <field name="update_increment_i" update="inc">1</field>
 						<xsl:call-template name="tei_general">
 							<xsl:with-param name="filenamepart" select="$filenamepart"/>
 							<xsl:with-param name="slug" select="$slug"/>
@@ -78,6 +80,7 @@
 				</xsl:when>
 				<xsl:otherwise>
 					<doc>
+					  <field name="update_increment_i" update="inc">1</field>
 						<xsl:call-template name="tei_general">
 							<xsl:with-param name="filenamepart" select="$filenamepart"/>
 							<xsl:with-param name="slug" select="$slug"/>
@@ -106,20 +109,6 @@
 			<xsl:otherwise/>
 		</xsl:choose>
 	</xsl:variable>
-  
-  <xsl:variable name="doc_date_display">
-    <!-- added doc_date_display to pull display dates directly from date element rather than generating -->
-    <xsl:choose>
-      <xsl:when test="//keywords[@n='subcategory']/term = 'Court Report'">
-        <xsl:value-of select="//keywords[@n='term']/term/date"></xsl:value-of>
-      </xsl:when>
-      <xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date">
-        <xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date"/>
-      </xsl:when>
-      <!-- if neither of these matches, do not show anything -->
-      <xsl:otherwise/>
-    </xsl:choose>
-  </xsl:variable>
 	
 	<xsl:template name="tei_general" exclude-result-prefixes="#all">
 		<xsl:param name="filenamepart"/>
@@ -139,23 +128,23 @@
 		
 		<!-- slug -->
 		
-		<field name="slug" update="add">
+		<field name="slug">
 			<xsl:value-of select="$slug"/>
 		</field>
 		
 		<!-- project -->
 		
-		<field name="project" update="add">
+		<field name="project">
 			<xsl:value-of select="$project"/>
 		</field>
 				
 		<!-- uri -->
 		
-		<field name="uri" update="add"><xsl:value-of select="$site_location"/><xsl:text>files/</xsl:text><xsl:value-of select="$filenamepart"/>.html</field>
+		<field name="uri"><xsl:value-of select="$site_location"/><xsl:text>files/</xsl:text><xsl:value-of select="$filenamepart"/>.html</field>
 		
 		<!-- uriXML -->
 		
-		<field name="uriXML" update="add">
+		<field name="uriXML">
 			<xsl:value-of select="$file_location"/>
 			<xsl:value-of select="$slug"/>
 			<xsl:text>/tei/</xsl:text>
@@ -165,7 +154,7 @@
 		
 		<!-- uriHTML -->
 		
-		<field name="uriHTML" update="add">
+		<field name="uriHTML">
 			<xsl:value-of select="$file_location"/>
 			<xsl:value-of select="$slug"/>
 			<xsl:text>/html-generated/</xsl:text>
@@ -175,7 +164,7 @@
 		
 		<!-- dataType -->
 		
-		<field name="dataType" update="add"> 
+		<field name="dataType"> 
 			<xsl:text>tei</xsl:text>
 		</field>
 				
@@ -221,17 +210,17 @@
 			<xsl:value-of select="substring($titleSort,1,1)"></xsl:value-of>
 		</xsl:variable>
 				
-		<field name="title" update="add">
+		<field name="title">
 			<xsl:value-of select="$title"/>
 		</field>
 		
 		<!-- titleSort -->
 		
-		<field name="titleSort" update="add">
+		<field name="titleSort">
 			<xsl:value-of select="$titleSort"/>
 		</field>
 
-		<field name="titleLetter_s" update="add">
+		<field name="titleLetter_s">
 			<xsl:value-of select="$titleLetter"/>
 		</field>
 				
@@ -322,7 +311,9 @@
 		<!-- dateDisplay -->
 		
 		<field name="dateDisplay">
-		  <xsl:value-of select="$doc_date_display"/>
+			<xsl:call-template name="extractDate">
+				<xsl:with-param name="date" select="$doc_date"/>
+			</xsl:call-template>
 		</field>
 				
 		<!-- type -->
@@ -396,7 +387,7 @@
 		<!-- principalInvestigators -->
 		
 		<!-- All in one field -->
-		<field name="principalInvestigator" update="add">
+		<field name="principalInvestigator">
 			<xsl:for-each-group select="/TEI/teiHeader/fileDesc/titleStmt/principal" group-by=".">
 				<xsl:sort select="."/>
 				<xsl:value-of select="current-grouping-key()"/>
@@ -405,7 +396,7 @@
 		</field>
 		<!-- Individual fields -->
 		<xsl:for-each-group select="/TEI/teiHeader/fileDesc/titleStmt/principal" group-by=".">
-			<field name="principalInvestigators" update="add">
+			<field name="principalInvestigators">
 				<xsl:value-of select="current-grouping-key()"></xsl:value-of>
 			</field>
 		</xsl:for-each-group>
@@ -450,7 +441,7 @@
 			</xsl:choose>
 		</xsl:variable>
 		
-		<field name="category" update="add">
+		<field name="category">
 			<xsl:value-of select="$category"/>
 		</field>
 				
@@ -536,12 +527,6 @@
 		<!-- ================================================ -->
 				
 		<xsl:call-template name="people"/>
-	  
-	  <!-- sourceTitle_s -->
-	  <!-- added to address that "Document:" in document metadata needs a different title than the page title -->
-	  <field name="sourceTitle_s">
-	    <xsl:value-of select="normalize-space(/TEI/teiHeader/fileDesc[1]/sourceDesc[1]/bibl[1]/title[@type='main'])"/>
-	  </field>
 
 		<!-- recordType_s -->
 		
@@ -694,24 +679,16 @@
 		<!-- personName -->
 		<!-- I added the [1] qualifier because otherwise  -->
 		<xsl:for-each select="persName[1][normalize-space()]">
-			<field name="personName_ss">
-				<xsl:call-template name="persNameFormatter"></xsl:call-template>
-			</field>
+			<field name="personName_ss"><xsl:call-template name="persNameFormatter"></xsl:call-template></field>
 			<field name="personNameData_ss">
 				<xsl:call-template name="dataIDSourceData">
-					<xsl:with-param name="label">
-						<xsl:call-template name="persNameFormatter"/>
-					</xsl:with-param>
+					<xsl:with-param name="label"><xsl:call-template name="persNameFormatter"/></xsl:with-param>
 				</xsl:call-template>
 			</field>
 		</xsl:for-each>
 		
 		<xsl:for-each select="persName/addName[normalize-space()]">
 			<field name="personAltName_ss"><xsl:value-of select="normalize-space(.)"></xsl:value-of></field>
-		</xsl:for-each>
-		
-		<xsl:for-each select="persName/surname[@type='birth']">
-			<field name="personBirthName_ss"><xsl:value-of select="normalize-space(.)"/></field>
 		</xsl:for-each>
 		
 		<xsl:for-each select="sex[normalize-space()]">
@@ -844,37 +821,44 @@
 	<xsl:template name="tei_document_join" exclude-result-prefixes="#all">
 		<xsl:for-each select="//idno[@type='case'][normalize-space()]">
 			<doc>
+			  <field name="update_increment_i" update="inc">1</field>
 				<field name="id"> 
 					<xsl:value-of select="."/>
 				</field>
 
-				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term/text()">
-				  <xsl:if test="normalize-space(.) != ''">
-   					<field update="add" name="outcomeData_ss">
-   						<xsl:call-template name="JSON_Formatter">
-   							<xsl:with-param name="json_label">
-   								<xsl:value-of select="normalize-space(.)"/>
-   							</xsl:with-param>
-   							<xsl:with-param name="json_date">
-   								<xsl:value-of select="$doc_date"/>
-   							</xsl:with-param>
-   						  <xsl:with-param name="json_date_display">
-   						    <xsl:value-of select="$doc_date_display"/>
-   						  </xsl:with-param>
-   							<xsl:with-param name="json_id">
-   								<xsl:value-of select="/TEI/@xml:id"/>
-   							</xsl:with-param>
-   						</xsl:call-template>
-   					</field>
-				  </xsl:if>
+				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term">
+					<field update="add" name="outcomeData_ss">
+						<xsl:call-template name="JSON_Formatter">
+							<xsl:with-param name="json_label">
+								<xsl:value-of select="normalize-space(.)"/>
+							</xsl:with-param>
+							<xsl:with-param name="json_date">
+								<!--<xsl:variable name="doc_date">
+									<xsl:choose>
+										<xsl:when test="//keywords[@n='subcategory']/term = 'Court Report'">
+											<xsl:value-of select="//keywords[@n='term']/term/date/@when"></xsl:value-of>
+										</xsl:when>
+										<xsl:when test="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when">
+											<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"/>
+										</xsl:when>
+										<xsl:otherwise>n.d.</xsl:otherwise>
+									</xsl:choose>
+									<!-\-<xsl:value-of select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='term']/term/date/@when"/>-\->
+									<!-\-<xsl:value-of select="/TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when"/>-\->
+								</xsl:variable>-->
+								<xsl:value-of select="$doc_date"/>
+							</xsl:with-param>
+							<xsl:with-param name="json_id">
+								<xsl:value-of select="/TEI/@xml:id"/>
+							</xsl:with-param>
+						</xsl:call-template>
+					</field>
 				</xsl:for-each>
 
-				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term/text()">
-				  <xsl:if test="normalize-space(.) != ''">
-   					<field update="add" name="outcome_ss">
-   						<xsl:value-of select="normalize-space(.)"/>
-   					</field>
-				  </xsl:if>
+				<xsl:for-each select="/TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term">
+					<field update="add" name="outcome_ss">
+						<xsl:value-of select="normalize-space(.)"/>
+					</field>
 				</xsl:for-each>
 
 				<xsl:variable name="caseid" select="normalize-space(.)"></xsl:variable>
@@ -970,8 +954,14 @@
 	<!-- ================================================ -->
 	
 	<xsl:template name="persNameFormatter">
-		<!-- used to have when test="not(child::*)"> but outcome was same, so I'm condensing -->
-		<xsl:value-of select="normalize-space(.)"/>
+		<xsl:choose>
+			<xsl:when test="not(child::*)">
+				<xsl:value-of select="normalize-space(.)"></xsl:value-of>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="normalize-space(.)"></xsl:value-of>
+			</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
 	
 	<!-- ================================================ -->
@@ -1293,10 +1283,9 @@
 	
 	<xsl:template name="JSON_Formatter">
 		<xsl:param name="json_label"/>
-	  <xsl:param name="json_date"/>
-	  <xsl:param name="json_date_display"/>
-	  <xsl:param name="json_id"/>
-	  <xsl:text>{</xsl:text>
+		<xsl:param name="json_date"/>
+		<xsl:param name="json_id"/>
+		<xsl:text>{</xsl:text>
 		
 		<!-- Label -->
 		<xsl:if test="$json_label != ''">
@@ -1323,12 +1312,7 @@
 			<xsl:text>"dateDisplay":"</xsl:text>
 			<xsl:call-template name="escape-string">
 				<xsl:with-param name="s">
-				  <xsl:choose>
-				    <xsl:when test="$json_date_display != ''"><xsl:value-of select="$json_date_display"/></xsl:when>
-				    <xsl:otherwise>
-				      <xsl:call-template name="extractDate"><xsl:with-param name="date" select="$json_date"/></xsl:call-template>
-				    </xsl:otherwise>
-				  </xsl:choose>
+					<xsl:call-template name="extractDate"><xsl:with-param name="date" select="$json_date"/></xsl:call-template>
 				</xsl:with-param>
 			</xsl:call-template>
 			<xsl:text>"</xsl:text>
