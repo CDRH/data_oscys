@@ -36,6 +36,14 @@
 <!-- ==================================================================== -->
 <!--                            OVERRIDES                                 -->
 <!-- ==================================================================== -->
+  
+  <!-- Adding links to other cases via bibls https://github.com/CDRH/earlywashingtondc/issues/124 -->
+  
+  <xsl:template match="/TEI/text//bibl[@type='case'][@xml:id]">
+    <a href="{@xml:id}" class="tei_bibl_link">
+      <xsl:apply-templates/>
+    </a>
+  </xsl:template>
 
   <xsl:template match="ref">
     <xsl:choose>
