@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -19,7 +20,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -83,15 +84,15 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Atkins, David</term> 
-<term>Atkins, Francis</term>
-<term>Atkins, George</term>
-<term>Atkins, John William</term>
-<term>Atkins, Mary</term>
-<term>Atkins, Matilda</term>
-<term>Doe, John</term>
+<term xml:id="per.004401">Atkins, David</term> 
+<term xml:id="per.004402">Atkins, Francis</term>
+<term xml:id="per.004398">Atkins, George</term>
+<term xml:id="per.004403">Atkins, John William</term>
+<term xml:id="per.004404">Atkins, Mary</term>
+<term xml:id="per.004399">Atkins, Matilda</term>
+<term xml:id="per.001523">Doe, John</term>
 <term xml:id="per.001238">Gardiner, Richard B.</term>
-<term>Roe, Richard</term>
+<term xml:id="per.001531">Roe, Richard</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -118,9 +119,9 @@
 <person role="attorney_petitioner" xml:id="per.000738">
 <persName>Brent, William Leigh, 1784-1848</persName>
 </person>
-<person role="attorney_defendant" xml:id="per.000829">
-<persName>Bradley, Joseph H. (Joseph Habersham), 1802-1887</persName>
-</person>
+<!-- <person role="attorney_defendant" xml:id="per.000829">
+<persName>Bradley, Joseph H. (Joseph Habersham), 1802-1887</persName> 
+</person>-->
 
 </listPerson>
             
@@ -133,7 +134,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>         
+<revisionDesc>        
+<change when="2017-01-12" who="#lkw">added xml:ids; commented out Bradley</change> 
 <change when="2016-03-17" who="#kln">reviewed; edited</change>    
 <change when="2016-02-08" who="#snc">transcribed; encoded</change>
 </revisionDesc>

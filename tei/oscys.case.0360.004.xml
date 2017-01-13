@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -19,7 +20,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -85,10 +86,10 @@
 <keywords scheme="lcsh" n="people">
 <term>Augustus</term>
 <term>Louisa</term>
-<term>Atkins, Matilda</term>
+<term xml:id="per.004399">Atkins, Matilda</term>
 <term>Bryan</term><!-- Mrs. -->
 <term>Lucas, James F. M.</term> 
-<term>Simms, Edward</term><!-- Simmes -->
+<term xml:id="per.004400">Simms, Edward</term><!-- Simmes -->
 <term>Van Horsigh, Joseph Francis</term> 
 </keywords>
 
@@ -128,6 +129,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2017-01-12" who="#lkw">added xml:ids; transcription</change>
 <change when="2016-03-17" who="#kln">reviewed; edited</change>           
 <change when="2016-02-09" who="#snc">transcribed; encoded</change>
 </revisionDesc>
@@ -146,7 +148,7 @@
    
 <p>Extract from the Register of Marriages of St. Peters Church, Capitol Hill, Washington D.C.</p>
 
-<p>In the year of our Lord, 1827, March the 20th were joined in holy Matrimony David Hatkin (<gap extent="one abbreviated word" reason="illegible"/> a slave to Mrs Bryan) and Matilda (<gap extent="one abbreviated word" reason="illegible"/> a slave to Mr. Edw. Simmes in the presence of Augustus &#38; Louisa</p>
+<p>In the year of our Lord, 1827, March the 20th were joined in holy Matrimony David Hatkin (col'd a slave to Mrs Bryan) and Matilda col'd a slave to Mr. Edw. Simmes in the presence of Augustus &#38; Louisa</p>
 
 <p><unclear reason="illegible">Mar</unclear> signed<lb/>
 Jas. F. Lucas<lb/>
