@@ -59,6 +59,7 @@
 				<xsl:when test="$doctype = 'person'">
 					<xsl:for-each select="//person">
 						<doc>
+						  <field name="update_increment_i" update="inc">1</field>
 							<xsl:call-template name="tei_general">
 								<xsl:with-param name="filenamepart" select="$filenamepart"/>
 								<xsl:with-param name="slug" select="$slug"/>
@@ -69,6 +70,7 @@
 				</xsl:when>
 				<xsl:when test="$doctype = 'caseid'">
 					<doc>
+					  <field name="update_increment_i" update="inc">1</field>
 						<xsl:call-template name="tei_general">
 							<xsl:with-param name="filenamepart" select="$filenamepart"/>
 							<xsl:with-param name="slug" select="$slug"/>
@@ -78,6 +80,7 @@
 				</xsl:when>
 				<xsl:otherwise>
 					<doc>
+					  <field name="update_increment_i" update="inc">1</field>
 						<xsl:call-template name="tei_general">
 							<xsl:with-param name="filenamepart" select="$filenamepart"/>
 							<xsl:with-param name="slug" select="$slug"/>
@@ -818,6 +821,7 @@
 	<xsl:template name="tei_document_join" exclude-result-prefixes="#all">
 		<xsl:for-each select="//idno[@type='case'][normalize-space()]">
 			<doc>
+			  <field name="update_increment_i" update="inc">1</field>
 				<field name="id"> 
 					<xsl:value-of select="."/>
 				</field>
