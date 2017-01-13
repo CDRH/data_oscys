@@ -54,6 +54,7 @@
 		
 	<xsl:template match="/" exclude-result-prefixes="#all">
 		<add>
+		  <field name="update_increment_i" update="inc">1</field>
 			<xsl:choose>
 				<!-- Act differenly on personography, caseid, or document (everything else) -->
 				<xsl:when test="$doctype = 'person'">
@@ -69,6 +70,7 @@
 				</xsl:when>
 				<xsl:when test="$doctype = 'caseid'">
 					<doc>
+					  <field name="update_increment_i" update="inc">1</field>
 						<xsl:call-template name="tei_general">
 							<xsl:with-param name="filenamepart" select="$filenamepart"/>
 							<xsl:with-param name="slug" select="$slug"/>
@@ -78,6 +80,7 @@
 				</xsl:when>
 				<xsl:otherwise>
 					<doc>
+					  <field name="update_increment_i" update="inc">1</field>
 						<xsl:call-template name="tei_general">
 							<xsl:with-param name="filenamepart" select="$filenamepart"/>
 							<xsl:with-param name="slug" select="$slug"/>
@@ -139,23 +142,23 @@
 		
 		<!-- slug -->
 		
-		<field name="slug" update="add">
+		<field name="slug">
 			<xsl:value-of select="$slug"/>
 		</field>
 		
 		<!-- project -->
 		
-		<field name="project" update="add">
+		<field name="project">
 			<xsl:value-of select="$project"/>
 		</field>
 				
 		<!-- uri -->
 		
-		<field name="uri" update="add"><xsl:value-of select="$site_location"/><xsl:text>files/</xsl:text><xsl:value-of select="$filenamepart"/>.html</field>
+		<field name="uri"><xsl:value-of select="$site_location"/><xsl:text>files/</xsl:text><xsl:value-of select="$filenamepart"/>.html</field>
 		
 		<!-- uriXML -->
 		
-		<field name="uriXML" update="add">
+		<field name="uriXML">
 			<xsl:value-of select="$file_location"/>
 			<xsl:value-of select="$slug"/>
 			<xsl:text>/tei/</xsl:text>
@@ -165,7 +168,7 @@
 		
 		<!-- uriHTML -->
 		
-		<field name="uriHTML" update="add">
+		<field name="uriHTML">
 			<xsl:value-of select="$file_location"/>
 			<xsl:value-of select="$slug"/>
 			<xsl:text>/html-generated/</xsl:text>
@@ -175,7 +178,7 @@
 		
 		<!-- dataType -->
 		
-		<field name="dataType" update="add"> 
+		<field name="dataType"> 
 			<xsl:text>tei</xsl:text>
 		</field>
 				
@@ -221,17 +224,17 @@
 			<xsl:value-of select="substring($titleSort,1,1)"></xsl:value-of>
 		</xsl:variable>
 				
-		<field name="title" update="add">
+		<field name="title">
 			<xsl:value-of select="$title"/>
 		</field>
 		
 		<!-- titleSort -->
 		
-		<field name="titleSort" update="add">
+		<field name="titleSort">
 			<xsl:value-of select="$titleSort"/>
 		</field>
 
-		<field name="titleLetter_s" update="add">
+		<field name="titleLetter_s">
 			<xsl:value-of select="$titleLetter"/>
 		</field>
 				
@@ -396,7 +399,7 @@
 		<!-- principalInvestigators -->
 		
 		<!-- All in one field -->
-		<field name="principalInvestigator" update="add">
+		<field name="principalInvestigator">
 			<xsl:for-each-group select="/TEI/teiHeader/fileDesc/titleStmt/principal" group-by=".">
 				<xsl:sort select="."/>
 				<xsl:value-of select="current-grouping-key()"/>
@@ -405,7 +408,7 @@
 		</field>
 		<!-- Individual fields -->
 		<xsl:for-each-group select="/TEI/teiHeader/fileDesc/titleStmt/principal" group-by=".">
-			<field name="principalInvestigators" update="add">
+			<field name="principalInvestigators">
 				<xsl:value-of select="current-grouping-key()"></xsl:value-of>
 			</field>
 		</xsl:for-each-group>
@@ -450,7 +453,7 @@
 			</xsl:choose>
 		</xsl:variable>
 		
-		<field name="category" update="add">
+		<field name="category">
 			<xsl:value-of select="$category"/>
 		</field>
 				
@@ -844,6 +847,7 @@
 	<xsl:template name="tei_document_join" exclude-result-prefixes="#all">
 		<xsl:for-each select="//idno[@type='case'][normalize-space()]">
 			<doc>
+			  <field name="update_increment_i" update="inc">1</field>
 				<field name="id"> 
 					<xsl:value-of select="."/>
 				</field>
