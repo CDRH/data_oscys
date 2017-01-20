@@ -84,10 +84,9 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.001183">Ashton, Henry</term>
-<term>Beall, Aquila</term> 
+<term xml:id="per.003195">Beall, Aquila</term> 
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
-<term>Hilleary, Clement T.</term> 
+<term xml:id="per.004430">Hilleary, Clement T.</term> 
 <term xml:id="per.001689">Wallingsford, Rachael</term>
 </keywords>
 
@@ -118,8 +117,8 @@
 <person role="attorney_petitioner">
 <persName/>
 </person>
-<person role="attorney_defendant">
-<persName/>
+<person role="attorney_defendant" xml:id="per.001183">
+<persName>Ashton, Henry</persName>
 </person>
 </listPerson>
             
@@ -132,7 +131,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>  
+<revisionDesc> 
+<change when="2017-01-19" who="#lkw">added xml:ids for Beall and Hilleary; moved Ashton from people to attorney</change> 
 <change when="2016-07-27" who="#kln">reviewed, edited</change>
 <change when="2016-06-07" who="#snc">encoded missing petition pages</change>
 <change when="2015-11-09" who="#lkw">added xml:ids; transcription</change>  
