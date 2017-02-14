@@ -14,12 +14,13 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -79,13 +80,13 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Adams, John</term>
-<term>Adams, Wesley</term>
-<term>Cleaveland, Harrison</term>
-<term>Furguson</term>
-<term>Little, Charles</term>
-<term>Sarah</term><!-- bad transcription from printer lists her as Susan later in document; don't encode -->
-<term>Summers, Simon</term>
+<term xml:id="per.003245">Adams, John</term>
+<term xml:id="per.003577">Adams, Wesley</term>
+<term xml:id="per.003598">Cleaveland, Harrison</term>
+<term xml:id="per.004335">Furguson</term>
+<term xml:id="per.003004">Little, Charles</term>
+<term xml:id="per.003574">Sarah</term>
+<term xml:id="per.003575">Summers, Simon</term>
 <term xml:id="per.002799">Wayne, James Moore, 1790-1867</term>
 </keywords>
 
@@ -103,13 +104,13 @@
  
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003571">
 <persName>Roberts, Julia</persName> 
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003259">
 <persName>Adams, Austin L.</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.003573">
 <persName>Harding, Ann C.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000737">
@@ -132,7 +133,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>      
+<change when="2017-01-03" who="#lkw">added xml:ids; transcription</change>       
 <change when="2016-08-04" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 
@@ -168,7 +170,7 @@
 
 <p>1st Bill of Exceptions.</p>
 
-<p>At the trial of this cause, the petitioner having given evidence tending to show that, previous to the year 1801, Sarah, the mother of the petitioner, was the property of Simon Summers, and remained in his possession until about the year 1799, when she was placed, by said Summers, in the possession of Wesley Adams, who, about that time, married the daughter of said Summers, and who lived then, and continued to live for many years thereafter, in Fairfax county, Virginia; then gave evidence that diligent search had been made among the records of Fairfax county, Virginia, for an original deed of manumission of said petitioner's mother, by said Summers, but no such original deed could be found, and that the same is lost; but that there was among said records the enrolment of a deed, whereof the annexed paper, marked A, is admitted to be a true copy, and of the certificates of acknowledgment, and the recording of the same. And further offered evidence, that said deed was personally acknowledged by the said Simon Summers, in the county court of the said county of Fairfax; the said slave, Sarah, being then there in the said county, and having always before resided in the said county. And the petitioner then read in evidence the said paper, marked A, purporting to be the copy of a deed of manumission from said Summers, of the negro woman, named Sarah, named therein; and then gave evidence tending to show that the petitioner was the child of said named Sarah, and is now about 38 (28) years of age; and further gave evidence tending to show that the defendant, Harding, makes no claim to the petitioner in her own right, but solely by the direction of her co-defendant, Adams, who is the son of the Wesley Adams above named, and his aid wife, the daughter of said Summers. And the petitioner further gave evidence tending to show that, about the year 1820, the said Wesley Adams brought Sarah, the petitioner's mother, to the public poor-house, in Fairfax county, State of Virginia, and applied to the overseers of the poor for said county, for alimony for said Sarah, as a free woman of color, and her two small children; and that a levy was made upon said county for their support, and they were supported until the year 1826, when a levy was made for the support of said Sarah and the three children, which she then had with her, but among whom the petitioner was not included; and that said levy, when raised, was placed in t he hands of said Wesley Adams, for their support as aforesaid. And further gave evidence tending to show that Sarah passed as free for a number of years, and that Wesley Adams, about the year 1826, said that Sarah and her children were free, and that the
+<p>At the trial of this cause, the petitioner having given evidence tending to show that, previous to the year 1801, Sarah, the mother of the petitioner, was the property of Simon Summers, and remained in his possession until about the year 1799, when she was placed, by said Summers, in the possession of Wesley Adams, who, about that time, married the daughter of said Summers, and who lived then, and continued to live for many years thereafter, in Fairfax county, Virginia; then gave evidence that diligent search had been made among the records of Fairfax county, Virginia, for an original deed of manumission of said petitioner's mother, by said Summers, but no such original deed could be found, and that the same is lost; but that there was among said records the enrolment of a deed, whereof the annexed paper, marked A, is admitted to be a true copy, and of the certificates of acknowledgment, and the recording of the same. And further offered evidence, that said deed was personally acknowledged by the said Simon Summers, in the county court of the said county of Fairfax; the said slave, Sarah, being then there in the said county, and having always before resided in the said county. And the petitioner then read in evidence the said paper, marked A, purporting to be the copy of a deed of manumission from said Summers, of the negro woman, named Sarah, named therein; and then gave evidence tending to show that the petitioner was the child of said named Sarah, and is now about 38 (28) years of age; and further gave evidence tending to show that the defendant, Harding, makes no claim to the petitioner in her own right, but solely by the direction of her co-defendant, Adams, who is the son of the Wesley Adams above named, and his said wife, the daughter of said Summers. And the petitioner further gave evidence tending to show that, about the year 1820, the said Wesley Adams brought Sarah, the petitioner's mother, to the public poor-house, in Fairfax county, State of Virginia, and applied to the overseers of the poor for said county, for alimony for said Sarah, as a free woman of color, and her two small children; and that a levy was made upon said county for their support, and they were supported until the year 1826, when a levy was made for the support of said Sarah and the three children, which she then had with her, but among whom the petitioner was not included; and that said levy, when raised, was placed in the hands of said Wesley Adams, for their support as aforesaid. And further gave evidence tending to show that Sarah passed as free for a number of years, and that Wesley Adams, about the year 1826, said that Sarah and her children were free, and that the
 
 <pb xml:id="p189" facs="oscys.report.0079.001.003.jpg"/>
 

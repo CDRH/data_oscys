@@ -108,7 +108,7 @@
 <person role="attorney_petitioner" xml:id="per.000464">
 <persName>Wallach, Richard</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant"  xml:id="per.004304">
 <persName>Tabbs</persName>
 </person>
 </listPerson>
@@ -123,6 +123,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2017-01-19" who="#lkw">reviewed relationship encoding</change>
 <change when="2016-08-02" who="#kln">added Tabbs, edited transcription</change>
 <change when="2015-06-30" who="#lkw">added xml:ids</change>
 <change when="2014-12-18" who="#kln">reviewed; edited</change>            

@@ -23,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -88,30 +88,30 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Anne, Queen of Great Britain, 1665-1714</term>
+<term xml:id="per.004377">Anne, Queen of Great Britain, 1665-1714</term>
 <term xml:id="per.000215">Ashton, John</term>
-<term>Baldwin, John</term>
-<term>Beard, Lambert</term>
-<term xml:id="per.000217">Belt, Humphrey</term>
-<term>Carroll</term> <!-- Baldwin? -->
+<term xml:id="per.004378">Baldwin, John</term>
+<term xml:id="per.004379">Beard, Lambert</term>
+<term xml:id="per.000217">Belt, Humphry</term>
+<term xml:id="per.004380">Baldwin</term> 
 <term xml:id="per.001393">Duvall, Gabriel, 1752-1844</term>
 <term xml:id="per.000218">Harwood, Richard</term>
 <term xml:id="per.000219">Harwood, Thomas</term>
 <term xml:id="per.000075">Ijams, John</term>
 <term xml:id="per.001475">Larkin, Thomas</term>
-<term>Maccubbin, Nicholas</term>
+<term xml:id="per.004381">Maccubbin, Nicholas</term>
 <term xml:id="per.000128">Magruder, John Read, Jr.</term>
-<term>Queen, Charles</term>
+<term xml:id="per.004382">Queen, Charles</term>
 <term xml:id="per.000068">Queen, Mary</term>
 <term xml:id="per.001476">Queen, Phillis</term>
 <term xml:id="per.002689">Queen, Ralph</term>
 <term xml:id="per.001482">Queen, Winifred</term>
 <term xml:id="per.001483">Randall, John</term>
-<term>Rogers, Woodes, -1732</term>
+<term xml:id="per.004383">Rogers, Woodes, -1732</term>
 <term xml:id="per.000069">Ryland, Freders</term> 
-<term>Selkirk, Alexander, 1676-1721</term>
-<term>Sparrow, Solomon</term>
-<term>Stewart, William</term>
+<term xml:id="per.004384">Selkirk, Alexander, 1676-1721</term>
+<term xml:id="per.002967">Sparrow, Solomon</term>
+<term xml:id="per.004385">Stewart, William</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -127,10 +127,10 @@
             
 <particDesc>   
 <listPerson xml:id="oscys.caseid.0386">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004357">
 <persName>Queen, Ann</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004358">
 <persName>Boarman, Sylvester</persName>
 </person>
 <person role="attorney_petitioner">
@@ -142,10 +142,10 @@
 </listPerson>
 
 <listPerson xml:id="oscys.caseid.0387">            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004361">
 <persName>Queen, David</persName>
 </person>
-<person role="defendant">
+<person role="defendant" corresp="per.004358">
 <persName>Boarman, Sylvester</persName>
 </person>
 <person role="attorney_petitioner">
@@ -166,6 +166,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2017-01-09" who="#lkw">added additional xml:ids; transcription</change>
 <change when="2016-02-29" who="#lkw">added xml:ids</change>
 <change when="2016-02-18" who="#kln">reviewed, edited</change>
 <change when="2016-02-08" who="#smb">transcribed and encoded</change>
@@ -257,7 +258,7 @@ knew her which was when he was a small boy for ten or twelve years or thereabout
 
 <p>3d. Answers I never knew Capt. Larkin nor do I recollect I ever heard whether he was a land or sea Captain.</p>
 
-<p>4th Answers. I did knot Capt. John Ijams late of Ann Arundel County deceased and was well acquainted with him and always understood his general character was a good one.</p>
+<p>4th Answers. I did know Capt. John Ijams late of Ann Arundel County deceased and was well acquainted with him and always understood his general character was a good one.</p>
 
 <p>5th. Answers I know nothing further about it.</p>
 

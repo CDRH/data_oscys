@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -19,7 +20,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -83,11 +84,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Atkins, George</term>
-<term>Atkins, Matilda</term>
+<term xml:id="per.004398">Atkins, George</term>
+<term xml:id="per.004399">Atkins, Matilda</term>
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
 <term xml:id="per.001238">Gardiner, Richard B.</term>
-<term>Simms, Edward</term>
+<term xml:id="per.004400">Simms, Edward</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -124,7 +125,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>        
+<revisionDesc>    
+<change when="2017-01-12" who="#lkw">added xml:ids</change>    
 <change when="2016-03-22" who="#kln">reviewed; edited</change>     
 <change when="2016-01-21" who="#snc">transcribed; encoded</change>
 </revisionDesc>
@@ -225,7 +227,7 @@ Bowling &amp; Gardner</p>
 
 <p>5th</p>
 
-<p>That to <gap extent="one word" reason="illegible"/> a deed of manumission of the woman Matilda, the Jury must be satisfied that she acted &#38; passed as free in a manner different from other slaves in Washington City aforesaid then &#38; there held as slaves</p>
+<p>That to presume a deed of manumission of the woman Matilda, the Jury must be satisfied that she acted &#38; passed as free in a manner different from other slaves in Washington City aforesaid then &#38; there held as slaves</p>
 
 <p>Refused. 17. Decr. 1841</p>
 

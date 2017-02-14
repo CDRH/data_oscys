@@ -14,12 +14,13 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -84,7 +85,7 @@
 <term xml:id="per.000004">Cranch, William, 1769-1855</term>
 <term xml:id="per.000615">Lee, Joanna</term>
 <term xml:id="per.000044">Morsell, James Sewall</term>
-<term xml:id="per.000628">Savary, Peter</term> <!-- Savarie -->
+<term xml:id="per.000628">Savary, Peter</term> 
 <term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
 </keywords>
 
@@ -100,25 +101,25 @@
  
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004331">
 <persName>Lee, Lewis</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004332">
 <persName>Lee, Peter</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004333">
 <persName>Cureton, D. T.</persName>
 </person>
 <person role="defendant" xml:id="per.000617">
 <persName>Preuss, Augustus W.</persName>
 </person>
-<person role="attorney_petitioner" xml:id="per.002010">
-<persName>Huitt, Thomas W.</persName> <!-- (Hewitt) -->
+<person role="attorney_petitioner" xml:id="per.003308">
+<persName>Huitt, Thomas W.</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.002112">
 <persName>Mason, Thomson Francis, 1785-1838</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.004334">
 <persName>Peyton</persName>
 </person>
 </listPerson>  
@@ -133,6 +134,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2017-01-03" who="#lkw">added xml:ids</change>
 <change when="2016-08-04" who="#kln">reviewed, edited</change>
 <change when="2016-07-25" who="#snc">transcribed, encoded</change>
 </revisionDesc>

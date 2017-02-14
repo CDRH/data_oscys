@@ -13,12 +13,13 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 </titleStmt>
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -78,7 +79,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Brunet, John B.</term>
+<term xml:id="per.004351">Brunet, John B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -95,11 +96,11 @@
  
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
-<persName>Foster, William</persName>
+<person role="petitioner" xml:id="per.004352">
+<persName>Dunbar, Leonard</persName>
 </person>
-<person role="defendant">
-<persName>Simmons, William</persName>
+<person role="defendant" xml:id="per.004353">
+<persName>Ball, James</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000460">
 <persName>Taney, Augustus</persName>
@@ -119,6 +120,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2017-01-03" who="#lkw">added xml:ids; changed petitioner and defendant to Dunbar and Ball</change>
 <change when="2016-08-19" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 

@@ -11,6 +11,7 @@
 <resp>transcription and encoding</resp>
 <name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -19,7 +20,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -83,10 +84,10 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term>Atkins, Matilda</term>
+<term xml:id="per.004399">Atkins, Matilda</term>
 <term xml:id="per.000829">Bradley, Joseph H. (Joseph Habersham), 1802-1887</term>
 <term xml:id="per.001238">Gardiner, Richard B.</term>
-<term>Simms, Edward</term> <!-- Simmes -->
+<term xml:id="per.004400">Simms, Edward</term> <!-- Simmes -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -125,7 +126,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>        
+<change when="2017-01-12" who="#lkw">added xml:ids; transcription</change>     
 <change when="2016-03-17" who="#kln">reviewed; edited</change>
 <change when="2016-02-09" who="#snc">transcribed; encoded</change>
 </revisionDesc>
@@ -145,7 +147,7 @@
 <p>Bryantown 20 <del>Dec</del> Feby 1827</p>
    
 <p>Sir,<lb/>
-I recd information from you two or posts years ago, that Matilda was in the family way and no longer of any use to you, and wishing advice, I now authorize you in my name to sett her free and give her all the papers necessary to her manumission and as she has <gap extent="one word" reason="illegible"/> different to what I calculated on I wish to have nothing more to do with her</p>
+I recd information from you two or three posts ago, that Matilda was in the family way and no longer of any use to you, and wishing advice, I now authorize you in my name to sett her free and give her all the papers necessary to her manumission and as she has <unclear extent="one word" reason="illegible">behaved</unclear> different to what I calculated on I wish to have nothing more to do with her</p>
 
 <p>Richd. B. Gardiner</p>
 
