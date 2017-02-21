@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0311.015">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0436.032">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Joseph Green v. Henry Green &amp; Peter Wheeler. Summons of Henry Green &amp; Peter Wheeler</title>
+<title>Christiana Dunbar v. Richard B. Alexander. Summons of Reid Cross &amp; Bazil Williams</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Camerone, Stephanie N" xml:id="snc">Steph N. Camerone</name>
+<name n="Camerone, Steph N." xml:id="snc">Steph N. Camerone</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
@@ -23,7 +23,7 @@
     
 <editionStmt>
 <edition>
-<date>2014</date>
+<date>2017</date>
 </edition>
 </editionStmt>
             
@@ -39,8 +39,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0311.015</idno>
-<idno type="case">oscys.caseid.0313</idno>
+<idno type="project">oscys.case.0436.032</idno>
+<idno type="case">oscys.caseid.0479</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -50,15 +50,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of Henry Green &amp; Joseph Wheeler</title>
-<date when="1859-05-17">May 17, 1859</date>
+<title level="m" type="main">Summons of Reid Cross &amp; Bazil Williams</title>
+<date when="1846-04-20">April 20, 1846</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>National Archives and Records Administration</repository>
-<collection>Record Group 21, Entry 6</collection>
-<idno>Box 904, Folder 112</idno>
+<repository>Library of Virginia, Richmond, Virginia</repository>
+<collection>Local Government Records Collection, Arlington County Court Records</collection>
+<idno>Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -83,35 +83,33 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1859-10">October 1859</date></term>
+<term><date when="1851-06">June 1851</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.000476">Dunlop, James, 1793-</term>
-<term xml:id="per.001217">Selden, William</term>
-<term xml:id="per.000740">Smith, John A.</term>
+<term xml:id="per.004449">Cross, Reid</term>
+<term xml:id="per.003461">Lee, Cassius F.</term>
+<term xml:id="per.002897">Minor, Daniel</term>
+<term xml:id="per.003638">Williams, Bazil</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Washington County (D.C.)</term>
+<term>Alexandria County (Va.)</term>
 <term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>            
-<person role="petitioner" xml:id="per.002354">
-<persName>Green, Joseph</persName>
+<listPerson> 
+<person role="petitioner" xml:id="per.001346">
+<persName>Dunbar, Christiana</persName>
 </person>
-<person role="defendant" xml:id="per.002355">
-<persName>Green, Henry</persName>
+<person role="defendant" xml:id="per.001343">
+<persName>Alexander, Richard B.</persName>
 </person>
-<person role="defendant"  xml:id="per.002356">
-<persName>Wheeler, Peter</persName>
-</person>
-<person role="attorney_petitioner" xml:id="per.001913">
-<persName>Carrington, Edward C.</persName>
+<person role="attorney_petitioner">
+<persName/>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -120,18 +118,17 @@
             
 <listOrg>
 <org>
-<orgName>United States. Circuit Court (District of Columbia)</orgName>
-<placeName>Washington (D.C.)</placeName>
+<orgName>Virginia. Circuit Superior Court (Alexandria County)</orgName>
+<placeName>Alexandria (Va.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc> 
-<change when="2017-02-20" who="#kln">removed A. from petitioner name</change>
-<change when="2017-01-19" who="#lkw">added xml:ids</change> 
-<change when="2016-03-15" who="#kln">reviewed; edited</change>
-<change when="2016-03-01" who="#snc">transcribed; encoded</change>
+<revisionDesc>       
+<change when="2017-01-23" who="#lkw">added/reviewed relationship encoding</change>    
+<change when="2017-01-11" who="#snc">reviewed, edited</change>     
+<change when="2016-11-15" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -142,51 +139,42 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="oscys.case.0311.015.001.jpg"/>
+<pb xml:id="p001" facs="oscys.case.0436.032.001.jpg"/>
 
 <div2 type="caption">
 
-<p>District of Columbia, to wit:<lb/> 
-The United States of America,<lb/>
-To the Marshal of the District of Columbia&#8212;Greeting:</p>
+<p>Circuit Court Alexandria County,<lb/>
+May Term 1846.</p>
 
 </div2>
 
 <div2 type="body">
 
-<p>We command you that you <del>take</del> Summon Peter Wheeler &amp; Henry Green <del>late of Washington County, if shall be found within the County of Washington in your said District, and safely keep, so that you have bod</del> before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 3rd Monday of Octo. next, to answer unto Joseph Green in his petition for freedom &amp;c</p> 
+<p>You are hereby commanded to summon Reid Cross &amp; Bazil Williams that they be and appear before the Court here, on the 4' day of May 10 oclk AM as witnesses for Christiana Dunbar v R. B. Alexander</p>
 
-<p>Hereof fail not at your peril, and have you then and there this writ.</p>
+<p>Issued 20th day of April 1846.</p>
 
-<p>Witness, Jas. Dunlop Esquire, Chief Justice of our said Court, at the City of Washington, the 16th day of May Anno Domini one thousand eight hundred and 59</p>
+<p>By order Cassius F. Lee, CC</p>
 
-<p>Issued the 17th day of May 1859</p>
+<p>To the Marshal of the District of Columbia.</p>
 
-<p>Jno A Smith Clk</p>
-
-<p>Carrington</p>   
-     
 </div2>
 
-<pb xml:id="p002" facs="oscys.case.0311.015.002.jpg"/>
+<pb xml:id="p002" facs="oscys.case.0436.032.002.jpg"/>
 
 <div2 type="back">
 
-<p>112</p>
+<p>7</p>
 
-<p>Joseph Green<lb/>
-<lb/>
-Peter Wheeler &amp; Henry Green</p>
+<p>Dunbar<lb/>
+v<lb/>
+Alexander</p>
 
-<p>Sub<lb/>
-9 Bre</p>
+<p>Reed Cross sd<lb/>
+Bazil Williams sd</p>
 
-<p>Petition for freedom<lb/>
-+</p>
-
-<p>Non Sunt<lb/>
-W. Selden<lb/>
-Marshal</p>
+<p>Sumd<lb/>
+D Minor DM</p>
 
 </div2>
 
