@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="iso-8859-1"?><?xml-stylesheet href="2016_ead.xsl" type="text/xsl"?>
+
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "http://archivespec.unl.edu/findingaids/dtd/ead.dtd">
+
+<!--http://archivespec.unl.edu/findingaids/MS002-lowenberg-music-unl.html-->
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader audience="internal" langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="MARC21" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="edited-full-draft">
+<eadid countrycode="us" mainagencycode="NbU" identifier="###">####</eadid><filedesc>
+
+<titlestmt><titleproper encodinganalog="245$a"></titleproper><!--<author encodinganalog="245$c">Print and machine-readable finding aids created by University Archives &#38; Special Collections staff, University of Nebraska&#8211;Lincoln Libraries</author>--></titlestmt>
+
+<publicationstmt><publisher encodinganalog="260$b">Archives &#38; Special Collections <lb/>University of Nebraska&#8211;Lincoln Libraries</publisher><date normal="2014">2015</date>
+
+<address>
+<addressline>29 Love Library</addressline>
+<addressline>P.O. Box 884100</addressline>
+<addressline>University of Nebraska-Lincoln</addressline>
+<addressline>Lincoln, NE 68588-4100</addressline>
+</address>
+</publicationstmt>
+</filedesc>
+
+<profiledesc><creation>Original finding aid created by Music Library, machine-readable finding aid encoded by Archives &#38; Special Collections, University of Nebraska&#8211;Lincoln Libraries, <date normal="2014">2014</date></creation><langusage>Finding aid written in <language encodinganalog="546" langcode="eng" scriptcode="latg">English.</language></langusage></profiledesc>
+</eadheader>
+
+<frontmatter><titlepage><titleproper encodinganalog="245$a">Carlton Lowenberg Collection on Emily Dickinson and Music</titleproper>
+<publisher>Archives &#38; Special Collections <lb/>University of Nebraska&#8211;Lincoln Libraries</publisher>
+<list type="simple"><head>Contact Information:</head>
+<item>Archives &#38; Special Collections</item>
+<item>29 Love Library</item>
+<item>P.O. Box 884100</item>
+<item>University of Nebraska-Lincoln</item>
+<item>Lincoln, NE 68588-4100</item>
+</list>
+<date>Copyright:2011</date></titlepage></frontmatter>
+
+<archdesc audience="external" type="inventory" level="collection" relatedencoding="MARC21">
+<did>
+
+<unittitle audience="external" label="Title:" encodinganalog="245$a">Carlton and Territa A. Lowenberg Collection on Emily Dickinson and Music</unittitle>
+
+<origination audience="external" label="Collector:"> <persname encodinganalog="100">Lowenberg, Carlton</persname></origination>
+
+<origination audience="external" label="Collector:"> <persname encodinganalog="100">Lowenberg, Territa A.</persname></origination>
+
+<unitdate label="Dates:" type="inclusive" encodinganalog="260" normal="1921/1979">1988-1992</unitdate>
+
+<physdesc audience="external" label="Quantity:" encodinganalog="300$a"><extent unit="boxes">19 boxes, 52 cassettes</extent></physdesc>
+
+<unitid label="Collection Number:" encodinganalog="099" countrycode="us" repositorycode="NbU">Music MS 002</unitid>
+
+<langmaterial label="Language:">English</langmaterial></did>
+
+<descgrp type="admininfo"> 
+
+<altformavail type="" encodinganalog="530"> 
+<head>Formats:</head><p>Scores, cassette tapes</p></altformavail> 
+
+<accessrestrict audience="external" encodinganalog="506"><head>Restrictions:</head><p>No restrictions</p></accessrestrict> 
+
+<userestrict encodinganalog="540"><head>Copyright:</head><p>To inquire about usage, please contact the Music Library, University of  Nebraska&#8211;Lincoln Libraries. For more information see the <extref href="http://libraries.unl.edu/specusageguidelines">Use Guidelines</extref> </p></userestrict> 
+
+<prefercite encodinganalog="524" id="a18"><head>Preferred Citation:</head><p>Carlton and Territa A. Lowenberg Collection on Emily Dickinson and Music, (Music MS 002). Music Library, University of Nebraska&#8211;Lincoln Libraries.</p></prefercite> </descgrp> 
+
+
+<bioghist altrender="Biographical Note" encodinganalog="545"><head>Biographical Note</head>
+  <p>Carlton Lowenberg (1919-1996) spent years of his life collecting musical settings of poems by Emily Dickinson. He wrote to composers soliciting music and created the Emily Dickinson Music Society.  Carlton Lowenberg wrote <emph render="italic">Musicians Wrestle Everywhere: Emily Dickinson and Music</emph> (Berkeley, California: Fallen Leaf Press, c1992).</p>
+</bioghist>
+
+<scopecontent encodinganalog="520">
+<head>Scope and Contents</head>
+<p>The Carlton and Territa A. Lowenberg Collection on Emily Dickinson and Music consists of materials relating to musical settings of the poems of Emily Dickinson. It includes unpublished and published scores set to poems of Dickinson, correspondence with composers and publishers, programs, newspaper clippings, drafts of Lowenberg's book <emph render="italic">Musicians Wrestle Everywhere,</emph> correspondence about the Emily Dickinson Music Society, and cassette recordings containing performances of song settings of Emily Dickinson's poems. </p>
+</scopecontent>
+
+<controlaccess>
+<head>Subjects:</head>
+ <persname encodinganalog="600">Dickinson, Emily, 1830-1886 -- Musical settings</persname>
+<persname encodinganalog="600">Dickinson, Emily, 1830-1886 -- Musical settings -- Bibliography</persname>
+<persname encodinganalog="600">Lowenberg, Carlton -- Correspondence</persname>
+<subject encodinganalog="650" source="lcsh">Emily Dickinson Music Society</subject>
+<subject encodinganalog="650" source="lcsh">Songs</subject>
+</controlaccess>
+
+
+
+<dsc type="analyticover"><head>Series Description:</head>
+<c01 level="series"><did> <unitid label="series">1</unitid> <unittitle>Lowenberg Correspondence and Manuscripts</unittitle> </did><scopecontent><p>This includes correspondence between Carlton Lowenberg and Ann Basart of Fallen Leaf Press regarding the publication of Lowenberg's book <emph render="italic">Musicians Wrestle Everywhere: Emily Dickinson and Music</emph>. Additional materials associated with the book include manuscript drafts, reviews, and publicity materials. Other correspondence sent to and from Lowenberg includes that of numerous composers, listed alphabetically by last name. Lowenberg asks for copies of scores set to Dickinson's poetry and offers membership in the Emily Dickinson Music Society. Lowenberg also collected articles, theses, hymns, and catalogs related to musical settings of Dickinson's poetry.</p> </scopecontent> </c01>
+
+<c01 level="series"><did> <unitid label="series">2</unitid><unittitle>Ernst Bacon Correspondence and Works</unittitle> </did><scopecontent><p>Ernst Bacon (1898-1990) was an American composer, pianist, and conductor who composed over 250 songs over his career, including many set to poems by Dickinson. He was awarded three Guggenheim Fellowships and a Pulitzer Scholarship.  Bacon's estate provided Lowenberg with copies of correspondence and documents related to his settings of Dickinson's poetry.</p></scopecontent> </c01>
+
+<c01 level="series"><did> <unitid label="series">3</unitid><unittitle>Scores and Works</unittitle>  </did><scopecontent><p>The majority of this series includes unpublished scores arranged alphabetically by last name of the composer. There are books that duplicate holdings in the Music Library. Additional scores are noted as oversized.</p></scopecontent> </c01>
+
+<c01 level="series"><did> <unitid label="series">4</unitid><unittitle>Cassette Tape Recordings</unittitle> </did><scopecontent><p>This series consists of cassette recordings of musical settings of Dickinson's poetry. Some possible performers and performances are identified using Lowenberg, <emph render="italic">Musicians Wrestle Everywhere</emph>, even if not identified on the cassette tapes.</p></scopecontent> </c01>
+
+</dsc>
+ 
+<dsc type="in-depth">
+<head>Container List:</head>
+
+<c01 level="series"><did><unitid label ="series">1</unitid>
+<unittitle>Lowenberg Correspondence and Manuscripts</unittitle>
+
+</did>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Correspondence, with Ann Basart, Fallen Leaf Press,</unittitle>
+<unitdate normal="19893">1989(?)</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Correspondence, with Ann Basart, Fallen Leaf Press,</unittitle>
+<unitdate normal="1990">1990</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Correspondence, with Ann Basart, Fallen Leaf Press,</unittitle>
+<unitdate normal="1991">1991</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">1</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Correspondence, with Ann Basart, Fallen Leaf Press,</unittitle>
+<unitdate normal="1992">1992(?)</unitdate>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">1-2</container>
+<unittitle><emph render="italic">Musicians Wrestle Everywhere</emph>, final draft</unittitle>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">3-4</container>
+<unittitle><emph render="italic">Musicians Wrestle Everywhere</emph>, final draft, duplicate</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">5</container>
+<unittitle><emph render="italic">Musicians Wrestle Everywhere</emph>, permission requests</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">6</container>
+<unittitle><emph render="italic">Musicians Wrestle Everywhere</emph>, publisher's refusals</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">7</container>
+<unittitle><emph render="italic">Musicians Wrestle Everywhere</emph>, kudos</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">8</container>
+<unittitle><emph render="italic">Musicians Wrestle Everywhere</emph>, illustrations</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">9</container>
+<unittitle><emph render="italic">Musicians Wrestle Everywhere</emph>, flyers</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">2</container>
+<container type="folder" label="Folder">10</container>
+<unittitle><emph render="italic">Musicians Wrestle Everywhere</emph>, reviews</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Correspondence, blind inquiries (about 55),</unittitle>
+<unitdate normal="1989">1989-1991</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Correspondence, general inquiries,</unittitle>
+<unitdate normal="1988">1988-1992</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Correspondence, library inquiries,</unittitle>
+<unitdate normal="1989">1989-1992</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Correspondence, The Jones Library, Amherst, Massachusetts, Anne K. Williamson and Daniel Lombardo,</unittitle>
+<unitdate normal="1979">1979-1992</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Correspondence, with scholars,</unittitle>
+<unitdate normal="1989">1989-1992</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Correspondence, newsletter, and mailing lists, Dickinson Family Association,</unittitle>
+<unitdate normal="1990">1990-1992</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">3</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Correspondence, University of Nebraska-Lincoln, Eva Sartori, Kent Hendrickson, and Stephen Hilliard,</unittitle><unitdate normal="1992">1992-1993 RESTRICTED</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Correspondence, with composers, A-B</unittitle></did><scopecontent><p>Robert Train Adams, Samuel H. Adler, Birgitte Alsted, Michael Anderson (no response), Michael Annicchiarico, Allyson Brown Applebaum, Elaine Barkin, James Beale, Stan Beckler, Brian Belet, Alan Belkin, Barnard Benoliel, Thomas Benjamin, Jean Berger, Marshall Bialosky, Herb Bielawa, Gordon Binkerd, Franceso Binni, Allan Blank, Howard Boatwright, Will Gay Bottje, Roger Bourland, Wolfgang Bottenberg, Lise Bro, Francis James Brown, Marilyn Bulli</p></scopecontent>
+
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Correspondence, with composers, C-F </unittitle></did><scopecontent><p>Ann Callaway, Philip Carlsen, Elliott Carter (via secretary), Niccolo Castiglioni, Robert Chauls, Henry Clarke (via Rory Karlsen), Robert Convery, Jean Coulthard, Charles Cushing (via Charlotte Cushing), Mark Dal Porto, Sharon Davis, Sarah Dawson, Ted Diaconoff, Emma Lou Diemer, Amadeo DeFilippi (no response), John Dowd, Charles Duncan, Michael Eckert, Bruce L. Faulconer, William Ferris, Vivian Fine, Burton Foreman, Donato Fornuto, Jack Fortner, Kenneth Fuchs</p></scopecontent>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Correspondence, with composers, G</unittitle></did><scopecontent><p>Barbara Gibas, Paul Gibson, Gerald Ginsburg, Sylvia Glickman, Ernest Gold, Donald Grantham, Lita Grier</p></scopecontent>
+
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">4</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Correspondence, with composers, H</unittitle></did><scopecontent><p>Juliana Hall (via David Sims), John Harbison, David Harman, Roy Harris (through Dan Stehman), Kenneth Haxton, Irwin Heilner (via Florence Heilner), John Heiss, Eskil Hemberg, Michael Hennagin, Elizabeth Herberich, Carol Herman (no response), Harry Hewitt, Walter Hilse, Roy Hinkle, Samuel Hodges, Lee Hoiby, Erik Hojsgaard, William Holab, Lisbeth Holm, Derek Holman (via Margaret Holman), Michael Horvit, Mary Howe (via Dorothy Indenbaum), Richard Hundley</p></scopecontent>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Correspondence, with composers, I-K</unittitle></did><scopecontent><p>Anthony Iannaccone, David Irving, Hunter Johnson, Joseph Jones, William Jordan (via Daniel Lombardo), Robert Jorvahl, Milan Kaderavek, Sergius Kagen (via Phoebe Castanis), Deborah Kavasch, Kevin Kelly, Linda Kernohan, Lee Kesselman, Leon Kirchner, Jerome Kitzke, Lothar Klein, Robert Kyr</p></scopecontent>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Correspondence, with composers, L</unittitle></did><scopecontent><p>Ken Langer, Jules Langert, Borje Lardner, Alan Leichtling, David Leisner, Ludwig Lenel, Thomas T. Lenk, Fred Lerdahl, Frank Levy, Alan Lighty, Harris Lindenfeld, Dan Locklair, Ellen Jane Lorenz, Otto Luening</p></scopecontent>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Correspondence, with composers, M-R</unittitle></did><scopecontent><p>Janice Macaulay, Giacomo Manzoni, Brian Marsh, Stephen Mayer, Ron McFarland, Henry Mollicone, Dorothy Rudd Moore, John Mueter, Bain Murray, John D. Niles, Roger Nixon, Lionel Nowak, Eldon Obrecht, David Olan, Esther Olin, Mollie O'Meara, Scott Pender, Sylvia Pengilly, Ronald Perera, George Perle, Brent Pierce (via Bernie Fisher), Daniel Pinkham, Paul Pisk, Charles W. Rasely, Elizabeth Raum, Robert Rericha, Marga Richter, Jay Rizzetto, Ned Rorem, Kenneth Rumery (no response), Charles H. Ruggiero</p></scopecontent>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Correspondence, with composers, S</unittitle></did><scopecontent><p>Gerhard Samuel, Mark Saya, Thomas Schudel, C. M. Shearer, Clare Shore, Ann Silsbee, Faye-Ellen Silverman, Paul Siskind, Russell Smith, Randall Snyder, Edmund F. Soule, Elam Ray Sprenkle, Philip Springer, Robert Starer, Gitta Steiner, K. Marie Stolba, Steven Stucky, Morton Subotnick (via Kathleen Magee), William Sydeman </p></scopecontent>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">5</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Correspondence, with composers, T-Z</unittitle></did><scopecontent><p>Louise Talma, Barry Taxman, Ludwig Tuman, Persis Vehar, Sean Vernon, George Walker, Joelle Wallach, Robert Ward, Betsy Frost Warren-Davis, James L. Waters, Ben Weber (via Matthew Paris), Mark Weber, Vally Weigl (via Rosalie Calabrese), Adolph Weiss (via William B. George), Nancy Wertsch (via John Lancaster), Andrew White, Beth Wiemann, Alec Wilder (via July Bell), Marilyn Ziffrin</p></scopecontent>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Correspondence, with composers and others, Robert Baksa</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Correspondence, with composers and others, Neely Bruce</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Correspondence, with composers and others, Shirvani Chalayev</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Correspondence, with composers and others, Gloria Coates</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Correspondence, with composers and others, Aaron Copland (including 1979 letter to Ernst (Bacon?))</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Correspondence, with composers and others, Gordon Getty</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Correspondence, with composers and others, John Gould, musician</unittitle>
+</did>
+</c02> 
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Correspondence, with composers and others, Richard Hoyt</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Correspondence, with composers and others, Joseph Jones</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">10</container>
+<unittitle>Correspondence, with composers and others, Martin Kalmanoff</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">6</container>
+<container type="folder" label="Folder">11</container>
+<unittitle>Correspondence, with composers and others, Roland Leich</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Correspondence, with composers and others, Margaret Meachem</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Correspondence, with composers and others, Marsha Marie Medley</unittitle>
+</did>
+</c02>
+
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Correspondence, with composers and others, Max Morath</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Correspondence, with composers and others, Fred Morey, editor of Dickinson Studies</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Correspondence, with composers and others, Alice Parker</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Correspondence, with composers and others, Gerhard Pilz</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Correspondence, with composers and others, Jo Ann Sims</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Correspondence, with composers and others, Leo Smit</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Correspondence, with composers and others, Frank E. Warren, <emph render="italic">Time and Eternity</emph></unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">10</container>
+<unittitle>Correspondence, with composers and others, Roger White, poet</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">7</container>
+<container type="folder" label="Folder">11</container>
+<unittitle>Correspondence, with composers and others, Margaret Wood</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Article, Cluck, Nancy, <emph render="doublequote">Aaron Copland/Emily Dickinson</emph> <emph render="italic">Emily Dickinson Bulletin</emph> 32, 141-153 (photocopy),</unittitle>
+<unitdate normal="1933">1977</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Thesis, Cullen, Rosemary, <emph render="doublequote">Musical Settings of Emily Dickinson's Poetry</emph> Brown University, part 1 of 3,</unittitle>
+<unitdate normal="1983">1983</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Thesis, Cullen, Rosemary, <emph render="doublequote">Musical Settings of Emily Dickinson's Poetry</emph> Brown University, part 2 of 3,</unittitle>
+<unitdate normal="1983">1983</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Thesis, Cullen, Rosemary, <emph render="doublequote">Musical Settings of Emily Dickinson's Poetry</emph> Brown University, part 3 of 3,</unittitle>
+<unitdate normal="1983">1983</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Correspondence, Culbertson, Evelyn, with Carlton and Territa Lowenberg,</unittitle>
+<unitdate normal="1988">1988-1991</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Culbertson, Evelyn, materials on Arthur Farwell and Emily Dickinson, includes manuscript, and photograph and negative of Arthur Farwell</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Hovland, Michael, <emph render="doublequote">Musical Settings of Emily Dickinson Poems: a Bibliography,</emph>  from <emph render="italic">Musical Settings of American Poetry: a Bibliography,</emph> incomplete pre-publication copy</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Correspondence, Farwell, Brice, with Carlton Lowenberg,</unittitle>
+<unitdate normal="1981">1981-1991</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">8</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Thesis, Moeller, Vernon Harold, <emph render="doublequote">Theoretical Aspects of Arthur Farwell's Musical Settings of Poems by Emily Dickinson</emph> University of Texas at Austin (ML410.F228 M7 1979),</unittitle>
+<unitdate normal="1979">1979</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Article, Steinke, Stacie Columbo, <emph render="doublequote">Music Education for Women in Female Seminaries of the Nineteenth Century,</emph></unittitle>
+<unitdate normal="1988">1988</unitdate>
+</did>
+</c02> 
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Correspondence, Sewell, Maryann S.</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Article, correspondence, Tipton, Noel <emph render="doublequote">Hymns and Emily Dickinson: the Power of Melody,</emph> two versions</unittitle>
+</did>
+</c02> 
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Article, Wager, Inez, <emph render="doublequote">ED's Poems in Musical Settings</emph></unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Correspondence, catalogs (2), American Composer's Alliance</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Correspondence, membership materials, American Music Center, American Musicological Society, Sonneck Society,  American Academy and Institute of Arts and Letters,</unittitle>
+<unitdate normal="1988">1988-1990</unitdate>
+</did>
+</c02> 
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>American Composers Alliance</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Correspondence, membership list, The American Society of Composers, Authors, and Publishers (ASCAP),</unittitle>
+<unitdate normal="1989">1989</unitdate>
+</did>
+</c02> 
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Correspondence, BMI</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">10</container>
+<unittitle>Correspondence, Dansk Musik Information Center</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">11</container>
+<unittitle>Correspondence, program, Emily Dickinson Center, Denmark</unittitle>
+</did>
+</c02> 
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">12</container>
+<unittitle>Correspondence, Hymn Society of America,<emph render="italic">The Hymn</emph>,</unittitle>
+<unitdate normal="1988">1988, Oct., 1991, Oct.</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">9</container>
+<container type="folder" label="Folder">13</container>
+<unittitle>Correspondence, Institute for Studies in American Music (I.S.A.M.), with Robert Schwarz</unittitle>
+</did>
+</c02>
+
+</c01>
+<c01 level="series"><did><unitid label ="series">2</unitid>
+<unittitle>Ernst Bacon, correspondence and works</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Ernst Bacon, correspondence, with Madi Bacon</unittitle></did>
+<scopecontent><p>Lowenberg correspondence with Ellen (Bacon's wife) and Madi Bacon (Bacon's sister) regarding documents in his estate on Emily Dickinson settings.</p></scopecontent>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Ernst Bacon, correspondence, with others, regarding Dickinson settings</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Ernst Bacon, articles, list of works, photograph</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Ernst Bacon, programs featuring Bacon's musical works</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Ernst Bacon, notices of manuscript for sale, <emph render="doublequote">The Postponeless Creature</emph></unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Ernst Bacon, newspaper clippings</unittitle>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Ernst Bacon, <emph render="doublequote">Tributaries: songs by Ernst Bacon</emph> Berkeley, California: The Musical Offering, (2),</unittitle><unitdate normal="1978">c1978</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Ernst Bacon, <emph render="doublequote">The Songs of Ernst Bacon</emph> by John St. Edmunds, <emph render="doublequote">Poetry in Search of Music</emph> by Ernst Bacon, Sewanee, Tennessee, University Press, reprint from <emph render="italic">The Sewanee Review</emph>,</unittitle><unitdate normal="1941">1941, Oct.</unitdate>
+</did>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">10</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Ernst Bacon, <emph render="doublequote">Nature: Ten Songs for Chorus of Women's Voices, Soprano and Alto Soli, and Piano</emph> Boston, Mass., E.C. Schirmer Music Co.,</unittitle><unitdate normal="1971">c1971</unitdate>
+</did>
+</c02>
+
+</c01>
+<c01 level="series"><did><unitid label ="series">3</unitid>
+<unittitle>Scores and Works</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Publications, catalog lists, composers' information</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Programs A-L, composers</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Programs M-Z, composers</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Reviews, composers</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Newspaper clippings, composers</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Miscellaneous music programs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Miscellaneous correspondence</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Performance flyers, brochures, programs, Carolyn Heafner (soprano)</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Newspaper clippings, gift of Roland Leich (composer)</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">10</container>
+<unittitle>Correspondence, nineteenth-century hymnals list, Philadelphia Rare Books and Manuscripts Company</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">11</container>
+<unittitle>Documents, cassettes (2), <emph render="doublequote">A Musical Evening of Emily Dickinson</emph> Kimball Recital Hall, University of Nebraska-Lincoln (Also available in <extref href="http://collections.unl.edu/GKSoMPerformances.html">Performances from UNL's Glenn Korff School of Music)</extref>, (http://collections.unl.edu/GKSoMPerformances.html)</unittitle><unitdate normal="1996">1996, Nov. 24</unitdate></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">12</container>
+<unittitle>Membership correspondence, lists, Emily Dickinson Music Society</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">13</container>
+<unittitle>Letter, Lowell Mason to Mary Lyon, on Lowell Mason papers at Yale (photocopy)</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">14</container>
+<unittitle>Bibliography, <emph render="doublequote">Emily Dickinson's personal album of sheet music</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">15</container>
+<unittitle>Carlton Lowenberg, <emph render="doublequote">Music want list</emph></unittitle><unitdate normal="1984">1984</unitdate></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">16</container>
+<unittitle>Music catalogs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">11</container>
+<container type="folder" label="Folder">17</container>
+<unittitle>Miscellaneous materials</unittitle></did></c02>
+
+ 
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Published scores, duplicates in Music Library</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Incomplete scores (photocopies)</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Score, <emph render="doublequote">Twelve Poems of Emily Dickinson,</emph> set to music by Aaron Copland (photocopy)</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">12</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Score, <emph render="doublequote">Sound Forth Again the Nation's Voice: a New American Hymn</emph> words by Thomas Wentworth Higginson, music by C. Crozat Converse, <emph render="italic">Harper's Weekly</emph>,</unittitle><unitdate normal="1897">1897, May 29</unitdate></did></c02>
+
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Scores, Belet, Brian, <emph render="doublequote">Five Songs</emph></unittitle><physloc type="audiovisual">(Please see cassette collection)</physloc></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Scores, Bialosky, Marshall, four compositions</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Scores, Bialosky, Marshall, <emph render="doublequote">The Far Theatricals of Day</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Scores, Bottenberg, Wolfgang, <emph render="doublequote">Four Emily Dickinson Songs</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Scores, Bottje, Will Gay, <emph render="doublequote">Wayward Pilgrim</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Scores, Bruce, Neely, <emph render="doublequote">Emily's Flowers</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Scores, Chauls, Robert, <emph render="doublequote">Death is the Supple Suitor,</emph> <emph render="doublequote">Let Down the Bars, O Death</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Scores, Chauls, Robert, <emph render="doublequote">Songs of Great Men and Death</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Scores, Coates, Gloria <emph render="doublequote">There Breathed a Man,</emph>  <emph render="doublequote">I Held a Jewel in My Fingers,</emph>  <emph render="doublequote">A Word is Dead,</emph>  <emph render="doublequote">In Falling Timbers Buried</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">10</container>
+<unittitle>Scores, Convery, Robert, <emph render="doublequote">An Amethyst Remembrance</emph> early Dickinson settings,</unittitle><unitdate normal="1976">1976-1980</unitdate></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">11</container>
+<unittitle>Scores, Dal Porto, Mark, <emph render="doublequote">Five Pieces for A Cappella Choir</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">12</container>
+<unittitle>Scores, De Vries Robbé, Willem, <emph render="doublequote">Calendar</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">13</container>
+<unittitle>Scores, Diacanoff, Ted, <emph render="doublequote">Songs of Transition and Passage</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">14</container>
+<unittitle>Scores, Diacanoff, Ted, <emph render="doublequote">Two Poems of Death</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">15</container>
+<unittitle>Scores, papers, Diemer, Emma Lou, <emph render="doublequote">There is a Morn by Us Unseen,</emph>   <emph render="doublequote">Three Poems of Emily Dickinson</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">13</container>
+<container type="folder" label="Folder">16</container>
+<unittitle>Scores, Dowd, John, two songs</unittitle></did></c02>
+
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Scores, Farwell, Arthur, collection of songs, quotation (some photocopies)</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Scores, Faulconer, Bruce, <emph render="doublequote">Five Poems of Emily Dickinson</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Scores, Foreman, Burton, <emph render="doublequote">Sweet is the Swamp,</emph> <emph render="doublequote">I Could Bring You Jewels,</emph> <emph render="doublequote">I Many Times Thought Peace Had Come</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Scores, Fortner, Jack, three songs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Scores, Freed, Isadore, <emph render="doublequote">Chartless</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Scores, letters, Fuchs, Kenneth, <emph render="doublequote">Three Poems of Emily Dickinson</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Scores, Gould, John A., arrangement, five songs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Scores, Green, Ray, <emph render="doublequote">Concluded Lives</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Scores, Harris, Roy, <emph render="doublequote">Read Sweet, How Others Strove</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">10</container>
+<unittitle>Scores, Herberich, Elizabeth, <emph render="doublequote">Four Poems of Emily Dickinson</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">11</container>
+<unittitle>Scores, Hilse, Walter, <emph render="doublequote">Nine Dickinson Songs,</emph>  <emph render="doublequote">I Started Early</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">12</container>
+<unittitle>Scores, Hinkle, Roy B., <emph render="doublequote">About God, Love, and Nature</emph></unittitle><physloc type="audiovisual">(Please see cassette collection)</physloc></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">13</container>
+<unittitle>Scores, H&#248;jsgaard, Erik, <emph render="doublequote">Variations: Six Songs of Autumn,</emph>  <emph render="doublequote">Two Songs for Mixed Choir</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">14</container>
+<unittitle>Scores, Howe Mary, <emph render="doublequote">Three Emily Dickinson Pieces</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">15</container>
+<unittitle>Scores, Hoyt, Robert, collected songs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">16</container>
+<unittitle>Scores, Hundley, Richard, <emph render="doublequote">Will There Really be a Morning</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">17</container>
+<unittitle>Scores, Johnson, Hunter, three songs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">18</container>
+<unittitle>Scores, Johnson, Lockrem, <emph render="doublequote">A Letter to Emily,</emph> libretto (not Dickinson poetry)</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">19</container>
+<unittitle>Scores, Jones, Joseph, songs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">20</container>
+<unittitle>Scores, Jordahl, Robert, <emph render="doublequote">Death and the Maiden</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">21</container>
+<unittitle>Scores, Kalmanoff, Martin, <emph render="doublequote">If I Can Stop One Heart from Breaking,</emph>  <emph render="doublequote">20 songs</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">22</container>
+<unittitle>Scores, Kelly, Kevin, <emph render="doublequote">There's a Certain Slant of Light</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">23</container>
+<unittitle>Scores, Kent, Frederick James, <emph render="doublequote">Women's Voices</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">24</container>
+<unittitle>Scores, Kesselman, Lee R., <emph render="doublequote">Buzzings: Three Pieces for Mixed Chorus,</emph>   <emph render="doublequote">Libera Me: Requiem for Three Poets</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">25</container>
+<unittitle>Scores, score samples, Klein, Lothar</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">14</container>
+<container type="folder" label="Folder">26</container>
+<unittitle>Scores, Kyr, Robert, <emph render="doublequote">Maelstrom,</emph>   <emph render="doublequote">Toward Eternity</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Scores, Langer, Ken, ten songs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Scores, letter, Lardner, Börje, <emph render="doublequote">There's a Certain Slant of Light,</emph> and songs set to poems of Philip Freneau and Ralph Waldo Emerson</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Scores, Leich, Roland, <emph render="doublequote">Color, Caste, Denomination</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Scores, Leich, Roland, <emph render="doublequote">Forty-Seven Emily Dickinson Songs</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Scores, Lenel, Ludwig, <emph render="doublequote">Five Poems by Emily Dickinson</emph></unittitle><physloc type="audiovisual">(Please see cassette collection)</physloc></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Scores, Lockwood, Normand, <emph render="doublequote">Three Verses of Emily Dickinson</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Scores, Lorenz, Ellen Jane, <emph render="doublequote">Bring Me the Sunset in a Cup</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Scores, Morath, Max, <emph render="doublequote">In Separate Rooms</emph></unittitle><physloc type="audiovisual">(Please see cassette collection)</physloc></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Scores, Mueter, John, <emph render="doublequote">It Is a Lonesome Glee</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">10</container>
+<unittitle>Scores, Nowak, Lionel, <emph render="doublequote">Three Dickinson Songs</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">11</container>
+<unittitle>Scores, Parker, Etta, <emph render="doublequote">Have 
+You Got a Brook</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">12</container>
+<unittitle>Scores, Pengilly, Sylvia, <emph render="doublequote">Three Poems of Emily Dickinson</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">13</container>
+<unittitle>Scores, Pilz, Gerhard, <emph render="doublequote">The Brain is Wider than the Sky</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">14</container>
+<unittitle>Scores, Pinkham, Daniel, <emph render="doublequote">Down an Amherst Path</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">15</container>
+<unittitle>Scores, Raum, Elizabeth, <emph render="doublequote">The Passing</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">16</container>
+<unittitle>Scores, Rericha, Robert J., <emph render="doublequote">There's a Certain Slant of Light</emph>
+</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">17</container>
+<unittitle>Scores, Richter, Marga, <emph render="doublequote">Three Songs to Poems of Emily Dickinson</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">18</container>
+<unittitle>Scores, Samuel, Gerhard, <emph render="doublequote">Three Dickinson Songs</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">19</container>
+<unittitle>Scores, Saya, Mark, <emph render="doublequote">Three, by Emily</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">20</container>
+<unittitle>Scores, Seeboth, Max, <emph render="doublequote">I Never Saw a Moor</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">21</container>
+<unittitle>Scores, programs, Sims, Jo Ann, <emph render="doublequote">That I Did Always Love</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">22</container>
+<unittitle>Scores, Siskind, Paul, <emph render="doublequote">I'm Nobody; I Have No Life but This</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">23</container>
+<unittitle>Scores, Smit, Leo, three songs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">24</container>
+<unittitle>Scores, South, Jean and Roger White, <emph render="doublequote">One Bird, One Cage, One Flight: Homage to Emily Dickinson,</emph> music, Jean J. South, words, Roger White</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">25</container>
+<unittitle>Scores, Springer, Philip, <emph render="doublequote">Come Slowly, Eden</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">26</container>
+<unittitle>Scores, Starer, Robert, three songs for chorus</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">27</container>
+<unittitle>Scores, Stucky, Stephen, <emph render="doublequote">Two Poems of Emily Dickinson</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">28</container>
+<unittitle>Scores, Tipton, Noel, <emph render="doublequote">Three Songs</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">29</container>
+<unittitle>Scores, Walker, Christopher, <emph render="doublequote">Hope is the Thing with Feathers</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">30</container>
+<unittitle>Scores, Wallach, Joelle, <emph render="doublequote">Of Honey and of Vinegar</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">31</container>
+<unittitle>Scores, Wilder, Alec, <emph render="doublequote">Five Songs</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">15</container>
+<container type="folder" label="Folder">32</container>
+<unittitle>Scores, Wilder, Alec, <emph render="doublequote">I Hide Myself</emph></unittitle></did></c02>
+
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Published book, <emph render="italic">A Guide to the Music of Arthur Farwell and to the Microfilm Collection of his Work / a centennial commemoration prepared by his Children</emph> edited by Brice Farwell, New York, Briarcliff Manor,</unittitle><unitdate normal="1972">1972</unitdate></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Published book, Lowenberg, Carlton, <emph render="italic">Musicians Wrestle Everywhere: Emily Dickinson &#38; Music</emph> Berkeley, California, Fallen Leaf Press,</unittitle><unitdate normal="1992">1992</unitdate></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Published book, Culbertson, Evelyn Davis, <emph render="italic">He Heard America Singing: Arthur Farwell, Composer and Crusading Music Educator</emph> Metuchen, New Jersey, The Scarecrow Press,</unittitle><unitdate normal="1992">1992</unitdate></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">16</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Published book, Dickinson, Clarence, <emph render="italic">The Technique and Art of Organ Playing</emph> New York, The H.W. Gray Co.,</unittitle><unitdate normal="1922">1922</unitdate></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">17</container>
+<container type="box" label="Box">1</container>
+<unittitle>Emily Dickinson music (EDM) discs, box 1 of 3, seventeen 5 ¾" floppy discs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">17</container>
+<container type="box" label="Box">2</container>
+<unittitle>EDM discs, box 2 of 3, thirteen 5 ¾" floppy discs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">17</container>
+<container type="box" label="Box">3</container>
+<unittitle>EDM discs, box 3 of 3, eight 5 ¾" floppy discs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">17</container>
+<container type="box" label="Box">4</container>
+<unittitle>EDMS discs, six 5 ¾" floppy discs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">17</container>
+<container type="box" label="Box">5</container>
+<unittitle>CL ED MUSIC, EDM SETT discs, four 5 ¾" floppy discs</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">17</container>
+<container type="box" label="Box">6</container>
+<unittitle>Microfilm, misc. bound volume of music with Emily Dickinson' signature. Original in Houghton Library</unittitle></did></c02>
+
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Oversize scores, Bacon, Ernst, <emph render="doublequote">Nature</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Oversize scores, Benoliel, Bernard, <emph render="doublequote">Eternity-junctions</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Oversize scores, Beckler, Stanworth, <emph render="doublequote">Five Poems of Dickinson,</emph> <emph render="doublequote">Four Short Poems of Emily Dickinson,</emph> <emph render="doublequote">Man and Divers Bestiall Companions</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Oversize scores, Biscardi, Chester, <emph render="doublequote">The Gift of Life</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Oversize scores, Bialosky, Marshall, <emph render="doublequote">Birds, Bees, and Butterflies</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Oversize scores, Bourland, Roger, <emph render="doublequote">A Slash of Blue,</emph> <emph render="doublequote">Dickinson Madrigals</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Oversize scores, Coulthard, Jean, <emph render="doublequote">Five Love Songs for Baritone</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Oversize scores, Getty, Gordon, <emph render="doublequote">White Election</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">18</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Oversize scores, Ginsburg, Gerald, selection of his best</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">1</container>
+<unittitle>Oversize scores, Hemberg, Eskil, <emph render="doublequote">Love Fancies</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">2</container>
+<unittitle>Oversize scores, Lighty, Alan K., <emph render="doublequote">Music from Amherst</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">3</container>
+<unittitle>Oversize scores, Mayer, Stephen, <emph render="doublequote">Six Poems of Emily Dickinson</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">4</container>
+<unittitle>Oversize scores, brochures, programs, McFarland, Ron, <emph render="doublequote">A Dickinson Dialogue,</emph>  <emph render="doublequote">Emily Dickinson's American Garden Song Book</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">5</container>
+<unittitle>Oversize scores, brochure, program, Parker, Alice, <emph render="doublequote">Echoes from the Hills,</emph>  <emph render="doublequote">Three Seas</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">6</container>
+<unittitle>Oversize scores, Schudel, Thomas, <emph render="doublequote">My Life Closed Twice before Its Close,</emph>  <emph render="doublequote">There Came a Wind Like a Bugle,</emph>   <emph render="doublequote">There's a Certain Slant of Light</emph>
+</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">7</container>
+<unittitle>Oversize scores, Soule, Edmund, <emph render="doublequote">A Book of Emily, or Thirteen Ways of Looking at Miss Dickinson</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">8</container>
+<unittitle>Oversize scores, Talma, Louise, <emph render="doublequote">One Need Not be a Chamber to be Haunted</emph>
+</unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">9</container>
+<unittitle>Oversize scores, article, review, Vehar, Persis, <emph render="doublequote">Emily D.,</emph> <emph render="doublequote">Three from Emily</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">10</container>
+<unittitle>Oversize scores, Waters, James, <emph render="doublequote">Goal,</emph>   <emph render="doublequote">Songs of Life</emph></unittitle></did></c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">19</container>
+<container type="folder" label="Folder">11</container>
+<unittitle>Oversize scores, Ziffrin, Marilyn J., <emph render="doublequote">Symphony for Voice and Orchestra: 'Letters'</emph></unittitle></did></c02>
+</c01>
+
+<c01 level="series"><did><unitid label ="series">5</unitid>
+<unittitle>Cassette Tape Recordings</unittitle>
+</did>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">20</container>
+<unittitle>Cassettes ED 1-17</unittitle></did>
+
+<c03 level="item"><did><container type="box-folder" label="item">1. </container><unittitle>Bartow, Jim, <emph render="italic">An American Poet's Song Book</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Setting for voice, trumpet, guitar, contrabass. Performers not identified. "E.D.'s blues" ["Heart! We will forget him"]; "Will there really be a 'morning'?"; "We learned" ["We learned the whole of love"] [Also poems by Paul L Dunbar, Robert Frost, et al.]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">2. </container><unittitle>[Beckler, Stanworth],  SRB Dickinson settings</unittitle></did><scopecontent><p>Noncommercial cassette tape.
+<emph render="italic">Five Poems of Dickinson</emph>, op. 56. Setting for tenor, flute, bassoon, piano, violin. 
+"A Bird" ["A bird came down the walk"]; "Hope" ["'Hope' is the thing with feathers"]; "Brook" ["Have you got a brook in your little heart"]; "Spider" ["The spider holds a silver ball"]; "I went to heaven."
+<emph render="italic">Man and Divers Bestiall Companyons</emph>, op. 75. Setting for SATB chorus, piano, harpsichord. "The Cricket" ["'Twas later when the summer went"] <emph render="italic">Four Short Poems of Emily Dickinson</emph>, op. 76, #1. Setting for soprano and piano. "Prairie" ["To make a prairie it takes a clover and one bee"]; "Century" ["Funny to be a century"]; "Water" ["Water, is taught by thirst"]; "Parasol" ["The parasol is the umbrella's daughter"]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">3. </container><unittitle>Belet, Brian, <emph render="italic">Five Songs</emph></unittitle></did><scopecontent><p>Noncommerical cassette tape. Setting for lyric coloratura soprano, flute, percussion, piano, viola.  1982 live recording.  P1989, Brian Belet.  Duration: 15 minutes, 15 seconds.  "I died for beauty" [Other poets]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">4. </container><unittitle>Benoliel, Bernard, <emph render="italic">Eternity-junctions</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Premier broadcast performance.  Setting for SATB chorus.  1969.  BBC Singers; Odaline de la Martinez, conductor. October 27, 1990. "Adrift! A little boat adrift!"; "My river runs to thee"; "I heard a fly buzz when I died"; "To know just how he suffered would be dear"; "Of all the souls that stand create"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">5. </container><unittitle>Bielawa, Herbert,</unittitle><unitdate normal="1973">1973</unitdate></did><scopecontent><p>Noncommercial cassette tape. <emph render="italic">A Dickinson Album</emph>, for choir, piano, guitar, troubadour and tape ["The stitching together of the settings is done by the troubadour who, accompanied on his guitar, sings sections of the poem 'Emily Dickinson' by the contemporary poet James Schevill." [Lowenberg, <emph render="italic">Musicians Wrestle Everywhere</emph>, 13.]
+1) "The brain" ["The brain within its groove"]; "Much madness" ["Much madness is divinest sense"]; "Winter afternoons" ["There's a certain slant of light"]; "Revolution" ["Revolution is the pod"]; "To fight aloud" ["To fight aloud is very brave"] 2) "Emily Dickinson," by James Scheville </p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">6. </container><unittitle>Bielawa, Herbert, <emph render="italic">The Snake and Other Creatures: Settings of Poems by Emily Dickinson</emph>,</unittitle><unitdate normal="19793">1973</unitdate></did><scopecontent><p>Noncommercial cassette tape. [Composed 1987 per Lowenberg, <emph render="italic">Musicians Wrestle Everywhere</emph>, 13.]  "The snake" ["A narrow fellow in the grass"]; "The frog" ["His mansion in the pool"]; "The bee" ["His feet are shod with gauze"]; "The oriole" ["To hear an oriole sing"]; "The spider" ["The spider is an artist"]; "The rat" ["The rat is the concisest tenant"] </p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">7. </container><unittitle>Blank, Allan, <emph render="italic">Coalitions</emph>,</unittitle><unitdate normal="1975">1975</unitdate></did><scopecontent><p>Noncommercial cassette tape. Setting for soprano, two clarinets, trombone, piano, two percussionists.  (Allan Blank, 2920 Archdale Rd., Richmond, VA  23235). "The heart is the capital of the mind"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">8. </container><unittitle>Bottenberg, Wolfgang, <emph render="italic">Four Emily Dickinson Songs</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Donna Fownes, soprano; Wolfgang Bottenberg, piano.  Loyola Chapel, Montreal.  May 5, 1983. "The grass so little has to do"; "If I shouldn't be alive"; "A thought went up my mind to-day"; "I taste a liquor never brewed"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">9. </container><unittitle>Convery, Robert, <emph render="italic">An Amethyst Remembrance: [a song cycle on ten poems of Emily Dickinson]</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. "A sepal, petal, and a thorn"; "The bee is not afraid of me"; "I held a jewel in my fingers"; "After great pain, a formal feeling comes"; "To love thee year by year"; "The heart asks pleasure first"; "That first day, when you praised me, sweet"; "The spider is an artist"; "A single clover plank"; "Forbidden fruit a flavor has"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">10. </container><unittitle>Copland, Aaron, <emph render="italic">Twelve Poems of Emily Dickinson</emph></unittitle></did><scopecontent><p>Robert Tear, tenor, Philip Ledger, piano. Tape of an LP, Argo, Decca Records, London  SW3 6RR; ZRG 862 "Nature, the gentlest mother"; "There came a wind like a bugle"; "Why do they shut me out of Heaven?"; "The world feels dusty"; "Heart, we will forget him"; "Dear March, come in!"; "Sleep is supposed to be"; "When they come back"; "I felt a funeral in my brain"; "I've heard an organ talk sometimes"; "Going to heaven!"; "The chariot"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">11. </container><unittitle>Dal Porto, Mark, <emph render="italic">Five Pieces for A Cappella Choir: Poems by Emily Dickinson</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. "Thoughts of Spring" ["Before you thought of spring"]; "Nature" ["'Nature' is what we see"]; "Morning" ["The sun just touched the morning"]; "Tempest" ["An awful tempest mashed the air"]; "The gentlest mother" ["Nature the gentlest mother is"]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">12. </container><unittitle>The Dickinsingers,</unittitle><unitdate normal="1983">1983-1985</unitdate></did><scopecontent><p>Noncommercial cassette tape. Side A. Sandra Dejong, soprano; Ann Harper, alto; John Gould, tenor; Hugh Silbaugh, bass.  November 1983. "Abraham to kill him" (to "Onward Christian soldiers"); "I took my power in my hands" (to "O God, our help in ages past"); "The red blaze is the morning" (to "The church's one foundation"); "I heard a fly buzz when I died" (to "A mighty fortress is our God") Side B. Sandra DeJong, soprano; Thylias Moss, soprano; Ann Harper, alto; John Gould, tenor; Greg Wilkin, bass; Meredith Price, bass.  April 1985. "Let down the bars, Oh death" [Samuel Barber]; From a lecture: "I like to see it lap the miles" (to "I'd Like to Teach the World to Sing")</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">13. </container><unittitle>Diemer, Emma Lou,  <emph render="italic">Three Poems of Emily Dickinson</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Setting for voice and electronic tape. "There came a wind like a bugle" (ca. 7 min.); "Lightly stepped a yellow star" (5 min., 30 sec.); "There is a morn by men unseen" (ca. 7 min.)</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">14. </container><unittitle>Foreman, Burton V., <emph render="italic">Three Emily Dickinson Poems</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Melinda Liebermann, soprano; Cornelis Witthoefft, piano. Recorded in Stuttgart, Germany.  
+"I could bring you jewels"; "I many times thought peace had come"; "Sweet is the swamp with its secrets"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">15. </container><unittitle>Getty, Gordon, <emph render="italic">The White Election</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Martha Steiger, soprano; Wendy Glaubitz, piano. Poems by Emily Dickinson, music by Gordon Getty with radio commentary. National Gallery, Washington, DC.  May 23, 1982. Part I: The Pensive Spring: "I sing to use the waiting"; "There is a morn by men unseen"; "I had a guinea golden"; "If she had been the mistletoe"; "New feet within my garden go"; "She bore it"; "I taste a liquor never brewed"; "I should not dare to leave my friend"</p><p>
+
+Part II: So Must We Meet Apart: "There came a day at summer's full"; "The first day's night had come"; "The soul selects her own society"; "It was not death, for I stood up"; "When I was small, a woman died"; "I cried at pity, not at pain"; "The night was wide"; "I cannot live with you"</p><p>
+
+Part III: Almost Peace: "My first well day, since many ill"; "It ceased to hurt me"; "I like to see it lap the miles"; "Split the lark, and you'll find the music"; "The crickets sang"; "After a hundred years"; "The clouds their backs together laid"; "I shall not murmur"</p><p>
+
+Part IV: My Feet Slip Nearer: "The grave my little cottage is"; "I did not reach thee"; "My wars are laid away in books"; "There came a wind like a bugle"; "The going from a world we know"; "Upon his saddle sprung a bird"; "Beauty crowds me"; "I sing to use the waiting"</p></scopecontent></c03>
+
+
+<c03 level="item"><did><container type="box-folder" label="item">16. </container><unittitle>Ginsburg, Gerald, <emph render="italic">Dickinson Songs</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. i)	The Music Department of Kean College of New Jersey presents <emph render="italic">All I Have to Bring: a Celebration of the Poetry of Women</emph> / set to music by Gerald Ginsburg.  March 3, 1992, Wilkins Theatre, Kean College of New Jersey.  Karen Shipp, soprano; Gerald Ginsburg, piano.  <emph render="italic">All I have to bring</emph> (1991) / Emily Dickinson.  
+"It's all I have to bring"; "She sweeps with many-colored brooms"; "I never saw a moor"; "Safe in their alabaster chambers"; "I taste a liquor never brewed"  [Settings of other poets]</p><p>
+ii)	From <emph render="italic">The World is a Beautiful Place...</emph>: a theatrical/musical experience for soloists and children's chorus with narration / composed and conceived by Gerald Ginsburg.  Alice Tully Hall, Lincoln Center for the Performing Arts, January 10, 1977. Mary Beth Peil, Rose Taylor, Children's Chorus.
+"On such a night, or such a night"; "He touched me so I live to know"; "Good morning, midnight"; "To make a prairie"; "The moon was but a chin of gold"; [Settings of other poets]</p></scopecontent></c03>
+
+
+<c03 level="item"><did><container type="box-folder" label="item">17. </container><unittitle>Herberich, Elizabeth, <emph render="italic">Four Poems of Emily Dickinson</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape.  Martha Peabody, soprano; John McDonald, piano.  Pickman Concert Hall, Cambridge Massachusetts, June 25, 1990.   
+"The grass so little has to do"; "In this short life"; "Soul, take thy risk"; "To break so vast a heart"</p></scopecontent></c03>
+
+</c02>
+<c02 level="file">
+<did>
+<container type="box" label="Box">21</container>
+<unittitle>Cassettes ED 18-34</unittitle></did>
+
+<c03 level="item"><did><container type="box-folder" label="item">18. </container><unittitle>Hewitt, Harry</unittitle></did><scopecontent><p>Noncommercial cassette tape. i)	<emph render="italic">Chartless: Ten Poems of Emily Dickinson</emph>. "The grass" ["The grass so little has to do"]; "Autumn" ["The morns are meeker than they were"]; "Evening" ["The crickets sang"]; "I felt a funeral in my brain"; "I never saw a moor" </p><p>ii)	Bitters and ballads.</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">19. </container><unittitle>Hinkle, Roy B.,  <emph render="italic">On God, Love, and Nature</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape.  Cycle of five solo songs accompanied by piano.  1982 through 1986.  Several performances beginning in 1983.  Duration: 11 min., 10 sec. "The moon is distant from the sea"; "A service of song" ["The daisy follows soft the sun"]; "Proof" ["That I did always love"]; "These are the days when birds come back"; "Some keep the Sabbath going to church"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">20. </container><unittitle>Hoiby, Lee, <emph render="italic">Four Dickinson Songs</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Cynthia Miller, soprano; Lee Hoiby, piano.  Terrace Theater, Kennedy Center, March 8, 1989. "Wild nights! Wild nights!"; "How the waters closed above him"; "There came a wind like a bugle"; "A Letter" [L261, paragraph 3.]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">21. </container><unittitle>Hoiby, Lee, <emph render="italic">The Shining Place</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. (Five Dickinson songs).  Karen Bogan, soprano; Lee Hoiby, piano; Joy in Singing concert, NYC, 1991. "The Shining Place" ["Me come! My dazzled face"]; "A Letter" [L261, paragraph 3]; "How the waters closed"; "Wild nights! Wild nights!"; "There came a wind like a bugle"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">22. </container><unittitle>Højsgaard, Erik, <emph render="italic">Variations: Six Songs of Autumn</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. i)	1976 version.  Anders Ljungar, alto flute; Ulla Rönnborg, cello; Jens Andersen, piano; Marianne Lund, soprano.  "I hide myself within my flower" is Variation IV.  Includes other poets.</p><p>
+ii)	<emph render="italic">Fragmenter</emph>.  1979 version.  Helle Hinz, soprano; Tim Frederiksen, violin; Karl Petersen, guitar. "These saw visions" Includes other poets. </p><p>
+iii)	<emph render="italic">Two Songs for Mixed Choir</emph>.  1985-86.  Ars Nova Choir, Bo Holten, conductor.  "Not knowing when the dawn will come"; "A sloop of amber slips away" </p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">23. </container><unittitle>Holab, William,  <emph render="italic">Absence Disembodies</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Martin Gonzalez, countertenor; Steven Tritten, tenor; Barry Brandes, bass.  May, 1988. "Absence disembodies-so does death"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">24. </container><unittitle>Horvit, Michael</unittitle></did><scopecontent><p>Noncommercial cassette tape
+i)	<emph render="italic">Three songs of elegy</emph>.  Setting for soprano and piano.  "I felt a funeral, in my brain"; "I felt a cleaving in my mind"; Ample make this bed"</p><p>
+ii)	<emph render="italic">Two Songs for Choir and Electronic Tape</emph>. "I heard a fly buzz when I died"; "Because I could not stop for death"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">25. </container><unittitle>Howe, Mary C., <emph render="italic">Three Pieces after Emily Dickinson</emph></unittitle></did><scopecontent><p>Chamber Arts Society of Catholic University of America, Washington, DC (Werner Lywen, George Steiner, violins; Norman Lamb, viola, John Martin, cello) Taped from LP: WCFM LP-9 (1951), copyright by WCFM. "The summers of Hesperides" ["Except the smaller size"]; "Birds by the snow" ["Water, is taught by thirst"]; "God for a frontier" ["I am afraid to own a body" [Inspired by the last line of each poem]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">26. </container><unittitle>Jones, Joseph, <emph render="doublequote">Shormies</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Recorded early 1991.  A selection from several hundred Dickinson poems set to hymn tunes in common meter or long meter.  
+Dickinson poems used in this tape:  "I'm nobody. Who are you?"; "A little madness in the spring"; "This was a poet" [spoken]; "Further in summer than the birds"; "As imperceptibly as grief"; "Success is counted sweetest"; "I heard a fly buzz when I died"; "Wild nights! Wild nights!"; "I like to see it lap the miles"; "The brain is wider than the sky"; "Tell all the truth but tell it slant"; "I never saw a moor" [spoken]; "Lightly stepped a yellow star"; "This is my letter to the world"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">27. </container><unittitle>Kalmanoff, Martin, <emph render="italic">The Joy of Prayer</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. [No Emily Dickinson] </p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">28. </container><unittitle>Kalmanoff, Martin, <emph render="italic">The Joy of Prayer</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. [2nd tape].  [No Emily Dickinson]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">29. </container><unittitle>Kyr, Robert, <emph render="italic">Maelstrom</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Bronwen Mills, soprano; The Fires of London; N. Cleobury, cond.  CR02. "Deliberation" ["'Twas like a maelstrom with a notch"]; Elegy (cello solo with instrument); "Ceremony after a fire raid" (Dylan Thomas)</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">30. </container><unittitle>Lecture at Syracuse</unittitle><unitdate normal="1966">1966</unitdate></did><scopecontent><p>Noncommercial cassette tape. Includes Emily Dickinson.</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">31. </container><unittitle>Leich, Roland, <emph render="italic">Emily Dickinson Songs</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. "Of death I try to think like this"; ""When night is almost done"; ""Color, cast, denomination" [solo voice and choral versions]; "I went to heaven"; "Through the strait pass of suffering"; "It tossed and tossed"; "When they come back"; "The butterfly upon the sky"; "To the bright east she flies"; "I'm nobody! Who are you?"; "There came a day at summer's full"; "Because I could not stop for death"; "We talked as girls do"; "Make me a picture of the sun." Sari Bishkoff, mezzo-soprano; Roland Leich, piano</p><p> "As if the sea should part"; "What is paradise?"; "The butterfly upon the sky"; "Mine by the right of the white election"; "You left me, sweet, two legacies"; "Alter? When the hills do." Lynne Webber, soprano; Sara Lee Sax, piano </p><p>"It's all I have to bring today"; ""Because I could not stop for death"; "We do not play on graves"; ""Our share of night to bear"; "I'll tell you how the sun rose"; "I know some lonely houses." Pamela Lewis, mezzo-soprano; Roland Leich, piano</p><p>
+"I'll tell you how the sun rose"; "Angels in the early morning"; "The butterfly upon the sky"; "Because I could not stop for death"; "I'm nobody. Who are you?"; "When they come back." Carolyn Colton, mezzo-soprano; Gregory Davis, piano</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">32. </container><unittitle>Leisner, David</unittitle></did><scopecontent><p>Noncommercial cassette tape. i)	<emph render="italic">Simple Songs</emph>, 1982. Sanford Sylvan, baritone; David Leisner, guitar.  Boston, 1983. "Exultation" ["Exultation is the going"]; "Beauty" ["Beauty crowds me till I die"]; "Madness" ["Much madness is divinest sense"]; "Letter" ["Bee! I'm expecting you"]; "Humility" ["A bee his burnished carriage"]; "Simplicity" ["How happy is the little stone"] </p><p>
+ii)	<emph render="italic">Confiding</emph>, 1985-86.  Mary Ann Hart, mezzo soprano; Jon Klibonoff, piano.  New York, 1990. "Savior, I've no one else to tell"; "Ample make this bed"; "Wild nights! Wild nights"; "This is my letter to the world." [Includes also poems of Gene Scaramellino, Elissa Ely, and Emily Bronte. ]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">33. </container><unittitle>Lenel, Ludwig,  <emph render="italic">5 Poems by Emily Dickinson</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. "We- -bee and I- -live by the quaffing"; "Of being is a bird"; "Out of sight? What of that?"; "And this of all my hopes"; "Let down the bars, oh death"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">34. </container><unittitle>Mayer, Stephen,  <emph render="italic">Six Poems of Emily Dickinson</emph></unittitle></did><scopecontent><p> Robert Kuehn, baritone; Stephen Mayer, piano.  First performance, Carnegie Recital Hall, 1975.  Second performance (revised), Carnegie Recital Hall, June 5, 1987.  Written in July 1971; revised April 1986. "Of all the sounds despatched abroad"; "Mine by the right of the white election"; "I reckon when I count at all"; "Of being is a bird"; "Split the lark and you'll find the music"; "Dying at my music"</p></scopecontent></c03>
+</c02>
+
+<c02 level="file">
+<did>
+<container type="box" label="Box">22</container>
+<unittitle>Cassettes ED 35-52</unittitle></did>
+
+<c03 level="item"><did><container type="box-folder" label="item">35. </container><unittitle>McFarland, Ron</unittitle></did><scopecontent><p>Noncommercial cassette tape.
+i)	<emph render="italic">Emily Dickinson's American Garden Song Book</emph>, for soprano and piano, 1985. Sopranos, Maria Ravetti and Barbara Emerson; piano, Ron McFarland 
+"Into my garden come" ["There is another sky"];"The gentian" ["The gentian weaves her fringes"]; "Anemone" ["Summer for thee, grant I may be"]; "Dandelions" ["We should not mind so small a flower"]; "The rose" ["Partake as doth the bee"];"A spider and a flower" ["The fairest home I ever knew"]; "A caterpillar" ["How soft a caterpillar steps"]; "A clover" ["To make a prairie it takes a clover and one bee"]</p><p>
+ii)	<emph render="italic">A Dickinson Dialogue</emph>, for chorus and orchestra. Tamalpais High School Chorus and Orchestra, 1974.
+"There's a certain slant of light"; "Because I could not stop for death"</p><p>
+iii)	<emph render="italic">Marinsong</emph> for string orchestra.  Marin Conservatory Chamber Orchestra, 1991.</p><p>
+iv)	<emph render="italic">Daughter of Lear</emph>, Metropolitan Opera tenor, William Lewis, 1991.  (Side B)</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">36. </container><unittitle>Morath, Max,  <emph render="italic">In Separate Rooms</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Words: Poems by Emily Dickinson.  Music: Max Morath, based on rag themes by Scott Joplin. "I'll tell you how the sun rose"; "If you were coming in the fall"; "I never saw a moor" [two versions]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">37. </container><unittitle>Mueter, John.  <emph render="italic">It is a Lonesome Glee: Ten Songs on Poems of Emily Dickinson</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Jean Herzberg, soprano; John Mueter, piano.  Recorded October 1989, White Recital Hall, UMKC Conservatory. "Wild nights! Wild nights!"; "Upon concluded lives"; "I many times thought peace had come"; "The mountains grow unnoticed"; "It is a lonesome glee"; "The wind begun to knead the grass"; "Always mine"; "My best acquaintances are those"; "Here, where the daisies fit my head"; "It was a quiet way"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">38. </container><unittitle><emph render="italic">A Musical Evening of Emily Dickinson</emph></unittitle></did><scopecontent><p> Performed by Kim Harris, Joshua Peterson, Amanda Hyberger, Judy Cole, William Shomos, Brett Hyberger, Margaret Kennedy-Dygas, William McMullen, Karen Becker, Ann Chang-Barnes, Tyler White, Lanette Lopez, University Chorale, Carolee R. Curtright, Ryan Kasten. Program co-sponsored by the University of Nebraska-Lincoln School of Music and Friends of the UNL Libraries in honor of the Carlton Lowenberg Collection of Emily Dickinson. Materials donated to the UNL Libraries by the Cliffs Charitable Foundation. Kimball Recital Hall, November 24, 1996. I've heard an organ talk sometimes / Aaron Copland; Shining place / Lee Hoiby; Of all the sounds / Dennis Riley; Why do they shut me out of heaven? / Aaron Copland; Sea of sunset; I shall know why / Arthur Farwell; What I can do; Love's stricken 'Why' / Robert Convery; In separate rooms / Max Morath; Route of evanescence / Randall Snyder; An Emily Dickinson mosaic / Daniel Pinkham; Three madrigals for women's chorus / Russell Burnham; Autumn song / Robert Carl; Heart, we will forget him / Mulholland, James. </p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">39. </container><unittitle>Pender, Scott, <emph render="italic">From the Letters of Emily Dickinson</emph>,</unittitle><unitdate normal="1988">1988</unitdate></did><scopecontent><p>Noncommercial cassette tape. Setting for SSAA women's chorus, two horns, piano.  DaCamera Singers; Ernest Liotti, conductor.  (p1989, Scott Pender.  All rights reserved.  2441 40th St., NW #2, Washington, DC 20007.  (202) 965-1357)  Duration: 13 minutes. Letter 225, "The world is just a little place"; letter 234, "The seeing pain one can't relieve"; letter 388, "I hear robins a great way off"; letter 216, "Don't cry, dear Mary."</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">40. </container><unittitle>Pilz, Gerhard,  <emph render="italic">The Brain is Wider than the Sky</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Setting for guitars, bass, keyboards, drums.  Text, Emily Dickinson. (Gerhard Pilz, Gmündmühle 1, A-6914, Hohenweiler, Austria.  Tel. and Fax: o5573/4166) "The brain is wider than the sky" </p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">41. </container><unittitle>Pilz, Gerhard,   <emph render="italic">Rock</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape.</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">42. </container><unittitle>Saya, Mark,  <emph render="italic">Three, by Emily</emph>,</unittitle><unitdate normal="1978">1978</unitdate></did><scopecontent><p>Noncommercial cassette tape. Lee Francis, soprano; Joel Hoffman, piano. "I'm nobody. Who are you?"; ""To make a prairie it takes a clover and one bee"; "It struck me every day"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">43. </container><unittitle>Sims, JoAnn,  <emph render="italic">That I did always Love</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. JoAnn Sims, mezzo; Greg Upton, piano. "That I did always love"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">44. </container><unittitle>Siskind, Paul</unittitle></did><scopecontent><p>Noncommercial cassette tape. i)	<emph render="italic">Some Epigrams.</emph>  Complete.  Setting for medium or high voice and piano.  Mary Law, Kari Paulson, Elizabeth Rodgers, Ted Fitch.  Includes Dicksinson song: "I'm nobody.  Who are you?" </p><p>
+ii)	Some more epigrams.  Complete.  Agnes Smuda, John Coonrod.  Includes Dickinson song:  "I have no life but this"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">45. </container><unittitle>Smit, Leo, piano, <emph render="italic">A Crazy Quilt of American Piano Music</emph></unittitle></did><scopecontent><p>Commercial cassette tape. Musicmasters, 1986.  MM40105. The Alcotts: from the "Concord" sonata / Charles Ives. - Hommage a Mozart / Irving Fine. - Three moods. Embittered ; Wistful ; Jazzy / Aaron Copland. - Dream / John Cage. - Aaron Copland : from "13 portraits for piano" / Virgil Thomson. - Ostinato : from "7 characteristic pieces" / Leo Smit. - Ossian, op. 4, no. 1 : ballade / Louis Moreau Gottschalk. - Zero hour / Pete Johnson. - In deep woods, op. 62, no. 5 / Edward MacDowell. - For Lukas Foss : from "5 anniversaries" / Leonard Bernstein. - Adagio : from Sonata no. 2 / Harold Shapero. - A Foggy day / George Gershwin. - Pastoral prelude / Louise Talma. - Whistling tune / Gail Kubik. - In slow blues tempo : from "Excursions," op. 20 / Samuel Barber. - Song of the deathless voice / Arthur Farwell. - Dynamic : from "Three piano moods" / William Schuman.</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">46. </container><unittitle>Snyder, Randall, <emph render="italic">Two Poems</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. University of Nebraska Chorus and Wind Ensemble; James Hejduk, conductor. "Hope is the thing with feathers"; "There came a wind like a bugle"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">47. </container><unittitle><emph render="italic">This Was a Poet: Emily Dickinson Recalled in Song</emph> </unittitle></did><scopecontent><p>Noncommercial cassette tape. Radio broadcast, KUT-FM, Austin, TX, March 15, 1986. (Script, Joseph Jones; Cina Crisara as Emily Dickinson)  Poems read and sung to unidentified hymn tunes. "I'm Nobody. Who are you?"; "A little madness in the spring"; "Further in summer than the birds" (choral); "As imperceptibly as grief" (choral); "Success is counted sweetest" (choral); "I heard a fly buzz when I died"; "Wild nights-Wild nights"; "I like to see it lap the miles"; "The brain is wider than the sky"; "Tell all the truth but tell it slant"; "Lightly stepped a yellow star" (choral); "This is my letter to the world"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">48. </container><unittitle>Vehar, Persis,  <emph render="italic">Emily D.</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. For soprano, flute, oboe and piano.  Rachel Lewis, soprano; Marlene Witnauer, flute; Paul Schlossman, oboe; Persis Vehar, piano.  
+"Morning" ["Will there really be a 'morning'?"]; "He stopped for me" ["Because I could not stop for death"]; "For earth, for heaven" ["To help our bleaker parts"]; "Into the beautiful" ["As imperceptibly as grief"]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">49. </container><unittitle>Vehar, Persis,  <emph render="italic">Three from Emily</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Elizabeth Holt Brown, soprano; Nancy Anderson, cello; Persis Vehar, piano.  ASCAP. "How happy is the little stone"; "The martyrs even trod" ["Through the strait pass of suffering"]; "Ashore at last" ["On this wondrous sea"]</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">50. </container><unittitle>Wallach, Joelle, <emph render="italic">Of Honey and of Vinegar: a Cycle of Four Songs for Mezzo and Two Pianos Based on Four Poems by Emily Dickinson</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. Isabelle Ganz, mezzo; David Levi and Christopher Vassiliades, piano. "Split the lark and you'll find the music"; "How soft the prison is"; "As imperceptibly as grief"; "The Bible is an antique volume"</p></scopecontent></c03>
+
+<c03 level="item"><did><container type="box-folder" label="item">51. </container><unittitle>Waters, James</unittitle></did><scopecontent><p>Noncommercial cassette tape. Side A. <emph render="italic">Songs of Life.</emph> Daune Mahy, soprano; Cleveland Chamber Orchestra; Edwin London, director.  September 28, 1986.  Janice Harsanyi, soprano; Fred Ormond, clarinet; Carolyn Bridger, piano.  January 22, 1984.  "I taste a liquor never brewed"; "God made a little gentian"; "Far from love the heavenly father"; "From all the jails the boys and girls"</p><p> Side B. <emph render="italic">Goal.</emph>  Mary Sue Hyatt, mezzo; KSU New Music Ensemble; Frank Wiley, conductor.  February 1983.  "I felt a funeral in my brain"; "Least bee that brew"; "Each life converges to some centre"; "I felt a cleaving in my mind"</p></scopecontent></c03>
+
+
+<c03 level="item"><did><container type="box-folder" label="item">52. </container><unittitle>Ziffrin, Marilyn J., <emph render="italic">Symphony for Voice &#38; Orchestra: Epilogue Letters</emph></unittitle></did><scopecontent><p>Noncommercial cassette tape. N.H. Music Festival.  Tom Nee, Music Director, Neva Pilgrim, soprano. <emph render="doublequote">This is my letter to the world.</emph> [Includes excerpts from letters by other writers]</p></scopecontent></c03>
+
+
+</c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
