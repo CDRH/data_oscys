@@ -627,10 +627,10 @@
                   <xsl:text>&#160;</xsl:text>
                </xsl:when>
                <xsl:otherwise>
-                  <xsl:apply-templates/>
+                  <xsl:apply-templates/>&#160;
                </xsl:otherwise>
             </xsl:choose>
-         </xsl:when>
+         </xsl:when>&#160;
          <xsl:when test="ancestor::archdesc">
             <xsl:choose>
                <xsl:when test="@type = 'bulk'">
