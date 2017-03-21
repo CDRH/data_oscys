@@ -6,7 +6,7 @@
    <xsl:template match="ead">
       <html>
          <head>
-            <title>UNL | Libraries | Archives &#38; Special Collections | Finding Aids</title>
+            <title><xsl:value-of select="//titlestmt/titleproper[1]"/></title>
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
             <link rel="stylesheet"
@@ -14,40 +14,8 @@
                type="text/css"/>
          </head>
          <body>
-            <!--BANNER TABLE do not change table-->
-            <!--librarybanner CSS-->
-            <table width="100%" border="0" style="border-bottom:1px solid #333333" cellpadding="3"
-               cellspacing="0">
-               <tr>
-                  <td align="left" width="300">
-                     <span class="sseriftext14">
-                        <a href="http://libraries.unl.edu/libraries/">UNL Libraries</a>
-                     </span>
-                  </td>
-                  <td align="right">
-                     <a href="http://www.unl.edu/">
-                        <!--LOGO-->
-                     </a>
-                  </td>
-               </tr>
-            </table>
 
-            <!--END BANNER TABLE-->
-            <!--PAGE SPECIFIC LINKS TOP-->
-            <table align="center" border="0" width="100%" cellpadding="3" cellspacing="0">
-               <tbody>
-                  <tr valign="center">
-                     <td valign="center" align="left">
-                        <span class="sseriftext">
-                           <a href="http://libraries.unl.edu/spec">Archives &#38; Special
-                              Collections</a> | <a href="http://libraries.unl.edu/specfaidsAZ"
-                              >Finding Aids</a>
-                        </span>
-                     </td>
-                  </tr>
-               </tbody>
-            </table>
-            <!--END PAGE SPECIFIC LINKS TOP-->
+
             <table border="0" width="1000" align="center">
                <tr>
                   <td>
@@ -57,55 +25,7 @@
             </table>
             <br/>
             <br/>
-            <!--DEPARTMENT CONTACT INFO-->
-            <!--librarydeptcontact CSS-->
-            <table width="100%" border="0" cellpadding="3" cellspacing="0" class="sseriftext">
-               <tr>
-                  <td align="left" class="librarydeptcontact"> If you have questions about the
-                     Archives &#38; Special Collections, please email <a
-                        href="mailto:archives@unl.edu">"archives@unl.edu."</a>
-                  </td>
-               </tr>
-            </table>
-            <!--END DEPARTMENT CONTACT INFO-->
-            <!--PAGE SPECIFIC LINKS-->
-            <table align="center" border="0" width="100%" cellpadding="10" cellspacing="0">
-               <tbody>
-                  <tr valign="center">
-                     <td valign="center" align="middle"
-                        style="border-top:1px solid #333333;border-bottom:1px solid #333333;">
-                        <span class="sseriftext">
-                           <a href="http://libraries.unl.edu/specfaidsAZ">Finding Aids</a> | <a
-                              href="http://libraries.unl.edu/spec">Archives &#38; Special
-                              Collections</a> | <a href="http://libraries.unl.edu/libraries/">UNL
-                              Libraries</a> | <a href="http://news.unl.edu/newsrooms/unltoday/">UNL
-                              Home</a>
-                        </span>
-                        <br/>
-                     </td>
-                  </tr>
-               </tbody>
-            </table>
-            <!--END PAGE SPECIFIC LINKS-->
-            <br/>
-            <!--FOOTER TABLE do not change table-->
-            <table width="100%" border="0" cellpadding="3" cellspacing="0">
-               <tr>
-                  <td align="left" width="1%">
 
-
-                     <a href="http://www.unl.edu/"/>
-
-                  </td>
-                  <td align="left">
-                     <span class="sseriftext10">&#169; 2005 University of Nebraska-Lincoln Libraries
-                        | Lincoln, NE 68588-4100 | 402-472-9568 | comments to: <a
-                           href="mailto:webinput@unlnotes.unl.edu" style="color:black">Web Team</a>
-                     </span>
-                  </td>
-               </tr>
-            </table>
-            <!--END FOOTER TABLE-->
          </body>
       </html>
    </xsl:template>
