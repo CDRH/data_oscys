@@ -430,6 +430,7 @@
             <br/>
          </xsl:otherwise>
       </xsl:choose>
+     <xsl:text> </xsl:text>
    </xsl:template>
 
    <xsl:template match="//c02">
@@ -447,6 +448,7 @@
             </blockquote>
          </xsl:otherwise>
       </xsl:choose>
+     <xsl:text> </xsl:text>
    </xsl:template>
 
    <xsl:template match="//c03">
@@ -467,6 +469,7 @@
             </blockquote>
          </xsl:otherwise>
       </xsl:choose>
+     <xsl:text> </xsl:text>
    </xsl:template>
 
    <xsl:template match="//c04">
@@ -492,6 +495,7 @@
             </blockquote>
          </xsl:otherwise>
       </xsl:choose>
+     <xsl:text> </xsl:text>
    </xsl:template>
 
    <!-- This section styles the <unittitle> element throughout the document -->
@@ -593,6 +597,7 @@
             <xsl:apply-templates/>
          </xsl:otherwise>
       </xsl:choose>
+     <xsl:text> </xsl:text>
    </xsl:template>
 
    <!-- This section styles the <unitdate> element throughout the document -->
@@ -630,7 +635,7 @@
                   <xsl:apply-templates/>&#160;
                </xsl:otherwise>
             </xsl:choose>
-         </xsl:when>&#160;
+         </xsl:when>
          <xsl:when test="ancestor::archdesc">
             <xsl:choose>
                <xsl:when test="@type = 'bulk'">
@@ -659,6 +664,7 @@
             <xsl:apply-templates/>
          </xsl:otherwise>
       </xsl:choose>
+     <xsl:text> </xsl:text>
    </xsl:template>
 
    <!-- This section styles the <physloc> element throughout the document -->
@@ -1091,5 +1097,21 @@ Series<xsl:text>&#160;</xsl:text>
    <xsl:template match="//lb">
       <br/>
    </xsl:template>
+  
+  <xsl:template match="note">
+    <xsl:choose>
+      <xsl:when test="@type='editorial'">
+        <xsl:text> [</xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text>] </xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text> </xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text> </xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
+    
+  </xsl:template>
 
 </xsl:stylesheet>
