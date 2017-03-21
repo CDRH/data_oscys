@@ -283,6 +283,7 @@
                 <br />
             </xsl:otherwise>
         </xsl:choose>
+      <xsl:text> </xsl:text>
     </xsl:template>
     <xsl:template match="//c02">
         <xsl:choose>
@@ -295,6 +296,7 @@
                 </blockquote>
             </xsl:otherwise>
         </xsl:choose>
+      <xsl:text> </xsl:text>
     </xsl:template>
     <xsl:template match="//c03">
         <xsl:choose>
@@ -311,6 +313,7 @@
                 </blockquote>
             </xsl:otherwise>
         </xsl:choose>
+      <xsl:text> </xsl:text>
     </xsl:template>
     <xsl:template match="//c04">
         <xsl:choose>
@@ -331,6 +334,7 @@
                 </blockquote>
             </xsl:otherwise>
         </xsl:choose>
+      <xsl:text> </xsl:text>
     </xsl:template>
     <!-- This section styles the <unittitle> element throughout the document -->
     <!-- <xsl:template match="unittitle/emph">
@@ -405,6 +409,7 @@
                 <xsl:apply-templates />
             </xsl:otherwise>
         </xsl:choose>
+      <xsl:text> </xsl:text>
     </xsl:template>
     <!-- This section styles the <unitdate> element throughout the document -->
     <xsl:template match="//unitdate">
@@ -441,6 +446,7 @@
                 <xsl:apply-templates />
             </xsl:otherwise>
         </xsl:choose>
+      <xsl:text> </xsl:text>
     </xsl:template>
     <!-- This section styles the <physloc> element throughout the document -->
     <xsl:template match="//physloc">
@@ -705,9 +711,31 @@ Series&#160;<xsl:apply-templates/>
         </xsl:choose>
     </xsl:template>
 
-    <xsl:template match="//list/item//note"><br/><b><xsl:value-of select="@label"/></b>&#160;<xsl:apply-templates /></xsl:template>
-    <xsl:template match="//list/item//unittitle"><b><xsl:value-of select="@label"/></b>&#160;<xsl:apply-templates/></xsl:template>
-<xsl:template match="//list/item//origination"><b><xsl:value-of select="@label"/></b>&#160;<xsl:apply-templates/></xsl:template>
+    <xsl:template match="//list/item//note">
+      <br/><b><xsl:value-of select="@label"/></b>&#160;<xsl:apply-templates />
+    </xsl:template>
+    <xsl:template match="//list/item//unittitle">
+      <b><xsl:value-of select="@label"/></b>&#160;<xsl:apply-templates/>
+    </xsl:template>
+    <xsl:template match="//list/item//origination">
+      <b><xsl:value-of select="@label"/></b>&#160;<xsl:apply-templates/>
+    </xsl:template>
+  
+  <xsl:template match="note">
+    <xsl:choose>
+      <xsl:when test="@type='editorial'">
+        <xsl:text> [</xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text>] </xsl:text>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:text> </xsl:text>
+        <xsl:apply-templates/>
+        <xsl:text> </xsl:text>
+      </xsl:otherwise>
+    </xsl:choose>
+    
+  </xsl:template>
 
 
     <xsl:template match="//lb">
