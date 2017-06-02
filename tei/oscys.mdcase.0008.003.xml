@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0008.003">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charles Mahoney v. John Ashton. Judgment Record</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0008.003</idno>
+<idno type="case">oscys.caseid.0481</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Judgment Record</title>
+<date/>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgment Record)</collection>
+<idno>MSA S497-33 JG 43</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1799-05">May 1799</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.004552">Allston, James</term><!-- JURY POOL -->
+<term xml:id="per.004538">Baker, Philip</term><!-- witness for Petitioner per.004476 -->
+<term xml:id="per.004518">Baltimore, Charles Calvert, Lord, 1637-1715</term><!-- relationship in .002 -->
+<term xml:id="per.004545">Brawner, Nathan</term><!-- JURY POOL -->
+<term xml:id="per.004533">Brookes, James</term><!-- legal -->
+<term xml:id="per.004556">Bugh, John Jacob</term><!-- JURY POOL -->
+<term xml:id="per.001514">Chase, Samuel, 1741-1811</term><!-- judge -->
+<term xml:id="per.004543">Chew, Samuel</term><!-- JURY POOL -->
+<term xml:id="per.004540">Clagett, Charles</term><!-- witness for Petitioner per.004476 -->
+<term xml:id="per.004532">Clagett, Horatio</term><!-- legal -->
+<term xml:id="per.004553">Coe, William</term><!-- JURY POOL -->
+<term xml:id="per.001521">Coolidge, Samuel Judson</term><!-- JUROR -->
+<term>Crawford, Mary</term><!-- acquaintance of B. Hall -->
+<term xml:id="per.004516">Darnell, Henry</term><!-- relationship in .002 -->
+<term xml:id="per.004537">Davis, Henry</term><!-- witness for Petitioner per.004476 -->
+<term xml:id="per.004557">Elliot, Samuel</term><!-- JURY POOL -->
+<term xml:id="per.004539">Fowler, Mark</term><!-- witness for Petitioner per.004476 -->
+<term xml:id="per.004546">Green, Joshua</term><!-- JURY POOL -->
+<term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
+<term>Hall, Benjamin</term><!-- father of Francis Hall, acquaintance of M. Crawford -->
+<term>Hall, Francis</term><!-- son of Benjamin Hall, acquaintance of M. Crawford -->
+<term xml:id="per.004558">Hammond, Nathan</term><!-- JUROR -->
+<term xml:id="per.004559">Hilleary, William</term><!-- JUROR -->
+<term xml:id="per.004547">Hodgkin, Theodore</term><!-- JURY POOL -->
+<term xml:id="per.004560">Hoff, Abraham</term><!-- JUROR -->
+<term xml:id="per.004544">Howard, John</term><!-- JUROR -->
+<term xml:id="per.004522">Iiams, Samuel</term><!-- relationship in .002 -->
+<term xml:id="per.004530">Johnson, Joshua</term><!-- legal -->
+<term xml:id="per.004515">Joice, Ann</term><!-- ancestor of Petitioner per.004476 -->
+<term xml:id="per.004561">Kendall, James</term><!-- JUROR -->
+<term xml:id="per.004562">Kreps, Martin</term><!-- JURY POOL -->
+<term xml:id="per.004541">Lowe, Michael</term><!-- witness for Defendant per.000215 -->
+<term xml:id="per.004548">McComas, Daniel</term><!-- JURY POOL -->
+<term xml:id="per.004531">Murdock, William</term><!-- legal -->
+<term xml:id="per.004549">Murrow, Benjamin</term><!-- JURY POOL -->
+<term xml:id="per.004551">Neale, James</term><!-- JURY POOL -->
+<term xml:id="per.004563">Perry, John</term><!-- JURY POOL -->
+<term xml:id="per.004554">Sim, Patrick</term><!-- JURY POOL -->
+<term xml:id="per.004564">Smith, William H.</term><!-- JUROR -->
+<term xml:id="per.004565">Tice, Nicholas</term><!-- JUROR -->
+<term xml:id="per.004529">Wailes, Edward Lloyd</term><!-- marshal of -->
+<term xml:id="per.004555">Waughop, Henry</term><!-- JURY POOL -->
+<term xml:id="per.004523">Welch, John</term><!-- relationship in .002 -->
+<term xml:id="per.004542">West, Richard</term><!-- witness for Defendant per.000215 -->
+<term xml:id="per.004550">Wheatley, Elisha</term><!-- JURY POOL -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Prince George's County (Md.)</term>
+<term>Annapolis (Md.)</term>
+<term>London (England)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Judgment for Plaintiff</term>
+<term>Appealed by Defendant</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.004476">
+<persName>Mahoney, Charles</persName><!-- descendant of per.004515 -->
+</person>
+<person role="defendant" xml:id="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName><!-- attorney -->
+</person>
+<person role="attorney_petitioner" xml:id="per.004534">
+<persName>Wilmer, Jonathan Roberts</persName><!-- attorney -->
+</person>
+<person role="attorney_defendant" xml:id="per.001496">
+<persName>Cooke, William</persName><!-- relationship in .001 -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>  
+<change when="2017-06-01" who="#kln">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p019" facs="oscys.mdcase.0008.003.001.jpg"/>
+
+<fw type="pageNum">19</fw>
+
+<fw type="header">May Term 1799</fw>
+
+<div2 type="caption">
+
+<p>Charles Mahoney<lb/>
+vs<lb/>
+John Ashton</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Petition for freedom</p>
+
+<p>Jurors return and find for the Petitioner Charles Mahony.</p>
+
+<p>Judgment that Petr is free &amp;ca</p>
+
+<p>Appeal prayed and granted to the Court of Appeals.</p>
+
+<p>Exception No. 1 &#160; &#160; &#160; Exception No. 2 &#160; &#160; &#160; Exception No. 3 &#160; &#160; &#160; Exception No. 4 &#160; &#160; &#160; Exception No. 5.</p>
+
+<list>
+<head>Witnesses for Petr</head>
+<item>Henry Davis</item>
+<item>Philip Baker</item>
+<item>Mark Fowler</item>
+<item>Charles Clagett</item>
+</list>
+
+<list>
+<head>Witnesses for Deft</head>
+<item>John Welch</item>
+<item>Michael Lowe</item>
+<item>Samuel Iiams</item>
+<item>Richard West</item>
+</list>
+
+<p>The Honble Gabriel Duvall Esquire withdrew from the Bench at &amp; during the trial of this Cause.</p>
+
+<p>Bailiff Sworn, &#160; &#160; Jury fee paid.</p>
+
+<p>The first Jurors empannelled were Samuel Chew, John Howard, Theodore Hodgkin, Daniel McComas, Benjamin Murrow, William Johnson, Elisha Wheatley, Benjamin Richardson, Joshua Green, Daniel Hauer, Jonathan Hagan, Nathan Brawner of which the following chalenges were made.</p>
+
+<list>
+<head>Challenged by the Petitioner</head>
+<item>Samuel Chew</item>
+<item>Theodore Hodgkin</item>
+<item>Elisha Wheatley</item>
+<item>Nathan Brawner</item>
+</list>
+
+<list>
+<head>Challenged by the Defendant</head>
+<item>Daniel McComas</item>
+<item>Benjamin Murrow</item>
+<item>Joshua Green</item>
+</list>
+
+<p>Pannel made up of the following Jurors</p>
+
+<p>William Coe - Challenged by the Defendant.</p>
+
+<list>
+<head>Challenged by the Petitioner</head>
+<item>Patrick Sim</item>
+<item>James Neale</item>
+<item>James Allston</item>
+<item>Henry Waughop</item>
+</list>
+
+<list>
+<head>Sworn as Jurors</head>
+<item>Samuel J Coolidge</item>
+<item>Nathan Hammond</item>
+</list>
+
+<p>Pannel made up of the following Jurors</p>
+
+<list>
+<head>who were Sworn</head>
+<item>Abraham Hoff</item>
+<item>James Kendall</item>
+<item>Nicholas Tice</item>
+</list>
+
+<list>
+<head>Challenged by Defendant</head>
+<item>Martin Kreps</item>
+<item>Samuel Elliott</item>
+</list>
+
+<p>Pannel made up of the following Jurors<lb/>
+John Perry - challenged by Petitioner<lb/>
+John Jacob Bugh - challenged by Defendant</p>
+
+<p>Pannel made up of the following Jurors</p>
+
+<list>
+<head>who were Sworn</head>
+<item>William H Smith</item>
+<item>William Hilleary</item>
+</list>
+
+<p>John Perry a Juryman returned from Prince George's County is fined 11/3 for non attendance.</p>
+
+</div2>
+
+<pb xml:id="p095" facs="oscys.mdcase.0008.003.002.jpg"/>
+
+<gap reason="sampling"/>
+
+<fw type="pageNum">95</fw>
+
+<fw type="header">May Term 1799</fw>
+
+<div2 type="caption">
+
+<p>Charles Mahoney<lb/>
+vs<lb/>
+The Reverend John Ashton</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Be it remembered, that one this eighteenth day of October in the year of our Lord One thousand seven hundred and ninety one Charles Mahony by Gabriel Duvall his attorney exhibited to the Judges of the General Court here in Court setting his Petition for freedom against the Reverend John Ashton in the words and figures following, to wit;</p>
+
+<p>To the honourable the Judges of the General Court. The Petition of Charles Mahony humbly sheweth</p>
+
+<p>That he is held in Slavery by the Reverend John Ashton of Prince Georges County, although he is entitled to his Freedom, being descended from a free woman named Ann Joice, He therefore prays your Honours to order Summons for his witness, consider his case, and discharge him from the further custody of the said John Ashton upon your petitioners proving the facts stated, and he will pray and so forth</p>
+
+<p>G Duvall for Petitioner</p>
+
+<p>Whereupon it is ordered by the Court here that the said Reverend John Ashton of Prince Georges County do not remove the aforesaid Charles Mahony out of this State nor obstruct him from attending this Court from time to time in support of his petition for Freedom preferred against him the said Reverend John Ashton and in the mean time to feed, cloath and use the said Petitioner well. And at the prayer of the aforesaid Charles Mahony by his attorney aforesaid Summons is ordered by the Court here to issue to the Sheriff of Prince Georges County against the same Reverend John Ashton (returnable immediately) To Answer the Petition aforesaid which accordingly issued in the words and figures following, to wit;</p>
+
+<p>State of Maryland, Sct. To the Sheriff of Prince Georges County, Greeting, We command you that you summons the Reverend John Ashton that all delays and excuses set aside he be and appear before the Judges of our General Court at Annapolis immediately to answer unto the Petition of Charles Mahony preferred against him for freedom, hereof he is not to fail, and fail not at your peril, and have you then and there this writ. Witness The Honorable Samuel Chase, Esquire, chief Judge of our said Court the 11th of October Anno Domini 1791. Issued the 19th day of October 1791. G.D. Jno Gwinn, Clerk.</p>
+
+<p>And thereupon afterwards to wit in the same Term, that is to say October Term in the year of our Lord one thousand seven hundred and ninety one comes again into the General Court here, the aforesaid Charles Mahony by Gabriel Duvall his attorney aforesaid; And the Sheriff of Prince Georges County to wit Edward Lloyd Wailes Gentleman to whom the aforegoing was made and directed <gap extent="one word" reason="illegible"/> comes and makes return thereof to the Court here thus endorsed to wit; Sumd Edwd Lloyd Wailes, Shff.</p>
+
+<p>And the said John Ashton by William Cooke his attorney appears in Court here and defends the complaint aforesaid when and so forth; and prays leave of the Court to imparle hereunto until <fw type="catch">the</fw>
+
+<pb xml:id="p096" facs="oscys.mdcase.0008.003.003.jpg"/>
+
+<fw type="pageNum">96</fw>
+
+<fw type="header">May Term 1799.</fw>
+
+the second Tuesday of May next and he hath it, the same day is given to the aforesaid Charles Mahoney also.</p>
+
+<p>At which said second Tuesday of May being the eighth day of the same month in the year of our Lord one thousand seven hundred and ninety two comes again into the General Court here as well the aforesaid Charles Mahoney by his attorney aforesaid as the said John Ashton by his attorney aforesaid. And the said John Ashton by his attorney aforesaid as before defends the complaint aforesaid when and so forth and prays further leave of the Court here to imparle hereunto until the second Tuesday of May next and he hath it the same day is given to the aforesaid Charles Mahoney also.</p>
+
+<p>At which said second Tuesday of May being the fourteenth day of the same month in the year of our Lord One thousand and ninety three comes again into the General Court here as well the aforesaid Charles Mahoney by his attorney aforesaid as the said John Ashton by his attorney aforesaid and the said John Ashton by his attorney aforesaid as before defends the complaint aforesaid when and so forth, and prays further leave of the Court here to imparle hereunto until the second Tuesday of October next, and he hath it, the same day is given to the aforesaid Charles Mahoney also.</p>
+
+<p>At which said second Tuesday of October being the eighth day of the same month in the year of our Lord One thousand seven hundred and ninety three, comes again into the General Court here as well the aforesaid Charles Mahoney by his attorney aforesaid as the said John Ashton by his attorney aforesaid; And the aforesaid Charles Mahoney by his attorney aforesaid prays that the courts commission may issue to the City of London in the Kingdom of Great Britain to examine evidence in this Cause and that the depositions returned with the said Commission may be read in evidence on the trial hereof and it is granted him, Whereupon the aforesaid Charles Mahoney and the said John Ashton by their attornies aforesaid come again into Court and pray that the same Commission may be directed to Joshua Johnson, William Murdock, Horatio Clagett and James Brookes Gentlemen of the City of London in the Kingdom of Great Britain or any three or two of them to examine &amp;ca returnable with all convenient speed &amp;ca and the same is issued accordingly; Thereupon further process of and upon the premises aforesaid between the parties aforesaid by consent of the said parties and <fw type="catch">their</fw>
+
+<pb xml:id="p097" facs="oscys.mdcase.0008.003.004.jpg"/>
+
+<fw type="pageNum">97</fw>
+
+<fw type="header">May Term 1799</fw>
+
+their attornies aforesaid and by order of the Court here thereon is continued until the second Tuesday of May next following.</p>
+
+<p>At which said second Tuesday of May being the thirteenth day of the same month in the year of our Lord One thousand seven hundred and ninety four comes again into the General Court here as well the aforesaid Charles Mahony by his attorney aforesaid and the said John Ashton by his attorney aforesaid. But the Commission aforesaid to whom the Commission aforesaid was in form aforesaid directed have not made return thereof to the Court here Thereupon further process of and upon the premises aforesaid between the parties aforesaid by consent of the said parties and the attornies aforesaid, and by order of the Court here thereon is further continued until the second Tuesday of October next following.</p>
+
+<p>At which said second Tuesday of October being the fourteenth day of the same month in the year of our Lord one thousand seven hundred and ninety four comes again into the General Court here as well the aforesaid Charles Mahoney by his attorney aforesaid as the said John Ashton by his attorney aforesaid; But the commissioners aforesaid to whom the commission aforesaid was in form aforesaid directed have not made return thereof to the Court here, Thereupon further process of and upon the premises aforesaid between the parties aforesaid by consent of the said parties and their attornies aforesaid and by order of the Court here thereon, is further continued until the second Tuesday of May next following</p>
+
+<p>At which said second Tuesday of May being the twelfth day of the same month in the year of our Lord One thousand seven hundred and ninety five comes again into the General Court here as well the aforesaid Charles Mahoney by his attorney aforesaid as the said John Ashton by his attorney aforesaid; But the Commissioners aforesaid to whom the commission aforesaid was in form aforesaid directed have not yet made return thereof to the Court here Thereupon further process of and upon the premises aforesaid between the parties aforesaid by consent of the said parties and their attornies aforesaid and by order of the Court here thereon is further continued until the second Tuesday of October next following.</p>
+
+<p>At which said second Tuesday of October being the thirteenth day of the same month in the year of our Lord One thousand seven hundred and ninety five comes again into the General Court here as well the aforesaid Charles Mahoney by his attorney aforesaid as the said John Ashton by his attorney aforesaid. But the Commissioners  aforesaid to whom the Commission aforesaid was in form aforesaid directed have not yet made their return thereof to the Court here Thereupon further process of and upon the premises aforesaid, between the parties aforesaid by consent of the said parties and their attornies aforesaid, and by order of the Court here thereon is further continued until the second Tuesday of May next following.</p>
+
+<p>At which said second Tuesday of may being the tenth day of the same month in the year of our Lord One thousand seven hundred and ninety six come again into the General Court here as well the aforesaid Charles Mahoney by Jonathan Roberts Wilmer his attorney as the said John Ashton by his attorney aforesaid, And <fw type="catch">the,</fw>
+
+<pb xml:id="p098" facs="oscys.mdcase.0008.003.005.jpg"/>
+
+<fw type="pageNum">98</fw>
+
+<fw type="header">May Term 1799.</fw>
+
+the aforesaid Charles Mahoney by his attorney last aforesaid files in Court here the following Interrogatories and depositions, to wit,</p>
+
+</div2>
+
+<div2 type="caption">
+
+<p>Charles Mahoney<lb/>
+vs<lb/>
+John Ashton</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Petition for freedom</p>
+
+<p>Petitioner's Interrogatories</p>
+
+<p>1 Do you know the parties or either of them;</p>
+
+<p>2 Did you know Anne Joice who formerly lived with Henry Darnall at the Woodyard, and how long has she been dead.</p>
+
+<p>3. Had Anne Joice any children that you know, or have heard of if yea, relate their names with whom they lived and died, and from whom you had your information and when.</p>
+
+<p>4. Do you any of the Grand children of Joice, if yea with whom do they live that you know or have heard, and from which of Joice's children are they descended that you know or have heard.</p>
+
+<p>5. Do you know any of the great Grand children of Joice and how are the descended from her, relate your knowledge ,and if from hearsy from whom you heard it.</p>
+
+<p>6. If you have any further knowledge, relate it fully and freely.</p>
+
+<p>Jona Wilmer for Petr</p>
+
+</div2>
+
+<div2 type="caption">
+
+<p>Charles Mahoney<lb/>
+vs<lb/>
+John Ashton</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Petition for freedom in the General Court</p>
+
+<p>The Deposition of Mary Crawford aged eighty seven years or thereabouts being first sworn in the above suit on the Holy Evangels of Almighty God. Answered the several questions as follow, to wit;</p>
+
+<p>1st Question. Did you know the parties in the above suit.</p>
+
+<p>Answers. She does not</p>
+
+<p>2d Question. Did you know a woman by the name of Ann Joyce who formerly belonged to Henry Darnall and who is said to have died at the Woodyard.</p>
+
+<p>Answers. She does not.</p>
+
+<p>3d Question. Do you know or have you heard that Francis Hall of Prince Georges County deceased or his father Benjamin Hall in his life time; at any time and when; did say; that Joyce before mentioned was free or entitled to be free, and for what reason, relate any conversation that you may have heard from them or either of them or any other person on the subject.</p>
+
+<p>Answers. That she never has heard Benjamin Hall or Francis Hall say any thing on the subject but that she has heard her Mother say there was a Woman by the name of Joyce came in with Lord Baltimore and that she, her mother; dose say that said Ann Joyce or any of her children would be free if they mde any stir to obtain their freedom that the said Joyce always lived in the family with Mr Darnall as she was informed and that Frank a carpenter was son to the said Joyce and servent to Mr Darnall, that this Deponants husband had hired the said Frank and two others of Mr Darnall to build him a dwelling house</p>
+
+<p>4th Question. Do you know or have you heard and from whom that Joyce or Ann Joyce the woman alluded to in the second question came from England and where; and whether she ever resided in <fw type="catch">England</fw></p>
+
+</div2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
