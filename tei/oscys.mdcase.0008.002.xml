@@ -88,8 +88,8 @@
 <term xml:id="per.004477">Alexander, William</term><!-- JURY POOL -->
 <term xml:id="per.004478">Baker, Charles</term><!-- JUROR -->
 <term xml:id="per.004479">Ball, Mathew</term><!-- JURY POOL -->
-<term xml:id="per.004517">Baltimore, Cecil Calvert, Baron, approximately 1605-1675</term><!-- father of Charles -->
-<term xml:id="per.004518">Baltimore, Charles Calvert, Lord, 1637-1715</term><!-- son of Cecil; acquaintence?????? of Ann Joice per.004515 -->
+<term xml:id="per.004517">Baltimore, Cecil Calvert, Baron, approximately 1605-1675</term><!-- father of Charles per.004336 -->
+<term xml:id="per.004336">Baltimore, Charles Calvert, Lord, 1637-1715</term><!-- son of Cecil per.004517; indenturer of A. Joice (already encoded) -->
 <term xml:id="per.004480">Barber, Thomas</term><!-- JURY POOL -->
 <term xml:id="per.004481">Bayer, Jacob</term><!-- JURY POOL -->
 <term xml:id="per.004521">Bithrey, William C.</term><!-- JURY POOL -->
@@ -99,11 +99,11 @@
 <term xml:id="per.004485">Brice, John</term> <!-- JURY POOL -->
 <term xml:id="per.004486">Brown, Philemon</term><!-- JURY POOL -->
 <term xml:id="per.004487">Burgess, Edward, Jr.</term><!-- JUROR -->
-<term xml:id="per.004511">Carroll, Charles, 1737-1832</term><!-- slaveholder of Sue per.004513 -->
+<term xml:id="per.004511">Carroll, Charles</term><!-- slaveholder of Sue per.004513 -->
 <term xml:id="per.004488">Coats, Samuel</term><!-- JUROR -->
 <term xml:id="per.004528">Darnal, Gerard</term><!-- witness for Defendant per.000215 -->
 <term xml:id="per.004526">Darnal, John</term><!-- witness for Defendant per.000215 -->
-<term xml:id="per.004516">Darnell, Henry</term><!-- slaveholder of Ann Joice per.004515 -->
+<term xml:id="per.004516">Darnall, Henry</term><!-- slaveholder of Ann Joice per.004337 -->
 <term xml:id="per.004489">Digges, George</term><!-- JURY POOL -->
 <term xml:id="per.004512">Digges, William</term><!-- slaveholder of Sue per.004514 -->
 <term xml:id="per.004490">Dorsey, Richard</term><!-- JUROR -->
@@ -115,15 +115,15 @@
 <term xml:id="per.004527">Hopkins, Philip</term><!-- witness for Defendant per.000215 -->
 <term xml:id="per.004496">Howard, Joseph</term><!-- JUROR -->
 <term xml:id="per.004522">Iiams, Samuel</term><!-- witness for Defendant per.000215 -->
-<term xml:id="per.004515">Joice, Ann</term><!-- mother of Sue per.004514; enslaved by Henry Darnell per.004516 -->
+<term xml:id="per.004337">Joice, Ann</term><!-- mother of Sue per.004514; enslaved by Henry Darnall per.004516; indentured to C. Calvert (already encoded) -->
 <term xml:id="per.004497">Jones, Stephen</term><!-- JUROR -->
 <term xml:id="per.004524">Lambeth, John</term><!-- witness for Defendant per.000215 -->
 <term xml:id="per.004498">Lawrence, James</term><!-- JURY POOL -->
 <term xml:id="per.004499">Love, John</term><!-- JUROR -->
 <term xml:id="per.004500">Mackubin, Richard</term><!-- JUROR -->
+<term xml:id="per.004510">Mahoney, Eleanor</term><!-- mother of Charles Mahoney per.004476 -->
 <term xml:id="per.004501">McPherson, Henry</term><!-- could be per.000977 --><!-- JURY POOL -->
 <term xml:id="per.004502">Munroe, John</term><!-- JURY POOL -->
-<term xml:id="per.004510">Nelly</term><!-- mother of Charles Mahoney per.004476 -->
 <term xml:id="per.004503">Patridge, John</term><!-- JUROR -->
 <term xml:id="per.004525">Ratcliff</term><!-- witness for Defendant per.000215 -->
 <term xml:id="per.004504">Richards, Clement</term><!-- JURY POOL -->
@@ -151,7 +151,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner" xml:id="per.004476">
-<persName>Mahoney, Charles</persName>
+<persName>Mahoney, Charles</persName><!-- child of E. Mahoney per.004510 -->
 </person>
 <person role="defendant" xml:id="per.000215">
 <persName>Ashton, John</persName>
@@ -244,7 +244,7 @@ as his slave and died in his possion or in the possion of his Representatives at
 
 <p>Cont. under <term>buria adv. vult.</term></p>
 
-<p><term>Tales de Circumstantibus</term> ordered and issued to the sheriff of Anne Arundel County to summon twelve good men to make a Jury of twelve in a cause of Freedom now to be tried at bar between Charles Mahoney against John Ashton. <gap extent="two words" reason="illegible"/> which said sheriff in pursuance of the command of the said return to the Court here that he had summoned twelve good and lawful men de circumstantibus as he is commanded, to wit
+<p><term>Tales de Circumstantibus</term> ordered and issued to the sheriff of Anne Arundel County to summon twelve good men to make a Jury of twelve in a cause of Freedom now to be tried at bar between Charles Mahoney against John Ashton. <gap extent="two words" reason="illegible"/> which said sheriff in pursuance of the command of the said return to the Court here that he had summoned twelve good and lawful men <term>de circumstantibus</term> as he is commanded, to wit
 
 <table>
 <row>
