@@ -87,7 +87,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.002917">Jones</term> 
+<term/> 
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -113,8 +113,8 @@
 <person role="attorney_petitioner" xml:id="per.001562">
 <persName>Swann, Thomas, 1789-1845</persName>
 </person>
-<person role="attorney_defendant">
-<persName/>
+<person role="attorney_defendant" xml:id="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
 </person>
 </listPerson>
             
@@ -128,6 +128,7 @@
 </profileDesc>
         
 <revisionDesc>    
+<change when="2017-06-29" who="#kln">removed Jones from people, added as attorney</change>
 <change when="2016-07-06" who="#lkw">added xml:ids; added Jones to people</change>
 <change when="2016-06-15" who="#snc">reviewed</change>             
 <change when="2016-03-10" who="#kln">transcribed, encoded</change>
