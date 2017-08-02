@@ -797,7 +797,7 @@ This file was compiled from information found in
 
 <person xml:id="per.000069" source="http://earlywashingtondc.org/doc/oscys.case.0011.005">
 <persName type="display">Ryland, Freders, Sr.</persName> 
-<persName type="full"> <surname>Ryland</surname> <addName type="surname" full="yes" subtype="alternate">Riland</addName>, <forename type="first" full="yes">Freders</forename> <addName type="first" full="yes" subtype="alternate">Freeders</addName> <genName>senior</genName>
+<persName type="full"> <surname>Ryland</surname> <addName type="surname" full="yes" subtype="alternate">Riland</addName>, <forename type="first" full="yes">Freders</forename> <addName type="first" full="yes" subtype="alternate">Freeders</addName> <genName>Senior</genName>
 </persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
@@ -26795,7 +26795,6 @@ This file was compiled from information found in
 <persName type="display">Barnes</persName>
 <persName type="full"> <surname>Barnes</surname></persName>
 <sex></sex>
-<trait type="color"><ab></ab></trait>
 </person>
 
 <!-- oscys.report.0014.001 end -->
@@ -39989,6 +39988,7 @@ per.001746
 <trait type="color"><ab></ab></trait>
 <occupation>justice of the peace</occupation>
 <residence>Prince George's County (Md.)</residence>
+<note>Probably Robert Bowie per.004642.</note>
 </person>
 
 <!-- end oscys.report.0046.001 -->
@@ -43518,11 +43518,12 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.004642" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
-<persName type="display">Bonre, Robert</persName>
-<persName type="full"> <surname>Bonre</surname>, <forename type="first" full="yes">Robert</forename></persName>
+<persName type="display">Bowie, Robert</persName>
+<persName type="full"> <surname>Bowie</surname>, <forename type="first" full="yes">Robert</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>justice of the peace for Prince George's County (Md.)</occupation>
+<note>Probably the same as per.004265.</note>
 </person>
 
 <person xml:id="per.004643" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
@@ -43567,7 +43568,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"> <surname>Ratcliff</surname> <addName type="surname" subtype="alternate">Ratlief</addName>, <forename type="first" full="yes">Sarah</forename> </persName>
 <sex>female</sex>
 <age when="1796-06-10">about 40 years</age>
-<age when="1797-07-21">about 41 years</age>
+<age when="1797-07-21" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.030">about 41 years</age>
 <trait type="color"><ab></ab></trait>
 </person>
 
@@ -43697,7 +43698,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <age when="1792-04-14">about 84 years</age>
 </person>
 
-<person xml:id="per.004682" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004682" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.032">
 <persName type="display">Mullikin, James</persName>
 <persName type="full"> <surname>Mullikin</surname>, <forename type="first" full="yes">James</forename></persName>
 <sex>male</sex>
@@ -43706,7 +43707,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <age when="1797-10-27">about 55 years</age>
 </person>
 
-<person xml:id="per.004683" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004683" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.033">
 <persName type="display">Clagett, John</persName>
 <persName type="full"> <surname>Clagett</surname>, <forename type="first" full="yes">John</forename></persName>
 <sex>male</sex>
@@ -43717,7 +43718,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <residence notBefore="1783">Ann Arundel County (Md.)</residence>
 </person>
 
-<person xml:id="per.004684" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004684" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Butler, Richard</persName>
 <persName type="full"> <surname>Butler</surname>, <forename type="first" full="yes">Richard</forename></persName>
 <sex>male</sex>
@@ -43725,7 +43726,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004685" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004685" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Phillips, Alice</persName>
 <persName type="full"> <surname>Phillips</surname>, <forename type="first" full="yes">Alice</forename></persName>
 <sex>female</sex>
@@ -43733,15 +43734,15 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004686" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
-<persName type="display">Macchoone, Jerum</persName>
-<persName type="full"> <surname>Macchoone</surname>, <forename type="first" full="yes">Jerum</forename></persName>
+<person xml:id="per.004686" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
+<persName type="display">Macchoone, Jerman</persName>
+<persName type="full"> <surname>Macchoone</surname>, <forename type="first" full="yes">Jerman</forename> <addName type="first" subtype="alternate">Jerum</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004687" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004687" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Mahoney, Teag</persName>
 <persName type="full"> <surname>Mahoney</surname>, <forename type="first" full="yes">Teag</forename></persName>
 <sex>unknown</sex>
@@ -43749,7 +43750,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004688" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004688" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Roberts, Grace</persName>
 <persName type="full"> <surname>Mahoney</surname>, <forename type="first" full="yes">Teag</forename></persName>
 <sex>female</sex>
@@ -43757,7 +43758,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004689" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004689" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Brown, Charles</persName>
 <persName type="full"> <surname>Brown</surname>, <forename type="first" full="yes">Charles</forename></persName>
 <sex>male</sex>
@@ -43765,7 +43766,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004690" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004690" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Couthland, Margaret</persName>
 <persName type="full"> <surname>Couthland</surname>, <forename type="first" full="yes">Margaret</forename></persName>
 <sex>female</sex>
@@ -43773,15 +43774,15 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004691" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
-<persName type="display">Welch, Morris</persName>
-<persName type="full"> <surname>Welch</surname>, <forename type="first" full="yes">Morris</forename></persName>
+<person xml:id="per.004691" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
+<persName type="display">Welsh, Morris</persName>
+<persName type="full"> <surname>Welsh</surname> <addName type="surname" subtype="alternate">Welch</addName>, <forename type="first" full="yes">Morris</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004692" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004692" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Teag, Sheely</persName>
 <persName type="full"> <surname>Teag</surname>, <forename type="first" full="yes">Sheely</forename></persName>
 <sex>unknown</sex>
@@ -43789,7 +43790,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004693" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004693" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Watts, Katharine</persName>
 <persName type="full"> <surname>Watts</surname>, <forename type="first" full="yes">Katharine</forename></persName>
 <sex>female</sex>
@@ -43797,15 +43798,15 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004694" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
-<persName type="display">Welch, Julian</persName>
-<persName type="full"> <surname>Welch</surname>, <forename type="first" full="yes">Julian</forename></persName>
+<person xml:id="per.004694" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
+<persName type="display">Welsh, Julian</persName>
+<persName type="full"> <surname>Welsh</surname> <addName type="surname" subtype="alternate">Welch</addName>, <forename type="first" full="yes">Julian</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004695" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004695" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Saylee, Abraham</persName>
 <persName type="full"> <surname>Saylee</surname>, <forename type="first" full="yes">Abraham</forename></persName>
 <sex>male</sex>
@@ -43813,7 +43814,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004696" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004696" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Brown, John, Jr.</persName>
 <persName type="full"> <surname>Brown</surname>, <forename type="first" full="yes">John</forename> <genName>Junior</genName></persName>
 <sex>male</sex>
@@ -43821,7 +43822,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004697" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004697" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Descole, Dermott</persName>
 <persName type="full"> <surname>Descole</surname>, <forename type="first" full="yes">Dermott</forename> </persName>
 <sex>male</sex>
@@ -43829,15 +43830,15 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004698" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
-<persName type="display">Arundel, Ledia</persName>
-<persName type="full"> <surname>Arundel</surname>, <forename type="first" full="yes">Ledia</forename> </persName>
+<person xml:id="per.004698" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
+<persName type="display">Arundel, Lidia</persName>
+<persName type="full"> <surname>Arundel</surname>, <forename type="first" full="yes">Lidia</forename> <addName type="first" subtype="alternate">Ledia</addName> </persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004699" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004699" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Powell, William</persName>
 <persName type="full"> <surname>Powell</surname>, <forename type="first" full="yes">William</forename> </persName>
 <sex>male</sex>
@@ -43845,7 +43846,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004700" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004700" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Calahone, Teag</persName>
 <persName type="full"> <surname>Calahone</surname>, <forename type="first" full="yes">Teag</forename> </persName>
 <sex>unknown</sex>
@@ -43853,7 +43854,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004701" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004701" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Anglen, Ellinor</persName>
 <persName type="full"> <surname>Anglen</surname>, <forename type="first" full="yes">Ellinor</forename> </persName>
 <sex>female</sex>
@@ -43861,7 +43862,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004702" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004702" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Price, Charles</persName>
 <persName type="full"> <surname>Price</surname>, <forename type="first" full="yes">Charles</forename> </persName>
 <sex>male</sex>
@@ -43869,7 +43870,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004703" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004703" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Martin, Ann</persName>
 <persName type="full"> <surname>Martin</surname>, <forename type="first" full="yes">Ann</forename> </persName>
 <sex>female</sex>
@@ -43877,7 +43878,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004704" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004704" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Brown, John</persName>
 <persName type="full"> <surname>Brown</surname>, <forename type="first" full="yes">John</forename> </persName>
 <sex>male</sex>
@@ -43885,7 +43886,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004705" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004705" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Howell, George</persName>
 <persName type="full"> <surname>Howell</surname>, <forename type="first" full="yes">George</forename> </persName>
 <sex>male</sex>
@@ -43893,7 +43894,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004706" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004706" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">O'Bryan, Mortimer</persName>
 <persName type="full"> <surname>Howell</surname>, <forename type="first" full="yes">George</forename> </persName>
 <sex>male</sex>
@@ -43901,15 +43902,15 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004707" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
-<persName type="display">Morris, Ruth</persName>
-<persName type="full"> <surname>Morris</surname>, <forename type="first" full="yes">Ruth</forename> </persName>
-<sex>female</sex>
+<person xml:id="per.004707" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
+<persName type="display">Morris, Ruthro</persName>
+<persName type="full"> <surname>Morris</surname>, <forename type="first" full="yes">Ruth</forename> <addName type="first" subtype="alternate">Rutho</addName> </persName>
+<sex>unknown</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004708" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004708" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Jones, Rowland</persName>
 <persName type="full"> <surname>Jones</surname>, <forename type="first" full="yes">Rowland</forename> </persName>
 <sex>male</sex>
@@ -43917,7 +43918,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004709" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004709" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Bryan, Derby</persName>
 <persName type="full"> <surname>Bryan</surname>, <forename type="first" full="yes">Derby</forename> </persName>
 <sex>unknown</sex>
@@ -43925,7 +43926,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004710" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004710" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Jones, Bridget</persName>
 <persName type="full"> <surname>Jones</surname>, <forename type="first" full="yes">Bridget</forename> </persName>
 <sex>female</sex>
@@ -43933,7 +43934,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004711" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004711" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Price, Jenken</persName>
 <persName type="full"> <surname>Price</surname>, <forename type="first" full="yes">Jenken</forename> </persName>
 <sex>male</sex>
@@ -43941,7 +43942,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004712" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004712" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Kile, John</persName>
 <persName type="full"> <surname>Kile</surname>, <forename type="first" full="yes">John</forename> </persName>
 <sex>male</sex>
@@ -43949,7 +43950,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004713" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004713" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Morris, Ann</persName>
 <persName type="full"> <surname>Morris</surname>, <forename type="first" full="yes">Ann</forename> </persName>
 <sex>female</sex>
@@ -43957,7 +43958,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004714" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004714" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Owen, Bartholomew</persName>
 <persName type="full"> <surname>Owen</surname>, <forename type="first" full="yes">Bartholomew</forename> </persName>
 <sex>male</sex>
@@ -43965,7 +43966,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004715" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004715" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Shoolevant, Julian</persName>
 <persName type="full"> <surname>Shoolevant</surname>, <forename type="first" full="yes">Julian</forename> </persName>
 <sex>male</sex>
@@ -43973,7 +43974,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004716" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004716" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Thomas, Richard</persName>
 <persName type="full"> <surname>Thomas</surname>, <forename type="first" full="yes">Richard</forename> </persName>
 <sex>male</sex>
@@ -43981,7 +43982,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004717" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004717" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Gutheridge, Henry</persName>
 <persName type="full"> <surname>Gutheridge</surname>, <forename type="first" full="yes">Henry</forename> </persName>
 <sex>male</sex>
@@ -43989,7 +43990,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004718" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004718" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Shoolevant, Derby</persName>
 <persName type="full"> <surname>Shoolevant</surname>, <forename type="first" full="yes">Derby</forename> </persName>
 <sex>unknown</sex>
@@ -43997,7 +43998,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004719" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004719" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Berren, Rice</persName>
 <persName type="full"> <surname>Berren</surname>, <forename type="first" full="yes">Rice</forename> </persName>
 <sex>unknown</sex>
@@ -44005,7 +44006,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004720" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004720" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Young, William</persName>
 <persName type="full"> <surname>Young</surname>, <forename type="first" full="yes">William</forename> </persName>
 <sex>male</sex>
@@ -44013,7 +44014,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004721" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004721" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Lyne, Daniel</persName>
 <persName type="full"> <surname>Lyne</surname>, <forename type="first" full="yes">Daniel</forename> </persName>
 <sex>male</sex>
@@ -44021,7 +44022,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004722" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004722" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Griffith, Rice</persName>
 <persName type="full"> <surname>Griffith</surname>, <forename type="first" full="yes">Rice</forename> </persName>
 <sex>unknown</sex>
@@ -44029,7 +44030,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004723" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004723" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Holand, Dennis</persName>
 <persName type="full"> <surname>Holand</surname>, <forename type="first" full="yes">Dennis</forename> </persName>
 <sex>male</sex>
@@ -44037,7 +44038,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004724" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004724" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Shoolevant, James</persName>
 <persName type="full"> <surname>Shoolevant</surname>, <forename type="first" full="yes">James</forename> </persName>
 <sex>male</sex>
@@ -44045,7 +44046,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004725" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004725" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Rees, John</persName>
 <persName type="full"> <surname>Rees</surname>, <forename type="first" full="yes">John</forename> </persName>
 <sex>male</sex>
@@ -44053,7 +44054,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004726" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004726" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Holand, Daniel</persName>
 <persName type="full"> <surname>Holand</surname>, <forename type="first" full="yes">Daniel</forename> </persName>
 <sex>male</sex>
@@ -44061,7 +44062,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004727" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004727" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Cunisby, William</persName>
 <persName type="full"> <surname>Cunisby</surname>, <forename type="first" full="yes">William</forename> </persName>
 <sex>male</sex>
@@ -44069,7 +44070,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004728" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004728" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Phillips, Ewan</persName>
 <persName type="full"> <surname>Phillips</surname>, <forename type="first" full="yes">Ewan</forename> </persName>
 <sex>male</sex>
@@ -44077,7 +44078,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004729" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004729" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Malihone, Desmond</persName>
 <persName type="full"> <surname>Malihone</surname>, <forename type="first" full="yes">Desmond</forename> </persName>
 <sex>male</sex>
@@ -44085,7 +44086,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004730" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004730" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Casey, James</persName>
 <persName type="full"> <surname>Casey</surname>, <forename type="first" full="yes">James</forename> </persName>
 <sex>male</sex>
@@ -44093,7 +44094,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004731" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004731" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Brown, John</persName>
 <persName type="full"> <surname>Brown</surname>, <forename type="first" full="yes">John</forename> </persName>
 <sex>male</sex>
@@ -44101,36 +44102,36 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004732" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
-<persName type="display">Kenedy, Edward</persName>
-<persName type="full"> <surname>Kenedy</surname>, <forename type="first" full="yes">Edward</forename> </persName>
+<person xml:id="per.004732" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
+<persName type="display">Kennedy, Edward</persName>
+<persName type="full"> <surname>Kennedy</surname> <addName type="surname" subtype="alternate">Kenedy</addName>, <forename type="first" full="yes">Edward</forename> </persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>indentured</socecStatus>
 </person>
 
-<person xml:id="per.004733" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004733" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Freeman, Thomas</persName>
 <persName type="full"> <surname>Freeman</surname>, <forename type="first" full="yes">Thomas</forename> </persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
-<person xml:id="per.004734" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004734" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Rousby, Charles</persName>
 <persName type="full"> <surname>Rousby</surname>, <forename type="first" full="yes">Charles</forename> </persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
-<person xml:id="per.004735" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004735" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Warren, Henry</persName>
 <persName type="full"> <surname>Warren</surname>, <forename type="first" full="yes">Henry</forename> </persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
-<person xml:id="per.004736" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">
+<person xml:id="per.004736" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
 <persName type="display">Callahan, John</persName>
 <persName type="full"> <surname>Callahan</surname>, <forename type="first" full="yes">John</forename> </persName>
 <sex>male</sex>
@@ -44268,6 +44269,55 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <!-- end oscys.mdcase.0008.017 -->
+
+<!-- no unique people in .017 through .033 -->
+
+<!-- start oscys.mdcase.0008.034 -->
+
+<person xml:id="per.004752" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.034">
+<persName type="display">Warfield, Lancelot, Sr.</persName>
+<persName type="full"> <surname>Warfield</surname>, <forename type="first" full="yes">Lancelot</forename> <genName>Senior</genName> </persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004753" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.034">
+<persName type="display">Duvall, Lewis</persName>
+<persName type="full"> <surname>Duvall</surname>, <forename type="first" full="yes">Lewis</forename> </persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.004754" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.034">
+<persName type="display">Crain, Abner</persName>
+<persName type="full"> <surname>Crain</surname>, <forename type="first" full="yes">Abner</forename> </persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- end oscys.mdcase.0008.034 -->
+
+<!-- no unique people in .034 through .043 -->
+
+<!-- start oscys.mdcase.0008.044 -->
+
+<person xml:id="per.004755" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
+<persName type="display">Calahone, Margaret</persName>
+<persName type="full"> <surname>Calahone</surname>, <forename type="first" full="yes">Margaret</forename> </persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>indentured</socecStatus>
+</person>
+
+<person xml:id="per.004756" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.044">
+<persName type="display">Jenifer</persName>
+<persName type="full"> <surname>Jenifer</surname></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- end oscys.mdcase.0008.044 -->
+
 
 <!--
 
