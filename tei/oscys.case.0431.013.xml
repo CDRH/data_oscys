@@ -152,7 +152,7 @@
 </listPerson>
 
 <listPerson type="oscys.caseid.0454"> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003498">
 <persName>Taylor, Charles</persName>
 </person>
 <person role="defendant" corresp="per.000904">
@@ -170,7 +170,7 @@
 </listPerson>
 
 <listPerson type="oscys.caseid.0455"> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003503">
 <persName>Brent, Alexander</persName>
 </person>
 <person role="defendant" corresp="per.000904">
@@ -188,7 +188,7 @@
 </listPerson>
 
 <listPerson type="oscys.caseid.0462"> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003614">
 <persName>Jackson, Cassius</persName>
 </person>
 <person role="defendant" corresp="per.000904">
@@ -215,6 +215,7 @@
 </profileDesc>
         
 <revisionDesc>        
+<change when="2017-07-07" who="#kln">added missing xml:ids</change>
 <change when="2016-10-26" who="#lkw">added xml:ids</change>  
 <change when="2016-07-07" who="#snc">reviewed</change>       
 <change when="2016-06-28" who="#kln">transcribed, encoded</change>

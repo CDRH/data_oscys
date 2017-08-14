@@ -106,7 +106,7 @@
             
 <particDesc>   
 <listPerson> 
-<person role="petitioner">
+<person role="petitioner" xml:id="per.003614">
 <persName>Jackson, Cassius</persName>
 </person>
 <person role="defendant" xml:id="per.000904">
@@ -133,6 +133,7 @@
 </profileDesc>
         
 <revisionDesc>        
+<change when="2017-07-07" who="#kln">added missing xml:id</change> 
 <change when="2016-10-26" who="#lkw">added xml:ids</change> 
 <change when="2016-07-07" who="#snc">reviewed</change>         
 <change when="2016-06-29" who="#kln">transcribed, encoded</change>
