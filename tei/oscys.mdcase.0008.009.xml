@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0008.009">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charles Mahoney v. John Ashton. Deposition of John Wheat from John Hickman v. Richard Smith</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0008.009</idno>
+<idno type="case">oscys.caseid.0481</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Deposition of John Wheat</title>
+<date when="1796-06-01">June 1, 1796</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgments)</collection>
+<idno>MSA S498-220</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Deposition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1799-05">May 1799</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.004575">Crane, Thomas</term>
+<term xml:id="per.004516">Darnall, Henry</term>
+<term xml:id="per.004581">Darnall, Robert</term>
+<term xml:id="per.004578">Gordon</term>
+<term xml:id="per.004579">Gordon, George</term>
+<term xml:id="per.004566">Harbard, Francis</term>
+<term xml:id="per.002928">Hepburn, Samuel</term>
+<term xml:id="per.004643">Hickman, John</term>
+<term xml:id="per.004337">Joice, Ann</term>
+<term xml:id="per.004573">Wheat, John</term>
+<term xml:id="per.004577">Williams</term>
+<term xml:id="per.004576">Wood, Jack</term>
+<term xml:id="per.004574">Smith, Richard</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Prince George's County (Md.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.004476">
+<persName>Mahoney, Charles</persName>
+</person>
+<person role="defendant" xml:id="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>  
+<change when="2017-07-21" who="#kln">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.mdcase.0008.009.001.jpg"/>
+
+<div2 type="caption">
+
+<p>John Hickman<lb/>
+v.<lb/>
+Rd Smith</p>
+
+<p>Petition for freedom in the General Court.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>John Wheat of Prince George's County aged sixty two years &amp; upwards being sworn on the holy evangely of Almighty God deposeth &amp; saith that he does not know the petitioner; but once knew Doctor Smith; that he knows Charles Mahoney who petitioned against John Ashton, but never knew him until since he petitioned; Being asked if he knew Anne Joyce who formerly belonged to Mr Darnall at the Woodyard, answers he did not; that he knew Tom Crane, John Wood and Frank Herbut, who he has been informed were descendants of Anne Joyce; that Tom Crane and John Wood when he knew them belonged to Capt. Williams who lived at the Woodyard, whose widow married George Gordon; that Herbut and Wood appeared to be mulattoes but <del>Wood</del> Crane was of a white complexion; that he has frequently heard his grandmother whose name was Sarah Perdue say that the said Crane, Wood &amp; Herbut were entitled to their freedom. Being asked if he ever heard her give her reasons for saying so? answers she said they were the offspring of a free woman. that his said grandmother lived from the time she was first married within about two miles of the Woodyard <gap extent="one word" reason="illegible"/> until she lost <del>her</del> two husbands; and after their death, she lived with the deponants father about four miles from the Woodyard; and she often in this deponents presence conversed with this deponants father and others on the subject of Crane and Wood and Herbuts right to freedom and she always said when speaking of it that they were the offspring of a freewoman; and he has heard her say that she had often been at the Woodyard and had seen them there; he has often heard his father say that he understood they were entitled to freedom but whether he knew it, or had it from his mother this deponant knows not; and he further saith that he has heard his said grandmother often say that she was acquainted at the Woodyard in the lifetime of old Colonel Henry Darnall, grandfather of the present Robert Darnall near the Woodyard.</p>
+
+<p>Sworn before<lb/>
+Saml Hepburn</p>
+
+<p>April 8th 179<unclear reason="illegible">4</unclear></p>
+
+</div2>
+
+<pb xml:id="p002" facs="oscys.mdcase.0008.009.002.jpg"/>
+
+<div2 type="back">
+
+<p>4 1/4 Sds</p>
+
+<p>2</p>
+
+<p>John Hickman<lb/>
+agt<lb/>
+Rd Smith.</p>
+
+<p>Depo of John Wheat.</p>
+
+<p>Had heard his grand mother say they were entitled to Freedom.</p>
+
+<p>No 2</p>
+
+<p>filed 1 June 1796</p>
+
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

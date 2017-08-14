@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0008.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charles Mahoney v. John Ashton. Judgment Record</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0008.002</idno>
+<idno type="case">oscys.caseid.0481</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Judgment Record</title>
+<date/>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgment Record)</collection>
+<idno>MSA S497-30</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1797-10">October 1797</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.004477">Alexander, William</term><!-- JURY POOL -->
+<term xml:id="per.004478">Baker, Charles</term><!-- JUROR -->
+<term xml:id="per.004479">Ball, Mathew</term><!-- JURY POOL -->
+<term xml:id="per.004517">Baltimore, Cecil Calvert, Baron, approximately 1605-1675</term><!-- father of Charles per.004336 -->
+<term xml:id="per.004336">Baltimore, Charles Calvert, Lord, 1637-1715</term><!-- son of Cecil per.004517; indenturer of A. Joice (already encoded) -->
+<term xml:id="per.004480">Barber, Thomas</term><!-- JURY POOL -->
+<term xml:id="per.004481">Bayer, Jacob</term><!-- JURY POOL -->
+<term xml:id="per.004521">Bithrey, William C.</term><!-- JURY POOL -->
+<term xml:id="per.004482">Blackiston, Thomas</term><!-- JURY POOL -->
+<term xml:id="per.004483">Bradford, George</term><!-- JUROR -->
+<term xml:id="per.004484">Brewer, Nicholas</term><!-- JUROR -->
+<term xml:id="per.004485">Brice, John</term> <!-- JURY POOL -->
+<term xml:id="per.004486">Brown, Philemon</term><!-- JURY POOL -->
+<term xml:id="per.004487">Burgess, Edward, Jr.</term><!-- JUROR -->
+<term xml:id="per.004511">Carroll, Charles</term><!-- slaveholder of Sue per.004513 -->
+<term xml:id="per.004488">Coats, Samuel</term><!-- JUROR -->
+<term xml:id="per.004528">Darnal, Gerard</term><!-- witness for Defendant per.000215 -->
+<term xml:id="per.004526">Darnal, John</term><!-- witness for Defendant per.000215 -->
+<term xml:id="per.004516">Darnall, Henry</term><!-- slaveholder of Ann Joice per.004337 -->
+<term xml:id="per.004489">Digges, George</term><!-- JURY POOL -->
+<term xml:id="per.004512">Digges, William</term><!-- slaveholder of Sue per.004514 -->
+<term xml:id="per.004490">Dorsey, Richard</term><!-- JUROR -->
+<term xml:id="per.004491">Duvall, Robert</term><!-- JURY POOL -->
+<term xml:id="per.004492">Gott, Ezekiel</term><!-- JURY POOL -->
+<term xml:id="per.004493">Hamilton, William</term><!-- JURY POOL -->
+<term xml:id="per.004514">Harbard, Sue</term><!-- mother of Sue; enslaved by William Digges per.004512; child of A. Joice -->
+<term xml:id="per.004494">Harwood, Joseph</term><!-- JURY POOL -->
+<term xml:id="per.004495">Hodgkin, Thomas</term><!-- JURY POOL -->
+<term xml:id="per.004527">Hopkins, Philip</term><!-- witness for Defendant per.000215 -->
+<term xml:id="per.004496">Howard, Joseph</term><!-- JUROR -->
+<term xml:id="per.004522">Iiams, Samuel</term><!-- witness for Defendant per.000215 -->
+<term xml:id="per.004337">Joice, Ann</term><!-- mother of Sue per.004514; enslaved by Henry Darnall per.004516; indentured to C. Calvert (already encoded) -->
+<term xml:id="per.004497">Jones, Stephen</term><!-- JUROR -->
+<term xml:id="per.004524">Lambeth, John</term><!-- witness for Defendant per.000215 -->
+<term xml:id="per.004498">Lawrence, James</term><!-- JURY POOL -->
+<term xml:id="per.004499">Love, John</term><!-- JUROR -->
+<term xml:id="per.004500">Mackubin, Richard</term><!-- JUROR -->
+<term xml:id="per.004510">Mahoney, Eleanor</term><!-- mother of Charles Mahoney per.004476 -->
+<term xml:id="per.004501">McPherson, Henry</term><!-- could be per.000977 --><!-- JURY POOL -->
+<term xml:id="per.004502">Munroe, John</term><!-- JURY POOL -->
+<term xml:id="per.004503">Patridge, John</term><!-- JUROR -->
+<term xml:id="per.004665">Ratcliff, Sarah</term><!-- witness for Defendant per.000215 -->
+<term xml:id="per.004504">Richards, Clement</term><!-- JURY POOL -->
+<term xml:id="per.004519">Rigby, John</term><!-- JURY POOL -->
+<term xml:id="per.004505">Shaw, William</term><!-- JURY POOL -->
+<term xml:id="per.002967">Sparrow, Solomon</term><!-- JURY POOL -->
+<term xml:id="per.004513">Sue</term><!-- mother of Nelly; enslaved by Charles Carroll per.004511 -->
+<term xml:id="per.004506">Taylor, William D.</term><!-- JURY POOL -->
+<term xml:id="per.004507">Trueman, John</term><!-- JURY POOL -->
+<term xml:id="per.004508">Watts, Richard Key</term><!-- JURY POOL -->
+<term xml:id="per.004509">Welch, John</term><!-- Welsh --><!-- JUROR -->
+<term xml:id="per.004523">Welch, John</term><!-- witness for Defendant per.000215 -->
+<term xml:id="per.004520">Wilmot, John</term><!-- JURY POOL -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>England</term>
+<term>Anne Arundel County (Md.)</term>
+<term>Prince George's County (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Special Verdict</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.004476">
+<persName>Mahoney, Charles</persName><!-- child of E. Mahoney per.004510 -->
+</person>
+<person role="defendant" xml:id="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.004359">
+<persName>Johnson, John</persName><!-- attorney -->
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>  
+<change when="2017-07-31" who="#kln">changed Mr Ratcliff to Ms: Sarah Ratcliff</change>
+<change when="2017-05-30" who="#kln">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p017" facs="oscys.mdcase.0008.002.001.jpg"/>
+
+<gap reason="sampling"/>
+
+<div2 type="caption">
+
+<p>Charles Mahoney<lb/>
+vs.<lb/>
+John Ashton</p>
+
+</div2>
+
+<div2 type="body">
+
+<list rend="simple">
+<item>1 John Patridge</item>
+<item>2 Charles Baker</item>
+<item>3 John Love</item>
+<item>4 Samuel Coats</item>
+<item>5 Joseph Howard</item>
+<item>6 Stephen Jones</item>
+<item>7 George Bradford</item>
+<item>8 Edward Burgess Junr.</item>
+<item>9 John Welch</item>
+<item>10 Nicholas Brewer } Talesmen</item>
+<item>11 Richard Dorsey }</item>
+<item>12 Richard Mackubin }</item>
+</list>
+
+<p>Petition for Freedom. Issue Joined</p>
+
+<p>Therefore let a Jury thereon appear before the Court here immediately by whom &amp;c. and neither &amp;c. to Recognize &amp;c. because as well &amp;c. who being called came that is to say: Thomas Hodgkin, Thomas Barber, William D. Taylor, James Lawrence, John Patridge, Henry McPherson, Charles Baker, John Love, Samuel Coats, Joseph Harwood, Jacob Bayer and Thomas Blackiston: Whereupon certain <fw type="catch">of</fw>
+
+<pb xml:id="p018" facs="oscys.mdcase.0008.002.002.jpg"/>
+
+<fw type="pageNum">18</fw>
+
+<fw type="header">October Term 1797</fw>
+
+of them that is to say John Patridge, Charles Baker, John Love, and Samuel Coats are sworn upon that Jury, and because the rest of the said Jurors so appearing being, according to the Act of Assembly in such case provided, challenged by the parties that is to say, the said Thomas Hodgkin, Thomas Barber, William D. Taylor, James Lawrence, Henry McPherson and Thomas Blackiston on the part of the petitioner, and the said Joseph Harwood and Jacob Bayer on the part of the Defendant, other Jurors being called come, that is to say, Joseph Howard, Stephen Jones, Richard Key Watts, William Shaw, George Bradford, Edward Burgess Junior, John Trueman and Solomon Sparrow, whereupon certain of them, that is to say: Joseph Howard, Stephen Jones, George Bradford and Edward Burgess Junior are sworn upon the Jury, and because the rest of the said Jurors appearing being, according to the Act of Assembly in such case provided, challenged by the parties that is to say the said Solomon Sparrow on the part of the Petitioner and the said Richard Key Watts, William Shaw, and John Trueman on the part of the Defendant other Jurors being called come that is say, George Digges, William Hamilton, Mathew Ball, and John Brice; and because the said Jurors so appearing being in like manner challanged by the parties that is to say the said George Digges and William Hamilton on the part of the Petitioner and the said Mathew Ball and John Brice on the part of the Defendant; other Jurors being called come that is say: John Welch. Whereupon the said John Welch is sworn upon the Jury: and because a sufficient number of Jurors not being present to complete the said pannel; therefore others of the by-standers by the Sheriff of the County of Anne Arundel are summoned who being called certain of them come that is to say, Robert Duvall, Nicholas Brewer and Clement Richards: Whereupon one of them that is to say the said Nicholas Brewer is sworn upon the Jury; and because the rest of the said Jurors so appearing being, according to the Act of Assembly in such case provided, challenged by the parties that is to say the said Robert Duvall and Clement Richards on the part of the said defendant: Other Jurors of the by-standers so summoned by the sheriff aforesaid, being called come, that is to say: William Alexander and Philemon Brown and because the said Jurors so appearing being according to the
+
+<pb xml:id="p019" facs="oscys.mdcase.0008.002.003.jpg"/>
+
+<fw type="pageNum">19</fw>
+
+<fw type="header">October Term 1797</fw>
+
+Act of Assembly in such case provided challenged by the parties that is to say: the said William Alexander on the part of the Defendant and the said Philemon Brown on the part of the Petitioner, other Jurors of the by-standers so summoned by the sheriff aforesaid being called come that is to say Ezekiel Gott and Richard Dorsey; Whereupon one of them that is to say the said Richard Dorsey is worn upon that Jury: and because the other Juror so appearing being challenged according to the Act of Assembly aforesaid on the part of the petitioner, another Juror of the by-standers so summoned by the sheriff aforesaid being called comes that is to say: John Munroe whereupon it being objected on the part of the Defendant to the said John Munroe being sworn on the Jury alledging that he does not stand indifferent between the parties to this issue: thereupon the said John Partridge and Charles Baker the two first of the Jurors herein before impanelled are sworn to try whether the said John Munroe stands indifferent between the parties to this issue, who having retired from the bar of the Court here, afterwards return and on their oath do say that the said John Munroe does stand indifferent between the parties to this issue and because the said John Munroe being challenged according to the Act of Assembly aforesaid on the part of the Defendant, another Juror of the by-sanders so summoned by the sheriff aforesaid being called comes that is to say Richard Mackubin: Whereupon the said Richard Mackubin is sworn upon that Jury which said Nicholas Brewer, Richard Dorsey and Richard Mackubin so summoned by the sheriff aforesaid from among the by-standers elected at the request of the parties and by command of the Court here are aded to the Panel, whose names to the panel aforesaid are annexed according to the form of the Statute in such case made &amp; provided and the Jurors so added together with the other Jurors aforesaid before impannelled being elected, tried and sworn to say the truth in the premises above contained, do on their oath say that the Petitioner Charles Mahoney is the son of Nelly who was the daughter of Mr Carrolls Sue, who was the daughter of Mr Digges Sue, who was the Daughter of a Black woman named Joyce, formerly held and claimed Colonel Henry Darnell: That the said Henry Darnell departed this life in the year seventeen hundred &amp; eleven; and and that the said Joyce from whom the Petitioner is descended was for many years held &amp; claimed by the said Henry Darnell <fw type="catch">as</fw>
+
+<pb xml:id="p020" facs="oscys.mdcase.0008.002.004.jpg"/>
+
+<fw type="pageNum">20</fw>
+
+<fw type="header">October Term 1797</fw>
+
+as his slave and died in his possion or in the possion of his Representatives at the Woodyard in Prince Georges County; but at what precise period she departed this life is to the Jurors aforesaid, unknown. The Jurors aforesaid further say that the issue of the said Joyce and their descendants were and have been always held and claimed as slaves by the said Henry Darnell and those claiming under him, and they do not find that either the said Joyce in her life time or any of her Children ever claimed the right of Freedom. And the Jurors aforesaid further say that the said Joyce came into this Country with Charles Lord Baltimore son of Cecilius Lord Baltimore from England between the year sixteen Hundred &amp; seventy six and the fifteenth of February sixteen hundred and seventy nine: and if upon the whole matter aforesaid the Court shall be of opinion that the Petitioner is entitled to Freedom, then the Jurors aforesaid find the Issue in this cause for the Petitioner; but if the Court upon the matter aforesaid shall be of opinion, that the Petitioner is not entitled to Freedom then the Jurors aforesaid find the Issue aforesaid for the Defendant.</p>
+
+<p>Cont. under <term>buria adv. vult.</term></p>
+
+<p><term>Tales de Circumstantibus</term> ordered and issued to the sheriff of Anne Arundel County to summon twelve good men to make a Jury of twelve in a cause of Freedom now to be tried at bar between Charles Mahoney against John Ashton. <gap extent="two words" reason="illegible"/> which said sheriff in pursuance of the command of the said return to the Court here that he had summoned twelve good and lawful men <term>de circumstantibus</term> as he is commanded, to wit
+
+<table>
+<row>
+<cell/>
+<cell>Do<unclear reason="illegible">8</unclear></cell></row>
+<row>
+<cell>William Alexander</cell>
+<cell>2</cell>
+</row>
+<row>
+<cell>Robert Duvall</cell>
+<cell>2</cell>
+</row>
+<row>
+<cell>John Munroe</cell>
+<cell>2</cell>
+</row>
+<row>
+<cell>Richard Mackubin</cell>
+<cell>10</cell>
+</row>
+<row>
+<cell>John Rigby</cell>
+<cell>2</cell>
+</row>
+<row>
+<cell>Philemon Brown</cell>
+<cell>2</cell>
+</row>
+<row>
+<cell>Ezekiel Gott</cell>
+<cell>2</cell>
+</row>
+<row>
+<cell>Nicholas Brewer</cell>
+<cell>10</cell>
+</row>
+<row>
+<cell>Clement Richards</cell>
+<cell>2</cell>
+</row>
+<row>
+<cell>John Wilmot</cell>
+<cell>2</cell>
+</row>
+<row>
+<cell>Richard Dorsey</cell>
+<cell>10</cell>
+</row>
+<row>
+<cell>William C. Bithrey</cell>
+<cell>2</cell>
+</row>
+</table>
+
+Who being called appear.</p>
+
+<p>Whereupon certain of them to wit Nicholas Brewer, Richard Dorsey and Richard Mackubin are sworn on the said Jury impanelled between the parties aforesaid and the rest of the said Jurors <unclear reason="unclear">are</unclear>
+
+<pb xml:id="p021" facs="oscys.mdcase.0008.002.005.jpg"/>
+
+<fw type="pageNum">21</fw>
+
+<fw type="header">October Term 1797</fw>
+
+discharged from further attendence.</p>
+
+</div2>
+
+<div2 type="caption">
+
+<p>Charles Mahoney<lb/>
+vs.<lb/>
+John Ashton</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Petn. for Freedom. Jury cont. from Saturday last Jurors return &amp; find special verdict.</p>
+
+<p>Jury fee paid by J Johnson Esqr</p>
+
+<list rend="simple">
+<head>Witnesses for Defdt.</head>
+<item>Saml Iiams</item>
+<item>John Welch</item>
+<item>John Lambeth</item>
+<item>Ms Ratcliff</item>
+<item>John Darnal</item>
+<item>Philip Hopkins</item>
+<item>Gerard Darnal</item>
+</list>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

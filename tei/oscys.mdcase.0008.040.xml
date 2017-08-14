@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0008.040">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>John Ashton v. Charles Mahoney. Defendant's Bill of Exceptions</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0008.040</idno>
+<idno type="case">oscys.caseid.0481</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Defendant's Bill of Exceptions</title>
+<date when="1799-06-03">June 3, 1799</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgments)</collection>
+<idno>MSA S498-220</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Bill of Exceptions</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1799-05">May 1799</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.002102">Chase, Jeremiah Townley, 1748-1828</term>
+<term xml:id="per.004741">Done, John, 1748-1831</term>
+<term xml:id="per.004337">Joice, Ann</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>England</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.004476">
+<persName>Mahoney, Charles</persName>
+</person>
+<person role="defendant" xml:id="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>  
+<change when="2017-08-02" who="#kln">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.mdcase.0008.040.001.jpg"/>
+
+<div2 type="caption">
+
+<p>Mahoney<lb/>
+vs<lb/>
+Ashton</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>In the Trial of this Cause the Petitioner by his Counsel prayed the following Direction of the Court to the Jury "That if from the Evidence the Jury are of <del>the Court to</del> Opinion that the Woman Joyce from whom the Petitioner is descended was in England and came from thence, they must find a Verdict for the Plaintiff the Petitioner; of which <del>the</del> opinion the Court was and so directed the Jury; to which opinion of the Court the Defendant prayed leave to except, &amp; that the Court may Sign and Seal this Bill of exceptions which is done according to the Statute in Such Case made and provided this third Day of June 1799</p>
+
+<p>Jeremiah Townley Chase (Seal)<lb/>
+John Done (Seal)</p>
+
+</div2>
+
+<pb xml:id="p002" facs="oscys.mdcase.0008.040.002.jpg"/>
+
+<div2 type="back">
+
+<p>1 1/4 sides</p>
+
+<p>Mahoney<lb/>
+vs<lb/>
+Ashton</p>
+
+<p>Exception No 4</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0008.044">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charles Mahoney v. John Ashton. Account of Servants Imported into Maryland</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0008.044</idno>
+<idno type="case">oscys.caseid.0481</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Account of Servants Imported into Maryland</title>
+<date when="1799-06-03">June 3, 1799</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgments)</collection>
+<idno>MSA S498-220</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Exhibit</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1799-05">May 1799</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.004701">Anglen, Ellinor</term>
+<term xml:id="per.004698">Arundel, Lidia</term>
+<term xml:id="per.004719">Berren, Rice</term>
+<term xml:id="per.004689">Brown, Charles</term>
+<term xml:id="per.004704">Brown, John</term>
+<term xml:id="per.004731">Brown, John</term>
+<term xml:id="per.004696">Brown, John, Jr.</term>
+<term xml:id="per.004709">Bryan, Derby</term>
+<term xml:id="per.004684">Butler, Richard</term>
+<term xml:id="per.004755">Calahone, Margaret</term>
+<term xml:id="per.004700">Calahone, Teag</term>
+<term xml:id="per.004336">Baltimore, Charles Calvert, Lord, 1637-1715</term>
+<term xml:id="per.004736">Callahan, John</term>
+<term xml:id="per.004730">Casey, James</term>
+<term xml:id="per.004690">Couthland, Margaret</term>
+<term xml:id="per.004727">Cunisby, William</term>
+<term xml:id="per.004697">Descole, Dermott</term>
+<term xml:id="per.004733">Freeman, Thomas</term>
+<term xml:id="per.004722">Griffith, Rice</term>
+<term xml:id="per.004717">Gutheridge, Henry</term>
+<term xml:id="per.004726">Holand, Daniel</term>
+<term xml:id="per.004723">Holand, Dennis</term>
+<term xml:id="per.004705">Howell, George</term>
+<term xml:id="per.004756">Jenifer</term>
+<term xml:id="per.004337">Joice, Ann</term>
+<term xml:id="per.004710">Jones, Bridget</term>
+<term xml:id="per.004708">Jones, Rowland</term>
+<term xml:id="per.004732">Kennedy, Edward</term>
+<term xml:id="per.004712">Kile, John</term>
+<term xml:id="per.004721">Lyne, Daniel</term>
+<term xml:id="per.004686">Macchoone, Jerum</term>
+<term xml:id="per.004687">Mahoney, Teag</term>
+<term xml:id="per.004729">Malihone, Desmond</term>
+<term xml:id="per.004703">Martin, Ann</term>
+<term xml:id="per.004713">Morris, Ann</term>
+<term xml:id="per.004707">Morris, Ruthro</term>
+<term xml:id="per.004706">O'Bryan, Mortimer</term>
+<term xml:id="per.004714">Owen, Bartholomew</term>
+<term xml:id="per.004685">Phillips, Alice</term>
+<term xml:id="per.004728">Phillips, Ewan</term>
+<term xml:id="per.004699">Powell, William</term>
+<term xml:id="per.004702">Price, Charles</term>
+<term xml:id="per.004711">Price, Jenken</term>
+<term xml:id="per.004725">Rees, John</term>
+<term xml:id="per.004688">Roberts, Grace</term>
+<term xml:id="per.004734">Rousby, Charles</term>
+<term xml:id="per.004695">Saylee, Abraham</term>
+<term xml:id="per.004718">Shoolevant, Derby</term>
+<term xml:id="per.004724">Shoolevant, James</term>
+<term xml:id="per.004715">Shoolevant, Julian</term>
+<term xml:id="per.004692">Teag, Sheely</term>
+<term xml:id="per.004716">Thomas, Richard</term>
+<term xml:id="per.004735">Warren, Henry</term>
+<term xml:id="per.004693">Watts, Katharine</term>
+<term xml:id="per.004694">Welsh, Julian</term>
+<term xml:id="per.004691">Welsh, Morris</term>
+<term xml:id="per.004720">Young, William</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Maryland</term>
+<term>Bristol (England)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.004476">
+<persName>Mahoney, Charles</persName>
+</person>
+<person role="defendant" xml:id="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>  
+<change when="2017-08-02" who="#kln">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.mdcase.0008.044.001.jpg"/>
+
+<div2 type="body">
+
+<p>May the viiith MDCLxviii </p>
+
+<ab>1668.</ab>
+
+<p>Account of servants imported into Maryland upon the ship John and Christian of Bristoll vizt</p>
+
+<table>
+<row>
+<cell>Richard Butler</cell>
+<cell>Alice Phillips</cell>
+<cell>Jerman Manhoone</cell>
+</row>
+<row>
+<cell>Teag Mahony</cell>
+<cell>Grace Roberts</cell>
+<cell>Charles Brown</cell>
+</row>
+<row>
+<cell>Margrett Couthland</cell>
+<cell>Mary Joyce</cell>
+<cell>Morris Welsh</cell>
+</row>
+<row>
+<cell>Sheely Teag</cell>
+<cell>Katharine Watts</cell>
+<cell>Julian Welsh</cell>
+</row>
+<row>
+<cell>Abraham Saylee</cell>
+<cell>John Brown Junr</cell>
+<cell>Dermott Descole</cell>
+</row>
+<row>
+<cell>Lidia Arundel</cell>
+<cell>William Powell</cell>
+<cell>Teag Calahone</cell>
+</row>
+<row>
+<cell>Ellinor Anglen</cell>
+<cell>Charles Price</cell>
+<cell>Margaret Calahone</cell>
+</row>
+<row>
+<cell>John Brown</cell>
+<cell>George Howell</cell>
+<cell>Ann Martin</cell>
+</row>
+<row>
+<cell>Ruthro Morris</cell>
+<cell>Rowland Jones</cell>
+<cell>Mortimer O Bryan</cell>
+</row>
+<row>
+<cell>Bridget Jones</cell>
+<cell>Jenken Price</cell>
+<cell>Derby Bryan</cell>
+</row>
+<row>
+<cell>Ann Morris</cell>
+<cell>Bartholomew Owen</cell>
+<cell>John Kile</cell>
+</row>
+<row>
+<cell>Richard Thomas</cell>
+<cell>Henry Gutheridge</cell>
+<cell>Julian Shoolevant</cell>
+</row>
+<row>
+<cell>Rice Berren</cell>
+<cell>William Young</cell>
+<cell>Derby Shoolevant</cell>
+</row>
+<row>
+<cell>Rice Griffith</cell>
+<cell>Dennis Holand</cell>
+<cell>Daniel Lyne</cell>
+</row>
+<row>
+<cell>John Rees</cell>
+<cell>Daniel Holand</cell>
+<cell>James Shoolevant</cell>
+</row>
+<row>
+<cell>Ewan Phillips</cell>
+<cell>Desmond Malihone</cell>
+<cell>William Cunisby</cell>
+</row>
+<row>
+<cell>John Brown</cell>
+<cell>Edward Kennedy</cell>
+<cell>James Casey</cell>
+</row>
+</table>
+
+<p>Tho: Freeman proves 51 Rights &amp; assigns Charles Calvert Esqr vide Charles Calvert Esqr asst to Jenifer in folio 547.</p>
+
+<p>The above said right of land due for the transportation of the said persons here above mentioned were proved. Thomas Freeman to be originally due, to the said Freeman and never yet made use of by him this done before me this tenth day of June MDCLxviii.<lb/>
+Charles Calvert</p>
+
+<p>I Thomas Freeman do assign all my interest and rights of land due for the transportation of the fifty one persons herein specified to the said Charles Calvert his heirs and assign. Witness my hand this eleventh day of June one thousand six hundred sixty eight.<lb/>
+Thomas Freeman</p>
+
+<p>Witness Charles Rousby<lb/>
+Henry Warren</p>
+
+<p>I hereby certify that the above is a true copy from Liber No 11 folio 378, of the records of the land office of The State of Maryland.</p>
+
+<p>In Testimony whereof Thereto set my hand and affix the seal of office the twelfth day of february seventeen hundred and ninety eight</p>
+
+<p>Jno Callahan Reg Ld Off WS</p>
+
+<ab>Co 42 L Tob
+@ 12/6<gap extent="one or two letters" reason="illegible"/> 5/3.</ab>
+
+</div2>
+
+<pb xml:id="p002" facs="oscys.mdcase.0008.044.002.jpg"/>
+
+<div2 type="back">
+
+<p>3 1/2 sides</p>
+
+<p>Thomas Freeman rights for transportation of 51 persons<lb/>
+&amp;<lb/>
+Asst to Charles Calvert Esq Ct<lb/>
+(Copy)</p>
+
+<p>filed 3 June 1799.</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
