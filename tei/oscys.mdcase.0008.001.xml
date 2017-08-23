@@ -13,6 +13,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -99,46 +100,46 @@
 <particDesc>   
 <listPerson xml:id="oscys.caseid.0481">            
 <person role="petitioner" xml:id="per.004476">
-<persName>Mahoney, Charles</persName><!-- petitioner against -->
+<persName>Mahoney, Charles</persName>
 </person>
 <person role="defendant" xml:id="per.000215">
-<persName>Ashton, John</persName><!-- defendant against -->
+<persName>Ashton, John</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
 </person>
 <person role="attorney_defendant" xml:id="per.001496">
-<persName>Cooke, William</persName><!-- attorney -->
+<persName>Cooke, William</persName>
 </person>
 </listPerson>
 
 <listPerson xml:id="oscys.caseid.0482">            
 <person role="petitioner" xml:id="per.004535">
-<persName>Mahoney, Patrick</persName><!-- petitioner against -->
+<persName>Mahoney, Patrick</persName>
 </person>
 <person role="defendant" corresp="per.000215">
-<persName>Ashton, John</persName><!-- defendant against -->
+<persName>Ashton, John</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
 </person>
 <person role="attorney_defendant" corresp="per.001496">
-<persName>Cooke, William</persName><!-- attorney -->
+<persName>Cooke, William</persName>
 </person>
 </listPerson>
 
 <listPerson xml:id="oscys.caseid.0483">            
 <person role="petitioner" xml:id="per.004536">
-<persName>Mahoney, Daniel</persName><!-- petitioner against -->
+<persName>Mahoney, Daniel</persName>
 </person>
 <person role="defendant" corresp="per.000215">
-<persName>Ashton, John</persName><!-- defendant against -->
+<persName>Ashton, John</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
 </person>
 <person role="attorney_defendant" corresp="per.001496">
-<persName>Cooke, William</persName><!-- attorney -->
+<persName>Cooke, William</persName>
 </person>
 </listPerson>
             
@@ -152,6 +153,7 @@
 </profileDesc>
         
 <revisionDesc>  
+<change when="2017-08-17" who="#lkw">review and relationship encoding</change>
 <change when="2017-05-30" who="#kln">transcribed and encoded</change>
 </revisionDesc>
 
