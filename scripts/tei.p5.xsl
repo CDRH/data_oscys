@@ -90,5 +90,67 @@
     </xsl:choose>
   </xsl:template>  <!-- end ref -->
 
+  <!-- Note: This pb override is being added because oscys needs the "open in a new window" portion
+       which has been turned off in the main cdrh to html xslt scripts -->
+  <xsl:template match="pb">
+      <!-- grab the figure id, first looking in @facs, then @xml:id, and if there is a .jpg, chop it off -->
+      <xsl:variable name="figure_id">
+        <xsl:variable name="figure_id_full">
+          <xsl:choose>
+            <xsl:when test="@facs"><xsl:value-of select="@facs"></xsl:value-of></xsl:when>
+            <xsl:when test="@xml:id"><xsl:value-of select="@xml:id"></xsl:value-of></xsl:when>
+          </xsl:choose>
+        </xsl:variable>
+        <xsl:choose>
+          <xsl:when test="contains($figure_id_full,'.jpg')">
+            <xsl:value-of select="substring-before($figure_id_full,'.jpg')"/>
+          </xsl:when>
+          <xsl:otherwise>
+            <xsl:value-of select="$figure_id_full"/>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:variable>
+
+      <span class="hr">&#160;</span>
+      <xsl:if test="$figure_id != ''">
+        <span>
+          <xsl:attribute name="class">
+            <xsl:text>pageimage</xsl:text>
+          </xsl:attribute>
+          <a>
+            <xsl:attribute name="href">
+              <xsl:value-of select="$fig_location"/>
+              <xsl:text>large/</xsl:text>
+              <xsl:value-of select="$figure_id"/>
+              <xsl:text>.jpg</xsl:text>
+            </xsl:attribute>
+            <xsl:attribute name="rel">
+              <xsl:text>prettyPhoto[pp_gal]</xsl:text>
+            </xsl:attribute>
+            <xsl:attribute name="title">
+                               <xsl:text>&lt;a href="</xsl:text>
+              <xsl:value-of select="$fig_location"/>
+              <xsl:text>large/</xsl:text>
+              <xsl:value-of select="$figure_id"/>
+              <xsl:text>.jpg</xsl:text>
+              <xsl:text>" target="_blank" &gt;open image in new window&lt;/a&gt;</xsl:text>
+            </xsl:attribute>
+            
+            <img>
+              <xsl:attribute name="src">
+                <xsl:value-of select="$fig_location"/>
+                <xsl:text>thumbnails/</xsl:text>
+                <xsl:value-of select="$figure_id"/>
+                <xsl:text>.jpg</xsl:text>
+              </xsl:attribute>
+              <xsl:attribute name="class">
+                <xsl:text>display</xsl:text>&#160;
+              </xsl:attribute>
+            </img>
+          </a>
+        </span>
+      </xsl:if>
+    
+  </xsl:template>
 
 </xsl:stylesheet>

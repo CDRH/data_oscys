@@ -25,7 +25,7 @@
 	<xsl:param name="string"/>
 	<xsl:param name="site_location"/><!-- will be lassed in from config.yml -->
 	<xsl:param name="file_location"/><!-- will be lassed in from config.yml -->
-	<xsl:param name="project" select="/TEI/teiHeader/fileDesc/publicationStmt/authority[1]"/>
+	<xsl:param name="collection" select="/TEI/teiHeader/fileDesc/publicationStmt/authority[1]"/>
 	<xsl:param name="slug"/><!-- will be lassed in from config.yml -->
 	
 	<!-- ================================================ -->
@@ -91,7 +91,7 @@
 	</xsl:template>
 	
 	<!-- ================================================ -->
-	<!-- See OSCYS Schema (data/projects/oscys/schema.md) -->
+	<!-- See OSCYS Schema (data/collections/oscys/schema.md) -->
 	<!-- ================================================ -->
 	
 	<xsl:variable name="doc_date">
@@ -143,10 +143,10 @@
 			<xsl:value-of select="$slug"/>
 		</field>
 		
-		<!-- project -->
+		<!-- collection -->
 		
 		<field name="project" update="add">
-			<xsl:value-of select="$project"/>
+			<xsl:value-of select="$collection"/>
 		</field>
 				
 		<!-- uri -->
@@ -168,9 +168,9 @@
 		<field name="uriHTML" update="add">
 			<xsl:value-of select="$file_location"/>
 			<xsl:value-of select="$slug"/>
-			<xsl:text>/html-generated/</xsl:text>
+			<xsl:text>/output/html-generated/</xsl:text>
 			<xsl:value-of select="$filenamepart"/>
-			<xsl:text>.txt</xsl:text>
+			<xsl:text>.html</xsl:text>
 		</field>
 		
 		<!-- dataType -->
