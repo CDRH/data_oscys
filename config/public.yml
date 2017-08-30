@@ -36,3 +36,17 @@ production:
     figures: true
     fw: false
     pb: true
+
+production_emergency:
+  solr_core: api_oscys_emergency
+  variables_solr:
+    slug: oscys
+    fig_location: http://earlywashingtondc.org/figures/
+    file_location: http://earlywashingtondc.org/files/
+  variables_html:
+    slug: oscys
+    fig_location: http://earlywashingtondc.org/figures/
+    file_location: http://earlywashingtondc.org/files/
+    figures: true
+    fw: false
+    pb: true
