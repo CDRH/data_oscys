@@ -1,0 +1,52 @@
+#####################################
+#      CONFIGURATION FOR OSCYS      #
+#####################################
+
+default:
+  shortname: oscys
+  # es_type: oscys
+  solr_core: api_oscys
+  tei_solr_xsl: collections/oscys/scripts/solr_transform_tei.xsl
+  tei_html_xsl: collections/oscys/scripts/tei.p5.xsl
+
+development:
+  variables_solr:
+    slug: oscys
+    # project: "O Say Can You See"
+    fig_location: http://earlywashingtondc.org/figures/
+    file_location: https://cdrhdev1.unl.edu/data/collections/
+  variables_html:
+    slug: oscys
+    fig_location: http://earlywashingtondc.org/figures/
+    file_location: https://cdrhdev1.unl.edu/data/collections/
+    figures: true
+    fw: false
+    pb: true
+ 
+production:
+  variables_solr:
+    slug: oscys
+    # project: "O Say Can You See"
+    fig_location: http://earlywashingtondc.org/figures/
+    file_location: http://earlywashingtondc.org/files/
+  variables_html:
+    slug: oscys
+    fig_location: http://earlywashingtondc.org/figures/
+    file_location: http://earlywashingtondc.org/files/
+    figures: true
+    fw: false
+    pb: true
+
+production_emergency:
+  solr_core: api_oscys_emergency
+  variables_solr:
+    slug: oscys
+    fig_location: http://earlywashingtondc.org/figures/
+    file_location: http://earlywashingtondc.org/files/
+  variables_html:
+    slug: oscys
+    fig_location: http://earlywashingtondc.org/figures/
+    file_location: http://earlywashingtondc.org/files/
+    figures: true
+    fw: false
+    pb: true
