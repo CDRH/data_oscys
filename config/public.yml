@@ -19,9 +19,6 @@ development:
     slug: oscys
     fig_location: http://earlywashingtondc.org/figures/
     file_location: https://cdrhdev1.unl.edu/data/collections/
-    figures: true
-    fw: false
-    pb: true
  
 production:
   variables_solr:
@@ -33,9 +30,6 @@ production:
     slug: oscys
     fig_location: http://earlywashingtondc.org/figures/
     file_location: http://earlywashingtondc.org/files/
-    figures: true
-    fw: false
-    pb: true
 
 production_emergency:
   solr_core: api_oscys_emergency
@@ -47,6 +41,3 @@ production_emergency:
     slug: oscys
     fig_location: http://earlywashingtondc.org/figures/
     file_location: http://earlywashingtondc.org/files/
-    figures: true
-    fw: false
-    pb: true
