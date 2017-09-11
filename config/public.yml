@@ -3,7 +3,7 @@
 #####################################
 
 default:
-  shortname: oscys
+  es_type: oscys
   # es_type: oscys
   solr_core: api_oscys
   tei_solr_xsl: collections/oscys/scripts/solr_transform_tei.xsl
