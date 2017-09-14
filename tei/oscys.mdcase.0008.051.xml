@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0008.051">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charles Mahoney v. John Ashton. Transcript from Court of Appeals</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0008.051</idno>
+<idno type="case">oscys.caseid.0481</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Transcript from Court of Appeals</title>
+<date when="1802-10-04">October 4, 1802</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgments)</collection>
+<idno>MSA S498-228</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Transcript</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1802-10">October 1802</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.004784">Albaugh, Abraham</term><!-- juror -->
+<term xml:id="per.004781">Amos, James</term><!-- jury pool -->
+<term xml:id="per.004480">Barber, Thomas</term><!-- rel in .002  -->
+<term xml:id="per.004766">Beall, Edward</term><!-- jury pool -->
+<term xml:id="per.004768">Beard, Thomas</term><!-- jury pool -->
+<term xml:id="per.004777">Billingslea, William</term><!-- jury pool -->
+<term xml:id="per.004774">Burkhart, Christopher</term><!-- juror -->
+<term xml:id="per.004754">Crain, Abner</term><!-- rel in .034 -->
+<term xml:id="per.004789">Crain, Alexander</term><!-- jury pool -->
+<term xml:id="per.004763">Douglass, Samuel</term><!-- deponent -->
+<term xml:id="per.001393">Duvall, Gabriel, 1752-1844</term><!-- no rel -->
+<term xml:id="per.004753">Duvall, Lewis</term><!-- rel in .034 incorrect; should be jury pool not juror -->
+<term xml:id="per.004794">Duvall, Zachariah</term><!-- jury pool -->
+<term xml:id="per.004795">Franklin, Francis Boucher</term><!-- jury pool -->
+<term xml:id="per.004779">Griffith, Nicholas</term><!-- juror -->
+<term xml:id="per.001493">Gwinn, John</term><!-- rel already exists -->
+<term xml:id="per.004776">Hannah, John</term><!-- jury pool -->
+<term xml:id="per.004791">Hesselius, John</term><!-- juror -->
+<term xml:id="per.004788">Hoffman, David</term><!-- juror -->
+<term xml:id="per.004778">Jones, Benjamin White</term><!-- juror -->
+<term xml:id="per.004764">Lane, Thomas</term><!-- deponent -->
+<term xml:id="per.004773">Leatherman, Henry</term><!-- jury pool -->
+<term xml:id="per.004793">Little, Peter</term><!-- jury pool -->
+<term xml:id="per.004765">Lyles, Thomas Hilleary</term><!-- jury pool -->
+<term xml:id="per.004792">Magruder, James Alexander</term><!-- jury pool -->
+<term xml:id="per.004767">McCauley, Charles</term><!-- jury pool -->
+<term xml:id="per.004786">McComas, Aquila</term><!-- juror -->
+<term xml:id="per.004782">Middleton, Ignatius</term><!-- jury pool -->
+<term xml:id="per.004771">Nead, Daniel</term><!-- juror -->
+<term xml:id="per.004775">Neale, Henry C.</term><!-- jury pool -->
+<term xml:id="per.004783">Page, George</term><!-- jury pool -->
+<term xml:id="per.004780">Richardson, Samuel</term><!-- jury pool -->
+<term xml:id="per.004787">Ridgely, Jacob</term><!-- juror -->
+<term xml:id="per.004769">Simmons, Thomas T.</term><!-- juror -->
+<term xml:id="per.004785">Smith, Mordecai</term><!-- jury pool -->
+<term xml:id="per.004770">Smith, Samuel Lane</term><!-- jury pool -->
+<term xml:id="per.004796">Tyler, Samuel, Jr.</term><!-- juror -->
+<term xml:id="per.004752">Warfield, Lancelot, Sr.</term><!-- rel in .034 -->
+<term xml:id="per.004772">Wilkinson, Robert</term><!-- jury pool -->
+<term xml:id="per.004790">Woodward, Thomas</term><!-- jury pool -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Anne Arundel County (Md.)</term>
+<term>Annapolis (Md.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.004476">
+<persName>Mahoney, Charles</persName>
+</person>
+<person role="defendant" xml:id="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.004359">
+<persName>Johnson, John</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.004663">
+<persName>Ridgely, Richard</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.004761">
+<persName>Harper, Robert Goodloe, 1765-1825</persName><!-- attorney -->
+</person>
+<person role="attorney_defendant" xml:id="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.004664">
+<persName>Martin, Luther</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.004640">
+<persName>Mason, John T. (John Thomson), 1787-1850</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.004762">
+<persName>Shaaff, Arthur</persName><!-- attorney -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>  
+<change when="2017-08-23" who="#kln">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.mdcase.0008.051.001.jpg"/>
+
+<div2 type="caption">
+
+<p><del>Maryland, Sct</del></p>
+
+</div2>
+
+<div2 type="body">
+
+<p><del>At a General Court <del>begun and held</del> of the State of Maryland, one of the United States of America, begun and held for the Western Shore, at the City of Annapolis, on the Second Tuesday of October being the twelfth day of the said Month in the year of our Lord one thousand eight hundred and two, and in the twenty seventh year of the Independence of the said United States</del></p>
+
+<p><del>Present<lb/>
+Jeremiah Townley Chase Esquire Chief Judge<lb/>
+The Honble Gabriel Duvall &amp; John Done Esquires Judges<lb/>
+Henry Howard Esquire Sheriff<lb/>
+John Gwinn Clerk</del></p>
+
+<p><del>In the Record of Proceedings of the</del>
+
+<pb xml:id="p002" facs="oscys.mdcase.0008.051.002.jpg"/>
+
+<del>same Court, amongst others is the following, to wit:</del></p>
+
+</div2>
+
+<div2 type="caption">
+
+<p>Charles Mahoney<lb/>
+vs<lb/>
+The Revd John Ashton</p>
+
+<p>Be it remembered that heretofore, to wit, on the fourth day of October in the year of our Lord one thousand eight hundred and two the Clerk of the Court of Appeals by directions of the said Court of appeals, in pursuance of the act of assembly in such case made &amp; provided, returned to the Clerk of the General Court here a Transcript of the Record of proceedings with the unit of the State of Maryland of Procedends to the Judges of the General Court here directed, on a certain appeal made by a certain John Ashton from a Judgment in the General Court here rendered in a certain plaint on a petition for freedom in the General Court here preferred by a certain Charles Mahoney against the said John Ashton
+
+<pb xml:id="p003" facs="oscys.mdcase.0008.051.003.jpg"/>
+
+and wherein the General Court here rendered Judgment for the said Charles Mahoney against the said John Ashton, and from which said Judgment the said John Ashton appeared to the Court of Appeals and which said Judgment the said Court of Appeals did reverse, annul and hold entirely as void: which said writ of procedends and transcript of the Record of Proceedings aforesaid are in the words and of the tenor following, towit:</p>
+
+<p>Enter Writ &amp; Record</p>
+
+<p>And now at this day, to wit, the Second Tuesday of October being the twelfth day of the said Month in the year of our Lord one thousand eight hundred and two, come into
+
+<pb xml:id="p004" facs="oscys.mdcase.0008.051.004.jpg"/>
+
+the General Court here as well the said Charles Mahoney by Richard Ridgely and John Johnson his attornies, as the said John Ashton by Luther Martin, Philip Barton Key, John Thomson Mason, Robert Goodloe Harper and Arthur Shaaff his attornies; and the said John Ashton by his attornies aforesaid file in Court here the Depositions <del>of Samuel</del> Thomas Douglass and Samuel Lane and which are in form following, towit:</p>
+
+<p>Enter Deps No 1 &amp; 2</p>
+
+<p><del>Whereupon this cause standing ready for trial, therefore let a Jury thereon appear before the Court here immediately, by whom &amp;c who neither &amp;c to recognize &amp;c because <fw type="catch">as</fw></del></p>
+
+<pb xml:id="p005" facs="oscys.mdcase.0008.051.005.jpg"/>
+
+<p>Whereupon this cause standing ready for trial with the consent of the parties aforesaid by their attornies aforesaid; thereupon, for trying a new the issue aforesaid, it is ordered by the court here, that twelve persons from the pannel of petit Jurors returned to the Court here by the several Sheriffs of the different counties of the Western Shore, be drawn by ballot; and thereupon the twelve persons being so drawn by ballot and called come that is to say
+
+<pb xml:id="p006" facs="oscys.mdcase.0008.051.006.jpg"/>
+
+<del>as well &amp;c who being drawn by ballot and called come; that is to say</del> Thomas Hilleary Lyles, Edward Beall, Charles McCauley, Thomas Beard, Thomas T. Simmons, Samuel Lane Smith, Daniel Nead, Robert Wilkinson, Henry Leatherman, Christopher Burkhart, Henry C. Neale, and John Hannah, Whereupon certain of them, to wit, Thomas T. Simmons, Daniel Nead and Christopher Burkhart are sworn upon that Jury; and because the others of the said <del>Jurors</del> persons <gap extent="two words" reason="strikethrough"/> being <del>being</del> <gap extent="two words" reason="strikethrough"/> according to the Act of Assembly challenged by the parties, to wit, the said Thomas Hilleary Lyles, Samuel Lane Smith and Henry C. Neale on the part of the petitioner, and the said Edward Beall, Charles McCauley, Thomas Beard, Robert Wilkinson, Henry Leatherman and John Hannah on the part of the Defendant <del>other Jurors being called</del> other persons being drawn by ballot and called likewise came; that is to say
+
+<pb xml:id="p007" facs="oscys.mdcase.0008.051.007.jpg"/>
+
+William Billingslea, Benjamin White Jones, Nicholas Griffith, Samuel Richardson, James Amos of James, Ignatius Middleton, Thomas Barber, George Page and Abraham Albaugh; Whereupon certain of them, to with the said Benjamin White Jones, Nicholas Griffith and Abraham Albaugh are likewise Sworn upon that Jury; and because the others of the said <del>Jurors</del> persons last called as aforesaid, being according to the act of assembly challenged by the parties aforesaid, towit the said Ignatius Middleton, <del>Samuel</del> Thomas Barber and George Page on the part of the petitioner and the said William Billingslea, Samuel Richardson &amp; James Amos of James on the part
+
+<pb xml:id="p008" facs="oscys.mdcase.0008.051.008.jpg"/>
+
+of the Defendant, other <del>Jurors</del> persons being <del>called</del> drawn by ballot and called likewise come; that is to say, Mordecai Smith, Aquila McComas, Jacob Ridgely, David Hoffman, Alexander Crain and Thomas Woodward Whereupon certain of them, towit the said Aquila McComas Jacob Ridgely and David Hoffman are likewise sworn upon that Jury; and because the others of the said <del>Jurors</del> <del>persons</del> persons last called as aforesaid to with the said Mordecai Smith, Alexander Crain and Thomas Woodward being, according to the Act of Assembly, challenged <del>by the said</del> on the part of the petitioner, other <del>Jurors</del> persons <del>drawn by ballot</del> being drawn by Ballot and called likewise come; that is to say John Hesselius, James Alexander Magruder and Peter Little, Whereupon the said John Hesselius is likewise sworn upon that Jury; and because the others of the said <del>Jurors</del> persons last called as aforesaid being, according to the 
+
+<pb xml:id="p009" facs="oscys.mdcase.0008.051.009.jpg"/>
+
+Act of Assembly, challenged by the parties aforesaid, to wit, the said James Alexander Magruder on the part of the petitioner and the said Peter Little on the part of the Defendant, other <del>Jurors</del> persons being drawn by Ballot and called likewise come, that is to say Zachariah Duvall and Francis Boucher Franklin; and because the said <del>Jurors</del> persons last called as aforesaid, being according to the act of assembly challenged by the parties aforesaid, to wit, the said Zachariah Duvall on the part of the Defendant and the said Francis Boucher Franklin on the part of the petitioner, the only person remaining on the pannel of Jurors so returned by the Sheriffs as aforesaid being drawn by Ballot and called likewise comes, that is <fw type="catch">to</fw>
+
+<pb xml:id="p010" facs="oscys.mdcase.0008.051.010.jpg"/>
+
+to say Samuel Tyler Junior; whereupon the said Samuel Tyler Junior is likewise sworn upon that Jury; and because a sufficient number of <del>Jurors</del> persons so returned by the Sheriffs aforesaid not being present to complete the said pannel, therefore <del>others</del> three persons of the bystanders, by the Sheriff of the County of Anne Arundel elected at the request of the said petitioner and the said Defendant, and by command of the Court here, are added to the said pannel, whose names to the pannel within written are annexed, according to the form of the Statute in such case made and provided; <del>and the Jurors</del> one of which <del>of the</del> said persons so added anew being drawn by ballot and called, comes likewise <del>tow</del> that is to say Lewis Duvall
+
+<pb xml:id="p011" facs="oscys.mdcase.0008.051.011.jpg"/>
+
+and because the said Lewis Duvall being according to the act of assembly challenged on the part of the Defendant, another of the <del>Jurors</del> persons so added anew being drawn by ballot and called likewise comes, that is to say Lancelot Warfield; and because the said Lancelot Warfield being according to the act of assembly challenged on the part of the petitioner, the other <del>Juror</del> person so added a new being drawn by ballot and called likewise comes, that is to say Abner Craine; whereupon the said Abner Craine is likewise sworn upon that Jury; and the Jurors of <fw type="catch">the</fw>
+
+<pb xml:id="p012" facs="oscys.mdcase.0008.051.012.jpg"/>
+
+the Jury whereof mention is within made <del>on their Oath do say</del> <gap extent="one word" reason="strikethrough"/> being elected, tried and sworn as aforesaid, on their oath do say that the said Charles Mahoney is not a free man and of free condition, as the said <del>John Ashton</del> Charles Mahoney <del>at</del> within by pleading hath alleged;</p>
+
+<p>Therefore it is considered by the Court here that the said Charles Mahoney take nothing by his petition aforesaid, but <gap extent="two words" reason="strikethrough"/> return to the service of the said John Ashton there<del>to</del> to remain until &amp;ca and that the said John Ashton go thereof without day &amp;ca</p>
+
+<pb xml:id="p013" facs="oscys.mdcase.0008.051.013.jpg"/>
+
+<p>Memorandum. At the trial of this Cause the Honorable Gabriel Duvall Esquire withdrew from the Bench</p>
+
+<p>Test John Gwinn Clerk</p>
+
+</div2>
+
+<div2 type="back">
+
+<p>12 Sds</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
