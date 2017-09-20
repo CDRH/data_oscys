@@ -9,6 +9,9 @@
 	<!--                     IMPORTS                      -->
 	<!-- ================================================ -->
 
+	<!-- NOTE!!!!!  THIS SCRIPT IS *NOT* IMPORTING THE MAJORITY OF THE SOLR SCRIPTS -->
+	<!-- You have to add ALL fields in this file or they won't be sent -->
+
 	<xsl:import href="../../../scripts/xslt/cdrh_to_solr/lib/common.xsl"/>
 
 	<!-- ================================================ -->
@@ -22,11 +25,12 @@
 	<!-- ================================================ -->
 
 	<xsl:param name="collection"/>
+	<xsl:param name="data_base"/>
+	<xsl:param name="environment">production</xsl:param>
+	<xsl:param name="media_base"/>
 	<xsl:param name="date"/>
-	<xsl:param name="string"/>
-	<xsl:param name="site_location"/><!-- will be lassed in from config.yml -->
-	<xsl:param name="file_location"/><!-- will be lassed in from config.yml -->
-	<xsl:param name="slug"/><!-- will be lassed in from config.yml -->
+	<xsl:param name="slug"/>
+	<xsl:param name="site_location"/>
 	
 	<!-- ================================================ -->
 	<!--                    VARIABLES                     -->
@@ -151,28 +155,30 @@
 				
 		<!-- uri -->
 		
-		<field name="uri" update="add"><xsl:value-of select="$site_location"/><xsl:text>files/</xsl:text><xsl:value-of select="$filenamepart"/>.html</field>
-		
+		<field name="uri" update="add"><xsl:value-of select="$site_location"/><xsl:text>/files/</xsl:text><xsl:value-of select="$filenamepart"/>.html</field>
+
+		<!-- uriHTML -->
+		<field name="uriHTML" update="add">
+			<xsl:value-of select="$data_base"/>
+			<xsl:text>/data/</xsl:text>
+			<xsl:value-of select="$collection"/>
+			<xsl:text>/output/</xsl:text>
+			<xsl:value-of select="$environment"/>
+			<xsl:text>/html/</xsl:text>
+			<xsl:value-of select="$filenamepart"/>
+			<xsl:text>.html</xsl:text>
+		</field>
+
 		<!-- uriXML -->
-		
 		<field name="uriXML" update="add">
-			<xsl:value-of select="$file_location"/>
-			<xsl:value-of select="$slug"/>
+			<xsl:value-of select="$data_base"/>
+			<xsl:text>/data/</xsl:text>
+			<xsl:value-of select="$collection"/>
 			<xsl:text>/tei/</xsl:text>
 			<xsl:value-of select="$filenamepart"/>
 			<xsl:text>.xml</xsl:text>
 		</field>
-		
-		<!-- uriHTML -->
-		
-		<field name="uriHTML" update="add">
-			<xsl:value-of select="$file_location"/>
-			<xsl:value-of select="$slug"/>
-			<xsl:text>/output/html-generated/</xsl:text>
-			<xsl:value-of select="$filenamepart"/>
-			<xsl:text>.html</xsl:text>
-		</field>
-		
+
 		<!-- dataType -->
 		
 		<field name="dataType" update="add"> 
