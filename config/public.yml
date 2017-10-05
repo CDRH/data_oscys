@@ -1,0 +1,25 @@
+#####################################
+#      CONFIGURATION FOR OSCYS      #
+#####################################
+
+default:
+  es_type: oscys
+  # es_type: oscys
+  solr_core: api_oscys
+  tei_solr_xsl: collections/oscys/scripts/solr_transform_tei.xsl
+  tei_html_xsl: collections/oscys/scripts/tei.p5.xsl
+
+  data_base: https://cdrhmedia.unl.edu
+  media_base: https://cdrhmedia.unl.edu
+  variables_html:
+    image_large: 1500
+    image_thumb: 150
+    slug: oscys
+  variables_solr:
+    site_location: http://earlywashingtondc.org
+
+development:
+  data_base: https://cdrhdev1.unl.edu/media
+
+production_emergency:
+  solr_core: api_oscys_emergency
