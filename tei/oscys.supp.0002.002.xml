@@ -70,29 +70,29 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people"> 
-<term xml:id="per.000281">Bennett, James D.</term><!-- need to add full name to personography file -->
-<term>Blake, James Heighe, 1768-1819</term>
-<term>Bridgett</term>
+<term xml:id="per.000281">Bennett, James D.</term>
+<term xml:id="per.004841">Blake, James Heighe, 1768-1819</term>
+<term xml:id="per.004842">Bridgett</term>
 <term xml:id="per.000279">Brown, Mary Eliza</term>
 <term xml:id="per.000280">Brown, Rosanna</term>
-<term>Carter, James</term>
-<term>Chatten, John</term>
-<term>Dinah</term>
-<term>Freeman</term>
-<term>Isaac</term>
+<term xml:id="per.004843">Carter, James</term>
+<term xml:id="per.004844">Chatten, John</term>
+<term xml:id="per.004845">Dinah</term>
+<term xml:id="per.004846">Freeman</term>
+<term xml:id="per.004847">Isaac</term>
 <term xml:id="per.000278">Miller, George</term>
-<term>Nicks, Y. A.</term>
+<term xml:id="per.004848">Nicks, Y. A.</term>
 <term xml:id="per.000282">Parker, John</term>
-<term>Pendleton, Aldridge</term>
-<term>Randolph, John, 1773-1833</term>
-<term>Smith, Bennett</term>
-<term>Thomas, Joseph</term>
-<term>Thompson, William</term>
+<term xml:id="per.004849">Pendleton, Aldridge</term>
+<term xml:id="per.004850">Randolph, John, 1773-1833</term>
+<term xml:id="per.004851">Smith, Bennett</term>
+<term xml:id="per.004852">Thomas, Joseph</term>
+<term xml:id="per.004853">Thompson, William</term>
 <term xml:id="per.000275">Torrey, Jesse, active 1787-1834</term>
-<term>Van Hook</term>
-<term>Wells</term>
+<term xml:id="per.004854">Van Hook</term>
+<term xml:id="per.004855">Wells</term>
 <term xml:id="per.000831">Williams, Ann</term>
-<term>Wilson, Robert B.</term>
+<term xml:id="per.004856">Wilson, Robert B.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -121,7 +121,8 @@
             
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>        
+<change when="2017-12-12" who="#kln">added xml:ids</change>     
 <change when="2017-12-11" who="#kln">transcribed, encoded</change>
 </revisionDesc>
 
