@@ -772,6 +772,7 @@ This file was compiled from information found in
 <sex>female</sex>
 <trait type="color" when="1792-07-28" source="http://earlywashingtondc.org/doc/oscys.mdcase.0001.004"><ab>black</ab></trait>
 <socecStatus when="1792-07-28" source="http://earlywashingtondc.org/doc/oscys.mdcase.0001.004">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
 </person>
 
 <person xml:id="per.000067" source="http://earlywashingtondc.org/doc/oscys.case.0011.005">
@@ -883,7 +884,8 @@ This file was compiled from information found in
 <persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Simon</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab>negro</ab></trait>
-<socecStatus>free</socecStatus>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
 </person>
 
 <!-- oscys.case.0011.010 end -->
@@ -14112,10 +14114,11 @@ This file was compiled from information found in
 
 <person xml:id="per.001479" source="http://earlywashingtondc.org/doc/oscys.mdcase.0001.002">
 <persName type="display">Queen, Gervais</persName>
-<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Gervais</forename></persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Gervais</forename> <addName type="first" subtype="alternate">Jarvis</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus when="1794-05-21">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
 </person>
 
 <person xml:id="per.001480" source="http://earlywashingtondc.org/doc/oscys.mdcase.0001.002">
@@ -14124,6 +14127,7 @@ This file was compiled from information found in
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus when="1794-05-21">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
 </person>
 
 <person xml:id="per.001481" source="http://earlywashingtondc.org/doc/oscys.mdcase.0001.002">
@@ -14132,6 +14136,7 @@ This file was compiled from information found in
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus when="1794-05-21">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
 </person>
 
 <person xml:id="per.001482" source="http://earlywashingtondc.org/doc/oscys.mdcase.0001.002">
@@ -14163,6 +14168,7 @@ This file was compiled from information found in
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus when="1794-05-21">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
 <note>Grandchild of Mary Queen (per.000068).</note>
 </person>
 
@@ -45227,7 +45233,9 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- start oscys.supp.0002.005 -->
 
-<person xml:id="per.004861" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
+<!-- combined with oscys.supp.0002.003 -->
+
+<person xml:id="per.004861" source="http://earlywashingtondc.org/doc/oscys.supp.0002.003">
 <persName type="display">May</persName>
 <persName type="full"> <surname>May</surname></persName>
 <sex>male</sex>
@@ -45236,7 +45244,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <note>First name unknown.</note>
 </person>
 
-<person xml:id="per.004862" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
+<person xml:id="per.004862" source="http://earlywashingtondc.org/doc/oscys.supp.0002.003">
 <persName type="display">Poor, Jr., Joseph</persName>
 <persName type="full"> <surname>Poor</surname>, <forename type="first" full="yes">Joseph</forename> <genName>Junior</genName></persName>
 <sex>male</sex>
@@ -45244,7 +45252,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <residence>F Street, Washington (D.C.)</residence>
 </person>
 
-<person xml:id="per.004863" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
+<person xml:id="per.004863" source="http://earlywashingtondc.org/doc/oscys.supp.0002.003">
 <persName type="display">Robertson, William</persName>
 <persName type="full"> <surname>Roberson</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
@@ -45252,7 +45260,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <residence>Georgetown (Washington, D.C.)</residence>
 </person>
 
-<person xml:id="per.004864" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
+<person xml:id="per.004864" source="http://earlywashingtondc.org/doc/oscys.supp.0002.003">
 <persName type="display">Torrant, Thomas</persName>
 <persName type="full"> <surname>Torrant</surname>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex>male</sex>
@@ -45262,9 +45270,9 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- end oscys.supp.0002.005 -->
 
-<!-- start oscys.supp.0002.006 -->
+<!-- start oscys.supp.0002.005 -->
 
-<person xml:id="per.004865" source="http://earlywashingtondc.org/doc/oscys.supp.0002.006">
+<person xml:id="per.004865" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
 <persName type="display" source="#viaf">Goldsborough, Charles, 1765-1834</persName>
 <persName type="full"> <surname>Goldsborough</surname>, <forename type="first" full="yes">Charles</forename></persName>
 <sex>male</sex>
@@ -45275,7 +45283,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <idno>http://viaf.org/viaf/75456284</idno>
 </person>
 
-<person xml:id="per.004866" source="http://earlywashingtondc.org/doc/oscys.supp.0002.006">
+<person xml:id="per.004866" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
 <persName type="display" source="#viaf">Hopkinson, Joseph, 1770-1842</persName>
 <persName type="full"> <surname>Hopkinson</surname>, <forename type="first" full="yes">Joseph</forename></persName>
 <sex>male</sex>
@@ -45286,7 +45294,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <idno>http://viaf.org/viaf/30998913</idno>
 </person>
 
-<person xml:id="per.004867" source="http://earlywashingtondc.org/doc/oscys.supp.0002.006">
+<person xml:id="per.004867" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
 <persName type="display">Kerr, John</persName>
 <persName type="full"> <surname>Kerr</surname>, <forename type="first" full="yes">John</forename></persName>
 <sex>male</sex>
@@ -45294,7 +45302,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <occupation>Member of the U.S. House of Representatives</occupation>
 </person>
 
-<person xml:id="per.004868" source="http://earlywashingtondc.org/doc/oscys.supp.0002.006">
+<person xml:id="per.004868" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
 <persName type="display">Myrant, William</persName>
 <persName type="full"> <surname>Myrant</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
@@ -45302,7 +45310,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <occupation>Member of the U.S. House of Representatives</occupation>
 </person>
 
-<person xml:id="per.004869" source="http://earlywashingtondc.org/doc/oscys.supp.0002.006">
+<person xml:id="per.004869" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
 <persName type="display" source="#viaf">Park, Mungo, 1771-1806</persName>
 <persName type="full"> <surname>Park</surname>, <forename type="first" full="yes">Mungo</forename></persName>
 <sex>male</sex>
@@ -45313,7 +45321,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <idno>http://viaf.org/viaf/106963836</idno>
 </person>
 
-<person xml:id="per.004870" source="http://earlywashingtondc.org/doc/oscys.supp.0002.006">
+<person xml:id="per.004870" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
 <persName type="display" source="#viaf">Tucker, Henry St. George, 1780-1848</persName>
 <persName type="full"> <surname>Tucker</surname>, <forename type="first" full="yes">Henry</forename> <forename type="middle" full="yes">St. George</forename></persName>
 <sex>male</sex>
@@ -45324,7 +45332,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <idno>http://viaf.org/viaf/26066970</idno>
 </person>
 
-<person xml:id="per.004871" source="http://earlywashingtondc.org/doc/oscys.supp.0002.006">
+<person xml:id="per.004871" source="http://earlywashingtondc.org/doc/oscys.supp.0002.005">
 <persName type="display">Wright, Robert</persName>
 <persName type="full"> <surname>Wright</surname>, <forename type="first" full="yes">Robert</forename></persName>
 <sex>male</sex>
@@ -45332,7 +45340,157 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <occupation>Member of the U.S. House of Representatives</occupation>
 </person>
 
-<!-- end oscys.supp.0002.006 -->
+<!-- end oscys.supp.0002.005 -->
+
+<!-- begin oscys.mdcase.0009.001 -->
+
+<person xml:id="per.004872" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Betty</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Betty</forename> <addName type="first" subtype="alternate">Belly</addName></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<socecStatus when="1796-04-15">free</socecStatus>
+</person>
+
+<person xml:id="per.004873" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Sally</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Sally</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004874" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Phillis</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Phillis</forename> <addName type="first" subtype="alternate">Philis</addName></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004875" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Billy</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Billy</forename><addName type="first" subtype="alternate">Billey</addName></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004876" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, John</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004877" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Thomas</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Thomas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004878" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Bill</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Bill</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004879" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Kesiah</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Kesiah</forename> <addName type="first" subtype="alternative">Hezekiah</addName></persName>
+<sex>unknown</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004880" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Nicholas</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Nicholas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004881" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Bet</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Bet</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004882" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Charity</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Charity</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004883" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Winifred</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Winifred</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004884" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Priscilla</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Priscilla</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004885" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Lewis</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Lewis</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004886" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Sucky</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Sucky</forename> <addName type="first" subtype="alternate">Suckey</addName></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<person xml:id="per.004887" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">
+<persName type="display">Queen, Nan</persName>
+<persName type="full"> <surname>Queen</surname>, <forename type="first" full="yes">Nan</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">enslaved</socecStatus>
+<socecStatus when="1796-04-15" source="http://earlywashingtondc.org/doc/oscys.mdcase.0009.001">free</socecStatus>
+</person>
+
+<!-- end oscys.mdcase.0009.001 -->
+
+    <!-- no unique people in oscys.mdcase.0009.002 -->
 
 <!--
 

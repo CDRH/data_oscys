@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0009.002">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Queens v. John Ashton. Docket</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2017</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0009.002</idno>
+<idno type="case"></idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Docket</title>
+<date when="1796-04">April 1796</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>Prince George's County Court (Docket)</collection>
+<idno>MSA C1203-43</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Docket</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1796-04">April 1796</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.004374">Leeke, Joseph</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Verdict for Plaintiff</term>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson type="oscys.caseid.0485">
+<person role="petitioner" xml:id="per.00146">
+<persName>Phillis Queen</persName>
+</person>
+<person role="defendant" xml:id="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0486">
+<person role="petitioner" xml:id="per.004886">
+<persName>Sucky Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0487">
+<person role="petitioner" xml:id="per.004872">
+<persName>Betty Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0488">
+<person role="petitioner" xml:id="per.001479">
+<persName>Jarvis Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0489">
+<person role="petitioner" xml:id="per.001480">
+<persName>Proteus Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0490">
+<person role="petitioner" xml:id="per.001485">
+<persName>Mary Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0491">
+<person role="petitioner" xml:id="per.004873">
+<persName>Sally Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0492">
+<person role="petitioner" xml:id="per.004874">
+<persName>Philis Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0493">
+<person role="petitioner" xml:id="per.004875">
+<persName>Billy Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0494">
+<person role="petitioner" xml:id="per.004876">
+<persName>John Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0495">
+<person role="petitioner" xml:id="per.004877">
+<persName>Thomas Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0496">
+<person role="petitioner" xml:id="per.004878">
+<persName>Bill Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0497">
+<person role="petitioner" xml:id="per.004879">
+<persName>Kesiah Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0498">
+<person role="petitioner" xml:id="per.004880">
+<persName>Nicholas Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0499">
+<person role="petitioner" xml:id="per.004881">
+<persName>Bet Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0500">
+<person role="petitioner" xml:id="per.004882">
+<persName>Charity Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0501">
+<person role="petitioner" xml:id="per.004883">
+<persName>Winifred Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0502">
+<person role="petitioner" xml:id="per.004884">
+<persName>Priscilla Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0503">
+<person role="petitioner" xml:id="per.000076">
+<persName>Simon Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0504">
+<person role="petitioner" xml:id="per.004887">
+<persName>Nan Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listPerson type="oscys.caseid.0505">
+<person role="petitioner" xml:id="per.004885">
+<persName>Lewis Queen</persName>
+</person>
+<person role="defendant" corresp="per.000215">
+<persName>Ashton, John</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.004369">
+<persName>Belt, Levin</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001973">
+<persName>Dorsey, Walter</persName>
+</person>
+<person role="attorney_defendant" corresp="per.001543">
+<persName>Duckett, Allen Bowie</persName>
+</person>
+<person role="attorney_defendant" corresp="per.000183">
+<persName>Kilty, William, 1757-1821</persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. Prince George's County Court</orgName>
+<placeName>Upper Marlboro (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2017-12" who="#kln">transcribed and encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.mdcase.0009.002.001.jpg"/>
+
+<table>
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    21<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        Apl Co. 1794<lb/>
+        Agree filed<lb/>
+        3 Depn filed
+        </cell>
+            <cell>
+            Phillis Queen<lb/>
+            a<lb/>
+            John Ashton (Recog Sep Co 1794<lb/>
+            Co: 815 Tobo.<lb/>
+            Sub. 58 84 109 P.<lb/>
+            127<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Joseph Leekes Depo filed Feby 23d 1796<lb/>
+                Trial <unclear reason="illegible">P</unclear> Minute Book.<lb/>
+                Verdict for Plff<lb/>
+                Judgment that the Petitioner be free (on verdict) with Costs<lb/>
+                (signed Apl 15)<lb/>
+                Joseph Leekes Depo <unclear reason="illegible">cops</unclear> for for WK
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    22<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        Apl Co. 1794
+        </cell>
+            <cell>
+            Sucky Queen &amp; daughter<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo. <lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;co<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    23<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Betty Queen &amp; others<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp; Costs<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    24<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Jarvis Queen<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;c<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+
+<pb xml:id="p002" facs="oscys.mdcase.0009.002.002.jpg"/>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    25<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        Apl Co. 1794
+        </cell>
+            <cell>
+            Proteus Queen<lb/>
+            a<lb/>
+            John Ashton (Recog Septr Co. 1794<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                Peto for freedom<lb/>
+                Judgment confessed for freedom &amp;ca<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    26<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Mary Queen &amp; others<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;ca<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    27<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Sally Queen &amp; others<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;ca<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    28<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Philis Queen &amp; others<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom and costs<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    29<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Billey Queen &amp; others<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom and costs<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    30<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            John Queen &amp; others<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;co<lb/>
+                copy deld<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    31<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Thomas Queen &amp; others<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;co<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    32<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Bill Queen &amp; others<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;co<lb/>
+                copy deld<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<pb xml:id="p003" facs="oscys.mdcase.0009.002.003.jpg"/>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    33<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        Apl Co. 1794
+        </cell>
+            <cell>
+            Kesiah Queen &amp; son<lb/>
+            a<lb/>
+            John Ashton &#160; &#160; Recog Sep Co. 1794<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                Peto for freedom<lb/>
+                Judgment confessed for freedom &amp;co<lb/>
+                signed Apl 15
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    34<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Nicholas Queen<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;co<lb/>
+                (copy deld)<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    35<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            <persName type="petitioner">Bet Queen</persName><lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;co<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    36<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Charity Queen &amp; son<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;ca<lb/>
+                (signed April 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    37<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Winifred Queen<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;ca<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    38<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Priscilla Queen<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;co<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    39<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Simon Queen<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd<lb/>
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;co<lb/>
+                (signed Apl 15)
+                </cell>
+</row>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    40<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        id
+        </cell>
+            <cell>
+            Nan Queen &amp; others<lb/>
+            a<lb/>
+            Same &#160; &#160; Recog<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                id<lb/>
+                Judgment confessed for freedom &amp;ca<lb/>
+                signed Apl 15
+                </cell>
+</row>
+
+<pb xml:id="p004" facs="oscys.mdcase.0009.002.004.jpg"/>
+
+<row>
+    <cell>
+    GD &#160; Key &#160; LB<lb/>
+    41<lb/>
+    WK &#160; WD &#160; ABD
+    </cell>
+        <cell>
+        Apl Co. 1794
+        </cell>
+            <cell>
+            Lewis Queen<lb/>
+            a<lb/>
+            John Ashton &#160; &#160; (Recog Sep Co. 1794<lb/>
+            Co: 299 Tobo.<lb/>
+            chd
+            </cell>
+                <cell>
+                Petition for freedom<lb/>
+                Judgment confessed for freedom &amp;ca<lb/>
+                (signed April 15)
+                </cell>
+</row>
+
+</table>
+
+</div1>
+
+</body>
+</text>
+</TEI>
