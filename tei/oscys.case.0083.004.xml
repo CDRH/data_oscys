@@ -3,7 +3,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>John Battaile v. Thomas Miller. Certificate of Service</title>
+<title>John Battaile v. Thomas Miller. Notice of Deposition</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Muñoz, Trevor" xml:id="tm">Trevor Muñoz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
@@ -48,7 +48,7 @@
 
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Certificate of Service</title>
+<title level="m" type="main">Notice of Deposition</title>
 <date when="1827-04-28">April 28, 1827</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -69,7 +69,7 @@
 </keywords>
 
 <keywords scheme="original" n="subcategory">
-<term>Certificate</term>
+<term>Notice</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -122,11 +122,12 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2018-01-09" who="#kln">combined with document .007</change>
 <change when="2017-01-19" who="#lkw">added xml:id for Thomas Miller, Jr.; transcription</change>
 <change when="2016-08-08" who="#kln">edited transcription; removed Jr. from defendant, added to people list</change>
 <change when="2016-05-05" who="#smb">reviewed document</change>
 <change when="2015-11-18" who="#snc">added idno</change>
-<change when="2014-12-15" who="#lkw">added xml:ids</change>
+<change when="2014-12-15" who="#lkw">added xml:ids; changed Stoker to Stokes in people</change>
 <change when="2014-10-10" who="#kln">converted to new TEI</change>
 <change when="2013-08-13" who="#kln">added Jones forename</change>
 <change when="2013-04-26" who="#kln">added attorneys to header</change>
@@ -141,6 +142,21 @@
 <div1 type="case">
 
 <pb xml:id="p001" facs="oscys.case.0083.004.001.jpg"/>
+
+<div2 type="body">
+
+<p>Mayors Office Washington City<lb/> 
+District Columbia 28th April 1827</p>
+
+<p>To John Battaile</p>
+
+<p>Take notice that I shall on Tuesday next the first day of May 1827 at 12 Oclock AM at the Office of the Mayor of the City of Washington in the City Hall proceed to take the deposition of Charles A Stokes who is about to go out of the District of Columbia to a greater distance than one hundred miles, to be read in evidence for Thomas Miller in a cause of petition of freedom in which you John Battaile are the petitioner against said Thomas Miller pending in the Circuit Court of the District of Columbia for the County of Washington at which time &amp; place you are <gap extent="one word" reason="illegible"/> to be present or appear by counsel at the taking of the same &amp; to put interrogatories if you or your attorney shall think fit</p>
+
+<p>Roger C Weightman<lb/>Mayor</p>
+
+</div2>
+
+<pb xml:id="p002" facs="oscys.case.0083.004.002.jpg"/>
 
 <div2 type="caption">
 

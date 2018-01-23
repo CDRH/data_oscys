@@ -3,7 +3,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James Hutton v. William Belt. Petition for Freedom</title>
+<title>James Hutton v. William J. Belt. Petition for Freedom</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
 <principal n="Muñoz, Trevor" xml:id="tm">Trevor Muñoz</principal>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
@@ -85,7 +85,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.000003">&gt;Brent, William, 1774-1848</term>
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -101,7 +101,7 @@
 <persName>Hutton, James</persName>
 </person>
 <person role="defendant" xml:id="per.000560">
-<persName>Belt, William</persName>
+<persName>Belt, William J.</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.000476">
 <persName>Dunlop, James, 1793-</persName>
@@ -124,6 +124,7 @@
 </profileDesc>  
 
 <revisionDesc>
+<change when="2018-01-23" who="#kln">added middle initial to defendant</change>
 <change when="2016-03-08" who="#smb">reviewed document</change>
 <change when="2015-11-13" who="#snc">added idno</change>
 <change when="2014-12-01" who="#lkw">added xml:ids</change>
