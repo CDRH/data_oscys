@@ -90,11 +90,45 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term/>
+<term xml:id="per.004950">Batson, John</term>
+<term xml:id="per.004951">Booth, Catharine</term>
+<term xml:id="per.004957">Booth, William</term>
+<term xml:id="per.004942">Brown, Edward</term>
+<term xml:id="per.004944">Chew, Sarah</term>
+<term xml:id="per.004963">Esther</term>
+<term xml:id="per.004959">George</term>
+<term xml:id="per.001493">Gwinn, John</term>
+<term xml:id="per.004968">Hall, Elisha</term>
+<term xml:id="per.004965">Hall, Faith</term>
+<term xml:id="per.004953">Harrsion</term>
+<term xml:id="per.004952">Harrison, Richard</term>
+<term xml:id="per.004947">Harrison, Robert Hanson, 1745-1790</term>
+<term xml:id="per.004746">Harrison, Samuel, Jr.</term>
+<term xml:id="per.004974">Harwood, Richard, Jr.</term>
+<term xml:id="per.004949">Howard, Benjamin</term>
+<term xml:id="per.004954">Jaffey</term>
+<term xml:id="per.004955">Jeffery</term>
+<term xml:id="per.004956">Judah</term>
+<term xml:id="per.004945">Joys, May</term>
+<term xml:id="per.004960">King, Eleanor</term>
+<term xml:id="per.004969">Lane, Betty</term>
+<term xml:id="per.004966">Lane, Joseph</term>
+<term xml:id="per.004962">Lawrence, George</term>
+<term xml:id="per.004943">Mumford, Joseph</term>
+<term xml:id="per.004961">Murray, Henry</term>
+<term xml:id="per.004958">Taylar, Alice</term>
+<term xml:id="per.001477">Quynn, Allen</term>
+<term xml:id="per.004970">Varnell, Kit</term>
+<term xml:id="per.004964">Varnell, Lucy</term>
+<term xml:id="per.004967">Wells, John</term>
+<term xml:id="per.004946">Wilson, Henry, Sr.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term/>
+<term>Anne Arundel County (Md.)</term>
+<term>Baltimore County (Md.)</term>
+<term>Calvert County (Md.)</term>
+<term>Montgomery County (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">
@@ -106,25 +140,31 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson type="oscys.caseid.0510">
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004932">
 <persName>Booth, Richard</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004933">
 <persName>Weems, David</persName>
 </person>
-<person role="attorney_petitioner">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.002102">
+<persName>Chase, Jeremiah Townley, 1748-1828</persName>
 </person>
-<person role="attorney_defendant">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.004375">
+<persName>Ridgely, Henry</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.004948">
+<persName>Sprigg, Richard, Jr.</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
 </person>
 </listPerson>
 
 <listPerson type="oscys.caseid.0511">
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004934">
 <persName>Booth, Edward</persName>
 </person>
-<person role="defendant">
+<person role="defendant" corresp="per.004933">
 <persName>Weems, David</persName>
 </person>
 <person role="attorney_petitioner">
@@ -136,10 +176,10 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </listPerson>
 
 <listPerson type="oscys.caseid.0512">
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004935">
 <persName>Booth, Thomas</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004936">
 <persName>Leveal, John</persName>
 </person>
 <person role="attorney_petitioner">
@@ -151,10 +191,10 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </listPerson>
 
 <listPerson type="oscys.caseid.0513">
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004937">
 <persName>Booth, Anthony</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004938">
 <persName>Owens, Benjamin</persName>
 </person>
 <person role="attorney_petitioner">
@@ -166,10 +206,10 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </listPerson>
 
 <listPerson type="oscys.caseid.0514">
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004939">
 <persName>Booth, Ned</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.004940">
 <persName>Lawrence, John</persName>
 </person>
 <person role="attorney_petitioner">
@@ -181,10 +221,10 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </listPerson>
 
 <listPerson type="oscys.caseid.0515">
-<person role="petitioner">
+<person role="petitioner" xml:id="per.004941">
 <persName>Booth, Edward</persName>
 </person>
-<person role="defendant">
+<person role="defendant" corresp="per.004933">
 <persName>Weems, David</persName>
 </person>
 <person role="attorney_petitioner">
@@ -205,7 +245,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
-<change when="2018-03-07" who="#kln">transcribed and encoded</change>
+<change when="2018-03" who="#kln">transcribed and encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -218,9 +258,136 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <pb xml:id="p020" facs="oscys.mdcase.0011.001.001.jpg"/>
 
+<div2 type="caption">
+
+<p>Richard Booth<lb/>
+against<lb/>
+David Weems</p>
+
+</div2>
+
 <div2 type="body">
 
-<p></p>
+<p>Be it remembered that heretofore towit on the Second Tuesday of May being the twelfth day of the Same Month Anno Domini Seventeen hundred and eighty nine Richard Booth by Jeremiah Townley Chase his attorney filed in our General Court the following petition for freedom towit.</p>
+
+<p>To the Honourable the General Court of Maryland: The humble Petition of Richard Booth of Ann Arundel County Sheweth.</p>
+
+<p>That your petitioner is descended from a free woman and is unjustly deprived of his Liberty by David Weems of said County who holds and claims your petitioner as a Slave. Your petitioner Therefore most humbly prays that your honours will take his Case into consideration and direct a Subpoena to issue for the said David Weems to answer your petitioners complaint returnable to this Court: and that the following persons may be summoned as Witnesses for your petitioner towit Edward Brown in Montgomery County Joseph Mumford Calvert County, Sarah Chew and May Joys of Ann Arundel County and Henry Wilson Senior of Baltimore County.</p>
+
+<p>J Toy Chase for Petr.</p>
+
+<p>Which being read to the court, and at the prayer of the said Richard Booth by Jeremiah Townley Chase his attorney Summons is thereupon granted him for the said David Weems to answer the petition aforesaid returnable here at the next Court: And it is ordered by the Court here that the said David Weems of Ann Arundel County do not remove out of <fw type="catch">(this)</fw>
+
+<pb xml:id="p021" facs="oscys.mdcase.0011.001.002.jpg"/>
+
+this State Negro Richard Booth the petitioner aforesaid nor obstruct him from attending this court from time to time in Support of his petition for freedom and in the mean time to feed, cloath and use the Said Petitioner well.</p>
+
+<p>And the aforesaid Richard Booth by Jeremiah Townley Chase his attorney aforesaid afterwards on the twenty ninth day of July Anno Domini Seventeen hundred and Eighty nine Sued out of our General Court the State of Marylands Summons directed to the Sheriff of Ann Arundel County in the Words and figures following towit.</p>
+
+<p>The State of Maryland Sst To the Sheriff of Ann Arundel County Greeting: We command you that you Summon David Weems late of Anne Arundel County, that all excuses and delays set aside he be and appear before the Judges of our General Court to be held at the City of Annapolis on the Second Tuesday of October next to answer the petition of Richard Booth preferred against him for Freedom. Hereof he is not to fail and fail not at your peril and have you then and there this Writ Witness the Honourable Robert Hanson Harrison Esquire Chief Judge of our Said Court the 26th day of June Anno Domini 1789.</p>
+
+<p>Issued the 29th July 1789.</p>
+
+<p>JTC John Gwinn Clk.</p>
+
+<p>At which Said Second Tuesday of October being the thirteenth day of the same month Anno Domini Seventeen hundred and Eighty nine and the day of the return of the aforegoing Writ, comes again here into our General Court the aforesaid Richard Booth by Richard Sprigg Junior his Attorney, and the Sheriff of Ann Arundel County to whom the Said aforegoing Writ was made and directed likewise comes and makes return thereof to the court here thus endorsed towit.</p>
+
+<p>Summ'd Ben: Howard, Sheriff</p>
+
+<p>And the Said David Weems by Gabriel Duvall his attorney comes and defends the complaint aforesaid when and where the said Court shall take the same into consideration But because the Court here are not advised to give their Judgment of and upon the premises Day therefore is given to the parties aforesaid untill the second Tuesday of May next to hear their Judgment of and upon the premises because the Court here thereof not yet &amp;ca</p>
+
+<p>At which Said Second Tuesday of May being the Eleventh day of the Same month Anno Domini Seventeen hundred and ninety Comes again here into our General Court as well the aforesaid Richard Booth by Richard Sprigg Junior his attorney aforesaid as the aforesaid David Weems by Gabriel Duvall his attorney <fw type="catch">(aforesaid)</fw>
+
+<pb xml:id="p022" facs="oscys.mdcase.0011.001.003.jpg"/>
+
+aforesaid; And the aforesaid David Weems by his attorney aforesaid as before defends the Complaint aforesaid when and where &amp;ca But because the court here are not advised to give their Judgment of and upon the premises day therefore is further given to the parties aforesaid untill the Second Tuesday of October next to hear their Judgment of and upon the premises because the court here thereof are not yet &amp;ca</p>
+
+<p>At which Said Second Tuesday of October being the twelfth day of the Same month Anno Domini Seventeen hundred and ninety comes again here into our General Court as well the aforesaid Richard Booth by his attorney aforesaid as the aforesaid David Weems by his attorney aforesaid: Whereupon by and with the consent of the parties aforesaid and their attornies aforesaid the aforesaid David Weems by Gabriel Duvall his attorney aforesaid files in court here the following Deposition which is by the Said parties and their attornies agreed to be read in Evidence on the hearing of the petition aforesaid and which Deposition is in these words and figures towit.</p>
+
+<p>The Deposition of John Batson of Anne Arundel County aged 86 years taken September 26th 1789 before Samuel Harrison Junior one of the Justices for the County aforesaid. This Deponent being duly Sworn deposeth as follows that he knew a negro woman called Kate about fifty years ago that She the Said Kate told him that She was left free by her Master Rd Harrison that her late Mrs Wife to Said Rd Harrison on her death Bed had requested her Master to Set her free, that he the Said Richard Harrison told his wife he could not do it at that time, but that he would leave her the aforesaid Kate free at his Death; and this Deponent further says that he knew three Children the aforesaid Kate had before the death of her aforesaid Master Rd Harrison and that they were called Jaffey, Jeffery and Juda, that these three were kept as Slaves and that he never heard they ever claimed their freedom; he this Deponent also Says that he knew Will Boothe Son to the aforesaid Kate, and that the Said Kate told him this deponent that the aforesaid Will Boothe was left free by her Master Richard Harrison at the age of thirty one; and this Deponent further Says that he knows of no children the aforesaid Kate had after She was free but George and Ned Brown.</p>
+
+<p>John Batson<lb/>
+his I mark</p>
+
+<p>And the aforesaid David Weems by Gabriel Duvall his attorney aforesaid as before defends the complaint aforesaid when and where the Said Court &amp;c But because the court here are <fw type="catch">(not)</fw>
+
+<pb xml:id="p023" facs="oscys.mdcase.0011.001.004.jpg"/>
+
+not yet advised to give their Judgment of and upon the premises day therefore is further given to the parties aforesaid untill the Second Tuesday of May next to hear their Judgment of and upon the premises because the court here thereof are not yet &amp;ca</p>
+
+<p>At which Said Second Tuesday of May being the tenth day of the Same Month Anno Domini Seventeen hundred and ninety one Comes again here into our General Court as well the aforesaid Richard Booth by Richard Sprigg Junior and Samuel Chase his attornies as the said David Weems by Gabriel Duvall his attorney aforesaid: whereupon it is agreed upon by and between the parties aforesaid with the consent of their Said attornies that the Deposition of Eleanor King be taken in this Cause before any Magistrate of Calvert County on three days notice being given of the taking thereof to the adverse party taking the Same, and that the Deposition so taken be read in evidence on the hearing of the petition aforesaid: And afterwards towit on this Same Term that is to Say the Third day of June in the year last aforesaid as well the aforesaid Richard Booth by his attornies aforesaid as the aforesaid David Weems by his attorney aforesaid file in Court here the following Depositions towit.</p>
+
+<p>The Deposition of Eleanor King of Calvert County aged about Sixty two Years, this Deponent being Sworn on the Holy Evangels of Almighty God Saith. That Catharine Booth who the petitioner Says was his great Grand Mother lived with her Father Henry Murray in Ann Arundel County Many Years, And that the Said Catharine was then a free woman She had no Children born While She lived with this deponent's Father but Says they were all born before; This Deponent also was acquainted with William Booth the Eldest Child of Catharine Booth and he was a free Man. That Catharine Booth was a Mulatto Woman and had long black Straight hair; That She this deponent heard her Father Henry Murray frequently mention that the Mother of Catharine Booth was an English Woman and particularly once when the Said Catharine Booth being in Liquor cursed this Deponents Father and Said She did not value him for that She was as white as he and her mother was a Gentlewoman and this Deponents Father made answer that he knew She was a white woman but did not know if She was a Gentlewoman or not. That this Deponent knew a Daughter of Cath. Booth called Judah who was an Infant when Cath Booth came to live with this Deponents Father <fw type="catch">(and)</fw>
+
+<pb xml:id="p024" facs="oscys.mdcase.0011.001.005.jpg"/>
+
+and that Cath Booth Said She gave Judith to Mrs Laurence to bring up as She Cath Booth was Midwife employed very generally in the Neighbourhood and could not conveniently keep Judah. That She this Deponent was not acquired with and did not know Jaffy the Eldest Daughter of Cath Booth. The Deponent being asked whether She or Judah before mentioned was oldest? Says that She the Deponent was older than Judah and that Judah was very young and Sucked when Cate Booth came to live with the Deponents Father: The Deponent further Saith that Soon after old Cate Booth came to live with this Deponents Father and She thinks within a year her Son George worked there and was a lad: that old Cate lived with the Deponents Father about six or seven years: The Deponent further saith that She knew Ned Brown, one of the Sons of old Cate many years, and that George and Ned were free ever Since She knew them, She further Saith that many years ago She Saw Will Booth before mentioned, the oldest Son of old Cate and in conversation with him he told the Deponent that he had been at old George Lawrence to get his Sister Judah away from him but She was Such a fool She would not leave him and said that She had a Husband and Children there, and her Master and Mistress were very good to her, and She did not want to leave them; and further this Deponent Saith not.</p>
+
+<p>Sworn before me this 3d day of June 1791</p>
+
+<p>Allen Quynn</p>
+
+<p>Joseph Mumford aged about 66 or 67 years being Sworn on the Holy Evangels of Almighty God deposeth and Saith that he was acquainted with Cath Booth who was the Mother of Jaffy who was the Mother of Esther who was the Mother of Richard Booth the petitioner, and the Said Cath Booth was free all the time he was acquainted with her and That she was a bright Mulatto with long black Straight Hair; The Deponent also Saith that he has been informed by certain Lucy Varnell and Faith Hall that the Mother of the said Catharine Booth was a white woman and that he the Deponent knew William Booth who was the Eldest Son of Cath Booth and that he was free from 31 years of age. That he the Deponent also knew all the children of Cath Booth and that they were Born in the following order William, Jaffy, Jeoffry, Judah, George and Edward. That Jaffy was Black and <fw type="catch">(Judah)</fw>
+
+<pb xml:id="p025" facs="oscys.mdcase.0011.001.006.jpg"/>
+
+Judah Yellow; This Deponent being asked if he has heard that Cate Booth was a Slave to old Mr Harrison? answers that he has not heard that She was a Slave but he has understood that She was a Servant and Set free by Mr Harrison by his Will and he Saith he has heard old Cate Say that old Mr Harrison Set her free; This Deponent being asked if he knew Judah? Saith that he did know her and that She was older than him this Deponent, and that he has heard Cath Booth Say She gave Judah to old George Lawrence to bring up till She was of age. This Deponent being asked if he knew the age of William Booth Saith he knows not when he was born but that he this Deponent was between ten and fifteen years old when William Booth got free as well as he can recollect and that the said William Booth was a very yellow man with long Straight Hair and further this Deponent Saith not. Sworn before me this 3d June 1791.</p>
+
+<p>Allen Quynn.</p>
+
+<p>Edward Booth alias Edward Brown the Son of Cath Booth aged about 72 years being Sworn on the Holy Evangels of Almighty God, depseth and Saith Cath Booth had Six children, William, Jaffy, Jeoffry Judah George and Edward this Deponent. This Deponent being asked if Cath Booth ever told him that Judah was born after Mr Harrison death, Says She has told him So, and that as Soon as her month was up her Mistress Widow of Mr Harrison told her to take her child and go away, for you will be So old Serving for your Children that you wont be able to get a living being asked if he ever heard Cate Booth Say Mr Harrison Set her free? Saith he never did hear her Say So being also asked if he ever heard that Cath Booth Served Mr Harrison as a Slave? he answers that he never did hear So, but on the contrary that he this Deponent often heard that She Served Mr Harrison on account of her Children; and further this Deponent Saith not.</p>
+
+<p>Sworn before me this 3d June 1791. Allen Quynn.</p>
+
+<p>And the aforesaid David Weems by Gabriel Duvall his attorney aforesaid as before defends the complaint aforesaid when and where the said Court &amp;c But because the court here are not yet advised to give their Judgment of and upon the premises day there fore is further given to the parties aforesaid untill the Second Tuesday of October next to hear their Judgment of and upon the premises because the Court here thereof are not yet &amp;ca.</p>
+
+<p>At which Said Second Tuesday of October being the eleventh day of the Same month Anno Domini Seventeen hundred and ninety one comes again here into our General Court as well the aforesaid <fw type="catch">(Richard)</fw>
+
+<pb xml:id="p026" facs="oscys.mdcase.0011.001.007.jpg"/>
+
+Richard Booth by Richard Sprigg Junior and Henry Ridgely his attornies as the aforesaid David Weems by Gabriel Duvall his attorney aforesaid. And the Said Richard Booth by his attornies aforesaid with the consent of the aforesaid David Weems and his attorney aforesaid files in Court here the following Depositions towit</p>
+
+<p>Alice Taylar aged 76 years or thereabouts being first duly Sworn on the Holy Evangels of Almighty God deposeth and Saith that she knew Catharine Booth and that She was then free and when She the Deponent first knew her She was herself a Small Girl and Catharine Booth had then a young Child named George in her arms and was then free Catharine Booth was a yellow woman and had long Straight black hair tied upon the Top of her head and not curly like the Hair of a black person: This Deponent further Saith that She knew William Booth whom She knew to be the Eldest child of Cath Booth when She herself was about 16 or 17 years of age and he was then free: This Deponent being asked if She ever understood that Cath Booth was Set free by Mr Harrison? answers that She had not So understood; Being further asked if She ever heard in what manner William Booth got free? answers She had only heard him Say that thank God he had Served thirty one years, and was then out of his Servitude; This Deponent further Saith that She thinks to the best of her remembrance that She heard Joseph Lane who is Since deceased Say that Cath Booth was free born and further Saith that the Said Joseph Lane was one of the Grandsons of Richard Harrison commonly called King Harrison and that She knew the whole of said Harrisons family. That She this deponent was born and raised up in the neighbourhood of Said Harrisons and Lanes and her Father John Wells was once a Tenant under Some of them; Being asked if She had heard any thing of Kate Booth's Mother? She answers that She thinks She has heard old people Say but who She does not now remember. That her Mother was a white woman, and that it was the talk of the neighbourhood but She was So young and it was So long ago She does not remember who particularly talked of it; Being asked where Cath Booth lived by herself on Land of Elisha Hall: Being asked when She last Saw Cath Booth? answers it was about 20 years ago: Being asked if She ever heard her father John Wells Say any thing of Cath Booth's being free? Answers that She has heard her Father tell her (C Booth) <fw type="catch">(that)</fw>
+
+<pb xml:id="p027" facs="oscys.mdcase.0011.001.008.jpg"/>
+
+that She was a fool to Serve So long for her Children? Being asked if She ever heard any talk of Cath Booth's not being born of a white woman answers She never did hear any Such; Being asked if She knew Jaffy the Daughter of Cath Booth? Says She did, and Jaffy belonged to Betty Lane who intermarried with David Weems. and Jaffy after the Death of Betty Lane lived in a House by herself 5 or 6 miles from where Betty Lane lived, which was the place where old Kit Varnell lived: And further this Deponent Saith not.</p>
+
+<p>Sworn before me this 14th day of October 1791. Allen Quynn.</p>
+
+<p>And the aforesaid David Weems by Gabriel Duvall his attorney aforesaid as before defends the complaint aforesaid when and where the Said Court &amp;ca But because the court here are not yet advised to give their Judgment of and upon the premises, day therefore is further given to the parties aforesaid untill the Second Tuesday of May next to hear their Judgment of and upon the premises Because the court here thereof are not yet &amp;ca</p>
+
+<p>At which Said Second Tuesday of May being the Eighth day of the Same month Anno Domini Seventeen hundred and ninety two comes again here into our General Court as well the aforesaid Richard Booth by Richard Sprigg Junior and Henry Ridgely his attornies aforesaid as the aforesaid David Weems by Gabriel Duvall his attorney aforesaid; and for further evidence on the hearing of the petition and premises aforesaid as well the aforesaid Richard Booth by his attornies aforesaid as the aforesaid David Weems by his attorney aforesaid file in court here the following Depositions Will Inventory and Certificate towit.</p>
+
+<p>The Deposition of John Wood of Ann Arundel County aged about 62 years being Sworn on the Holy Evangels of Almighty God he Saith that he never heard untill lately that Cath Booth was Born free or that her mother was a free woman, but a certain Harrison Lane told him about 38 years ago that Cath Booth was Set free by her Master Richard Harrisons (commonly called King Harrison) Will. being asked if he knew Geoffry then Son of Kate B? answers he did know him and he lived with Harrison Lane when he this Deponent did about 38 years ago; and believes he was then about 40 years old from his looks; being further asked if said Geoffry ever claimed his Freedom? answers Harrison Lane told this Deponent Geoffry would sometimes <fw type="catch">(talk)</fw>
+
+<pb xml:id="p028" facs="oscys.mdcase.0011.001.009.jpg"/>
+
+talk of it when in Liquor and Say he ought to be free as well as his Brother William; Being asked what coloured Hair Kate Booth had? answers when he knew her her head was Grey and her hair Short and curly like a negroes. Being asked the colour of her Skin? answers She appeared like a dark mulatto certainly; Being asked if he ever heard any conversation about the mother of Kate B? answers he never did hear any. being asked if he knew Jaffy? answers he did not, nor did he know Judah. Being asked if he ever heard Kate Booth Say how She became free. answers he did not at any time hear her mention<del>e</del> the Subject; Being asked if Harrison Lane was a Grandson of Richard or King Harrison? answers he was and this Deponent understood he claimed Geoffry under his Grandfather's Will: Being asked where Kate lived when he knew her? answers near fishing creek; Being asked if he is any way interrested in the Event of this Petition by holding relations to the petitioners or otherwise? answers he is not. Being asked if he ever knew Kate in Servitude? answers he never did.</p>
+
+<p>John Wood.<lb/>
+his I mark</p>
+
+<p>Sworn before the Subscriber one of the Justices of Ann Arundel County this third day of May 1792. Saml Harrison</p>
+
+<p>On the Part of the Petitioner</p>
+
+<p>The Deposition of Mary McKinsey of Anne Arundel County, aged about fifty five years being duly Sworn on the Holy Evangels of Almighty God deposeth and Saith that She is no ways interrested in the Event of this petition either by holding any of the relations of the petitioner or otherwise or by being related to the Defendant: being asked if She ever knew of any application on the part of any of the Descendants of Kate Booth for freedom or any measure taken to prevent Such application? answered She never did. and that She never heard of their having any claim to freedom till Since this petition; being asked if there ever was any conversation concerning Kate or her children being free when She was present? answered in the negative; being asked if She ever heard any conversation respecting the Mother of Kate and between whom and what it was? answered in the negative; being asked how old Mr Harrison <fw type="catch">(commonly)</fw>
+
+<pb xml:id="p029" facs="oscys.mdcase.0011.001.010.jpg"/>
+
+commonly called King Harrison was when he died? answered She doth not. And further Saith not.</p>
+
+<p>Mary McKinsey<lb/>
+her M mark</p>
+
+<p>Taken this 20th day of May 1792. Before Richd Harwood Junior.</p>
+<!-- START ENCODING HERE -->
+<p>The Deposition, Elushington Gardner aged about Eighty Seven who being first Sworn on the Holy Evangels of Almighty God Saith that She knew old Kate Booth after She was free, and that She had two children after She was free the one called Ned and the other called George, that the Said Cate Booth had four Children before she got free, and that she has heard this generally in the Neighbourhood, but that She did not know all the Children of Kate, nor did she know Jaffey: Kate was a big Short Strong woman and was a pretty bright Mulatto and pretty long hair and She used to wear it tyed on the top of her head and fillet it up like other women; She further Saith that She has heard old Kate Say that her Master old Richard Harrison told her before his Death, that if She (Kate) would Serve his family Seven years after his Death that he would put her on the Records and that they Should not make her Serve any Longer and that this was the general talk of the neighbourhood; and She has also heard old Kate Say that Richard Harrison also told her that he would also put her Son on the records, and it was the General talk of the Neighbourhood: The Deponent further Saith that She has heard her Father John Wells who has been dead a long time many times and often tell Kate Boothe what a fool She was for Suffering herself to be got with child in Such a manner and making herself a Slave for it, that She might have been free long ago if he hand not bee for that, to which Cate Booth answered Yes, but She could not help it. She further Saith that She has heard the neighbours and people about Say that Esther was entitled to freedom; and She  further Saith that her Father John Wells always lived in the neighbourhood where Mr Harrison commonly called King Harrison lived, Being asked if she ever heard who Kate's Mother was? Answered She never did.</p>
+
+<p>Sworn to this ninth day of May 1792. Allen Quynn.</p>
+
+<p>The Deposition of Mary McKinsey of Anne Arundel County aged about fifty five years being duly Sworn on the Holy Evangels of Almighty God Deposeth and Saith, That she knows the Defendant, that She lived within two or three <fw type="catch">(miles)</fw></p>
 
 </div2>
 
