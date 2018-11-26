@@ -7,6 +7,7 @@ default:
   solr_core: api_oscys
   tei_solr_xsl: scripts/overrides/tei_to_solr.xsl
   tei_html_xsl: scripts/overrides/tei_to_html.xsl
+  threads: 20
 
   data_base: https://cdrhmedia.unl.edu
   media_base: https://cdrhmedia.unl.edu
