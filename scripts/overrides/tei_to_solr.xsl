@@ -582,7 +582,7 @@
 				<field name="relatedCaseData_ss" update="add"> 
 					<xsl:call-template name="JSON_Formatter">
 						<xsl:with-param name="json_label">
-							<xsl:variable name="caseDocID"><xsl:text>../tei/</xsl:text><xsl:value-of select="."/><xsl:text>.xml</xsl:text></xsl:variable>
+							<xsl:variable name="caseDocID"><xsl:text>../../source/tei/</xsl:text><xsl:value-of select="."/><xsl:text>.xml</xsl:text></xsl:variable>
 							<xsl:for-each select="document($caseDocID)">
 								<xsl:value-of select="//title"/>
 							</xsl:for-each>
@@ -615,7 +615,7 @@
 					<xsl:call-template name="JSON_Formatter">
 						<xsl:with-param name="json_label">
 							<!-- go to another document to get the case name -->
-							<xsl:variable name="caseDocID"><xsl:text>../tei/</xsl:text><xsl:value-of select="."/><xsl:text>.xml</xsl:text></xsl:variable>
+							<xsl:variable name="caseDocID"><xsl:text>../../source/tei/</xsl:text><xsl:value-of select="."/><xsl:text>.xml</xsl:text></xsl:variable>
 							<xsl:if test="document($caseDocID)">
 								<xsl:for-each select="document($caseDocID)">
 									<xsl:value-of select="//title"/>
