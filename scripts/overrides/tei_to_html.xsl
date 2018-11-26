@@ -13,11 +13,9 @@
 <!--                             IMPORTS                                  -->
 <!-- ==================================================================== -->
 
-<xsl:import href="../../../scripts/xslt/cdrh_to_html/lib/html_formatting.xsl"/>
-<xsl:import href="../../../scripts/xslt/cdrh_to_html/lib/personography_encyclopedia.xsl"/>
-<xsl:import href="../../../scripts/xslt/cdrh_to_html/lib/cdrh.xsl"/>
-<!-- If this file is living in a projects directory, the paths will be
-     ../../../scripts/xslt/cdrh_tei_to_html/lib/html_formatting.xsl -->
+<xsl:import href="../.xslt-datura/tei_to_html/lib/formatting.xsl"/>
+<xsl:import href="../.xslt-datura/tei_to_html/lib/personography_encyclopedia.xsl"/>
+<xsl:import href="../.xslt-datura/tei_to_html/lib/cdrh.xsl"/>
 
 <!-- For display in TEI framework, have changed all namespace declarations to http://www.tei-c.org/ns/1.0. If different (e.g. Whitman), will need to change -->
 <xsl:output method="xml" indent="no" encoding="UTF-8" omit-xml-declaration="yes"/>

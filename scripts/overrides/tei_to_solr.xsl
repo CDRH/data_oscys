@@ -12,7 +12,7 @@
 	<!-- NOTE!!!!!  THIS SCRIPT IS *NOT* IMPORTING THE MAJORITY OF THE SOLR SCRIPTS -->
 	<!-- You have to add ALL fields in this file or they won't be sent -->
 
-	<xsl:import href="../../../scripts/xslt/cdrh_to_solr/lib/common.xsl"/>
+	<xsl:import href="../.xslt-datura/common.xsl"/>
 
 	<!-- ================================================ -->
 	<!--                  OUTPUT FORMAT                   -->
