@@ -37,6 +37,14 @@
 <!--                            OVERRIDES                                 -->
 <!-- ==================================================================== -->
 
+  <!-- Adding links to other cases via bibls https://github.com/CDRH/earlywashingtondc/issues/124 -->
+  <!-- This change originally made by kdalziel before datura reorganization for PR #25 -->
+  <xsl:template match="/TEI/text//bibl[@type='case'][@xml:id]">
+    <a href="{@xml:id}" class="tei_bibl_link">
+      <xsl:apply-templates/>
+    </a>
+  </xsl:template>
+
   <xsl:template match="ref">
     <xsl:choose>
       <!-- When target starts with #, assume it is an in page link (anchor) -->
