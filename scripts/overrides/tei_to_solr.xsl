@@ -174,7 +174,7 @@
 			<xsl:value-of select="$data_base"/>
 			<xsl:text>/data/</xsl:text>
 			<xsl:value-of select="$collection"/>
-			<xsl:text>/tei/</xsl:text>
+			<xsl:text>/source/tei/</xsl:text>
 			<xsl:value-of select="$filenamepart"/>
 			<xsl:text>.xml</xsl:text>
 		</field>
