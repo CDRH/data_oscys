@@ -120,8 +120,8 @@
 <person role="attorney_petitioner" xml:id="per.002883">
 <persName>Taylor, Robert I.</persName>
 </person>
-<person role="attorney_defendant" xml:id="per.002112">
-<persName>Mason, Thompson F.</persName>
+<person role="attorney_defendant">
+<persName/>
 </person>
 </listPerson>
 
@@ -135,7 +135,8 @@
 </profileDesc>
         
 <revisionDesc>        
-<change when="2016-08-04" who="#lkw">added xml:ids; removed Dorcas from people; trancription</change>  
+<change when="2018-12-12" who="#kln">removed Thomson F. Mason from attorney list</change>
+<change when="2016-08-04" who="#lkw">added xml:ids; removed Dorcas from people; transcription</change>  
 <change when="2016-06-28" who="#snc">reviewed</change>      
 <change when="2016-05-25" who="#kln">transcribed, encoded</change>
 </revisionDesc>
