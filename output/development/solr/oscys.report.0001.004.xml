@@ -1,0 +1,126 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0001.004</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0001.004.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0001.004.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0001.004.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ben v. Sabret Scott. Circuit Court Report</field>
+      <field name="titleSort" update="add">ben v. sabret scott. circuit court report</field>
+      <field name="titleLetter_s" update="add">b</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1809-04-01T00:00:00Z</field>
+      <field name="dateDisplay">April 1809</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume I, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Fitzhugh, Nicholas</field>
+      <field name="people">Ott, John</field>
+      <field name="people">Ben</field>
+      <field name="people">Scott, Sabret</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="people">Jones, Walter, 1776-1861</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Fitzhugh, Nicholas</field>
+      <field name="personID_ss">per.000063</field>
+      <field name="personData_ss">{"label":"Fitzhugh, Nicholas","id":"per.000063"}</field>
+      <field name="person_ss">Ott, John</field>
+      <field name="personID_ss">per.000007</field>
+      <field name="personData_ss">{"label":"Ott, John","id":"per.000007"}</field>
+      <field name="person_ss">Ben</field>
+      <field name="personID_ss">per.000002</field>
+      <field name="personData_ss">{"label":"Ben","id":"per.000002"}</field>
+      <field name="person_ss">Scott, Sabret</field>
+      <field name="personID_ss">per.000005</field>
+      <field name="personData_ss">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="person_ss">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss">per.000435</field>
+      <field name="personData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="plaintiff_ss">Ben</field>
+      <field name="plaintiffID_ss">per.000002</field>
+      <field name="plaintiffData_ss">{"label":"Ben","id":"per.000002"}</field>
+      <field name="defendant_ss">Scott, Sabret</field>
+      <field name="defendantID_ss">per.000005</field>
+      <field name="defendantData_ss">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorneyD_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss">per.000435</field>
+      <field name="attorneyDData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss">per.000435</field>
+      <field name="attorneyData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1809-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0001</field>
+      <field name="documentCaseData_ss">{"label":"Ben v. Sabret Scott","id":"oscys.caseid.0001"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Ex Parte Negro Ben. A writ of error is not a supersedeas, unless a copy of it be lodged for the adverse party in the clerk's office within the ten days. Habeas corpus ad subjiciendum. The mittimus returned, was in the following form, viz. "District of Columbia. County of Washington, ss. Whereas it is represented by Sabret Scott to the subscriber, a justice of the peace, that his negro, Ben, has run away from his service, and otherwise treated him ill, and fears that the said negro Ben will run away again, and therefore prays a commitment for safe keeping: These are therefore to authorize and require you to receive the said Ben, and him safe keep in your jail until his said master releases him therefrom, or he be otherwise legally discharged. Given under my hand and seal this 23d day of March, 1809. (Signed.) John Ott. (L.S.) The marshal of the District of Columbia." Mr. F. S. Key, for the prisoner, contended that he was free by the judgment of this Court, rendered on the 19th of June, 1807, and that the writ of error did not suspend the judgment. The citation was not served until January 12th, 1808. No copy of the writ of error was lodged in the office of the clerk, for the master, as required by the 23d section of the Judiciary Act of 1789, [1 Stat. at Large, 73.] It was no supersedeas to the execution, because no execution could issue. The judgment of the Court only ascertained the right of the negro to his freedom. The effect of the supersedeas is only to stay the execution, not to suspend the judgment. Mr. Jones, contrà. The writ of error was left in the office within the ten days, viz., on the 22d of June, 1807, and while it remained there, no copy was necessary for the adverse party. The Court, then consisting of Cranch, C. J., and Fitzhugh, J., being divided in opinion, the prisoner was remanded. But at June term, 1809, the prisoner was brought up again by habeas corpus, and the Court being full he was discharged, the Court (Fitzhugh, J., contrà,) being of opinion that the writ of error could not be served so as to be a supersedeas, unless a copy thereof should be lodged in the clerk's office for the adverse party within ten days after the judgment. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0001</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Fitzhugh, Nicholas</field>
+      <field name="personID_ss" update="add">per.000063</field>
+      <field name="personData_ss" update="add">{"label":"Fitzhugh, Nicholas","id":"per.000063"}</field>
+      <field name="person_ss" update="add">Ott, John</field>
+      <field name="personID_ss" update="add">per.000007</field>
+      <field name="personData_ss" update="add">{"label":"Ott, John","id":"per.000007"}</field>
+      <field name="person_ss" update="add">Ben</field>
+      <field name="personID_ss" update="add">per.000002</field>
+      <field name="personData_ss" update="add">{"label":"Ben","id":"per.000002"}</field>
+      <field name="person_ss" update="add">Scott, Sabret</field>
+      <field name="personID_ss" update="add">per.000005</field>
+      <field name="personData_ss" update="add">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="person_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss" update="add">per.000435</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="plaintiff_ss" update="add">Ben</field>
+      <field name="plaintiffID_ss" update="add">per.000002</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ben","id":"per.000002"}</field>
+      <field name="defendant_ss" update="add">Scott, Sabret</field>
+      <field name="defendantID_ss" update="add">per.000005</field>
+      <field name="defendantData_ss" update="add">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorneyD_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss" update="add">per.000435</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss" update="add">per.000435</field>
+      <field name="attorneyData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0001.004</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Ben v. Sabret Scott. Circuit Court Report (April, 1809)","date":"1809-04","dateDisplay":"April, 1809","id":"oscys.report.0001.004"}</field>
+   </doc>
+</add>

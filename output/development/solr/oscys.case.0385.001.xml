@@ -1,0 +1,93 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0385.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0385.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0385.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0385.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Samuel v. James Green. Complaint</field>
+      <field name="titleSort" update="add">samuel v. james green. complaint</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Complaint</field>
+      <field name="people">Pophan, John</field>
+      <field name="people">Samuel</field>
+      <field name="people">Green, James</field>
+      <field name="people">Taylor, Robert I.</field>
+      <field name="person_ss">Pophan, John</field>
+      <field name="personID_ss">per.003060</field>
+      <field name="personData_ss">{"label":"Pophan, John","id":"per.003060"}</field>
+      <field name="person_ss">Samuel</field>
+      <field name="personID_ss">per.003061</field>
+      <field name="personData_ss">{"label":"Samuel","id":"per.003061"}</field>
+      <field name="person_ss">Green, James</field>
+      <field name="personID_ss">per.003062</field>
+      <field name="personData_ss">{"label":"Green, James","id":"per.003062"}</field>
+      <field name="person_ss">Taylor, Robert I.</field>
+      <field name="personID_ss">per.002883</field>
+      <field name="personData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="plaintiff_ss">Samuel</field>
+      <field name="plaintiffID_ss">per.003061</field>
+      <field name="plaintiffData_ss">{"label":"Samuel","id":"per.003061"}</field>
+      <field name="defendant_ss">Green, James</field>
+      <field name="defendantID_ss">per.003062</field>
+      <field name="defendantData_ss">{"label":"Green, James","id":"per.003062"}</field>
+      <field name="attorneyP_ss">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss">per.002883</field>
+      <field name="attorneyPData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss">Taylor, Robert I.</field>
+      <field name="attorneyID_ss">per.002883</field>
+      <field name="attorneyData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="sourceTitle_s">Complaint</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1819-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0410</field>
+      <field name="documentCaseData_ss">{"label":"Samuel v. James Green","id":"oscys.caseid.0410"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> County of Alexandria &amp;c Negroe Samuel a pauper complains of James Green in Custody &amp;c of a plea of Trespass, for this that on the first day of June in the year 1818, at the County aforesaid the defendant with force of arms an assault did make on the said plf and the said plf did for a long time falsely imprison that is to say from the said first day of June to the 20th day of December in the same year and other wrongs &amp; injuries he the plf then &amp; there did against the peace &amp; government of the United States, and to the damage of the plaintiff one thousand dollars R. I. Taylor plf atty of the found the Defendant joined for the Defendant Jno. Pophan Forman Samuel a Pauper v Jas Green non anums (not guilty pleaded &amp; joined Filg: pet: 26: Ord: 26 Assg. Atto: $.52 Ord: 26 Caps: 18. D. 8. Atto: 8. Tel: 18 .78 5 Cont. 26. ea: 1.30 Swg. Jury 70. Bl: 18 Jd. 18 1.06 Jud: 18. C. 18 .36 H. 20 C. 20. P. 18 .58 $4.60 Attos: fee 5. $9.6 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0410</field>
+      <field update="add" name="outcomeData_ss">{"label":"Verdict for Defendant","id":"oscys.case.0385.001"}</field>
+      <field update="add" name="outcome_ss">Verdict for Defendant</field>
+      <field name="person_ss" update="add">Pophan, John</field>
+      <field name="personID_ss" update="add">per.003060</field>
+      <field name="personData_ss" update="add">{"label":"Pophan, John","id":"per.003060"}</field>
+      <field name="person_ss" update="add">Samuel</field>
+      <field name="personID_ss" update="add">per.003061</field>
+      <field name="personData_ss" update="add">{"label":"Samuel","id":"per.003061"}</field>
+      <field name="person_ss" update="add">Green, James</field>
+      <field name="personID_ss" update="add">per.003062</field>
+      <field name="personData_ss" update="add">{"label":"Green, James","id":"per.003062"}</field>
+      <field name="person_ss" update="add">Taylor, Robert I.</field>
+      <field name="personID_ss" update="add">per.002883</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="plaintiff_ss" update="add">Samuel</field>
+      <field name="plaintiffID_ss" update="add">per.003061</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Samuel","id":"per.003061"}</field>
+      <field name="defendant_ss" update="add">Green, James</field>
+      <field name="defendantID_ss" update="add">per.003062</field>
+      <field name="defendantData_ss" update="add">{"label":"Green, James","id":"per.003062"}</field>
+      <field name="attorneyP_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss" update="add">per.002883</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyID_ss" update="add">per.002883</field>
+      <field name="attorneyData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0385.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Samuel v. James Green. Complaint","id":"oscys.case.0385.001"}</field>
+   </doc>
+</add>

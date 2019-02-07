@@ -1,0 +1,434 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0142.007</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0142.007.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0142.007.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0142.007.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Henry, Francis, &amp; Sarah Gibson v. James C. Hall, James Laurie, &amp; Elizabeth Laurie. Statement of Facts</field>
+      <field name="titleSort" update="add">henry, francis, &amp; sarah gibson v. james c. hall, james laurie, &amp; elizabeth laurie. statement of facts</field>
+      <field name="titleLetter_s" update="add">h</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 656, Folder 8 9 10</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Statement of Facts</field>
+      <field name="people">Gibson, Lucy</field>
+      <field name="people">Hall, William J.</field>
+      <field name="people">Rittenhouse, Benjamin F.</field>
+      <field name="people">Shepherd, Andrew</field>
+      <field name="people">Gibson, Henry</field>
+      <field name="people">Hall, James C.</field>
+      <field name="people">Laurie, Elizabeth B.</field>
+      <field name="people">Laurie, James</field>
+      <field name="people">Gibson, Francis</field>
+      <field name="people">Hall, James C.</field>
+      <field name="people">Laurie, Elizabeth B.</field>
+      <field name="people">Laurie, James</field>
+      <field name="people">Gibson, Lucy</field>
+      <field name="people">Gibson, Sarah</field>
+      <field name="people">Hall, James C.</field>
+      <field name="people">Laurie, Elizabeth B.</field>
+      <field name="people">Laurie, James</field>
+      <field name="places">Virginia</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Gibson, Lucy</field>
+      <field name="personID_ss">per.001074</field>
+      <field name="personData_ss">{"label":"Gibson, Lucy","id":"per.001074"}</field>
+      <field name="person_ss">Hall, William J.</field>
+      <field name="personID_ss">per.001075</field>
+      <field name="personData_ss">{"label":"Hall, William J.","id":"per.001075"}</field>
+      <field name="person_ss">Rittenhouse, Benjamin F.</field>
+      <field name="personID_ss">per.001076</field>
+      <field name="personData_ss">{"label":"Rittenhouse, Benjamin F.","id":"per.001076"}</field>
+      <field name="person_ss">Shepherd, Andrew</field>
+      <field name="personID_ss">per.001077</field>
+      <field name="personData_ss">{"label":"Shepherd, Andrew","id":"per.001077"}</field>
+      <field name="person_ss">Gibson, Henry</field>
+      <field name="personID_ss">per.001073</field>
+      <field name="personData_ss">{"label":"Gibson, Henry","id":"per.001073"}</field>
+      <field name="person_ss">Hall, James C.</field>
+      <field name="personID_ss">per.001068</field>
+      <field name="personData_ss">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss">Laurie, Elizabeth B.</field>
+      <field name="personID_ss">per.001069</field>
+      <field name="personData_ss">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss">Laurie, James</field>
+      <field name="personID_ss">per.001070</field>
+      <field name="personData_ss">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="person_ss">Gibson, Francis</field>
+      <field name="personID_ss">per.001067</field>
+      <field name="personData_ss">{"label":"Gibson, Francis","id":"per.001067"}</field>
+      <field name="person_ss">Hall, James C.</field>
+      <field name="personID_ss">per.001068</field>
+      <field name="personData_ss">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss">Laurie, Elizabeth B.</field>
+      <field name="personID_ss">per.001069</field>
+      <field name="personData_ss">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss">Laurie, James</field>
+      <field name="personID_ss">per.001070</field>
+      <field name="personData_ss">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="person_ss">Gibson, Lucy</field>
+      <field name="personID_ss">per.001071</field>
+      <field name="personData_ss">{"label":"Gibson, Lucy","id":"per.001071"}</field>
+      <field name="person_ss">Gibson, Sarah</field>
+      <field name="personID_ss">per.001072</field>
+      <field name="personData_ss">{"label":"Gibson, Sarah","id":"per.001072"}</field>
+      <field name="person_ss">Hall, James C.</field>
+      <field name="personID_ss">per.001068</field>
+      <field name="personData_ss">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss">Laurie, Elizabeth B.</field>
+      <field name="personID_ss">per.001069</field>
+      <field name="personData_ss">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss">Laurie, James</field>
+      <field name="personID_ss">per.001070</field>
+      <field name="personData_ss">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="plaintiff_ss">Gibson, Henry</field>
+      <field name="plaintiffID_ss">per.001073</field>
+      <field name="plaintiffData_ss">{"label":"Gibson, Henry","id":"per.001073"}</field>
+      <field name="plaintiff_ss">Gibson, Francis</field>
+      <field name="plaintiffID_ss">per.001067</field>
+      <field name="plaintiffData_ss">{"label":"Gibson, Francis","id":"per.001067"}</field>
+      <field name="plaintiff_ss">Gibson, Lucy</field>
+      <field name="plaintiffID_ss">per.001071</field>
+      <field name="plaintiffData_ss">{"label":"Gibson, Lucy","id":"per.001071"}</field>
+      <field name="plaintiff_ss">Gibson, Sarah</field>
+      <field name="plaintiffID_ss">per.001072</field>
+      <field name="plaintiffData_ss">{"label":"Gibson, Sarah","id":"per.001072"}</field>
+      <field name="defendant_ss">Hall, James C.</field>
+      <field name="defendantID_ss">per.001068</field>
+      <field name="defendantData_ss">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss">per.001069</field>
+      <field name="defendantData_ss">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss">Laurie, James</field>
+      <field name="defendantID_ss">per.001070</field>
+      <field name="defendantData_ss">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="defendant_ss">Hall, James C.</field>
+      <field name="defendantID_ss">per.001068</field>
+      <field name="defendantData_ss">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss">per.001069</field>
+      <field name="defendantData_ss">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss">Laurie, James</field>
+      <field name="defendantID_ss">per.001070</field>
+      <field name="defendantData_ss">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="defendant_ss">Hall, James C.</field>
+      <field name="defendantID_ss">per.001068</field>
+      <field name="defendantData_ss">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss">per.001069</field>
+      <field name="defendantData_ss">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss">Laurie, James</field>
+      <field name="defendantID_ss">per.001070</field>
+      <field name="defendantData_ss">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="sourceTitle_s">Statement</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1842-11</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0142</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0143</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0144</field>
+      <field name="documentCaseData_ss">{"label":"Francis Gibson v. James C. Hall, James Laurie, &amp; Elizabeth Laurie","id":"oscys.caseid.0142"}</field>
+      <field name="documentCaseData_ss">{"label":"Sarah Gibson &amp; Lucy Gibson v. James C. Hall, James Laurie, &amp; Elizabeth Laurie","id":"oscys.caseid.0143"}</field>
+      <field name="documentCaseData_ss">{"label":"Henry Gibson v. James C. Hall, James Laurie, &amp; Elizabeth Laurie","id":"oscys.caseid.0144"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Henry Gibson v James C. Hall Negro Sarah Gibson for herself and in right of her chi her infant child v James C. Hall Negro Frank Gibson vs James C. Hall On the trial of the issues joined in the above cases the petitioners to maintain the issues on their part joined offered in evidence the records of their importation ( the same) and they further offered in evidence without objection the deposition of Benj. F. Rittenhouse ( the same) and the further offered evidence to prove the possession of petitioners by Docr James Laurie, claiming them in right of his wife. Defts gave in evidence the last will of Andrew Shepherd father of () — and it is admitted that the now wife of sd. James Laurie is the same daughter of sd Shepherd named &amp; described in sd will as Elizabeth; and was at the date of sd will &amp; at the death of sd testator the wife of one Wm J. Hall then living. The petrs to support the issue on their part above joined produced &amp; read in evidence the records of the Lucy the mother of the petitioners was a slave for life the property of the Testator Andrew Shepherd at the time of his death. the at the time of his death, the first husband of his daugter Eliz. W. J. Hall was living, who died leaving the deft, his only child by the said Elizabeth, an infant of tender years. That same time about the year after before the intermarriage of sd Elizath with her second &amp; present husband the sd Jas Laurie, the said negro woman Lucy then having resid was allotted to the said Elizabeth by the Exrs of the sd Testator pursuant to the election given by such will to the Exrs thereof either to set off the undevised slaves &amp; other property to the testator's daughters in specie, or to sell the same &amp; divide the proceeds among the sd daughters pursuant to the limitations in the will. That all the petitioners are children of the said negro woman Lucy, &amp; all born after such allotment. that the said Lucy always remained in Virga in the possession or under the control of sd Exrs, as did her children, except that the petitioners as they respectively grew up of such age &amp; size as to make their services profitable, become useful were from time sent by the sd to to time sent to the said Elizth then &amp; ever since residing with the said second husband J. Laurie, and were then in Washington; &amp; were there kept in his service by said Jas Laurie, and certified &amp; recorded by him as aforsd. &amp; that said that the deft is the son of said Elizth by her sd first husband W. J. Hall. and during his minority lived in the family of sd Jas Laurie; and whilst he so resided in sd Laurie's family, when the sd petitioners respectively were sent to the sd Elizabeth at Washington as aforesd. Case Stated </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0142</field>
+      <field name="person_ss" update="add">Gibson, Lucy</field>
+      <field name="personID_ss" update="add">per.001074</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Lucy","id":"per.001074"}</field>
+      <field name="person_ss" update="add">Hall, William J.</field>
+      <field name="personID_ss" update="add">per.001075</field>
+      <field name="personData_ss" update="add">{"label":"Hall, William J.","id":"per.001075"}</field>
+      <field name="person_ss" update="add">Rittenhouse, Benjamin F.</field>
+      <field name="personID_ss" update="add">per.001076</field>
+      <field name="personData_ss" update="add">{"label":"Rittenhouse, Benjamin F.","id":"per.001076"}</field>
+      <field name="person_ss" update="add">Shepherd, Andrew</field>
+      <field name="personID_ss" update="add">per.001077</field>
+      <field name="personData_ss" update="add">{"label":"Shepherd, Andrew","id":"per.001077"}</field>
+      <field name="person_ss" update="add">Gibson, Henry</field>
+      <field name="personID_ss" update="add">per.001073</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Henry","id":"per.001073"}</field>
+      <field name="person_ss" update="add">Hall, James C.</field>
+      <field name="personID_ss" update="add">per.001068</field>
+      <field name="personData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="personID_ss" update="add">per.001069</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss" update="add">Laurie, James</field>
+      <field name="personID_ss" update="add">per.001070</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="person_ss" update="add">Gibson, Francis</field>
+      <field name="personID_ss" update="add">per.001067</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Francis","id":"per.001067"}</field>
+      <field name="person_ss" update="add">Hall, James C.</field>
+      <field name="personID_ss" update="add">per.001068</field>
+      <field name="personData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="personID_ss" update="add">per.001069</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss" update="add">Laurie, James</field>
+      <field name="personID_ss" update="add">per.001070</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="person_ss" update="add">Gibson, Lucy</field>
+      <field name="personID_ss" update="add">per.001071</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Lucy","id":"per.001071"}</field>
+      <field name="person_ss" update="add">Gibson, Sarah</field>
+      <field name="personID_ss" update="add">per.001072</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Sarah","id":"per.001072"}</field>
+      <field name="person_ss" update="add">Hall, James C.</field>
+      <field name="personID_ss" update="add">per.001068</field>
+      <field name="personData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="personID_ss" update="add">per.001069</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss" update="add">Laurie, James</field>
+      <field name="personID_ss" update="add">per.001070</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Henry</field>
+      <field name="plaintiffID_ss" update="add">per.001073</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Henry","id":"per.001073"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Francis</field>
+      <field name="plaintiffID_ss" update="add">per.001067</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Francis","id":"per.001067"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Lucy</field>
+      <field name="plaintiffID_ss" update="add">per.001071</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Lucy","id":"per.001071"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Sarah</field>
+      <field name="plaintiffID_ss" update="add">per.001072</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Sarah","id":"per.001072"}</field>
+      <field name="defendant_ss" update="add">Hall, James C.</field>
+      <field name="defendantID_ss" update="add">per.001068</field>
+      <field name="defendantData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss" update="add">per.001069</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss" update="add">Laurie, James</field>
+      <field name="defendantID_ss" update="add">per.001070</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="defendant_ss" update="add">Hall, James C.</field>
+      <field name="defendantID_ss" update="add">per.001068</field>
+      <field name="defendantData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss" update="add">per.001069</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss" update="add">Laurie, James</field>
+      <field name="defendantID_ss" update="add">per.001070</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="defendant_ss" update="add">Hall, James C.</field>
+      <field name="defendantID_ss" update="add">per.001068</field>
+      <field name="defendantData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss" update="add">per.001069</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss" update="add">Laurie, James</field>
+      <field name="defendantID_ss" update="add">per.001070</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0142.007</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Henry, Francis, &amp; Sarah Gibson v. James C. Hall, James Laurie, &amp; Elizabeth Laurie. Statement of Facts","id":"oscys.case.0142.007"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0143</field>
+      <field name="person_ss" update="add">Gibson, Lucy</field>
+      <field name="personID_ss" update="add">per.001074</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Lucy","id":"per.001074"}</field>
+      <field name="person_ss" update="add">Hall, William J.</field>
+      <field name="personID_ss" update="add">per.001075</field>
+      <field name="personData_ss" update="add">{"label":"Hall, William J.","id":"per.001075"}</field>
+      <field name="person_ss" update="add">Rittenhouse, Benjamin F.</field>
+      <field name="personID_ss" update="add">per.001076</field>
+      <field name="personData_ss" update="add">{"label":"Rittenhouse, Benjamin F.","id":"per.001076"}</field>
+      <field name="person_ss" update="add">Shepherd, Andrew</field>
+      <field name="personID_ss" update="add">per.001077</field>
+      <field name="personData_ss" update="add">{"label":"Shepherd, Andrew","id":"per.001077"}</field>
+      <field name="person_ss" update="add">Gibson, Henry</field>
+      <field name="personID_ss" update="add">per.001073</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Henry","id":"per.001073"}</field>
+      <field name="person_ss" update="add">Hall, James C.</field>
+      <field name="personID_ss" update="add">per.001068</field>
+      <field name="personData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="personID_ss" update="add">per.001069</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss" update="add">Laurie, James</field>
+      <field name="personID_ss" update="add">per.001070</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="person_ss" update="add">Gibson, Francis</field>
+      <field name="personID_ss" update="add">per.001067</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Francis","id":"per.001067"}</field>
+      <field name="person_ss" update="add">Hall, James C.</field>
+      <field name="personID_ss" update="add">per.001068</field>
+      <field name="personData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="personID_ss" update="add">per.001069</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss" update="add">Laurie, James</field>
+      <field name="personID_ss" update="add">per.001070</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="person_ss" update="add">Gibson, Lucy</field>
+      <field name="personID_ss" update="add">per.001071</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Lucy","id":"per.001071"}</field>
+      <field name="person_ss" update="add">Gibson, Sarah</field>
+      <field name="personID_ss" update="add">per.001072</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Sarah","id":"per.001072"}</field>
+      <field name="person_ss" update="add">Hall, James C.</field>
+      <field name="personID_ss" update="add">per.001068</field>
+      <field name="personData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="personID_ss" update="add">per.001069</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss" update="add">Laurie, James</field>
+      <field name="personID_ss" update="add">per.001070</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Henry</field>
+      <field name="plaintiffID_ss" update="add">per.001073</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Henry","id":"per.001073"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Francis</field>
+      <field name="plaintiffID_ss" update="add">per.001067</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Francis","id":"per.001067"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Lucy</field>
+      <field name="plaintiffID_ss" update="add">per.001071</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Lucy","id":"per.001071"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Sarah</field>
+      <field name="plaintiffID_ss" update="add">per.001072</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Sarah","id":"per.001072"}</field>
+      <field name="defendant_ss" update="add">Hall, James C.</field>
+      <field name="defendantID_ss" update="add">per.001068</field>
+      <field name="defendantData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss" update="add">per.001069</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss" update="add">Laurie, James</field>
+      <field name="defendantID_ss" update="add">per.001070</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="defendant_ss" update="add">Hall, James C.</field>
+      <field name="defendantID_ss" update="add">per.001068</field>
+      <field name="defendantData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss" update="add">per.001069</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss" update="add">Laurie, James</field>
+      <field name="defendantID_ss" update="add">per.001070</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="defendant_ss" update="add">Hall, James C.</field>
+      <field name="defendantID_ss" update="add">per.001068</field>
+      <field name="defendantData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss" update="add">per.001069</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss" update="add">Laurie, James</field>
+      <field name="defendantID_ss" update="add">per.001070</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0142.007</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Henry, Francis, &amp; Sarah Gibson v. James C. Hall, James Laurie, &amp; Elizabeth Laurie. Statement of Facts","id":"oscys.case.0142.007"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0144</field>
+      <field name="person_ss" update="add">Gibson, Lucy</field>
+      <field name="personID_ss" update="add">per.001074</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Lucy","id":"per.001074"}</field>
+      <field name="person_ss" update="add">Hall, William J.</field>
+      <field name="personID_ss" update="add">per.001075</field>
+      <field name="personData_ss" update="add">{"label":"Hall, William J.","id":"per.001075"}</field>
+      <field name="person_ss" update="add">Rittenhouse, Benjamin F.</field>
+      <field name="personID_ss" update="add">per.001076</field>
+      <field name="personData_ss" update="add">{"label":"Rittenhouse, Benjamin F.","id":"per.001076"}</field>
+      <field name="person_ss" update="add">Shepherd, Andrew</field>
+      <field name="personID_ss" update="add">per.001077</field>
+      <field name="personData_ss" update="add">{"label":"Shepherd, Andrew","id":"per.001077"}</field>
+      <field name="person_ss" update="add">Gibson, Henry</field>
+      <field name="personID_ss" update="add">per.001073</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Henry","id":"per.001073"}</field>
+      <field name="person_ss" update="add">Hall, James C.</field>
+      <field name="personID_ss" update="add">per.001068</field>
+      <field name="personData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="personID_ss" update="add">per.001069</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss" update="add">Laurie, James</field>
+      <field name="personID_ss" update="add">per.001070</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="person_ss" update="add">Gibson, Francis</field>
+      <field name="personID_ss" update="add">per.001067</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Francis","id":"per.001067"}</field>
+      <field name="person_ss" update="add">Hall, James C.</field>
+      <field name="personID_ss" update="add">per.001068</field>
+      <field name="personData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="personID_ss" update="add">per.001069</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss" update="add">Laurie, James</field>
+      <field name="personID_ss" update="add">per.001070</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="person_ss" update="add">Gibson, Lucy</field>
+      <field name="personID_ss" update="add">per.001071</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Lucy","id":"per.001071"}</field>
+      <field name="person_ss" update="add">Gibson, Sarah</field>
+      <field name="personID_ss" update="add">per.001072</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Sarah","id":"per.001072"}</field>
+      <field name="person_ss" update="add">Hall, James C.</field>
+      <field name="personID_ss" update="add">per.001068</field>
+      <field name="personData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="person_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="personID_ss" update="add">per.001069</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="person_ss" update="add">Laurie, James</field>
+      <field name="personID_ss" update="add">per.001070</field>
+      <field name="personData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Henry</field>
+      <field name="plaintiffID_ss" update="add">per.001073</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Henry","id":"per.001073"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Francis</field>
+      <field name="plaintiffID_ss" update="add">per.001067</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Francis","id":"per.001067"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Lucy</field>
+      <field name="plaintiffID_ss" update="add">per.001071</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Lucy","id":"per.001071"}</field>
+      <field name="plaintiff_ss" update="add">Gibson, Sarah</field>
+      <field name="plaintiffID_ss" update="add">per.001072</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gibson, Sarah","id":"per.001072"}</field>
+      <field name="defendant_ss" update="add">Hall, James C.</field>
+      <field name="defendantID_ss" update="add">per.001068</field>
+      <field name="defendantData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss" update="add">per.001069</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss" update="add">Laurie, James</field>
+      <field name="defendantID_ss" update="add">per.001070</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="defendant_ss" update="add">Hall, James C.</field>
+      <field name="defendantID_ss" update="add">per.001068</field>
+      <field name="defendantData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss" update="add">per.001069</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss" update="add">Laurie, James</field>
+      <field name="defendantID_ss" update="add">per.001070</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="defendant_ss" update="add">Hall, James C.</field>
+      <field name="defendantID_ss" update="add">per.001068</field>
+      <field name="defendantData_ss" update="add">{"label":"Hall, James C.","id":"per.001068"}</field>
+      <field name="defendant_ss" update="add">Laurie, Elizabeth B.</field>
+      <field name="defendantID_ss" update="add">per.001069</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, Elizabeth B.","id":"per.001069"}</field>
+      <field name="defendant_ss" update="add">Laurie, James</field>
+      <field name="defendantID_ss" update="add">per.001070</field>
+      <field name="defendantData_ss" update="add">{"label":"Laurie, James","id":"per.001070"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0142.007</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Henry, Francis, &amp; Sarah Gibson v. James C. Hall, James Laurie, &amp; Elizabeth Laurie. Statement of Facts","id":"oscys.case.0142.007"}</field>
+   </doc>
+</add>

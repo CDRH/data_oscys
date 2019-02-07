@@ -1,0 +1,79 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0001.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0001.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0001.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0001.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ben v. Sabret Scott. Affidavit of William Brent</field>
+      <field name="titleSort" update="add">ben v. sabret scott. affidavit of william brent</field>
+      <field name="titleLetter_s" update="add">b</field>
+      <field name="contributor"/>
+      <field name="date">1809-04-12T00:00:00Z</field>
+      <field name="dateDisplay">April 12, 1809</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 1</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Affidavit</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Ben</field>
+      <field name="people">Scott, Sabret</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Ben</field>
+      <field name="personID_ss">per.000002</field>
+      <field name="personData_ss">{"label":"Ben","id":"per.000002"}</field>
+      <field name="person_ss">Scott, Sabret</field>
+      <field name="personID_ss">per.000005</field>
+      <field name="personData_ss">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="plaintiff_ss">Ben</field>
+      <field name="plaintiffID_ss">per.000002</field>
+      <field name="plaintiffData_ss">{"label":"Ben","id":"per.000002"}</field>
+      <field name="defendant_ss">Scott, Sabret</field>
+      <field name="defendantID_ss">per.000005</field>
+      <field name="defendantData_ss">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="sourceTitle_s">Affidavit of William Brent</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1809-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0001</field>
+      <field name="documentCaseData_ss">{"label":"Ben v. Sabret Scott","id":"oscys.caseid.0001"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Ben vs Sabrett Scott William Brent makes on the holy Evangels of Almighty God that to the best of his Knowledge and belief, when the writ of error sued out in this case was brought to his office (nor at any time afterwards) was there any copy thereof left at his said office for the adverse party— nor was any such copy thereof ever directed to be made out in his said office. nor was any such ever made out. That the copy now among the papers in the said cause was made out for his own convenience. That it is a copy of the said writ of error &amp; the endorsement on is a copy of the endorsement on the said writ of error. &amp; That he cannot state at what precise time the said copy was made, but that it was previous to the said writ &amp; record annexed to it, being sent up to the Supreme Court Sworn before W. Cranch April 12th 1809. Wm Brent's afft Sept. 24 1789 — Ch: 20 § 23. "A writ of error as aforesaid shall be a supersedeas &amp; stay execution only in cases only where the write of error is served, by a copy thereof being lodged for the adverse party in the Clerk's office where the record remains, within 10 days, Sundays exclusive, after rendering the Judgment or passing the decree complained of. Until the expiration of which term of 10 days, executions shall not issue in any case where a writ of error may be a supersedeas; &amp; where upon such writ of error the Supreme or a Circuit Court shall affirm a Judgt or decree they shall adjudge or decree to the respondent in error just damages for his delay &amp; single or double costs at their discretion." Trials 246 Dec 1809 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0001</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Ben</field>
+      <field name="personID_ss" update="add">per.000002</field>
+      <field name="personData_ss" update="add">{"label":"Ben","id":"per.000002"}</field>
+      <field name="person_ss" update="add">Scott, Sabret</field>
+      <field name="personID_ss" update="add">per.000005</field>
+      <field name="personData_ss" update="add">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="plaintiff_ss" update="add">Ben</field>
+      <field name="plaintiffID_ss" update="add">per.000002</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ben","id":"per.000002"}</field>
+      <field name="defendant_ss" update="add">Scott, Sabret</field>
+      <field name="defendantID_ss" update="add">per.000005</field>
+      <field name="defendantData_ss" update="add">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0001.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ben v. Sabret Scott. Affidavit of William Brent (April 12, 1809)","date":"1809-04-12","dateDisplay":"April 12, 1809","id":"oscys.case.0001.002"}</field>
+   </doc>
+</add>

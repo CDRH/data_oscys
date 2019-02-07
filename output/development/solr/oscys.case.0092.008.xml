@@ -1,0 +1,152 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0092.008</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0092.008.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0092.008.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0092.008.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Matilda Derrick v. George Mason &amp; Alexander Moore. Bond</field>
+      <field name="titleSort" update="add">matilda derrick v. george mason &amp; alexander moore. bond</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="contributor"/>
+      <field name="date">1823-12-03T00:00:00Z</field>
+      <field name="dateDisplay">December 3, 1823</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 291, Folder 1309</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Bond</field>
+      <field name="people">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="people">Morsell, James Sewall</field>
+      <field name="people">Derrick, Louisa</field>
+      <field name="people">Derrick, Lucy</field>
+      <field name="people">Derrick, Matilda</field>
+      <field name="people">Derrick, Matilda</field>
+      <field name="people">Mason, George</field>
+      <field name="people">Moore, Alexander</field>
+      <field name="people">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="personID_ss">per.000194</field>
+      <field name="personData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="person_ss">Morsell, James Sewall</field>
+      <field name="personID_ss">per.000044</field>
+      <field name="personData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss">Derrick, Louisa</field>
+      <field name="personID_ss">per.000708</field>
+      <field name="personData_ss">{"label":"Derrick, Louisa","id":"per.000708"}</field>
+      <field name="person_ss">Derrick, Lucy</field>
+      <field name="personID_ss">per.000709</field>
+      <field name="personData_ss">{"label":"Derrick, Lucy","id":"per.000709"}</field>
+      <field name="person_ss">Derrick, Matilda</field>
+      <field name="personID_ss">per.000710</field>
+      <field name="personData_ss">{"label":"Derrick, Matilda","id":"per.000710"}</field>
+      <field name="person_ss">Derrick, Matilda</field>
+      <field name="personID_ss">per.000711</field>
+      <field name="personData_ss">{"label":"Derrick, Matilda","id":"per.000711"}</field>
+      <field name="person_ss">Mason, George</field>
+      <field name="personID_ss">per.000712</field>
+      <field name="personData_ss">{"label":"Mason, George","id":"per.000712"}</field>
+      <field name="person_ss">Moore, Alexander</field>
+      <field name="personID_ss">per.000713</field>
+      <field name="personData_ss">{"label":"Moore, Alexander","id":"per.000713"}</field>
+      <field name="person_ss">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="personID_ss">per.000545</field>
+      <field name="personData_ss">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="plaintiff_ss">Derrick, Louisa</field>
+      <field name="plaintiffID_ss">per.000708</field>
+      <field name="plaintiffData_ss">{"label":"Derrick, Louisa","id":"per.000708"}</field>
+      <field name="plaintiff_ss">Derrick, Lucy</field>
+      <field name="plaintiffID_ss">per.000709</field>
+      <field name="plaintiffData_ss">{"label":"Derrick, Lucy","id":"per.000709"}</field>
+      <field name="plaintiff_ss">Derrick, Matilda</field>
+      <field name="plaintiffID_ss">per.000710</field>
+      <field name="plaintiffData_ss">{"label":"Derrick, Matilda","id":"per.000710"}</field>
+      <field name="plaintiff_ss">Derrick, Matilda</field>
+      <field name="plaintiffID_ss">per.000711</field>
+      <field name="plaintiffData_ss">{"label":"Derrick, Matilda","id":"per.000711"}</field>
+      <field name="defendant_ss">Mason, George</field>
+      <field name="defendantID_ss">per.000712</field>
+      <field name="defendantData_ss">{"label":"Mason, George","id":"per.000712"}</field>
+      <field name="defendant_ss">Moore, Alexander</field>
+      <field name="defendantID_ss">per.000713</field>
+      <field name="defendantData_ss">{"label":"Moore, Alexander","id":"per.000713"}</field>
+      <field name="attorneyD_ss">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyDID_ss">per.000545</field>
+      <field name="attorneyDData_ss">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="attorney_ss">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyID_ss">per.000545</field>
+      <field name="attorneyData_ss">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="sourceTitle_s">Bond</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1823-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0092</field>
+      <field name="documentCaseData_ss">{"label":"Matilda Derrick, Lucy Derrick, Louisa Derrick, &amp; Matilda Derrick v. George Mason &amp; Alexander Moore","id":"oscys.caseid.0092"}</field>
+      <field name="jurisdiction_ss">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="text"> Know all men by these presents, That we, George Mason, Alexander Moore &amp; Benjamin L. Lear are held and firmly bound unto Matilda Derrick for herself &amp; her children Lucy Matilda &amp; Louisa infants &amp;c for a petition for freedom in the full and just sum of two hundred dollars to be paid to the said Matilda Derrick certain attorney, executors, administrators or assigns: to which payment well and truly to be made, we bind ourselves, our heirs, executors and administrators, jointly and severally by these presents. Sealed with our seals, and dated this third day of December in the year of our Lord one thousand eight hundred and twenty three. Whereas lately at a circuit court of the United States for the district of Columbia in the County of Washington term of said court last past, in a suit depending in said circuit court, wherein the said Matilda Derrick for herself &amp; her children Lucy, Matilda &amp; Louisa infants &amp;c Petitioners on a petition for freedom and the said George Mason &amp; Alexander Moore were defendants Judgment was rendered against the said George Mason &amp; Alexander Moore and the said George Mason &amp; Alexander Moore having obtained a writ of error, and filed a copy thereof in the clerk's office of the said circuit court, to reverse the judgment in the aforesaid suit, and a citation, directed to the said Matilda Derrick &amp; her children Lucy Matilda &amp; Louisa citing and admonishing him thiem to be and appear at a Supreme Court of the United States, to be holden at Washington, on the first Monday of February next. Now the Condition of the above Obligation is Such, That if the said George Mason &amp; Alexander Moore shall prosecute their writ to effect, and answer all damages and costs, if they fail to make their plea good, then the above obligation to be void, else to remain in full force and virtue. G Mason (seal.)        (seal.) B. L. Lear (seal.) Sealed and delivered in presence of E. B. Caldwell approvd J S Morsell 3 Dec 1823 Matilda vs Mason &amp; Moore Bond. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0092</field>
+      <field name="person_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="personID_ss" update="add">per.000194</field>
+      <field name="personData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="person_ss" update="add">Morsell, James Sewall</field>
+      <field name="personID_ss" update="add">per.000044</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss" update="add">Derrick, Louisa</field>
+      <field name="personID_ss" update="add">per.000708</field>
+      <field name="personData_ss" update="add">{"label":"Derrick, Louisa","id":"per.000708"}</field>
+      <field name="person_ss" update="add">Derrick, Lucy</field>
+      <field name="personID_ss" update="add">per.000709</field>
+      <field name="personData_ss" update="add">{"label":"Derrick, Lucy","id":"per.000709"}</field>
+      <field name="person_ss" update="add">Derrick, Matilda</field>
+      <field name="personID_ss" update="add">per.000710</field>
+      <field name="personData_ss" update="add">{"label":"Derrick, Matilda","id":"per.000710"}</field>
+      <field name="person_ss" update="add">Derrick, Matilda</field>
+      <field name="personID_ss" update="add">per.000711</field>
+      <field name="personData_ss" update="add">{"label":"Derrick, Matilda","id":"per.000711"}</field>
+      <field name="person_ss" update="add">Mason, George</field>
+      <field name="personID_ss" update="add">per.000712</field>
+      <field name="personData_ss" update="add">{"label":"Mason, George","id":"per.000712"}</field>
+      <field name="person_ss" update="add">Moore, Alexander</field>
+      <field name="personID_ss" update="add">per.000713</field>
+      <field name="personData_ss" update="add">{"label":"Moore, Alexander","id":"per.000713"}</field>
+      <field name="person_ss" update="add">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="personID_ss" update="add">per.000545</field>
+      <field name="personData_ss" update="add">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="plaintiff_ss" update="add">Derrick, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.000708</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Derrick, Louisa","id":"per.000708"}</field>
+      <field name="plaintiff_ss" update="add">Derrick, Lucy</field>
+      <field name="plaintiffID_ss" update="add">per.000709</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Derrick, Lucy","id":"per.000709"}</field>
+      <field name="plaintiff_ss" update="add">Derrick, Matilda</field>
+      <field name="plaintiffID_ss" update="add">per.000710</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Derrick, Matilda","id":"per.000710"}</field>
+      <field name="plaintiff_ss" update="add">Derrick, Matilda</field>
+      <field name="plaintiffID_ss" update="add">per.000711</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Derrick, Matilda","id":"per.000711"}</field>
+      <field name="defendant_ss" update="add">Mason, George</field>
+      <field name="defendantID_ss" update="add">per.000712</field>
+      <field name="defendantData_ss" update="add">{"label":"Mason, George","id":"per.000712"}</field>
+      <field name="defendant_ss" update="add">Moore, Alexander</field>
+      <field name="defendantID_ss" update="add">per.000713</field>
+      <field name="defendantData_ss" update="add">{"label":"Moore, Alexander","id":"per.000713"}</field>
+      <field name="attorneyD_ss" update="add">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyDID_ss" update="add">per.000545</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="attorney_ss" update="add">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyID_ss" update="add">per.000545</field>
+      <field name="attorneyData_ss" update="add">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0092.008</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Matilda Derrick v. George Mason &amp; Alexander Moore. Bond (December 3, 1823)","date":"1823-12-03","dateDisplay":"December 3, 1823","id":"oscys.case.0092.008"}</field>
+   </doc>
+</add>

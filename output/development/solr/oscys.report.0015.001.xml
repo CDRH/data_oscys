@@ -1,0 +1,155 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0015.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0015.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0015.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0015.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">William Jordan v. Lemuel Sawyer. Circuit Court Report</field>
+      <field name="titleSort" update="add">william jordan v. lemuel sawyer. circuit court report</field>
+      <field name="titleLetter_s" update="add">w</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1823-04-01T00:00:00Z</field>
+      <field name="dateDisplay">April 1823</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume II, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Morsell, James Sewall</field>
+      <field name="people">Peyton, Valentine</field>
+      <field name="people">Thruston, Buckner, 1763-1845</field>
+      <field name="people">Jordan, William</field>
+      <field name="people">Sawyer, Lemuel, 1777-1852</field>
+      <field name="people">Cox, Clement</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="people">Hay, George, 1765-1830</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="places">Wheeling (W. Va.)</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Morsell, James Sewall</field>
+      <field name="personID_ss">per.000044</field>
+      <field name="personData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss">Peyton, Valentine</field>
+      <field name="personID_ss">per.000487</field>
+      <field name="personData_ss">{"label":"Peyton, Valentine","id":"per.000487"}</field>
+      <field name="person_ss">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss">per.000064</field>
+      <field name="personData_ss">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss">Jordan, William</field>
+      <field name="personID_ss">per.000484</field>
+      <field name="personData_ss">{"label":"Jordan, William","id":"per.000484"}</field>
+      <field name="person_ss">Sawyer, Lemuel, 1777-1852</field>
+      <field name="personID_ss">per.000485</field>
+      <field name="personData_ss">{"label":"Sawyer, Lemuel, 1777-1852","id":"per.000485"}</field>
+      <field name="person_ss">Cox, Clement</field>
+      <field name="personID_ss">per.000549</field>
+      <field name="personData_ss">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="person_ss">Hay, George, 1765-1830</field>
+      <field name="personID_ss">per.000491</field>
+      <field name="personData_ss">{"label":"Hay, George, 1765-1830","id":"per.000491"}</field>
+      <field name="plaintiff_ss">Jordan, William</field>
+      <field name="plaintiffID_ss">per.000484</field>
+      <field name="plaintiffData_ss">{"label":"Jordan, William","id":"per.000484"}</field>
+      <field name="defendant_ss">Sawyer, Lemuel, 1777-1852</field>
+      <field name="defendantID_ss">per.000485</field>
+      <field name="defendantData_ss">{"label":"Sawyer, Lemuel, 1777-1852","id":"per.000485"}</field>
+      <field name="attorneyP_ss">Cox, Clement</field>
+      <field name="attorneyPID_ss">per.000549</field>
+      <field name="attorneyPData_ss">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="attorney_ss">Cox, Clement</field>
+      <field name="attorneyID_ss">per.000549</field>
+      <field name="attorneyData_ss">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorneyD_ss">Hay, George, 1765-1830</field>
+      <field name="attorneyDID_ss">per.000491</field>
+      <field name="attorneyDData_ss">{"label":"Hay, George, 1765-1830","id":"per.000491"}</field>
+      <field name="attorney_ss">Hay, George, 1765-1830</field>
+      <field name="attorneyID_ss">per.000491</field>
+      <field name="attorneyData_ss">{"label":"Hay, George, 1765-1830","id":"per.000491"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1823-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0050</field>
+      <field name="documentCaseData_ss">{"label":"William Jordan v. Lemuel Sawyer","id":"oscys.caseid.0050"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro William Jordan v. Lemuel Sawyer. To obtain freedom under the Maryland Act of 1796, c. 67, the slave must have been imported "for sale," or "to reside." The Court will not compel a party to join in a demurrer to the evidence, unless the other party will admit all such facts as might be fairly inferred from the evidence. A slave imported into the county of Washington for sale, and sold within three years after such importation, is entitled to freedom, although the object and intention of both purchaser and seller were that the slave so purchased should be carried, forthwith, out of the District of Columbia, by the purchaser. Quœre, whether the actual sale of the slave, within three years after the importation, is conclusive evidence that the importation was "for sale." The Act of Maryland of 1796, c. 67, concerning the importation of slaves, is in force in the county of Washington, although in terms it is applicable only to the State of Maryland. This was a petitioner for freedom. Mr. Hay, for the defendant, offered to demur to the plaintiff's evidence. Mr. Cox and Mr. Key, for the plaintiff, refused to join in the demurrer, unless the defendant would admit that the petitioner was imported by one Peyton "for sale;" and contended that upon a demurrer to evidence the party demurring must admit all the facts which the evidence conduces to prove; and cited Tidd, 854; Phil. on Ev. 216; and the case of Patty v. Edelin, in this Court at January term, 1802, (1 Cranch, C. C. 60.) The Court (Thruston, J., absent,) said that when a demurrer to evidence is joined, the Court is to draw all the inferences of fact which a jury could reasonably draw; and that a party cannot be compelled to join in the demurrer, unless the party demurring will admit all the facts which the jury could reasonably infer from the evidence. The Court was of opinion that the jury, from the evidence, might infer that the petitioner was imported "for sale," and refused to compel him to join in the demurrer unless the defendant would admit that fact. Mr. Hay, for the defendant, took a bill of exceptions to the Court's refusal to compel the petitioner to join in demurrer. Mr. Hay, then contended that this county was not a part of the State of Maryland in 1796, when the act was passed, so that it was never in force here, and therefore could not continue in force here under the Act of Congress of the 27th of February, 1801, [1 Stat. at Large, 103.] This part of the district was ceded by Maryland to the United States, on the 19th of December, 1791, and ceased to be a part of that State. The Court (Thruston, J., absent,) stopped Mr. Hay, and told him that the question had been long settled, both by this Court and the courts of Maryland, that the jurisdiction of Maryland continued until Congress provided by law for the government of the District, which did not take place till the 27th of February, 1801, and that the Maryland Act of 1796, c. 67, was adopted with the other laws of Maryland, by the Act of Congress of 27th February, 1801, [1 Stat. at Large, 103.] That this Court would not now undertake to overrule all the decisions which have been had upon those points, and declined hearing any further argument thereon. Mr. Key, for the petitioner, then moved the Court to instruct the jury, that if they believe from the evidence, that Valentine Peyton brought the petitioner from Wheeling, in Virginia, into this county, in the beginning of the last winter, and that in March last, some time after such importation, the said Peyton determined and intended to sell the petitioner in this county, and did actually sell him therein to the defendant, then the petitioner is entitled to recover, unless the defendant can prove that the said Peyton came into this county with a bonâ fide intention of settling therein, and had resided there three years before such sale, or that he came within the provisions contained in the 2d, 4th, 7th, 8th, 9th, or 11th sections of the Act of 1796. But the Court refused to give the instruction, being of opinion that in order to give a right of freedom to a slave on the ground of importation he must have been brought in "for sale or to reside." Mr. Key, for the petitioner, then prayed the Court to instruct the jury that if they should be satisfied by the evidence, that Peyton brought the petitioner here from Virginia in March last, and sold him here, he is entitled to freedom. Mr. Key cited the case of Dunbar v. Ball, in this Court, at October term, 1821, (ante, 261,) in which he contended this point was directly decided by the Court. He cited also the case of Negro Lanna and child v. Pumphry, decided at the last term in this Court, (Cranch, C. J., absent.) Mr. Hay submitted the question without argument. The Court (Thruston, J., absent,) said that the Maryland Act was very obscure. The first is the only section which gives freedom to the slave, and it gives it only when the slave is imported "for sale or to reside within the State." The 2d section provides, that citizens of the United States, who may come into the State with a bonâ fide intention of settling therein, may, at the time of their removal, or within one year thereafter, bring in the slaves owned by them at the time of their removal. But the 3d section provides, that nothing therein contained shall be construed to enable them to sell such slaves, unless they shall have resided in the State three whole years next preceding such sale. The 4th section provides that nothing in the act shall be construed to affect the right of persons travelling or sojourning with any slave; such slave not being sold, or otherwise disposed of, in the State, but carried, by the owner, out of the State, or attempted to be carried. The 4th section does not give any penalty for selling; and such sale is not within the first section, unless the traveller brought the slave "for sale or to reside." yet it seems to be the intention of the legislature to prohibit such sale. If such was their intent, we must construe the 4th section to mean that such a slave must be considered as conclusive evidence that the slave was imported for sale; and such we are inclined to think must be the construction, if, to bring a person under the penalty of the 1st section, it be necessary that the importer should bring him in "for sale." The jury found a special verdict, stating the following facts:— That the petitioner, early in January, 1823, was brought into this county from Wheeling, in Virginia, by Valentine Peyton, who never has been a resident of this county or district, and who sold the petitioner to the defendant in this county some time in March, 1823. That it was agreed between the seller and the purchaser, (the defendant,) that the petitioner should be sent by the defendant, forthwith, to Norfolk in Virginia, which was done; and that when he was put on board the steamboat for Norfolk, the purchase-money was paid by the defendant. That the petitioner returned in the steamboat, and filed his petition. That Peyton was not a person coming into this county to reside therein; but as a sojourner or traveller, and that he did not carry the petitioner with him when he went away, without selling him, or attempting to carry him away without selling him. And that there is no evidence from which the jury can find that the said Peyton brought the petitioner into this county under the circumstances set forth in the provisos contained in the 7th, 8th, 9th, 10th, and 11th sections of the Acts of 1796, c. 67. The Court (Morsell, J., contrà,) was of opinion, that upon this special verdict, the law was for the defendant, because the jury had not found that the petitioner was brought in "for sale or to reside." But at the request of Mr. Key, in the absence of Mr. Hay, the Court suspended the judgment until the next term, when the case was settled by the parties. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0050</field>
+      <field update="add" name="outcomeData_ss">{"label":"Dismissed","date":"1823-04","dateDisplay":"April 1823","id":"oscys.report.0015.001"}</field>
+      <field update="add" name="outcome_ss">Dismissed</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Morsell, James Sewall</field>
+      <field name="personID_ss" update="add">per.000044</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss" update="add">Peyton, Valentine</field>
+      <field name="personID_ss" update="add">per.000487</field>
+      <field name="personData_ss" update="add">{"label":"Peyton, Valentine","id":"per.000487"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Jordan, William</field>
+      <field name="personID_ss" update="add">per.000484</field>
+      <field name="personData_ss" update="add">{"label":"Jordan, William","id":"per.000484"}</field>
+      <field name="person_ss" update="add">Sawyer, Lemuel, 1777-1852</field>
+      <field name="personID_ss" update="add">per.000485</field>
+      <field name="personData_ss" update="add">{"label":"Sawyer, Lemuel, 1777-1852","id":"per.000485"}</field>
+      <field name="person_ss" update="add">Cox, Clement</field>
+      <field name="personID_ss" update="add">per.000549</field>
+      <field name="personData_ss" update="add">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="person_ss" update="add">Hay, George, 1765-1830</field>
+      <field name="personID_ss" update="add">per.000491</field>
+      <field name="personData_ss" update="add">{"label":"Hay, George, 1765-1830","id":"per.000491"}</field>
+      <field name="plaintiff_ss" update="add">Jordan, William</field>
+      <field name="plaintiffID_ss" update="add">per.000484</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jordan, William","id":"per.000484"}</field>
+      <field name="defendant_ss" update="add">Sawyer, Lemuel, 1777-1852</field>
+      <field name="defendantID_ss" update="add">per.000485</field>
+      <field name="defendantData_ss" update="add">{"label":"Sawyer, Lemuel, 1777-1852","id":"per.000485"}</field>
+      <field name="attorneyP_ss" update="add">Cox, Clement</field>
+      <field name="attorneyPID_ss" update="add">per.000549</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="attorney_ss" update="add">Cox, Clement</field>
+      <field name="attorneyID_ss" update="add">per.000549</field>
+      <field name="attorneyData_ss" update="add">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorneyD_ss" update="add">Hay, George, 1765-1830</field>
+      <field name="attorneyDID_ss" update="add">per.000491</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Hay, George, 1765-1830","id":"per.000491"}</field>
+      <field name="attorney_ss" update="add">Hay, George, 1765-1830</field>
+      <field name="attorneyID_ss" update="add">per.000491</field>
+      <field name="attorneyData_ss" update="add">{"label":"Hay, George, 1765-1830","id":"per.000491"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0015.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"William Jordan v. Lemuel Sawyer. Circuit Court Report (April, 1823)","date":"1823-04","dateDisplay":"April, 1823","id":"oscys.report.0015.001"}</field>
+   </doc>
+</add>

@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0221.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0221.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0221.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0221.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">William Crowner v. George B. Scott. Summons of Mary Evans</field>
+      <field name="titleSort" update="add">william crowner v. george b. scott. summons of mary evans</field>
+      <field name="titleLetter_s" update="add">w</field>
+      <field name="contributor"/>
+      <field name="date">1841-12-15T00:00:00Z</field>
+      <field name="dateDisplay">December 15, 1841</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 638, Folder 197</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Evans, Mary</field>
+      <field name="people">Hunter, Alexander</field>
+      <field name="people">Crowner, William</field>
+      <field name="people">Scott, George B.</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Evans, Mary</field>
+      <field name="personID_ss">per.001756</field>
+      <field name="personData_ss">{"label":"Evans, Mary","id":"per.001756"}</field>
+      <field name="person_ss">Hunter, Alexander</field>
+      <field name="personID_ss">per.000739</field>
+      <field name="personData_ss">{"label":"Hunter, Alexander","id":"per.000739"}</field>
+      <field name="person_ss">Crowner, William</field>
+      <field name="personID_ss">per.001754</field>
+      <field name="personData_ss">{"label":"Crowner, William","id":"per.001754"}</field>
+      <field name="person_ss">Scott, George B.</field>
+      <field name="personID_ss">per.001755</field>
+      <field name="personData_ss">{"label":"Scott, George B.","id":"per.001755"}</field>
+      <field name="plaintiff_ss">Crowner, William</field>
+      <field name="plaintiffID_ss">per.001754</field>
+      <field name="plaintiffData_ss">{"label":"Crowner, William","id":"per.001754"}</field>
+      <field name="defendant_ss">Scott, George B.</field>
+      <field name="defendantID_ss">per.001755</field>
+      <field name="defendantData_ss">{"label":"Scott, George B.","id":"per.001755"}</field>
+      <field name="sourceTitle_s">Summons of Mrs. Evans</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1841-11</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0226</field>
+      <field name="documentCaseData_ss">{"label":"William Crowner v. George B. Scott","id":"oscys.caseid.0226"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Circuit Court, November Term, 1841. You are hereby commanded to summon Mrs Evans that she be and appear before the Court here, immediately, as Witness for William Crowner, petitioner for Freedom, George Scott Issued fifteenth day of December, 1841. By order, Wm Brent Clk To the Marshal of the District of Columbia. 197 Trials Crowner vs Scott Summon for Petr Mrs. Evans Summoned A Hunter Marshal </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0226</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Evans, Mary</field>
+      <field name="personID_ss" update="add">per.001756</field>
+      <field name="personData_ss" update="add">{"label":"Evans, Mary","id":"per.001756"}</field>
+      <field name="person_ss" update="add">Hunter, Alexander</field>
+      <field name="personID_ss" update="add">per.000739</field>
+      <field name="personData_ss" update="add">{"label":"Hunter, Alexander","id":"per.000739"}</field>
+      <field name="person_ss" update="add">Crowner, William</field>
+      <field name="personID_ss" update="add">per.001754</field>
+      <field name="personData_ss" update="add">{"label":"Crowner, William","id":"per.001754"}</field>
+      <field name="person_ss" update="add">Scott, George B.</field>
+      <field name="personID_ss" update="add">per.001755</field>
+      <field name="personData_ss" update="add">{"label":"Scott, George B.","id":"per.001755"}</field>
+      <field name="plaintiff_ss" update="add">Crowner, William</field>
+      <field name="plaintiffID_ss" update="add">per.001754</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Crowner, William","id":"per.001754"}</field>
+      <field name="defendant_ss" update="add">Scott, George B.</field>
+      <field name="defendantID_ss" update="add">per.001755</field>
+      <field name="defendantData_ss" update="add">{"label":"Scott, George B.","id":"per.001755"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0221.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"William Crowner v. George B. Scott. Summons of Mary Evans (December 15, 1841)","date":"1841-12-15","dateDisplay":"December 15, 1841","id":"oscys.case.0221.002"}</field>
+   </doc>
+</add>

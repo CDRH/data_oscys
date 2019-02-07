@@ -1,0 +1,93 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0031.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0031.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0031.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0031.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">John Bradley v. Pendleton Heronimus. Petition for Freedom</field>
+      <field name="titleSort" update="add">john bradley v. pendleton heronimus. petition for freedom</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1813-12-31T00:00:00Z</field>
+      <field name="dateDisplay">December 31, 1813</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 69, Folder 214</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Shelton, Thomas</field>
+      <field name="people">Bradley, John</field>
+      <field name="people">Heronimus, Pendleton</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Shelton, Thomas</field>
+      <field name="personID_ss">per.000260</field>
+      <field name="personData_ss">{"label":"Shelton, Thomas","id":"per.000260"}</field>
+      <field name="person_ss">Bradley, John</field>
+      <field name="personID_ss">per.000261</field>
+      <field name="personData_ss">{"label":"Bradley, John","id":"per.000261"}</field>
+      <field name="person_ss">Heronimus, Pendleton</field>
+      <field name="personID_ss">per.000262</field>
+      <field name="personData_ss">{"label":"Heronimus, Pendleton","id":"per.000262"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss">Bradley, John</field>
+      <field name="plaintiffID_ss">per.000261</field>
+      <field name="plaintiffData_ss">{"label":"Bradley, John","id":"per.000261"}</field>
+      <field name="defendant_ss">Heronimus, Pendleton</field>
+      <field name="defendantID_ss">per.000262</field>
+      <field name="defendantData_ss">{"label":"Heronimus, Pendleton","id":"per.000262"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1814-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0031</field>
+      <field name="documentCaseData_ss">{"label":"John Bradley v. Pendleton Heronimus","id":"oscys.caseid.0031"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble the Circuit Court of the District of Columbia— The Petition of John Bradley humbly sheweth that he is entitled to his freedom &amp; is unjustly held in confinement in the jail of this County— Your Petitioner states that he filed his petition returnable to this term against Thomas Shelton to whom he supposed claimed your Petitioner as a Slave, but he has since understood that said Shelton had sold him to a certain Pendleton Heronimus, who has caused him to be confined in the jail of Washington County where he now is; and he has reason to believe that the said Pendleton Heronimus has endeavoured to sell him to strangers and does design so to sell him to deprive him of the benefit of his Petition aforesaid. Wherefore he prays your honors that a subpona may be issued directed to said Pendleton Heronimus returnable forthwith commanding him to appear and answer to your Pendleton Heronimus Petitioner in the premisses and to enter into recognizance in the usual form &amp; that your honors will grant him such other relief in the premisses as to your honors may seem just &amp; right &amp;c F.S.Key for Petr. Dec. 31. 1813 373 214 John Bradley vs. Pendleton Heronimus Pet. Filed 31. Dec. 1813 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0031</field>
+      <field name="person_ss" update="add">Shelton, Thomas</field>
+      <field name="personID_ss" update="add">per.000260</field>
+      <field name="personData_ss" update="add">{"label":"Shelton, Thomas","id":"per.000260"}</field>
+      <field name="person_ss" update="add">Bradley, John</field>
+      <field name="personID_ss" update="add">per.000261</field>
+      <field name="personData_ss" update="add">{"label":"Bradley, John","id":"per.000261"}</field>
+      <field name="person_ss" update="add">Heronimus, Pendleton</field>
+      <field name="personID_ss" update="add">per.000262</field>
+      <field name="personData_ss" update="add">{"label":"Heronimus, Pendleton","id":"per.000262"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss" update="add">Bradley, John</field>
+      <field name="plaintiffID_ss" update="add">per.000261</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bradley, John","id":"per.000261"}</field>
+      <field name="defendant_ss" update="add">Heronimus, Pendleton</field>
+      <field name="defendantID_ss" update="add">per.000262</field>
+      <field name="defendantData_ss" update="add">{"label":"Heronimus, Pendleton","id":"per.000262"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0031.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"John Bradley v. Pendleton Heronimus. Petition for Freedom (December 31, 1813)","date":"1813-12-31","dateDisplay":"December 31, 1813","id":"oscys.case.0031.001"}</field>
+   </doc>
+</add>

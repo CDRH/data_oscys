@@ -1,0 +1,184 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0061.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0061.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0061.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0061.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Delilah v. George Jacobs &amp; Augustine B. Williams. Circuit Court Report</field>
+      <field name="titleSort" update="add">delilah v. george jacobs &amp; augustine b. williams. circuit court report</field>
+      <field name="titleLetter_s" update="add">d</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1832-10-01T00:00:00Z</field>
+      <field name="dateDisplay">October 1832</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume IV, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Childs, John</field>
+      <field name="people">Delilah</field>
+      <field name="people">George</field>
+      <field name="people">James</field>
+      <field name="people">John William</field>
+      <field name="people">Juliann</field>
+      <field name="people">Spencer</field>
+      <field name="people">Thornton</field>
+      <field name="people">Jacobs, George</field>
+      <field name="people">Williams, Augustine B.</field>
+      <field name="people">Neale, Christopher</field>
+      <field name="places">Maryland</field>
+      <field name="places">Virginia</field>
+      <field name="person_ss">Childs, John</field>
+      <field name="personID_ss">per.003247</field>
+      <field name="personData_ss">{"label":"Childs, John","id":"per.003247"}</field>
+      <field name="person_ss">Delilah</field>
+      <field name="personID_ss">per.003250</field>
+      <field name="personData_ss">{"label":"Delilah","id":"per.003250"}</field>
+      <field name="person_ss">George</field>
+      <field name="personID_ss">per.003251</field>
+      <field name="personData_ss">{"label":"George","id":"per.003251"}</field>
+      <field name="person_ss">James</field>
+      <field name="personID_ss">per.003252</field>
+      <field name="personData_ss">{"label":"James","id":"per.003252"}</field>
+      <field name="person_ss">John William</field>
+      <field name="personID_ss">per.003253</field>
+      <field name="personData_ss">{"label":"John William","id":"per.003253"}</field>
+      <field name="person_ss">Juliann</field>
+      <field name="personID_ss">per.003254</field>
+      <field name="personData_ss">{"label":"Juliann","id":"per.003254"}</field>
+      <field name="person_ss">Spencer</field>
+      <field name="personID_ss">per.003255</field>
+      <field name="personData_ss">{"label":"Spencer","id":"per.003255"}</field>
+      <field name="person_ss">Thornton</field>
+      <field name="personID_ss">per.003256</field>
+      <field name="personData_ss">{"label":"Thornton","id":"per.003256"}</field>
+      <field name="person_ss">Jacobs, George</field>
+      <field name="personID_ss">per.003257</field>
+      <field name="personData_ss">{"label":"Jacobs, George","id":"per.003257"}</field>
+      <field name="person_ss">Williams, Augustine B.</field>
+      <field name="personID_ss">per.003258</field>
+      <field name="personData_ss">{"label":"Williams, Augustine B.","id":"per.003258"}</field>
+      <field name="person_ss">Neale, Christopher</field>
+      <field name="personID_ss">per.002274</field>
+      <field name="personData_ss">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="plaintiff_ss">Delilah</field>
+      <field name="plaintiffID_ss">per.003250</field>
+      <field name="plaintiffData_ss">{"label":"Delilah","id":"per.003250"}</field>
+      <field name="plaintiff_ss">George</field>
+      <field name="plaintiffID_ss">per.003251</field>
+      <field name="plaintiffData_ss">{"label":"George","id":"per.003251"}</field>
+      <field name="plaintiff_ss">James</field>
+      <field name="plaintiffID_ss">per.003252</field>
+      <field name="plaintiffData_ss">{"label":"James","id":"per.003252"}</field>
+      <field name="plaintiff_ss">John William</field>
+      <field name="plaintiffID_ss">per.003253</field>
+      <field name="plaintiffData_ss">{"label":"John William","id":"per.003253"}</field>
+      <field name="plaintiff_ss">Juliann</field>
+      <field name="plaintiffID_ss">per.003254</field>
+      <field name="plaintiffData_ss">{"label":"Juliann","id":"per.003254"}</field>
+      <field name="plaintiff_ss">Spencer</field>
+      <field name="plaintiffID_ss">per.003255</field>
+      <field name="plaintiffData_ss">{"label":"Spencer","id":"per.003255"}</field>
+      <field name="plaintiff_ss">Thornton</field>
+      <field name="plaintiffID_ss">per.003256</field>
+      <field name="plaintiffData_ss">{"label":"Thornton","id":"per.003256"}</field>
+      <field name="defendant_ss">Jacobs, George</field>
+      <field name="defendantID_ss">per.003257</field>
+      <field name="defendantData_ss">{"label":"Jacobs, George","id":"per.003257"}</field>
+      <field name="defendant_ss">Williams, Augustine B.</field>
+      <field name="defendantID_ss">per.003258</field>
+      <field name="defendantData_ss">{"label":"Williams, Augustine B.","id":"per.003258"}</field>
+      <field name="attorneyD_ss">Neale, Christopher</field>
+      <field name="attorneyDID_ss">per.002274</field>
+      <field name="attorneyDData_ss">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="attorney_ss">Neale, Christopher</field>
+      <field name="attorneyID_ss">per.002274</field>
+      <field name="attorneyData_ss">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1832-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0436</field>
+      <field name="documentCaseData_ss">{"label":"Delilah, Juliann, Thornton, George, James, John William, &amp; Spencer v. George Jacobs &amp; Augustine B. Williams","id":"oscys.caseid.0436"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> Negro Delilah et al. v. George Jacobs et al. Where civil rights are acquired under a foreign law, this Court will enforce them. The compact between Virginia and Maryland, does not prevent Maryland from prohibiting the importation of Virginia slaves from Virginia. This was a suit for freedom. The plaintiffs claimed their freedom under the law of Maryland of 1796, c. 67, (or the act of 1783,) by being imported from Virginia into Maryland by a Mr. Childs, a citizen and resident of Maryland, who gave no list of them to be recorded, &amp;c. Mr. Neale, for the defendant, contended that this was a penal law of Maryland, which this Court, sitting in this county, could not enforce. But the Court (nem. con.) said, that where civil rights are acquired under a foreign law, this Court will enforce them; and that this point in regard to the right of freedom, had been frequently decided by this Court. Mr. Neale also cited the 12th section of the compact between Virginia and Maryland, which authorizes the citizens of each State to bring their effects into the other State free of duty; and contended that Maryland could not prohibit her own citizens from bringing their slaves from Virginia into Maryland. But the Court (nem. con.) said that the compact only prohibited the imposition of duties by Maryland, on the goods of citizens of Virginia, brought from Virginia, and vice versâ, but did not prohibit Maryland from prohibiting her own citizens from importing slaves, or any other property, belonging to them. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0436</field>
+      <field name="person_ss" update="add">Childs, John</field>
+      <field name="personID_ss" update="add">per.003247</field>
+      <field name="personData_ss" update="add">{"label":"Childs, John","id":"per.003247"}</field>
+      <field name="person_ss" update="add">Delilah</field>
+      <field name="personID_ss" update="add">per.003250</field>
+      <field name="personData_ss" update="add">{"label":"Delilah","id":"per.003250"}</field>
+      <field name="person_ss" update="add">George</field>
+      <field name="personID_ss" update="add">per.003251</field>
+      <field name="personData_ss" update="add">{"label":"George","id":"per.003251"}</field>
+      <field name="person_ss" update="add">James</field>
+      <field name="personID_ss" update="add">per.003252</field>
+      <field name="personData_ss" update="add">{"label":"James","id":"per.003252"}</field>
+      <field name="person_ss" update="add">John William</field>
+      <field name="personID_ss" update="add">per.003253</field>
+      <field name="personData_ss" update="add">{"label":"John William","id":"per.003253"}</field>
+      <field name="person_ss" update="add">Juliann</field>
+      <field name="personID_ss" update="add">per.003254</field>
+      <field name="personData_ss" update="add">{"label":"Juliann","id":"per.003254"}</field>
+      <field name="person_ss" update="add">Spencer</field>
+      <field name="personID_ss" update="add">per.003255</field>
+      <field name="personData_ss" update="add">{"label":"Spencer","id":"per.003255"}</field>
+      <field name="person_ss" update="add">Thornton</field>
+      <field name="personID_ss" update="add">per.003256</field>
+      <field name="personData_ss" update="add">{"label":"Thornton","id":"per.003256"}</field>
+      <field name="person_ss" update="add">Jacobs, George</field>
+      <field name="personID_ss" update="add">per.003257</field>
+      <field name="personData_ss" update="add">{"label":"Jacobs, George","id":"per.003257"}</field>
+      <field name="person_ss" update="add">Williams, Augustine B.</field>
+      <field name="personID_ss" update="add">per.003258</field>
+      <field name="personData_ss" update="add">{"label":"Williams, Augustine B.","id":"per.003258"}</field>
+      <field name="person_ss" update="add">Neale, Christopher</field>
+      <field name="personID_ss" update="add">per.002274</field>
+      <field name="personData_ss" update="add">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="plaintiff_ss" update="add">Delilah</field>
+      <field name="plaintiffID_ss" update="add">per.003250</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Delilah","id":"per.003250"}</field>
+      <field name="plaintiff_ss" update="add">George</field>
+      <field name="plaintiffID_ss" update="add">per.003251</field>
+      <field name="plaintiffData_ss" update="add">{"label":"George","id":"per.003251"}</field>
+      <field name="plaintiff_ss" update="add">James</field>
+      <field name="plaintiffID_ss" update="add">per.003252</field>
+      <field name="plaintiffData_ss" update="add">{"label":"James","id":"per.003252"}</field>
+      <field name="plaintiff_ss" update="add">John William</field>
+      <field name="plaintiffID_ss" update="add">per.003253</field>
+      <field name="plaintiffData_ss" update="add">{"label":"John William","id":"per.003253"}</field>
+      <field name="plaintiff_ss" update="add">Juliann</field>
+      <field name="plaintiffID_ss" update="add">per.003254</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Juliann","id":"per.003254"}</field>
+      <field name="plaintiff_ss" update="add">Spencer</field>
+      <field name="plaintiffID_ss" update="add">per.003255</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Spencer","id":"per.003255"}</field>
+      <field name="plaintiff_ss" update="add">Thornton</field>
+      <field name="plaintiffID_ss" update="add">per.003256</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Thornton","id":"per.003256"}</field>
+      <field name="defendant_ss" update="add">Jacobs, George</field>
+      <field name="defendantID_ss" update="add">per.003257</field>
+      <field name="defendantData_ss" update="add">{"label":"Jacobs, George","id":"per.003257"}</field>
+      <field name="defendant_ss" update="add">Williams, Augustine B.</field>
+      <field name="defendantID_ss" update="add">per.003258</field>
+      <field name="defendantData_ss" update="add">{"label":"Williams, Augustine B.","id":"per.003258"}</field>
+      <field name="attorneyD_ss" update="add">Neale, Christopher</field>
+      <field name="attorneyDID_ss" update="add">per.002274</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="attorney_ss" update="add">Neale, Christopher</field>
+      <field name="attorneyID_ss" update="add">per.002274</field>
+      <field name="attorneyData_ss" update="add">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0061.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Delilah v. George Jacobs &amp; Augustine B. Williams. Circuit Court Report (October, 1832)","date":"1832-10","dateDisplay":"October, 1832","id":"oscys.report.0061.001"}</field>
+   </doc>
+</add>

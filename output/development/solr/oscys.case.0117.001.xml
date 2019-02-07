@@ -1,0 +1,100 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0117.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0117.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0117.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0117.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Daniel Bell v. John Stephenson. Petition for Freedom</field>
+      <field name="titleSort" update="add">daniel bell v. john stephenson. petition for freedom</field>
+      <field name="titleLetter_s" update="add">d</field>
+      <field name="contributor"/>
+      <field name="date">1835-09-24T00:00:00Z</field>
+      <field name="dateDisplay">September 24, 1835</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 539, Folder 381</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Clarke, Edward W.</field>
+      <field name="people">Bell, Daniel</field>
+      <field name="people">Stephenson, John</field>
+      <field name="people">Dermott, John J.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Clarke, Edward W.</field>
+      <field name="personID_ss">per.000870</field>
+      <field name="personData_ss">{"label":"Clarke, Edward W.","id":"per.000870"}</field>
+      <field name="person_ss">Bell, Daniel</field>
+      <field name="personID_ss">per.000871</field>
+      <field name="personData_ss">{"label":"Bell, Daniel","id":"per.000871"}</field>
+      <field name="person_ss">Stephenson, John</field>
+      <field name="personID_ss">per.000872</field>
+      <field name="personData_ss">{"label":"Stephenson, John","id":"per.000872"}</field>
+      <field name="person_ss">Dermott, John J.</field>
+      <field name="personID_ss">per.000873</field>
+      <field name="personData_ss">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="plaintiff_ss">Bell, Daniel</field>
+      <field name="plaintiffID_ss">per.000871</field>
+      <field name="plaintiffData_ss">{"label":"Bell, Daniel","id":"per.000871"}</field>
+      <field name="defendant_ss">Stephenson, John</field>
+      <field name="defendantID_ss">per.000872</field>
+      <field name="defendantData_ss">{"label":"Stephenson, John","id":"per.000872"}</field>
+      <field name="attorneyP_ss">Dermott, John J.</field>
+      <field name="attorneyPID_ss">per.000873</field>
+      <field name="attorneyPData_ss">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="attorney_ss">Dermott, John J.</field>
+      <field name="attorneyID_ss">per.000873</field>
+      <field name="attorneyData_ss">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1835-11</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0117</field>
+      <field name="documentCaseData_ss">{"label":"Daniel Bell v. John Stephenson","id":"oscys.caseid.0117"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court of the District of Columbia for the County of Washington The Petition of Daniel Bell a coloured man humbly complaining sheweth unto your Honors that your Petitioner is entitled to his freedom and is unjustly held in bondage by John Stephenson who claims your Petitioner as his slave Wherefore your Petitioner prays your Honors to grant a subpoena to the said John Stephenson directed and such relief in the premises as may be according to law John J Dermott atty for Petitioner 381. Daniel Bell vs John Stephenson Mr Brent will please issue as above J J Dermott 24th Sept 1835 Filed 24 Sept 1835 The Clerk will enter me Secy for costs Edward W Clark </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0117</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Clarke, Edward W.</field>
+      <field name="personID_ss" update="add">per.000870</field>
+      <field name="personData_ss" update="add">{"label":"Clarke, Edward W.","id":"per.000870"}</field>
+      <field name="person_ss" update="add">Bell, Daniel</field>
+      <field name="personID_ss" update="add">per.000871</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Daniel","id":"per.000871"}</field>
+      <field name="person_ss" update="add">Stephenson, John</field>
+      <field name="personID_ss" update="add">per.000872</field>
+      <field name="personData_ss" update="add">{"label":"Stephenson, John","id":"per.000872"}</field>
+      <field name="person_ss" update="add">Dermott, John J.</field>
+      <field name="personID_ss" update="add">per.000873</field>
+      <field name="personData_ss" update="add">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="plaintiff_ss" update="add">Bell, Daniel</field>
+      <field name="plaintiffID_ss" update="add">per.000871</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, Daniel","id":"per.000871"}</field>
+      <field name="defendant_ss" update="add">Stephenson, John</field>
+      <field name="defendantID_ss" update="add">per.000872</field>
+      <field name="defendantData_ss" update="add">{"label":"Stephenson, John","id":"per.000872"}</field>
+      <field name="attorneyP_ss" update="add">Dermott, John J.</field>
+      <field name="attorneyPID_ss" update="add">per.000873</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="attorney_ss" update="add">Dermott, John J.</field>
+      <field name="attorneyID_ss" update="add">per.000873</field>
+      <field name="attorneyData_ss" update="add">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0117.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Daniel Bell v. John Stephenson. Petition for Freedom (September 24, 1835)","date":"1835-09-24","dateDisplay":"September 24, 1835","id":"oscys.case.0117.001"}</field>
+   </doc>
+</add>

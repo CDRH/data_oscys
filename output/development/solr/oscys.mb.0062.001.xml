@@ -1,0 +1,151 @@
+<add>
+   <doc>
+      <field name="id">oscys.mb.0062.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.mb.0062.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.mb.0062.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.mb.0062.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Andrew Jones v. Joshua Pearce. Minute Book Entry</field>
+      <field name="titleSort" update="add">andrew jones v. joshua pearce. minute book entry</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date">1854-11-01T00:00:00Z</field>
+      <field name="dateDisplay">November 1854</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Microfilm 1021, Reel 5</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Minute Book</field>
+      <field name="people">Bittinger, John</field>
+      <field name="people">Brown, Charles B.</field>
+      <field name="people">Gittings, Jedediah</field>
+      <field name="people">Harrison, Richard</field>
+      <field name="people">Hines, David</field>
+      <field name="people">Jackson, David</field>
+      <field name="people">Milburn, Benedict</field>
+      <field name="people">Murphy, Francis J.</field>
+      <field name="people">Oyster, David W.</field>
+      <field name="people">Shedd, William P.</field>
+      <field name="people">Wannall, Charles P.</field>
+      <field name="people">Waters, William N.</field>
+      <field name="people">Jones, Andrew</field>
+      <field name="people">Pearce, Joshua</field>
+      <field name="person_ss">Bittinger, John</field>
+      <field name="personID_ss">per.004134</field>
+      <field name="personData_ss">{"label":"Bittinger, John","id":"per.004134"}</field>
+      <field name="person_ss">Brown, Charles B.</field>
+      <field name="personID_ss">per.004135</field>
+      <field name="personData_ss">{"label":"Brown, Charles B.","id":"per.004135"}</field>
+      <field name="person_ss">Gittings, Jedediah</field>
+      <field name="personID_ss">per.004136</field>
+      <field name="personData_ss">{"label":"Gittings, Jedediah","id":"per.004136"}</field>
+      <field name="person_ss">Harrison, Richard</field>
+      <field name="personID_ss">per.003824</field>
+      <field name="personData_ss">{"label":"Harrison, Richard","id":"per.003824"}</field>
+      <field name="person_ss">Hines, David</field>
+      <field name="personID_ss">per.004137</field>
+      <field name="personData_ss">{"label":"Hines, David","id":"per.004137"}</field>
+      <field name="person_ss">Jackson, David</field>
+      <field name="personID_ss">per.004138</field>
+      <field name="personData_ss">{"label":"Jackson, David","id":"per.004138"}</field>
+      <field name="person_ss">Milburn, Benedict</field>
+      <field name="personID_ss">per.004139</field>
+      <field name="personData_ss">{"label":"Milburn, Benedict","id":"per.004139"}</field>
+      <field name="person_ss">Murphy, Francis J.</field>
+      <field name="personID_ss">per.004140</field>
+      <field name="personData_ss">{"label":"Murphy, Francis J.","id":"per.004140"}</field>
+      <field name="person_ss">Oyster, David W.</field>
+      <field name="personID_ss">per.004141</field>
+      <field name="personData_ss">{"label":"Oyster, David W.","id":"per.004141"}</field>
+      <field name="person_ss">Shedd, William P.</field>
+      <field name="personID_ss">per.004142</field>
+      <field name="personData_ss">{"label":"Shedd, William P.","id":"per.004142"}</field>
+      <field name="person_ss">Wannall, Charles P.</field>
+      <field name="personID_ss">per.004132</field>
+      <field name="personData_ss">{"label":"Wannall, Charles P.","id":"per.004132"}</field>
+      <field name="person_ss">Waters, William N.</field>
+      <field name="personID_ss">per.000979</field>
+      <field name="personData_ss">{"label":"Waters, William N.","id":"per.000979"}</field>
+      <field name="person_ss">Jones, Andrew</field>
+      <field name="personID_ss">per.002323</field>
+      <field name="personData_ss">{"label":"Jones, Andrew","id":"per.002323"}</field>
+      <field name="person_ss">Pearce, Joshua</field>
+      <field name="personID_ss">per.002324</field>
+      <field name="personData_ss">{"label":"Pearce, Joshua","id":"per.002324"}</field>
+      <field name="plaintiff_ss">Jones, Andrew</field>
+      <field name="plaintiffID_ss">per.002323</field>
+      <field name="plaintiffData_ss">{"label":"Jones, Andrew","id":"per.002323"}</field>
+      <field name="defendant_ss">Pearce, Joshua</field>
+      <field name="defendantID_ss">per.002324</field>
+      <field name="defendantData_ss">{"label":"Pearce, Joshua","id":"per.002324"}</field>
+      <field name="sourceTitle_s">Minutes of the U.S. Circuit Court for the District of Columbia, 1801-1863</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1854-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0306</field>
+      <field name="documentCaseData_ss">{"label":"Andrew Jones v. Joshua Pearce","id":"oscys.caseid.0306"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Andrew Jones ast. Joshua Pearce No. 238 Trials Jury Sworn Verdict for Petitioner for Plff for Deft 1 David W. Oyster 2 Jedediah Gittings 3 Charles P Wannell 4 Wm N. Waters 5 Francis J Murphy 6 Richard Harrison 7 John Bittinger 8 Charles B Brown 9 Wm P Shedd 10 David Hines 11 Benedict Milburn 12 David Jackson 211 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0306</field>
+      <field update="add" name="outcomeData_ss">{"label":"Verdict for Plaintiff","date":"1854-11","dateDisplay":"November 1854","id":"oscys.mb.0062.001"}</field>
+      <field update="add" name="outcome_ss">Verdict for Plaintiff</field>
+      <field name="person_ss" update="add">Bittinger, John</field>
+      <field name="personID_ss" update="add">per.004134</field>
+      <field name="personData_ss" update="add">{"label":"Bittinger, John","id":"per.004134"}</field>
+      <field name="person_ss" update="add">Brown, Charles B.</field>
+      <field name="personID_ss" update="add">per.004135</field>
+      <field name="personData_ss" update="add">{"label":"Brown, Charles B.","id":"per.004135"}</field>
+      <field name="person_ss" update="add">Gittings, Jedediah</field>
+      <field name="personID_ss" update="add">per.004136</field>
+      <field name="personData_ss" update="add">{"label":"Gittings, Jedediah","id":"per.004136"}</field>
+      <field name="person_ss" update="add">Harrison, Richard</field>
+      <field name="personID_ss" update="add">per.003824</field>
+      <field name="personData_ss" update="add">{"label":"Harrison, Richard","id":"per.003824"}</field>
+      <field name="person_ss" update="add">Hines, David</field>
+      <field name="personID_ss" update="add">per.004137</field>
+      <field name="personData_ss" update="add">{"label":"Hines, David","id":"per.004137"}</field>
+      <field name="person_ss" update="add">Jackson, David</field>
+      <field name="personID_ss" update="add">per.004138</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, David","id":"per.004138"}</field>
+      <field name="person_ss" update="add">Milburn, Benedict</field>
+      <field name="personID_ss" update="add">per.004139</field>
+      <field name="personData_ss" update="add">{"label":"Milburn, Benedict","id":"per.004139"}</field>
+      <field name="person_ss" update="add">Murphy, Francis J.</field>
+      <field name="personID_ss" update="add">per.004140</field>
+      <field name="personData_ss" update="add">{"label":"Murphy, Francis J.","id":"per.004140"}</field>
+      <field name="person_ss" update="add">Oyster, David W.</field>
+      <field name="personID_ss" update="add">per.004141</field>
+      <field name="personData_ss" update="add">{"label":"Oyster, David W.","id":"per.004141"}</field>
+      <field name="person_ss" update="add">Shedd, William P.</field>
+      <field name="personID_ss" update="add">per.004142</field>
+      <field name="personData_ss" update="add">{"label":"Shedd, William P.","id":"per.004142"}</field>
+      <field name="person_ss" update="add">Wannall, Charles P.</field>
+      <field name="personID_ss" update="add">per.004132</field>
+      <field name="personData_ss" update="add">{"label":"Wannall, Charles P.","id":"per.004132"}</field>
+      <field name="person_ss" update="add">Waters, William N.</field>
+      <field name="personID_ss" update="add">per.000979</field>
+      <field name="personData_ss" update="add">{"label":"Waters, William N.","id":"per.000979"}</field>
+      <field name="person_ss" update="add">Jones, Andrew</field>
+      <field name="personID_ss" update="add">per.002323</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Andrew","id":"per.002323"}</field>
+      <field name="person_ss" update="add">Pearce, Joshua</field>
+      <field name="personID_ss" update="add">per.002324</field>
+      <field name="personData_ss" update="add">{"label":"Pearce, Joshua","id":"per.002324"}</field>
+      <field name="plaintiff_ss" update="add">Jones, Andrew</field>
+      <field name="plaintiffID_ss" update="add">per.002323</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jones, Andrew","id":"per.002323"}</field>
+      <field name="defendant_ss" update="add">Pearce, Joshua</field>
+      <field name="defendantID_ss" update="add">per.002324</field>
+      <field name="defendantData_ss" update="add">{"label":"Pearce, Joshua","id":"per.002324"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.mb.0062.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Andrew Jones v. Joshua Pearce. Minute Book Entry (November, 1854)","date":"1854-11","dateDisplay":"November, 1854","id":"oscys.mb.0062.001"}</field>
+   </doc>
+</add>

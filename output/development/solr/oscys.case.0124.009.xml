@@ -1,0 +1,153 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0124.009</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0124.009.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0124.009.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0124.009.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ellen Trunnell &amp; Milly Ross et al. v. Henry B. Robertson &amp; Daniel Keene. B. W. Harrison's Notes of Cases</field>
+      <field name="titleSort" update="add">ellen trunnell &amp; milly ross et al. v. henry b. robertson &amp; daniel keene. b. w. harrison's notes of cases</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 688, Folder 126</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Notes</field>
+      <field name="people">Harrison, B. W.</field>
+      <field name="people">Keene, David</field>
+      <field name="people">Peacock, Elijah</field>
+      <field name="people">Ross, Ann Maria</field>
+      <field name="people">Ross, Milly</field>
+      <field name="people">Smith, Charlotte</field>
+      <field name="people">Trunnell, Ellen</field>
+      <field name="people">Trunnell, Fanny</field>
+      <field name="people">Keene, Daniel</field>
+      <field name="people">Robertson, Henry B.</field>
+      <field name="places">Fairfax County (Va.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Harrison, B. W.</field>
+      <field name="personID_ss">per.000966</field>
+      <field name="personData_ss">{"label":"Harrison, B. W.","id":"per.000966"}</field>
+      <field name="person_ss">Keene, David</field>
+      <field name="personID_ss">per.000910</field>
+      <field name="personData_ss">{"label":"Keene, David","id":"per.000910"}</field>
+      <field name="person_ss">Peacock, Elijah</field>
+      <field name="personID_ss">per.000967</field>
+      <field name="personData_ss">{"label":"Peacock, Elijah","id":"per.000967"}</field>
+      <field name="person_ss">Ross, Ann Maria</field>
+      <field name="personID_ss">per.000893</field>
+      <field name="personData_ss">{"label":"Ross, Ann Maria","id":"per.000893"}</field>
+      <field name="person_ss">Ross, Milly</field>
+      <field name="personID_ss">per.000894</field>
+      <field name="personData_ss">{"label":"Ross, Milly","id":"per.000894"}</field>
+      <field name="person_ss">Smith, Charlotte</field>
+      <field name="personID_ss">per.000895</field>
+      <field name="personData_ss">{"label":"Smith, Charlotte","id":"per.000895"}</field>
+      <field name="person_ss">Trunnell, Ellen</field>
+      <field name="personID_ss">per.000896</field>
+      <field name="personData_ss">{"label":"Trunnell, Ellen","id":"per.000896"}</field>
+      <field name="person_ss">Trunnell, Fanny</field>
+      <field name="personID_ss">per.000897</field>
+      <field name="personData_ss">{"label":"Trunnell, Fanny","id":"per.000897"}</field>
+      <field name="person_ss">Keene, Daniel</field>
+      <field name="personID_ss">per.000898</field>
+      <field name="personData_ss">{"label":"Keene, Daniel","id":"per.000898"}</field>
+      <field name="person_ss">Robertson, Henry B.</field>
+      <field name="personID_ss">per.000899</field>
+      <field name="personData_ss">{"label":"Robertson, Henry B.","id":"per.000899"}</field>
+      <field name="plaintiff_ss">Ross, Ann Maria</field>
+      <field name="plaintiffID_ss">per.000893</field>
+      <field name="plaintiffData_ss">{"label":"Ross, Ann Maria","id":"per.000893"}</field>
+      <field name="plaintiff_ss">Ross, Milly</field>
+      <field name="plaintiffID_ss">per.000894</field>
+      <field name="plaintiffData_ss">{"label":"Ross, Milly","id":"per.000894"}</field>
+      <field name="plaintiff_ss">Smith, Charlotte</field>
+      <field name="plaintiffID_ss">per.000895</field>
+      <field name="plaintiffData_ss">{"label":"Smith, Charlotte","id":"per.000895"}</field>
+      <field name="plaintiff_ss">Trunnell, Ellen</field>
+      <field name="plaintiffID_ss">per.000896</field>
+      <field name="plaintiffData_ss">{"label":"Trunnell, Ellen","id":"per.000896"}</field>
+      <field name="plaintiff_ss">Trunnell, Fanny</field>
+      <field name="plaintiffID_ss">per.000897</field>
+      <field name="plaintiffData_ss">{"label":"Trunnell, Fanny","id":"per.000897"}</field>
+      <field name="defendant_ss">Keene, Daniel</field>
+      <field name="defendantID_ss">per.000898</field>
+      <field name="defendantData_ss">{"label":"Keene, Daniel","id":"per.000898"}</field>
+      <field name="defendant_ss">Robertson, Henry B.</field>
+      <field name="defendantID_ss">per.000899</field>
+      <field name="defendantData_ss">{"label":"Robertson, Henry B.","id":"per.000899"}</field>
+      <field name="sourceTitle_s">B. W. Harrison's Notes of Cases</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1845-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0124</field>
+      <field name="documentCaseData_ss">{"label":"Ellen Trunnell, Milly Ross, Fanny Trammell, Ann Maria Ross, &amp; Charlotte Smith v. Henry B. Robertson &amp; Daniel Keene","id":"oscys.caseid.0124"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> In the case of David Keene's negroes now confined in Washington &amp; suing for their freedom I am requested to furnish a note on behalf of David Keene which may be used if necessary by counsel there who may each be so familiar with the Virginian Law. Negroes are emancipated in Virginia under the Laws which will be found 1 Vol. Revised Code pa 433 sec. 53. It proscribes that any person by last will &amp; testament or any other instrument in writing under hand &amp; seal attested by two witnesses &amp; proved in the County or Corporation Court as acknowledged by the party in the Court of the County where he resides may emancipate his slaves. In order to do so it be in the manner prescribed by will properly proved &amp; as writing proved &amp;c as acknowledged in the Court &amp;c No other mode than that prescribed will be effectual. For it is decided that a deed recorded in a district Court (tho of higher ) is inadmissible evidence in a suit for Freedom see Graves &amp;c. v Niamis 6 Mumford 191. 201 Acts of May 1782. c 21 § 1. 1803. 1814 c 103 § 6 Rhode c 111 § 53 vol. p 433 That a deed executed in Ohio but having reference to Virginia rule be void unless it conferred to the laws of Virginia Lewis v Fullerton 1 Randolph 15. 21. That an instrument of Emancipation is ineffectual to confer Freedom till full probate thereof be made &amp; takes effect only from the date of complete probate. See Thrift v Hannah &amp;c 2 Leigh 300. See the opinion of Judges in Mann v Givens &amp;c 7 Leigh 707. It seems they cannot be emancipated by a will see opinion of Tucker &amp; Brooke in Winn v Bob &amp;c 3 Leigh 140 In this case the will is acknowledged before one witness only &amp; is therefore under the Laws of Virginia no will. See Sessions Acts March 1835 per 43 will is decided by the Court a Court of Competent Jurisdiction. And as this Case must turn on the Laws of Virginia until the decision of the Court is reversed I presume it is conclusive. B W Harrison Novr. 1843 A County Court refuses to receive an instrument of emancipation to probate, can be compelled only by : Mann &amp; oth vs Seporis &amp; oth. 2 Leigh 762. Mandamus is the remedy. 7 Leigh 689. There is no right of emancipation in Va. except as expressly given by the Statutes, which must be strictly . Thrift vs Hanna 2 Leigh 300. Slaves personal estate — Revised Code p 431. Manner of Emancipation Revised Code 433. It shall be lawful. Will wholly written by testator, proved by two witnesses &amp; recorded is duly executed to Emancipate Slaves. Dunn v Amey 1 Leigh 465. Nicholas v Burruss 4 Leigh 289. Per Tucker Justice the executors assent to the bequest is necessary to perfect the right to freedom &amp; without such assent no action as law, can be maintained for freedom. A will not admitted to probate is not admissible evidence in favor of Petitioners for freedom. Negro Ann Bell &amp; children vs Gerard T Greenfield Judge Cranch's M.S. cases 2 series 271. County of Washington. Trunnel v. Robertson Mr. B. W. Harrison's notes of cases &amp;c. Elijah Peacock Wanesville P.O. Fairfax Co Va. Where the devises of realty and personalty are so blended together, and so dependent on each other, that the effectuation as to the personalty, and the failure of the will as to the realty must altogether defeat the objects of the Testr. the will failing of probate ad of one sort or other of propl fails altogether. Rochelle vs Rochelle x Leigh 147. refers to act of 1835 Taites Digest p 894 Act of Febry 20, 1840 All wills of personalty (except puncupative wills) hereafter made to be executed and attested, as wills of real estate. Taites Digest 288. Will of real estate if not wholly written by testator, must be attested by two or more credible witnesses 9 Leigh 521 8 - 20 Williamson vs Beckwick </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0124</field>
+      <field name="person_ss" update="add">Harrison, B. W.</field>
+      <field name="personID_ss" update="add">per.000966</field>
+      <field name="personData_ss" update="add">{"label":"Harrison, B. W.","id":"per.000966"}</field>
+      <field name="person_ss" update="add">Keene, David</field>
+      <field name="personID_ss" update="add">per.000910</field>
+      <field name="personData_ss" update="add">{"label":"Keene, David","id":"per.000910"}</field>
+      <field name="person_ss" update="add">Peacock, Elijah</field>
+      <field name="personID_ss" update="add">per.000967</field>
+      <field name="personData_ss" update="add">{"label":"Peacock, Elijah","id":"per.000967"}</field>
+      <field name="person_ss" update="add">Ross, Ann Maria</field>
+      <field name="personID_ss" update="add">per.000893</field>
+      <field name="personData_ss" update="add">{"label":"Ross, Ann Maria","id":"per.000893"}</field>
+      <field name="person_ss" update="add">Ross, Milly</field>
+      <field name="personID_ss" update="add">per.000894</field>
+      <field name="personData_ss" update="add">{"label":"Ross, Milly","id":"per.000894"}</field>
+      <field name="person_ss" update="add">Smith, Charlotte</field>
+      <field name="personID_ss" update="add">per.000895</field>
+      <field name="personData_ss" update="add">{"label":"Smith, Charlotte","id":"per.000895"}</field>
+      <field name="person_ss" update="add">Trunnell, Ellen</field>
+      <field name="personID_ss" update="add">per.000896</field>
+      <field name="personData_ss" update="add">{"label":"Trunnell, Ellen","id":"per.000896"}</field>
+      <field name="person_ss" update="add">Trunnell, Fanny</field>
+      <field name="personID_ss" update="add">per.000897</field>
+      <field name="personData_ss" update="add">{"label":"Trunnell, Fanny","id":"per.000897"}</field>
+      <field name="person_ss" update="add">Keene, Daniel</field>
+      <field name="personID_ss" update="add">per.000898</field>
+      <field name="personData_ss" update="add">{"label":"Keene, Daniel","id":"per.000898"}</field>
+      <field name="person_ss" update="add">Robertson, Henry B.</field>
+      <field name="personID_ss" update="add">per.000899</field>
+      <field name="personData_ss" update="add">{"label":"Robertson, Henry B.","id":"per.000899"}</field>
+      <field name="plaintiff_ss" update="add">Ross, Ann Maria</field>
+      <field name="plaintiffID_ss" update="add">per.000893</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ross, Ann Maria","id":"per.000893"}</field>
+      <field name="plaintiff_ss" update="add">Ross, Milly</field>
+      <field name="plaintiffID_ss" update="add">per.000894</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ross, Milly","id":"per.000894"}</field>
+      <field name="plaintiff_ss" update="add">Smith, Charlotte</field>
+      <field name="plaintiffID_ss" update="add">per.000895</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Smith, Charlotte","id":"per.000895"}</field>
+      <field name="plaintiff_ss" update="add">Trunnell, Ellen</field>
+      <field name="plaintiffID_ss" update="add">per.000896</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Trunnell, Ellen","id":"per.000896"}</field>
+      <field name="plaintiff_ss" update="add">Trunnell, Fanny</field>
+      <field name="plaintiffID_ss" update="add">per.000897</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Trunnell, Fanny","id":"per.000897"}</field>
+      <field name="defendant_ss" update="add">Keene, Daniel</field>
+      <field name="defendantID_ss" update="add">per.000898</field>
+      <field name="defendantData_ss" update="add">{"label":"Keene, Daniel","id":"per.000898"}</field>
+      <field name="defendant_ss" update="add">Robertson, Henry B.</field>
+      <field name="defendantID_ss" update="add">per.000899</field>
+      <field name="defendantData_ss" update="add">{"label":"Robertson, Henry B.","id":"per.000899"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0124.009</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ellen Trunnell &amp; Milly Ross et al. v. Henry B. Robertson &amp; Daniel Keene. B. W. Harrison's Notes of Cases","id":"oscys.case.0124.009"}</field>
+   </doc>
+</add>

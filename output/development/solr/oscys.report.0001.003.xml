@@ -1,0 +1,143 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0001.003</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0001.003.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0001.003.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0001.003.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ben v. Sabret Scott. Circuit Court Report</field>
+      <field name="titleSort" update="add">ben v. sabret scott. circuit court report</field>
+      <field name="titleLetter_s" update="add">b</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1807-06-01T00:00:00Z</field>
+      <field name="dateDisplay">June 1807</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume I, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Barnes, John</field>
+      <field name="people">Fitzhugh, Nicholas</field>
+      <field name="people">Jameson, Richard</field>
+      <field name="people">Ben</field>
+      <field name="people">Scott, Sabret</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="people">Jones, Walter, 1776-1861</field>
+      <field name="people">Morsell, James Sewall</field>
+      <field name="person_ss">Barnes, John</field>
+      <field name="personID_ss">per.001546</field>
+      <field name="personData_ss">{"label":"Barnes, John","id":"per.001546"}</field>
+      <field name="person_ss">Fitzhugh, Nicholas</field>
+      <field name="personID_ss">per.000063</field>
+      <field name="personData_ss">{"label":"Fitzhugh, Nicholas","id":"per.000063"}</field>
+      <field name="person_ss">Jameson, Richard</field>
+      <field name="personID_ss">per.001552</field>
+      <field name="personData_ss">{"label":"Jameson, Richard","id":"per.001552"}</field>
+      <field name="person_ss">Ben</field>
+      <field name="personID_ss">per.000002</field>
+      <field name="personData_ss">{"label":"Ben","id":"per.000002"}</field>
+      <field name="person_ss">Scott, Sabret</field>
+      <field name="personID_ss">per.000005</field>
+      <field name="personData_ss">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="person_ss">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss">per.000435</field>
+      <field name="personData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="person_ss">Morsell, James Sewall</field>
+      <field name="personID_ss">per.000044</field>
+      <field name="personData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="plaintiff_ss">Ben</field>
+      <field name="plaintiffID_ss">per.000002</field>
+      <field name="plaintiffData_ss">{"label":"Ben","id":"per.000002"}</field>
+      <field name="defendant_ss">Scott, Sabret</field>
+      <field name="defendantID_ss">per.000005</field>
+      <field name="defendantData_ss">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorneyD_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss">per.000435</field>
+      <field name="attorneyDData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss">per.000435</field>
+      <field name="attorneyData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorneyD_ss">Morsell, James Sewall</field>
+      <field name="attorneyDID_ss">per.000044</field>
+      <field name="attorneyDData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="attorney_ss">Morsell, James Sewall</field>
+      <field name="attorneyID_ss">per.000044</field>
+      <field name="attorneyData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1807-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0001</field>
+      <field name="documentCaseData_ss">{"label":"Ben v. Sabret Scott","id":"oscys.caseid.0001"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Ben v. Sabrett Scott. The general issue on a petition for freedom is that which puts in issue the simple question whether free or not. Under the Maryland law of April, 1783, c. 23, the slave imported does not gain his freedom by the omission of the master to prove, to the satisfaction of the naval officer or collector of taxes, that the slave had resided in one of the United States three years before importation. Petition for freedom. The cause being called for trial, and no issue made up, Mr. Jones and Mr. Morsell, for the defendant, asked for time to put in a plea denying the facts in the petition, which were stated as the ground of the right to freedom. The petition contained also a general allegation that the defendant unjustly held the petitioner in slavery. The Court said that they would receive the general issue only, unless the petitioner should agree to continue the cause. The defendant's counsel contended that a denial of the special facts was a general issue. But the Court (Fitzhugh, J., absent,) said the general issue was that which put in issue the simple question whether free or not. Mr. Key, for the petitioner, moved the Court to instruct the jury, that they must be satisfied that the defendant made it appear to the satisfaction of the naval officer or collector of taxes, that the slave was a resident of one of the United States, agreeably to the Maryland Act of April, 1783, c. 23, which prohibits the importation of slaves generally, but excepts those who should have resided three years in some of the United States; and provides that such residence shall be fully proved to the satisfaction of the naval officer, &amp;c. Mr. Jones, for the defendant. It is sufficient if he proves the fact now, before the Court. If the defendant had satisfied the collector or naval officer, he might have been still called upon to prove the fact before this Court. The act is merely directory; it is no part of the proviso. Mr. Key , in reply. The legislature have expressly declared that the proof of the fact shall be made before a certain officer, and in a certain manner. They had probably reasons of policy which required it should be so done; and the manner of proof is equally essential with the substance. The Court (Fitzhugh, J., absent,) directed the jury as prayed, but said it was a question of some doubt, and they would hear the point reargued on a motion for a new trial, if the verdict should be against the defendant. Mr. Jones, for the defendant, then offered a certificate, dated June 16, 1807, (four days ago, this being June 20, 1807,) signed by John Barnes, the United States collector and naval officer at the port of Georgetown; that the defendant had on that day proved to his satisfaction that the petitioner had been a resident three years, &amp;c. Mr. Key, contended that the importation and oath must be concomitant with the coming in of the master. But if not, yet he ought to have done it during the existence of the law (the Act of 1783.) It is his own negligence if he did not. He had till 1796 to do it. The Court (Fitzhugh, J., absent,) refused to admit the certificate in evidence. The defendant then offered a like certificate signed by Richard Jamieson, collector of the tax for the county of Washington, dated June 12th, 1807, which was also rejected by the Court. Verdict for the petitioner. (Reversed in the Supreme Court. 6 Cranch, 3.) </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0001</field>
+      <field name="person_ss" update="add">Barnes, John</field>
+      <field name="personID_ss" update="add">per.001546</field>
+      <field name="personData_ss" update="add">{"label":"Barnes, John","id":"per.001546"}</field>
+      <field name="person_ss" update="add">Fitzhugh, Nicholas</field>
+      <field name="personID_ss" update="add">per.000063</field>
+      <field name="personData_ss" update="add">{"label":"Fitzhugh, Nicholas","id":"per.000063"}</field>
+      <field name="person_ss" update="add">Jameson, Richard</field>
+      <field name="personID_ss" update="add">per.001552</field>
+      <field name="personData_ss" update="add">{"label":"Jameson, Richard","id":"per.001552"}</field>
+      <field name="person_ss" update="add">Ben</field>
+      <field name="personID_ss" update="add">per.000002</field>
+      <field name="personData_ss" update="add">{"label":"Ben","id":"per.000002"}</field>
+      <field name="person_ss" update="add">Scott, Sabret</field>
+      <field name="personID_ss" update="add">per.000005</field>
+      <field name="personData_ss" update="add">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="person_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss" update="add">per.000435</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="person_ss" update="add">Morsell, James Sewall</field>
+      <field name="personID_ss" update="add">per.000044</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="plaintiff_ss" update="add">Ben</field>
+      <field name="plaintiffID_ss" update="add">per.000002</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ben","id":"per.000002"}</field>
+      <field name="defendant_ss" update="add">Scott, Sabret</field>
+      <field name="defendantID_ss" update="add">per.000005</field>
+      <field name="defendantData_ss" update="add">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorneyD_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss" update="add">per.000435</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss" update="add">per.000435</field>
+      <field name="attorneyData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorneyD_ss" update="add">Morsell, James Sewall</field>
+      <field name="attorneyDID_ss" update="add">per.000044</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="attorney_ss" update="add">Morsell, James Sewall</field>
+      <field name="attorneyID_ss" update="add">per.000044</field>
+      <field name="attorneyData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0001.003</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Ben v. Sabret Scott. Circuit Court Report (June, 1807)","date":"1807-06","dateDisplay":"June, 1807","id":"oscys.report.0001.003"}</field>
+   </doc>
+</add>

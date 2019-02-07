@@ -9,3 +9,4 @@ config/private.yml
 # increase specificity of this path if you wish to only track generated html
 !/output/production/
 !/output/development/html
+!/output/development/

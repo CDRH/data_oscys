@@ -1,0 +1,92 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0077.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0077.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0077.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0077.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Travers Dixon v. William Herbert. Petition for Freedom</field>
+      <field name="titleSort" update="add">travers dixon v. william herbert. petition for freedom</field>
+      <field name="titleLetter_s" update="add">t</field>
+      <field name="contributor"/>
+      <field name="date">1825-05-17T00:00:00Z</field>
+      <field name="dateDisplay">May 17, 1825</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 363, Folder 152</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Thornton, George F.</field>
+      <field name="people">Dixon, Travers</field>
+      <field name="people">Herbert, William</field>
+      <field name="people">Scott, W. W.</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Thornton, George F.</field>
+      <field name="personID_ss">per.000632</field>
+      <field name="personData_ss">{"label":"Thornton, George F.","id":"per.000632"}</field>
+      <field name="person_ss">Dixon, Travers</field>
+      <field name="personID_ss">per.000633</field>
+      <field name="personData_ss">{"label":"Dixon, Travers","id":"per.000633"}</field>
+      <field name="person_ss">Herbert, William</field>
+      <field name="personID_ss">per.000634</field>
+      <field name="personData_ss">{"label":"Herbert, William","id":"per.000634"}</field>
+      <field name="person_ss">Scott, W. W.</field>
+      <field name="personID_ss">per.000635</field>
+      <field name="personData_ss">{"label":"Scott, W. W.","id":"per.000635"}</field>
+      <field name="plaintiff_ss">Dixon, Travers</field>
+      <field name="plaintiffID_ss">per.000633</field>
+      <field name="plaintiffData_ss">{"label":"Dixon, Travers","id":"per.000633"}</field>
+      <field name="defendant_ss">Herbert, William</field>
+      <field name="defendantID_ss">per.000634</field>
+      <field name="defendantData_ss">{"label":"Herbert, William","id":"per.000634"}</field>
+      <field name="attorneyP_ss">Scott, W. W.</field>
+      <field name="attorneyPID_ss">per.000635</field>
+      <field name="attorneyPData_ss">{"label":"Scott, W. W.","id":"per.000635"}</field>
+      <field name="attorney_ss">Scott, W. W.</field>
+      <field name="attorneyID_ss">per.000635</field>
+      <field name="attorneyData_ss">{"label":"Scott, W. W.","id":"per.000635"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1826-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0077</field>
+      <field name="documentCaseData_ss">{"label":"Travers Dixon v. William Herbert","id":"oscys.caseid.0077"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court of the United States for the District of Columbia Your Petitioner Travers Dixon respectfully represents to your Honors that he is entitled to his freedom, and that he is illegally and unjustifiably held in bondage By William Herbert Esq. the administrator of his former master George F. Thornton deceased. Wherefore he prays your Honors to enquire into his case, and by Judicial interposition to extend to him that relief to which he is properly entitled. and your Petitioner as in duty bound will ever pray &amp;c 699 348 214 152. Petition of Travers Dixon for his freedom File this, and issue Subpena immediately returnable. W.W. Scott for Petitioner fd. 17th May 1825 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0077</field>
+      <field name="person_ss" update="add">Thornton, George F.</field>
+      <field name="personID_ss" update="add">per.000632</field>
+      <field name="personData_ss" update="add">{"label":"Thornton, George F.","id":"per.000632"}</field>
+      <field name="person_ss" update="add">Dixon, Travers</field>
+      <field name="personID_ss" update="add">per.000633</field>
+      <field name="personData_ss" update="add">{"label":"Dixon, Travers","id":"per.000633"}</field>
+      <field name="person_ss" update="add">Herbert, William</field>
+      <field name="personID_ss" update="add">per.000634</field>
+      <field name="personData_ss" update="add">{"label":"Herbert, William","id":"per.000634"}</field>
+      <field name="person_ss" update="add">Scott, W. W.</field>
+      <field name="personID_ss" update="add">per.000635</field>
+      <field name="personData_ss" update="add">{"label":"Scott, W. W.","id":"per.000635"}</field>
+      <field name="plaintiff_ss" update="add">Dixon, Travers</field>
+      <field name="plaintiffID_ss" update="add">per.000633</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Dixon, Travers","id":"per.000633"}</field>
+      <field name="defendant_ss" update="add">Herbert, William</field>
+      <field name="defendantID_ss" update="add">per.000634</field>
+      <field name="defendantData_ss" update="add">{"label":"Herbert, William","id":"per.000634"}</field>
+      <field name="attorneyP_ss" update="add">Scott, W. W.</field>
+      <field name="attorneyPID_ss" update="add">per.000635</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Scott, W. W.","id":"per.000635"}</field>
+      <field name="attorney_ss" update="add">Scott, W. W.</field>
+      <field name="attorneyID_ss" update="add">per.000635</field>
+      <field name="attorneyData_ss" update="add">{"label":"Scott, W. W.","id":"per.000635"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0077.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Travers Dixon v. William Herbert. Petition for Freedom (May 17, 1825)","date":"1825-05-17","dateDisplay":"May 17, 1825","id":"oscys.case.0077.001"}</field>
+   </doc>
+</add>

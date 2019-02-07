@@ -1,0 +1,99 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0193.004</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0193.004.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0193.004.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0193.004.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Rebecca Hobbs v. Thomas Magruder &amp; Washington Robey. Bond</field>
+      <field name="titleSort" update="add">rebecca hobbs v. thomas magruder &amp; washington robey. bond</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 506, Folder 152</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Bond</field>
+      <field name="people">Miller, Henry</field>
+      <field name="people">McNamee, Charles</field>
+      <field name="people">Ramsay</field>
+      <field name="people">Hobbs, Rebecca</field>
+      <field name="people">Magruder, Thomas</field>
+      <field name="people">Robey, Washington</field>
+      <field name="person_ss">Miller, Henry</field>
+      <field name="personID_ss">per.001624</field>
+      <field name="personData_ss">{"label":"Miller, Henry","id":"per.001624"}</field>
+      <field name="person_ss">McNamee, Charles</field>
+      <field name="personID_ss">per.001625</field>
+      <field name="personData_ss">{"label":"McNamee, Charles","id":"per.001625"}</field>
+      <field name="person_ss">Ramsay</field>
+      <field name="personID_ss">per.001626</field>
+      <field name="personData_ss">{"label":"Ramsay","id":"per.001626"}</field>
+      <field name="person_ss">Hobbs, Rebecca</field>
+      <field name="personID_ss">per.001614</field>
+      <field name="personData_ss">{"label":"Hobbs, Rebecca","id":"per.001614"}</field>
+      <field name="person_ss">Magruder, Thomas</field>
+      <field name="personID_ss">per.001615</field>
+      <field name="personData_ss">{"label":"Magruder, Thomas","id":"per.001615"}</field>
+      <field name="person_ss">Robey, Washington</field>
+      <field name="personID_ss">per.001616</field>
+      <field name="personData_ss">{"label":"Robey, Washington","id":"per.001616"}</field>
+      <field name="plaintiff_ss">Hobbs, Rebecca</field>
+      <field name="plaintiffID_ss">per.001614</field>
+      <field name="plaintiffData_ss">{"label":"Hobbs, Rebecca","id":"per.001614"}</field>
+      <field name="defendant_ss">Magruder, Thomas</field>
+      <field name="defendantID_ss">per.001615</field>
+      <field name="defendantData_ss">{"label":"Magruder, Thomas","id":"per.001615"}</field>
+      <field name="defendant_ss">Robey, Washington</field>
+      <field name="defendantID_ss">per.001616</field>
+      <field name="defendantData_ss">{"label":"Robey, Washington","id":"per.001616"}</field>
+      <field name="sourceTitle_s">Bond</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1834-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0195</field>
+      <field name="documentCaseData_ss">{"label":"Rebecca Hobbs v. Thomas Magruder &amp; Washington Robey","id":"oscys.caseid.0195"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> I will pay the fees in the case of Rebecca Hobbs, Petio for freedom his Henry x Miller mark (Yellow man living with Mr. Ramsay opposite Browns Tavern) Witness Chas. McNamee </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0195</field>
+      <field name="person_ss" update="add">Miller, Henry</field>
+      <field name="personID_ss" update="add">per.001624</field>
+      <field name="personData_ss" update="add">{"label":"Miller, Henry","id":"per.001624"}</field>
+      <field name="person_ss" update="add">McNamee, Charles</field>
+      <field name="personID_ss" update="add">per.001625</field>
+      <field name="personData_ss" update="add">{"label":"McNamee, Charles","id":"per.001625"}</field>
+      <field name="person_ss" update="add">Ramsay</field>
+      <field name="personID_ss" update="add">per.001626</field>
+      <field name="personData_ss" update="add">{"label":"Ramsay","id":"per.001626"}</field>
+      <field name="person_ss" update="add">Hobbs, Rebecca</field>
+      <field name="personID_ss" update="add">per.001614</field>
+      <field name="personData_ss" update="add">{"label":"Hobbs, Rebecca","id":"per.001614"}</field>
+      <field name="person_ss" update="add">Magruder, Thomas</field>
+      <field name="personID_ss" update="add">per.001615</field>
+      <field name="personData_ss" update="add">{"label":"Magruder, Thomas","id":"per.001615"}</field>
+      <field name="person_ss" update="add">Robey, Washington</field>
+      <field name="personID_ss" update="add">per.001616</field>
+      <field name="personData_ss" update="add">{"label":"Robey, Washington","id":"per.001616"}</field>
+      <field name="plaintiff_ss" update="add">Hobbs, Rebecca</field>
+      <field name="plaintiffID_ss" update="add">per.001614</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Hobbs, Rebecca","id":"per.001614"}</field>
+      <field name="defendant_ss" update="add">Magruder, Thomas</field>
+      <field name="defendantID_ss" update="add">per.001615</field>
+      <field name="defendantData_ss" update="add">{"label":"Magruder, Thomas","id":"per.001615"}</field>
+      <field name="defendant_ss" update="add">Robey, Washington</field>
+      <field name="defendantID_ss" update="add">per.001616</field>
+      <field name="defendantData_ss" update="add">{"label":"Robey, Washington","id":"per.001616"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0193.004</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Rebecca Hobbs v. Thomas Magruder &amp; Washington Robey. Bond","id":"oscys.case.0193.004"}</field>
+   </doc>
+</add>

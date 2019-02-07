@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0304.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0304.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0304.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0304.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Andrew Jones v. Joshua Pearce. Petition for Freedom</field>
+      <field name="titleSort" update="add">andrew jones v. joshua pearce. petition for freedom</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date">1852-11-27T00:00:00Z</field>
+      <field name="dateDisplay">November 27, 1852</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 784, Folder 238</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Jones, Andrew</field>
+      <field name="people">Pearce, Joshua</field>
+      <field name="people">Ratcliffe, Daniel</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Jones, Andrew</field>
+      <field name="personID_ss">per.002323</field>
+      <field name="personData_ss">{"label":"Jones, Andrew","id":"per.002323"}</field>
+      <field name="person_ss">Pearce, Joshua</field>
+      <field name="personID_ss">per.002324</field>
+      <field name="personData_ss">{"label":"Pearce, Joshua","id":"per.002324"}</field>
+      <field name="person_ss">Ratcliffe, Daniel</field>
+      <field name="personID_ss">per.000751</field>
+      <field name="personData_ss">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="plaintiff_ss">Jones, Andrew</field>
+      <field name="plaintiffID_ss">per.002323</field>
+      <field name="plaintiffData_ss">{"label":"Jones, Andrew","id":"per.002323"}</field>
+      <field name="defendant_ss">Pearce, Joshua</field>
+      <field name="defendantID_ss">per.002324</field>
+      <field name="defendantData_ss">{"label":"Pearce, Joshua","id":"per.002324"}</field>
+      <field name="attorneyP_ss">Ratcliffe, Daniel</field>
+      <field name="attorneyPID_ss">per.000751</field>
+      <field name="attorneyPData_ss">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="attorney_ss">Ratcliffe, Daniel</field>
+      <field name="attorneyID_ss">per.000751</field>
+      <field name="attorneyData_ss">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1854-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0306</field>
+      <field name="documentCaseData_ss">{"label":"Andrew Jones v. Joshua Pearce","id":"oscys.caseid.0306"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Hon the Judges of the Circuit Court of the District of Columbia for the County of Washington The petition of Andrew Jones, respectfully represents that his mother was free, and he was born free, and is entitled to his freedom; and that he is held in bondage by a certain Joshua Pearce, contrary to law, and asks such relief from your Honors, as is legal and right. Daniel Ratcliffe for Petitioner 43. 238 Andrew Jones vs       Pearce Pet for Freedom The Clerk will please issue on the within Petition, &amp; give Jones Danl Ratcliffe Atty for Petitioner Filed 27" Nov 1852. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0306</field>
+      <field name="person_ss" update="add">Jones, Andrew</field>
+      <field name="personID_ss" update="add">per.002323</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Andrew","id":"per.002323"}</field>
+      <field name="person_ss" update="add">Pearce, Joshua</field>
+      <field name="personID_ss" update="add">per.002324</field>
+      <field name="personData_ss" update="add">{"label":"Pearce, Joshua","id":"per.002324"}</field>
+      <field name="person_ss" update="add">Ratcliffe, Daniel</field>
+      <field name="personID_ss" update="add">per.000751</field>
+      <field name="personData_ss" update="add">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="plaintiff_ss" update="add">Jones, Andrew</field>
+      <field name="plaintiffID_ss" update="add">per.002323</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jones, Andrew","id":"per.002323"}</field>
+      <field name="defendant_ss" update="add">Pearce, Joshua</field>
+      <field name="defendantID_ss" update="add">per.002324</field>
+      <field name="defendantData_ss" update="add">{"label":"Pearce, Joshua","id":"per.002324"}</field>
+      <field name="attorneyP_ss" update="add">Ratcliffe, Daniel</field>
+      <field name="attorneyPID_ss" update="add">per.000751</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="attorney_ss" update="add">Ratcliffe, Daniel</field>
+      <field name="attorneyID_ss" update="add">per.000751</field>
+      <field name="attorneyData_ss" update="add">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0304.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Andrew Jones v. Joshua Pearce. Petition for Freedom (November 27, 1852)","date":"1852-11-27","dateDisplay":"November 27, 1852","id":"oscys.case.0304.001"}</field>
+   </doc>
+</add>

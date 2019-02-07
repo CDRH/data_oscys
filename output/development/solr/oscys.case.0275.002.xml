@@ -1,0 +1,100 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0275.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0275.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0275.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0275.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">James Thomas v. Thomas Beatty Jr. Henry Hiort to William Brent</field>
+      <field name="titleSort" update="add">james thomas v. thomas beatty jr. henry hiort to william brent</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1809-08-21T00:00:00Z</field>
+      <field name="dateDisplay">August 21, 1809</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 34, Folder 195</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Correspondence</field>
+      <field name="people">Beatty, Thomas I.</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Thomas, James</field>
+      <field name="people">Beatty, Thomas Jr.</field>
+      <field name="people">Hiort, Henry</field>
+      <field name="places">North Carolina</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Beatty, Thomas I.</field>
+      <field name="personID_ss">per.002179</field>
+      <field name="personData_ss">{"label":"Beatty, Thomas I.","id":"per.002179"}</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Thomas, James</field>
+      <field name="personID_ss">per.002177</field>
+      <field name="personData_ss">{"label":"Thomas, James","id":"per.002177"}</field>
+      <field name="person_ss">Beatty, Thomas Jr.</field>
+      <field name="personID_ss">per.002178</field>
+      <field name="personData_ss">{"label":"Beatty, Thomas Jr.","id":"per.002178"}</field>
+      <field name="person_ss">Hiort, Henry</field>
+      <field name="personID_ss">per.000011</field>
+      <field name="personData_ss">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="plaintiff_ss">Thomas, James</field>
+      <field name="plaintiffID_ss">per.002177</field>
+      <field name="plaintiffData_ss">{"label":"Thomas, James","id":"per.002177"}</field>
+      <field name="defendant_ss">Beatty, Thomas Jr.</field>
+      <field name="defendantID_ss">per.002178</field>
+      <field name="defendantData_ss">{"label":"Beatty, Thomas Jr.","id":"per.002178"}</field>
+      <field name="attorneyP_ss">Hiort, Henry</field>
+      <field name="attorneyPID_ss">per.000011</field>
+      <field name="attorneyPData_ss">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="attorney_ss">Hiort, Henry</field>
+      <field name="attorneyID_ss">per.000011</field>
+      <field name="attorneyData_ss">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="sourceTitle_s">Henry Hiort to William Brent</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1811-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0275</field>
+      <field name="documentCaseData_ss">{"label":"James Thomas v. Thomas Beatty Jr.","id":"oscys.caseid.0275"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Dr Sir: The Petitioner has been mistaken in his master's name. It is Thomas Beatty Junr. Be so good as to alter the Petition, and issue a correct summons and oblige Yours respectfully Henry Hiort 21 Augt 1809. Wm Brent Esqr Ct. Co. Ct. W Wm Brent Esqr C. C. C. Wn. Dist. of Columbia The Defendants name is not Thomas I. Beatty, but Thomas Beatty Junr. T. I. B. lives in North Carolina </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0275</field>
+      <field name="person_ss" update="add">Beatty, Thomas I.</field>
+      <field name="personID_ss" update="add">per.002179</field>
+      <field name="personData_ss" update="add">{"label":"Beatty, Thomas I.","id":"per.002179"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Thomas, James</field>
+      <field name="personID_ss" update="add">per.002177</field>
+      <field name="personData_ss" update="add">{"label":"Thomas, James","id":"per.002177"}</field>
+      <field name="person_ss" update="add">Beatty, Thomas Jr.</field>
+      <field name="personID_ss" update="add">per.002178</field>
+      <field name="personData_ss" update="add">{"label":"Beatty, Thomas Jr.","id":"per.002178"}</field>
+      <field name="person_ss" update="add">Hiort, Henry</field>
+      <field name="personID_ss" update="add">per.000011</field>
+      <field name="personData_ss" update="add">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="plaintiff_ss" update="add">Thomas, James</field>
+      <field name="plaintiffID_ss" update="add">per.002177</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Thomas, James","id":"per.002177"}</field>
+      <field name="defendant_ss" update="add">Beatty, Thomas Jr.</field>
+      <field name="defendantID_ss" update="add">per.002178</field>
+      <field name="defendantData_ss" update="add">{"label":"Beatty, Thomas Jr.","id":"per.002178"}</field>
+      <field name="attorneyP_ss" update="add">Hiort, Henry</field>
+      <field name="attorneyPID_ss" update="add">per.000011</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="attorney_ss" update="add">Hiort, Henry</field>
+      <field name="attorneyID_ss" update="add">per.000011</field>
+      <field name="attorneyData_ss" update="add">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0275.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"James Thomas v. Thomas Beatty Jr. Henry Hiort to William Brent (August 21, 1809)","date":"1809-08-21","dateDisplay":"August 21, 1809","id":"oscys.case.0275.002"}</field>
+   </doc>
+</add>

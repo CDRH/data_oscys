@@ -1,0 +1,87 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0052.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0052.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0052.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0052.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Joseph Burke v. Rachel Hoskins. Petition for Freedom</field>
+      <field name="titleSort" update="add">joseph burke v. rachel hoskins. petition for freedom</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1823-04-28T00:00:00Z</field>
+      <field name="dateDisplay">April 28, 1823</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 329, Folder 101</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Burke, Joseph</field>
+      <field name="people">Hoskins, Rachel</field>
+      <field name="people">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="places">Fairfax County (Va.)</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Burke, Joseph</field>
+      <field name="personID_ss">per.000494</field>
+      <field name="personData_ss">{"label":"Burke, Joseph","id":"per.000494"}</field>
+      <field name="person_ss">Hoskins, Rachel</field>
+      <field name="personID_ss">per.000495</field>
+      <field name="personData_ss">{"label":"Hoskins, Rachel","id":"per.000495"}</field>
+      <field name="person_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss">per.000496</field>
+      <field name="personData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="plaintiff_ss">Burke, Joseph</field>
+      <field name="plaintiffID_ss">per.000494</field>
+      <field name="plaintiffData_ss">{"label":"Burke, Joseph","id":"per.000494"}</field>
+      <field name="defendant_ss">Hoskins, Rachel</field>
+      <field name="defendantID_ss">per.000495</field>
+      <field name="defendantData_ss">{"label":"Hoskins, Rachel","id":"per.000495"}</field>
+      <field name="attorneyP_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyPID_ss">per.000496</field>
+      <field name="attorneyPData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss">per.000496</field>
+      <field name="attorneyData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1824-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0052</field>
+      <field name="documentCaseData_ss">{"label":"Joseph Burke v. Rachel Hoskins","id":"oscys.caseid.0052"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court of the District of Columbia for the County of Washington The petition of Joseph Burke humbly sheweth unto your Honours that your petitioner is a free man, having been unlawfully imported and brought into the District of Columbia to reside within this district and County of Washington from the State of Virginia and is unjustly detained in slavery by Rachel Hoskins of the County of Fairfax in the State of Virginia. He therefor prays that your Honours will take into consideration his case, and that you will be pleased to cause the United States writ of subpona to issue to the aforesaid Rachel Hoskins, and that your petitioner may have a trial according to law, and that such other and further process may be ordered therein as to your honours may seem reasonable and just. And as in duty bound your petitioner will ever pray. Richard S. Coxe Atty for Joseph Burke 21 101 Joseph Burke vs Rachel Hoskins Petition for freedom filed 28th April 1823 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0052</field>
+      <field name="person_ss" update="add">Burke, Joseph</field>
+      <field name="personID_ss" update="add">per.000494</field>
+      <field name="personData_ss" update="add">{"label":"Burke, Joseph","id":"per.000494"}</field>
+      <field name="person_ss" update="add">Hoskins, Rachel</field>
+      <field name="personID_ss" update="add">per.000495</field>
+      <field name="personData_ss" update="add">{"label":"Hoskins, Rachel","id":"per.000495"}</field>
+      <field name="person_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss" update="add">per.000496</field>
+      <field name="personData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="plaintiff_ss" update="add">Burke, Joseph</field>
+      <field name="plaintiffID_ss" update="add">per.000494</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Burke, Joseph","id":"per.000494"}</field>
+      <field name="defendant_ss" update="add">Hoskins, Rachel</field>
+      <field name="defendantID_ss" update="add">per.000495</field>
+      <field name="defendantData_ss" update="add">{"label":"Hoskins, Rachel","id":"per.000495"}</field>
+      <field name="attorneyP_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyPID_ss" update="add">per.000496</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss" update="add">per.000496</field>
+      <field name="attorneyData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0052.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Joseph Burke v. Rachel Hoskins. Petition for Freedom (April 28, 1823)","date":"1823-04-28","dateDisplay":"April 28, 1823","id":"oscys.case.0052.001"}</field>
+   </doc>
+</add>

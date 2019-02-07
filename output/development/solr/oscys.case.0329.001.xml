@@ -1,0 +1,93 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0329.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0329.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0329.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0329.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Joe v. George Chapman. Petition for Freedom</field>
+      <field name="titleSort" update="add">joe v. george chapman. petition for freedom</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1810-10-10T00:00:00Z</field>
+      <field name="dateDisplay">October 10, 1810</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 47, Folder 252</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Joe</field>
+      <field name="people">Chapman, George</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Joe</field>
+      <field name="personID_ss">per.002434</field>
+      <field name="personData_ss">{"label":"Joe","id":"per.002434"}</field>
+      <field name="person_ss">Chapman, George</field>
+      <field name="personID_ss">per.002435</field>
+      <field name="personData_ss">{"label":"Chapman, George","id":"per.002435"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss">Joe</field>
+      <field name="plaintiffID_ss">per.002434</field>
+      <field name="plaintiffData_ss">{"label":"Joe","id":"per.002434"}</field>
+      <field name="defendant_ss">Chapman, George</field>
+      <field name="defendantID_ss">per.002435</field>
+      <field name="defendantData_ss">{"label":"Chapman, George","id":"per.002435"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1812-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0329</field>
+      <field name="documentCaseData_ss">{"label":"Joe v. George Chapman","id":"oscys.caseid.0329"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble the Circuit Court of the District of Columbia for Washington County. The Petition of Negroe Joe humbly sheweth that your Petitioner is a free man agreeably to the laws &amp; is unjustly held in bondage by a certain George Chapman who claims your Petitioner as a slave. Your Petitioner therefore prays to be discharged from his said servitude, &amp; that a subpoena may issue to the said George Chapman commanding him to appear before your Honours &amp; answer to the premisses; &amp; your Petitioner being prepared to prove his said claim to freedom prays your Honors that the same may be duly enquired into &amp; that he may be granted such relief in the premisses as to your Honors may seem just &amp;c F S Key for Petr. 197. 249. Negroe Joe vs George Chapman Pet: Mr Brent Please to issue subpa on the within &amp; file it. Yrs F S Key. Filed 10. Oct. 1810 give the petr. the usual protection. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0329</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Joe</field>
+      <field name="personID_ss" update="add">per.002434</field>
+      <field name="personData_ss" update="add">{"label":"Joe","id":"per.002434"}</field>
+      <field name="person_ss" update="add">Chapman, George</field>
+      <field name="personID_ss" update="add">per.002435</field>
+      <field name="personData_ss" update="add">{"label":"Chapman, George","id":"per.002435"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss" update="add">Joe</field>
+      <field name="plaintiffID_ss" update="add">per.002434</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Joe","id":"per.002434"}</field>
+      <field name="defendant_ss" update="add">Chapman, George</field>
+      <field name="defendantID_ss" update="add">per.002435</field>
+      <field name="defendantData_ss" update="add">{"label":"Chapman, George","id":"per.002435"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0329.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Joe v. George Chapman. Petition for Freedom (October 10, 1810)","date":"1810-10-10","dateDisplay":"October 10, 1810","id":"oscys.case.0329.001"}</field>
+   </doc>
+</add>

@@ -1,0 +1,98 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0260.006</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0260.006.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0260.006.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0260.006.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Patty v. Charles Ratcliffe. Fleet Smith to William Brent</field>
+      <field name="titleSort" update="add">patty v. charles ratcliffe. fleet smith to william brent</field>
+      <field name="titleLetter_s" update="add">p</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Box 329, Folder 164</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Correspondence</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Vincent, Tom</field>
+      <field name="people">Patty</field>
+      <field name="people">Ratcliffe, Charles</field>
+      <field name="people">Smith, Fleet</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Vincent, Tom</field>
+      <field name="personID_ss">per.002117</field>
+      <field name="personData_ss">{"label":"Vincent, Tom","id":"per.002117"}</field>
+      <field name="person_ss">Patty</field>
+      <field name="personID_ss">per.002115</field>
+      <field name="personData_ss">{"label":"Patty","id":"per.002115"}</field>
+      <field name="person_ss">Ratcliffe, Charles</field>
+      <field name="personID_ss">per.002116</field>
+      <field name="personData_ss">{"label":"Ratcliffe, Charles","id":"per.002116"}</field>
+      <field name="person_ss">Smith, Fleet</field>
+      <field name="personID_ss">per.000558</field>
+      <field name="personData_ss">{"label":"Smith, Fleet","id":"per.000558"}</field>
+      <field name="plaintiff_ss">Patty</field>
+      <field name="plaintiffID_ss">per.002115</field>
+      <field name="plaintiffData_ss">{"label":"Patty","id":"per.002115"}</field>
+      <field name="defendant_ss">Ratcliffe, Charles</field>
+      <field name="defendantID_ss">per.002116</field>
+      <field name="defendantData_ss">{"label":"Ratcliffe, Charles","id":"per.002116"}</field>
+      <field name="attorneyP_ss">Smith, Fleet</field>
+      <field name="attorneyPID_ss">per.000558</field>
+      <field name="attorneyPData_ss">{"label":"Smith, Fleet","id":"per.000558"}</field>
+      <field name="attorney_ss">Smith, Fleet</field>
+      <field name="attorneyID_ss">per.000558</field>
+      <field name="attorneyData_ss">{"label":"Smith, Fleet","id":"per.000558"}</field>
+      <field name="sourceTitle_s">Fleet Smith to William Brent</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1824-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0348</field>
+      <field name="documentCaseData_ss">{"label":"Patty v. Charles Ratcliffe","id":"oscys.caseid.0348"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> In the case of Patty vs Charles Radcliffe— A petitioner for freedom— handed to you by the bearer Tom Vincent on Saturday evening last— You will be pleased to have the goodness to Issue the Spa: forthwith, and much oblige Your's most Respectfully Fleet Smith Monday Morning Colo. W. Brent Tom Present </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0348</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Vincent, Tom</field>
+      <field name="personID_ss" update="add">per.002117</field>
+      <field name="personData_ss" update="add">{"label":"Vincent, Tom","id":"per.002117"}</field>
+      <field name="person_ss" update="add">Patty</field>
+      <field name="personID_ss" update="add">per.002115</field>
+      <field name="personData_ss" update="add">{"label":"Patty","id":"per.002115"}</field>
+      <field name="person_ss" update="add">Ratcliffe, Charles</field>
+      <field name="personID_ss" update="add">per.002116</field>
+      <field name="personData_ss" update="add">{"label":"Ratcliffe, Charles","id":"per.002116"}</field>
+      <field name="person_ss" update="add">Smith, Fleet</field>
+      <field name="personID_ss" update="add">per.000558</field>
+      <field name="personData_ss" update="add">{"label":"Smith, Fleet","id":"per.000558"}</field>
+      <field name="plaintiff_ss" update="add">Patty</field>
+      <field name="plaintiffID_ss" update="add">per.002115</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Patty","id":"per.002115"}</field>
+      <field name="defendant_ss" update="add">Ratcliffe, Charles</field>
+      <field name="defendantID_ss" update="add">per.002116</field>
+      <field name="defendantData_ss" update="add">{"label":"Ratcliffe, Charles","id":"per.002116"}</field>
+      <field name="attorneyP_ss" update="add">Smith, Fleet</field>
+      <field name="attorneyPID_ss" update="add">per.000558</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Smith, Fleet","id":"per.000558"}</field>
+      <field name="attorney_ss" update="add">Smith, Fleet</field>
+      <field name="attorneyID_ss" update="add">per.000558</field>
+      <field name="attorneyData_ss" update="add">{"label":"Smith, Fleet","id":"per.000558"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0260.006</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Patty v. Charles Ratcliffe. Fleet Smith to William Brent","id":"oscys.case.0260.006"}</field>
+   </doc>
+</add>

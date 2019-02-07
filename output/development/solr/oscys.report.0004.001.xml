@@ -1,0 +1,97 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0004.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0004.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0004.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0004.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Walter Thomas &amp; Dennis Thomas v. Alexander Scott. Circuit Court Report</field>
+      <field name="titleSort" update="add">walter thomas &amp; dennis thomas v. alexander scott. circuit court report</field>
+      <field name="titleLetter_s" update="add">w</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1810-06-01T00:00:00Z</field>
+      <field name="dateDisplay">June 1810</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume II, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Thomas, Dennis</field>
+      <field name="people">Thomas, Walter</field>
+      <field name="people">Scott, Alexander</field>
+      <field name="people">Law, John</field>
+      <field name="person_ss">Thomas, Dennis</field>
+      <field name="personID_ss">per.001935</field>
+      <field name="personData_ss">{"label":"Thomas, Dennis","id":"per.001935"}</field>
+      <field name="person_ss">Thomas, Walter</field>
+      <field name="personID_ss">per.001936</field>
+      <field name="personData_ss">{"label":"Thomas, Walter","id":"per.001936"}</field>
+      <field name="person_ss">Scott, Alexander</field>
+      <field name="personID_ss">per.001937</field>
+      <field name="personData_ss">{"label":"Scott, Alexander","id":"per.001937"}</field>
+      <field name="person_ss">Law, John</field>
+      <field name="personID_ss">per.000023</field>
+      <field name="personData_ss">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="plaintiff_ss">Thomas, Dennis</field>
+      <field name="plaintiffID_ss">per.001935</field>
+      <field name="plaintiffData_ss">{"label":"Thomas, Dennis","id":"per.001935"}</field>
+      <field name="plaintiff_ss">Thomas, Walter</field>
+      <field name="plaintiffID_ss">per.001936</field>
+      <field name="plaintiffData_ss">{"label":"Thomas, Walter","id":"per.001936"}</field>
+      <field name="defendant_ss">Scott, Alexander</field>
+      <field name="defendantID_ss">per.001937</field>
+      <field name="defendantData_ss">{"label":"Scott, Alexander","id":"per.001937"}</field>
+      <field name="attorneyP_ss">Law, John</field>
+      <field name="attorneyPID_ss">per.000023</field>
+      <field name="attorneyPData_ss">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="attorney_ss">Law, John</field>
+      <field name="attorneyID_ss">per.000023</field>
+      <field name="attorneyData_ss">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1810-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0260</field>
+      <field name="documentCaseData_ss">{"label":"Walter Thomas &amp; Dennis Thomas v. Alexander Scott","id":"oscys.caseid.0260"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Walter Thomas v. Alexander Scott Upon a petition for freedom, the defendant may appear and disclaim, without entering into the usual recognizance. Petition for freedom. The defendant, Scott, offered to appear and disclaim all right of property in the petitioner, at the time of service of the subpœna or any time since. Mr. Law, for the petitioner, objected that he must enter into a recognizance before he can appear, and prayed for an attachment for not obeying the summons. The Act of Assembly 1796, c. 43, § 5, authorizes the Court to require such a recognizance. Mr. Law suggested that Mr. Scott, knowing that a petition was filed, sold and conveyed away the negro before service of the subpœna. The Court said that a man may appear, to disclaim, without entering into the recognizance to have the negro forthcoming, and refused the attachment. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0260</field>
+      <field name="person_ss" update="add">Thomas, Dennis</field>
+      <field name="personID_ss" update="add">per.001935</field>
+      <field name="personData_ss" update="add">{"label":"Thomas, Dennis","id":"per.001935"}</field>
+      <field name="person_ss" update="add">Thomas, Walter</field>
+      <field name="personID_ss" update="add">per.001936</field>
+      <field name="personData_ss" update="add">{"label":"Thomas, Walter","id":"per.001936"}</field>
+      <field name="person_ss" update="add">Scott, Alexander</field>
+      <field name="personID_ss" update="add">per.001937</field>
+      <field name="personData_ss" update="add">{"label":"Scott, Alexander","id":"per.001937"}</field>
+      <field name="person_ss" update="add">Law, John</field>
+      <field name="personID_ss" update="add">per.000023</field>
+      <field name="personData_ss" update="add">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="plaintiff_ss" update="add">Thomas, Dennis</field>
+      <field name="plaintiffID_ss" update="add">per.001935</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Thomas, Dennis","id":"per.001935"}</field>
+      <field name="plaintiff_ss" update="add">Thomas, Walter</field>
+      <field name="plaintiffID_ss" update="add">per.001936</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Thomas, Walter","id":"per.001936"}</field>
+      <field name="defendant_ss" update="add">Scott, Alexander</field>
+      <field name="defendantID_ss" update="add">per.001937</field>
+      <field name="defendantData_ss" update="add">{"label":"Scott, Alexander","id":"per.001937"}</field>
+      <field name="attorneyP_ss" update="add">Law, John</field>
+      <field name="attorneyPID_ss" update="add">per.000023</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="attorney_ss" update="add">Law, John</field>
+      <field name="attorneyID_ss" update="add">per.000023</field>
+      <field name="attorneyData_ss" update="add">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0004.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Walter Thomas &amp; Dennis Thomas v. Alexander Scott. Circuit Court Report (June, 1810)","date":"1810-06","dateDisplay":"June, 1810","id":"oscys.report.0004.001"}</field>
+   </doc>
+</add>

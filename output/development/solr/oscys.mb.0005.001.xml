@@ -1,0 +1,163 @@
+<add>
+   <doc>
+      <field name="id">oscys.mb.0005.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.mb.0005.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.mb.0005.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.mb.0005.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Priscilla Queen v. Francis Neale. Minute Book Entry</field>
+      <field name="titleSort" update="add">priscilla queen v. francis neale. minute book entry</field>
+      <field name="titleLetter_s" update="add">p</field>
+      <field name="contributor"/>
+      <field name="date">1810-06-20T00:00:00Z</field>
+      <field name="dateDisplay">June 20, 1810</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Microfilm 1021, Reel 1</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Minute Book</field>
+      <field name="people">Baltzer, George</field>
+      <field name="people">Burnett, Charles A.</field>
+      <field name="people">Cassin, Joseph</field>
+      <field name="people">Cochrane, Alexander</field>
+      <field name="people">Duvall, Gabriel, 1752-1844</field>
+      <field name="people">Greenfield, Walter</field>
+      <field name="people">Herford, Henry</field>
+      <field name="people">Moore, William</field>
+      <field name="people">Peltz, John</field>
+      <field name="people">Queen, Simon</field>
+      <field name="people">Reintzell, John</field>
+      <field name="people">St. Clair, George</field>
+      <field name="people">Weaver, C. Willis</field>
+      <field name="people">Wilson, Henry</field>
+      <field name="people">Queen, Priscilla</field>
+      <field name="people">Neale, Francis</field>
+      <field name="person_ss">Baltzer, George</field>
+      <field name="personID_ss">per.001452</field>
+      <field name="personData_ss">{"label":"Baltzer, George","id":"per.001452"}</field>
+      <field name="person_ss">Burnett, Charles A.</field>
+      <field name="personID_ss">per.001453</field>
+      <field name="personData_ss">{"label":"Burnett, Charles A.","id":"per.001453"}</field>
+      <field name="person_ss">Cassin, Joseph</field>
+      <field name="personID_ss">per.001454</field>
+      <field name="personData_ss">{"label":"Cassin, Joseph","id":"per.001454"}</field>
+      <field name="person_ss">Cochrane, Alexander</field>
+      <field name="personID_ss">per.001455</field>
+      <field name="personData_ss">{"label":"Cochrane, Alexander","id":"per.001455"}</field>
+      <field name="person_ss">Duvall, Gabriel, 1752-1844</field>
+      <field name="personID_ss">per.001393</field>
+      <field name="personData_ss">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="person_ss">Greenfield, Walter</field>
+      <field name="personID_ss">per.001456</field>
+      <field name="personData_ss">{"label":"Greenfield, Walter","id":"per.001456"}</field>
+      <field name="person_ss">Herford, Henry</field>
+      <field name="personID_ss">per.001457</field>
+      <field name="personData_ss">{"label":"Herford, Henry","id":"per.001457"}</field>
+      <field name="person_ss">Moore, William</field>
+      <field name="personID_ss">per.001458</field>
+      <field name="personData_ss">{"label":"Moore, William","id":"per.001458"}</field>
+      <field name="person_ss">Peltz, John</field>
+      <field name="personID_ss">per.001459</field>
+      <field name="personData_ss">{"label":"Peltz, John","id":"per.001459"}</field>
+      <field name="person_ss">Queen, Simon</field>
+      <field name="personID_ss">per.000076</field>
+      <field name="personData_ss">{"label":"Queen, Simon","id":"per.000076"}</field>
+      <field name="person_ss">Reintzell, John</field>
+      <field name="personID_ss">per.001460</field>
+      <field name="personData_ss">{"label":"Reintzell, John","id":"per.001460"}</field>
+      <field name="person_ss">St. Clair, George</field>
+      <field name="personID_ss">per.001461</field>
+      <field name="personData_ss">{"label":"St. Clair, George","id":"per.001461"}</field>
+      <field name="person_ss">Weaver, C. Willis</field>
+      <field name="personID_ss">per.001462</field>
+      <field name="personData_ss">{"label":"Weaver, C. Willis","id":"per.001462"}</field>
+      <field name="person_ss">Wilson, Henry</field>
+      <field name="personID_ss">per.001463</field>
+      <field name="personData_ss">{"label":"Wilson, Henry","id":"per.001463"}</field>
+      <field name="person_ss">Queen, Priscilla</field>
+      <field name="personID_ss">per.000213</field>
+      <field name="personData_ss">{"label":"Queen, Priscilla","id":"per.000213"}</field>
+      <field name="person_ss">Neale, Francis</field>
+      <field name="personID_ss">per.000214</field>
+      <field name="personData_ss">{"label":"Neale, Francis","id":"per.000214"}</field>
+      <field name="plaintiff_ss">Queen, Priscilla</field>
+      <field name="plaintiffID_ss">per.000213</field>
+      <field name="plaintiffData_ss">{"label":"Queen, Priscilla","id":"per.000213"}</field>
+      <field name="defendant_ss">Neale, Francis</field>
+      <field name="defendantID_ss">per.000214</field>
+      <field name="defendantData_ss">{"label":"Neale, Francis","id":"per.000214"}</field>
+      <field name="sourceTitle_s">Minutes of the U.S. Circuit Court for the District of Columbia, 1801-1863</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1810-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0025</field>
+      <field name="documentCaseData_ss">{"label":"Priscilla Queen v. Francis Neale","id":"oscys.caseid.0025"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Priscilla Queen vs Francis Neale No. 206. Jury Sworn 1 Henry Wilson 2 Henry Herford 3 Alexander Cochrane 4. Joseph Cassin 5. Walter Greenfield 6. Charles A. Burnett 7 John Reintzell 8. George Baltzer 9. George St Clair 10. William Moore 11 C. Willis Weaver 12. John Peltz Witnesses for Petitioner Simon Queen Gabriel Duvall Juror withdrawn </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0025</field>
+      <field name="person_ss" update="add">Baltzer, George</field>
+      <field name="personID_ss" update="add">per.001452</field>
+      <field name="personData_ss" update="add">{"label":"Baltzer, George","id":"per.001452"}</field>
+      <field name="person_ss" update="add">Burnett, Charles A.</field>
+      <field name="personID_ss" update="add">per.001453</field>
+      <field name="personData_ss" update="add">{"label":"Burnett, Charles A.","id":"per.001453"}</field>
+      <field name="person_ss" update="add">Cassin, Joseph</field>
+      <field name="personID_ss" update="add">per.001454</field>
+      <field name="personData_ss" update="add">{"label":"Cassin, Joseph","id":"per.001454"}</field>
+      <field name="person_ss" update="add">Cochrane, Alexander</field>
+      <field name="personID_ss" update="add">per.001455</field>
+      <field name="personData_ss" update="add">{"label":"Cochrane, Alexander","id":"per.001455"}</field>
+      <field name="person_ss" update="add">Duvall, Gabriel, 1752-1844</field>
+      <field name="personID_ss" update="add">per.001393</field>
+      <field name="personData_ss" update="add">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="person_ss" update="add">Greenfield, Walter</field>
+      <field name="personID_ss" update="add">per.001456</field>
+      <field name="personData_ss" update="add">{"label":"Greenfield, Walter","id":"per.001456"}</field>
+      <field name="person_ss" update="add">Herford, Henry</field>
+      <field name="personID_ss" update="add">per.001457</field>
+      <field name="personData_ss" update="add">{"label":"Herford, Henry","id":"per.001457"}</field>
+      <field name="person_ss" update="add">Moore, William</field>
+      <field name="personID_ss" update="add">per.001458</field>
+      <field name="personData_ss" update="add">{"label":"Moore, William","id":"per.001458"}</field>
+      <field name="person_ss" update="add">Peltz, John</field>
+      <field name="personID_ss" update="add">per.001459</field>
+      <field name="personData_ss" update="add">{"label":"Peltz, John","id":"per.001459"}</field>
+      <field name="person_ss" update="add">Queen, Simon</field>
+      <field name="personID_ss" update="add">per.000076</field>
+      <field name="personData_ss" update="add">{"label":"Queen, Simon","id":"per.000076"}</field>
+      <field name="person_ss" update="add">Reintzell, John</field>
+      <field name="personID_ss" update="add">per.001460</field>
+      <field name="personData_ss" update="add">{"label":"Reintzell, John","id":"per.001460"}</field>
+      <field name="person_ss" update="add">St. Clair, George</field>
+      <field name="personID_ss" update="add">per.001461</field>
+      <field name="personData_ss" update="add">{"label":"St. Clair, George","id":"per.001461"}</field>
+      <field name="person_ss" update="add">Weaver, C. Willis</field>
+      <field name="personID_ss" update="add">per.001462</field>
+      <field name="personData_ss" update="add">{"label":"Weaver, C. Willis","id":"per.001462"}</field>
+      <field name="person_ss" update="add">Wilson, Henry</field>
+      <field name="personID_ss" update="add">per.001463</field>
+      <field name="personData_ss" update="add">{"label":"Wilson, Henry","id":"per.001463"}</field>
+      <field name="person_ss" update="add">Queen, Priscilla</field>
+      <field name="personID_ss" update="add">per.000213</field>
+      <field name="personData_ss" update="add">{"label":"Queen, Priscilla","id":"per.000213"}</field>
+      <field name="person_ss" update="add">Neale, Francis</field>
+      <field name="personID_ss" update="add">per.000214</field>
+      <field name="personData_ss" update="add">{"label":"Neale, Francis","id":"per.000214"}</field>
+      <field name="plaintiff_ss" update="add">Queen, Priscilla</field>
+      <field name="plaintiffID_ss" update="add">per.000213</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Queen, Priscilla","id":"per.000213"}</field>
+      <field name="defendant_ss" update="add">Neale, Francis</field>
+      <field name="defendantID_ss" update="add">per.000214</field>
+      <field name="defendantData_ss" update="add">{"label":"Neale, Francis","id":"per.000214"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.mb.0005.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Priscilla Queen v. Francis Neale. Minute Book Entry (June 20, 1810)","date":"1810-06-20","dateDisplay":"June 20, 1810","id":"oscys.mb.0005.001"}</field>
+   </doc>
+</add>

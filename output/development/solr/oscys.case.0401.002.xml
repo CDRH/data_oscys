@@ -1,0 +1,65 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0401.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0401.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0401.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0401.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Letty v. Thomson F. Mason. Answer</field>
+      <field name="titleSort" update="add">letty v. thomson f. mason. answer</field>
+      <field name="titleLetter_s" update="add">l</field>
+      <field name="contributor"/>
+      <field name="date">1827-04-16T00:00:00Z</field>
+      <field name="dateDisplay">April 16, 1827</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Answer</field>
+      <field name="people">Letty</field>
+      <field name="people">Mason, Thomson Francis, 1785-1838</field>
+      <field name="person_ss">Letty</field>
+      <field name="personID_ss">per.003180</field>
+      <field name="personData_ss">{"label":"Letty","id":"per.003180"}</field>
+      <field name="person_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="personID_ss">per.002112</field>
+      <field name="personData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="plaintiff_ss">Letty</field>
+      <field name="plaintiffID_ss">per.003180</field>
+      <field name="plaintiffData_ss">{"label":"Letty","id":"per.003180"}</field>
+      <field name="defendant_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="defendantID_ss">per.002112</field>
+      <field name="defendantData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="sourceTitle_s">Answer</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1827-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0428</field>
+      <field name="documentCaseData_ss">{"label":"Letty v. Thomson F. Mason","id":"oscys.caseid.0428"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> I admit that the facts have in substance been correctly stated in the petition of Negro Letty. She had appealed to me as an old family servant, &amp; at her urgent request I purchased her under a compromise of a doubtful claim which she was then making to her freedom. And it was arranged that I was to emancipate her as soon as she returned the $100 I paid for her. Of this sum she has returned me no part. I have neither taken her into possession or exercised any act of ownership over her, being content to put up with this loss; but do not think I am bound to incur any further responsibility for her by a voluntary emancipation as she is now more than forty five years of age. I am willing the Court shall enter such judgment as shall seem proper. Thomson F Mason April 16th 1827. T. F. Mason ads Negro Letty pls petition 26, order 26 52 due 8, ctd 8, pls report 18 34 Jud: 18, C 18, T C 20 C 20. 94 p 18 1 0 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0428</field>
+      <field name="person_ss" update="add">Letty</field>
+      <field name="personID_ss" update="add">per.003180</field>
+      <field name="personData_ss" update="add">{"label":"Letty","id":"per.003180"}</field>
+      <field name="person_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="personID_ss" update="add">per.002112</field>
+      <field name="personData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="plaintiff_ss" update="add">Letty</field>
+      <field name="plaintiffID_ss" update="add">per.003180</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Letty","id":"per.003180"}</field>
+      <field name="defendant_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="defendantID_ss" update="add">per.002112</field>
+      <field name="defendantData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0401.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Letty v. Thomson F. Mason. Answer (April 16, 1827)","date":"1827-04-16","dateDisplay":"April 16, 1827","id":"oscys.case.0401.002"}</field>
+   </doc>
+</add>

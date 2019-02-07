@@ -1,0 +1,179 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0130.003</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0130.003.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0130.003.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0130.003.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Gabriel v. John Stuart. Affidavit of Charles W. Stuart</field>
+      <field name="titleSort" update="add">gabriel v. john stuart. affidavit of charles w. stuart</field>
+      <field name="titleLetter_s" update="add">g</field>
+      <field name="contributor"/>
+      <field name="date">1833-04-23T00:00:00Z</field>
+      <field name="dateDisplay">April 23, 1833</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 488, Folder 517</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Affidavit</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Dade, Langhorne</field>
+      <field name="people">Fendall, Benjamin T.</field>
+      <field name="people">Parke, James</field>
+      <field name="people">Stuart, Charles W.</field>
+      <field name="people">Gabriel</field>
+      <field name="people">Nelly</field>
+      <field name="people">Gabriel</field>
+      <field name="people">Rachel</field>
+      <field name="people">Stuart, John</field>
+      <field name="people">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="people">Lee, L. C.</field>
+      <field name="places">King George County (Va.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Dade, Langhorne</field>
+      <field name="personID_ss">per.001009</field>
+      <field name="personData_ss">{"label":"Dade, Langhorne","id":"per.001009"}</field>
+      <field name="person_ss">Fendall, Benjamin T.</field>
+      <field name="personID_ss">per.000984</field>
+      <field name="personData_ss">{"label":"Fendall, Benjamin T.","id":"per.000984"}</field>
+      <field name="person_ss">Parke, James</field>
+      <field name="personID_ss">per.001011</field>
+      <field name="personData_ss">{"label":"Parke, James","id":"per.001011"}</field>
+      <field name="person_ss">Stuart, Charles W.</field>
+      <field name="personID_ss">per.001012</field>
+      <field name="personData_ss">{"label":"Stuart, Charles W.","id":"per.001012"}</field>
+      <field name="person_ss">Gabriel</field>
+      <field name="personID_ss">per.001004</field>
+      <field name="personData_ss">{"label":"Gabriel","id":"per.001004"}</field>
+      <field name="person_ss">Nelly</field>
+      <field name="personID_ss">per.001005</field>
+      <field name="personData_ss">{"label":"Nelly","id":"per.001005"}</field>
+      <field name="person_ss">Gabriel</field>
+      <field name="personID_ss">per.001006</field>
+      <field name="personData_ss">{"label":"Gabriel","id":"per.001006"}</field>
+      <field name="person_ss">Rachel</field>
+      <field name="personID_ss">per.001007</field>
+      <field name="personData_ss">{"label":"Rachel","id":"per.001007"}</field>
+      <field name="person_ss">Stuart, John</field>
+      <field name="personID_ss">per.001008</field>
+      <field name="personData_ss">{"label":"Stuart, John","id":"per.001008"}</field>
+      <field name="person_ss">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="personID_ss">per.001002</field>
+      <field name="personData_ss">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="person_ss">Lee, L. C.</field>
+      <field name="personID_ss">per.001013</field>
+      <field name="personData_ss">{"label":"Lee, L. C.","id":"per.001013"}</field>
+      <field name="plaintiff_ss">Gabriel</field>
+      <field name="plaintiffID_ss">per.001004</field>
+      <field name="plaintiffData_ss">{"label":"Gabriel","id":"per.001004"}</field>
+      <field name="plaintiff_ss">Nelly</field>
+      <field name="plaintiffID_ss">per.001005</field>
+      <field name="plaintiffData_ss">{"label":"Nelly","id":"per.001005"}</field>
+      <field name="plaintiff_ss">Gabriel</field>
+      <field name="plaintiffID_ss">per.001006</field>
+      <field name="plaintiffData_ss">{"label":"Gabriel","id":"per.001006"}</field>
+      <field name="plaintiff_ss">Rachel</field>
+      <field name="plaintiffID_ss">per.001007</field>
+      <field name="plaintiffData_ss">{"label":"Rachel","id":"per.001007"}</field>
+      <field name="defendant_ss">Stuart, John</field>
+      <field name="defendantID_ss">per.001008</field>
+      <field name="defendantData_ss">{"label":"Stuart, John","id":"per.001008"}</field>
+      <field name="attorneyP_ss">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="attorneyPID_ss">per.001002</field>
+      <field name="attorneyPData_ss">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="attorney_ss">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="attorneyID_ss">per.001002</field>
+      <field name="attorneyData_ss">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="attorneyD_ss">Lee, L. C.</field>
+      <field name="attorneyDID_ss">per.001013</field>
+      <field name="attorneyDData_ss">{"label":"Lee, L. C.","id":"per.001013"}</field>
+      <field name="attorney_ss">Lee, L. C.</field>
+      <field name="attorneyID_ss">per.001013</field>
+      <field name="attorneyData_ss">{"label":"Lee, L. C.","id":"per.001013"}</field>
+      <field name="sourceTitle_s">Affidavit of Charles W. Stuart</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1833-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0130</field>
+      <field name="documentCaseData_ss">{"label":"Gabriel, Nelly, Gabriel, Rachel v. John Stuart","id":"oscys.caseid.0130"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> In the case of negroes Gabriel the elder, Nelly his wife, and Gabriel the younger and Rachel, their children, Petitioners, against John Stuart, Defendant, Charles W. Stuart of lawful age makes oath in due form of law that he is well acquainted with the Petitioners and with the Defendant. The said affiant farther makes oath as follows: In the spring of the year 1831, the Petitioner Gabriel the elder, then a slave of the Defendant and residing in his farm in King George County in the State of Virginia, where the Defendants also then resided and has continued ever since to reside, was sent by the Defendant to the city of Washington in the District of Columbia there to reside. The petitioner Gabriel the elder has continued to reside in said city ever since, with the knowledge and consent of the Defendant. At the time when the said Gabriel the elder was so removed to the said city, his wife the Petitioner Nelly was a slave, the legal title to her being in James Parke, to whom she had been conveyed by a deed of trust from her master Langhorne Dade, since deceased to secure the payment of a debt due by him the said Dade to Benjamin T. Fendall. About one or perhaps two months after the aforesaid removal of Gabriel the elder to the said city, the said Nelly was sold at public sale, under the authority and according to the terms of the said deed, and was purchased by said Fendall, who immediately sold her to the Defendant. The Defendant immediately sent her and the petitioner Gabriel the younger to the city of Washington aforesaid, to reside with Gabriel the elder; and there the said Nelly and Gabriel the younger have ever since resided with the knowledge and consent of the Defendant. A few weeks before the 20th of February last, when this suit was brought, the petitioner Rachel the other child of the Petitioners Gabriel the elder and Nelly was born in the said city of Washington, and has ever since continued to reside there with the knowledge and consent of the Defendant. Sworn to in open court Test W. Brent Clk 23d Apl. 1833 We the undersigned, of respectively for the parties named to the within named suit, hereby agree that the within affidavit of Charles W. Stuart contains a true statement of the facts of said case; and thereupon submit the case to the Court for judgment. P. R. Fendall, atty for the Petitioners. L. C. Lee Atty for Deft April 23, 1833 517 Negroes, Gabriel the elder Nelly his wife, Gabriel the younger and Rachel Petitioners vs. John Stuart, Defendant Agreed Statement Let this be filed, &amp; Judgment entered for the Petitioners. By order of the Court. 23d Apl. 1833. fd 23 April 1833 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0130</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Dade, Langhorne</field>
+      <field name="personID_ss" update="add">per.001009</field>
+      <field name="personData_ss" update="add">{"label":"Dade, Langhorne","id":"per.001009"}</field>
+      <field name="person_ss" update="add">Fendall, Benjamin T.</field>
+      <field name="personID_ss" update="add">per.000984</field>
+      <field name="personData_ss" update="add">{"label":"Fendall, Benjamin T.","id":"per.000984"}</field>
+      <field name="person_ss" update="add">Parke, James</field>
+      <field name="personID_ss" update="add">per.001011</field>
+      <field name="personData_ss" update="add">{"label":"Parke, James","id":"per.001011"}</field>
+      <field name="person_ss" update="add">Stuart, Charles W.</field>
+      <field name="personID_ss" update="add">per.001012</field>
+      <field name="personData_ss" update="add">{"label":"Stuart, Charles W.","id":"per.001012"}</field>
+      <field name="person_ss" update="add">Gabriel</field>
+      <field name="personID_ss" update="add">per.001004</field>
+      <field name="personData_ss" update="add">{"label":"Gabriel","id":"per.001004"}</field>
+      <field name="person_ss" update="add">Nelly</field>
+      <field name="personID_ss" update="add">per.001005</field>
+      <field name="personData_ss" update="add">{"label":"Nelly","id":"per.001005"}</field>
+      <field name="person_ss" update="add">Gabriel</field>
+      <field name="personID_ss" update="add">per.001006</field>
+      <field name="personData_ss" update="add">{"label":"Gabriel","id":"per.001006"}</field>
+      <field name="person_ss" update="add">Rachel</field>
+      <field name="personID_ss" update="add">per.001007</field>
+      <field name="personData_ss" update="add">{"label":"Rachel","id":"per.001007"}</field>
+      <field name="person_ss" update="add">Stuart, John</field>
+      <field name="personID_ss" update="add">per.001008</field>
+      <field name="personData_ss" update="add">{"label":"Stuart, John","id":"per.001008"}</field>
+      <field name="person_ss" update="add">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="personID_ss" update="add">per.001002</field>
+      <field name="personData_ss" update="add">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="person_ss" update="add">Lee, L. C.</field>
+      <field name="personID_ss" update="add">per.001013</field>
+      <field name="personData_ss" update="add">{"label":"Lee, L. C.","id":"per.001013"}</field>
+      <field name="plaintiff_ss" update="add">Gabriel</field>
+      <field name="plaintiffID_ss" update="add">per.001004</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gabriel","id":"per.001004"}</field>
+      <field name="plaintiff_ss" update="add">Nelly</field>
+      <field name="plaintiffID_ss" update="add">per.001005</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Nelly","id":"per.001005"}</field>
+      <field name="plaintiff_ss" update="add">Gabriel</field>
+      <field name="plaintiffID_ss" update="add">per.001006</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gabriel","id":"per.001006"}</field>
+      <field name="plaintiff_ss" update="add">Rachel</field>
+      <field name="plaintiffID_ss" update="add">per.001007</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Rachel","id":"per.001007"}</field>
+      <field name="defendant_ss" update="add">Stuart, John</field>
+      <field name="defendantID_ss" update="add">per.001008</field>
+      <field name="defendantData_ss" update="add">{"label":"Stuart, John","id":"per.001008"}</field>
+      <field name="attorneyP_ss" update="add">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="attorneyPID_ss" update="add">per.001002</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="attorney_ss" update="add">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="attorneyID_ss" update="add">per.001002</field>
+      <field name="attorneyData_ss" update="add">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="attorneyD_ss" update="add">Lee, L. C.</field>
+      <field name="attorneyDID_ss" update="add">per.001013</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Lee, L. C.","id":"per.001013"}</field>
+      <field name="attorney_ss" update="add">Lee, L. C.</field>
+      <field name="attorneyID_ss" update="add">per.001013</field>
+      <field name="attorneyData_ss" update="add">{"label":"Lee, L. C.","id":"per.001013"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0130.003</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Gabriel v. John Stuart. Affidavit of Charles W. Stuart (April 23, 1833)","date":"1833-04-23","dateDisplay":"April 23, 1833","id":"oscys.case.0130.003"}</field>
+   </doc>
+</add>

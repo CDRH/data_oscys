@@ -1,0 +1,142 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0038.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0038.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0038.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0038.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Charles Scott v. Loudon. Supreme Court Report</field>
+      <field name="titleSort" update="add">charles scott v. loudon. supreme court report</field>
+      <field name="titleLetter_s" update="add">c</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1806-02-01T00:00:00Z</field>
+      <field name="dateDisplay">February 1806</field>
+      <field name="format">manuscript</field>
+      <field name="source">Benjamin Robbins Curtis, Reports of Decisions in the Supreme Court of the United States, With Notes, and a Digest, Volume I, Boston: Little, Brown and Company (1855) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Marshall, John, 1755-1835</field>
+      <field name="people">Scott, Charles</field>
+      <field name="people">Loudon</field>
+      <field name="people">Scott, Charles W.</field>
+      <field name="people">Lee, Charles, 1758-1815</field>
+      <field name="people">Jones, Walter, 1776-1861</field>
+      <field name="people">Lee, Edmund J.</field>
+      <field name="places">Maryland</field>
+      <field name="places">Alexandria (Va.)</field>
+      <field name="person_ss">Marshall, John, 1755-1835</field>
+      <field name="personID_ss">per.000725</field>
+      <field name="personData_ss">{"label":"Marshall, John, 1755-1835","id":"per.000725"}</field>
+      <field name="person_ss">Scott, Charles</field>
+      <field name="personID_ss">per.002914</field>
+      <field name="personData_ss">{"label":"Scott, Charles","id":"per.002914"}</field>
+      <field name="person_ss">Loudon</field>
+      <field name="personID_ss">per.002915</field>
+      <field name="personData_ss">{"label":"Loudon","id":"per.002915"}</field>
+      <field name="person_ss">Scott, Charles W.</field>
+      <field name="personID_ss">per.002916</field>
+      <field name="personData_ss">{"label":"Scott, Charles W.","id":"per.002916"}</field>
+      <field name="person_ss">Lee, Charles, 1758-1815</field>
+      <field name="personID_ss">per.001563</field>
+      <field name="personData_ss">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="person_ss">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss">per.000435</field>
+      <field name="personData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="person_ss">Lee, Edmund J.</field>
+      <field name="personID_ss">per.000122</field>
+      <field name="personData_ss">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="plaintiff_ss">Loudon</field>
+      <field name="plaintiffID_ss">per.002915</field>
+      <field name="plaintiffData_ss">{"label":"Loudon","id":"per.002915"}</field>
+      <field name="defendant_ss">Scott, Charles W.</field>
+      <field name="defendantID_ss">per.002916</field>
+      <field name="defendantData_ss">{"label":"Scott, Charles W.","id":"per.002916"}</field>
+      <field name="attorneyP_ss">Lee, Charles, 1758-1815</field>
+      <field name="attorneyPID_ss">per.001563</field>
+      <field name="attorneyPData_ss">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="attorney_ss">Lee, Charles, 1758-1815</field>
+      <field name="attorneyID_ss">per.001563</field>
+      <field name="attorneyData_ss">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="attorneyD_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss">per.000435</field>
+      <field name="attorneyDData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss">per.000435</field>
+      <field name="attorneyData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorneyD_ss">Lee, Edmund J.</field>
+      <field name="attorneyDID_ss">per.000122</field>
+      <field name="attorneyDData_ss">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="attorney_ss">Lee, Edmund J.</field>
+      <field name="attorneyID_ss">per.000122</field>
+      <field name="attorneyData_ss">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="sourceTitle_s">Reports of Decisions in the Supreme Court of the United States, With Notes, and a Digest</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1806-02</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0396</field>
+      <field name="documentCaseData_ss">{"label":"Loudon v. Charles Scott","id":"oscys.caseid.0396"}</field>
+      <field name="jurisdiction_ss">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="text"> Scott v. Negro London. 3 C. 324. Under the act of assembly of Virginia, of December 17, 1792, a slave did not become free by being brought into that State, if his master, within one year thereafter, removed thither to reside and took the oath prescribed by the law. Error to the circuit court of the United States for the District of Columbia, in an action of trespass to try the right of the defendant to his freedom. The material facts are all stated in the opinion of the court. Jones and E. J. Lee, for the plaintiff. C. Lee, for the defendant. Marshall C. J., delivered the opinion of the court. This cases arises under a clause, in an act of the Virginia assembly, giving freedom to slaves who shall be brought thereafter into that State, and kept therein one whole year together, or so long at different times as shall amount to one year; and under a proviso of the same act, that it shall not extend to any person who many incline to remove from any of the United States, and become citizens of this, if, within sixty days after such removal, he shall take an oath which is prescribed in the act. The negro London was brought from Maryland into Alexandria, where he was hired out in the year 1802; some months after which, his master, the plaintiff in error, also removed into Alexandria, and within the year from the time the negro was brought in, and also within the sixty days from the time the plaintiff in error removed to Alexandria, the oath prescribed by the law was taken. No right to freedom having vested in London at the time this oath was taken, the question is, has it brought the plaintiff within the proviso of the act? That the plaintiff is within the letter of the provision, is unquestionable. He is a person who inclined to remove from one of the United States into Virginia, who actually did remove, and who took the requisite oath within the limited time. But it is contended, in behalf of the defendant in error, that the acts of bringing the negro into the State and of removing into it, must be concomitant, in order to bring the case within the proviso: or, in other words, that the owner must be a person "inclining to remove into the State," at the time the slave was brought in. This inaccuracy of construction seems to be founded on the idea, that the penalty of forfeiting the property accrues on bringing the slave into the State, whereas it attaches on his continuance in the State for twelve months. Till such continuance has taken place, the offence has not been committed. If, then, all the acts which bring a person within the proviso, are performed before the right to freedom is vested, and before the provisions of the act have been infracted, it seems to the court, that the rights of the party remain unaffected by the act. If London had been ordered to Maryland for a day, and then brought with his master into Alexandria, the construction of this counsel would be satisfied; and it seems strange where the letter of a law has not been violated, that such an unimportant circumstance should affect its spirit. Unless this mode be admitted of coming within the provision, a person inclining to remove into Virginia, whose slaves had preceded him, though not for one year, could not bring himself within, or avoid the forfeiture, although permitting them to come into that State was no offence; a construction of the act which the court cannot think consistent with its spirit or letter. This court is, therefore, of opinion that the circuit court erred in directing the jury that, under the circumstances stated, the plaintiff below was entitled to his freedom, and doth reverse the judgement rendered by the circuit court, and remand the cause for further proceedings. Judgement reversed. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0396</field>
+      <field update="add" name="outcomeData_ss">{"label":"Judgment Reversed","date":"1806-02","dateDisplay":"February 1806","id":"oscys.report.0038.002"}</field>
+      <field update="add" name="outcomeData_ss">{"label":"Remanded for New Trial","date":"1806-02","dateDisplay":"February 1806","id":"oscys.report.0038.002"}</field>
+      <field update="add" name="outcome_ss">Judgment Reversed</field>
+      <field update="add" name="outcome_ss">Remanded for New Trial</field>
+      <field name="person_ss" update="add">Marshall, John, 1755-1835</field>
+      <field name="personID_ss" update="add">per.000725</field>
+      <field name="personData_ss" update="add">{"label":"Marshall, John, 1755-1835","id":"per.000725"}</field>
+      <field name="person_ss" update="add">Scott, Charles</field>
+      <field name="personID_ss" update="add">per.002914</field>
+      <field name="personData_ss" update="add">{"label":"Scott, Charles","id":"per.002914"}</field>
+      <field name="person_ss" update="add">Loudon</field>
+      <field name="personID_ss" update="add">per.002915</field>
+      <field name="personData_ss" update="add">{"label":"Loudon","id":"per.002915"}</field>
+      <field name="person_ss" update="add">Scott, Charles W.</field>
+      <field name="personID_ss" update="add">per.002916</field>
+      <field name="personData_ss" update="add">{"label":"Scott, Charles W.","id":"per.002916"}</field>
+      <field name="person_ss" update="add">Lee, Charles, 1758-1815</field>
+      <field name="personID_ss" update="add">per.001563</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="person_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss" update="add">per.000435</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="person_ss" update="add">Lee, Edmund J.</field>
+      <field name="personID_ss" update="add">per.000122</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="plaintiff_ss" update="add">Loudon</field>
+      <field name="plaintiffID_ss" update="add">per.002915</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Loudon","id":"per.002915"}</field>
+      <field name="defendant_ss" update="add">Scott, Charles W.</field>
+      <field name="defendantID_ss" update="add">per.002916</field>
+      <field name="defendantData_ss" update="add">{"label":"Scott, Charles W.","id":"per.002916"}</field>
+      <field name="attorneyP_ss" update="add">Lee, Charles, 1758-1815</field>
+      <field name="attorneyPID_ss" update="add">per.001563</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="attorney_ss" update="add">Lee, Charles, 1758-1815</field>
+      <field name="attorneyID_ss" update="add">per.001563</field>
+      <field name="attorneyData_ss" update="add">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="attorneyD_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss" update="add">per.000435</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss" update="add">per.000435</field>
+      <field name="attorneyData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorneyD_ss" update="add">Lee, Edmund J.</field>
+      <field name="attorneyDID_ss" update="add">per.000122</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="attorney_ss" update="add">Lee, Edmund J.</field>
+      <field name="attorneyID_ss" update="add">per.000122</field>
+      <field name="attorneyData_ss" update="add">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0038.002</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Charles Scott v. Loudon. Supreme Court Report (February, 1806)","date":"1806-02","dateDisplay":"February, 1806","id":"oscys.report.0038.002"}</field>
+   </doc>
+</add>

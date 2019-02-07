@@ -1,0 +1,75 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0422.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0422.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0422.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0422.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ex parte James White. Petition for Habeas Corpus</field>
+      <field name="titleSort" update="add">ex parte james white. petition for habeas corpus</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="contributor"/>
+      <field name="date">1841-11-08T00:00:00Z</field>
+      <field name="dateDisplay">November 8, 1841</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">White, James</field>
+      <field name="people">Lee, Edmund J.</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">White, James</field>
+      <field name="personID_ss">per.003465</field>
+      <field name="personData_ss">{"label":"White, James","id":"per.003465"}</field>
+      <field name="person_ss">Lee, Edmund J.</field>
+      <field name="personID_ss">per.000122</field>
+      <field name="personData_ss">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="plaintiff_ss">White, James</field>
+      <field name="plaintiffID_ss">per.003465</field>
+      <field name="plaintiffData_ss">{"label":"White, James","id":"per.003465"}</field>
+      <field name="attorneyP_ss">Lee, Edmund J.</field>
+      <field name="attorneyPID_ss">per.000122</field>
+      <field name="attorneyPData_ss">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="attorney_ss">Lee, Edmund J.</field>
+      <field name="attorneyID_ss">per.000122</field>
+      <field name="attorneyData_ss">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="sourceTitle_s">Petition for Habeas Corpus</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1841-11</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0450</field>
+      <field name="documentCaseData_ss">{"label":"Ex parte James White","id":"oscys.caseid.0450"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> To the Honorable the Circuit Court of the District of Columbia for the County of Alexandria. The Petition of James White a free negro, respectfully sheweth to the Court that he is illegally detained by the Jailor of this County Your petitioner prays the court to grant him a writ of Habeas Corpus returnable forthwith to be directd the Jailor of this County commanding to bring your petitioner before the Court with the cause of his detention, that the court may inquire into the legality of his imprisonment. Edm: J Lee for Petitioner 8th Novr 1841 Exparte James White petition 1841 Nov: Term 2d day Hab. awd &amp; on hearing petitioner discharged </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0450</field>
+      <field update="add" name="outcomeData_ss">{"label":"Discharged","date":"1841-11-08","dateDisplay":"November 8, 1841","id":"oscys.case.0422.001"}</field>
+      <field update="add" name="outcome_ss">Discharged</field>
+      <field name="person_ss" update="add">White, James</field>
+      <field name="personID_ss" update="add">per.003465</field>
+      <field name="personData_ss" update="add">{"label":"White, James","id":"per.003465"}</field>
+      <field name="person_ss" update="add">Lee, Edmund J.</field>
+      <field name="personID_ss" update="add">per.000122</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="plaintiff_ss" update="add">White, James</field>
+      <field name="plaintiffID_ss" update="add">per.003465</field>
+      <field name="plaintiffData_ss" update="add">{"label":"White, James","id":"per.003465"}</field>
+      <field name="attorneyP_ss" update="add">Lee, Edmund J.</field>
+      <field name="attorneyPID_ss" update="add">per.000122</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="attorney_ss" update="add">Lee, Edmund J.</field>
+      <field name="attorneyID_ss" update="add">per.000122</field>
+      <field name="attorneyData_ss" update="add">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0422.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ex parte James White. Petition for Habeas Corpus (November 8, 1841)","date":"1841-11-08","dateDisplay":"November 8, 1841","id":"oscys.case.0422.001"}</field>
+   </doc>
+</add>

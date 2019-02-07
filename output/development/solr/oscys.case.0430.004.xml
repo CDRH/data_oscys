@@ -1,0 +1,84 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0430.004</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0430.004.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0430.004.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0430.004.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Jane Williams v. Richard H. Love. Order</field>
+      <field name="titleSort" update="add">jane williams v. richard h. love. order</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Order</field>
+      <field name="people">Williams, Jane</field>
+      <field name="people">Love, Richard H.</field>
+      <field name="people">Mason, Thomson Francis, 1785-1838</field>
+      <field name="person_ss">Williams, Jane</field>
+      <field name="personID_ss">per.003557</field>
+      <field name="personData_ss">{"label":"Williams, Jane","id":"per.003557"}</field>
+      <field name="person_ss">Love, Richard H.</field>
+      <field name="personID_ss">per.003558</field>
+      <field name="personData_ss">{"label":"Love, Richard H.","id":"per.003558"}</field>
+      <field name="person_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="personID_ss">per.002112</field>
+      <field name="personData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="plaintiff_ss">Williams, Jane</field>
+      <field name="plaintiffID_ss">per.003557</field>
+      <field name="plaintiffData_ss">{"label":"Williams, Jane","id":"per.003557"}</field>
+      <field name="defendant_ss">Love, Richard H.</field>
+      <field name="defendantID_ss">per.003558</field>
+      <field name="defendantData_ss">{"label":"Love, Richard H.","id":"per.003558"}</field>
+      <field name="attorneyP_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyPID_ss">per.002112</field>
+      <field name="attorneyPData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="attorney_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyID_ss">per.002112</field>
+      <field name="attorneyData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="sourceTitle_s">Order</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1818-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0459</field>
+      <field name="documentCaseData_ss">{"label":"Jane Williams v. Richard H. Love","id":"oscys.caseid.0459"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> On the petitions of Jane alias Jane Williams (a mulatto woman) alledging that she is entitled to her freedom it is ordered that Thomson F. Mason be assigned as counsel &amp; that he report a statement of facts &amp; his opinion thereupon. who accordingly made his report that &amp; upon his report that the whereupon leave is granted said Jane to sue in forma pauperis for her freedom, &amp; it is further ordered that she be taken into the custody of the Marshall, until bond &amp; security of $1200 conditioned for her appearance at her owner shall give bond &amp; security in the sum of $1200 with conditioned to have her forthcoming to answer the judgement of the Court. Order in Case of Negroe Jane Williams who sues for her Freedom Entered </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0459</field>
+      <field name="person_ss" update="add">Williams, Jane</field>
+      <field name="personID_ss" update="add">per.003557</field>
+      <field name="personData_ss" update="add">{"label":"Williams, Jane","id":"per.003557"}</field>
+      <field name="person_ss" update="add">Love, Richard H.</field>
+      <field name="personID_ss" update="add">per.003558</field>
+      <field name="personData_ss" update="add">{"label":"Love, Richard H.","id":"per.003558"}</field>
+      <field name="person_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="personID_ss" update="add">per.002112</field>
+      <field name="personData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="plaintiff_ss" update="add">Williams, Jane</field>
+      <field name="plaintiffID_ss" update="add">per.003557</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Williams, Jane","id":"per.003557"}</field>
+      <field name="defendant_ss" update="add">Love, Richard H.</field>
+      <field name="defendantID_ss" update="add">per.003558</field>
+      <field name="defendantData_ss" update="add">{"label":"Love, Richard H.","id":"per.003558"}</field>
+      <field name="attorneyP_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyPID_ss" update="add">per.002112</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="attorney_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyID_ss" update="add">per.002112</field>
+      <field name="attorneyData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0430.004</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Jane Williams v. Richard H. Love. Order","id":"oscys.case.0430.004"}</field>
+   </doc>
+</add>

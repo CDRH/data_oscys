@@ -1,0 +1,95 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0004.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0004.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0004.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0004.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Jerry Brown v. Mary Young. Summons of Mary Young</field>
+      <field name="titleSort" update="add">jerry brown v. mary young. summons of mary young</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1808-07-02T00:00:00Z</field>
+      <field name="dateDisplay">July 2, 1808</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 2, Folder 25</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Boyd, Washington</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Brown, Nelly</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Brown, Jerry</field>
+      <field name="people">Young, Mary</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Boyd, Washington</field>
+      <field name="personID_ss">per.000006</field>
+      <field name="personData_ss">{"label":"Boyd, Washington","id":"per.000006"}</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Brown, Nelly</field>
+      <field name="personID_ss">per.000016</field>
+      <field name="personData_ss">{"label":"Brown, Nelly","id":"per.000016"}</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Brown, Jerry</field>
+      <field name="personID_ss">per.000015</field>
+      <field name="personData_ss">{"label":"Brown, Jerry","id":"per.000015"}</field>
+      <field name="person_ss">Young, Mary</field>
+      <field name="personID_ss">per.000017</field>
+      <field name="personData_ss">{"label":"Young, Mary","id":"per.000017"}</field>
+      <field name="plaintiff_ss">Brown, Jerry</field>
+      <field name="plaintiffID_ss">per.000015</field>
+      <field name="plaintiffData_ss">{"label":"Brown, Jerry","id":"per.000015"}</field>
+      <field name="defendant_ss">Young, Mary</field>
+      <field name="defendantID_ss">per.000017</field>
+      <field name="defendantData_ss">{"label":"Young, Mary","id":"per.000017"}</field>
+      <field name="sourceTitle_s">Summons of Mary Young</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1808-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0004</field>
+      <field name="documentCaseData_ss">{"label":"Jerry Brown v. Mary Young","id":"oscys.caseid.0004"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> District of Columbia to wit The United States of America To the Marshal of the District of Columbia, greeting. You are hereby commanded to summon Mary Young, that all excuses and delays set aside, she be and appear before the Circuit Court of the District of Columbia for the County of Washington to be held at the City of Washington on the fourth Monday of December next to answer the Petition of Nelly Brown on behalf of her son Jerry for his freedom, in the said Court exhibited against him. Hereof fail not at your peril, and have you then and there this writ. Witness the honble Wm Cranch Esquire, Chief Judge of our said Court, the 28th day of June in the year 1808. Issued the 2d day of July 1808. Wm Brent Clk 25 182 Nelly Brown on behalf of her son Jerry vs Mary Young Subpa Sumd Washington Boyd Marshal </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0004</field>
+      <field name="person_ss" update="add">Boyd, Washington</field>
+      <field name="personID_ss" update="add">per.000006</field>
+      <field name="personData_ss" update="add">{"label":"Boyd, Washington","id":"per.000006"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Brown, Nelly</field>
+      <field name="personID_ss" update="add">per.000016</field>
+      <field name="personData_ss" update="add">{"label":"Brown, Nelly","id":"per.000016"}</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Brown, Jerry</field>
+      <field name="personID_ss" update="add">per.000015</field>
+      <field name="personData_ss" update="add">{"label":"Brown, Jerry","id":"per.000015"}</field>
+      <field name="person_ss" update="add">Young, Mary</field>
+      <field name="personID_ss" update="add">per.000017</field>
+      <field name="personData_ss" update="add">{"label":"Young, Mary","id":"per.000017"}</field>
+      <field name="plaintiff_ss" update="add">Brown, Jerry</field>
+      <field name="plaintiffID_ss" update="add">per.000015</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Brown, Jerry","id":"per.000015"}</field>
+      <field name="defendant_ss" update="add">Young, Mary</field>
+      <field name="defendantID_ss" update="add">per.000017</field>
+      <field name="defendantData_ss" update="add">{"label":"Young, Mary","id":"per.000017"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0004.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Jerry Brown v. Mary Young. Summons of Mary Young (July 2, 1808)","date":"1808-07-02","dateDisplay":"July 2, 1808","id":"oscys.case.0004.001"}</field>
+   </doc>
+</add>

@@ -1,0 +1,93 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0019.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0019.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0019.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0019.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">George Davis v. Mary Young. Petition for Freedom</field>
+      <field name="titleSort" update="add">george davis v. mary young. petition for freedom</field>
+      <field name="titleLetter_s" update="add">g</field>
+      <field name="contributor"/>
+      <field name="date">1809-08-15T00:00:00Z</field>
+      <field name="dateDisplay">August 15, 1809</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 39, Folder 218</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Davis, George</field>
+      <field name="people">Young, Mary</field>
+      <field name="people">Hiort, Henry</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Davis, George</field>
+      <field name="personID_ss">per.001182</field>
+      <field name="personData_ss">{"label":"Davis, George","id":"per.001182"}</field>
+      <field name="person_ss">Young, Mary</field>
+      <field name="personID_ss">per.000017</field>
+      <field name="personData_ss">{"label":"Young, Mary","id":"per.000017"}</field>
+      <field name="person_ss">Hiort, Henry</field>
+      <field name="personID_ss">per.000011</field>
+      <field name="personData_ss">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="plaintiff_ss">Davis, George</field>
+      <field name="plaintiffID_ss">per.001182</field>
+      <field name="plaintiffData_ss">{"label":"Davis, George","id":"per.001182"}</field>
+      <field name="defendant_ss">Young, Mary</field>
+      <field name="defendantID_ss">per.000017</field>
+      <field name="defendantData_ss">{"label":"Young, Mary","id":"per.000017"}</field>
+      <field name="attorneyP_ss">Hiort, Henry</field>
+      <field name="attorneyPID_ss">per.000011</field>
+      <field name="attorneyPData_ss">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="attorney_ss">Hiort, Henry</field>
+      <field name="attorneyID_ss">per.000011</field>
+      <field name="attorneyData_ss">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1811-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0019</field>
+      <field name="documentCaseData_ss">{"label":"George Davis v. Mary Young","id":"oscys.caseid.0019"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court of the District of Columbia for the County of Washington. The Petition of George Davis Humbly sheweth That your Petitioner is entitled to freedom, yet he is detained in Slavery by Mary Young who resides within the Jurisdiction of this Court; he therefore prays that process may issue so that he may assert his rights and your Petitioner will every pray George Davis in his proper person. 8th Augt 1809 I undertake to appear at the Trial of this Cause for the Petitioner Henry Hiort To Wm Brent Esq Clerk of the Court 109 212. 241. 192 218 Geo. Davis vs Mary Young Petn for freedom 8th Augt 1809. Filed 15th August 1809. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0019</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Davis, George</field>
+      <field name="personID_ss" update="add">per.001182</field>
+      <field name="personData_ss" update="add">{"label":"Davis, George","id":"per.001182"}</field>
+      <field name="person_ss" update="add">Young, Mary</field>
+      <field name="personID_ss" update="add">per.000017</field>
+      <field name="personData_ss" update="add">{"label":"Young, Mary","id":"per.000017"}</field>
+      <field name="person_ss" update="add">Hiort, Henry</field>
+      <field name="personID_ss" update="add">per.000011</field>
+      <field name="personData_ss" update="add">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="plaintiff_ss" update="add">Davis, George</field>
+      <field name="plaintiffID_ss" update="add">per.001182</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Davis, George","id":"per.001182"}</field>
+      <field name="defendant_ss" update="add">Young, Mary</field>
+      <field name="defendantID_ss" update="add">per.000017</field>
+      <field name="defendantData_ss" update="add">{"label":"Young, Mary","id":"per.000017"}</field>
+      <field name="attorneyP_ss" update="add">Hiort, Henry</field>
+      <field name="attorneyPID_ss" update="add">per.000011</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="attorney_ss" update="add">Hiort, Henry</field>
+      <field name="attorneyID_ss" update="add">per.000011</field>
+      <field name="attorneyData_ss" update="add">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0019.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"George Davis v. Mary Young. Petition for Freedom (August 15, 1809)","date":"1809-08-15","dateDisplay":"August 15, 1809","id":"oscys.case.0019.001"}</field>
+   </doc>
+</add>

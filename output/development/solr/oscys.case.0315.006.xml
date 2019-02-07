@@ -1,0 +1,81 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0315.006</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0315.006.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0315.006.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0315.006.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Susan Vigel v. Henry Naylor. Extract from the Will of John B. Kirby</field>
+      <field name="titleSort" update="add">susan vigel v. henry naylor. extract from the will of john b. kirby</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date">1829-11-15T00:00:00Z</field>
+      <field name="dateDisplay">November 15, 1829</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 881, Folder 1001</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Exhibit</field>
+      <field name="people">Kirby, John B.</field>
+      <field name="people">Roach, Edward N.</field>
+      <field name="people">Vigel, Susan</field>
+      <field name="people">Naylor, Henry</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Kirby, John B.</field>
+      <field name="personID_ss">per.000689</field>
+      <field name="personData_ss">{"label":"Kirby, John B.","id":"per.000689"}</field>
+      <field name="person_ss">Roach, Edward N.</field>
+      <field name="personID_ss">per.002315</field>
+      <field name="personData_ss">{"label":"Roach, Edward N.","id":"per.002315"}</field>
+      <field name="person_ss">Vigel, Susan</field>
+      <field name="personID_ss">per.002374</field>
+      <field name="personData_ss">{"label":"Vigel, Susan","id":"per.002374"}</field>
+      <field name="person_ss">Naylor, Henry</field>
+      <field name="personID_ss">per.000883</field>
+      <field name="personData_ss">{"label":"Naylor, Henry","id":"per.000883"}</field>
+      <field name="plaintiff_ss">Vigel, Susan</field>
+      <field name="plaintiffID_ss">per.002374</field>
+      <field name="plaintiffData_ss">{"label":"Vigel, Susan","id":"per.002374"}</field>
+      <field name="defendant_ss">Naylor, Henry</field>
+      <field name="defendantID_ss">per.000883</field>
+      <field name="defendantData_ss">{"label":"Naylor, Henry","id":"per.000883"}</field>
+      <field name="sourceTitle_s">Extract from the Will of John B. Kirby</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1858-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0317</field>
+      <field name="documentCaseData_ss">{"label":"Susan Vigel v. Henry Naylor","id":"oscys.caseid.0317"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> District of Columbia, Washington County, to wit: I certify that the aforegoing is a true Extract from the original will of John B. Kirby deceased, filed and recorded in the Office of the Register of Wills for the said County aforesaid. Witness my hand and seal of Office, this 18th day of October in the year 1841 Ed. N Roach Regt Wills Item. It is my will, that all my slaves, that are over the age of thirty five years shall be free, immediately after my death; and that all my slaves, that are under the age of thirty five years, shall serve, the males till they arrive to the age of thirty five and females to the age of thirty years; after which respective ages they and each of them shall be free, and my Executor accordingly authorised and required by proper deeds in writing, to execute this clause of my will. Should any of my female slaves have children during their period of service as aforesaid it is my will that the male children, serve until they are thirty five, and the females until they are thirty years of age, and then be free. And in all cases of future female decendants, the males, shall never serve beyond thirty five nor the females beyond thirty years of age. And then in all cases they shall forever after be free." ( bears oath the 15th of November 1829) ( the 10 day of May 1828.) Extract from the will of John B Kirby (A) </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0317</field>
+      <field name="person_ss" update="add">Kirby, John B.</field>
+      <field name="personID_ss" update="add">per.000689</field>
+      <field name="personData_ss" update="add">{"label":"Kirby, John B.","id":"per.000689"}</field>
+      <field name="person_ss" update="add">Roach, Edward N.</field>
+      <field name="personID_ss" update="add">per.002315</field>
+      <field name="personData_ss" update="add">{"label":"Roach, Edward N.","id":"per.002315"}</field>
+      <field name="person_ss" update="add">Vigel, Susan</field>
+      <field name="personID_ss" update="add">per.002374</field>
+      <field name="personData_ss" update="add">{"label":"Vigel, Susan","id":"per.002374"}</field>
+      <field name="person_ss" update="add">Naylor, Henry</field>
+      <field name="personID_ss" update="add">per.000883</field>
+      <field name="personData_ss" update="add">{"label":"Naylor, Henry","id":"per.000883"}</field>
+      <field name="plaintiff_ss" update="add">Vigel, Susan</field>
+      <field name="plaintiffID_ss" update="add">per.002374</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Vigel, Susan","id":"per.002374"}</field>
+      <field name="defendant_ss" update="add">Naylor, Henry</field>
+      <field name="defendantID_ss" update="add">per.000883</field>
+      <field name="defendantData_ss" update="add">{"label":"Naylor, Henry","id":"per.000883"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0315.006</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Susan Vigel v. Henry Naylor. Extract from the Will of John B. Kirby (November 15, 1829)","date":"1829-11-15","dateDisplay":"November 15, 1829","id":"oscys.case.0315.006"}</field>
+   </doc>
+</add>

@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0090.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0090.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0090.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0090.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">John Lee v. William Dent. Petition for Freedom</field>
+      <field name="titleSort" update="add">john lee v. william dent. petition for freedom</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1827-09-10T00:00:00Z</field>
+      <field name="dateDisplay">September 10, 1827</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 418, Folder 83</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Lee, John</field>
+      <field name="people">Dent, William</field>
+      <field name="people">Beale, Robert</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Lee, John</field>
+      <field name="personID_ss">per.000700</field>
+      <field name="personData_ss">{"label":"Lee, John","id":"per.000700"}</field>
+      <field name="person_ss">Dent, William</field>
+      <field name="personID_ss">per.000701</field>
+      <field name="personData_ss">{"label":"Dent, William","id":"per.000701"}</field>
+      <field name="person_ss">Beale, Robert</field>
+      <field name="personID_ss">per.000572</field>
+      <field name="personData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="plaintiff_ss">Lee, John</field>
+      <field name="plaintiffID_ss">per.000700</field>
+      <field name="plaintiffData_ss">{"label":"Lee, John","id":"per.000700"}</field>
+      <field name="defendant_ss">Dent, William</field>
+      <field name="defendantID_ss">per.000701</field>
+      <field name="defendantData_ss">{"label":"Dent, William","id":"per.000701"}</field>
+      <field name="attorneyP_ss">Beale, Robert</field>
+      <field name="attorneyPID_ss">per.000572</field>
+      <field name="attorneyPData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="attorney_ss">Beale, Robert</field>
+      <field name="attorneyID_ss">per.000572</field>
+      <field name="attorneyData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1829-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0090</field>
+      <field name="documentCaseData_ss">{"label":"John Lee v. William Dent","id":"oscys.caseid.0090"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble the Judges of the circuit court of the District of Columbia for the county of Washington The petition of John (colored man) Lee humbly sheweth unto your honors that he is a free man and that he is illegally &amp; unjustly detained in bondage by one William Dent who claims your petitioner as a slave for life. And your petitioner is credibly informed &amp; veryly believes that the said Wm Dent is now about to sell him as a slave for life to some distant state Your petitioner therefore prays your honors to consider his case and grant him such relief as to your honors shall seem meet R Beale for Petitioner 178. John Lee vs Wm Dent Petn for freedom Filed 10 Sept 1827 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0090</field>
+      <field name="person_ss" update="add">Lee, John</field>
+      <field name="personID_ss" update="add">per.000700</field>
+      <field name="personData_ss" update="add">{"label":"Lee, John","id":"per.000700"}</field>
+      <field name="person_ss" update="add">Dent, William</field>
+      <field name="personID_ss" update="add">per.000701</field>
+      <field name="personData_ss" update="add">{"label":"Dent, William","id":"per.000701"}</field>
+      <field name="person_ss" update="add">Beale, Robert</field>
+      <field name="personID_ss" update="add">per.000572</field>
+      <field name="personData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="plaintiff_ss" update="add">Lee, John</field>
+      <field name="plaintiffID_ss" update="add">per.000700</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, John","id":"per.000700"}</field>
+      <field name="defendant_ss" update="add">Dent, William</field>
+      <field name="defendantID_ss" update="add">per.000701</field>
+      <field name="defendantData_ss" update="add">{"label":"Dent, William","id":"per.000701"}</field>
+      <field name="attorneyP_ss" update="add">Beale, Robert</field>
+      <field name="attorneyPID_ss" update="add">per.000572</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="attorney_ss" update="add">Beale, Robert</field>
+      <field name="attorneyID_ss" update="add">per.000572</field>
+      <field name="attorneyData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0090.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"John Lee v. William Dent. Petition for Freedom (September 10, 1827)","date":"1827-09-10","dateDisplay":"September 10, 1827","id":"oscys.case.0090.001"}</field>
+   </doc>
+</add>

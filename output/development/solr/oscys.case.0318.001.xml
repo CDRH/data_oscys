@@ -1,0 +1,67 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0318.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0318.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0318.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0318.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Susan Steward v. Henry L. Holley. Petition for Freedom</field>
+      <field name="titleSort" update="add">susan steward v. henry l. holley. petition for freedom</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date">1858-01-07T00:00:00Z</field>
+      <field name="dateDisplay">January 7, 1858</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 851, Folder 482</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Steward, Susan</field>
+      <field name="people">Holley, Henry L.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Steward, Susan</field>
+      <field name="personID_ss">per.002386</field>
+      <field name="personData_ss">{"label":"Steward, Susan","id":"per.002386"}</field>
+      <field name="person_ss">Holley, Henry L.</field>
+      <field name="personID_ss">per.002387</field>
+      <field name="personData_ss">{"label":"Holley, Henry L.","id":"per.002387"}</field>
+      <field name="plaintiff_ss">Steward, Susan</field>
+      <field name="plaintiffID_ss">per.002386</field>
+      <field name="plaintiffData_ss">{"label":"Steward, Susan","id":"per.002386"}</field>
+      <field name="defendant_ss">Holley, Henry L.</field>
+      <field name="defendantID_ss">per.002387</field>
+      <field name="defendantData_ss">{"label":"Holley, Henry L.","id":"per.002387"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1858-01</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0319</field>
+      <field name="documentCaseData_ss">{"label":"Susan Steward v. Henry L. Holley","id":"oscys.caseid.0319"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Hon the Judges Circuit Court Dist of Columbia for County of Washington Your Petitioner Susan Steward respectfully shews to your Honors that she is free and is claimed as slave by one Henry L. Holley and she prays process against him his answer &amp; your Honors enquire into 482. Susan Steward vs Henry L. Holley Peto. for Freed Filed 7t Jany. 1858. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0319</field>
+      <field name="person_ss" update="add">Steward, Susan</field>
+      <field name="personID_ss" update="add">per.002386</field>
+      <field name="personData_ss" update="add">{"label":"Steward, Susan","id":"per.002386"}</field>
+      <field name="person_ss" update="add">Holley, Henry L.</field>
+      <field name="personID_ss" update="add">per.002387</field>
+      <field name="personData_ss" update="add">{"label":"Holley, Henry L.","id":"per.002387"}</field>
+      <field name="plaintiff_ss" update="add">Steward, Susan</field>
+      <field name="plaintiffID_ss" update="add">per.002386</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Steward, Susan","id":"per.002386"}</field>
+      <field name="defendant_ss" update="add">Holley, Henry L.</field>
+      <field name="defendantID_ss" update="add">per.002387</field>
+      <field name="defendantData_ss" update="add">{"label":"Holley, Henry L.","id":"per.002387"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0318.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Susan Steward v. Henry L. Holley. Petition for Freedom (January 7, 1858)","date":"1858-01-07","dateDisplay":"January 7, 1858","id":"oscys.case.0318.001"}</field>
+   </doc>
+</add>

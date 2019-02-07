@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0225.003</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0225.003.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0225.003.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0225.003.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">William Lewis v. Robert H. Perkins. Richard Wallach to Clerk</field>
+      <field name="titleSort" update="add">william lewis v. robert h. perkins. richard wallach to clerk</field>
+      <field name="titleLetter_s" update="add">w</field>
+      <field name="contributor"/>
+      <field name="date">1847-01-07T00:00:00Z</field>
+      <field name="dateDisplay">January 7, 1847</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 700, Folder 5</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Correspondence</field>
+      <field name="people">Lewis, William</field>
+      <field name="people">Perkins, Richard H.</field>
+      <field name="people">Wallach, Richard, 1816-1881</field>
+      <field name="person_ss">Lewis, William</field>
+      <field name="personID_ss">per.001779</field>
+      <field name="personData_ss">{"label":"Lewis, William","id":"per.001779"}</field>
+      <field name="person_ss">Perkins, Richard H.</field>
+      <field name="personID_ss">per.001780</field>
+      <field name="personData_ss">{"label":"Perkins, Richard H.","id":"per.001780"}</field>
+      <field name="person_ss">Wallach, Richard, 1816-1881</field>
+      <field name="personID_ss">per.000753</field>
+      <field name="personData_ss">{"label":"Wallach, Richard, 1816-1881","id":"per.000753"}</field>
+      <field name="plaintiff_ss">Lewis, William</field>
+      <field name="plaintiffID_ss">per.001779</field>
+      <field name="plaintiffData_ss">{"label":"Lewis, William","id":"per.001779"}</field>
+      <field name="defendant_ss">Perkins, Richard H.</field>
+      <field name="defendantID_ss">per.001780</field>
+      <field name="defendantData_ss">{"label":"Perkins, Richard H.","id":"per.001780"}</field>
+      <field name="attorneyP_ss">Wallach, Richard, 1816-1881</field>
+      <field name="attorneyPID_ss">per.000753</field>
+      <field name="attorneyPData_ss">{"label":"Wallach, Richard, 1816-1881","id":"per.000753"}</field>
+      <field name="attorney_ss">Wallach, Richard, 1816-1881</field>
+      <field name="attorneyID_ss">per.000753</field>
+      <field name="attorneyData_ss">{"label":"Wallach, Richard, 1816-1881","id":"per.000753"}</field>
+      <field name="sourceTitle_s">Richard Wallach to Clerk</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1846-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0230</field>
+      <field name="documentCaseData_ss">{"label":"William Lewis v. Robert H. Perkins","id":"oscys.caseid.0230"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> William Lewis v Robert H. Perkins 5 Apps October Term 1846 Strike off R Wallach Plffs Atty 5. Lewis vs Perkins Order to strike off. Filed 7th Janry 1847. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0230</field>
+      <field update="add" name="outcomeData_ss">{"label":"Dismissed","date":"1847-01-07","dateDisplay":"January 7, 1847","id":"oscys.case.0225.003"}</field>
+      <field update="add" name="outcome_ss">Dismissed</field>
+      <field name="person_ss" update="add">Lewis, William</field>
+      <field name="personID_ss" update="add">per.001779</field>
+      <field name="personData_ss" update="add">{"label":"Lewis, William","id":"per.001779"}</field>
+      <field name="person_ss" update="add">Perkins, Richard H.</field>
+      <field name="personID_ss" update="add">per.001780</field>
+      <field name="personData_ss" update="add">{"label":"Perkins, Richard H.","id":"per.001780"}</field>
+      <field name="person_ss" update="add">Wallach, Richard, 1816-1881</field>
+      <field name="personID_ss" update="add">per.000753</field>
+      <field name="personData_ss" update="add">{"label":"Wallach, Richard, 1816-1881","id":"per.000753"}</field>
+      <field name="plaintiff_ss" update="add">Lewis, William</field>
+      <field name="plaintiffID_ss" update="add">per.001779</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lewis, William","id":"per.001779"}</field>
+      <field name="defendant_ss" update="add">Perkins, Richard H.</field>
+      <field name="defendantID_ss" update="add">per.001780</field>
+      <field name="defendantData_ss" update="add">{"label":"Perkins, Richard H.","id":"per.001780"}</field>
+      <field name="attorneyP_ss" update="add">Wallach, Richard, 1816-1881</field>
+      <field name="attorneyPID_ss" update="add">per.000753</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Wallach, Richard, 1816-1881","id":"per.000753"}</field>
+      <field name="attorney_ss" update="add">Wallach, Richard, 1816-1881</field>
+      <field name="attorneyID_ss" update="add">per.000753</field>
+      <field name="attorneyData_ss" update="add">{"label":"Wallach, Richard, 1816-1881","id":"per.000753"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0225.003</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"William Lewis v. Robert H. Perkins. Richard Wallach to Clerk (January 7, 1847)","date":"1847-01-07","dateDisplay":"January 7, 1847","id":"oscys.case.0225.003"}</field>
+   </doc>
+</add>

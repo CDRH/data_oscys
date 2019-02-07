@@ -1,0 +1,93 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0080.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0080.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0080.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0080.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Louisa Johnson v. Milo Mason. Petition for Freedom</field>
+      <field name="titleSort" update="add">louisa johnson v. milo mason. petition for freedom</field>
+      <field name="titleLetter_s" update="add">l</field>
+      <field name="contributor"/>
+      <field name="date">1827-11-20T00:00:00Z</field>
+      <field name="dateDisplay">November 20, 1827</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 401, Folder 30</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Hook, James</field>
+      <field name="people">Johnson, Louisa</field>
+      <field name="people">Mason, Milo</field>
+      <field name="people">Beale, Robert</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Hook, James</field>
+      <field name="personID_ss">per.000643</field>
+      <field name="personData_ss">{"label":"Hook, James","id":"per.000643"}</field>
+      <field name="person_ss">Johnson, Louisa</field>
+      <field name="personID_ss">per.000644</field>
+      <field name="personData_ss">{"label":"Johnson, Louisa","id":"per.000644"}</field>
+      <field name="person_ss">Mason, Milo</field>
+      <field name="personID_ss">per.000645</field>
+      <field name="personData_ss">{"label":"Mason, Milo","id":"per.000645"}</field>
+      <field name="person_ss">Beale, Robert</field>
+      <field name="personID_ss">per.000572</field>
+      <field name="personData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="plaintiff_ss">Johnson, Louisa</field>
+      <field name="plaintiffID_ss">per.000644</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, Louisa","id":"per.000644"}</field>
+      <field name="defendant_ss">Mason, Milo</field>
+      <field name="defendantID_ss">per.000645</field>
+      <field name="defendantData_ss">{"label":"Mason, Milo","id":"per.000645"}</field>
+      <field name="attorneyP_ss">Beale, Robert</field>
+      <field name="attorneyPID_ss">per.000572</field>
+      <field name="attorneyPData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="attorney_ss">Beale, Robert</field>
+      <field name="attorneyID_ss">per.000572</field>
+      <field name="attorneyData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1828-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0080</field>
+      <field name="documentCaseData_ss">{"label":"Louisa Johnson v. Milo Mason","id":"oscys.caseid.0080"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble the Judges of the circuit court of the United States for the Dist of Columbia for the County of Washington The Petition of Louisa Johnson humbly sheweth that she is entitled to her freedom and is unjustly &amp; illegally held in bondage by Milo Mason &amp; Lamar Hook. Wherefore she prays your honors that a subpona may be issued to the said Milo Mason &amp; Lamar Hookdirectedg that they may he may appear &amp; answer hereto &amp; that your petitioner may be discharged from his service &amp; obtain such relief in the premises as to your honors may seem meet. Robert Beale for Petitioner 297 Louisa Johnson vs Milo Mason Petition for Freedom Filed 20 Novr 1827 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0080</field>
+      <field name="person_ss" update="add">Hook, James</field>
+      <field name="personID_ss" update="add">per.000643</field>
+      <field name="personData_ss" update="add">{"label":"Hook, James","id":"per.000643"}</field>
+      <field name="person_ss" update="add">Johnson, Louisa</field>
+      <field name="personID_ss" update="add">per.000644</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Louisa","id":"per.000644"}</field>
+      <field name="person_ss" update="add">Mason, Milo</field>
+      <field name="personID_ss" update="add">per.000645</field>
+      <field name="personData_ss" update="add">{"label":"Mason, Milo","id":"per.000645"}</field>
+      <field name="person_ss" update="add">Beale, Robert</field>
+      <field name="personID_ss" update="add">per.000572</field>
+      <field name="personData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.000644</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Louisa","id":"per.000644"}</field>
+      <field name="defendant_ss" update="add">Mason, Milo</field>
+      <field name="defendantID_ss" update="add">per.000645</field>
+      <field name="defendantData_ss" update="add">{"label":"Mason, Milo","id":"per.000645"}</field>
+      <field name="attorneyP_ss" update="add">Beale, Robert</field>
+      <field name="attorneyPID_ss" update="add">per.000572</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="attorney_ss" update="add">Beale, Robert</field>
+      <field name="attorneyID_ss" update="add">per.000572</field>
+      <field name="attorneyData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0080.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Louisa Johnson v. Milo Mason. Petition for Freedom (November 20, 1827)","date":"1827-11-20","dateDisplay":"November 20, 1827","id":"oscys.case.0080.001"}</field>
+   </doc>
+</add>

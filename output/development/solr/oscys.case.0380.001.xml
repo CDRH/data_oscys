@@ -1,0 +1,75 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0380.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0380.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0380.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0380.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Amie v. Hanson Reno. Petition for Freedom</field>
+      <field name="titleSort" update="add">amie v. hanson reno. petition for freedom</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Marle, Elizabeth</field>
+      <field name="people">Amie</field>
+      <field name="people">Reno, Hanson</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="places">Elkton (Md.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Marle, Elizabeth</field>
+      <field name="personID_ss">per.004415</field>
+      <field name="personData_ss">{"label":"Marle, Elizabeth","id":"per.004415"}</field>
+      <field name="person_ss">Amie</field>
+      <field name="personID_ss">per.004416</field>
+      <field name="personData_ss">{"label":"Amie","id":"per.004416"}</field>
+      <field name="person_ss">Reno, Hanson</field>
+      <field name="personID_ss">per.004417</field>
+      <field name="personData_ss">{"label":"Reno, Hanson","id":"per.004417"}</field>
+      <field name="plaintiff_ss">Amie</field>
+      <field name="plaintiffID_ss">per.004416</field>
+      <field name="plaintiffData_ss">{"label":"Amie","id":"per.004416"}</field>
+      <field name="defendant_ss">Reno, Hanson</field>
+      <field name="defendantID_ss">per.004417</field>
+      <field name="defendantData_ss">{"label":"Reno, Hanson","id":"per.004417"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1803-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0405</field>
+      <field name="documentCaseData_ss">{"label":"Amie v. Hanson Reno","id":"oscys.caseid.0405"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> To the Honorable the Circuit Court of the District of Columbia, for Alexandria County, now sitting, The Petition of Negro Amie, respectfully sheweth, The she conceives herself illegally detained as as slave by Hanson Reno of the County of Alexandria, inn Keeper. That your petitioner formerly belonged to a certain Elizabeth Marle, whom removed from the head of Elk in the State of Maryland to the town of Alexandria then in the Commonwealth of Virginia, and that she said Elizabeth Marle, failed to comply with the Laws of the said Commonwealth, by omitting to enter with the Clerk of the Court. Your petitioner — Whereby your petitioner is advised she became entitled to her freedom under the laws of Virginia. Your petitioner therefore prays the honorable Court to allow her to sue therein, in forma pauperis, for the recovery of her freedom. And your petitioner as in duty bound &amp;c. Petition of Negro Amie </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0405</field>
+      <field name="person_ss" update="add">Marle, Elizabeth</field>
+      <field name="personID_ss" update="add">per.004415</field>
+      <field name="personData_ss" update="add">{"label":"Marle, Elizabeth","id":"per.004415"}</field>
+      <field name="person_ss" update="add">Amie</field>
+      <field name="personID_ss" update="add">per.004416</field>
+      <field name="personData_ss" update="add">{"label":"Amie","id":"per.004416"}</field>
+      <field name="person_ss" update="add">Reno, Hanson</field>
+      <field name="personID_ss" update="add">per.004417</field>
+      <field name="personData_ss" update="add">{"label":"Reno, Hanson","id":"per.004417"}</field>
+      <field name="plaintiff_ss" update="add">Amie</field>
+      <field name="plaintiffID_ss" update="add">per.004416</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Amie","id":"per.004416"}</field>
+      <field name="defendant_ss" update="add">Reno, Hanson</field>
+      <field name="defendantID_ss" update="add">per.004417</field>
+      <field name="defendantData_ss" update="add">{"label":"Reno, Hanson","id":"per.004417"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0380.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Amie v. Hanson Reno. Petition for Freedom","id":"oscys.case.0380.001"}</field>
+   </doc>
+</add>

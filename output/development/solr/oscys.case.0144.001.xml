@@ -1,0 +1,99 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0144.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0144.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0144.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0144.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Hickey Lee v. Frederick Goulding. Petition for Freedom</field>
+      <field name="titleSort" update="add">hickey lee v. frederick goulding. petition for freedom</field>
+      <field name="titleLetter_s" update="add">h</field>
+      <field name="contributor"/>
+      <field name="date">1834-03-19T00:00:00Z</field>
+      <field name="dateDisplay">March 19, 1834</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 532, Folder 419</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Lee, Hickey</field>
+      <field name="people">Lee, Virginia</field>
+      <field name="people">Goulding, Frederick</field>
+      <field name="people">Wallach, Richard</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Lee, Hickey</field>
+      <field name="personID_ss">per.001134</field>
+      <field name="personData_ss">{"label":"Lee, Hickey","id":"per.001134"}</field>
+      <field name="person_ss">Lee, Virginia</field>
+      <field name="personID_ss">per.001135</field>
+      <field name="personData_ss">{"label":"Lee, Virginia","id":"per.001135"}</field>
+      <field name="person_ss">Goulding, Frederick</field>
+      <field name="personID_ss">per.001136</field>
+      <field name="personData_ss">{"label":"Goulding, Frederick","id":"per.001136"}</field>
+      <field name="person_ss">Wallach, Richard</field>
+      <field name="personID_ss">per.000464</field>
+      <field name="personData_ss">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="plaintiff_ss">Lee, Hickey</field>
+      <field name="plaintiffID_ss">per.001134</field>
+      <field name="plaintiffData_ss">{"label":"Lee, Hickey","id":"per.001134"}</field>
+      <field name="plaintiff_ss">Lee, Virginia</field>
+      <field name="plaintiffID_ss">per.001135</field>
+      <field name="plaintiffData_ss">{"label":"Lee, Virginia","id":"per.001135"}</field>
+      <field name="defendant_ss">Goulding, Frederick</field>
+      <field name="defendantID_ss">per.001136</field>
+      <field name="defendantData_ss">{"label":"Goulding, Frederick","id":"per.001136"}</field>
+      <field name="attorneyP_ss">Wallach, Richard</field>
+      <field name="attorneyPID_ss">per.000464</field>
+      <field name="attorneyPData_ss">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="attorney_ss">Wallach, Richard</field>
+      <field name="attorneyID_ss">per.000464</field>
+      <field name="attorneyData_ss">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1835-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0146</field>
+      <field name="documentCaseData_ss">{"label":"Hickey Lee &amp; Virginia Lee v. Frederick Goulding","id":"oscys.caseid.0146"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court of the District of Columbia for the County of Washington The Petition of Hickey Lee for herself &amp; child Virginia humbly represents that yr petitioner is now held in bondage by one Frederick Goulding in the said County. That yr petitioner is entitled to her freedom and she therefore prays your Honors to grant unto her the U S writ of subpoena &amp;c &amp;c Richard Wallach for petitioner 528. Hickey Lee vs Fredck Goulding Filed March 19 1834 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0146</field>
+      <field name="person_ss" update="add">Lee, Hickey</field>
+      <field name="personID_ss" update="add">per.001134</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Hickey","id":"per.001134"}</field>
+      <field name="person_ss" update="add">Lee, Virginia</field>
+      <field name="personID_ss" update="add">per.001135</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Virginia","id":"per.001135"}</field>
+      <field name="person_ss" update="add">Goulding, Frederick</field>
+      <field name="personID_ss" update="add">per.001136</field>
+      <field name="personData_ss" update="add">{"label":"Goulding, Frederick","id":"per.001136"}</field>
+      <field name="person_ss" update="add">Wallach, Richard</field>
+      <field name="personID_ss" update="add">per.000464</field>
+      <field name="personData_ss" update="add">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Hickey</field>
+      <field name="plaintiffID_ss" update="add">per.001134</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Hickey","id":"per.001134"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Virginia</field>
+      <field name="plaintiffID_ss" update="add">per.001135</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Virginia","id":"per.001135"}</field>
+      <field name="defendant_ss" update="add">Goulding, Frederick</field>
+      <field name="defendantID_ss" update="add">per.001136</field>
+      <field name="defendantData_ss" update="add">{"label":"Goulding, Frederick","id":"per.001136"}</field>
+      <field name="attorneyP_ss" update="add">Wallach, Richard</field>
+      <field name="attorneyPID_ss" update="add">per.000464</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="attorney_ss" update="add">Wallach, Richard</field>
+      <field name="attorneyID_ss" update="add">per.000464</field>
+      <field name="attorneyData_ss" update="add">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0144.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Hickey Lee v. Frederick Goulding. Petition for Freedom (March 19, 1834)","date":"1834-03-19","dateDisplay":"March 19, 1834","id":"oscys.case.0144.001"}</field>
+   </doc>
+</add>

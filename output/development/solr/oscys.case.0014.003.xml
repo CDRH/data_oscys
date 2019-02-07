@@ -1,0 +1,104 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0014.003</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0014.003.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0014.003.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0014.003.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Isaac Davis &amp; Edgar Davis v. John Travers. John Travers to Francis S. Key</field>
+      <field name="titleSort" update="add">isaac davis &amp; edgar davis v. john travers. john travers to francis s. key</field>
+      <field name="titleLetter_s" update="add">i</field>
+      <field name="contributor"/>
+      <field name="date">1810-07-04T00:00:00Z</field>
+      <field name="dateDisplay">July 4, 1810</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 20, Folder 221</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Correspondence</field>
+      <field name="people">Morsell, James Sewall</field>
+      <field name="people">Davis, Edgar</field>
+      <field name="people">Davis, Isaac</field>
+      <field name="people">Travers, John</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="person_ss">Morsell, James Sewall</field>
+      <field name="personID_ss">per.000044</field>
+      <field name="personData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss">Davis, Edgar</field>
+      <field name="personID_ss">per.000123</field>
+      <field name="personData_ss">{"label":"Davis, Edgar","id":"per.000123"}</field>
+      <field name="person_ss">Davis, Isaac</field>
+      <field name="personID_ss">per.000124</field>
+      <field name="personData_ss">{"label":"Davis, Isaac","id":"per.000124"}</field>
+      <field name="person_ss">Travers, John</field>
+      <field name="personID_ss">per.000125</field>
+      <field name="personData_ss">{"label":"Travers, John","id":"per.000125"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss">Davis, Edgar</field>
+      <field name="plaintiffID_ss">per.000123</field>
+      <field name="plaintiffData_ss">{"label":"Davis, Edgar","id":"per.000123"}</field>
+      <field name="plaintiff_ss">Davis, Isaac</field>
+      <field name="plaintiffID_ss">per.000124</field>
+      <field name="plaintiffData_ss">{"label":"Davis, Isaac","id":"per.000124"}</field>
+      <field name="defendant_ss">Travers, John</field>
+      <field name="defendantID_ss">per.000125</field>
+      <field name="defendantData_ss">{"label":"Travers, John","id":"per.000125"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="sourceTitle_s">John Travers to Francis S. Key</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1810-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0014</field>
+      <field name="documentCaseData_ss">{"label":"Isaac Davis &amp; Edgar Davis v. John Travers","id":"oscys.caseid.0014"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Francis S. Key Esq Sir, I was informed that the Davis Trial was to come in this Court &amp; as you have been kind enough to do the Business for the Petition that was filed against me I hope you will enter a Disclaimer for me the boys name was Isaac &amp; I sold him in the yr 1803 or 4 but think it was in the yr 1803 you may be sure I will pay you I am sir with due respect yrs J Travers PS Mr Morsell is kind enough to give any assistance that lays in his power with you July 4. 1810 221. Filed fourth July 1810. Francis S. Key Esq </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0014</field>
+      <field name="person_ss" update="add">Morsell, James Sewall</field>
+      <field name="personID_ss" update="add">per.000044</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss" update="add">Davis, Edgar</field>
+      <field name="personID_ss" update="add">per.000123</field>
+      <field name="personData_ss" update="add">{"label":"Davis, Edgar","id":"per.000123"}</field>
+      <field name="person_ss" update="add">Davis, Isaac</field>
+      <field name="personID_ss" update="add">per.000124</field>
+      <field name="personData_ss" update="add">{"label":"Davis, Isaac","id":"per.000124"}</field>
+      <field name="person_ss" update="add">Travers, John</field>
+      <field name="personID_ss" update="add">per.000125</field>
+      <field name="personData_ss" update="add">{"label":"Travers, John","id":"per.000125"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss" update="add">Davis, Edgar</field>
+      <field name="plaintiffID_ss" update="add">per.000123</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Davis, Edgar","id":"per.000123"}</field>
+      <field name="plaintiff_ss" update="add">Davis, Isaac</field>
+      <field name="plaintiffID_ss" update="add">per.000124</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Davis, Isaac","id":"per.000124"}</field>
+      <field name="defendant_ss" update="add">Travers, John</field>
+      <field name="defendantID_ss" update="add">per.000125</field>
+      <field name="defendantData_ss" update="add">{"label":"Travers, John","id":"per.000125"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0014.003</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Isaac Davis &amp; Edgar Davis v. John Travers. John Travers to Francis S. Key (July 4, 1810)","date":"1810-07-04","dateDisplay":"July 4, 1810","id":"oscys.case.0014.003"}</field>
+   </doc>
+</add>

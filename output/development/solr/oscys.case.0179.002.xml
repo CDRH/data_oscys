@@ -1,0 +1,83 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0179.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0179.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0179.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0179.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Richard B. Alexander v. Moses Graham. Writ of Error</field>
+      <field name="titleSort" update="add">richard b. alexander v. moses graham. writ of error</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="contributor"/>
+      <field name="date">1840-04-19T00:00:00Z</field>
+      <field name="dateDisplay">April 19, 1840</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 627, Folder 115</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Writ</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Taney, Roger Brooke, 1777-1864</field>
+      <field name="people">Graham, Moses</field>
+      <field name="people">Alexander, Richard B.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Taney, Roger Brooke, 1777-1864</field>
+      <field name="personID_ss">per.001155</field>
+      <field name="personData_ss">{"label":"Taney, Roger Brooke, 1777-1864","id":"per.001155"}</field>
+      <field name="person_ss">Graham, Moses</field>
+      <field name="personID_ss">per.001342</field>
+      <field name="personData_ss">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="person_ss">Alexander, Richard B.</field>
+      <field name="personID_ss">per.001343</field>
+      <field name="personData_ss">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="plaintiff_ss">Graham, Moses</field>
+      <field name="plaintiffID_ss">per.001342</field>
+      <field name="plaintiffData_ss">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="defendant_ss">Alexander, Richard B.</field>
+      <field name="defendantID_ss">per.001343</field>
+      <field name="defendantData_ss">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="sourceTitle_s">Writ of Error</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1840-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0181</field>
+      <field name="documentCaseData_ss">{"label":"Moses Graham v. Richard B. Alexander","id":"oscys.caseid.0181"}</field>
+      <field name="jurisdiction_ss">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="text"> The United States of America, ss. The President of the United States. To the Judges of the Circuit Court of the United States for the District of Columbia, sitting for the County of Washington. Greeting Because in the record and proceedings as also in the rendition of the Judgment of a plea, which is in the said Court before you or some of you, between Moses Graham, plaintiff and Richard B. Alexander, defendant, a manifest error hath happened to the great damage of the said Richard B. Alexander, as by his Complaint appears. We being willing that error, if any hath been, should be duly corrected and full and speedy justice done to the parties aforesaid in this behalf, do command you if judgment be therein given, that under your seal distinctly and openly you send the record and proceedings aforesaid, with all things concerning the same to the Supreme Court of the United States, together with this writ, so that you have the same at Washington, in said Supreme Court to be there held in the second Monday in January next. So that the record and proceedings aforesaid being inspected, the said Supreme Court may cause further to be done therein to correct that error, which of right and according to the law &amp; custom of the United States should be done. Witness the Hon Roger B. Taney Chief Justice of the said Supreme Court. Issued this 19th day of April 1840 W. Brent Clk &amp;c. &amp;c. Copy Test. W Brent Clk 115 Trials Negro Moses Graham vs Alexander. March Term 1840 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0181</field>
+      <field update="add" name="outcomeData_ss">{"label":"Appealed by Defendant","date":"1840-04-19","dateDisplay":"April 19, 1840","id":"oscys.case.0179.002"}</field>
+      <field update="add" name="outcome_ss">Appealed by Defendant</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Taney, Roger Brooke, 1777-1864</field>
+      <field name="personID_ss" update="add">per.001155</field>
+      <field name="personData_ss" update="add">{"label":"Taney, Roger Brooke, 1777-1864","id":"per.001155"}</field>
+      <field name="person_ss" update="add">Graham, Moses</field>
+      <field name="personID_ss" update="add">per.001342</field>
+      <field name="personData_ss" update="add">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="person_ss" update="add">Alexander, Richard B.</field>
+      <field name="personID_ss" update="add">per.001343</field>
+      <field name="personData_ss" update="add">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="plaintiff_ss" update="add">Graham, Moses</field>
+      <field name="plaintiffID_ss" update="add">per.001342</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="defendant_ss" update="add">Alexander, Richard B.</field>
+      <field name="defendantID_ss" update="add">per.001343</field>
+      <field name="defendantData_ss" update="add">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0179.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Richard B. Alexander v. Moses Graham. Writ of Error (April 19, 1840)","date":"1840-04-19","dateDisplay":"April 19, 1840","id":"oscys.case.0179.002"}</field>
+   </doc>
+</add>

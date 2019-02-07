@@ -1,0 +1,184 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0212.005</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0212.005.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0212.005.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0212.005.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Thomas Butler v. Gabriel Duvall. Benjamin Gowen to William Brent</field>
+      <field name="titleSort" update="add">thomas butler v. gabriel duvall. benjamin gowen to william brent</field>
+      <field name="titleLetter_s" update="add">t</field>
+      <field name="contributor"/>
+      <field name="date">1830-04-17T00:00:00Z</field>
+      <field name="dateDisplay">April 17, 1830</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 454, Folder 80</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Correspondence</field>
+      <field name="people">Gowen, Benjamin S.</field>
+      <field name="people">Butler, Airy</field>
+      <field name="people">Butler, Eliza</field>
+      <field name="people">Butler, Liddy</field>
+      <field name="people">Butler, Matilda</field>
+      <field name="people">Butler, Reason</field>
+      <field name="people">Butler, Sally</field>
+      <field name="people">Butler, Sarah</field>
+      <field name="people">Butler, Thomas</field>
+      <field name="people">Duvall, Gabriel, 1752-1844</field>
+      <field name="people">Beale, Robert</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Gowen, Benjamin S.</field>
+      <field name="personID_ss">per.001403</field>
+      <field name="personData_ss">{"label":"Gowen, Benjamin S.","id":"per.001403"}</field>
+      <field name="person_ss">Butler, Airy</field>
+      <field name="personID_ss">per.001385</field>
+      <field name="personData_ss">{"label":"Butler, Airy","id":"per.001385"}</field>
+      <field name="person_ss">Butler, Eliza</field>
+      <field name="personID_ss">per.001386</field>
+      <field name="personData_ss">{"label":"Butler, Eliza","id":"per.001386"}</field>
+      <field name="person_ss">Butler, Liddy</field>
+      <field name="personID_ss">per.001387</field>
+      <field name="personData_ss">{"label":"Butler, Liddy","id":"per.001387"}</field>
+      <field name="person_ss">Butler, Matilda</field>
+      <field name="personID_ss">per.001388</field>
+      <field name="personData_ss">{"label":"Butler, Matilda","id":"per.001388"}</field>
+      <field name="person_ss">Butler, Reason</field>
+      <field name="personID_ss">per.001389</field>
+      <field name="personData_ss">{"label":"Butler, Reason","id":"per.001389"}</field>
+      <field name="person_ss">Butler, Sally</field>
+      <field name="personID_ss">per.001390</field>
+      <field name="personData_ss">{"label":"Butler, Sally","id":"per.001390"}</field>
+      <field name="person_ss">Butler, Sarah</field>
+      <field name="personID_ss">per.001391</field>
+      <field name="personData_ss">{"label":"Butler, Sarah","id":"per.001391"}</field>
+      <field name="person_ss">Butler, Thomas</field>
+      <field name="personID_ss">per.001392</field>
+      <field name="personData_ss">{"label":"Butler, Thomas","id":"per.001392"}</field>
+      <field name="person_ss">Duvall, Gabriel, 1752-1844</field>
+      <field name="personID_ss">per.001393</field>
+      <field name="personData_ss">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="person_ss">Beale, Robert</field>
+      <field name="personID_ss">per.000572</field>
+      <field name="personData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="plaintiff_ss">Butler, Airy</field>
+      <field name="plaintiffID_ss">per.001385</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Airy","id":"per.001385"}</field>
+      <field name="plaintiff_ss">Butler, Eliza</field>
+      <field name="plaintiffID_ss">per.001386</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Eliza","id":"per.001386"}</field>
+      <field name="plaintiff_ss">Butler, Liddy</field>
+      <field name="plaintiffID_ss">per.001387</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Liddy","id":"per.001387"}</field>
+      <field name="plaintiff_ss">Butler, Matilda</field>
+      <field name="plaintiffID_ss">per.001388</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Matilda","id":"per.001388"}</field>
+      <field name="plaintiff_ss">Butler, Reason</field>
+      <field name="plaintiffID_ss">per.001389</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Reason","id":"per.001389"}</field>
+      <field name="plaintiff_ss">Butler, Sally</field>
+      <field name="plaintiffID_ss">per.001390</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Sally","id":"per.001390"}</field>
+      <field name="plaintiff_ss">Butler, Sarah</field>
+      <field name="plaintiffID_ss">per.001391</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Sarah","id":"per.001391"}</field>
+      <field name="plaintiff_ss">Butler, Thomas</field>
+      <field name="plaintiffID_ss">per.001392</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Thomas","id":"per.001392"}</field>
+      <field name="defendant_ss">Duvall, Gabriel, 1752-1844</field>
+      <field name="defendantID_ss">per.001393</field>
+      <field name="defendantData_ss">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="attorneyP_ss">Beale, Robert</field>
+      <field name="attorneyPID_ss">per.000572</field>
+      <field name="attorneyPData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="attorney_ss">Beale, Robert</field>
+      <field name="attorneyID_ss">per.000572</field>
+      <field name="attorneyData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="sourceTitle_s">Benjamin Gowen to William Brent</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1831-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0217</field>
+      <field name="documentCaseData_ss">{"label":"Thomas Butler, Sarah Butler, Matilda Butler, Airy Butler, Reason Butler, Sally Butler, Liddy Butler, &amp; Eliza Butler v. Gabriel Duvall","id":"oscys.caseid.0217"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Moorefield April 17. 1830 Dr. Sir, To insure the safe arrival of the Enclosed at the place where wanted in time, I have taken the liberty of directing to you, without such instructions for Hon. G. Duvall. Hearing there might be some delay in the to the office nearer his residence and the time being near at hand when it will be needed. Yours Respectfully Benjnm S. Gowen Clk. of Circuit Court D. C. 75 Cadiz 22d Apl Thomas Butler &amp; Sarah his wife and others vs Gabriel Duvall Petition for Freedom Circuit Court District of Columbia The deposition of Matthew Kennedy To the Clerk of the Circuit Court of the District of Columbia Washington City District of Columbia or to the Hon. Gabriel Duvall of the same place </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0217</field>
+      <field name="person_ss" update="add">Gowen, Benjamin S.</field>
+      <field name="personID_ss" update="add">per.001403</field>
+      <field name="personData_ss" update="add">{"label":"Gowen, Benjamin S.","id":"per.001403"}</field>
+      <field name="person_ss" update="add">Butler, Airy</field>
+      <field name="personID_ss" update="add">per.001385</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Airy","id":"per.001385"}</field>
+      <field name="person_ss" update="add">Butler, Eliza</field>
+      <field name="personID_ss" update="add">per.001386</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Eliza","id":"per.001386"}</field>
+      <field name="person_ss" update="add">Butler, Liddy</field>
+      <field name="personID_ss" update="add">per.001387</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Liddy","id":"per.001387"}</field>
+      <field name="person_ss" update="add">Butler, Matilda</field>
+      <field name="personID_ss" update="add">per.001388</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Matilda","id":"per.001388"}</field>
+      <field name="person_ss" update="add">Butler, Reason</field>
+      <field name="personID_ss" update="add">per.001389</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Reason","id":"per.001389"}</field>
+      <field name="person_ss" update="add">Butler, Sally</field>
+      <field name="personID_ss" update="add">per.001390</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Sally","id":"per.001390"}</field>
+      <field name="person_ss" update="add">Butler, Sarah</field>
+      <field name="personID_ss" update="add">per.001391</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Sarah","id":"per.001391"}</field>
+      <field name="person_ss" update="add">Butler, Thomas</field>
+      <field name="personID_ss" update="add">per.001392</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Thomas","id":"per.001392"}</field>
+      <field name="person_ss" update="add">Duvall, Gabriel, 1752-1844</field>
+      <field name="personID_ss" update="add">per.001393</field>
+      <field name="personData_ss" update="add">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="person_ss" update="add">Beale, Robert</field>
+      <field name="personID_ss" update="add">per.000572</field>
+      <field name="personData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Airy</field>
+      <field name="plaintiffID_ss" update="add">per.001385</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Airy","id":"per.001385"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Eliza</field>
+      <field name="plaintiffID_ss" update="add">per.001386</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Eliza","id":"per.001386"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Liddy</field>
+      <field name="plaintiffID_ss" update="add">per.001387</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Liddy","id":"per.001387"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Matilda</field>
+      <field name="plaintiffID_ss" update="add">per.001388</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Matilda","id":"per.001388"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Reason</field>
+      <field name="plaintiffID_ss" update="add">per.001389</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Reason","id":"per.001389"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Sally</field>
+      <field name="plaintiffID_ss" update="add">per.001390</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Sally","id":"per.001390"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Sarah</field>
+      <field name="plaintiffID_ss" update="add">per.001391</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Sarah","id":"per.001391"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Thomas</field>
+      <field name="plaintiffID_ss" update="add">per.001392</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Thomas","id":"per.001392"}</field>
+      <field name="defendant_ss" update="add">Duvall, Gabriel, 1752-1844</field>
+      <field name="defendantID_ss" update="add">per.001393</field>
+      <field name="defendantData_ss" update="add">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="attorneyP_ss" update="add">Beale, Robert</field>
+      <field name="attorneyPID_ss" update="add">per.000572</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="attorney_ss" update="add">Beale, Robert</field>
+      <field name="attorneyID_ss" update="add">per.000572</field>
+      <field name="attorneyData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0212.005</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Thomas Butler v. Gabriel Duvall. Benjamin Gowen to William Brent (April 17, 1830)","date":"1830-04-17","dateDisplay":"April 17, 1830","id":"oscys.case.0212.005"}</field>
+   </doc>
+</add>

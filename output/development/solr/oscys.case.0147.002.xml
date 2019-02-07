@@ -1,0 +1,367 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0147.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0147.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0147.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0147.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">James Ash v. William H. Williams. Transcript Record</field>
+      <field name="titleSort" update="add">james ash v. william h. williams. transcript record</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1840-03-24T00:00:00Z</field>
+      <field name="dateDisplay">March 24, 1840</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 617, Folder 25</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Transcript</field>
+      <field name="people">Bell, Ann</field>
+      <field name="people">Ben</field>
+      <field name="people">Betty</field>
+      <field name="people">Billy</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Clarke, William</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Daniels, Joseph H.</field>
+      <field name="people">Elizabeth</field>
+      <field name="people">Ferguson, John W.</field>
+      <field name="people">Ford, Joseph B.</field>
+      <field name="people">Greenfield, Gerard T.</field>
+      <field name="people">Greenfield, Maria Amne T.</field>
+      <field name="people">George</field>
+      <field name="people">Grimes, John</field>
+      <field name="people">Henry</field>
+      <field name="people">Hunter, Alexander</field>
+      <field name="people">Kitty</field>
+      <field name="people">Lewis</field>
+      <field name="people">Maria</field>
+      <field name="people">Mary</field>
+      <field name="people">Manson</field>
+      <field name="people">McPherson, Henry H.</field>
+      <field name="people">Morsell, James Sewall</field>
+      <field name="people">Nathaniel</field>
+      <field name="people">Orme, W. C.</field>
+      <field name="people">Owens, Thomas</field>
+      <field name="people">Phillips, George W.</field>
+      <field name="people">Phillips, Samuel</field>
+      <field name="people">Purdy, John</field>
+      <field name="people">Rebecca</field>
+      <field name="people">Sophia</field>
+      <field name="people">Taney, Roger Brooke, 1777-1864</field>
+      <field name="people">Thruston, Buckner, 1763-1845</field>
+      <field name="people">Toney</field>
+      <field name="people">Turner, A. W.</field>
+      <field name="people">Waters, William N.</field>
+      <field name="people">Ash, James</field>
+      <field name="people">Williams, William H.</field>
+      <field name="people">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="people">Marbury, John</field>
+      <field name="places">Tennessee</field>
+      <field name="places">Prince George's County (Md.)</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Baltimore (Md.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Bell, Ann</field>
+      <field name="personID_ss">per.000772</field>
+      <field name="personData_ss">{"label":"Bell, Ann","id":"per.000772"}</field>
+      <field name="person_ss">Ben</field>
+      <field name="personID_ss">per.000803</field>
+      <field name="personData_ss">{"label":"Ben","id":"per.000803"}</field>
+      <field name="person_ss">Betty</field>
+      <field name="personID_ss">per.000804</field>
+      <field name="personData_ss">{"label":"Betty","id":"per.000804"}</field>
+      <field name="person_ss">Billy</field>
+      <field name="personID_ss">per.000805</field>
+      <field name="personData_ss">{"label":"Billy","id":"per.000805"}</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Clarke, William</field>
+      <field name="personID_ss">per.001146</field>
+      <field name="personData_ss">{"label":"Clarke, William","id":"per.001146"}</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Daniels, Joseph H.</field>
+      <field name="personID_ss">per.001147</field>
+      <field name="personData_ss">{"label":"Daniels, Joseph H.","id":"per.001147"}</field>
+      <field name="person_ss">Elizabeth</field>
+      <field name="personID_ss">per.000810</field>
+      <field name="personData_ss">{"label":"Elizabeth","id":"per.000810"}</field>
+      <field name="person_ss">Ferguson, John W.</field>
+      <field name="personID_ss">per.001148</field>
+      <field name="personData_ss">{"label":"Ferguson, John W.","id":"per.001148"}</field>
+      <field name="person_ss">Ford, Joseph B.</field>
+      <field name="personID_ss">per.001149</field>
+      <field name="personData_ss">{"label":"Ford, Joseph B.","id":"per.001149"}</field>
+      <field name="person_ss">Greenfield, Gerard T.</field>
+      <field name="personID_ss">per.000775</field>
+      <field name="personData_ss">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="person_ss">Greenfield, Maria Amne T.</field>
+      <field name="personID_ss">per.000777</field>
+      <field name="personData_ss">{"label":"Greenfield, Maria Amne T.","id":"per.000777"}</field>
+      <field name="person_ss">George</field>
+      <field name="personID_ss">per.000811</field>
+      <field name="personData_ss">{"label":"George","id":"per.000811"}</field>
+      <field name="person_ss">Grimes, John</field>
+      <field name="personID_ss">per.000813</field>
+      <field name="personData_ss">{"label":"Grimes, John","id":"per.000813"}</field>
+      <field name="person_ss">Henry</field>
+      <field name="personID_ss">per.000814</field>
+      <field name="personData_ss">{"label":"Henry","id":"per.000814"}</field>
+      <field name="person_ss">Hunter, Alexander</field>
+      <field name="personID_ss">per.000739</field>
+      <field name="personData_ss">{"label":"Hunter, Alexander","id":"per.000739"}</field>
+      <field name="person_ss">Kitty</field>
+      <field name="personID_ss">per.000817</field>
+      <field name="personData_ss">{"label":"Kitty","id":"per.000817"}</field>
+      <field name="person_ss">Lewis</field>
+      <field name="personID_ss">per.000818</field>
+      <field name="personData_ss">{"label":"Lewis","id":"per.000818"}</field>
+      <field name="person_ss">Maria</field>
+      <field name="personID_ss">per.000820</field>
+      <field name="personData_ss">{"label":"Maria","id":"per.000820"}</field>
+      <field name="person_ss">Mary</field>
+      <field name="personID_ss">per.000821</field>
+      <field name="personData_ss">{"label":"Mary","id":"per.000821"}</field>
+      <field name="person_ss">Manson</field>
+      <field name="personID_ss">per.000819</field>
+      <field name="personData_ss">{"label":"Manson","id":"per.000819"}</field>
+      <field name="person_ss">McPherson, Henry H.</field>
+      <field name="personID_ss">per.000977</field>
+      <field name="personData_ss">{"label":"McPherson, Henry H.","id":"per.000977"}</field>
+      <field name="person_ss">Morsell, James Sewall</field>
+      <field name="personID_ss">per.000044</field>
+      <field name="personData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss">Nathaniel</field>
+      <field name="personID_ss">per.000822</field>
+      <field name="personData_ss">{"label":"Nathaniel","id":"per.000822"}</field>
+      <field name="person_ss">Orme, W. C.</field>
+      <field name="personID_ss">per.001150</field>
+      <field name="personData_ss">{"label":"Orme, W. C.","id":"per.001150"}</field>
+      <field name="person_ss">Owens, Thomas</field>
+      <field name="personID_ss">per.001151</field>
+      <field name="personData_ss">{"label":"Owens, Thomas","id":"per.001151"}</field>
+      <field name="person_ss">Phillips, George W.</field>
+      <field name="personID_ss">per.001152</field>
+      <field name="personData_ss">{"label":"Phillips, George W.","id":"per.001152"}</field>
+      <field name="person_ss">Phillips, Samuel</field>
+      <field name="personID_ss">per.001153</field>
+      <field name="personData_ss">{"label":"Phillips, Samuel","id":"per.001153"}</field>
+      <field name="person_ss">Purdy, John</field>
+      <field name="personID_ss">per.001154</field>
+      <field name="personData_ss">{"label":"Purdy, John","id":"per.001154"}</field>
+      <field name="person_ss">Rebecca</field>
+      <field name="personID_ss">per.000824</field>
+      <field name="personData_ss">{"label":"Rebecca","id":"per.000824"}</field>
+      <field name="person_ss">Sophia</field>
+      <field name="personID_ss">per.000825</field>
+      <field name="personData_ss">{"label":"Sophia","id":"per.000825"}</field>
+      <field name="person_ss">Taney, Roger Brooke, 1777-1864</field>
+      <field name="personID_ss">per.001155</field>
+      <field name="personData_ss">{"label":"Taney, Roger Brooke, 1777-1864","id":"per.001155"}</field>
+      <field name="person_ss">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss">per.000064</field>
+      <field name="personData_ss">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss">Toney</field>
+      <field name="personID_ss">per.000827</field>
+      <field name="personData_ss">{"label":"Toney","id":"per.000827"}</field>
+      <field name="person_ss">Turner, A. W.</field>
+      <field name="personID_ss">per.001156</field>
+      <field name="personData_ss">{"label":"Turner, A. W.","id":"per.001156"}</field>
+      <field name="person_ss">Waters, William N.</field>
+      <field name="personID_ss">per.000979</field>
+      <field name="personData_ss">{"label":"Waters, William N.","id":"per.000979"}</field>
+      <field name="person_ss">Ash, James</field>
+      <field name="personID_ss">per.000816</field>
+      <field name="personData_ss">{"label":"Ash, James","id":"per.000816"}</field>
+      <field name="person_ss">Williams, William H.</field>
+      <field name="personID_ss">per.001145</field>
+      <field name="personData_ss">{"label":"Williams, William H.","id":"per.001145"}</field>
+      <field name="person_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="personID_ss">per.000829</field>
+      <field name="personData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="person_ss">Marbury, John</field>
+      <field name="personID_ss">per.000830</field>
+      <field name="personData_ss">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="plaintiff_ss">Ash, James</field>
+      <field name="plaintiffID_ss">per.000816</field>
+      <field name="plaintiffData_ss">{"label":"Ash, James","id":"per.000816"}</field>
+      <field name="defendant_ss">Williams, William H.</field>
+      <field name="defendantID_ss">per.001145</field>
+      <field name="defendantData_ss">{"label":"Williams, William H.","id":"per.001145"}</field>
+      <field name="attorneyP_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyPID_ss">per.000829</field>
+      <field name="attorneyPData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorney_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyID_ss">per.000829</field>
+      <field name="attorneyData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorneyD_ss">Marbury, John</field>
+      <field name="attorneyDID_ss">per.000830</field>
+      <field name="attorneyDData_ss">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="attorney_ss">Marbury, John</field>
+      <field name="attorneyID_ss">per.000830</field>
+      <field name="attorneyData_ss">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="sourceTitle_s">Transcript Record</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1840-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0149</field>
+      <field name="documentCaseData_ss">{"label":"James Ash v. William H. Williams","id":"oscys.caseid.0149"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> District of Columbia, to wit: At a Circuit Court of the District of Columbia, begun and held in and for the County of Washington at the City of Washington on the fourth Monday of March being the twenty fourth day of the same month, in the year of Our Lord one thousand eight hundred and forty and of the Independence of the United States the Sixty fourth. Present The Honble William Cranch Chief Judge Buckner Thruston &amp; James S Morsell Asst Judges &amp; Alexander Hunter, Esquire. Marshal William Brent Clerk In the record of the proceedings of the said Court, among others are the following, to wit: James Ash vs William H. Williams Be it remembered that heretofore to wit: in the nineteenth day of December in the year of our Lord one thousand eight hundred and thirty nine, the said James Ash, by Joseph H. Bradley, Esquire, his attorney, filed in court here, the following petition to wit: The petition of James Ash to the Honorable the Judges of the Circuit Court of the District of Columbia for the county of Washington. Humbly sheath that the said James Ash is entitled to his freedom, and he hath filed his petition, in the Prince Georges County Court, &amp; state of Maryland, that the said petition is still pending in the said County of Prince George, that a certain John Grimes hath arrested your petitioner, and now holds him in custody, and hath confined him in the private jail of William H. Williams of the City of Washington. Your petitioner prays that subpoena may be issued for the said John Grimes and the said William H. Williams, and that your petitioner may have a fair trial of his said petition in your Honorable Court. Jos. H. Bradley for petiner Whereupon subpoena issued as prayed, and the said John Grimes &amp; William H. Williams by John Marbury, Esquire, his attorney, come into Court here and defend the Complaint aforesaid, when and where the said Court shall take the same into consideration, and for plea the they he says that the said petitioner is not entitled to his freedom as is alleged and of this they he puts themselves himself upon their his County. And the said petitioner in like manner and so forth. Therefore let a Jury thereon appear before the Court here immediately by whom &amp;c and who neither &amp;c to recognize &amp;c because as well &amp;c who being called came, to wit: 1 William N. Waters 2 Samuel Phillips 3 Hy. H. McPherson 4 Geo. W. Phillips 5 W. C. Orme 6 Joseph B. Ford 7 Wm Clarke 8 Thomas Owens 9 John Purdy 10 John W. Ferguson 11 A. W. Turner 12 Joseph H. Daniels Who being duly elected unpannelled &amp; sworn to say the truth in the premises, upon their oath do say, that the said Petitioner is entitled to his freedom, as he above alleges. Therefore it is considered by the Court here that the said James Ash, the petitioner aforesaid be free and discharged of and from the service of the said John Grimes and William H. Williams, and that said petitioner go thereof without day. It is further considered by the Court here that the said Petitioner recover against the said John Grimes &amp; William H. Williams the sum of     dollars and     cents &amp; charges by him about his petition in that behalf laid out and expended &amp;c. Test. W Brent Clk Memorandum. Before the jurors aforesaid withdrew from the bar of the Court here the said John Grimes &amp; William H. Williams by their attorney aforesaid filed in Court here, the following bill of Exceptions, to wit: Defendants Bill of Exceptions Upon the trial of this cause the petitioner by his counsel, to support the issue on his part above joined, produced and gave in evidence to the jury the last will and testament of Maria Anna T. Greenfield hereto annexed; and it was admitted that the said Testatrix died at the County of Prince Georges in the state of Maryland soon after the date of said Will in the year 1824: that upon her death Gerad T. Greenfield the Executor named in said Will, duly proved the same in the Orphans Court of said County, where the slaves and property left by the Testatrix were; and took letters testamentary as such Executor; that the said G. T. Greenfield is the same person mentioned and described in said will to whom several of the slaves of the Testatrix, under various limitations and the residue of the estate, are devised: That the petitioner is one of the slaves named and demised in that clause of the said will, which is in the words following to wit: "I also give and bequeath to my nephew Gerad T. Greenfield, all my negro slaves namely, Ben, Manson, James, Henry, George, Lewis, Rebecca, Kitty, Sophia, Mary, Elizabeth, Nathaniel, and Maria, also Toney, Billy, Betty &amp; Anne. Provided he shall not carry them out of the state of Maryland, or sell them to either any one, in either of which events I will and desire the said negroes to be free for life." That the petitioner was a slave born and the property of said Testatrix at the time of her death: That the said G. T. Greenfield, upon the death of said Testatrix took possession of the petitioner and the other slaves demised to him in said will, and held the same as his slaves so demised to him, from that time till the 18th day of December last, when, before the institution of this suit he sold the petitioner to the defendant: That the said G. T. Greenfield at the time of the date of said will, and ever since resided in the State of Tennissee; with an interval of between two and three years that he sojourned after the seat of the testatrix, in Prince Georges County aforesaid, for the purpose of settling his business. Thereupon the Court was of opinion, &amp; instructed the jury that by the fact of such sale of the petitioner the estate or property in said the petitioner so demised to said G. T. Greenfield ceased and determined; and the petitioner thereupon became entitled to freedom as claimed in his said petition; To which opinion and instruction of the Court, the defendant by his Counsel excepted &amp;c and this his bill of exceptions is sealed &amp;c this 1st day of May 1840. W. Cranch (seal) B. Thruston (seal) Test. W Brent. Clk District of Columbia Washington County, to wit: I William Brent Clerk of the Circuit Court of the District of Columbia for the County of Washington hereby certify that the foregoing is a full true and perfect transcript of all the proceedings had in the said Court in the said Cause as appeareth of record. In Testimony whereof I have hereunto subscribed my name &amp; affixed the seal of said Court this 2nd day of May 1840 W. Brent Clk To the Honorable the Ch. Justice of the United States of America. The petition of William H. Williams of Washington City in the District of Columbia respectfully shews. That in the month of December last he purchased of one Gerrard T. Greenfield a negro man named James Ash, with notice that the said Greenfield claimed the said negro under the will of Maria A Greenfield late of Prince Georges County deceased, &amp; that the said Maria had by a proviso in her will restricted the right of said Gerrard to sell the said negro to any one or to remove him from the state of Maryland, a restriction which she in like manner imposed upon the said Gerrard as legatee of sixteen other negroes in her said will. Your petitioner was also informed that the said Gerrard had been advised that such restriction upon the right to dispose of the property given him by the said will, being repugnant to the nature of the estate given, was void, &amp; that his object in selling the negro James Ash was to obtain a judicial decision on that question. The negro James was therefore informed of the sale &amp; an opportunity give him to commence a suit for his freedom. Your petitioner was fully indemnified in the event of a decision in favour of the freedom of the said negro. Your petitioner further shews that the said Negro James did commence his said suit &amp; the same was tried at the term of the said Circuit Court of the District of Columbia for Washington County which closed its sittings on Friday the 1st of this month &amp; the Judgment of this said Court in said cause being against your petitioner he feeling himself aggrieved thereby, did pray an appeal, but was much as the said negro is now of the value of one thousand dollars your petitioner cannot have the benefit of his appeal without an order from one of the Justices of the Supreme Court directing the same to be allowed. Your petitioner therefore believing that there is Error in the Judgment of this said Circuit Court as the said cause &amp; that such error involves a question of Law important to the slave states &amp; therefore of such extensive intent as to render a final decision of the same by the Supreme Court of the United States desirable, respectfully lays before your Honor a copy of the proceedings complained of, &amp; prays that the same may be considered, &amp; that your Honor would direct such order to the clerk of the said Circuit Court as will enable your Petitioner to remove the said cause by appeal to the Supreme Court. &amp; he will pray. &amp; your petitioner asks leave to suggest the following as a sufficient cause why such order should be allowed. That on the decision of the case of James Ash the Circuit Court have held virtually that the Law rule of Law which would have been applied in the trial of the right to any other property was inapplicable to a case in which the right of a negro to freedom was involved, it having been conceeded on all hands that if the bequest had to others than negro property with a devise over in case of sale or removal, the devise over have been depending on a repugnant condition. or if Maria A Greenfield had, instead of giving freedom to the negroes, in the event of their being sold or removed given them in such event to some third person that the devise ever would have been void for the same reason. In addition to which your petitioner may suggest that the value of the property affected by the decision of James's case is very considerable as appears by the clause of the will under which he claims his freedom. he further takes leave to refer to the case of Bradley vs Paixoto 3 Ves: 324. John Marbury for the Petitioner May 5, 1840 To William Brent Clerk of the Circuit Court of the District of Columbia for the County of Washington You are hereby directed to issue the writ of error prayed for in the foregoing petition, upon the terms and conditions prescribed by law. R. B. Taney chief justice of the Supreme Court of the U States District of Maryland Baltimore May 12, 1840. James Ash vs Wm H. Williams. Transcript Record </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0149</field>
+      <field name="person_ss" update="add">Bell, Ann</field>
+      <field name="personID_ss" update="add">per.000772</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Ann","id":"per.000772"}</field>
+      <field name="person_ss" update="add">Ben</field>
+      <field name="personID_ss" update="add">per.000803</field>
+      <field name="personData_ss" update="add">{"label":"Ben","id":"per.000803"}</field>
+      <field name="person_ss" update="add">Betty</field>
+      <field name="personID_ss" update="add">per.000804</field>
+      <field name="personData_ss" update="add">{"label":"Betty","id":"per.000804"}</field>
+      <field name="person_ss" update="add">Billy</field>
+      <field name="personID_ss" update="add">per.000805</field>
+      <field name="personData_ss" update="add">{"label":"Billy","id":"per.000805"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Clarke, William</field>
+      <field name="personID_ss" update="add">per.001146</field>
+      <field name="personData_ss" update="add">{"label":"Clarke, William","id":"per.001146"}</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Daniels, Joseph H.</field>
+      <field name="personID_ss" update="add">per.001147</field>
+      <field name="personData_ss" update="add">{"label":"Daniels, Joseph H.","id":"per.001147"}</field>
+      <field name="person_ss" update="add">Elizabeth</field>
+      <field name="personID_ss" update="add">per.000810</field>
+      <field name="personData_ss" update="add">{"label":"Elizabeth","id":"per.000810"}</field>
+      <field name="person_ss" update="add">Ferguson, John W.</field>
+      <field name="personID_ss" update="add">per.001148</field>
+      <field name="personData_ss" update="add">{"label":"Ferguson, John W.","id":"per.001148"}</field>
+      <field name="person_ss" update="add">Ford, Joseph B.</field>
+      <field name="personID_ss" update="add">per.001149</field>
+      <field name="personData_ss" update="add">{"label":"Ford, Joseph B.","id":"per.001149"}</field>
+      <field name="person_ss" update="add">Greenfield, Gerard T.</field>
+      <field name="personID_ss" update="add">per.000775</field>
+      <field name="personData_ss" update="add">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="person_ss" update="add">Greenfield, Maria Amne T.</field>
+      <field name="personID_ss" update="add">per.000777</field>
+      <field name="personData_ss" update="add">{"label":"Greenfield, Maria Amne T.","id":"per.000777"}</field>
+      <field name="person_ss" update="add">George</field>
+      <field name="personID_ss" update="add">per.000811</field>
+      <field name="personData_ss" update="add">{"label":"George","id":"per.000811"}</field>
+      <field name="person_ss" update="add">Grimes, John</field>
+      <field name="personID_ss" update="add">per.000813</field>
+      <field name="personData_ss" update="add">{"label":"Grimes, John","id":"per.000813"}</field>
+      <field name="person_ss" update="add">Henry</field>
+      <field name="personID_ss" update="add">per.000814</field>
+      <field name="personData_ss" update="add">{"label":"Henry","id":"per.000814"}</field>
+      <field name="person_ss" update="add">Hunter, Alexander</field>
+      <field name="personID_ss" update="add">per.000739</field>
+      <field name="personData_ss" update="add">{"label":"Hunter, Alexander","id":"per.000739"}</field>
+      <field name="person_ss" update="add">Kitty</field>
+      <field name="personID_ss" update="add">per.000817</field>
+      <field name="personData_ss" update="add">{"label":"Kitty","id":"per.000817"}</field>
+      <field name="person_ss" update="add">Lewis</field>
+      <field name="personID_ss" update="add">per.000818</field>
+      <field name="personData_ss" update="add">{"label":"Lewis","id":"per.000818"}</field>
+      <field name="person_ss" update="add">Maria</field>
+      <field name="personID_ss" update="add">per.000820</field>
+      <field name="personData_ss" update="add">{"label":"Maria","id":"per.000820"}</field>
+      <field name="person_ss" update="add">Mary</field>
+      <field name="personID_ss" update="add">per.000821</field>
+      <field name="personData_ss" update="add">{"label":"Mary","id":"per.000821"}</field>
+      <field name="person_ss" update="add">Manson</field>
+      <field name="personID_ss" update="add">per.000819</field>
+      <field name="personData_ss" update="add">{"label":"Manson","id":"per.000819"}</field>
+      <field name="person_ss" update="add">McPherson, Henry H.</field>
+      <field name="personID_ss" update="add">per.000977</field>
+      <field name="personData_ss" update="add">{"label":"McPherson, Henry H.","id":"per.000977"}</field>
+      <field name="person_ss" update="add">Morsell, James Sewall</field>
+      <field name="personID_ss" update="add">per.000044</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss" update="add">Nathaniel</field>
+      <field name="personID_ss" update="add">per.000822</field>
+      <field name="personData_ss" update="add">{"label":"Nathaniel","id":"per.000822"}</field>
+      <field name="person_ss" update="add">Orme, W. C.</field>
+      <field name="personID_ss" update="add">per.001150</field>
+      <field name="personData_ss" update="add">{"label":"Orme, W. C.","id":"per.001150"}</field>
+      <field name="person_ss" update="add">Owens, Thomas</field>
+      <field name="personID_ss" update="add">per.001151</field>
+      <field name="personData_ss" update="add">{"label":"Owens, Thomas","id":"per.001151"}</field>
+      <field name="person_ss" update="add">Phillips, George W.</field>
+      <field name="personID_ss" update="add">per.001152</field>
+      <field name="personData_ss" update="add">{"label":"Phillips, George W.","id":"per.001152"}</field>
+      <field name="person_ss" update="add">Phillips, Samuel</field>
+      <field name="personID_ss" update="add">per.001153</field>
+      <field name="personData_ss" update="add">{"label":"Phillips, Samuel","id":"per.001153"}</field>
+      <field name="person_ss" update="add">Purdy, John</field>
+      <field name="personID_ss" update="add">per.001154</field>
+      <field name="personData_ss" update="add">{"label":"Purdy, John","id":"per.001154"}</field>
+      <field name="person_ss" update="add">Rebecca</field>
+      <field name="personID_ss" update="add">per.000824</field>
+      <field name="personData_ss" update="add">{"label":"Rebecca","id":"per.000824"}</field>
+      <field name="person_ss" update="add">Sophia</field>
+      <field name="personID_ss" update="add">per.000825</field>
+      <field name="personData_ss" update="add">{"label":"Sophia","id":"per.000825"}</field>
+      <field name="person_ss" update="add">Taney, Roger Brooke, 1777-1864</field>
+      <field name="personID_ss" update="add">per.001155</field>
+      <field name="personData_ss" update="add">{"label":"Taney, Roger Brooke, 1777-1864","id":"per.001155"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Toney</field>
+      <field name="personID_ss" update="add">per.000827</field>
+      <field name="personData_ss" update="add">{"label":"Toney","id":"per.000827"}</field>
+      <field name="person_ss" update="add">Turner, A. W.</field>
+      <field name="personID_ss" update="add">per.001156</field>
+      <field name="personData_ss" update="add">{"label":"Turner, A. W.","id":"per.001156"}</field>
+      <field name="person_ss" update="add">Waters, William N.</field>
+      <field name="personID_ss" update="add">per.000979</field>
+      <field name="personData_ss" update="add">{"label":"Waters, William N.","id":"per.000979"}</field>
+      <field name="person_ss" update="add">Ash, James</field>
+      <field name="personID_ss" update="add">per.000816</field>
+      <field name="personData_ss" update="add">{"label":"Ash, James","id":"per.000816"}</field>
+      <field name="person_ss" update="add">Williams, William H.</field>
+      <field name="personID_ss" update="add">per.001145</field>
+      <field name="personData_ss" update="add">{"label":"Williams, William H.","id":"per.001145"}</field>
+      <field name="person_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="personID_ss" update="add">per.000829</field>
+      <field name="personData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="person_ss" update="add">Marbury, John</field>
+      <field name="personID_ss" update="add">per.000830</field>
+      <field name="personData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="plaintiff_ss" update="add">Ash, James</field>
+      <field name="plaintiffID_ss" update="add">per.000816</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ash, James","id":"per.000816"}</field>
+      <field name="defendant_ss" update="add">Williams, William H.</field>
+      <field name="defendantID_ss" update="add">per.001145</field>
+      <field name="defendantData_ss" update="add">{"label":"Williams, William H.","id":"per.001145"}</field>
+      <field name="attorneyP_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyPID_ss" update="add">per.000829</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorney_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyID_ss" update="add">per.000829</field>
+      <field name="attorneyData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorneyD_ss" update="add">Marbury, John</field>
+      <field name="attorneyDID_ss" update="add">per.000830</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="attorney_ss" update="add">Marbury, John</field>
+      <field name="attorneyID_ss" update="add">per.000830</field>
+      <field name="attorneyData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0147.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"James Ash v. William H. Williams. Transcript Record (March 24, 1840)","date":"1840-03-24","dateDisplay":"March 24, 1840","id":"oscys.case.0147.002"}</field>
+   </doc>
+</add>

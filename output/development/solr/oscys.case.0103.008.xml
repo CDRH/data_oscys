@@ -1,0 +1,88 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0103.008</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0103.008.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0103.008.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0103.008.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Amy Gray v. Henry Howison. Affidavit of Isaac Beers</field>
+      <field name="titleSort" update="add">amy gray v. henry howison. affidavit of isaac beers</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date">1835-04-04T00:00:00Z</field>
+      <field name="dateDisplay">April 4, 1835</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 535, Folder 640</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Affidavit</field>
+      <field name="people">Beers, Isaac</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Coburn, John</field>
+      <field name="people">Gray, Amy</field>
+      <field name="people">Howison, Henry</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Beers, Isaac</field>
+      <field name="personID_ss">per.000768</field>
+      <field name="personData_ss">{"label":"Beers, Isaac","id":"per.000768"}</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Coburn, John</field>
+      <field name="personID_ss">per.000760</field>
+      <field name="personData_ss">{"label":"Coburn, John","id":"per.000760"}</field>
+      <field name="person_ss">Gray, Amy</field>
+      <field name="personID_ss">per.000758</field>
+      <field name="personData_ss">{"label":"Gray, Amy","id":"per.000758"}</field>
+      <field name="person_ss">Howison, Henry</field>
+      <field name="personID_ss">per.000759</field>
+      <field name="personData_ss">{"label":"Howison, Henry","id":"per.000759"}</field>
+      <field name="plaintiff_ss">Gray, Amy</field>
+      <field name="plaintiffID_ss">per.000758</field>
+      <field name="plaintiffData_ss">{"label":"Gray, Amy","id":"per.000758"}</field>
+      <field name="defendant_ss">Howison, Henry</field>
+      <field name="defendantID_ss">per.000759</field>
+      <field name="defendantData_ss">{"label":"Howison, Henry","id":"per.000759"}</field>
+      <field name="sourceTitle_s">Affidavit of Issac Beers</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1835-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0103</field>
+      <field name="documentCaseData_ss">{"label":"Amy Gray v. Henry Howison","id":"oscys.caseid.0103"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> District of Columbia Washington County Sct: Isaac Beers of the said County makes oath and says that some time in the month of January or February last, he, this deponent, having heard that Henry Howison had a female slave and was desirous of selling her, called on the said Howison for the purpose of purchasing her. That this deponent enquired of the said Howison whether he had a female slave to sell and the said Howison then told this deponent that he (the said Howison) had such a slave and that she was then living with John Coburn, and that the said slave had petitioned for her freedom. and the writ had been served on him, but that he had not given any security and he would sell her. The said Howison further stated to this deponent that he thought there would be no danger in selling her if she was once out of the District she would not get her freedom. The said Howison represented her to be near fifty years of age. Sworn to in open court this 30 March 1835 Test W Brent Isaac Beers Affidavit filed 4th Apl 1835 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0103</field>
+      <field name="person_ss" update="add">Beers, Isaac</field>
+      <field name="personID_ss" update="add">per.000768</field>
+      <field name="personData_ss" update="add">{"label":"Beers, Isaac","id":"per.000768"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Coburn, John</field>
+      <field name="personID_ss" update="add">per.000760</field>
+      <field name="personData_ss" update="add">{"label":"Coburn, John","id":"per.000760"}</field>
+      <field name="person_ss" update="add">Gray, Amy</field>
+      <field name="personID_ss" update="add">per.000758</field>
+      <field name="personData_ss" update="add">{"label":"Gray, Amy","id":"per.000758"}</field>
+      <field name="person_ss" update="add">Howison, Henry</field>
+      <field name="personID_ss" update="add">per.000759</field>
+      <field name="personData_ss" update="add">{"label":"Howison, Henry","id":"per.000759"}</field>
+      <field name="plaintiff_ss" update="add">Gray, Amy</field>
+      <field name="plaintiffID_ss" update="add">per.000758</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gray, Amy","id":"per.000758"}</field>
+      <field name="defendant_ss" update="add">Howison, Henry</field>
+      <field name="defendantID_ss" update="add">per.000759</field>
+      <field name="defendantData_ss" update="add">{"label":"Howison, Henry","id":"per.000759"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0103.008</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Amy Gray v. Henry Howison. Affidavit of Isaac Beers (April 4, 1835)","date":"1835-04-04","dateDisplay":"April 4, 1835","id":"oscys.case.0103.008"}</field>
+   </doc>
+</add>

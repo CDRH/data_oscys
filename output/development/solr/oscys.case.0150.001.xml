@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0150.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0150.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0150.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0150.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Joe Crawford v. Roberta Slye. Petition for Freedom</field>
+      <field name="titleSort" update="add">joe crawford v. roberta slye. petition for freedom</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1833-09-04T00:00:00Z</field>
+      <field name="dateDisplay">September 4, 1833</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 514, Folder 271</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Crawford, Joe</field>
+      <field name="people">Slye, Roberta</field>
+      <field name="people">Wallach, Richard</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Crawford, Joe</field>
+      <field name="personID_ss">per.001122</field>
+      <field name="personData_ss">{"label":"Crawford, Joe","id":"per.001122"}</field>
+      <field name="person_ss">Slye, Roberta</field>
+      <field name="personID_ss">per.001127</field>
+      <field name="personData_ss">{"label":"Slye, Roberta","id":"per.001127"}</field>
+      <field name="person_ss">Wallach, Richard</field>
+      <field name="personID_ss">per.000464</field>
+      <field name="personData_ss">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="plaintiff_ss">Crawford, Joe</field>
+      <field name="plaintiffID_ss">per.001122</field>
+      <field name="plaintiffData_ss">{"label":"Crawford, Joe","id":"per.001122"}</field>
+      <field name="defendant_ss">Slye, Roberta</field>
+      <field name="defendantID_ss">per.001127</field>
+      <field name="defendantData_ss">{"label":"Slye, Roberta","id":"per.001127"}</field>
+      <field name="attorneyP_ss">Wallach, Richard</field>
+      <field name="attorneyPID_ss">per.000464</field>
+      <field name="attorneyPData_ss">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="attorney_ss">Wallach, Richard</field>
+      <field name="attorneyID_ss">per.000464</field>
+      <field name="attorneyData_ss">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1834-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0152</field>
+      <field name="documentCaseData_ss">{"label":"Joe Crawford v. Roberta Slye &amp; Robert A. Slye","id":"oscys.caseid.0152"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Hon. the Judges of the Circuit Court of the District of Columbia, for the County of Washington The petition of Joe Crawford humbly represents that your petitioner is now illegally held in bondage by one Roberta Slye. That yr petitioner is entitled to his freedom and he prays your Honors to grant unto him the U S writ of subpoena &amp; such other relief as yr Honors may seem just &amp; proper. R Wallach for petitioner 292. Joe Crawford vs Roberta Slye Petition Filed 4 Sept 1833 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0152</field>
+      <field name="person_ss" update="add">Crawford, Joe</field>
+      <field name="personID_ss" update="add">per.001122</field>
+      <field name="personData_ss" update="add">{"label":"Crawford, Joe","id":"per.001122"}</field>
+      <field name="person_ss" update="add">Slye, Roberta</field>
+      <field name="personID_ss" update="add">per.001127</field>
+      <field name="personData_ss" update="add">{"label":"Slye, Roberta","id":"per.001127"}</field>
+      <field name="person_ss" update="add">Wallach, Richard</field>
+      <field name="personID_ss" update="add">per.000464</field>
+      <field name="personData_ss" update="add">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="plaintiff_ss" update="add">Crawford, Joe</field>
+      <field name="plaintiffID_ss" update="add">per.001122</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Crawford, Joe","id":"per.001122"}</field>
+      <field name="defendant_ss" update="add">Slye, Roberta</field>
+      <field name="defendantID_ss" update="add">per.001127</field>
+      <field name="defendantData_ss" update="add">{"label":"Slye, Roberta","id":"per.001127"}</field>
+      <field name="attorneyP_ss" update="add">Wallach, Richard</field>
+      <field name="attorneyPID_ss" update="add">per.000464</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="attorney_ss" update="add">Wallach, Richard</field>
+      <field name="attorneyID_ss" update="add">per.000464</field>
+      <field name="attorneyData_ss" update="add">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0150.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Joe Crawford v. Roberta Slye. Petition for Freedom (September 4, 1833)","date":"1833-09-04","dateDisplay":"September 4, 1833","id":"oscys.case.0150.001"}</field>
+   </doc>
+</add>

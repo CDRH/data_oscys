@@ -1,0 +1,82 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0424.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0424.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0424.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0424.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ex parte Nicholas Reester. Petition for Writ of Habeas Corpus</field>
+      <field name="titleSort" update="add">ex parte nicholas reester. petition for writ of habeas corpus</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Lynn, Adam</field>
+      <field name="people">Reester, Nicholas</field>
+      <field name="people">Snowden, Edgar</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Lynn, Adam</field>
+      <field name="personID_ss">per.002630</field>
+      <field name="personData_ss">{"label":"Lynn, Adam","id":"per.002630"}</field>
+      <field name="person_ss">Reester, Nicholas</field>
+      <field name="personID_ss">per.003486</field>
+      <field name="personData_ss">{"label":"Reester, Nicholas","id":"per.003486"}</field>
+      <field name="person_ss">Snowden, Edgar</field>
+      <field name="personID_ss">per.003466</field>
+      <field name="personData_ss">{"label":"Snowden, Edgar","id":"per.003466"}</field>
+      <field name="plaintiff_ss">Reester, Nicholas</field>
+      <field name="plaintiffID_ss">per.003486</field>
+      <field name="plaintiffData_ss">{"label":"Reester, Nicholas","id":"per.003486"}</field>
+      <field name="attorneyP_ss">Snowden, Edgar</field>
+      <field name="attorneyPID_ss">per.003466</field>
+      <field name="attorneyPData_ss">{"label":"Snowden, Edgar","id":"per.003466"}</field>
+      <field name="attorney_ss">Snowden, Edgar</field>
+      <field name="attorneyID_ss">per.003466</field>
+      <field name="attorneyData_ss">{"label":"Snowden, Edgar","id":"per.003466"}</field>
+      <field name="sourceTitle_s">Petition for Writ of Habeas Corpus</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1835-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0452</field>
+      <field name="documentCaseData_ss">{"label":"Ex parte Nicholas Reester","id":"oscys.caseid.0452"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> To the Hon. the Judges of the United States Circuit Court of the District of Columbia for the County of Alexandria: The petition of Nicholas Reister respectfully represents that he is a free man of color, and that he is now illegally confined in the jail of this county, under a committment from Adam Lynn, and held as a slave. That he has satisfactory evidence to submit to your honors that he is thus free and held illegally as aforesaid. And that in fact there is no cause whatever for his confinement and detention He therefore prays your Honors to award him the United States writ of Habeas Corpus, to the keeper of the said jail directed, commanding him to bring before your honors th your petitioner, to submit to and receive &amp;c Edgar Snowden Sol for Nicholas Reister Nicholas Reester Petition for Habeas Corpus Nicholas Reester petition for Hab Corpus 1835 Oct. 7' day writ ordered. petitioner brought into Court &amp; discharged &amp; </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0452</field>
+      <field update="add" name="outcomeData_ss">{"label":"Discharged","id":"oscys.case.0424.002"}</field>
+      <field update="add" name="outcome_ss">Discharged</field>
+      <field name="person_ss" update="add">Lynn, Adam</field>
+      <field name="personID_ss" update="add">per.002630</field>
+      <field name="personData_ss" update="add">{"label":"Lynn, Adam","id":"per.002630"}</field>
+      <field name="person_ss" update="add">Reester, Nicholas</field>
+      <field name="personID_ss" update="add">per.003486</field>
+      <field name="personData_ss" update="add">{"label":"Reester, Nicholas","id":"per.003486"}</field>
+      <field name="person_ss" update="add">Snowden, Edgar</field>
+      <field name="personID_ss" update="add">per.003466</field>
+      <field name="personData_ss" update="add">{"label":"Snowden, Edgar","id":"per.003466"}</field>
+      <field name="plaintiff_ss" update="add">Reester, Nicholas</field>
+      <field name="plaintiffID_ss" update="add">per.003486</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Reester, Nicholas","id":"per.003486"}</field>
+      <field name="attorneyP_ss" update="add">Snowden, Edgar</field>
+      <field name="attorneyPID_ss" update="add">per.003466</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Snowden, Edgar","id":"per.003466"}</field>
+      <field name="attorney_ss" update="add">Snowden, Edgar</field>
+      <field name="attorneyID_ss" update="add">per.003466</field>
+      <field name="attorneyData_ss" update="add">{"label":"Snowden, Edgar","id":"per.003466"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0424.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ex parte Nicholas Reester. Petition for Writ of Habeas Corpus","id":"oscys.case.0424.002"}</field>
+   </doc>
+</add>

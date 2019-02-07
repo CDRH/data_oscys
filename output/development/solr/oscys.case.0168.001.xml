@@ -1,0 +1,135 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0168.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0168.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0168.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0168.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Margaret Norah Atkins &amp; Alfred Atkins Francis Bowling &amp; Clarissa Gardiner Summons of Francis Bowling &amp; Clarissa B. Gardner</field>
+      <field name="titleSort" update="add">margaret norah atkins &amp; alfred atkins francis bowling &amp; clarissa gardiner summons of francis bowling &amp; clarissa b. gardner</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="contributor"/>
+      <field name="date">1841-12-16T00:00:00Z</field>
+      <field name="dateDisplay">December 16, 1841</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 646, Folder 37</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Atkins, David</field>
+      <field name="people">Brent, Robert James</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Dyer, E.</field>
+      <field name="people">Gardiner, Richard B.</field>
+      <field name="people">Hunter, Alexander</field>
+      <field name="people">Atkins, Alfred</field>
+      <field name="people">Atkins, Margaret Norah</field>
+      <field name="people">Bowling, Francis</field>
+      <field name="people">Gardiner, Clarissa B.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Atkins, David</field>
+      <field name="personID_ss">per.001236</field>
+      <field name="personData_ss">{"label":"Atkins, David","id":"per.001236"}</field>
+      <field name="person_ss">Brent, Robert James</field>
+      <field name="personID_ss">per.000737</field>
+      <field name="personData_ss">{"label":"Brent, Robert James","id":"per.000737"}</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Dyer, E.</field>
+      <field name="personID_ss">per.001237</field>
+      <field name="personData_ss">{"label":"Dyer, E.","id":"per.001237"}</field>
+      <field name="person_ss">Gardiner, Richard B.</field>
+      <field name="personID_ss">per.001238</field>
+      <field name="personData_ss">{"label":"Gardiner, Richard B.","id":"per.001238"}</field>
+      <field name="person_ss">Hunter, Alexander</field>
+      <field name="personID_ss">per.000739</field>
+      <field name="personData_ss">{"label":"Hunter, Alexander","id":"per.000739"}</field>
+      <field name="person_ss">Atkins, Alfred</field>
+      <field name="personID_ss">per.001239</field>
+      <field name="personData_ss">{"label":"Atkins, Alfred","id":"per.001239"}</field>
+      <field name="person_ss">Atkins, Margaret Norah</field>
+      <field name="personID_ss">per.001240</field>
+      <field name="personData_ss">{"label":"Atkins, Margaret Norah","id":"per.001240"}</field>
+      <field name="person_ss">Bowling, Francis</field>
+      <field name="personID_ss">per.001241</field>
+      <field name="personData_ss">{"label":"Bowling, Francis","id":"per.001241"}</field>
+      <field name="person_ss">Gardiner, Clarissa B.</field>
+      <field name="personID_ss">per.001242</field>
+      <field name="personData_ss">{"label":"Gardiner, Clarissa B.","id":"per.001242"}</field>
+      <field name="plaintiff_ss">Atkins, Alfred</field>
+      <field name="plaintiffID_ss">per.001239</field>
+      <field name="plaintiffData_ss">{"label":"Atkins, Alfred","id":"per.001239"}</field>
+      <field name="plaintiff_ss">Atkins, Margaret Norah</field>
+      <field name="plaintiffID_ss">per.001240</field>
+      <field name="plaintiffData_ss">{"label":"Atkins, Margaret Norah","id":"per.001240"}</field>
+      <field name="defendant_ss">Bowling, Francis</field>
+      <field name="defendantID_ss">per.001241</field>
+      <field name="defendantData_ss">{"label":"Bowling, Francis","id":"per.001241"}</field>
+      <field name="defendant_ss">Gardiner, Clarissa B.</field>
+      <field name="defendantID_ss">per.001242</field>
+      <field name="defendantData_ss">{"label":"Gardiner, Clarissa B.","id":"per.001242"}</field>
+      <field name="sourceTitle_s">Summons of Francis Bowling &amp; Clarissa B. Gardner</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1842-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0170</field>
+      <field name="documentCaseData_ss">{"label":"Margaret Norah Atkins &amp; Alfred Atkins v. Francis Bowling &amp; Clarissa B. Gardiner","id":"oscys.caseid.0170"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Circuit Court, Washington County Term, 184 . You are hereby commanded to summon Francis Bowling &amp; Clarissa B. Gardner adrs. of Richard B. Gardner that they be and appear before the Court here, on the 4th Monday of March next immediately, as Witness for to answer the Petition for freedom of Margaret Norah Atkins, &amp; Alfred Atkins by David Atkins the father &amp; next friend filed in said Court is then Issued 16th day of Decr 1841. By order, W. Brent Clk To the Marshal of the District of Columbia. 37 March 1842 Marg't Norah Atkins &amp; Alfred Atkins by David Atkins their father &amp; next friend vs Francis Bowling &amp; Clarissa B. Gardner adrs of Richard B. Gardner Sub + Pet. for freedom Notice of the within supba given to E Dyer arrd R J Brent Decr 16th 1841 A Hunter Marshal </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0170</field>
+      <field name="person_ss" update="add">Atkins, David</field>
+      <field name="personID_ss" update="add">per.001236</field>
+      <field name="personData_ss" update="add">{"label":"Atkins, David","id":"per.001236"}</field>
+      <field name="person_ss" update="add">Brent, Robert James</field>
+      <field name="personID_ss" update="add">per.000737</field>
+      <field name="personData_ss" update="add">{"label":"Brent, Robert James","id":"per.000737"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Dyer, E.</field>
+      <field name="personID_ss" update="add">per.001237</field>
+      <field name="personData_ss" update="add">{"label":"Dyer, E.","id":"per.001237"}</field>
+      <field name="person_ss" update="add">Gardiner, Richard B.</field>
+      <field name="personID_ss" update="add">per.001238</field>
+      <field name="personData_ss" update="add">{"label":"Gardiner, Richard B.","id":"per.001238"}</field>
+      <field name="person_ss" update="add">Hunter, Alexander</field>
+      <field name="personID_ss" update="add">per.000739</field>
+      <field name="personData_ss" update="add">{"label":"Hunter, Alexander","id":"per.000739"}</field>
+      <field name="person_ss" update="add">Atkins, Alfred</field>
+      <field name="personID_ss" update="add">per.001239</field>
+      <field name="personData_ss" update="add">{"label":"Atkins, Alfred","id":"per.001239"}</field>
+      <field name="person_ss" update="add">Atkins, Margaret Norah</field>
+      <field name="personID_ss" update="add">per.001240</field>
+      <field name="personData_ss" update="add">{"label":"Atkins, Margaret Norah","id":"per.001240"}</field>
+      <field name="person_ss" update="add">Bowling, Francis</field>
+      <field name="personID_ss" update="add">per.001241</field>
+      <field name="personData_ss" update="add">{"label":"Bowling, Francis","id":"per.001241"}</field>
+      <field name="person_ss" update="add">Gardiner, Clarissa B.</field>
+      <field name="personID_ss" update="add">per.001242</field>
+      <field name="personData_ss" update="add">{"label":"Gardiner, Clarissa B.","id":"per.001242"}</field>
+      <field name="plaintiff_ss" update="add">Atkins, Alfred</field>
+      <field name="plaintiffID_ss" update="add">per.001239</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Atkins, Alfred","id":"per.001239"}</field>
+      <field name="plaintiff_ss" update="add">Atkins, Margaret Norah</field>
+      <field name="plaintiffID_ss" update="add">per.001240</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Atkins, Margaret Norah","id":"per.001240"}</field>
+      <field name="defendant_ss" update="add">Bowling, Francis</field>
+      <field name="defendantID_ss" update="add">per.001241</field>
+      <field name="defendantData_ss" update="add">{"label":"Bowling, Francis","id":"per.001241"}</field>
+      <field name="defendant_ss" update="add">Gardiner, Clarissa B.</field>
+      <field name="defendantID_ss" update="add">per.001242</field>
+      <field name="defendantData_ss" update="add">{"label":"Gardiner, Clarissa B.","id":"per.001242"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0168.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Margaret Norah Atkins &amp; Alfred Atkins Francis Bowling &amp; Clarissa Gardiner Summons of Francis Bowling &amp; Clarissa B. Gardner (December 16, 1841)","date":"1841-12-16","dateDisplay":"December 16, 1841","id":"oscys.case.0168.001"}</field>
+   </doc>
+</add>

@@ -1,0 +1,816 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0431.013</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0431.013.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0431.013.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0431.013.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Jacksons et al. v. Ariss Buckner &amp; Bernard H. Buckner. Affidavit of Ariss Buckner</field>
+      <field name="titleSort" update="add">jacksons et al. v. ariss buckner &amp; bernard h. buckner. affidavit of ariss buckner</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1834-05-20T00:00:00Z</field>
+      <field name="dateDisplay">May 20, 1834</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Affidavit</field>
+      <field name="people">Armfield, John</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Franklin, Isaac</field>
+      <field name="people">Bill, Jenny</field>
+      <field name="people">Jackson, Henry</field>
+      <field name="people">Buckner, Ariss</field>
+      <field name="people">Buckner, Bernard H.</field>
+      <field name="people">Jackson, Fanny</field>
+      <field name="people">Jackson, Louisa</field>
+      <field name="people">Jackson, Maria</field>
+      <field name="people">Jackson, Robert</field>
+      <field name="people">Buckner, Ariss</field>
+      <field name="people">Buckner, Bernard H.</field>
+      <field name="people">Taylor, Charles</field>
+      <field name="people">Buckner, Ariss</field>
+      <field name="people">Buckner, Bernard H.</field>
+      <field name="people">Brent, Alexander</field>
+      <field name="people">Buckner, Ariss</field>
+      <field name="people">Buckner, Bernard H.</field>
+      <field name="people">Jackson, Cassius</field>
+      <field name="people">Buckner, Ariss</field>
+      <field name="people">Buckner, Bernard H.</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Alexandria (Va.)</field>
+      <field name="person_ss">Armfield, John</field>
+      <field name="personID_ss">per.000866</field>
+      <field name="personData_ss">{"label":"Armfield, John","id":"per.000866"}</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Franklin, Isaac</field>
+      <field name="personID_ss">per.000131</field>
+      <field name="personData_ss">{"label":"Franklin, Isaac","id":"per.000131"}</field>
+      <field name="person_ss">Bill, Jenny</field>
+      <field name="personID_ss">per.003570</field>
+      <field name="personData_ss">{"label":"Bill, Jenny","id":"per.003570"}</field>
+      <field name="person_ss">Jackson, Henry</field>
+      <field name="personID_ss">per.003563</field>
+      <field name="personData_ss">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="person_ss">Buckner, Ariss</field>
+      <field name="personID_ss">per.000904</field>
+      <field name="personData_ss">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss">Buckner, Bernard H.</field>
+      <field name="personID_ss">per.003499</field>
+      <field name="personData_ss">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss">Jackson, Fanny</field>
+      <field name="personID_ss">per.003504</field>
+      <field name="personData_ss">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="person_ss">Jackson, Louisa</field>
+      <field name="personID_ss">per.003505</field>
+      <field name="personData_ss">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="person_ss">Jackson, Maria</field>
+      <field name="personID_ss">per.003506</field>
+      <field name="personData_ss">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="person_ss">Jackson, Robert</field>
+      <field name="personID_ss">per.003507</field>
+      <field name="personData_ss">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="person_ss">Buckner, Ariss</field>
+      <field name="personID_ss">per.000904</field>
+      <field name="personData_ss">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss">Buckner, Bernard H.</field>
+      <field name="personID_ss">per.003499</field>
+      <field name="personData_ss">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss">Taylor, Charles</field>
+      <field name="personID_ss">per.003498</field>
+      <field name="personData_ss">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="person_ss">Buckner, Ariss</field>
+      <field name="personID_ss">per.000904</field>
+      <field name="personData_ss">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss">Buckner, Bernard H.</field>
+      <field name="personID_ss">per.003499</field>
+      <field name="personData_ss">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss">Brent, Alexander</field>
+      <field name="personID_ss">per.003503</field>
+      <field name="personData_ss">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="person_ss">Buckner, Ariss</field>
+      <field name="personID_ss">per.000904</field>
+      <field name="personData_ss">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss">Buckner, Bernard H.</field>
+      <field name="personID_ss">per.003499</field>
+      <field name="personData_ss">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss">Jackson, Cassius</field>
+      <field name="personID_ss">per.003614</field>
+      <field name="personData_ss">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="person_ss">Buckner, Ariss</field>
+      <field name="personID_ss">per.000904</field>
+      <field name="personData_ss">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss">Buckner, Bernard H.</field>
+      <field name="personID_ss">per.003499</field>
+      <field name="personData_ss">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="plaintiff_ss">Jackson, Henry</field>
+      <field name="plaintiffID_ss">per.003563</field>
+      <field name="plaintiffData_ss">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="plaintiff_ss">Jackson, Fanny</field>
+      <field name="plaintiffID_ss">per.003504</field>
+      <field name="plaintiffData_ss">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="plaintiff_ss">Jackson, Louisa</field>
+      <field name="plaintiffID_ss">per.003505</field>
+      <field name="plaintiffData_ss">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="plaintiff_ss">Jackson, Maria</field>
+      <field name="plaintiffID_ss">per.003506</field>
+      <field name="plaintiffData_ss">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="plaintiff_ss">Jackson, Robert</field>
+      <field name="plaintiffID_ss">per.003507</field>
+      <field name="plaintiffData_ss">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="plaintiff_ss">Taylor, Charles</field>
+      <field name="plaintiffID_ss">per.003498</field>
+      <field name="plaintiffData_ss">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="plaintiff_ss">Brent, Alexander</field>
+      <field name="plaintiffID_ss">per.003503</field>
+      <field name="plaintiffData_ss">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="plaintiff_ss">Jackson, Cassius</field>
+      <field name="plaintiffID_ss">per.003614</field>
+      <field name="plaintiffData_ss">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="defendant_ss">Buckner, Ariss</field>
+      <field name="defendantID_ss">per.000904</field>
+      <field name="defendantData_ss">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss">Buckner, Bernard H.</field>
+      <field name="defendantID_ss">per.003499</field>
+      <field name="defendantData_ss">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss">Buckner, Ariss</field>
+      <field name="defendantID_ss">per.000904</field>
+      <field name="defendantData_ss">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss">Buckner, Bernard H.</field>
+      <field name="defendantID_ss">per.003499</field>
+      <field name="defendantData_ss">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss">Buckner, Ariss</field>
+      <field name="defendantID_ss">per.000904</field>
+      <field name="defendantData_ss">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss">Buckner, Bernard H.</field>
+      <field name="defendantID_ss">per.003499</field>
+      <field name="defendantData_ss">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss">Buckner, Ariss</field>
+      <field name="defendantID_ss">per.000904</field>
+      <field name="defendantData_ss">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss">Buckner, Bernard H.</field>
+      <field name="defendantID_ss">per.003499</field>
+      <field name="defendantData_ss">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss">Buckner, Ariss</field>
+      <field name="defendantID_ss">per.000904</field>
+      <field name="defendantData_ss">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss">Buckner, Bernard H.</field>
+      <field name="defendantID_ss">per.003499</field>
+      <field name="defendantData_ss">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="sourceTitle_s">Affidavit of Ariss Buckner</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1835-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0460</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0461</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0454</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0455</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0462</field>
+      <field name="documentCaseData_ss">{"label":"Henry Jackson v. Ariss Buckner &amp; Bernard H. Buckner","id":"oscys.caseid.0460"}</field>
+      <field name="documentCaseData_ss">{"label":"Fanny Jackson, Louisa Jackson, Robert Jackson, &amp; Maria Jackson v. Ariss Buckner &amp; Bernard H. Buckner","id":"oscys.caseid.0461"}</field>
+      <field name="documentCaseData_ss">{"label":"Charles Taylor v. Ariss Buckner &amp; Bernard H. Buckner","id":"oscys.caseid.0454"}</field>
+      <field name="documentCaseData_ss">{"label":"Alexander Brent v. Ariss Buckner &amp; Bernard H. Buckner","id":"oscys.caseid.0455"}</field>
+      <field name="documentCaseData_ss">{"label":"Cassius Jackson v. Ariss Buckner &amp; Bernard H. Buckner","id":"oscys.caseid.0462"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> Imparlance docket. March Term 1834. No. 3 190. &amp; No. 191. 202. 301. 302. 304 Negro Henry Jackson vs B. H. &amp; Aris Buckner " Fanny Jackson &amp; children vs same " Jenny Bill vs same " Charles vs same Negro Alexander vs same Cassius Jackson vs same Aris Buckner, one of the defts in the above cases, makes oath that he is credibly &amp; certainly informed, and has good reason to think &amp; believe, and does verily think &amp; believe, that a fair &amp; impartial trial of the above named cases cannot be had in the county of Washington; where the said suits are depending: and prays for the usual order for removing the same into the county of Alexandria, pursuant to the provisions of the act of congress in such cases. And the said deft further makes oath, that some time early in the session of this court, commencing in March last, he duly made &amp; presented to the court then in session an affidavit duly sworn to in open court, of the same effect as above, and thereupon moved the court for such order as aforesaid; which order, no opposition being thereto made, he understood was granted; and he attended the late term of this court at Alexandria, under the full expectation and belief of finding such order carried into effect, and the said case there docketed for trial: but to his surprise discovered that the cases had not been transmitted from this court to that; and upon inquiry finds that, owing to the accidental omission &amp; inadvertency either of the court or the clerk, no trace either of the former affidavit, or of the motion &amp; order thereupon made, can be discovered among the papers or records of this court; he presumes that the affidavit was mislaid by the court, and the order, though in fact allowed in the mind of the court, was forgotten to be delivered to the clerk; because the clerk distinctly recollects the fact of the affidavit being presented to the court, but has no recollection of any order thereupon being communicated to him from the court. This deft further states that a suit is depending in the Court at Alexandria, brought by a negro woman, one of the same set of negroes as those who are petitioners in the above cases, against Franklin &amp; Armfield, to whom she was sold, and which suit is defended by this defendant, as being answerable over: that the last-mentioned case is to be tried at the ensuing adjourned term at Alexandria, when &amp; where it would be highly convenient &amp; save much expense to try all the cases together, as they are all intimately connected together, in the evidence &amp; principles of law on which they depend. Ariss Buckner Sworn to by Aris Buckner in open court this 20th May 1834 Test W. Brent clk Trials, March term, 1834. No. filed 20 May 1834 Remove the Cause </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0460</field>
+      <field name="person_ss" update="add">Armfield, John</field>
+      <field name="personID_ss" update="add">per.000866</field>
+      <field name="personData_ss" update="add">{"label":"Armfield, John","id":"per.000866"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Franklin, Isaac</field>
+      <field name="personID_ss" update="add">per.000131</field>
+      <field name="personData_ss" update="add">{"label":"Franklin, Isaac","id":"per.000131"}</field>
+      <field name="person_ss" update="add">Bill, Jenny</field>
+      <field name="personID_ss" update="add">per.003570</field>
+      <field name="personData_ss" update="add">{"label":"Bill, Jenny","id":"per.003570"}</field>
+      <field name="person_ss" update="add">Jackson, Henry</field>
+      <field name="personID_ss" update="add">per.003563</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Jackson, Fanny</field>
+      <field name="personID_ss" update="add">per.003504</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="person_ss" update="add">Jackson, Louisa</field>
+      <field name="personID_ss" update="add">per.003505</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="person_ss" update="add">Jackson, Maria</field>
+      <field name="personID_ss" update="add">per.003506</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="person_ss" update="add">Jackson, Robert</field>
+      <field name="personID_ss" update="add">per.003507</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Taylor, Charles</field>
+      <field name="personID_ss" update="add">per.003498</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Brent, Alexander</field>
+      <field name="personID_ss" update="add">per.003503</field>
+      <field name="personData_ss" update="add">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Jackson, Cassius</field>
+      <field name="personID_ss" update="add">per.003614</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Henry</field>
+      <field name="plaintiffID_ss" update="add">per.003563</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Fanny</field>
+      <field name="plaintiffID_ss" update="add">per.003504</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.003505</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Maria</field>
+      <field name="plaintiffID_ss" update="add">per.003506</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.003507</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="plaintiff_ss" update="add">Taylor, Charles</field>
+      <field name="plaintiffID_ss" update="add">per.003498</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="plaintiff_ss" update="add">Brent, Alexander</field>
+      <field name="plaintiffID_ss" update="add">per.003503</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Cassius</field>
+      <field name="plaintiffID_ss" update="add">per.003614</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0431.013</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Jacksons et al. v. Ariss Buckner &amp; Bernard H. Buckner. Affidavit of Ariss Buckner (May 20, 1834)","date":"1834-05-20","dateDisplay":"May 20, 1834","id":"oscys.case.0431.013"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0461</field>
+      <field name="person_ss" update="add">Armfield, John</field>
+      <field name="personID_ss" update="add">per.000866</field>
+      <field name="personData_ss" update="add">{"label":"Armfield, John","id":"per.000866"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Franklin, Isaac</field>
+      <field name="personID_ss" update="add">per.000131</field>
+      <field name="personData_ss" update="add">{"label":"Franklin, Isaac","id":"per.000131"}</field>
+      <field name="person_ss" update="add">Bill, Jenny</field>
+      <field name="personID_ss" update="add">per.003570</field>
+      <field name="personData_ss" update="add">{"label":"Bill, Jenny","id":"per.003570"}</field>
+      <field name="person_ss" update="add">Jackson, Henry</field>
+      <field name="personID_ss" update="add">per.003563</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Jackson, Fanny</field>
+      <field name="personID_ss" update="add">per.003504</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="person_ss" update="add">Jackson, Louisa</field>
+      <field name="personID_ss" update="add">per.003505</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="person_ss" update="add">Jackson, Maria</field>
+      <field name="personID_ss" update="add">per.003506</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="person_ss" update="add">Jackson, Robert</field>
+      <field name="personID_ss" update="add">per.003507</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Taylor, Charles</field>
+      <field name="personID_ss" update="add">per.003498</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Brent, Alexander</field>
+      <field name="personID_ss" update="add">per.003503</field>
+      <field name="personData_ss" update="add">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Jackson, Cassius</field>
+      <field name="personID_ss" update="add">per.003614</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Henry</field>
+      <field name="plaintiffID_ss" update="add">per.003563</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Fanny</field>
+      <field name="plaintiffID_ss" update="add">per.003504</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.003505</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Maria</field>
+      <field name="plaintiffID_ss" update="add">per.003506</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.003507</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="plaintiff_ss" update="add">Taylor, Charles</field>
+      <field name="plaintiffID_ss" update="add">per.003498</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="plaintiff_ss" update="add">Brent, Alexander</field>
+      <field name="plaintiffID_ss" update="add">per.003503</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Cassius</field>
+      <field name="plaintiffID_ss" update="add">per.003614</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0431.013</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Jacksons et al. v. Ariss Buckner &amp; Bernard H. Buckner. Affidavit of Ariss Buckner (May 20, 1834)","date":"1834-05-20","dateDisplay":"May 20, 1834","id":"oscys.case.0431.013"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0454</field>
+      <field name="person_ss" update="add">Armfield, John</field>
+      <field name="personID_ss" update="add">per.000866</field>
+      <field name="personData_ss" update="add">{"label":"Armfield, John","id":"per.000866"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Franklin, Isaac</field>
+      <field name="personID_ss" update="add">per.000131</field>
+      <field name="personData_ss" update="add">{"label":"Franklin, Isaac","id":"per.000131"}</field>
+      <field name="person_ss" update="add">Bill, Jenny</field>
+      <field name="personID_ss" update="add">per.003570</field>
+      <field name="personData_ss" update="add">{"label":"Bill, Jenny","id":"per.003570"}</field>
+      <field name="person_ss" update="add">Jackson, Henry</field>
+      <field name="personID_ss" update="add">per.003563</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Jackson, Fanny</field>
+      <field name="personID_ss" update="add">per.003504</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="person_ss" update="add">Jackson, Louisa</field>
+      <field name="personID_ss" update="add">per.003505</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="person_ss" update="add">Jackson, Maria</field>
+      <field name="personID_ss" update="add">per.003506</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="person_ss" update="add">Jackson, Robert</field>
+      <field name="personID_ss" update="add">per.003507</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Taylor, Charles</field>
+      <field name="personID_ss" update="add">per.003498</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Brent, Alexander</field>
+      <field name="personID_ss" update="add">per.003503</field>
+      <field name="personData_ss" update="add">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Jackson, Cassius</field>
+      <field name="personID_ss" update="add">per.003614</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Henry</field>
+      <field name="plaintiffID_ss" update="add">per.003563</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Fanny</field>
+      <field name="plaintiffID_ss" update="add">per.003504</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.003505</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Maria</field>
+      <field name="plaintiffID_ss" update="add">per.003506</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.003507</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="plaintiff_ss" update="add">Taylor, Charles</field>
+      <field name="plaintiffID_ss" update="add">per.003498</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="plaintiff_ss" update="add">Brent, Alexander</field>
+      <field name="plaintiffID_ss" update="add">per.003503</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Cassius</field>
+      <field name="plaintiffID_ss" update="add">per.003614</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0431.013</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Jacksons et al. v. Ariss Buckner &amp; Bernard H. Buckner. Affidavit of Ariss Buckner (May 20, 1834)","date":"1834-05-20","dateDisplay":"May 20, 1834","id":"oscys.case.0431.013"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0455</field>
+      <field name="person_ss" update="add">Armfield, John</field>
+      <field name="personID_ss" update="add">per.000866</field>
+      <field name="personData_ss" update="add">{"label":"Armfield, John","id":"per.000866"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Franklin, Isaac</field>
+      <field name="personID_ss" update="add">per.000131</field>
+      <field name="personData_ss" update="add">{"label":"Franklin, Isaac","id":"per.000131"}</field>
+      <field name="person_ss" update="add">Bill, Jenny</field>
+      <field name="personID_ss" update="add">per.003570</field>
+      <field name="personData_ss" update="add">{"label":"Bill, Jenny","id":"per.003570"}</field>
+      <field name="person_ss" update="add">Jackson, Henry</field>
+      <field name="personID_ss" update="add">per.003563</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Jackson, Fanny</field>
+      <field name="personID_ss" update="add">per.003504</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="person_ss" update="add">Jackson, Louisa</field>
+      <field name="personID_ss" update="add">per.003505</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="person_ss" update="add">Jackson, Maria</field>
+      <field name="personID_ss" update="add">per.003506</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="person_ss" update="add">Jackson, Robert</field>
+      <field name="personID_ss" update="add">per.003507</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Taylor, Charles</field>
+      <field name="personID_ss" update="add">per.003498</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Brent, Alexander</field>
+      <field name="personID_ss" update="add">per.003503</field>
+      <field name="personData_ss" update="add">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Jackson, Cassius</field>
+      <field name="personID_ss" update="add">per.003614</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Henry</field>
+      <field name="plaintiffID_ss" update="add">per.003563</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Fanny</field>
+      <field name="plaintiffID_ss" update="add">per.003504</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.003505</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Maria</field>
+      <field name="plaintiffID_ss" update="add">per.003506</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.003507</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="plaintiff_ss" update="add">Taylor, Charles</field>
+      <field name="plaintiffID_ss" update="add">per.003498</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="plaintiff_ss" update="add">Brent, Alexander</field>
+      <field name="plaintiffID_ss" update="add">per.003503</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Cassius</field>
+      <field name="plaintiffID_ss" update="add">per.003614</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0431.013</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Jacksons et al. v. Ariss Buckner &amp; Bernard H. Buckner. Affidavit of Ariss Buckner (May 20, 1834)","date":"1834-05-20","dateDisplay":"May 20, 1834","id":"oscys.case.0431.013"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0462</field>
+      <field name="person_ss" update="add">Armfield, John</field>
+      <field name="personID_ss" update="add">per.000866</field>
+      <field name="personData_ss" update="add">{"label":"Armfield, John","id":"per.000866"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Franklin, Isaac</field>
+      <field name="personID_ss" update="add">per.000131</field>
+      <field name="personData_ss" update="add">{"label":"Franklin, Isaac","id":"per.000131"}</field>
+      <field name="person_ss" update="add">Bill, Jenny</field>
+      <field name="personID_ss" update="add">per.003570</field>
+      <field name="personData_ss" update="add">{"label":"Bill, Jenny","id":"per.003570"}</field>
+      <field name="person_ss" update="add">Jackson, Henry</field>
+      <field name="personID_ss" update="add">per.003563</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Jackson, Fanny</field>
+      <field name="personID_ss" update="add">per.003504</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="person_ss" update="add">Jackson, Louisa</field>
+      <field name="personID_ss" update="add">per.003505</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="person_ss" update="add">Jackson, Maria</field>
+      <field name="personID_ss" update="add">per.003506</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="person_ss" update="add">Jackson, Robert</field>
+      <field name="personID_ss" update="add">per.003507</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Taylor, Charles</field>
+      <field name="personID_ss" update="add">per.003498</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Brent, Alexander</field>
+      <field name="personID_ss" update="add">per.003503</field>
+      <field name="personData_ss" update="add">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="person_ss" update="add">Jackson, Cassius</field>
+      <field name="personID_ss" update="add">per.003614</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="person_ss" update="add">Buckner, Ariss</field>
+      <field name="personID_ss" update="add">per.000904</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="person_ss" update="add">Buckner, Bernard H.</field>
+      <field name="personID_ss" update="add">per.003499</field>
+      <field name="personData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Henry</field>
+      <field name="plaintiffID_ss" update="add">per.003563</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Henry","id":"per.003563"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Fanny</field>
+      <field name="plaintiffID_ss" update="add">per.003504</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Fanny","id":"per.003504"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.003505</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Louisa","id":"per.003505"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Maria</field>
+      <field name="plaintiffID_ss" update="add">per.003506</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Maria","id":"per.003506"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.003507</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Robert","id":"per.003507"}</field>
+      <field name="plaintiff_ss" update="add">Taylor, Charles</field>
+      <field name="plaintiffID_ss" update="add">per.003498</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Taylor, Charles","id":"per.003498"}</field>
+      <field name="plaintiff_ss" update="add">Brent, Alexander</field>
+      <field name="plaintiffID_ss" update="add">per.003503</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Brent, Alexander","id":"per.003503"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Cassius</field>
+      <field name="plaintiffID_ss" update="add">per.003614</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Cassius","id":"per.003614"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="defendant_ss" update="add">Buckner, Ariss</field>
+      <field name="defendantID_ss" update="add">per.000904</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Ariss","id":"per.000904"}</field>
+      <field name="defendant_ss" update="add">Buckner, Bernard H.</field>
+      <field name="defendantID_ss" update="add">per.003499</field>
+      <field name="defendantData_ss" update="add">{"label":"Buckner, Bernard H.","id":"per.003499"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0431.013</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Jacksons et al. v. Ariss Buckner &amp; Bernard H. Buckner. Affidavit of Ariss Buckner (May 20, 1834)","date":"1834-05-20","dateDisplay":"May 20, 1834","id":"oscys.case.0431.013"}</field>
+   </doc>
+</add>

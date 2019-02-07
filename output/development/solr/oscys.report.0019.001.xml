@@ -1,0 +1,584 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0019.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0019.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0019.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0019.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Lees v. Augustus Preuss. Circuit Court Report</field>
+      <field name="titleSort" update="add">lees v. augustus preuss. circuit court report</field>
+      <field name="titleLetter_s" update="add">l</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1827-05-01T00:00:00Z</field>
+      <field name="dateDisplay">May 1827</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume III, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Addison, Anthony</field>
+      <field name="people">Addison, Walter</field>
+      <field name="people">Lee, Joanna</field>
+      <field name="people">Savary, Peter</field>
+      <field name="people">Thruston, Buckner, 1763-1845</field>
+      <field name="people">Lee, Lizette</field>
+      <field name="people">Preuss, Augustus</field>
+      <field name="people">Barrell, Samuel B.</field>
+      <field name="people">Lee, Janette</field>
+      <field name="people">Preuss, Augustus</field>
+      <field name="people">Barrell, Samuel B.</field>
+      <field name="people">Lee, Nancy</field>
+      <field name="people">Preuss, Augustus</field>
+      <field name="people">Barrell, Samuel B.</field>
+      <field name="people">Lee, John Baptist</field>
+      <field name="people">Preuss, Augustus</field>
+      <field name="people">Barrell, Samuel B.</field>
+      <field name="places">Prince George's County (Md.)</field>
+      <field name="person_ss">Addison, Anthony</field>
+      <field name="personID_ss">per.000624</field>
+      <field name="personData_ss">{"label":"Addison, Anthony","id":"per.000624"}</field>
+      <field name="person_ss">Addison, Walter</field>
+      <field name="personID_ss">per.000625</field>
+      <field name="personData_ss">{"label":"Addison, Walter","id":"per.000625"}</field>
+      <field name="person_ss">Lee, Joanna</field>
+      <field name="personID_ss">per.000615</field>
+      <field name="personData_ss">{"label":"Lee, Joanna","id":"per.000615"}</field>
+      <field name="person_ss">Savary, Peter</field>
+      <field name="personID_ss">per.000628</field>
+      <field name="personData_ss">{"label":"Savary, Peter","id":"per.000628"}</field>
+      <field name="person_ss">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss">per.000064</field>
+      <field name="personData_ss">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss">Lee, Lizette</field>
+      <field name="personID_ss">per.000616</field>
+      <field name="personData_ss">{"label":"Lee, Lizette","id":"per.000616"}</field>
+      <field name="person_ss">Preuss, Augustus</field>
+      <field name="personID_ss">per.000617</field>
+      <field name="personData_ss">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss">Barrell, Samuel B.</field>
+      <field name="personID_ss">per.000629</field>
+      <field name="personData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss">Lee, Janette</field>
+      <field name="personID_ss">per.000619</field>
+      <field name="personData_ss">{"label":"Lee, Janette","id":"per.000619"}</field>
+      <field name="person_ss">Preuss, Augustus</field>
+      <field name="personID_ss">per.000617</field>
+      <field name="personData_ss">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss">Barrell, Samuel B.</field>
+      <field name="personID_ss">per.000629</field>
+      <field name="personData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss">Lee, Nancy</field>
+      <field name="personID_ss">per.000623</field>
+      <field name="personData_ss">{"label":"Lee, Nancy","id":"per.000623"}</field>
+      <field name="person_ss">Preuss, Augustus</field>
+      <field name="personID_ss">per.000617</field>
+      <field name="personData_ss">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss">Barrell, Samuel B.</field>
+      <field name="personID_ss">per.000629</field>
+      <field name="personData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss">Lee, John Baptist</field>
+      <field name="personID_ss">per.000630</field>
+      <field name="personData_ss">{"label":"Lee, John Baptist","id":"per.000630"}</field>
+      <field name="person_ss">Preuss, Augustus</field>
+      <field name="personID_ss">per.000617</field>
+      <field name="personData_ss">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss">Barrell, Samuel B.</field>
+      <field name="personID_ss">per.000629</field>
+      <field name="personData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="plaintiff_ss">Lee, Lizette</field>
+      <field name="plaintiffID_ss">per.000616</field>
+      <field name="plaintiffData_ss">{"label":"Lee, Lizette","id":"per.000616"}</field>
+      <field name="plaintiff_ss">Lee, Janette</field>
+      <field name="plaintiffID_ss">per.000619</field>
+      <field name="plaintiffData_ss">{"label":"Lee, Janette","id":"per.000619"}</field>
+      <field name="plaintiff_ss">Lee, Nancy</field>
+      <field name="plaintiffID_ss">per.000623</field>
+      <field name="plaintiffData_ss">{"label":"Lee, Nancy","id":"per.000623"}</field>
+      <field name="plaintiff_ss">Lee, John Baptist</field>
+      <field name="plaintiffID_ss">per.000630</field>
+      <field name="plaintiffData_ss">{"label":"Lee, John Baptist","id":"per.000630"}</field>
+      <field name="defendant_ss">Preuss, Augustus</field>
+      <field name="defendantID_ss">per.000617</field>
+      <field name="defendantData_ss">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss">Preuss, Augustus</field>
+      <field name="defendantID_ss">per.000617</field>
+      <field name="defendantData_ss">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss">Preuss, Augustus</field>
+      <field name="defendantID_ss">per.000617</field>
+      <field name="defendantData_ss">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss">Preuss, Augustus</field>
+      <field name="defendantID_ss">per.000617</field>
+      <field name="defendantData_ss">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="attorneyP_ss">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss">per.000629</field>
+      <field name="attorneyPData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss">per.000629</field>
+      <field name="attorneyData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss">per.000629</field>
+      <field name="attorneyPData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss">per.000629</field>
+      <field name="attorneyData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss">per.000629</field>
+      <field name="attorneyPData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss">per.000629</field>
+      <field name="attorneyData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss">per.000629</field>
+      <field name="attorneyPData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss">per.000629</field>
+      <field name="attorneyData_ss">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1827-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0072</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0073</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0074</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0075</field>
+      <field name="documentCaseData_ss">{"label":"Lizette Lee v. Augustus Preuss","id":"oscys.caseid.0072"}</field>
+      <field name="documentCaseData_ss">{"label":"Janette Lee v. Augustus Preuss","id":"oscys.caseid.0073"}</field>
+      <field name="documentCaseData_ss">{"label":"Nancy Lee v. Augustus Preuss","id":"oscys.caseid.0074"}</field>
+      <field name="documentCaseData_ss">{"label":"John Baptist Lee v. Augustus Preuss","id":"oscys.caseid.0075"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Lizette Lee &amp; others v. Augustus Preuss. Upon a petition for freedom by slaves entitled to emancipation at a future day, the Court refused to instruct the jury, that they might find their verdict for the petitioners, although that day had not yet arrived; and upon a special verdict showing their right to emancipation at a future day, not yet come, the Court rendered judgment for the defendant; and refused, as a court of equity, to continue an injunction which had been served upon the marshal to prevent him from delivering the petitioners to the defendant at law, during the pendency of their suit for freedom; being of opinion that the only ground of the right of the Court to interfere was the petitioner's claim to immediate freedom; and the pendency of their suit at law. That the fears alone of the petitioners, that the defendant, who was a citizen of Maryland, would violate the laws of that State, were not a sufficient ground of jurisdiction to require of him security that he would not do so. Petition for freedom by Lizette, John, and Janette, or Jeane, children of Joanna, and Nancy, the daughter of Lizette. The petitioners having given evidence tending to prove their right to emancipation after certain periods of service respectively which had not yet expired, prayed the Court by their counsel, Mr. Barrell, to instruct the jury, in effect, that they might find the issue for the petitioners, although their respective terms of servitude, according to their deed of emancipation, had not expired; which instruction the Court (Thruston, J. contrà) refused to give. The jury found a special verdict, which stated, 1. "That the negro girl Joan or Joanna, on the 23th of June 1797, was the property of Anthony Addison, then a citizen of Maryland, residing in Prince George's county, in that State, where he held her as a slave for life. 2. That on that day he sold her to Walter Addison, also a citizen of Maryland and residing in the said county, for a term of twelve years, by a bill of sale in writing, in hœc verba, &amp;c. 3. That after the said Walter Addison had held her about eighteen months under the said bill of sale he exchanged her unexpired term with one Peter Savary, then a citizen of Maryland, and residing in the same county, for a like term in another negro woman, the latter to be returned to Savary at the expiration of the said term. And we find that at the time of this exchange there was a stipulation and an understanding between the parties principals, that the children of the said Joanna, born or to be born, were to be free after having served, men children until they attained the age of thirty or thirty-one years, and female children when they should attain the age of twenty-five years respectively; and that the said Joanna was then delivered, and held in the said State and county, until the expiration of the said term; and that afterwards she was returned and given up to the said Anthony Addison. 4. That three of the petitioners, to wit, John, Lizette, and Janette or Jeane, are children of the said Johanna, born during the said term of twelve years; and the petitioner Nancy is the child of the petitioner Lizette, and was born long after the ex- piration of the said term, to wit, in the year 1825, or thereabout; the mother still being held by the said Savary. 5. That the said Savary did not deliver up the said petitioners to the said Anthony Addison; and that upon the death of the said Savary, they came to the possession of the defendant as administrator of Savary. 6. That after the expiration of the said term, to wit, on the 8th of October, 1809, the said Anthony Addison executed in the said State of Maryland, and acknowledged an instrument of writing, purporting to be an emancipation of the said Joan or Joanna, and her children; among others, of the three first above-named petitioners, after certain terms of service expressed, or reserved in the said writing, which, with the acknowledgment and memorial of the record thereof, we find, in these words, &amp;c. 7. We find that the terms of service, which the said instrument purports to have reserved and annexed to the emancipation of the said petitioners respectively, will expire at the times following, to wit, of the said John in May, 1830; of Lizette at Christmas, 1827; of the said Janette or Jeane, on the 19th of May, 1834; and the petitioner Nancy is about two years old. "If upon the facts so found," &amp;c. The Court, upon the facts so found, was of opinion, (nem. con.) that the petitioners will be entitled to their freedom, at the expiration of their respective terms of servitude agreeably to the deed of emancipation from Anthony Addison. "But a majority of the judges are of the opinion that as none of those terms of servitude have yet expired, the judgment upon the special verdict must be for the defendant; who being now fully apprised of the petitioners' contingent right to freedom, will take care that he do not subject himself to the penalty of the law of Maryland by selling them out of the State for a longer time than they have to serve by law." Thruston, J., doubted upon the last point; and was understood to be of opinion that the issue, submitted to the jury, was whether the petitioners were the slaves of the defendant; and that as they had a right to emancipation at a future day they could not now be slaves. Mr. Barrell, then, as solicitor for the petitioners, filed a bill for injunction in each case, stating their contingent right to freedom, and their fears that the defendant would sell them to persons who would carry them to some distant place, where they would not be able to prove and maintain their right to freedom. The petitioners had run away from the defendant, believing themselves entitled to freedom, and had been taken up and committed to jail here where they petitioned for their freedom. The Court had ordered the marshal not to deliver them up to the defendant unless upon his entering into the usual recognizance, or until the further order of the Court. The bills, now filed, prayed that the injunction on the marshal should be continued until the defendant should give security not to sell the petitioners out of the State of Maryland, nor for a longer term that they have to serve. The Court, however, (Thruston, J. contrà,) refused to continue the injunction after the judgement at law in favor of the defendant, being of opinion that the only ground of their right to interfere was the petitioners' claim to immediate freedom, and the pendency of their suit in this Court; that their suit being now ended and judgment against them, although they may be hereafter entitled to freedom, the Court think they cannot require security from the master that he will not violate the laws of Maryland; the fears alone of these petitioners, would not give this Court jurisdiction. No final relief could be given. Nothing is asked for by the bill, and nothing could be given, but security that the master, in exercising his acknowledged rights, would not violate the law of Maryland, the place of his residence. It is possible that the Courts of Maryland might be of a different opinion as to the rights of the petitioners, and we might bind the defendant not to do, what they might determine he might lawfully do. Injunction refused. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0072</field>
+      <field update="add" name="outcomeData_ss">{"label":"Special Verdict","date":"1827-05","dateDisplay":"May 1827","id":"oscys.report.0019.001"}</field>
+      <field update="add" name="outcome_ss">Special Verdict</field>
+      <field name="person_ss" update="add">Addison, Anthony</field>
+      <field name="personID_ss" update="add">per.000624</field>
+      <field name="personData_ss" update="add">{"label":"Addison, Anthony","id":"per.000624"}</field>
+      <field name="person_ss" update="add">Addison, Walter</field>
+      <field name="personID_ss" update="add">per.000625</field>
+      <field name="personData_ss" update="add">{"label":"Addison, Walter","id":"per.000625"}</field>
+      <field name="person_ss" update="add">Lee, Joanna</field>
+      <field name="personID_ss" update="add">per.000615</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Joanna","id":"per.000615"}</field>
+      <field name="person_ss" update="add">Savary, Peter</field>
+      <field name="personID_ss" update="add">per.000628</field>
+      <field name="personData_ss" update="add">{"label":"Savary, Peter","id":"per.000628"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Lee, Lizette</field>
+      <field name="personID_ss" update="add">per.000616</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Lizette","id":"per.000616"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, Janette</field>
+      <field name="personID_ss" update="add">per.000619</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Janette","id":"per.000619"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, Nancy</field>
+      <field name="personID_ss" update="add">per.000623</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Nancy","id":"per.000623"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, John Baptist</field>
+      <field name="personID_ss" update="add">per.000630</field>
+      <field name="personData_ss" update="add">{"label":"Lee, John Baptist","id":"per.000630"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Lizette</field>
+      <field name="plaintiffID_ss" update="add">per.000616</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Lizette","id":"per.000616"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Janette</field>
+      <field name="plaintiffID_ss" update="add">per.000619</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Janette","id":"per.000619"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Nancy</field>
+      <field name="plaintiffID_ss" update="add">per.000623</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Nancy","id":"per.000623"}</field>
+      <field name="plaintiff_ss" update="add">Lee, John Baptist</field>
+      <field name="plaintiffID_ss" update="add">per.000630</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, John Baptist","id":"per.000630"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0019.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Lees v. Augustus Preuss. Circuit Court Report (May, 1827)","date":"1827-05","dateDisplay":"May, 1827","id":"oscys.report.0019.001"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0073</field>
+      <field update="add" name="outcomeData_ss">{"label":"Special Verdict","date":"1827-05","dateDisplay":"May 1827","id":"oscys.report.0019.001"}</field>
+      <field update="add" name="outcome_ss">Special Verdict</field>
+      <field name="person_ss" update="add">Addison, Anthony</field>
+      <field name="personID_ss" update="add">per.000624</field>
+      <field name="personData_ss" update="add">{"label":"Addison, Anthony","id":"per.000624"}</field>
+      <field name="person_ss" update="add">Addison, Walter</field>
+      <field name="personID_ss" update="add">per.000625</field>
+      <field name="personData_ss" update="add">{"label":"Addison, Walter","id":"per.000625"}</field>
+      <field name="person_ss" update="add">Lee, Joanna</field>
+      <field name="personID_ss" update="add">per.000615</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Joanna","id":"per.000615"}</field>
+      <field name="person_ss" update="add">Savary, Peter</field>
+      <field name="personID_ss" update="add">per.000628</field>
+      <field name="personData_ss" update="add">{"label":"Savary, Peter","id":"per.000628"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Lee, Lizette</field>
+      <field name="personID_ss" update="add">per.000616</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Lizette","id":"per.000616"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, Janette</field>
+      <field name="personID_ss" update="add">per.000619</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Janette","id":"per.000619"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, Nancy</field>
+      <field name="personID_ss" update="add">per.000623</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Nancy","id":"per.000623"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, John Baptist</field>
+      <field name="personID_ss" update="add">per.000630</field>
+      <field name="personData_ss" update="add">{"label":"Lee, John Baptist","id":"per.000630"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Lizette</field>
+      <field name="plaintiffID_ss" update="add">per.000616</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Lizette","id":"per.000616"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Janette</field>
+      <field name="plaintiffID_ss" update="add">per.000619</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Janette","id":"per.000619"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Nancy</field>
+      <field name="plaintiffID_ss" update="add">per.000623</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Nancy","id":"per.000623"}</field>
+      <field name="plaintiff_ss" update="add">Lee, John Baptist</field>
+      <field name="plaintiffID_ss" update="add">per.000630</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, John Baptist","id":"per.000630"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0019.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Lees v. Augustus Preuss. Circuit Court Report (May, 1827)","date":"1827-05","dateDisplay":"May, 1827","id":"oscys.report.0019.001"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0074</field>
+      <field update="add" name="outcomeData_ss">{"label":"Special Verdict","date":"1827-05","dateDisplay":"May 1827","id":"oscys.report.0019.001"}</field>
+      <field update="add" name="outcome_ss">Special Verdict</field>
+      <field name="person_ss" update="add">Addison, Anthony</field>
+      <field name="personID_ss" update="add">per.000624</field>
+      <field name="personData_ss" update="add">{"label":"Addison, Anthony","id":"per.000624"}</field>
+      <field name="person_ss" update="add">Addison, Walter</field>
+      <field name="personID_ss" update="add">per.000625</field>
+      <field name="personData_ss" update="add">{"label":"Addison, Walter","id":"per.000625"}</field>
+      <field name="person_ss" update="add">Lee, Joanna</field>
+      <field name="personID_ss" update="add">per.000615</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Joanna","id":"per.000615"}</field>
+      <field name="person_ss" update="add">Savary, Peter</field>
+      <field name="personID_ss" update="add">per.000628</field>
+      <field name="personData_ss" update="add">{"label":"Savary, Peter","id":"per.000628"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Lee, Lizette</field>
+      <field name="personID_ss" update="add">per.000616</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Lizette","id":"per.000616"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, Janette</field>
+      <field name="personID_ss" update="add">per.000619</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Janette","id":"per.000619"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, Nancy</field>
+      <field name="personID_ss" update="add">per.000623</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Nancy","id":"per.000623"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, John Baptist</field>
+      <field name="personID_ss" update="add">per.000630</field>
+      <field name="personData_ss" update="add">{"label":"Lee, John Baptist","id":"per.000630"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Lizette</field>
+      <field name="plaintiffID_ss" update="add">per.000616</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Lizette","id":"per.000616"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Janette</field>
+      <field name="plaintiffID_ss" update="add">per.000619</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Janette","id":"per.000619"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Nancy</field>
+      <field name="plaintiffID_ss" update="add">per.000623</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Nancy","id":"per.000623"}</field>
+      <field name="plaintiff_ss" update="add">Lee, John Baptist</field>
+      <field name="plaintiffID_ss" update="add">per.000630</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, John Baptist","id":"per.000630"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0019.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Lees v. Augustus Preuss. Circuit Court Report (May, 1827)","date":"1827-05","dateDisplay":"May, 1827","id":"oscys.report.0019.001"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0075</field>
+      <field update="add" name="outcomeData_ss">{"label":"Special Verdict","date":"1827-05","dateDisplay":"May 1827","id":"oscys.report.0019.001"}</field>
+      <field update="add" name="outcome_ss">Special Verdict</field>
+      <field name="person_ss" update="add">Addison, Anthony</field>
+      <field name="personID_ss" update="add">per.000624</field>
+      <field name="personData_ss" update="add">{"label":"Addison, Anthony","id":"per.000624"}</field>
+      <field name="person_ss" update="add">Addison, Walter</field>
+      <field name="personID_ss" update="add">per.000625</field>
+      <field name="personData_ss" update="add">{"label":"Addison, Walter","id":"per.000625"}</field>
+      <field name="person_ss" update="add">Lee, Joanna</field>
+      <field name="personID_ss" update="add">per.000615</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Joanna","id":"per.000615"}</field>
+      <field name="person_ss" update="add">Savary, Peter</field>
+      <field name="personID_ss" update="add">per.000628</field>
+      <field name="personData_ss" update="add">{"label":"Savary, Peter","id":"per.000628"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Lee, Lizette</field>
+      <field name="personID_ss" update="add">per.000616</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Lizette","id":"per.000616"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, Janette</field>
+      <field name="personID_ss" update="add">per.000619</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Janette","id":"per.000619"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, Nancy</field>
+      <field name="personID_ss" update="add">per.000623</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Nancy","id":"per.000623"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="person_ss" update="add">Lee, John Baptist</field>
+      <field name="personID_ss" update="add">per.000630</field>
+      <field name="personData_ss" update="add">{"label":"Lee, John Baptist","id":"per.000630"}</field>
+      <field name="person_ss" update="add">Preuss, Augustus</field>
+      <field name="personID_ss" update="add">per.000617</field>
+      <field name="personData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="person_ss" update="add">Barrell, Samuel B.</field>
+      <field name="personID_ss" update="add">per.000629</field>
+      <field name="personData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Lizette</field>
+      <field name="plaintiffID_ss" update="add">per.000616</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Lizette","id":"per.000616"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Janette</field>
+      <field name="plaintiffID_ss" update="add">per.000619</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Janette","id":"per.000619"}</field>
+      <field name="plaintiff_ss" update="add">Lee, Nancy</field>
+      <field name="plaintiffID_ss" update="add">per.000623</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, Nancy","id":"per.000623"}</field>
+      <field name="plaintiff_ss" update="add">Lee, John Baptist</field>
+      <field name="plaintiffID_ss" update="add">per.000630</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lee, John Baptist","id":"per.000630"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="defendant_ss" update="add">Preuss, Augustus</field>
+      <field name="defendantID_ss" update="add">per.000617</field>
+      <field name="defendantData_ss" update="add">{"label":"Preuss, Augustus","id":"per.000617"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorneyP_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyPID_ss" update="add">per.000629</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="attorney_ss" update="add">Barrell, Samuel B.</field>
+      <field name="attorneyID_ss" update="add">per.000629</field>
+      <field name="attorneyData_ss" update="add">{"label":"Barrell, Samuel B.","id":"per.000629"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0019.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Lees v. Augustus Preuss. Circuit Court Report (May, 1827)","date":"1827-05","dateDisplay":"May, 1827","id":"oscys.report.0019.001"}</field>
+   </doc>
+</add>

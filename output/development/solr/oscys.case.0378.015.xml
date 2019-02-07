@@ -1,0 +1,99 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0378.015</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0378.015.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0378.015.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0378.015.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">China v. Benjamin D. Patterson. Benjamin Patterson to Robert Taylor</field>
+      <field name="titleSort" update="add">china v. benjamin d. patterson. benjamin patterson to robert taylor</field>
+      <field name="titleLetter_s" update="add">c</field>
+      <field name="contributor"/>
+      <field name="date">1810-12-06T00:00:00Z</field>
+      <field name="dateDisplay">December 6, 1810</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Correspondence</field>
+      <field name="people">Griffiss, Joseph</field>
+      <field name="people">Patterson, William</field>
+      <field name="people">China</field>
+      <field name="people">Patterson, Benjamin D.</field>
+      <field name="people">Taylor, Robert I.</field>
+      <field name="places">Calvert County (Md.)</field>
+      <field name="person_ss">Griffiss, Joseph</field>
+      <field name="personID_ss">per.002976</field>
+      <field name="personData_ss">{"label":"Griffiss, Joseph","id":"per.002976"}</field>
+      <field name="person_ss">Patterson, William</field>
+      <field name="personID_ss">per.002970</field>
+      <field name="personData_ss">{"label":"Patterson, William","id":"per.002970"}</field>
+      <field name="person_ss">China</field>
+      <field name="personID_ss">per.002971</field>
+      <field name="personData_ss">{"label":"China","id":"per.002971"}</field>
+      <field name="person_ss">Patterson, Benjamin D.</field>
+      <field name="personID_ss">per.002792</field>
+      <field name="personData_ss">{"label":"Patterson, Benjamin D.","id":"per.002792"}</field>
+      <field name="person_ss">Taylor, Robert I.</field>
+      <field name="personID_ss">per.002883</field>
+      <field name="personData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="plaintiff_ss">China</field>
+      <field name="plaintiffID_ss">per.002971</field>
+      <field name="plaintiffData_ss">{"label":"China","id":"per.002971"}</field>
+      <field name="defendant_ss">Patterson, Benjamin D.</field>
+      <field name="defendantID_ss">per.002792</field>
+      <field name="defendantData_ss">{"label":"Patterson, Benjamin D.","id":"per.002792"}</field>
+      <field name="attorneyP_ss">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss">per.002883</field>
+      <field name="attorneyPData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss">Taylor, Robert I.</field>
+      <field name="attorneyID_ss">per.002883</field>
+      <field name="attorneyData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="sourceTitle_s">Benjamin Patterson to Robert Taylor</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1811-11</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0403</field>
+      <field name="documentCaseData_ss">{"label":"China v. Benjamin D. Patterson","id":"oscys.caseid.0403"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> Robert Taylor Esqr. Attorney for Negroe Chaney. Please to take notice, That on Monday the 10th day of this present month, I shall take the deposition of William Patterson at the house Joseph Griffiss in the County of Calvert and State of Maryland in the suit now depending in the Circuit Court for the County of Alexandria wherein Negroe Chaney is Plf. and myself defendant pursuant to a Commission obtained for that purpose. Benjamin D. Patterson Decb 6 1810 This notice shewn to R. I. Taylor by me this day. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0403</field>
+      <field name="person_ss" update="add">Griffiss, Joseph</field>
+      <field name="personID_ss" update="add">per.002976</field>
+      <field name="personData_ss" update="add">{"label":"Griffiss, Joseph","id":"per.002976"}</field>
+      <field name="person_ss" update="add">Patterson, William</field>
+      <field name="personID_ss" update="add">per.002970</field>
+      <field name="personData_ss" update="add">{"label":"Patterson, William","id":"per.002970"}</field>
+      <field name="person_ss" update="add">China</field>
+      <field name="personID_ss" update="add">per.002971</field>
+      <field name="personData_ss" update="add">{"label":"China","id":"per.002971"}</field>
+      <field name="person_ss" update="add">Patterson, Benjamin D.</field>
+      <field name="personID_ss" update="add">per.002792</field>
+      <field name="personData_ss" update="add">{"label":"Patterson, Benjamin D.","id":"per.002792"}</field>
+      <field name="person_ss" update="add">Taylor, Robert I.</field>
+      <field name="personID_ss" update="add">per.002883</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="plaintiff_ss" update="add">China</field>
+      <field name="plaintiffID_ss" update="add">per.002971</field>
+      <field name="plaintiffData_ss" update="add">{"label":"China","id":"per.002971"}</field>
+      <field name="defendant_ss" update="add">Patterson, Benjamin D.</field>
+      <field name="defendantID_ss" update="add">per.002792</field>
+      <field name="defendantData_ss" update="add">{"label":"Patterson, Benjamin D.","id":"per.002792"}</field>
+      <field name="attorneyP_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss" update="add">per.002883</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyID_ss" update="add">per.002883</field>
+      <field name="attorneyData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0378.015</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"China v. Benjamin D. Patterson. Benjamin Patterson to Robert Taylor (December 6, 1810)","date":"1810-12-06","dateDisplay":"December 6, 1810","id":"oscys.case.0378.015"}</field>
+   </doc>
+</add>

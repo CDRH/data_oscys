@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0187.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0187.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0187.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0187.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Jane v. Edmund E. Richards. Petition for Freedom</field>
+      <field name="titleSort" update="add">jane v. edmund e. richards. petition for freedom</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1847-07-15T00:00:00Z</field>
+      <field name="dateDisplay">July 15, 1847</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 725, Folder 305</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Jane</field>
+      <field name="people">Richards, Edmund E.</field>
+      <field name="people">Williams</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Jane</field>
+      <field name="personID_ss">per.001423</field>
+      <field name="personData_ss">{"label":"Jane","id":"per.001423"}</field>
+      <field name="person_ss">Richards, Edmund E.</field>
+      <field name="personID_ss">per.001424</field>
+      <field name="personData_ss">{"label":"Richards, Edmund E.","id":"per.001424"}</field>
+      <field name="person_ss">Williams</field>
+      <field name="personID_ss">per.001425</field>
+      <field name="personData_ss">{"label":"Williams","id":"per.001425"}</field>
+      <field name="plaintiff_ss">Jane</field>
+      <field name="plaintiffID_ss">per.001423</field>
+      <field name="plaintiffData_ss">{"label":"Jane","id":"per.001423"}</field>
+      <field name="defendant_ss">Richards, Edmund E.</field>
+      <field name="defendantID_ss">per.001424</field>
+      <field name="defendantData_ss">{"label":"Richards, Edmund E.","id":"per.001424"}</field>
+      <field name="attorneyP_ss">Williams</field>
+      <field name="attorneyPID_ss">per.001425</field>
+      <field name="attorneyPData_ss">{"label":"Williams","id":"per.001425"}</field>
+      <field name="attorney_ss">Williams</field>
+      <field name="attorneyID_ss">per.001425</field>
+      <field name="attorneyData_ss">{"label":"Williams","id":"per.001425"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1848-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0189</field>
+      <field name="documentCaseData_ss">{"label":"Jane v. Edmund E. Richards","id":"oscys.caseid.0189"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judge of the Circuit Court of the district of Columbia for the County of Washington. The petition of Jane (negress) represents unto your honors that your petitioner is entitled to her freedom; and that she is held in bondage slavery by one Edmund E Richards of the said County, and prays that a subpoena may issue to said Richards, and his rights be enquired into by your honors. S. S. Williams for Petitioner 200. 190 (Negress) Jane vs Edmund E Richards Petition for Freedom filed 15th July 1847 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0189</field>
+      <field name="person_ss" update="add">Jane</field>
+      <field name="personID_ss" update="add">per.001423</field>
+      <field name="personData_ss" update="add">{"label":"Jane","id":"per.001423"}</field>
+      <field name="person_ss" update="add">Richards, Edmund E.</field>
+      <field name="personID_ss" update="add">per.001424</field>
+      <field name="personData_ss" update="add">{"label":"Richards, Edmund E.","id":"per.001424"}</field>
+      <field name="person_ss" update="add">Williams</field>
+      <field name="personID_ss" update="add">per.001425</field>
+      <field name="personData_ss" update="add">{"label":"Williams","id":"per.001425"}</field>
+      <field name="plaintiff_ss" update="add">Jane</field>
+      <field name="plaintiffID_ss" update="add">per.001423</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jane","id":"per.001423"}</field>
+      <field name="defendant_ss" update="add">Richards, Edmund E.</field>
+      <field name="defendantID_ss" update="add">per.001424</field>
+      <field name="defendantData_ss" update="add">{"label":"Richards, Edmund E.","id":"per.001424"}</field>
+      <field name="attorneyP_ss" update="add">Williams</field>
+      <field name="attorneyPID_ss" update="add">per.001425</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Williams","id":"per.001425"}</field>
+      <field name="attorney_ss" update="add">Williams</field>
+      <field name="attorneyID_ss" update="add">per.001425</field>
+      <field name="attorneyData_ss" update="add">{"label":"Williams","id":"per.001425"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0187.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Jane v. Edmund E. Richards. Petition for Freedom (July 15, 1847)","date":"1847-07-15","dateDisplay":"July 15, 1847","id":"oscys.case.0187.001"}</field>
+   </doc>
+</add>

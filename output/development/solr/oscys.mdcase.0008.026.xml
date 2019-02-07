@@ -1,0 +1,87 @@
+<add>
+   <doc>
+      <field name="id">oscys.mdcase.0008.026</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.mdcase.0008.026.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.mdcase.0008.026.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.mdcase.0008.026.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Charles Mahoney v. John Ashton. Deposition of Michael Lowe</field>
+      <field name="titleSort" update="add">charles mahoney v. john ashton. deposition of michael lowe</field>
+      <field name="titleLetter_s" update="add">c</field>
+      <field name="contributor"/>
+      <field name="date">1797-07-01T00:00:00Z</field>
+      <field name="dateDisplay">July 1, 1797</field>
+      <field name="format">manuscript</field>
+      <field name="source">Maryland State Archives, General Court of the Western Shore (Judgments), MSA S498-220</field>
+      <field name="rightsHolder">Maryland State Archives</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Deposition</field>
+      <field name="people">Hepburn, Samuel</field>
+      <field name="people">Lowe, Michael</field>
+      <field name="people">Wheat, John</field>
+      <field name="people">Mahoney, Charles</field>
+      <field name="people">Ashton, John</field>
+      <field name="places">Prince George's County (Md.)</field>
+      <field name="person_ss">Hepburn, Samuel</field>
+      <field name="personID_ss">per.002928</field>
+      <field name="personData_ss">{"label":"Hepburn, Samuel","id":"per.002928"}</field>
+      <field name="person_ss">Lowe, Michael</field>
+      <field name="personID_ss">per.004541</field>
+      <field name="personData_ss">{"label":"Lowe, Michael","id":"per.004541"}</field>
+      <field name="person_ss">Wheat, John</field>
+      <field name="personID_ss">per.004573</field>
+      <field name="personData_ss">{"label":"Wheat, John","id":"per.004573"}</field>
+      <field name="person_ss">Mahoney, Charles</field>
+      <field name="personID_ss">per.004476</field>
+      <field name="personData_ss">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="person_ss">Ashton, John</field>
+      <field name="personID_ss">per.000215</field>
+      <field name="personData_ss">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="plaintiff_ss">Mahoney, Charles</field>
+      <field name="plaintiffID_ss">per.004476</field>
+      <field name="plaintiffData_ss">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="defendant_ss">Ashton, John</field>
+      <field name="defendantID_ss">per.000215</field>
+      <field name="defendantData_ss">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="sourceTitle_s">Deposition of Michael Lowe</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1799-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0481</field>
+      <field name="documentCaseData_ss">{"label":"Charles Mahoney v. John Ashton","id":"oscys.caseid.0481"}</field>
+      <field name="jurisdiction_ss">Maryland. General Court of the Western Shore - Annapolis (Md.)</field>
+      <field name="text"> The Deposition of Michael Lowe of Prince Georges County being fifty seven years of age and being first duly sworn on the holy Evangels of Almighty God Deposeth and saith That he this Deponent is well acquainted with John Wheat Senior of Prince Georges County (whose Deposition this deponent hath been informed has been taken in the cause now depending in the General Court in which several negroes claiming their descent from one Ann Joyce are Petitioner again John Ashton Defendant) and that he this Deponent hath known the said John Wheat Senior as long as he can well remember any thing and the Deponent being asked what was the general Character of the said John Wheat Senior saith that he is generally reported and claimed in the neighbourhood where he resides to bear a bad character Sworn before me the 1st day of July 1797 Sam Hepburn 1 1/2 sides Michael Lowe (Bad Character of Wheat) No 17. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0481</field>
+      <field name="person_ss" update="add">Hepburn, Samuel</field>
+      <field name="personID_ss" update="add">per.002928</field>
+      <field name="personData_ss" update="add">{"label":"Hepburn, Samuel","id":"per.002928"}</field>
+      <field name="person_ss" update="add">Lowe, Michael</field>
+      <field name="personID_ss" update="add">per.004541</field>
+      <field name="personData_ss" update="add">{"label":"Lowe, Michael","id":"per.004541"}</field>
+      <field name="person_ss" update="add">Wheat, John</field>
+      <field name="personID_ss" update="add">per.004573</field>
+      <field name="personData_ss" update="add">{"label":"Wheat, John","id":"per.004573"}</field>
+      <field name="person_ss" update="add">Mahoney, Charles</field>
+      <field name="personID_ss" update="add">per.004476</field>
+      <field name="personData_ss" update="add">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="person_ss" update="add">Ashton, John</field>
+      <field name="personID_ss" update="add">per.000215</field>
+      <field name="personData_ss" update="add">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="plaintiff_ss" update="add">Mahoney, Charles</field>
+      <field name="plaintiffID_ss" update="add">per.004476</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="defendant_ss" update="add">Ashton, John</field>
+      <field name="defendantID_ss" update="add">per.000215</field>
+      <field name="defendantData_ss" update="add">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="jurisdiction_ss" update="add">Maryland. General Court of the Western Shore - Annapolis (Md.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.mdcase.0008.026</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Charles Mahoney v. John Ashton. Deposition of Michael Lowe (July 1, 1797)","date":"1797-07-01","dateDisplay":"July 1, 1797","id":"oscys.mdcase.0008.026"}</field>
+   </doc>
+</add>

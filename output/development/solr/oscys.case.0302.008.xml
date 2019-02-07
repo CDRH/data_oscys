@@ -1,0 +1,88 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0302.008</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0302.008.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0302.008.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0302.008.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ann Kane v. Thomas Ogden. Summons of Thomas Ogden</field>
+      <field name="titleSort" update="add">ann kane v. thomas ogden. summons of thomas ogden</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date">1858-02-16T00:00:00Z</field>
+      <field name="dateDisplay">February 16, 1858</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 863, Folder 138</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Dunlop, James, 1793-</field>
+      <field name="people">Selden, William</field>
+      <field name="people">Smith, John A.</field>
+      <field name="people">Kane, Ann</field>
+      <field name="people">Ogden, Thomas</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Dunlop, James, 1793-</field>
+      <field name="personID_ss">per.000476</field>
+      <field name="personData_ss">{"label":"Dunlop, James, 1793-","id":"per.000476"}</field>
+      <field name="person_ss">Selden, William</field>
+      <field name="personID_ss">per.001217</field>
+      <field name="personData_ss">{"label":"Selden, William","id":"per.001217"}</field>
+      <field name="person_ss">Smith, John A.</field>
+      <field name="personID_ss">per.000740</field>
+      <field name="personData_ss">{"label":"Smith, John A.","id":"per.000740"}</field>
+      <field name="person_ss">Kane, Ann</field>
+      <field name="personID_ss">per.002317</field>
+      <field name="personData_ss">{"label":"Kane, Ann","id":"per.002317"}</field>
+      <field name="person_ss">Ogden, Thomas</field>
+      <field name="personID_ss">per.002318</field>
+      <field name="personData_ss">{"label":"Ogden, Thomas","id":"per.002318"}</field>
+      <field name="plaintiff_ss">Kane, Ann</field>
+      <field name="plaintiffID_ss">per.002317</field>
+      <field name="plaintiffData_ss">{"label":"Kane, Ann","id":"per.002317"}</field>
+      <field name="defendant_ss">Ogden, Thomas</field>
+      <field name="defendantID_ss">per.002318</field>
+      <field name="defendantData_ss">{"label":"Ogden, Thomas","id":"per.002318"}</field>
+      <field name="sourceTitle_s">Summons of Thomas Ogden</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1858-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0304</field>
+      <field name="documentCaseData_ss">{"label":"Ann Kane v. Thomas Ogden","id":"oscys.caseid.0304"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> District of Columbia, to wit: The United States of America, To the Marshal of the District of Columbia—Greeting: We command you that you take summon Thomas Ogden late of Washington County, if shall be found within the County of Washington in your said District, and safely keep, so that you have bod before the Circuit Court of the District of Columbia, to be held for the County aforesaid, at the City of Washington, on the 1st Monday of May next, to answer unto the petition for freedom of Ann Kane. in a plea of Hereof fail not at your peril, and have you then and there this writ. Witness, James Dunlop Esquire, Chief Justice of our said Court, at the City of Washington, the 15t day of Feby Anno Domini one thousand eight hundred and 58 Issued the 16t day of Feby 1858 Jno: A Smith Clk R &amp; K. 138. Ann Kane vs Thomas Ogden Sub 10 Bre Pet: for freedom + Non Est. W. Selden Marshal </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0304</field>
+      <field name="person_ss" update="add">Dunlop, James, 1793-</field>
+      <field name="personID_ss" update="add">per.000476</field>
+      <field name="personData_ss" update="add">{"label":"Dunlop, James, 1793-","id":"per.000476"}</field>
+      <field name="person_ss" update="add">Selden, William</field>
+      <field name="personID_ss" update="add">per.001217</field>
+      <field name="personData_ss" update="add">{"label":"Selden, William","id":"per.001217"}</field>
+      <field name="person_ss" update="add">Smith, John A.</field>
+      <field name="personID_ss" update="add">per.000740</field>
+      <field name="personData_ss" update="add">{"label":"Smith, John A.","id":"per.000740"}</field>
+      <field name="person_ss" update="add">Kane, Ann</field>
+      <field name="personID_ss" update="add">per.002317</field>
+      <field name="personData_ss" update="add">{"label":"Kane, Ann","id":"per.002317"}</field>
+      <field name="person_ss" update="add">Ogden, Thomas</field>
+      <field name="personID_ss" update="add">per.002318</field>
+      <field name="personData_ss" update="add">{"label":"Ogden, Thomas","id":"per.002318"}</field>
+      <field name="plaintiff_ss" update="add">Kane, Ann</field>
+      <field name="plaintiffID_ss" update="add">per.002317</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Kane, Ann","id":"per.002317"}</field>
+      <field name="defendant_ss" update="add">Ogden, Thomas</field>
+      <field name="defendantID_ss" update="add">per.002318</field>
+      <field name="defendantData_ss" update="add">{"label":"Ogden, Thomas","id":"per.002318"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0302.008</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ann Kane v. Thomas Ogden. Summons of Thomas Ogden (February 16, 1858)","date":"1858-02-16","dateDisplay":"February 16, 1858","id":"oscys.case.0302.008"}</field>
+   </doc>
+</add>

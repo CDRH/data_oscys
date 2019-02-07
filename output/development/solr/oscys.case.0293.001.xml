@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0293.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0293.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0293.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0293.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Rachel Ann Williams v. Samuel Stettinius. Petition for Freedom</field>
+      <field name="titleSort" update="add">rachel ann williams v. samuel stettinius. petition for freedom</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="contributor"/>
+      <field name="date">1853-04-01T00:00:00Z</field>
+      <field name="dateDisplay">April 1, 1853</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 771, Folder 2</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Williams, Rachel Ann</field>
+      <field name="people">Stettinius, Samuel</field>
+      <field name="people">Thompson, Michael</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Williams, Rachel Ann</field>
+      <field name="personID_ss">per.002239</field>
+      <field name="personData_ss">{"label":"Williams, Rachel Ann","id":"per.002239"}</field>
+      <field name="person_ss">Stettinius, Samuel</field>
+      <field name="personID_ss">per.002240</field>
+      <field name="personData_ss">{"label":"Stettinius, Samuel","id":"per.002240"}</field>
+      <field name="person_ss">Thompson, Michael</field>
+      <field name="personID_ss">per.002238</field>
+      <field name="personData_ss">{"label":"Thompson, Michael","id":"per.002238"}</field>
+      <field name="plaintiff_ss">Williams, Rachel Ann</field>
+      <field name="plaintiffID_ss">per.002239</field>
+      <field name="plaintiffData_ss">{"label":"Williams, Rachel Ann","id":"per.002239"}</field>
+      <field name="defendant_ss">Stettinius, Samuel</field>
+      <field name="defendantID_ss">per.002240</field>
+      <field name="defendantData_ss">{"label":"Stettinius, Samuel","id":"per.002240"}</field>
+      <field name="attorneyP_ss">Thompson, Michael</field>
+      <field name="attorneyPID_ss">per.002238</field>
+      <field name="attorneyPData_ss">{"label":"Thompson, Michael","id":"per.002238"}</field>
+      <field name="attorney_ss">Thompson, Michael</field>
+      <field name="attorneyID_ss">per.002238</field>
+      <field name="attorneyData_ss">{"label":"Thompson, Michael","id":"per.002238"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1853-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0295</field>
+      <field name="documentCaseData_ss">{"label":"Rachel Ann Williams v. Samuel Stettinius","id":"oscys.caseid.0295"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable The Judges of the Circuit Court of the District of Columbia for Washington County Rachel Ann Williams of the District &amp; County aforesaid represents that she is held in slavery by Samuel Stettinius of said District &amp; County, and that she, is entitled the said Rachel, is entitled to her freedom, and humbly prays your honors to inquire into, &amp; do, or cause justice to be done in the premises; and your petitioner will ever pray &amp;c. M. Thompson Atty for Petitioner Washington Apl. 1st 1853 2. Rachel Ann Williams vs Samuel Stettinius Petn. Filed 1st April 1853. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0295</field>
+      <field name="person_ss" update="add">Williams, Rachel Ann</field>
+      <field name="personID_ss" update="add">per.002239</field>
+      <field name="personData_ss" update="add">{"label":"Williams, Rachel Ann","id":"per.002239"}</field>
+      <field name="person_ss" update="add">Stettinius, Samuel</field>
+      <field name="personID_ss" update="add">per.002240</field>
+      <field name="personData_ss" update="add">{"label":"Stettinius, Samuel","id":"per.002240"}</field>
+      <field name="person_ss" update="add">Thompson, Michael</field>
+      <field name="personID_ss" update="add">per.002238</field>
+      <field name="personData_ss" update="add">{"label":"Thompson, Michael","id":"per.002238"}</field>
+      <field name="plaintiff_ss" update="add">Williams, Rachel Ann</field>
+      <field name="plaintiffID_ss" update="add">per.002239</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Williams, Rachel Ann","id":"per.002239"}</field>
+      <field name="defendant_ss" update="add">Stettinius, Samuel</field>
+      <field name="defendantID_ss" update="add">per.002240</field>
+      <field name="defendantData_ss" update="add">{"label":"Stettinius, Samuel","id":"per.002240"}</field>
+      <field name="attorneyP_ss" update="add">Thompson, Michael</field>
+      <field name="attorneyPID_ss" update="add">per.002238</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Thompson, Michael","id":"per.002238"}</field>
+      <field name="attorney_ss" update="add">Thompson, Michael</field>
+      <field name="attorneyID_ss" update="add">per.002238</field>
+      <field name="attorneyData_ss" update="add">{"label":"Thompson, Michael","id":"per.002238"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0293.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Rachel Ann Williams v. Samuel Stettinius. Petition for Freedom (April 1, 1853)","date":"1853-04-01","dateDisplay":"April 1, 1853","id":"oscys.case.0293.001"}</field>
+   </doc>
+</add>

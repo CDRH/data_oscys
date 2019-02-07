@@ -1,0 +1,480 @@
+<add>
+   <doc>
+      <field name="id">oscys.mdcase.0008.051</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.mdcase.0008.051.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.mdcase.0008.051.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.mdcase.0008.051.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Charles Mahoney v. John Ashton. Transcript from Court of Appeals</field>
+      <field name="titleSort" update="add">charles mahoney v. john ashton. transcript from court of appeals</field>
+      <field name="titleLetter_s" update="add">c</field>
+      <field name="contributor"/>
+      <field name="date">1802-10-04T00:00:00Z</field>
+      <field name="dateDisplay">October 4, 1802</field>
+      <field name="format">manuscript</field>
+      <field name="source">Maryland State Archives, General Court of the Western Shore (Judgments), MSA S498-228</field>
+      <field name="rightsHolder">Maryland State Archives</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Transcript</field>
+      <field name="people">Albaugh, Abraham</field>
+      <field name="people">Amos, James</field>
+      <field name="people">Barber, Thomas</field>
+      <field name="people">Beall, Edward</field>
+      <field name="people">Beard, Thomas</field>
+      <field name="people">Billingslea, William</field>
+      <field name="people">Burkhart, Christopher</field>
+      <field name="people">Crain, Abner</field>
+      <field name="people">Crain, Alexander</field>
+      <field name="people">Douglass, Samuel</field>
+      <field name="people">Duvall, Gabriel, 1752-1844</field>
+      <field name="people">Duvall, Lewis</field>
+      <field name="people">Duvall, Zachariah</field>
+      <field name="people">Franklin, Francis Boucher</field>
+      <field name="people">Griffith, Nicholas</field>
+      <field name="people">Gwinn, John</field>
+      <field name="people">Hannah, John</field>
+      <field name="people">Hesselius, John</field>
+      <field name="people">Hoffman, David</field>
+      <field name="people">Jones, Benjamin White</field>
+      <field name="people">Lane, Thomas</field>
+      <field name="people">Leatherman, Henry</field>
+      <field name="people">Little, Peter</field>
+      <field name="people">Lyles, Thomas Hilleary</field>
+      <field name="people">Magruder, James Alexander</field>
+      <field name="people">McCauley, Charles</field>
+      <field name="people">McComas, Aquila</field>
+      <field name="people">Middleton, Ignatius</field>
+      <field name="people">Nead, Daniel</field>
+      <field name="people">Neale, Henry C.</field>
+      <field name="people">Page, George</field>
+      <field name="people">Richardson, Samuel</field>
+      <field name="people">Ridgely, Jacob</field>
+      <field name="people">Simmons, Thomas T.</field>
+      <field name="people">Smith, Mordecai</field>
+      <field name="people">Smith, Samuel Lane</field>
+      <field name="people">Tyler, Samuel, Jr.</field>
+      <field name="people">Warfield, Lancelot, Sr.</field>
+      <field name="people">Wilkinson, Robert</field>
+      <field name="people">Woodward, Thomas</field>
+      <field name="people">Mahoney, Charles</field>
+      <field name="people">Ashton, John</field>
+      <field name="people">Johnson, John</field>
+      <field name="people">Ridgely, Richard</field>
+      <field name="people">Harper, Robert Goodloe, 1765-1825</field>
+      <field name="people">Key, Philip Barton, 1757-1815</field>
+      <field name="people">Martin, Luther</field>
+      <field name="people">Mason, John T. (John Thomson), 1787-1850</field>
+      <field name="people">Shaaff, Arthur</field>
+      <field name="places">Anne Arundel County (Md.)</field>
+      <field name="places">Annapolis (Md.)</field>
+      <field name="person_ss">Albaugh, Abraham</field>
+      <field name="personID_ss">per.004784</field>
+      <field name="personData_ss">{"label":"Albaugh, Abraham","id":"per.004784"}</field>
+      <field name="person_ss">Amos, James</field>
+      <field name="personID_ss">per.004781</field>
+      <field name="personData_ss">{"label":"Amos, James","id":"per.004781"}</field>
+      <field name="person_ss">Barber, Thomas</field>
+      <field name="personID_ss">per.004480</field>
+      <field name="personData_ss">{"label":"Barber, Thomas","id":"per.004480"}</field>
+      <field name="person_ss">Beall, Edward</field>
+      <field name="personID_ss">per.004766</field>
+      <field name="personData_ss">{"label":"Beall, Edward","id":"per.004766"}</field>
+      <field name="person_ss">Beard, Thomas</field>
+      <field name="personID_ss">per.004768</field>
+      <field name="personData_ss">{"label":"Beard, Thomas","id":"per.004768"}</field>
+      <field name="person_ss">Billingslea, William</field>
+      <field name="personID_ss">per.004777</field>
+      <field name="personData_ss">{"label":"Billingslea, William","id":"per.004777"}</field>
+      <field name="person_ss">Burkhart, Christopher</field>
+      <field name="personID_ss">per.004774</field>
+      <field name="personData_ss">{"label":"Burkhart, Christopher","id":"per.004774"}</field>
+      <field name="person_ss">Crain, Abner</field>
+      <field name="personID_ss">per.004754</field>
+      <field name="personData_ss">{"label":"Crain, Abner","id":"per.004754"}</field>
+      <field name="person_ss">Crain, Alexander</field>
+      <field name="personID_ss">per.004789</field>
+      <field name="personData_ss">{"label":"Crain, Alexander","id":"per.004789"}</field>
+      <field name="person_ss">Douglass, Samuel</field>
+      <field name="personID_ss">per.004763</field>
+      <field name="personData_ss">{"label":"Douglass, Samuel","id":"per.004763"}</field>
+      <field name="person_ss">Duvall, Gabriel, 1752-1844</field>
+      <field name="personID_ss">per.001393</field>
+      <field name="personData_ss">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="person_ss">Duvall, Lewis</field>
+      <field name="personID_ss">per.004753</field>
+      <field name="personData_ss">{"label":"Duvall, Lewis","id":"per.004753"}</field>
+      <field name="person_ss">Duvall, Zachariah</field>
+      <field name="personID_ss">per.004794</field>
+      <field name="personData_ss">{"label":"Duvall, Zachariah","id":"per.004794"}</field>
+      <field name="person_ss">Franklin, Francis Boucher</field>
+      <field name="personID_ss">per.004795</field>
+      <field name="personData_ss">{"label":"Franklin, Francis Boucher","id":"per.004795"}</field>
+      <field name="person_ss">Griffith, Nicholas</field>
+      <field name="personID_ss">per.004779</field>
+      <field name="personData_ss">{"label":"Griffith, Nicholas","id":"per.004779"}</field>
+      <field name="person_ss">Gwinn, John</field>
+      <field name="personID_ss">per.001493</field>
+      <field name="personData_ss">{"label":"Gwinn, John","id":"per.001493"}</field>
+      <field name="person_ss">Hannah, John</field>
+      <field name="personID_ss">per.004776</field>
+      <field name="personData_ss">{"label":"Hannah, John","id":"per.004776"}</field>
+      <field name="person_ss">Hesselius, John</field>
+      <field name="personID_ss">per.004791</field>
+      <field name="personData_ss">{"label":"Hesselius, John","id":"per.004791"}</field>
+      <field name="person_ss">Hoffman, David</field>
+      <field name="personID_ss">per.004788</field>
+      <field name="personData_ss">{"label":"Hoffman, David","id":"per.004788"}</field>
+      <field name="person_ss">Jones, Benjamin White</field>
+      <field name="personID_ss">per.004778</field>
+      <field name="personData_ss">{"label":"Jones, Benjamin White","id":"per.004778"}</field>
+      <field name="person_ss">Lane, Thomas</field>
+      <field name="personID_ss">per.004764</field>
+      <field name="personData_ss">{"label":"Lane, Thomas","id":"per.004764"}</field>
+      <field name="person_ss">Leatherman, Henry</field>
+      <field name="personID_ss">per.004773</field>
+      <field name="personData_ss">{"label":"Leatherman, Henry","id":"per.004773"}</field>
+      <field name="person_ss">Little, Peter</field>
+      <field name="personID_ss">per.004793</field>
+      <field name="personData_ss">{"label":"Little, Peter","id":"per.004793"}</field>
+      <field name="person_ss">Lyles, Thomas Hilleary</field>
+      <field name="personID_ss">per.004765</field>
+      <field name="personData_ss">{"label":"Lyles, Thomas Hilleary","id":"per.004765"}</field>
+      <field name="person_ss">Magruder, James Alexander</field>
+      <field name="personID_ss">per.004792</field>
+      <field name="personData_ss">{"label":"Magruder, James Alexander","id":"per.004792"}</field>
+      <field name="person_ss">McCauley, Charles</field>
+      <field name="personID_ss">per.004767</field>
+      <field name="personData_ss">{"label":"McCauley, Charles","id":"per.004767"}</field>
+      <field name="person_ss">McComas, Aquila</field>
+      <field name="personID_ss">per.004786</field>
+      <field name="personData_ss">{"label":"McComas, Aquila","id":"per.004786"}</field>
+      <field name="person_ss">Middleton, Ignatius</field>
+      <field name="personID_ss">per.004782</field>
+      <field name="personData_ss">{"label":"Middleton, Ignatius","id":"per.004782"}</field>
+      <field name="person_ss">Nead, Daniel</field>
+      <field name="personID_ss">per.004771</field>
+      <field name="personData_ss">{"label":"Nead, Daniel","id":"per.004771"}</field>
+      <field name="person_ss">Neale, Henry C.</field>
+      <field name="personID_ss">per.004775</field>
+      <field name="personData_ss">{"label":"Neale, Henry C.","id":"per.004775"}</field>
+      <field name="person_ss">Page, George</field>
+      <field name="personID_ss">per.004783</field>
+      <field name="personData_ss">{"label":"Page, George","id":"per.004783"}</field>
+      <field name="person_ss">Richardson, Samuel</field>
+      <field name="personID_ss">per.004780</field>
+      <field name="personData_ss">{"label":"Richardson, Samuel","id":"per.004780"}</field>
+      <field name="person_ss">Ridgely, Jacob</field>
+      <field name="personID_ss">per.004787</field>
+      <field name="personData_ss">{"label":"Ridgely, Jacob","id":"per.004787"}</field>
+      <field name="person_ss">Simmons, Thomas T.</field>
+      <field name="personID_ss">per.004769</field>
+      <field name="personData_ss">{"label":"Simmons, Thomas T.","id":"per.004769"}</field>
+      <field name="person_ss">Smith, Mordecai</field>
+      <field name="personID_ss">per.004785</field>
+      <field name="personData_ss">{"label":"Smith, Mordecai","id":"per.004785"}</field>
+      <field name="person_ss">Smith, Samuel Lane</field>
+      <field name="personID_ss">per.004770</field>
+      <field name="personData_ss">{"label":"Smith, Samuel Lane","id":"per.004770"}</field>
+      <field name="person_ss">Tyler, Samuel, Jr.</field>
+      <field name="personID_ss">per.004796</field>
+      <field name="personData_ss">{"label":"Tyler, Samuel, Jr.","id":"per.004796"}</field>
+      <field name="person_ss">Warfield, Lancelot, Sr.</field>
+      <field name="personID_ss">per.004752</field>
+      <field name="personData_ss">{"label":"Warfield, Lancelot, Sr.","id":"per.004752"}</field>
+      <field name="person_ss">Wilkinson, Robert</field>
+      <field name="personID_ss">per.004772</field>
+      <field name="personData_ss">{"label":"Wilkinson, Robert","id":"per.004772"}</field>
+      <field name="person_ss">Woodward, Thomas</field>
+      <field name="personID_ss">per.004790</field>
+      <field name="personData_ss">{"label":"Woodward, Thomas","id":"per.004790"}</field>
+      <field name="person_ss">Mahoney, Charles</field>
+      <field name="personID_ss">per.004476</field>
+      <field name="personData_ss">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="person_ss">Ashton, John</field>
+      <field name="personID_ss">per.000215</field>
+      <field name="personData_ss">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="person_ss">Johnson, John</field>
+      <field name="personID_ss">per.004359</field>
+      <field name="personData_ss">{"label":"Johnson, John","id":"per.004359"}</field>
+      <field name="person_ss">Ridgely, Richard</field>
+      <field name="personID_ss">per.004663</field>
+      <field name="personData_ss">{"label":"Ridgely, Richard","id":"per.004663"}</field>
+      <field name="person_ss">Harper, Robert Goodloe, 1765-1825</field>
+      <field name="personID_ss">per.004761</field>
+      <field name="personData_ss">{"label":"Harper, Robert Goodloe, 1765-1825","id":"per.004761"}</field>
+      <field name="person_ss">Key, Philip Barton, 1757-1815</field>
+      <field name="personID_ss">per.001495</field>
+      <field name="personData_ss">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="person_ss">Martin, Luther</field>
+      <field name="personID_ss">per.004664</field>
+      <field name="personData_ss">{"label":"Martin, Luther","id":"per.004664"}</field>
+      <field name="person_ss">Mason, John T. (John Thomson), 1787-1850</field>
+      <field name="personID_ss">per.004640</field>
+      <field name="personData_ss">{"label":"Mason, John T. (John Thomson), 1787-1850","id":"per.004640"}</field>
+      <field name="person_ss">Shaaff, Arthur</field>
+      <field name="personID_ss">per.004762</field>
+      <field name="personData_ss">{"label":"Shaaff, Arthur","id":"per.004762"}</field>
+      <field name="plaintiff_ss">Mahoney, Charles</field>
+      <field name="plaintiffID_ss">per.004476</field>
+      <field name="plaintiffData_ss">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="defendant_ss">Ashton, John</field>
+      <field name="defendantID_ss">per.000215</field>
+      <field name="defendantData_ss">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="attorneyP_ss">Johnson, John</field>
+      <field name="attorneyPID_ss">per.004359</field>
+      <field name="attorneyPData_ss">{"label":"Johnson, John","id":"per.004359"}</field>
+      <field name="attorney_ss">Johnson, John</field>
+      <field name="attorneyID_ss">per.004359</field>
+      <field name="attorneyData_ss">{"label":"Johnson, John","id":"per.004359"}</field>
+      <field name="attorneyP_ss">Ridgely, Richard</field>
+      <field name="attorneyPID_ss">per.004663</field>
+      <field name="attorneyPData_ss">{"label":"Ridgely, Richard","id":"per.004663"}</field>
+      <field name="attorney_ss">Ridgely, Richard</field>
+      <field name="attorneyID_ss">per.004663</field>
+      <field name="attorneyData_ss">{"label":"Ridgely, Richard","id":"per.004663"}</field>
+      <field name="attorneyD_ss">Harper, Robert Goodloe, 1765-1825</field>
+      <field name="attorneyDID_ss">per.004761</field>
+      <field name="attorneyDData_ss">{"label":"Harper, Robert Goodloe, 1765-1825","id":"per.004761"}</field>
+      <field name="attorney_ss">Harper, Robert Goodloe, 1765-1825</field>
+      <field name="attorneyID_ss">per.004761</field>
+      <field name="attorneyData_ss">{"label":"Harper, Robert Goodloe, 1765-1825","id":"per.004761"}</field>
+      <field name="attorneyD_ss">Key, Philip Barton, 1757-1815</field>
+      <field name="attorneyDID_ss">per.001495</field>
+      <field name="attorneyDData_ss">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="attorney_ss">Key, Philip Barton, 1757-1815</field>
+      <field name="attorneyID_ss">per.001495</field>
+      <field name="attorneyData_ss">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="attorneyD_ss">Martin, Luther</field>
+      <field name="attorneyDID_ss">per.004664</field>
+      <field name="attorneyDData_ss">{"label":"Martin, Luther","id":"per.004664"}</field>
+      <field name="attorney_ss">Martin, Luther</field>
+      <field name="attorneyID_ss">per.004664</field>
+      <field name="attorneyData_ss">{"label":"Martin, Luther","id":"per.004664"}</field>
+      <field name="attorneyD_ss">Mason, John T. (John Thomson), 1787-1850</field>
+      <field name="attorneyDID_ss">per.004640</field>
+      <field name="attorneyDData_ss">{"label":"Mason, John T. (John Thomson), 1787-1850","id":"per.004640"}</field>
+      <field name="attorney_ss">Mason, John T. (John Thomson), 1787-1850</field>
+      <field name="attorneyID_ss">per.004640</field>
+      <field name="attorneyData_ss">{"label":"Mason, John T. (John Thomson), 1787-1850","id":"per.004640"}</field>
+      <field name="attorneyD_ss">Shaaff, Arthur</field>
+      <field name="attorneyDID_ss">per.004762</field>
+      <field name="attorneyDData_ss">{"label":"Shaaff, Arthur","id":"per.004762"}</field>
+      <field name="attorney_ss">Shaaff, Arthur</field>
+      <field name="attorneyID_ss">per.004762</field>
+      <field name="attorneyData_ss">{"label":"Shaaff, Arthur","id":"per.004762"}</field>
+      <field name="sourceTitle_s">Transcript from Court of Appeals</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1802-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0481</field>
+      <field name="documentCaseData_ss">{"label":"Charles Mahoney v. John Ashton","id":"oscys.caseid.0481"}</field>
+      <field name="jurisdiction_ss">Maryland. General Court of the Western Shore - Annapolis (Md.)</field>
+      <field name="text"> Maryland, Sct At a General Court begun and held of the State of Maryland, one of the United States of America, begun and held for the Western Shore, at the City of Annapolis, on the Second Tuesday of October being the twelfth day of the said Month in the year of our Lord one thousand eight hundred and two, and in the twenty seventh year of the Independence of the said United States Present Jeremiah Townley Chase Esquire Chief Judge The Honble Gabriel Duvall &amp; John Done Esquires Judges Henry Howard Esquire Sheriff John Gwinn Clerk In the Record of Proceedings of the same Court, amongst others is the following, to wit: Charles Mahoney vs The Revd John Ashton Be it remembered that heretofore, to wit, on the fourth day of October in the year of our Lord one thousand eight hundred and two the Clerk of the Court of Appeals by directions of the said Court of appeals, in pursuance of the act of assembly in such case made &amp; provided, returned to the Clerk of the General Court here a Transcript of the Record of proceedings with the unit of the State of Maryland of Procedends to the Judges of the General Court here directed, on a certain appeal made by a certain John Ashton from a Judgment in the General Court here rendered in a certain plaint on a petition for freedom in the General Court here preferred by a certain Charles Mahoney against the said John Ashton and wherein the General Court here rendered Judgment for the said Charles Mahoney against the said John Ashton, and from which said Judgment the said John Ashton appeared to the Court of Appeals and which said Judgment the said Court of Appeals did reverse, annul and hold entirely as void: which said writ of procedends and transcript of the Record of Proceedings aforesaid are in the words and of the tenor following, towit: Enter Writ &amp; Record And now at this day, to wit, the Second Tuesday of October being the twelfth day of the said Month in the year of our Lord one thousand eight hundred and two, come into the General Court here as well the said Charles Mahoney by Richard Ridgely and John Johnson his attornies, as the said John Ashton by Luther Martin, Philip Barton Key, John Thomson Mason, Robert Goodloe Harper and Arthur Shaaff his attornies; and the said John Ashton by his attornies aforesaid file in Court here the Depositions of Samuel Thomas Douglass and Samuel Lane and which are in form following, towit: Enter Deps No 1 &amp; 2 Whereupon this cause standing ready for trial, therefore let a Jury thereon appear before the Court here immediately, by whom &amp;c who neither &amp;c to recognize &amp;c because as Whereupon this cause standing ready for trial with the consent of the parties aforesaid by their attornies aforesaid; thereupon, for trying a new the issue aforesaid, it is ordered by the court here, that twelve persons from the pannel of petit Jurors returned to the Court here by the several Sheriffs of the different counties of the Western Shore, be drawn by ballot; and thereupon the twelve persons being so drawn by ballot and called come that is to say as well &amp;c who being drawn by ballot and called come; that is to say Thomas Hilleary Lyles, Edward Beall, Charles McCauley, Thomas Beard, Thomas T. Simmons, Samuel Lane Smith, Daniel Nead, Robert Wilkinson, Henry Leatherman, Christopher Burkhart, Henry C. Neale, and John Hannah, Whereupon certain of them, to wit, Thomas T. Simmons, Daniel Nead and Christopher Burkhart are sworn upon that Jury; and because the others of the said Jurors persons being being according to the Act of Assembly challenged by the parties, to wit, the said Thomas Hilleary Lyles, Samuel Lane Smith and Henry C. Neale on the part of the petitioner, and the said Edward Beall, Charles McCauley, Thomas Beard, Robert Wilkinson, Henry Leatherman and John Hannah on the part of the Defendant other Jurors being called other persons being drawn by ballot and called likewise came; that is to say William Billingslea, Benjamin White Jones, Nicholas Griffith, Samuel Richardson, James Amos of James, Ignatius Middleton, Thomas Barber, George Page and Abraham Albaugh; Whereupon certain of them, to with the said Benjamin White Jones, Nicholas Griffith and Abraham Albaugh are likewise Sworn upon that Jury; and because the others of the said Jurors persons last called as aforesaid, being according to the act of assembly challenged by the parties aforesaid, towit the said Ignatius Middleton, Samuel Thomas Barber and George Page on the part of the petitioner and the said William Billingslea, Samuel Richardson &amp; James Amos of James on the part of the Defendant, other Jurors persons being called drawn by ballot and called likewise come; that is to say, Mordecai Smith, Aquila McComas, Jacob Ridgely, David Hoffman, Alexander Crain and Thomas Woodward Whereupon certain of them, towit the said Aquila McComas Jacob Ridgely and David Hoffman are likewise sworn upon that Jury; and because the others of the said Jurors persons persons last called as aforesaid to with the said Mordecai Smith, Alexander Crain and Thomas Woodward being, according to the Act of Assembly, challenged by the said on the part of the petitioner, other Jurors persons drawn by ballot being drawn by Ballot and called likewise come; that is to say John Hesselius, James Alexander Magruder and Peter Little, Whereupon the said John Hesselius is likewise sworn upon that Jury; and because the others of the said Jurors persons last called as aforesaid being, according to the Act of Assembly, challenged by the parties aforesaid, to wit, the said James Alexander Magruder on the part of the petitioner and the said Peter Little on the part of the Defendant, other Jurors persons being drawn by Ballot and called likewise come, that is to say Zachariah Duvall and Francis Boucher Franklin; and because the said Jurors persons last called as aforesaid, being according to the act of assembly challenged by the parties aforesaid, to wit, the said Zachariah Duvall on the part of the Defendant and the said Francis Boucher Franklin on the part of the petitioner, the only person remaining on the pannel of Jurors so returned by the Sheriffs as aforesaid being drawn by Ballot and called likewise comes, that is to to say Samuel Tyler Junior; whereupon the said Samuel Tyler Junior is likewise sworn upon that Jury; and because a sufficient number of Jurors persons so returned by the Sheriffs aforesaid not being present to complete the said pannel, therefore others three persons of the bystanders, by the Sheriff of the County of Anne Arundel elected at the request of the said petitioner and the said Defendant, and by command of the Court here, are added to the said pannel, whose names to the pannel within written are annexed, according to the form of the Statute in such case made and provided; and the Jurors one of which of the said persons so added anew being drawn by ballot and called, comes likewise tow that is to say Lewis Duvall and because the said Lewis Duvall being according to the act of assembly challenged on the part of the Defendant, another of the Jurors persons so added anew being drawn by ballot and called likewise comes, that is to say Lancelot Warfield; and because the said Lancelot Warfield being according to the act of assembly challenged on the part of the petitioner, the other Juror person so added a new being drawn by ballot and called likewise comes, that is to say Abner Craine; whereupon the said Abner Craine is likewise sworn upon that Jury; and the Jurors of the the Jury whereof mention is within made on their Oath do say being elected, tried and sworn as aforesaid, on their oath do say that the said Charles Mahoney is not a free man and of free condition, as the said John Ashton Charles Mahoney at within by pleading hath alleged; Therefore it is considered by the Court here that the said Charles Mahoney take nothing by his petition aforesaid, but return to the service of the said John Ashton thereto to remain until &amp;ca and that the said John Ashton go thereof without day &amp;ca Memorandum. At the trial of this Cause the Honorable Gabriel Duvall Esquire withdrew from the Bench Test John Gwinn Clerk 12 Sds </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0481</field>
+      <field name="person_ss" update="add">Albaugh, Abraham</field>
+      <field name="personID_ss" update="add">per.004784</field>
+      <field name="personData_ss" update="add">{"label":"Albaugh, Abraham","id":"per.004784"}</field>
+      <field name="person_ss" update="add">Amos, James</field>
+      <field name="personID_ss" update="add">per.004781</field>
+      <field name="personData_ss" update="add">{"label":"Amos, James","id":"per.004781"}</field>
+      <field name="person_ss" update="add">Barber, Thomas</field>
+      <field name="personID_ss" update="add">per.004480</field>
+      <field name="personData_ss" update="add">{"label":"Barber, Thomas","id":"per.004480"}</field>
+      <field name="person_ss" update="add">Beall, Edward</field>
+      <field name="personID_ss" update="add">per.004766</field>
+      <field name="personData_ss" update="add">{"label":"Beall, Edward","id":"per.004766"}</field>
+      <field name="person_ss" update="add">Beard, Thomas</field>
+      <field name="personID_ss" update="add">per.004768</field>
+      <field name="personData_ss" update="add">{"label":"Beard, Thomas","id":"per.004768"}</field>
+      <field name="person_ss" update="add">Billingslea, William</field>
+      <field name="personID_ss" update="add">per.004777</field>
+      <field name="personData_ss" update="add">{"label":"Billingslea, William","id":"per.004777"}</field>
+      <field name="person_ss" update="add">Burkhart, Christopher</field>
+      <field name="personID_ss" update="add">per.004774</field>
+      <field name="personData_ss" update="add">{"label":"Burkhart, Christopher","id":"per.004774"}</field>
+      <field name="person_ss" update="add">Crain, Abner</field>
+      <field name="personID_ss" update="add">per.004754</field>
+      <field name="personData_ss" update="add">{"label":"Crain, Abner","id":"per.004754"}</field>
+      <field name="person_ss" update="add">Crain, Alexander</field>
+      <field name="personID_ss" update="add">per.004789</field>
+      <field name="personData_ss" update="add">{"label":"Crain, Alexander","id":"per.004789"}</field>
+      <field name="person_ss" update="add">Douglass, Samuel</field>
+      <field name="personID_ss" update="add">per.004763</field>
+      <field name="personData_ss" update="add">{"label":"Douglass, Samuel","id":"per.004763"}</field>
+      <field name="person_ss" update="add">Duvall, Gabriel, 1752-1844</field>
+      <field name="personID_ss" update="add">per.001393</field>
+      <field name="personData_ss" update="add">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="person_ss" update="add">Duvall, Lewis</field>
+      <field name="personID_ss" update="add">per.004753</field>
+      <field name="personData_ss" update="add">{"label":"Duvall, Lewis","id":"per.004753"}</field>
+      <field name="person_ss" update="add">Duvall, Zachariah</field>
+      <field name="personID_ss" update="add">per.004794</field>
+      <field name="personData_ss" update="add">{"label":"Duvall, Zachariah","id":"per.004794"}</field>
+      <field name="person_ss" update="add">Franklin, Francis Boucher</field>
+      <field name="personID_ss" update="add">per.004795</field>
+      <field name="personData_ss" update="add">{"label":"Franklin, Francis Boucher","id":"per.004795"}</field>
+      <field name="person_ss" update="add">Griffith, Nicholas</field>
+      <field name="personID_ss" update="add">per.004779</field>
+      <field name="personData_ss" update="add">{"label":"Griffith, Nicholas","id":"per.004779"}</field>
+      <field name="person_ss" update="add">Gwinn, John</field>
+      <field name="personID_ss" update="add">per.001493</field>
+      <field name="personData_ss" update="add">{"label":"Gwinn, John","id":"per.001493"}</field>
+      <field name="person_ss" update="add">Hannah, John</field>
+      <field name="personID_ss" update="add">per.004776</field>
+      <field name="personData_ss" update="add">{"label":"Hannah, John","id":"per.004776"}</field>
+      <field name="person_ss" update="add">Hesselius, John</field>
+      <field name="personID_ss" update="add">per.004791</field>
+      <field name="personData_ss" update="add">{"label":"Hesselius, John","id":"per.004791"}</field>
+      <field name="person_ss" update="add">Hoffman, David</field>
+      <field name="personID_ss" update="add">per.004788</field>
+      <field name="personData_ss" update="add">{"label":"Hoffman, David","id":"per.004788"}</field>
+      <field name="person_ss" update="add">Jones, Benjamin White</field>
+      <field name="personID_ss" update="add">per.004778</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Benjamin White","id":"per.004778"}</field>
+      <field name="person_ss" update="add">Lane, Thomas</field>
+      <field name="personID_ss" update="add">per.004764</field>
+      <field name="personData_ss" update="add">{"label":"Lane, Thomas","id":"per.004764"}</field>
+      <field name="person_ss" update="add">Leatherman, Henry</field>
+      <field name="personID_ss" update="add">per.004773</field>
+      <field name="personData_ss" update="add">{"label":"Leatherman, Henry","id":"per.004773"}</field>
+      <field name="person_ss" update="add">Little, Peter</field>
+      <field name="personID_ss" update="add">per.004793</field>
+      <field name="personData_ss" update="add">{"label":"Little, Peter","id":"per.004793"}</field>
+      <field name="person_ss" update="add">Lyles, Thomas Hilleary</field>
+      <field name="personID_ss" update="add">per.004765</field>
+      <field name="personData_ss" update="add">{"label":"Lyles, Thomas Hilleary","id":"per.004765"}</field>
+      <field name="person_ss" update="add">Magruder, James Alexander</field>
+      <field name="personID_ss" update="add">per.004792</field>
+      <field name="personData_ss" update="add">{"label":"Magruder, James Alexander","id":"per.004792"}</field>
+      <field name="person_ss" update="add">McCauley, Charles</field>
+      <field name="personID_ss" update="add">per.004767</field>
+      <field name="personData_ss" update="add">{"label":"McCauley, Charles","id":"per.004767"}</field>
+      <field name="person_ss" update="add">McComas, Aquila</field>
+      <field name="personID_ss" update="add">per.004786</field>
+      <field name="personData_ss" update="add">{"label":"McComas, Aquila","id":"per.004786"}</field>
+      <field name="person_ss" update="add">Middleton, Ignatius</field>
+      <field name="personID_ss" update="add">per.004782</field>
+      <field name="personData_ss" update="add">{"label":"Middleton, Ignatius","id":"per.004782"}</field>
+      <field name="person_ss" update="add">Nead, Daniel</field>
+      <field name="personID_ss" update="add">per.004771</field>
+      <field name="personData_ss" update="add">{"label":"Nead, Daniel","id":"per.004771"}</field>
+      <field name="person_ss" update="add">Neale, Henry C.</field>
+      <field name="personID_ss" update="add">per.004775</field>
+      <field name="personData_ss" update="add">{"label":"Neale, Henry C.","id":"per.004775"}</field>
+      <field name="person_ss" update="add">Page, George</field>
+      <field name="personID_ss" update="add">per.004783</field>
+      <field name="personData_ss" update="add">{"label":"Page, George","id":"per.004783"}</field>
+      <field name="person_ss" update="add">Richardson, Samuel</field>
+      <field name="personID_ss" update="add">per.004780</field>
+      <field name="personData_ss" update="add">{"label":"Richardson, Samuel","id":"per.004780"}</field>
+      <field name="person_ss" update="add">Ridgely, Jacob</field>
+      <field name="personID_ss" update="add">per.004787</field>
+      <field name="personData_ss" update="add">{"label":"Ridgely, Jacob","id":"per.004787"}</field>
+      <field name="person_ss" update="add">Simmons, Thomas T.</field>
+      <field name="personID_ss" update="add">per.004769</field>
+      <field name="personData_ss" update="add">{"label":"Simmons, Thomas T.","id":"per.004769"}</field>
+      <field name="person_ss" update="add">Smith, Mordecai</field>
+      <field name="personID_ss" update="add">per.004785</field>
+      <field name="personData_ss" update="add">{"label":"Smith, Mordecai","id":"per.004785"}</field>
+      <field name="person_ss" update="add">Smith, Samuel Lane</field>
+      <field name="personID_ss" update="add">per.004770</field>
+      <field name="personData_ss" update="add">{"label":"Smith, Samuel Lane","id":"per.004770"}</field>
+      <field name="person_ss" update="add">Tyler, Samuel, Jr.</field>
+      <field name="personID_ss" update="add">per.004796</field>
+      <field name="personData_ss" update="add">{"label":"Tyler, Samuel, Jr.","id":"per.004796"}</field>
+      <field name="person_ss" update="add">Warfield, Lancelot, Sr.</field>
+      <field name="personID_ss" update="add">per.004752</field>
+      <field name="personData_ss" update="add">{"label":"Warfield, Lancelot, Sr.","id":"per.004752"}</field>
+      <field name="person_ss" update="add">Wilkinson, Robert</field>
+      <field name="personID_ss" update="add">per.004772</field>
+      <field name="personData_ss" update="add">{"label":"Wilkinson, Robert","id":"per.004772"}</field>
+      <field name="person_ss" update="add">Woodward, Thomas</field>
+      <field name="personID_ss" update="add">per.004790</field>
+      <field name="personData_ss" update="add">{"label":"Woodward, Thomas","id":"per.004790"}</field>
+      <field name="person_ss" update="add">Mahoney, Charles</field>
+      <field name="personID_ss" update="add">per.004476</field>
+      <field name="personData_ss" update="add">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="person_ss" update="add">Ashton, John</field>
+      <field name="personID_ss" update="add">per.000215</field>
+      <field name="personData_ss" update="add">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="person_ss" update="add">Johnson, John</field>
+      <field name="personID_ss" update="add">per.004359</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, John","id":"per.004359"}</field>
+      <field name="person_ss" update="add">Ridgely, Richard</field>
+      <field name="personID_ss" update="add">per.004663</field>
+      <field name="personData_ss" update="add">{"label":"Ridgely, Richard","id":"per.004663"}</field>
+      <field name="person_ss" update="add">Harper, Robert Goodloe, 1765-1825</field>
+      <field name="personID_ss" update="add">per.004761</field>
+      <field name="personData_ss" update="add">{"label":"Harper, Robert Goodloe, 1765-1825","id":"per.004761"}</field>
+      <field name="person_ss" update="add">Key, Philip Barton, 1757-1815</field>
+      <field name="personID_ss" update="add">per.001495</field>
+      <field name="personData_ss" update="add">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="person_ss" update="add">Martin, Luther</field>
+      <field name="personID_ss" update="add">per.004664</field>
+      <field name="personData_ss" update="add">{"label":"Martin, Luther","id":"per.004664"}</field>
+      <field name="person_ss" update="add">Mason, John T. (John Thomson), 1787-1850</field>
+      <field name="personID_ss" update="add">per.004640</field>
+      <field name="personData_ss" update="add">{"label":"Mason, John T. (John Thomson), 1787-1850","id":"per.004640"}</field>
+      <field name="person_ss" update="add">Shaaff, Arthur</field>
+      <field name="personID_ss" update="add">per.004762</field>
+      <field name="personData_ss" update="add">{"label":"Shaaff, Arthur","id":"per.004762"}</field>
+      <field name="plaintiff_ss" update="add">Mahoney, Charles</field>
+      <field name="plaintiffID_ss" update="add">per.004476</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="defendant_ss" update="add">Ashton, John</field>
+      <field name="defendantID_ss" update="add">per.000215</field>
+      <field name="defendantData_ss" update="add">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="attorneyP_ss" update="add">Johnson, John</field>
+      <field name="attorneyPID_ss" update="add">per.004359</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Johnson, John","id":"per.004359"}</field>
+      <field name="attorney_ss" update="add">Johnson, John</field>
+      <field name="attorneyID_ss" update="add">per.004359</field>
+      <field name="attorneyData_ss" update="add">{"label":"Johnson, John","id":"per.004359"}</field>
+      <field name="attorneyP_ss" update="add">Ridgely, Richard</field>
+      <field name="attorneyPID_ss" update="add">per.004663</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Ridgely, Richard","id":"per.004663"}</field>
+      <field name="attorney_ss" update="add">Ridgely, Richard</field>
+      <field name="attorneyID_ss" update="add">per.004663</field>
+      <field name="attorneyData_ss" update="add">{"label":"Ridgely, Richard","id":"per.004663"}</field>
+      <field name="attorneyD_ss" update="add">Harper, Robert Goodloe, 1765-1825</field>
+      <field name="attorneyDID_ss" update="add">per.004761</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Harper, Robert Goodloe, 1765-1825","id":"per.004761"}</field>
+      <field name="attorney_ss" update="add">Harper, Robert Goodloe, 1765-1825</field>
+      <field name="attorneyID_ss" update="add">per.004761</field>
+      <field name="attorneyData_ss" update="add">{"label":"Harper, Robert Goodloe, 1765-1825","id":"per.004761"}</field>
+      <field name="attorneyD_ss" update="add">Key, Philip Barton, 1757-1815</field>
+      <field name="attorneyDID_ss" update="add">per.001495</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="attorney_ss" update="add">Key, Philip Barton, 1757-1815</field>
+      <field name="attorneyID_ss" update="add">per.001495</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="attorneyD_ss" update="add">Martin, Luther</field>
+      <field name="attorneyDID_ss" update="add">per.004664</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Martin, Luther","id":"per.004664"}</field>
+      <field name="attorney_ss" update="add">Martin, Luther</field>
+      <field name="attorneyID_ss" update="add">per.004664</field>
+      <field name="attorneyData_ss" update="add">{"label":"Martin, Luther","id":"per.004664"}</field>
+      <field name="attorneyD_ss" update="add">Mason, John T. (John Thomson), 1787-1850</field>
+      <field name="attorneyDID_ss" update="add">per.004640</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Mason, John T. (John Thomson), 1787-1850","id":"per.004640"}</field>
+      <field name="attorney_ss" update="add">Mason, John T. (John Thomson), 1787-1850</field>
+      <field name="attorneyID_ss" update="add">per.004640</field>
+      <field name="attorneyData_ss" update="add">{"label":"Mason, John T. (John Thomson), 1787-1850","id":"per.004640"}</field>
+      <field name="attorneyD_ss" update="add">Shaaff, Arthur</field>
+      <field name="attorneyDID_ss" update="add">per.004762</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Shaaff, Arthur","id":"per.004762"}</field>
+      <field name="attorney_ss" update="add">Shaaff, Arthur</field>
+      <field name="attorneyID_ss" update="add">per.004762</field>
+      <field name="attorneyData_ss" update="add">{"label":"Shaaff, Arthur","id":"per.004762"}</field>
+      <field name="jurisdiction_ss" update="add">Maryland. General Court of the Western Shore - Annapolis (Md.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.mdcase.0008.051</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Charles Mahoney v. John Ashton. Transcript from Court of Appeals (October 4, 1802)","date":"1802-10-04","dateDisplay":"October 4, 1802","id":"oscys.mdcase.0008.051"}</field>
+   </doc>
+</add>

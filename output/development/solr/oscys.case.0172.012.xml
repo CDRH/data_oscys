@@ -1,0 +1,72 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0172.012</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0172.012.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0172.012.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0172.012.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Mary Bell v. Susan Armistead. Defendant's Jury Instructions</field>
+      <field name="titleSort" update="add">mary bell v. susan armistead. defendant's jury instructions</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="contributor"/>
+      <field name="date">1847-12-06T00:00:00Z</field>
+      <field name="dateDisplay">December 6, 1847</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 718, Folder 96</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Jury Instructions</field>
+      <field name="people">Armistead, Robert</field>
+      <field name="people">Bell, Mary</field>
+      <field name="people">Armistead, Susan</field>
+      <field name="person_ss">Armistead, Robert</field>
+      <field name="personID_ss">per.001255</field>
+      <field name="personData_ss">{"label":"Armistead, Robert","id":"per.001255"}</field>
+      <field name="person_ss">Bell, Mary</field>
+      <field name="personID_ss">per.001253</field>
+      <field name="personData_ss">{"label":"Bell, Mary","id":"per.001253"}</field>
+      <field name="person_ss">Armistead, Susan</field>
+      <field name="personID_ss">per.001254</field>
+      <field name="personData_ss">{"label":"Armistead, Susan","id":"per.001254"}</field>
+      <field name="plaintiff_ss">Bell, Mary</field>
+      <field name="plaintiffID_ss">per.001253</field>
+      <field name="plaintiffData_ss">{"label":"Bell, Mary","id":"per.001253"}</field>
+      <field name="defendant_ss">Armistead, Susan</field>
+      <field name="defendantID_ss">per.001254</field>
+      <field name="defendantData_ss">{"label":"Armistead, Susan","id":"per.001254"}</field>
+      <field name="sourceTitle_s">Jury Instructions</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1848-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0174</field>
+      <field name="documentCaseData_ss">{"label":"Mary Bell v. Susan Armistead","id":"oscys.caseid.0174"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Defendants 1st Instruction If the Jury believe from the evidence that Robert Armistead was at any time, prior to the execution of the said deed of manumission of unsound mind, and incapable of disposing of his property with understanding &amp; reason, then the Law presumes he continued in such condition, and the burthen of proving that his mind was sound &amp; he capable of disposing of his property with understanding &amp; reason at the time of the execution of the said deed is thrown upon the Petitioner and it will not do to prove merely that he was at that time capable of understanding &amp; answering rationally, familiar &amp; usual questions. But the Court do not thereby mean to say that that the Petitioner is bound to introduce any new, further, or substantive proof of these facts, and they learn the whole evidence aforesaid to the Jury from which they are to infer and find whether at the time of the execution of the said deed he had that degree of capacity mentioned in the instructions given, at the instance of the Petitioner Which instruction the Court gave with the qualification thereto annexed. And Defendant Excepts agreed 6 Decr 1857 &amp; excepted to the qualification. qualification excepted to Defts prayers for Instructions to Jury </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0174</field>
+      <field name="person_ss" update="add">Armistead, Robert</field>
+      <field name="personID_ss" update="add">per.001255</field>
+      <field name="personData_ss" update="add">{"label":"Armistead, Robert","id":"per.001255"}</field>
+      <field name="person_ss" update="add">Bell, Mary</field>
+      <field name="personID_ss" update="add">per.001253</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Mary","id":"per.001253"}</field>
+      <field name="person_ss" update="add">Armistead, Susan</field>
+      <field name="personID_ss" update="add">per.001254</field>
+      <field name="personData_ss" update="add">{"label":"Armistead, Susan","id":"per.001254"}</field>
+      <field name="plaintiff_ss" update="add">Bell, Mary</field>
+      <field name="plaintiffID_ss" update="add">per.001253</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, Mary","id":"per.001253"}</field>
+      <field name="defendant_ss" update="add">Armistead, Susan</field>
+      <field name="defendantID_ss" update="add">per.001254</field>
+      <field name="defendantData_ss" update="add">{"label":"Armistead, Susan","id":"per.001254"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0172.012</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Mary Bell v. Susan Armistead. Defendant's Jury Instructions (December 6, 1847)","date":"1847-12-06","dateDisplay":"December 6, 1847","id":"oscys.case.0172.012"}</field>
+   </doc>
+</add>

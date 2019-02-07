@@ -1,0 +1,103 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0125.006</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0125.006.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0125.006.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0125.006.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Emanuel Gilbert v. Horatio M. Ward. Docket Sheet</field>
+      <field name="titleSort" update="add">emanuel gilbert v. horatio m. ward. docket sheet</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="contributor"/>
+      <field name="date">1830-12-01T00:00:00Z</field>
+      <field name="dateDisplay">December 1830</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 465, Folder 329</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Docket</field>
+      <field name="people">Gilbert, Emanuel</field>
+      <field name="people">Ward, Horatio M.</field>
+      <field name="people">Wallach, Richard</field>
+      <field name="people">Tabbs</field>
+      <field name="person_ss">Gilbert, Emanuel</field>
+      <field name="personID_ss">per.000982</field>
+      <field name="personData_ss">{"label":"Gilbert, Emanuel","id":"per.000982"}</field>
+      <field name="person_ss">Ward, Horatio M.</field>
+      <field name="personID_ss">per.000983</field>
+      <field name="personData_ss">{"label":"Ward, Horatio M.","id":"per.000983"}</field>
+      <field name="person_ss">Wallach, Richard</field>
+      <field name="personID_ss">per.000464</field>
+      <field name="personData_ss">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="person_ss">Tabbs</field>
+      <field name="personID_ss">per.004304</field>
+      <field name="personData_ss">{"label":"Tabbs","id":"per.004304"}</field>
+      <field name="plaintiff_ss">Gilbert, Emanuel</field>
+      <field name="plaintiffID_ss">per.000982</field>
+      <field name="plaintiffData_ss">{"label":"Gilbert, Emanuel","id":"per.000982"}</field>
+      <field name="defendant_ss">Ward, Horatio M.</field>
+      <field name="defendantID_ss">per.000983</field>
+      <field name="defendantData_ss">{"label":"Ward, Horatio M.","id":"per.000983"}</field>
+      <field name="attorneyP_ss">Wallach, Richard</field>
+      <field name="attorneyPID_ss">per.000464</field>
+      <field name="attorneyPData_ss">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="attorney_ss">Wallach, Richard</field>
+      <field name="attorneyID_ss">per.000464</field>
+      <field name="attorneyData_ss">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="attorneyD_ss">Tabbs</field>
+      <field name="attorneyDID_ss">per.004304</field>
+      <field name="attorneyDData_ss">{"label":"Tabbs","id":"per.004304"}</field>
+      <field name="attorney_ss">Tabbs</field>
+      <field name="attorneyID_ss">per.004304</field>
+      <field name="attorneyData_ss">{"label":"Tabbs","id":"per.004304"}</field>
+      <field name="sourceTitle_s">Docket Sheet</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1831-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0125</field>
+      <field name="documentCaseData_ss">{"label":"Emanuel Gilbert v. Horatio M. Ward","id":"oscys.caseid.0125"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Emanuel Gilbert Wallh. vs Horatio M Ward Tabbs. 445 apps Dec 1830. Petn for freedom servd. 348 Imps May 1831. not &amp; issue Jury sworn Verdt for Petr Mo for new trial - afft 329. Tri Dec '31 Mo overrulted &amp; Judgt on Verdict. cost $12.60 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0125</field>
+      <field name="person_ss" update="add">Gilbert, Emanuel</field>
+      <field name="personID_ss" update="add">per.000982</field>
+      <field name="personData_ss" update="add">{"label":"Gilbert, Emanuel","id":"per.000982"}</field>
+      <field name="person_ss" update="add">Ward, Horatio M.</field>
+      <field name="personID_ss" update="add">per.000983</field>
+      <field name="personData_ss" update="add">{"label":"Ward, Horatio M.","id":"per.000983"}</field>
+      <field name="person_ss" update="add">Wallach, Richard</field>
+      <field name="personID_ss" update="add">per.000464</field>
+      <field name="personData_ss" update="add">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="person_ss" update="add">Tabbs</field>
+      <field name="personID_ss" update="add">per.004304</field>
+      <field name="personData_ss" update="add">{"label":"Tabbs","id":"per.004304"}</field>
+      <field name="plaintiff_ss" update="add">Gilbert, Emanuel</field>
+      <field name="plaintiffID_ss" update="add">per.000982</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gilbert, Emanuel","id":"per.000982"}</field>
+      <field name="defendant_ss" update="add">Ward, Horatio M.</field>
+      <field name="defendantID_ss" update="add">per.000983</field>
+      <field name="defendantData_ss" update="add">{"label":"Ward, Horatio M.","id":"per.000983"}</field>
+      <field name="attorneyP_ss" update="add">Wallach, Richard</field>
+      <field name="attorneyPID_ss" update="add">per.000464</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="attorney_ss" update="add">Wallach, Richard</field>
+      <field name="attorneyID_ss" update="add">per.000464</field>
+      <field name="attorneyData_ss" update="add">{"label":"Wallach, Richard","id":"per.000464"}</field>
+      <field name="attorneyD_ss" update="add">Tabbs</field>
+      <field name="attorneyDID_ss" update="add">per.004304</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Tabbs","id":"per.004304"}</field>
+      <field name="attorney_ss" update="add">Tabbs</field>
+      <field name="attorneyID_ss" update="add">per.004304</field>
+      <field name="attorneyData_ss" update="add">{"label":"Tabbs","id":"per.004304"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0125.006</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Emanuel Gilbert v. Horatio M. Ward. Docket Sheet (December, 1830)","date":"1830-12","dateDisplay":"December, 1830","id":"oscys.case.0125.006"}</field>
+   </doc>
+</add>

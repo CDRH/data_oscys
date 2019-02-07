@@ -1,0 +1,105 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0230.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0230.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0230.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0230.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Edward Chase v. Thomas Greenfield. Petition for Freedom</field>
+      <field name="titleSort" update="add">edward chase v. thomas greenfield. petition for freedom</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="contributor"/>
+      <field name="date">1849-06-28T00:00:00Z</field>
+      <field name="dateDisplay">June 28, 1849</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 733, Folder 54</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Chase, Edward</field>
+      <field name="people">Greenfield, Thomas</field>
+      <field name="people">Wallach, Charles S.</field>
+      <field name="people">Williams</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Chase, Edward</field>
+      <field name="personID_ss">per.001815</field>
+      <field name="personData_ss">{"label":"Chase, Edward","id":"per.001815"}</field>
+      <field name="person_ss">Greenfield, Thomas</field>
+      <field name="personID_ss">per.004431</field>
+      <field name="personData_ss">{"label":"Greenfield, Thomas","id":"per.004431"}</field>
+      <field name="person_ss">Wallach, Charles S.</field>
+      <field name="personID_ss">per.000851</field>
+      <field name="personData_ss">{"label":"Wallach, Charles S.","id":"per.000851"}</field>
+      <field name="person_ss">Williams</field>
+      <field name="personID_ss">per.001817</field>
+      <field name="personData_ss">{"label":"Williams","id":"per.001817"}</field>
+      <field name="plaintiff_ss">Chase, Edward</field>
+      <field name="plaintiffID_ss">per.001815</field>
+      <field name="plaintiffData_ss">{"label":"Chase, Edward","id":"per.001815"}</field>
+      <field name="defendant_ss">Greenfield, Thomas</field>
+      <field name="defendantID_ss">per.004431</field>
+      <field name="defendantData_ss">{"label":"Greenfield, Thomas","id":"per.004431"}</field>
+      <field name="attorneyP_ss">Wallach, Charles S.</field>
+      <field name="attorneyPID_ss">per.000851</field>
+      <field name="attorneyPData_ss">{"label":"Wallach, Charles S.","id":"per.000851"}</field>
+      <field name="attorney_ss">Wallach, Charles S.</field>
+      <field name="attorneyID_ss">per.000851</field>
+      <field name="attorneyData_ss">{"label":"Wallach, Charles S.","id":"per.000851"}</field>
+      <field name="attorneyP_ss">Williams</field>
+      <field name="attorneyPID_ss">per.001817</field>
+      <field name="attorneyPData_ss">{"label":"Williams","id":"per.001817"}</field>
+      <field name="attorney_ss">Williams</field>
+      <field name="attorneyID_ss">per.001817</field>
+      <field name="attorneyData_ss">{"label":"Williams","id":"per.001817"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1849-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0235</field>
+      <field name="documentCaseData_ss">{"label":"Edward Chase v. Thomas Greenfield","id":"oscys.caseid.0235"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the judges of the Circuit Court of the District of Columbia for the County of Washington &amp;c. The petition of Edward Chase of the City of Washington and District aforesaid humbly represents that he is entitled to his freedom but that he is now held, illegally, in slavery by one Thomas Greenfield and prays your honors that the matter may be enquired into &amp;c. And as in duty bound &amp;c. Williams &amp; Wallach for the Petitioner 54. Edward Chase vs Thomas Greenfield Petition for Freedom Filed 28th June 1849 Williams &amp; Wallach </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0235</field>
+      <field name="person_ss" update="add">Chase, Edward</field>
+      <field name="personID_ss" update="add">per.001815</field>
+      <field name="personData_ss" update="add">{"label":"Chase, Edward","id":"per.001815"}</field>
+      <field name="person_ss" update="add">Greenfield, Thomas</field>
+      <field name="personID_ss" update="add">per.004431</field>
+      <field name="personData_ss" update="add">{"label":"Greenfield, Thomas","id":"per.004431"}</field>
+      <field name="person_ss" update="add">Wallach, Charles S.</field>
+      <field name="personID_ss" update="add">per.000851</field>
+      <field name="personData_ss" update="add">{"label":"Wallach, Charles S.","id":"per.000851"}</field>
+      <field name="person_ss" update="add">Williams</field>
+      <field name="personID_ss" update="add">per.001817</field>
+      <field name="personData_ss" update="add">{"label":"Williams","id":"per.001817"}</field>
+      <field name="plaintiff_ss" update="add">Chase, Edward</field>
+      <field name="plaintiffID_ss" update="add">per.001815</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Chase, Edward","id":"per.001815"}</field>
+      <field name="defendant_ss" update="add">Greenfield, Thomas</field>
+      <field name="defendantID_ss" update="add">per.004431</field>
+      <field name="defendantData_ss" update="add">{"label":"Greenfield, Thomas","id":"per.004431"}</field>
+      <field name="attorneyP_ss" update="add">Wallach, Charles S.</field>
+      <field name="attorneyPID_ss" update="add">per.000851</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Wallach, Charles S.","id":"per.000851"}</field>
+      <field name="attorney_ss" update="add">Wallach, Charles S.</field>
+      <field name="attorneyID_ss" update="add">per.000851</field>
+      <field name="attorneyData_ss" update="add">{"label":"Wallach, Charles S.","id":"per.000851"}</field>
+      <field name="attorneyP_ss" update="add">Williams</field>
+      <field name="attorneyPID_ss" update="add">per.001817</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Williams","id":"per.001817"}</field>
+      <field name="attorney_ss" update="add">Williams</field>
+      <field name="attorneyID_ss" update="add">per.001817</field>
+      <field name="attorneyData_ss" update="add">{"label":"Williams","id":"per.001817"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0230.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Edward Chase v. Thomas Greenfield. Petition for Freedom (June 28, 1849)","date":"1849-06-28","dateDisplay":"June 28, 1849","id":"oscys.case.0230.002"}</field>
+   </doc>
+</add>

@@ -1,0 +1,69 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0028.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0028.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0028.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0028.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Richard B. Alexander v. Moses Graham. Supreme Court Report</field>
+      <field name="titleSort" update="add">richard b. alexander v. moses graham. supreme court report</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="publisher">T. &amp; J. W. Johnson, Law Booksellers</field>
+      <field name="contributor"/>
+      <field name="date">1843-01-01T00:00:00Z</field>
+      <field name="dateDisplay">January 1843</field>
+      <field name="format">manuscript</field>
+      <field name="source">Benjamin C. Howard, Reports of Cases Argued and Adjudged in the Supreme Court of the United States, January Term, 1843, Volume I., Philadelphia: T. &amp; J. W. Johnson, Law Booksellers (1843) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Graham, Moses</field>
+      <field name="people">Alexander, Richard B.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Graham, Moses</field>
+      <field name="personID_ss">per.001342</field>
+      <field name="personData_ss">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="person_ss">Alexander, Richard B.</field>
+      <field name="personID_ss">per.001343</field>
+      <field name="personData_ss">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="plaintiff_ss">Graham, Moses</field>
+      <field name="plaintiffID_ss">per.001342</field>
+      <field name="plaintiffData_ss">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="defendant_ss">Alexander, Richard B.</field>
+      <field name="defendantID_ss">per.001343</field>
+      <field name="defendantData_ss">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="sourceTitle_s">Reports of Cases Argued and Adjudged in the Supreme Court of the United States, January Term, 1843</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1843-01</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0181</field>
+      <field name="documentCaseData_ss">{"label":"Moses Graham v. Richard B. Alexander","id":"oscys.caseid.0181"}</field>
+      <field name="jurisdiction_ss">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="text"> Richard B. Alexander, Plaintiff in error, v. Moses Graham, Defendant in error. In error to the Circuit Court of the United States for the District of Columbia, in and for the county of Washington. The plaintiff in error having filed an order in writing, directing the clerk to dismiss this suit, it is thereupon now, here, considered, ordered, and adjudged by this court, that this writ of error be and the same is hereby dismissed with costs. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0181</field>
+      <field update="add" name="outcomeData_ss">{"label":"Dismissed","date":"1843-01","dateDisplay":"January 1843","id":"oscys.report.0028.001"}</field>
+      <field update="add" name="outcome_ss">Dismissed</field>
+      <field name="person_ss" update="add">Graham, Moses</field>
+      <field name="personID_ss" update="add">per.001342</field>
+      <field name="personData_ss" update="add">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="person_ss" update="add">Alexander, Richard B.</field>
+      <field name="personID_ss" update="add">per.001343</field>
+      <field name="personData_ss" update="add">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="plaintiff_ss" update="add">Graham, Moses</field>
+      <field name="plaintiffID_ss" update="add">per.001342</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="defendant_ss" update="add">Alexander, Richard B.</field>
+      <field name="defendantID_ss" update="add">per.001343</field>
+      <field name="defendantData_ss" update="add">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0028.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Richard B. Alexander v. Moses Graham. Supreme Court Report (January, 1843)","date":"1843-01","dateDisplay":"January, 1843","id":"oscys.report.0028.001"}</field>
+   </doc>
+</add>

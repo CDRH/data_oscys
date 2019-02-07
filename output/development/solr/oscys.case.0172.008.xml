@@ -1,0 +1,73 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0172.008</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0172.008.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0172.008.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0172.008.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Mary Bell v. Susan Armistead. Certificate of Freedom</field>
+      <field name="titleSort" update="add">mary bell v. susan armistead. certificate of freedom</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="contributor"/>
+      <field name="date">1843-10-18T00:00:00Z</field>
+      <field name="dateDisplay">October 18, 1843</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 718, Folder 96</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Exhibit</field>
+      <field name="people">Wiltberger, Charles H.</field>
+      <field name="people">Bell, Mary</field>
+      <field name="people">Armistead, Susan</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Wiltberger, Charles H.</field>
+      <field name="personID_ss">per.001262</field>
+      <field name="personData_ss">{"label":"Wiltberger, Charles H.","id":"per.001262"}</field>
+      <field name="person_ss">Bell, Mary</field>
+      <field name="personID_ss">per.001253</field>
+      <field name="personData_ss">{"label":"Bell, Mary","id":"per.001253"}</field>
+      <field name="person_ss">Armistead, Susan</field>
+      <field name="personID_ss">per.001254</field>
+      <field name="personData_ss">{"label":"Armistead, Susan","id":"per.001254"}</field>
+      <field name="plaintiff_ss">Bell, Mary</field>
+      <field name="plaintiffID_ss">per.001253</field>
+      <field name="plaintiffData_ss">{"label":"Bell, Mary","id":"per.001253"}</field>
+      <field name="defendant_ss">Armistead, Susan</field>
+      <field name="defendantID_ss">per.001254</field>
+      <field name="defendantData_ss">{"label":"Armistead, Susan","id":"per.001254"}</field>
+      <field name="sourceTitle_s">Certificate of Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1848-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0174</field>
+      <field name="documentCaseData_ss">{"label":"Mary Bell v. Susan Armistead","id":"oscys.caseid.0174"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> City of Washington, ss. I certify, That the bearer hereof, Mary Bell (mulatto aged 48 yrs) hath produced to me satisfactory evidence of the legality of her title to freedom, pursuant to an act of the Corporation of the city of Washington, entitled "An act concerning free negroes, mulattoes and slaves," passed on the thirty-first day of May, in the year eighteen hundred and twenty-seven, she is therefore permitted to reside in the said city of Washington, she complying with the provisions contained in the above recited act. In testimony whereof, I have hereunto set my hand and affixed the seal of the Corporation of the said city of Washington, this 18th day of Oct Anno Domini one thousand eight hundred and forty three C. H. Wiltberger Register of the City of Washington. P.3 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0174</field>
+      <field name="person_ss" update="add">Wiltberger, Charles H.</field>
+      <field name="personID_ss" update="add">per.001262</field>
+      <field name="personData_ss" update="add">{"label":"Wiltberger, Charles H.","id":"per.001262"}</field>
+      <field name="person_ss" update="add">Bell, Mary</field>
+      <field name="personID_ss" update="add">per.001253</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Mary","id":"per.001253"}</field>
+      <field name="person_ss" update="add">Armistead, Susan</field>
+      <field name="personID_ss" update="add">per.001254</field>
+      <field name="personData_ss" update="add">{"label":"Armistead, Susan","id":"per.001254"}</field>
+      <field name="plaintiff_ss" update="add">Bell, Mary</field>
+      <field name="plaintiffID_ss" update="add">per.001253</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, Mary","id":"per.001253"}</field>
+      <field name="defendant_ss" update="add">Armistead, Susan</field>
+      <field name="defendantID_ss" update="add">per.001254</field>
+      <field name="defendantData_ss" update="add">{"label":"Armistead, Susan","id":"per.001254"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0172.008</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Mary Bell v. Susan Armistead. Certificate of Freedom (October 18, 1843)","date":"1843-10-18","dateDisplay":"October 18, 1843","id":"oscys.case.0172.008"}</field>
+   </doc>
+</add>

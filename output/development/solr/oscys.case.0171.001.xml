@@ -1,0 +1,105 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0171.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0171.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0171.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0171.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Maria Watts v. Raphael Semmes. Petition for Freedom</field>
+      <field name="titleSort" update="add">maria watts v. raphael semmes. petition for freedom</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="contributor"/>
+      <field name="date">1845-09-02T00:00:00Z</field>
+      <field name="dateDisplay">September 2, 1845</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 705, Folder 132</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Watts, Maria</field>
+      <field name="people">Semmes, Raphael</field>
+      <field name="people">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="people">Ratcliffe, Daniel</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Watts, Maria</field>
+      <field name="personID_ss">per.001251</field>
+      <field name="personData_ss">{"label":"Watts, Maria","id":"per.001251"}</field>
+      <field name="person_ss">Semmes, Raphael</field>
+      <field name="personID_ss">per.001252</field>
+      <field name="personData_ss">{"label":"Semmes, Raphael","id":"per.001252"}</field>
+      <field name="person_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss">per.000496</field>
+      <field name="personData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="person_ss">Ratcliffe, Daniel</field>
+      <field name="personID_ss">per.000751</field>
+      <field name="personData_ss">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="plaintiff_ss">Watts, Maria</field>
+      <field name="plaintiffID_ss">per.001251</field>
+      <field name="plaintiffData_ss">{"label":"Watts, Maria","id":"per.001251"}</field>
+      <field name="defendant_ss">Semmes, Raphael</field>
+      <field name="defendantID_ss">per.001252</field>
+      <field name="defendantData_ss">{"label":"Semmes, Raphael","id":"per.001252"}</field>
+      <field name="attorneyP_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyPID_ss">per.000496</field>
+      <field name="attorneyPData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss">per.000496</field>
+      <field name="attorneyData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorneyP_ss">Ratcliffe, Daniel</field>
+      <field name="attorneyPID_ss">per.000751</field>
+      <field name="attorneyPData_ss">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="attorney_ss">Ratcliffe, Daniel</field>
+      <field name="attorneyID_ss">per.000751</field>
+      <field name="attorneyData_ss">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1847-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0173</field>
+      <field name="documentCaseData_ss">{"label":"Maria Watts v. Raphael Semmes","id":"oscys.caseid.0173"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court of the District of Columbia, for the County of Washington The petition of Maria Watts respectfully sheweth to your Honors that she is now held in unlawful custody as a slave by Raphael Semmes of said County of Washington and that in fact your petitioner is free and your petitioner prays your Honors to take into consideration her case and hear and determine the same, and to grant the U S writ of subpoena directed to the said Semmes. And your petitioner will ever pray &amp;c. R S Cox &amp; D Ratcliffe atty for Petr 217 Maria Watts vs Raphael Semmes Pet. for freedom Filed 2d. Sep. 1845 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0173</field>
+      <field name="person_ss" update="add">Watts, Maria</field>
+      <field name="personID_ss" update="add">per.001251</field>
+      <field name="personData_ss" update="add">{"label":"Watts, Maria","id":"per.001251"}</field>
+      <field name="person_ss" update="add">Semmes, Raphael</field>
+      <field name="personID_ss" update="add">per.001252</field>
+      <field name="personData_ss" update="add">{"label":"Semmes, Raphael","id":"per.001252"}</field>
+      <field name="person_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss" update="add">per.000496</field>
+      <field name="personData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="person_ss" update="add">Ratcliffe, Daniel</field>
+      <field name="personID_ss" update="add">per.000751</field>
+      <field name="personData_ss" update="add">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="plaintiff_ss" update="add">Watts, Maria</field>
+      <field name="plaintiffID_ss" update="add">per.001251</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Watts, Maria","id":"per.001251"}</field>
+      <field name="defendant_ss" update="add">Semmes, Raphael</field>
+      <field name="defendantID_ss" update="add">per.001252</field>
+      <field name="defendantData_ss" update="add">{"label":"Semmes, Raphael","id":"per.001252"}</field>
+      <field name="attorneyP_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyPID_ss" update="add">per.000496</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss" update="add">per.000496</field>
+      <field name="attorneyData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorneyP_ss" update="add">Ratcliffe, Daniel</field>
+      <field name="attorneyPID_ss" update="add">per.000751</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="attorney_ss" update="add">Ratcliffe, Daniel</field>
+      <field name="attorneyID_ss" update="add">per.000751</field>
+      <field name="attorneyData_ss" update="add">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0171.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Maria Watts v. Raphael Semmes. Petition for Freedom (September 2, 1845)","date":"1845-09-02","dateDisplay":"September 2, 1845","id":"oscys.case.0171.001"}</field>
+   </doc>
+</add>

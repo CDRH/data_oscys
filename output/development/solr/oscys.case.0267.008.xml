@@ -1,0 +1,159 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0267.008</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0267.008.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0267.008.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0267.008.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Jesse Nelson v. John Cornwell. Deposition of Catharine Appleby</field>
+      <field name="titleSort" update="add">jesse nelson v. john cornwell. deposition of catharine appleby</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1854-03-18T00:00:00Z</field>
+      <field name="dateDisplay">March 18, 1854</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 784, Folder 204</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Deposition</field>
+      <field name="people">Appleby, Catharine</field>
+      <field name="people">Berry, Benjamin H.</field>
+      <field name="people">Bruin</field>
+      <field name="people">Cornwell, Constance</field>
+      <field name="people">Fowle, William H.</field>
+      <field name="people">Hunter, Robert</field>
+      <field name="people">Nelson, Albert</field>
+      <field name="people">Nelson, Thomas</field>
+      <field name="people">Weedon, John C.</field>
+      <field name="people">Williams, William H.</field>
+      <field name="people">Nelson, Jesse</field>
+      <field name="people">Cornwell, John</field>
+      <field name="people">Neale, Christopher</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="places">Prince William County (Va.)</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Alexandria (Va.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Appleby, Catharine</field>
+      <field name="personID_ss">per.004392</field>
+      <field name="personData_ss">{"label":"Appleby, Catharine","id":"per.004392"}</field>
+      <field name="person_ss">Berry, Benjamin H.</field>
+      <field name="personID_ss">per.004393</field>
+      <field name="personData_ss">{"label":"Berry, Benjamin H.","id":"per.004393"}</field>
+      <field name="person_ss">Bruin</field>
+      <field name="personID_ss">per.004394</field>
+      <field name="personData_ss">{"label":"Bruin","id":"per.004394"}</field>
+      <field name="person_ss">Cornwell, Constance</field>
+      <field name="personID_ss">per.004388</field>
+      <field name="personData_ss">{"label":"Cornwell, Constance","id":"per.004388"}</field>
+      <field name="person_ss">Fowle, William H.</field>
+      <field name="personID_ss">per.004395</field>
+      <field name="personData_ss">{"label":"Fowle, William H.","id":"per.004395"}</field>
+      <field name="person_ss">Hunter, Robert</field>
+      <field name="personID_ss">per.004396</field>
+      <field name="personData_ss">{"label":"Hunter, Robert","id":"per.004396"}</field>
+      <field name="person_ss">Nelson, Albert</field>
+      <field name="personID_ss">per.004397</field>
+      <field name="personData_ss">{"label":"Nelson, Albert","id":"per.004397"}</field>
+      <field name="person_ss">Nelson, Thomas</field>
+      <field name="personID_ss">per.004389</field>
+      <field name="personData_ss">{"label":"Nelson, Thomas","id":"per.004389"}</field>
+      <field name="person_ss">Weedon, John C.</field>
+      <field name="personID_ss">per.004390</field>
+      <field name="personData_ss">{"label":"Weedon, John C.","id":"per.004390"}</field>
+      <field name="person_ss">Williams, William H.</field>
+      <field name="personID_ss">per.001145</field>
+      <field name="personData_ss">{"label":"Williams, William H.","id":"per.001145"}</field>
+      <field name="person_ss">Nelson, Jesse</field>
+      <field name="personID_ss">per.004386</field>
+      <field name="personData_ss">{"label":"Nelson, Jesse","id":"per.004386"}</field>
+      <field name="person_ss">Cornwell, John</field>
+      <field name="personID_ss">per.004387</field>
+      <field name="personData_ss">{"label":"Cornwell, John","id":"per.004387"}</field>
+      <field name="person_ss">Neale, Christopher</field>
+      <field name="personID_ss">per.002274</field>
+      <field name="personData_ss">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="plaintiff_ss">Nelson, Jesse</field>
+      <field name="plaintiffID_ss">per.004386</field>
+      <field name="plaintiffData_ss">{"label":"Nelson, Jesse","id":"per.004386"}</field>
+      <field name="defendant_ss">Cornwell, John</field>
+      <field name="defendantID_ss">per.004387</field>
+      <field name="defendantData_ss">{"label":"Cornwell, John","id":"per.004387"}</field>
+      <field name="attorneyD_ss">Neale, Christopher</field>
+      <field name="attorneyDID_ss">per.002274</field>
+      <field name="attorneyDData_ss">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="attorney_ss">Neale, Christopher</field>
+      <field name="attorneyID_ss">per.002274</field>
+      <field name="attorneyData_ss">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="sourceTitle_s">Deposition of Catharine Appleby</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1854-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0272</field>
+      <field name="documentCaseData_ss">{"label":"Jesse Nelson v. John Cornwell","id":"oscys.caseid.0272"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> The deposition of Catharine Appleby, of full age, taken by consent, of the parties Attorneys at Law, in a suit for freedom now depending, in the Circuit Court of the United States, for Washington County in the District of Columbia, in which suit, Jesse Nelson, a Man of color, is the Petitioner, and John Cornwell is deft: which deposition, when taken, is to be read, as evidence, on behalf of the deft: Cornwell, upon the trial of the above cause. The deponent, being first duly qualified, cautioned, and sworn, to speak the truth, the whole truth, and nothing but the truth, deposeth, and answers, as follows. Question 1st by Deft's: Counsel. Are you personally acquainted, with the parties to this suit? Answer - I am Question 2nd Are your acquainted with one John C. Weedon, &amp; and if yea, state where he resides. Answer - I am, he resides in Prince William County Va Question 3. Were you or were you not ever acquainted with a Man named Thomas Nelson, and if yea, is he now dead or living? Answer I was well acquainted with him &amp; he is now dead Question the 4th Do you know, or do you not know, who is his Executor, or administrator, if any his estate has? Answer - John C. Wedon is his administrator Question 5. You say, that you know Jesse Nelson, the Petitioner for freedom, in this cause. if so, please state all you know about him, where he was born, where raised, and if no raised in Washington City, in the District of Columbia, how &amp; by what means did he get there. State, particularly, all you know about it. Answer - I was well acquainted with Thos Nelson as stated in No 3 answer. He is now dead &amp; and has been dead for upwards of seven years. Nelson was the executor of my mother Constance Cornwell, &amp; after he died, John C. Weedon was appointed by the Court of Prince William, his administrator &amp; as such he took into his possession, all the slaves devised to John Cornwell the defendant in this cause &amp; among the number was Jesse the petitioner, &amp; and his brother Albert, which two slaves were both from born &amp; raised in Prince William County Va. John C Weedon when interogated by witness by what authority he sold Jesse &amp; Albert he replied that he had sold them because he wanted money, &amp; when reminded by witness that he had sold property belonging To John Cornwell, &amp; and not to him or Nelson, he said if it was the property of John Cornwell he would have to show it. This conversation took place on a Saturday, &amp; the Sale was made the day before. On Sunday following witness followed after slaves aforesaid, called on her way up to Washington at the establis hment kept by Mr Bruin near Alexandria &amp; was told that they were not there but that they were taken to Williams Jail in Washington City &amp; if she would go on there she would find them to which place witness went but failed to see them upon her first visit but upon a second visit, on the next day saw them both in Williams Jail spoke to them &amp; shook their hands. Question 6th Did you, or did you not, promptly informed Cornwell, that his slaves were sold, and if yea, what did Cornwell do, in the matter? Answer - I did &amp; Cornwell immediately proceeded to take them out of Williams Jail by legal process Question 7th Is, or is not, John Cornwell, the deft: in this cause, related to Jesse &amp; Albert, &amp; if he is, what is the nature thereof Answer - he is in no manner related to them, or either of them. Question 8th Are you positive, that the two men, who you say, you saw in William's Jail, and with whom you shook hands, were Jesse &amp; Albert, and that the Petitioner Jesse is the identical Jesse, that you say, was in William's Jail? Answer - yes, &amp; Jesse told witness that he had sued John And further deponent saith not Test. as to the cross mark of Catharine Appleby Robert Hunter Catharine Appleby her + mark Alexandria County Sct. The undersigned, a Justice of the Peace, in, and for, the County aforesaid, do hereby certify, that the within deposition, of Catharine Appleby, was taken at the time, and place, in the caption and time Law Office of Chr: Neale, in the City of Alexandria, Virginia, on Saturday the 18th March '54, by consent of parties; that the same, was kept open during that day. that no one, appeared on behalf of the Petitioner; that the undersigned, wrote down the witnesses answers, to the several interrogatories, and after they were all reduced to writing as aforesaid, the same way carefully read over, to the witness, who made her cross mark, to her name, and made oath, in due form of Law, that her testimony contained the truth, the whole truth, and nothing but the truth. and which, is accordingly certified, by the undersigned, a Justice of the Peace, of Alexandria County Virginia, under his hand, and seal, this the 18th March 1854. Robt Hunter {JP} {Seal} Fee for taking the above deposition $3. paid by C. Neale. R. Hunter State of Virginia, County of Alexandria. to wit: I Benjamin H. Berry, Clerk of the Alexandria County Court, do certify that Robert Hunter whose name is Signed to the foregoing affidavit, is now, and was at the date thereof, a Justice of the Peace, duly commissioned and qualified, in and for the County &amp; State aforesaid, and that all his official acts as Such, are entitled to full faith and credit, as well in Courts of Justice as thereout. In testimony whereof I hereto Subscribe my name and annex the seal of the Said Court, this 23d. day of March, 1854. and in the 78th year of the Commonwealth. B. H. Berry. Clerk of the Alexandria County Court. State of Virginia. County of Alexandria to wit I, William H. Fowle, Presiding Justice of the County Court of Alexandria County, do hereby certify that Benjamin H. Berry whose name is Signed to the above certificate, is now and was at the date thereof Clerk of the Said Court, (which is a Court of record) and that his certificate, as such, is in proper form. Given under my hand and seal this 29' day of March 1854 W. H Fowle P. J. Clerk's fee $1.37½. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0272</field>
+      <field name="person_ss" update="add">Appleby, Catharine</field>
+      <field name="personID_ss" update="add">per.004392</field>
+      <field name="personData_ss" update="add">{"label":"Appleby, Catharine","id":"per.004392"}</field>
+      <field name="person_ss" update="add">Berry, Benjamin H.</field>
+      <field name="personID_ss" update="add">per.004393</field>
+      <field name="personData_ss" update="add">{"label":"Berry, Benjamin H.","id":"per.004393"}</field>
+      <field name="person_ss" update="add">Bruin</field>
+      <field name="personID_ss" update="add">per.004394</field>
+      <field name="personData_ss" update="add">{"label":"Bruin","id":"per.004394"}</field>
+      <field name="person_ss" update="add">Cornwell, Constance</field>
+      <field name="personID_ss" update="add">per.004388</field>
+      <field name="personData_ss" update="add">{"label":"Cornwell, Constance","id":"per.004388"}</field>
+      <field name="person_ss" update="add">Fowle, William H.</field>
+      <field name="personID_ss" update="add">per.004395</field>
+      <field name="personData_ss" update="add">{"label":"Fowle, William H.","id":"per.004395"}</field>
+      <field name="person_ss" update="add">Hunter, Robert</field>
+      <field name="personID_ss" update="add">per.004396</field>
+      <field name="personData_ss" update="add">{"label":"Hunter, Robert","id":"per.004396"}</field>
+      <field name="person_ss" update="add">Nelson, Albert</field>
+      <field name="personID_ss" update="add">per.004397</field>
+      <field name="personData_ss" update="add">{"label":"Nelson, Albert","id":"per.004397"}</field>
+      <field name="person_ss" update="add">Nelson, Thomas</field>
+      <field name="personID_ss" update="add">per.004389</field>
+      <field name="personData_ss" update="add">{"label":"Nelson, Thomas","id":"per.004389"}</field>
+      <field name="person_ss" update="add">Weedon, John C.</field>
+      <field name="personID_ss" update="add">per.004390</field>
+      <field name="personData_ss" update="add">{"label":"Weedon, John C.","id":"per.004390"}</field>
+      <field name="person_ss" update="add">Williams, William H.</field>
+      <field name="personID_ss" update="add">per.001145</field>
+      <field name="personData_ss" update="add">{"label":"Williams, William H.","id":"per.001145"}</field>
+      <field name="person_ss" update="add">Nelson, Jesse</field>
+      <field name="personID_ss" update="add">per.004386</field>
+      <field name="personData_ss" update="add">{"label":"Nelson, Jesse","id":"per.004386"}</field>
+      <field name="person_ss" update="add">Cornwell, John</field>
+      <field name="personID_ss" update="add">per.004387</field>
+      <field name="personData_ss" update="add">{"label":"Cornwell, John","id":"per.004387"}</field>
+      <field name="person_ss" update="add">Neale, Christopher</field>
+      <field name="personID_ss" update="add">per.002274</field>
+      <field name="personData_ss" update="add">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="plaintiff_ss" update="add">Nelson, Jesse</field>
+      <field name="plaintiffID_ss" update="add">per.004386</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Nelson, Jesse","id":"per.004386"}</field>
+      <field name="defendant_ss" update="add">Cornwell, John</field>
+      <field name="defendantID_ss" update="add">per.004387</field>
+      <field name="defendantData_ss" update="add">{"label":"Cornwell, John","id":"per.004387"}</field>
+      <field name="attorneyD_ss" update="add">Neale, Christopher</field>
+      <field name="attorneyDID_ss" update="add">per.002274</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="attorney_ss" update="add">Neale, Christopher</field>
+      <field name="attorneyID_ss" update="add">per.002274</field>
+      <field name="attorneyData_ss" update="add">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0267.008</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Jesse Nelson v. John Cornwell. Deposition of Catharine Appleby (March 18, 1854)","date":"1854-03-18","dateDisplay":"March 18, 1854","id":"oscys.case.0267.008"}</field>
+   </doc>
+</add>

@@ -1,0 +1,190 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0022.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0022.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0022.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0022.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Phillis Clagett v. Ann Gibson. Circuit Court Report</field>
+      <field name="titleSort" update="add">phillis clagett v. ann gibson. circuit court report</field>
+      <field name="titleLetter_s" update="add">p</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1828-12-01T00:00:00Z</field>
+      <field name="dateDisplay">December 1828</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume III, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Gibson, Gerard</field>
+      <field name="people">Thruston, Buckner, 1763-1845</field>
+      <field name="people">Young, Abraham</field>
+      <field name="people">Clagett, Mary</field>
+      <field name="people">Clagett, Phillis</field>
+      <field name="people">Clagett, Truman</field>
+      <field name="people">Gibson, Ann</field>
+      <field name="people">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="people">Elkins, Jeremiah</field>
+      <field name="people">Jones, Walter, 1776-1861</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="person_ss">Gibson, Gerard</field>
+      <field name="personID_ss">per.000681</field>
+      <field name="personData_ss">{"label":"Gibson, Gerard","id":"per.000681"}</field>
+      <field name="person_ss">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss">per.000064</field>
+      <field name="personData_ss">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss">Young, Abraham</field>
+      <field name="personID_ss">per.002796</field>
+      <field name="personData_ss">{"label":"Young, Abraham","id":"per.002796"}</field>
+      <field name="person_ss">Clagett, Mary</field>
+      <field name="personID_ss">per.000684</field>
+      <field name="personData_ss">{"label":"Clagett, Mary","id":"per.000684"}</field>
+      <field name="person_ss">Clagett, Phillis</field>
+      <field name="personID_ss">per.000682</field>
+      <field name="personData_ss">{"label":"Clagett, Phillis","id":"per.000682"}</field>
+      <field name="person_ss">Clagett, Truman</field>
+      <field name="personID_ss">per.000683</field>
+      <field name="personData_ss">{"label":"Clagett, Truman","id":"per.000683"}</field>
+      <field name="person_ss">Gibson, Ann</field>
+      <field name="personID_ss">per.000685</field>
+      <field name="personData_ss">{"label":"Gibson, Ann","id":"per.000685"}</field>
+      <field name="person_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss">per.000496</field>
+      <field name="personData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="person_ss">Elkins, Jeremiah</field>
+      <field name="personID_ss">per.000631</field>
+      <field name="personData_ss">{"label":"Elkins, Jeremiah","id":"per.000631"}</field>
+      <field name="person_ss">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss">per.000435</field>
+      <field name="personData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss">Clagett, Mary</field>
+      <field name="plaintiffID_ss">per.000684</field>
+      <field name="plaintiffData_ss">{"label":"Clagett, Mary","id":"per.000684"}</field>
+      <field name="plaintiff_ss">Clagett, Phillis</field>
+      <field name="plaintiffID_ss">per.000682</field>
+      <field name="plaintiffData_ss">{"label":"Clagett, Phillis","id":"per.000682"}</field>
+      <field name="plaintiff_ss">Clagett, Truman</field>
+      <field name="plaintiffID_ss">per.000683</field>
+      <field name="plaintiffData_ss">{"label":"Clagett, Truman","id":"per.000683"}</field>
+      <field name="defendant_ss">Gibson, Ann</field>
+      <field name="defendantID_ss">per.000685</field>
+      <field name="defendantData_ss">{"label":"Gibson, Ann","id":"per.000685"}</field>
+      <field name="attorneyP_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyPID_ss">per.000496</field>
+      <field name="attorneyPData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss">per.000496</field>
+      <field name="attorneyData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorneyP_ss">Elkins, Jeremiah</field>
+      <field name="attorneyPID_ss">per.000631</field>
+      <field name="attorneyPData_ss">{"label":"Elkins, Jeremiah","id":"per.000631"}</field>
+      <field name="attorney_ss">Elkins, Jeremiah</field>
+      <field name="attorneyID_ss">per.000631</field>
+      <field name="attorneyData_ss">{"label":"Elkins, Jeremiah","id":"per.000631"}</field>
+      <field name="attorneyD_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss">per.000435</field>
+      <field name="attorneyDData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss">per.000435</field>
+      <field name="attorneyData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorneyD_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyDID_ss">per.000001</field>
+      <field name="attorneyDData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1828-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0088</field>
+      <field name="documentCaseData_ss">{"label":"Phillis Clagett, Truman Clagett, &amp; Mary Clagett v. Ann Gibson","id":"oscys.caseid.0088"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Phillis Clagett and Children v. Ann Gibson. A feme covert, who has sued for alimony, is so far to be considered a creditor of her husband as to make it competent for her, in a suit by his slaves for freedom, to show that her husband's deed of manumission, made pending the suit for alimony, and while he was prohibited by injunction from conveying away his property, was made in fraud of her rights; although he had, at the date of the deed of manumission, other property, more than sufficient to pay all the equitable or legal debts due by him to his wife, and left enough to pay the amount due to her. A deed of manumission, by the husband of his slaves, pending a suit by his wife for alimony, and made for the purpose of preventing her from recovering her claim, is fraudulent and void; but if only made to prevent her from obtaining, at his death, a distributive portion of his personal estate, such motive for making the deed is no ground for impeaching its validity. The proceedings in the suit for alimony are competent evidence for the defendant in the suit of the negroes for their freedom. Petition for freedom. The defendant, while the widow of Abraham Young, married one Gerard Gibson. The petitioners were her property at the time of her marriage with Gibson; and claimed their freedom under his deed of emancipation, dated October 31, 1826, duly acknowledged and recorded according to the Maryland Act of 1796, c. 67, § 29, by which he emancipates them to be free after his death. The defendant had filed a petition to his Court against Gibson, her husband, for alimony, and obtained an injunction on the 10th of July, 1826, to prevent him from conveying away his property. This suit for alimony was pending at the date of the deed of manumission. He died in the following year. Mr. Key, for the defendant, offered in evidence the transcript of the record in the suit for alimony, in order to show that the deed was made to prevent the defendant from obtaining a sentence for alimony. Mr. Elkins and Mr. Coxe, for the petitioner, objected that it was res inter alios acta. The Court (nem. con.) permitted the record to be read in evidence only to show the existence and pendency of the suit for alimony. Mr. Jones, for the defendant, contended that the defendant must be considered as a creditor of her husband, (having sued for alimony,) at the date of the deed of emancipation, and that the deed, being made in fraud of her rights, was void; and being "in prejudice of" a creditor, was also void as to her under the 29th section of the Act of 1796, c. 67. By filing the bill, she had a lien on all his property for her separate maintenance. Mr. Coxe, contrà. By a manumission by deed, the right of freedom vests instanter, although to take effect in futuro. It is otherwise in emancipation by will. The order for alimony was not made until the following March. The decree is only in personam; it created no lien on the property. The Court (Thruston, J., contrà,) was of opinion, that the wife, at the date of the deed of manumission, ought to be considered as a creditor in equity, and it was therefore competent for her to show that the deed was made in fraud of her rights. She had a right to maintenance; she had claimed it in her petition; and whether it would be granted or not, was immaterial. The Court also, at the prayer of the defendant's counsel, in- structed the jury, that if they should be satisfied by the evidence that Gerard Gibson made the deed of manumission while the claim of his wife for alimony was pending, and for the purpose of preventing her from recovering her said claim, then such deed of manumission was fraudulent and void, and the petitioners are not entitled to their freedom under the said deed. But if the jury shall believe, from the evidence, that he made the said deed with the view of preventing her from obtaining, at his death, a distributive portion of his said property, such motive for making the said deed, is no ground for impeaching its validity. Verdict for the defendant. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0088</field>
+      <field update="add" name="outcomeData_ss">{"label":"Verdict for Defendant","date":"1828-12","dateDisplay":"December 1828","id":"oscys.report.0022.001"}</field>
+      <field update="add" name="outcome_ss">Verdict for Defendant</field>
+      <field name="person_ss" update="add">Gibson, Gerard</field>
+      <field name="personID_ss" update="add">per.000681</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Gerard","id":"per.000681"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Young, Abraham</field>
+      <field name="personID_ss" update="add">per.002796</field>
+      <field name="personData_ss" update="add">{"label":"Young, Abraham","id":"per.002796"}</field>
+      <field name="person_ss" update="add">Clagett, Mary</field>
+      <field name="personID_ss" update="add">per.000684</field>
+      <field name="personData_ss" update="add">{"label":"Clagett, Mary","id":"per.000684"}</field>
+      <field name="person_ss" update="add">Clagett, Phillis</field>
+      <field name="personID_ss" update="add">per.000682</field>
+      <field name="personData_ss" update="add">{"label":"Clagett, Phillis","id":"per.000682"}</field>
+      <field name="person_ss" update="add">Clagett, Truman</field>
+      <field name="personID_ss" update="add">per.000683</field>
+      <field name="personData_ss" update="add">{"label":"Clagett, Truman","id":"per.000683"}</field>
+      <field name="person_ss" update="add">Gibson, Ann</field>
+      <field name="personID_ss" update="add">per.000685</field>
+      <field name="personData_ss" update="add">{"label":"Gibson, Ann","id":"per.000685"}</field>
+      <field name="person_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss" update="add">per.000496</field>
+      <field name="personData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="person_ss" update="add">Elkins, Jeremiah</field>
+      <field name="personID_ss" update="add">per.000631</field>
+      <field name="personData_ss" update="add">{"label":"Elkins, Jeremiah","id":"per.000631"}</field>
+      <field name="person_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss" update="add">per.000435</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss" update="add">Clagett, Mary</field>
+      <field name="plaintiffID_ss" update="add">per.000684</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Clagett, Mary","id":"per.000684"}</field>
+      <field name="plaintiff_ss" update="add">Clagett, Phillis</field>
+      <field name="plaintiffID_ss" update="add">per.000682</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Clagett, Phillis","id":"per.000682"}</field>
+      <field name="plaintiff_ss" update="add">Clagett, Truman</field>
+      <field name="plaintiffID_ss" update="add">per.000683</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Clagett, Truman","id":"per.000683"}</field>
+      <field name="defendant_ss" update="add">Gibson, Ann</field>
+      <field name="defendantID_ss" update="add">per.000685</field>
+      <field name="defendantData_ss" update="add">{"label":"Gibson, Ann","id":"per.000685"}</field>
+      <field name="attorneyP_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyPID_ss" update="add">per.000496</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss" update="add">per.000496</field>
+      <field name="attorneyData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorneyP_ss" update="add">Elkins, Jeremiah</field>
+      <field name="attorneyPID_ss" update="add">per.000631</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Elkins, Jeremiah","id":"per.000631"}</field>
+      <field name="attorney_ss" update="add">Elkins, Jeremiah</field>
+      <field name="attorneyID_ss" update="add">per.000631</field>
+      <field name="attorneyData_ss" update="add">{"label":"Elkins, Jeremiah","id":"per.000631"}</field>
+      <field name="attorneyD_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss" update="add">per.000435</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss" update="add">per.000435</field>
+      <field name="attorneyData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorneyD_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyDID_ss" update="add">per.000001</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0022.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Phillis Clagett v. Ann Gibson. Circuit Court Report (December, 1828)","date":"1828-12","dateDisplay":"December, 1828","id":"oscys.report.0022.001"}</field>
+   </doc>
+</add>

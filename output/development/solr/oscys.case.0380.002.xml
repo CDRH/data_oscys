@@ -1,0 +1,109 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0380.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0380.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0380.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0380.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Amie v. Hanson Reno. Complaint</field>
+      <field name="titleSort" update="add">amie v. hanson reno. complaint</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Complaint</field>
+      <field name="people">Doe, John</field>
+      <field name="people">Mandeville, John</field>
+      <field name="people">Roe, Richard</field>
+      <field name="people">Amie</field>
+      <field name="people">Reno, Hanson</field>
+      <field name="people">Taylor, Robert I.</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Doe, John</field>
+      <field name="personID_ss">per.001523</field>
+      <field name="personData_ss">{"label":"Doe, John","id":"per.001523"}</field>
+      <field name="person_ss">Mandeville, John</field>
+      <field name="personID_ss">per.004418</field>
+      <field name="personData_ss">{"label":"Mandeville, John","id":"per.004418"}</field>
+      <field name="person_ss">Roe, Richard</field>
+      <field name="personID_ss">per.001531</field>
+      <field name="personData_ss">{"label":"Roe, Richard","id":"per.001531"}</field>
+      <field name="person_ss">Amie</field>
+      <field name="personID_ss">per.004416</field>
+      <field name="personData_ss">{"label":"Amie","id":"per.004416"}</field>
+      <field name="person_ss">Reno, Hanson</field>
+      <field name="personID_ss">per.004417</field>
+      <field name="personData_ss">{"label":"Reno, Hanson","id":"per.004417"}</field>
+      <field name="person_ss">Taylor, Robert I.</field>
+      <field name="personID_ss">per.002883</field>
+      <field name="personData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="plaintiff_ss">Amie</field>
+      <field name="plaintiffID_ss">per.004416</field>
+      <field name="plaintiffData_ss">{"label":"Amie","id":"per.004416"}</field>
+      <field name="defendant_ss">Reno, Hanson</field>
+      <field name="defendantID_ss">per.004417</field>
+      <field name="defendantData_ss">{"label":"Reno, Hanson","id":"per.004417"}</field>
+      <field name="attorneyP_ss">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss">per.002883</field>
+      <field name="attorneyPData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss">Taylor, Robert I.</field>
+      <field name="attorneyID_ss">per.002883</field>
+      <field name="attorneyData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="sourceTitle_s">Complaint</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1803-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0405</field>
+      <field name="documentCaseData_ss">{"label":"Amie v. Hanson Reno","id":"oscys.caseid.0405"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> District of Columbia Alex'a County Negroe Amie admitted to sue in forma pauperis complains of Hanson Reno in custody &amp;c of a plea of Trespass for this that the said Hanson on the 10th day of March 1802 at the County aforesaid with force and arms an assault did make on the plf and the said plf did beat wound and ill treat and falsely imprison for a long time that is to say ten years and other wrongs and injuries to the plf did against the peace and government of the United States and to the plf damage         and therefore she brings suit &amp;c R. I. Taylor p q Pledges &amp;c J Doe R Roe We of the Jury find for the Pltff Pltff. the Issue joined &amp; one cent Damage We also find that the pltf. was imported into the State of Virginia upwards of ten years ago contrary to the Act of the Virginia Assembly in that case provided whereby she became intitled to her freedom, &amp; upon which said importation we find this verdict for the plaintiff. John Mandeville </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0405</field>
+      <field update="add" name="outcomeData_ss">{"label":"Verdict for Plaintiff","id":"oscys.case.0380.002"}</field>
+      <field update="add" name="outcome_ss">Verdict for Plaintiff</field>
+      <field name="person_ss" update="add">Doe, John</field>
+      <field name="personID_ss" update="add">per.001523</field>
+      <field name="personData_ss" update="add">{"label":"Doe, John","id":"per.001523"}</field>
+      <field name="person_ss" update="add">Mandeville, John</field>
+      <field name="personID_ss" update="add">per.004418</field>
+      <field name="personData_ss" update="add">{"label":"Mandeville, John","id":"per.004418"}</field>
+      <field name="person_ss" update="add">Roe, Richard</field>
+      <field name="personID_ss" update="add">per.001531</field>
+      <field name="personData_ss" update="add">{"label":"Roe, Richard","id":"per.001531"}</field>
+      <field name="person_ss" update="add">Amie</field>
+      <field name="personID_ss" update="add">per.004416</field>
+      <field name="personData_ss" update="add">{"label":"Amie","id":"per.004416"}</field>
+      <field name="person_ss" update="add">Reno, Hanson</field>
+      <field name="personID_ss" update="add">per.004417</field>
+      <field name="personData_ss" update="add">{"label":"Reno, Hanson","id":"per.004417"}</field>
+      <field name="person_ss" update="add">Taylor, Robert I.</field>
+      <field name="personID_ss" update="add">per.002883</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="plaintiff_ss" update="add">Amie</field>
+      <field name="plaintiffID_ss" update="add">per.004416</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Amie","id":"per.004416"}</field>
+      <field name="defendant_ss" update="add">Reno, Hanson</field>
+      <field name="defendantID_ss" update="add">per.004417</field>
+      <field name="defendantData_ss" update="add">{"label":"Reno, Hanson","id":"per.004417"}</field>
+      <field name="attorneyP_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss" update="add">per.002883</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyID_ss" update="add">per.002883</field>
+      <field name="attorneyData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0380.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Amie v. Hanson Reno. Complaint","id":"oscys.case.0380.002"}</field>
+   </doc>
+</add>

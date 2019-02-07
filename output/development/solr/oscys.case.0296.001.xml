@@ -1,0 +1,242 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0296.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0296.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0296.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0296.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ellen Johnson v. Morris Adler and Rachel Johnson v. Morris Adler. Defendant's Statement of Facts &amp; 2nd Bill of Exceptions</field>
+      <field name="titleSort" update="add">ellen johnson v. morris adler and rachel johnson v. morris adler. defendant's statement of facts &amp; 2nd bill of exceptions</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="contributor"/>
+      <field name="date">1852-09-20T00:00:00Z</field>
+      <field name="dateDisplay">September 20, 1852</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 772, Folder 48</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Statement of Facts</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Dunlop, James, 1793-</field>
+      <field name="people">Johnson, Phoebe</field>
+      <field name="people">Morsell, James Sewall</field>
+      <field name="people">Turner, Thomas, Jr.</field>
+      <field name="people">Marbury, John</field>
+      <field name="people">Johnson, Ellen</field>
+      <field name="people">Johnson, John Thomas</field>
+      <field name="people">Johnson, Louisa</field>
+      <field name="people">Johnson, Robert</field>
+      <field name="people">Adler, Morris</field>
+      <field name="people">Johnson, Rachel</field>
+      <field name="people">Adler, Morris</field>
+      <field name="places">Frederick (Md.)</field>
+      <field name="places">Georgetown (Washington, D.C.)</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Dunlop, James, 1793-</field>
+      <field name="personID_ss">per.000476</field>
+      <field name="personData_ss">{"label":"Dunlop, James, 1793-","id":"per.000476"}</field>
+      <field name="person_ss">Johnson, Phoebe</field>
+      <field name="personID_ss">per.002259</field>
+      <field name="personData_ss">{"label":"Johnson, Phoebe","id":"per.002259"}</field>
+      <field name="person_ss">Morsell, James Sewall</field>
+      <field name="personID_ss">per.000044</field>
+      <field name="personData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss">Turner, Thomas, Jr.</field>
+      <field name="personID_ss">per.002148</field>
+      <field name="personData_ss">{"label":"Turner, Thomas, Jr.","id":"per.002148"}</field>
+      <field name="person_ss">Marbury, John</field>
+      <field name="personID_ss">per.000830</field>
+      <field name="personData_ss">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="person_ss">Johnson, Ellen</field>
+      <field name="personID_ss">per.002260</field>
+      <field name="personData_ss">{"label":"Johnson, Ellen","id":"per.002260"}</field>
+      <field name="person_ss">Johnson, John Thomas</field>
+      <field name="personID_ss">per.002261</field>
+      <field name="personData_ss">{"label":"Johnson, John Thomas","id":"per.002261"}</field>
+      <field name="person_ss">Johnson, Louisa</field>
+      <field name="personID_ss">per.002262</field>
+      <field name="personData_ss">{"label":"Johnson, Louisa","id":"per.002262"}</field>
+      <field name="person_ss">Johnson, Robert</field>
+      <field name="personID_ss">per.002263</field>
+      <field name="personData_ss">{"label":"Johnson, Robert","id":"per.002263"}</field>
+      <field name="person_ss">Adler, Morris</field>
+      <field name="personID_ss">per.002150</field>
+      <field name="personData_ss">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="person_ss">Johnson, Rachel</field>
+      <field name="personID_ss">per.002149</field>
+      <field name="personData_ss">{"label":"Johnson, Rachel","id":"per.002149"}</field>
+      <field name="person_ss">Adler, Morris</field>
+      <field name="personID_ss">per.002150</field>
+      <field name="personData_ss">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="plaintiff_ss">Johnson, Ellen</field>
+      <field name="plaintiffID_ss">per.002260</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, Ellen","id":"per.002260"}</field>
+      <field name="plaintiff_ss">Johnson, John Thomas</field>
+      <field name="plaintiffID_ss">per.002261</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, John Thomas","id":"per.002261"}</field>
+      <field name="plaintiff_ss">Johnson, Louisa</field>
+      <field name="plaintiffID_ss">per.002262</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, Louisa","id":"per.002262"}</field>
+      <field name="plaintiff_ss">Johnson, Robert</field>
+      <field name="plaintiffID_ss">per.002263</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, Robert","id":"per.002263"}</field>
+      <field name="plaintiff_ss">Johnson, Rachel</field>
+      <field name="plaintiffID_ss">per.002149</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, Rachel","id":"per.002149"}</field>
+      <field name="defendant_ss">Adler, Morris</field>
+      <field name="defendantID_ss">per.002150</field>
+      <field name="defendantData_ss">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="defendant_ss">Adler, Morris</field>
+      <field name="defendantID_ss">per.002150</field>
+      <field name="defendantData_ss">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="sourceTitle_s">Defendant's Statement of Facts &amp; 2nd Bill of Exceptions</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1853-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0298</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0288</field>
+      <field name="documentCaseData_ss">{"label":"Ellen Johnson, John Thomas Johnson, Robert Johnson, &amp; Louisa Johnson v. Morris Adler","id":"oscys.caseid.0298"}</field>
+      <field name="documentCaseData_ss">{"label":"Rachel Johnson v. Morris Adler","id":"oscys.caseid.0288"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Ellen Johnson &amp; Others vs Morris Adler admr of Turner Petition for Freedom Thereupon the Defendant to support the issue on his part offered evidence to the Jury tending to prove that in the year 18321 &amp; prior thereto the petitioner was the slave of Thomas Turner of Georgetown aforesaid deceased &amp; lived &amp; served in his family a such. that about the year aforesaid the said Turner permitted the said Ellen to leave his house &amp; service &amp; to go with her two infant twin children named Phoebe &amp; Rachel in Rachel none of the petitioners to live with her husband a free man of colour who lived &amp; kept house in Georgetown aforesaid * that about the year 1838 the said Turner took the said child called Phoebe into possession with the knowledge &amp; acquiescence of this said Ellen &amp; carried her to Frederick where she lived with him until the time of his death. that about the year 1840, the said Turner being a citizen &amp; resident of the state of Maryland &amp; owning &amp; holding land in that part of the District of Columbia which was ceded by the state of Maryland to the United States claimed the said Rachel as his slave , &amp; with the knowledge &amp; acquiescence of the said Ellen removed her from Georgetown to Fredericktown in Maryland where said Turner then resided &amp; there held &amp; hired her out as his slave &amp; received her wages for eight years or until the winter of 1848-9. that the said Rachel about that time of the death of the said Turner came by the permission of said Turner to Georgetown to visit her relatives &amp; while there her mother the said Ellen applied thru the witness to Mr Turner to permit said Rachel to prolong her visit. &amp; also permit her to remain in Georgetown &amp; there hire for the benefit &amp; profit of the said Turner, on the alleging that the climate of Frederick was injurious to her health &amp; that the said Ellen when was required by the sisters of the said Turner, who were joint owners of the said Ellen with said Turner in 1832, when they visited Georgetown, to do their washing &amp; that she did the same on such occasions. that the said Ellen spoke of the said Thomas Turner after she had left his house and up to a year or two before his death as her master. said she understood he meant to sell her &amp; her children &amp; had advertised them for sale &amp; desired to be informed whether this fact was so or not. that she said to the witness that said Turner was willing to set her free &amp; &amp; sell her her youngest two children agreed with the said Thomas Turner to purchase her freedom &amp; that of her two youngest children, born while she lived with her husband for a certain sum of money &amp; went about to solicit contributions to raise the the said sum of money. that John the petitioner was one of the said children whose freedom she agree sought to obtain. and that the said Ellen did not on any such occasion deny the authority on right of the said Turner to exercise over her the power &amp; authority of a master, or claim that she or her children or any of them were free persons whereupon the said Petitioner Rachel by her counsel prayed the court to instruct the Jury that (here insert Mr Bradleys prayer in Ratchels case marked A) to which instruction the Deft the Deft objected, &amp; asked the court to add thereto the following qualification towit (here insert Mr Marburys qualification marked B.) but the court granted the prayer of the Petitioner &amp; refused the qualification thereof asked by the Defendant to which allowance granting &amp; refusal the Defendant by his counsel excepts &amp; prays this court to sign &amp; seal this second bill of exception. which is accordingly done this 11th day of December in this year 1849. W. Cranch (seal) Jas. S. Morsell (seal) Jas. Dunlop (seal) Statement of the Evidence by Defendant &amp; 2nd bill of exceptions. relates to Rachel &amp; the &amp; the acts of assembly of 1834 &amp; 1839 on the importation of slaves into the state of Maryd * That at or about the time the said Ellen went to live with her said husband the said Thomas Turner stated a witness understood from Mr Turner that he permitted her to go, and live with her husband on condition that she would support herself &amp; children; but Nelly was not present when Mr Turner stated to the witness the condition on which she went to housekeeping &amp; it was mentioned merely incidentally in conversation, nor did the witness recollect whether or not Nelly was then at Mr Turners but it was about the time she left his house with his permission. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0298</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Dunlop, James, 1793-</field>
+      <field name="personID_ss" update="add">per.000476</field>
+      <field name="personData_ss" update="add">{"label":"Dunlop, James, 1793-","id":"per.000476"}</field>
+      <field name="person_ss" update="add">Johnson, Phoebe</field>
+      <field name="personID_ss" update="add">per.002259</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Phoebe","id":"per.002259"}</field>
+      <field name="person_ss" update="add">Morsell, James Sewall</field>
+      <field name="personID_ss" update="add">per.000044</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss" update="add">Turner, Thomas, Jr.</field>
+      <field name="personID_ss" update="add">per.002148</field>
+      <field name="personData_ss" update="add">{"label":"Turner, Thomas, Jr.","id":"per.002148"}</field>
+      <field name="person_ss" update="add">Marbury, John</field>
+      <field name="personID_ss" update="add">per.000830</field>
+      <field name="personData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="person_ss" update="add">Johnson, Ellen</field>
+      <field name="personID_ss" update="add">per.002260</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Ellen","id":"per.002260"}</field>
+      <field name="person_ss" update="add">Johnson, John Thomas</field>
+      <field name="personID_ss" update="add">per.002261</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, John Thomas","id":"per.002261"}</field>
+      <field name="person_ss" update="add">Johnson, Louisa</field>
+      <field name="personID_ss" update="add">per.002262</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Louisa","id":"per.002262"}</field>
+      <field name="person_ss" update="add">Johnson, Robert</field>
+      <field name="personID_ss" update="add">per.002263</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Robert","id":"per.002263"}</field>
+      <field name="person_ss" update="add">Adler, Morris</field>
+      <field name="personID_ss" update="add">per.002150</field>
+      <field name="personData_ss" update="add">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="person_ss" update="add">Johnson, Rachel</field>
+      <field name="personID_ss" update="add">per.002149</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Rachel","id":"per.002149"}</field>
+      <field name="person_ss" update="add">Adler, Morris</field>
+      <field name="personID_ss" update="add">per.002150</field>
+      <field name="personData_ss" update="add">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Ellen</field>
+      <field name="plaintiffID_ss" update="add">per.002260</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Ellen","id":"per.002260"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, John Thomas</field>
+      <field name="plaintiffID_ss" update="add">per.002261</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, John Thomas","id":"per.002261"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.002262</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Louisa","id":"per.002262"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.002263</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Robert","id":"per.002263"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Rachel</field>
+      <field name="plaintiffID_ss" update="add">per.002149</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Rachel","id":"per.002149"}</field>
+      <field name="defendant_ss" update="add">Adler, Morris</field>
+      <field name="defendantID_ss" update="add">per.002150</field>
+      <field name="defendantData_ss" update="add">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="defendant_ss" update="add">Adler, Morris</field>
+      <field name="defendantID_ss" update="add">per.002150</field>
+      <field name="defendantData_ss" update="add">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0296.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ellen Johnson v. Morris Adler and Rachel Johnson v. Morris Adler. Defendant's Statement of Facts &amp; 2nd Bill of Exceptions (September 20, 1852)","date":"1852-09-20","dateDisplay":"September 20, 1852","id":"oscys.case.0296.001"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0288</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Dunlop, James, 1793-</field>
+      <field name="personID_ss" update="add">per.000476</field>
+      <field name="personData_ss" update="add">{"label":"Dunlop, James, 1793-","id":"per.000476"}</field>
+      <field name="person_ss" update="add">Johnson, Phoebe</field>
+      <field name="personID_ss" update="add">per.002259</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Phoebe","id":"per.002259"}</field>
+      <field name="person_ss" update="add">Morsell, James Sewall</field>
+      <field name="personID_ss" update="add">per.000044</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss" update="add">Turner, Thomas, Jr.</field>
+      <field name="personID_ss" update="add">per.002148</field>
+      <field name="personData_ss" update="add">{"label":"Turner, Thomas, Jr.","id":"per.002148"}</field>
+      <field name="person_ss" update="add">Marbury, John</field>
+      <field name="personID_ss" update="add">per.000830</field>
+      <field name="personData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="person_ss" update="add">Johnson, Ellen</field>
+      <field name="personID_ss" update="add">per.002260</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Ellen","id":"per.002260"}</field>
+      <field name="person_ss" update="add">Johnson, John Thomas</field>
+      <field name="personID_ss" update="add">per.002261</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, John Thomas","id":"per.002261"}</field>
+      <field name="person_ss" update="add">Johnson, Louisa</field>
+      <field name="personID_ss" update="add">per.002262</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Louisa","id":"per.002262"}</field>
+      <field name="person_ss" update="add">Johnson, Robert</field>
+      <field name="personID_ss" update="add">per.002263</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Robert","id":"per.002263"}</field>
+      <field name="person_ss" update="add">Adler, Morris</field>
+      <field name="personID_ss" update="add">per.002150</field>
+      <field name="personData_ss" update="add">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="person_ss" update="add">Johnson, Rachel</field>
+      <field name="personID_ss" update="add">per.002149</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Rachel","id":"per.002149"}</field>
+      <field name="person_ss" update="add">Adler, Morris</field>
+      <field name="personID_ss" update="add">per.002150</field>
+      <field name="personData_ss" update="add">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Ellen</field>
+      <field name="plaintiffID_ss" update="add">per.002260</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Ellen","id":"per.002260"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, John Thomas</field>
+      <field name="plaintiffID_ss" update="add">per.002261</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, John Thomas","id":"per.002261"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.002262</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Louisa","id":"per.002262"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.002263</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Robert","id":"per.002263"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Rachel</field>
+      <field name="plaintiffID_ss" update="add">per.002149</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Rachel","id":"per.002149"}</field>
+      <field name="defendant_ss" update="add">Adler, Morris</field>
+      <field name="defendantID_ss" update="add">per.002150</field>
+      <field name="defendantData_ss" update="add">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="defendant_ss" update="add">Adler, Morris</field>
+      <field name="defendantID_ss" update="add">per.002150</field>
+      <field name="defendantData_ss" update="add">{"label":"Adler, Morris","id":"per.002150"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0296.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ellen Johnson v. Morris Adler and Rachel Johnson v. Morris Adler. Defendant's Statement of Facts &amp; 2nd Bill of Exceptions (September 20, 1852)","date":"1852-09-20","dateDisplay":"September 20, 1852","id":"oscys.case.0296.001"}</field>
+   </doc>
+</add>

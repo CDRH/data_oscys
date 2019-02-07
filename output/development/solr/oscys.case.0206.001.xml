@@ -1,0 +1,93 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0206.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0206.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0206.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0206.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Sarah v. George Kirby. Petition for Freedom</field>
+      <field name="titleSort" update="add">sarah v. george kirby. petition for freedom</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date">T00:00:00Z</field>
+      <field name="dateDisplay">June 12</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 585, Folder 91</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Kirby, John Baptist</field>
+      <field name="people">Sarah</field>
+      <field name="people">Kirby, George</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Kirby, John Baptist</field>
+      <field name="personID_ss">per.000689</field>
+      <field name="personData_ss">{"label":"Kirby, John Baptist","id":"per.000689"}</field>
+      <field name="person_ss">Sarah</field>
+      <field name="personID_ss">per.001703</field>
+      <field name="personData_ss">{"label":"Sarah","id":"per.001703"}</field>
+      <field name="person_ss">Kirby, George</field>
+      <field name="personID_ss">per.000696</field>
+      <field name="personData_ss">{"label":"Kirby, George","id":"per.000696"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss">Sarah</field>
+      <field name="plaintiffID_ss">per.001703</field>
+      <field name="plaintiffData_ss">{"label":"Sarah","id":"per.001703"}</field>
+      <field name="defendant_ss">Kirby, George</field>
+      <field name="defendantID_ss">per.000696</field>
+      <field name="defendantData_ss">{"label":"Kirby, George","id":"per.000696"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1838-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0211</field>
+      <field name="documentCaseData_ss">{"label":"Sarah v. George Kirby","id":"oscys.caseid.0211"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble the Circuit Court of the District of Columbia for the County of Washington The Petition of Negress Sarah       humbly sheath that she is entitled to her freedom and is unjustly claimed as a slave by one George Kirby Executor of John B. Kirby Decd. Therefore she prays to be adjudged free and discharged and prays that subpa may be issued so the said George Kirby Exor of John B Kirby Decd so appear and answer hereto. F. S. Key for Petr 273. Negress Sarah vs Geo. Kirby Exor of John B. Kirby Peto for freedom filed 12th of June </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0211</field>
+      <field name="person_ss" update="add">Kirby, John Baptist</field>
+      <field name="personID_ss" update="add">per.000689</field>
+      <field name="personData_ss" update="add">{"label":"Kirby, John Baptist","id":"per.000689"}</field>
+      <field name="person_ss" update="add">Sarah</field>
+      <field name="personID_ss" update="add">per.001703</field>
+      <field name="personData_ss" update="add">{"label":"Sarah","id":"per.001703"}</field>
+      <field name="person_ss" update="add">Kirby, George</field>
+      <field name="personID_ss" update="add">per.000696</field>
+      <field name="personData_ss" update="add">{"label":"Kirby, George","id":"per.000696"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss" update="add">Sarah</field>
+      <field name="plaintiffID_ss" update="add">per.001703</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Sarah","id":"per.001703"}</field>
+      <field name="defendant_ss" update="add">Kirby, George</field>
+      <field name="defendantID_ss" update="add">per.000696</field>
+      <field name="defendantData_ss" update="add">{"label":"Kirby, George","id":"per.000696"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0206.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Sarah v. George Kirby. Petition for Freedom (December, --06)","date":"--06-12","dateDisplay":"December, --06","id":"oscys.case.0206.001"}</field>
+   </doc>
+</add>

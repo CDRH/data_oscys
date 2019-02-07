@@ -1,0 +1,134 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0057.004</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0057.004.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0057.004.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0057.004.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Dennis Wright v. Elizabeth Robinson &amp; Richard Taylor. August Taney to Robert Sewman</field>
+      <field name="titleSort" update="add">dennis wright v. elizabeth robinson &amp; richard taylor. august taney to robert sewman</field>
+      <field name="titleLetter_s" update="add">d</field>
+      <field name="contributor"/>
+      <field name="date">1822-02-12T00:00:00Z</field>
+      <field name="dateDisplay">February 12, 1822</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 303, Folder 416</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Correspondence</field>
+      <field name="people">Ball</field>
+      <field name="people">John</field>
+      <field name="people">Miccum</field>
+      <field name="people">Morton</field>
+      <field name="people">Sewman, Robert M.</field>
+      <field name="people">Wright, Dennis</field>
+      <field name="people">Robinson, Elizabeth</field>
+      <field name="people">Taylor, Richard</field>
+      <field name="people">Taney, Augustus</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Ball</field>
+      <field name="personID_ss">per.000518</field>
+      <field name="personData_ss">{"label":"Ball","id":"per.000518"}</field>
+      <field name="person_ss">John</field>
+      <field name="personID_ss">per.000522</field>
+      <field name="personData_ss">{"label":"John","id":"per.000522"}</field>
+      <field name="person_ss">Miccum</field>
+      <field name="personID_ss">per.000519</field>
+      <field name="personData_ss">{"label":"Miccum","id":"per.000519"}</field>
+      <field name="person_ss">Morton</field>
+      <field name="personID_ss">per.000520</field>
+      <field name="personData_ss">{"label":"Morton","id":"per.000520"}</field>
+      <field name="person_ss">Sewman, Robert M.</field>
+      <field name="personID_ss">per.000521</field>
+      <field name="personData_ss">{"label":"Sewman, Robert M.","id":"per.000521"}</field>
+      <field name="person_ss">Wright, Dennis</field>
+      <field name="personID_ss">per.000514</field>
+      <field name="personData_ss">{"label":"Wright, Dennis","id":"per.000514"}</field>
+      <field name="person_ss">Robinson, Elizabeth</field>
+      <field name="personID_ss">per.000515</field>
+      <field name="personData_ss">{"label":"Robinson, Elizabeth","id":"per.000515"}</field>
+      <field name="person_ss">Taylor, Richard</field>
+      <field name="personID_ss">per.000516</field>
+      <field name="personData_ss">{"label":"Taylor, Richard","id":"per.000516"}</field>
+      <field name="person_ss">Taney, Augustus</field>
+      <field name="personID_ss">per.000460</field>
+      <field name="personData_ss">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="plaintiff_ss">Wright, Dennis</field>
+      <field name="plaintiffID_ss">per.000514</field>
+      <field name="plaintiffData_ss">{"label":"Wright, Dennis","id":"per.000514"}</field>
+      <field name="defendant_ss">Robinson, Elizabeth</field>
+      <field name="defendantID_ss">per.000515</field>
+      <field name="defendantData_ss">{"label":"Robinson, Elizabeth","id":"per.000515"}</field>
+      <field name="defendant_ss">Taylor, Richard</field>
+      <field name="defendantID_ss">per.000516</field>
+      <field name="defendantData_ss">{"label":"Taylor, Richard","id":"per.000516"}</field>
+      <field name="attorneyP_ss">Taney, Augustus</field>
+      <field name="attorneyPID_ss">per.000460</field>
+      <field name="attorneyPData_ss">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="attorney_ss">Taney, Augustus</field>
+      <field name="attorneyID_ss">per.000460</field>
+      <field name="attorneyData_ss">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="sourceTitle_s">August Taney to Robert Sewman</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1823-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0057</field>
+      <field name="documentCaseData_ss">{"label":"Dennis Wright v. Elizabeth Robinson &amp; Richard Taylor","id":"oscys.caseid.0057"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Mr. Sewman My good friend do me the fav. of get the money from Ball. The witnesses are pressing John for their attendance. Please tell Miccum not present the order on Morton 'till I see him. yrs Augst. Taney Feby. 12. 1822. Robt. M. Sewman Esq. Mrs. Robinson will appear to Wrights Petition without summons. A.T. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0057</field>
+      <field name="person_ss" update="add">Ball</field>
+      <field name="personID_ss" update="add">per.000518</field>
+      <field name="personData_ss" update="add">{"label":"Ball","id":"per.000518"}</field>
+      <field name="person_ss" update="add">John</field>
+      <field name="personID_ss" update="add">per.000522</field>
+      <field name="personData_ss" update="add">{"label":"John","id":"per.000522"}</field>
+      <field name="person_ss" update="add">Miccum</field>
+      <field name="personID_ss" update="add">per.000519</field>
+      <field name="personData_ss" update="add">{"label":"Miccum","id":"per.000519"}</field>
+      <field name="person_ss" update="add">Morton</field>
+      <field name="personID_ss" update="add">per.000520</field>
+      <field name="personData_ss" update="add">{"label":"Morton","id":"per.000520"}</field>
+      <field name="person_ss" update="add">Sewman, Robert M.</field>
+      <field name="personID_ss" update="add">per.000521</field>
+      <field name="personData_ss" update="add">{"label":"Sewman, Robert M.","id":"per.000521"}</field>
+      <field name="person_ss" update="add">Wright, Dennis</field>
+      <field name="personID_ss" update="add">per.000514</field>
+      <field name="personData_ss" update="add">{"label":"Wright, Dennis","id":"per.000514"}</field>
+      <field name="person_ss" update="add">Robinson, Elizabeth</field>
+      <field name="personID_ss" update="add">per.000515</field>
+      <field name="personData_ss" update="add">{"label":"Robinson, Elizabeth","id":"per.000515"}</field>
+      <field name="person_ss" update="add">Taylor, Richard</field>
+      <field name="personID_ss" update="add">per.000516</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Richard","id":"per.000516"}</field>
+      <field name="person_ss" update="add">Taney, Augustus</field>
+      <field name="personID_ss" update="add">per.000460</field>
+      <field name="personData_ss" update="add">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="plaintiff_ss" update="add">Wright, Dennis</field>
+      <field name="plaintiffID_ss" update="add">per.000514</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Wright, Dennis","id":"per.000514"}</field>
+      <field name="defendant_ss" update="add">Robinson, Elizabeth</field>
+      <field name="defendantID_ss" update="add">per.000515</field>
+      <field name="defendantData_ss" update="add">{"label":"Robinson, Elizabeth","id":"per.000515"}</field>
+      <field name="defendant_ss" update="add">Taylor, Richard</field>
+      <field name="defendantID_ss" update="add">per.000516</field>
+      <field name="defendantData_ss" update="add">{"label":"Taylor, Richard","id":"per.000516"}</field>
+      <field name="attorneyP_ss" update="add">Taney, Augustus</field>
+      <field name="attorneyPID_ss" update="add">per.000460</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="attorney_ss" update="add">Taney, Augustus</field>
+      <field name="attorneyID_ss" update="add">per.000460</field>
+      <field name="attorneyData_ss" update="add">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0057.004</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Dennis Wright v. Elizabeth Robinson &amp; Richard Taylor. August Taney to Robert Sewman (February 12, 1822)","date":"1822-02-12","dateDisplay":"February 12, 1822","id":"oscys.case.0057.004"}</field>
+   </doc>
+</add>

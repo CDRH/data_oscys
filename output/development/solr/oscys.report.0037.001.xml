@@ -1,0 +1,117 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0037.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0037.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0037.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0037.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Bazil Thomas v. James Kennedy Jr. Circuit Court Report</field>
+      <field name="titleSort" update="add">bazil thomas v. james kennedy jr. circuit court report</field>
+      <field name="titleLetter_s" update="add">b</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1804-11-01T00:00:00Z</field>
+      <field name="dateDisplay">November 1804</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume I, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Turner, Charles</field>
+      <field name="people">Turner, Francina West</field>
+      <field name="people">Thomas, Bazil</field>
+      <field name="people">Kennedy, James, Jr.</field>
+      <field name="people">Lee, Charles, 1758-1815</field>
+      <field name="people">Swann, Thomas, 1789-1845</field>
+      <field name="person_ss">Turner, Charles</field>
+      <field name="personID_ss">per.002990</field>
+      <field name="personData_ss">{"label":"Turner, Charles","id":"per.002990"}</field>
+      <field name="person_ss">Turner, Francina West</field>
+      <field name="personID_ss">per.002991</field>
+      <field name="personData_ss">{"label":"Turner, Francina West","id":"per.002991"}</field>
+      <field name="person_ss">Thomas, Bazil</field>
+      <field name="personID_ss">per.002993</field>
+      <field name="personData_ss">{"label":"Thomas, Bazil","id":"per.002993"}</field>
+      <field name="person_ss">Kennedy, James, Jr.</field>
+      <field name="personID_ss">per.002994</field>
+      <field name="personData_ss">{"label":"Kennedy, James, Jr.","id":"per.002994"}</field>
+      <field name="person_ss">Lee, Charles, 1758-1815</field>
+      <field name="personID_ss">per.001563</field>
+      <field name="personData_ss">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="person_ss">Swann, Thomas, 1789-1845</field>
+      <field name="personID_ss">per.001562</field>
+      <field name="personData_ss">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="plaintiff_ss">Thomas, Bazil</field>
+      <field name="plaintiffID_ss">per.002993</field>
+      <field name="plaintiffData_ss">{"label":"Thomas, Bazil","id":"per.002993"}</field>
+      <field name="defendant_ss">Kennedy, James, Jr.</field>
+      <field name="defendantID_ss">per.002994</field>
+      <field name="defendantData_ss">{"label":"Kennedy, James, Jr.","id":"per.002994"}</field>
+      <field name="attorneyP_ss">Lee, Charles, 1758-1815</field>
+      <field name="attorneyPID_ss">per.001563</field>
+      <field name="attorneyPData_ss">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="attorney_ss">Lee, Charles, 1758-1815</field>
+      <field name="attorneyID_ss">per.001563</field>
+      <field name="attorneyData_ss">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="attorneyD_ss">Swann, Thomas, 1789-1845</field>
+      <field name="attorneyDID_ss">per.001562</field>
+      <field name="attorneyDData_ss">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="attorney_ss">Swann, Thomas, 1789-1845</field>
+      <field name="attorneyID_ss">per.001562</field>
+      <field name="attorneyData_ss">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1804-11</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0406</field>
+      <field name="documentCaseData_ss">{"label":"Bazil Thomas v. James Kennedy Jr.","id":"oscys.caseid.0406"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> Negro Bazil v. Kennedy. Upon a devise that a slave should be sold for eight years, after which he should be free, the term of eight years shall begin to run from the time of the death of the testator or within a reasonable time thereafter. This was an action to try the right of the plaintiff to his freedom under the will of Mrs. Turner, which was in these words: "I will that my slaves be sold by my executors, for the following terms: Bazil for eight years," (and others for other terms,) "and the money arising from the same I desire shall be applied in the following manner, to wit," (&amp;c., giving sundry specific legacies, and the residue to her husband, Charles Turner, she having, by her marriage settlement, reserved the power to devise her estate.) "I will that after the above slaves respectively arrive at the completion of the above terms, they shall be free and their posterity after them at the age of thirty years." Mr. C. Lee, for the plaintiff, cited Dade v. Alexander, 1. Wash. 30; Mayo's Lessee v. Carrington, 1 Wash. 45; New Rev. Code, 191, § 36. The testatrix died in 1796. Her husband suppressed the will. Bazil was sold as the property of the husband, by the marshal, to the defendant Kennedy, on the 27th of January 1802. The will was found and proved June, 1804. This action was brought on the 22d of August, 1804. The defendant purchased without notice. This was a vested legacy. Roden v. Smith, Amb. 588; 2 P. Wms. 478. Mr. Swann, for the defendant, contended that the term of eight years could not begin to run until the sale; and that the time of the sale was left to the discretion of the executor. But the Court decided that it was the intention of the testatrix that the plaintiff should be free after eight years' service after her death; and that the term began to run from the time of her death, unless some cause should be shown for extending it for a further reasonable time; and that as more than eight years had elapsed between the death of the testratrix and the commencement of this action, the plaintiff is entitled to his freedom. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0406</field>
+      <field name="person_ss" update="add">Turner, Charles</field>
+      <field name="personID_ss" update="add">per.002990</field>
+      <field name="personData_ss" update="add">{"label":"Turner, Charles","id":"per.002990"}</field>
+      <field name="person_ss" update="add">Turner, Francina West</field>
+      <field name="personID_ss" update="add">per.002991</field>
+      <field name="personData_ss" update="add">{"label":"Turner, Francina West","id":"per.002991"}</field>
+      <field name="person_ss" update="add">Thomas, Bazil</field>
+      <field name="personID_ss" update="add">per.002993</field>
+      <field name="personData_ss" update="add">{"label":"Thomas, Bazil","id":"per.002993"}</field>
+      <field name="person_ss" update="add">Kennedy, James, Jr.</field>
+      <field name="personID_ss" update="add">per.002994</field>
+      <field name="personData_ss" update="add">{"label":"Kennedy, James, Jr.","id":"per.002994"}</field>
+      <field name="person_ss" update="add">Lee, Charles, 1758-1815</field>
+      <field name="personID_ss" update="add">per.001563</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="person_ss" update="add">Swann, Thomas, 1789-1845</field>
+      <field name="personID_ss" update="add">per.001562</field>
+      <field name="personData_ss" update="add">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="plaintiff_ss" update="add">Thomas, Bazil</field>
+      <field name="plaintiffID_ss" update="add">per.002993</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Thomas, Bazil","id":"per.002993"}</field>
+      <field name="defendant_ss" update="add">Kennedy, James, Jr.</field>
+      <field name="defendantID_ss" update="add">per.002994</field>
+      <field name="defendantData_ss" update="add">{"label":"Kennedy, James, Jr.","id":"per.002994"}</field>
+      <field name="attorneyP_ss" update="add">Lee, Charles, 1758-1815</field>
+      <field name="attorneyPID_ss" update="add">per.001563</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="attorney_ss" update="add">Lee, Charles, 1758-1815</field>
+      <field name="attorneyID_ss" update="add">per.001563</field>
+      <field name="attorneyData_ss" update="add">{"label":"Lee, Charles, 1758-1815","id":"per.001563"}</field>
+      <field name="attorneyD_ss" update="add">Swann, Thomas, 1789-1845</field>
+      <field name="attorneyDID_ss" update="add">per.001562</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="attorney_ss" update="add">Swann, Thomas, 1789-1845</field>
+      <field name="attorneyID_ss" update="add">per.001562</field>
+      <field name="attorneyData_ss" update="add">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0037.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Bazil Thomas v. James Kennedy Jr. Circuit Court Report (November, 1804)","date":"1804-11","dateDisplay":"November, 1804","id":"oscys.report.0037.001"}</field>
+   </doc>
+</add>

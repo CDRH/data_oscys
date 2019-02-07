@@ -1,0 +1,203 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0012.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0012.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0012.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0012.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Jack Garretson v. Janet Lingan. Circuit Court Report</field>
+      <field name="titleSort" update="add">jack garretson v. janet lingan. circuit court report</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1821-04-01T00:00:00Z</field>
+      <field name="dateDisplay">April 1821</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume II, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Dade</field>
+      <field name="people">White</field>
+      <field name="people">Garretson, Jack</field>
+      <field name="people">Garretson, Rachel</field>
+      <field name="people">Johnson, Richard</field>
+      <field name="people">Luckett, Richard</field>
+      <field name="people">Lingan, Janet</field>
+      <field name="people">Jones, Walter, 1776-1861</field>
+      <field name="people">Taney, Augustus</field>
+      <field name="people">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="places">Maryland</field>
+      <field name="places">Virginia</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Dade</field>
+      <field name="personID_ss">per.002788</field>
+      <field name="personData_ss">{"label":"Dade","id":"per.002788"}</field>
+      <field name="person_ss">White</field>
+      <field name="personID_ss">per.002789</field>
+      <field name="personData_ss">{"label":"White","id":"per.002789"}</field>
+      <field name="person_ss">Garretson, Jack</field>
+      <field name="personID_ss">per.000449</field>
+      <field name="personData_ss">{"label":"Garretson, Jack","id":"per.000449"}</field>
+      <field name="person_ss">Garretson, Rachel</field>
+      <field name="personID_ss">per.000450</field>
+      <field name="personData_ss">{"label":"Garretson, Rachel","id":"per.000450"}</field>
+      <field name="person_ss">Johnson, Richard</field>
+      <field name="personID_ss">per.000451</field>
+      <field name="personData_ss">{"label":"Johnson, Richard","id":"per.000451"}</field>
+      <field name="person_ss">Luckett, Richard</field>
+      <field name="personID_ss">per.000452</field>
+      <field name="personData_ss">{"label":"Luckett, Richard","id":"per.000452"}</field>
+      <field name="person_ss">Lingan, Janet</field>
+      <field name="personID_ss">per.000453</field>
+      <field name="personData_ss">{"label":"Lingan, Janet","id":"per.000453"}</field>
+      <field name="person_ss">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss">per.000435</field>
+      <field name="personData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="person_ss">Taney, Augustus</field>
+      <field name="personID_ss">per.000460</field>
+      <field name="personData_ss">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="person_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="personID_ss">per.000194</field>
+      <field name="personData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss">Garretson, Jack</field>
+      <field name="plaintiffID_ss">per.000449</field>
+      <field name="plaintiffData_ss">{"label":"Garretson, Jack","id":"per.000449"}</field>
+      <field name="plaintiff_ss">Garretson, Rachel</field>
+      <field name="plaintiffID_ss">per.000450</field>
+      <field name="plaintiffData_ss">{"label":"Garretson, Rachel","id":"per.000450"}</field>
+      <field name="plaintiff_ss">Johnson, Richard</field>
+      <field name="plaintiffID_ss">per.000451</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, Richard","id":"per.000451"}</field>
+      <field name="plaintiff_ss">Luckett, Richard</field>
+      <field name="plaintiffID_ss">per.000452</field>
+      <field name="plaintiffData_ss">{"label":"Luckett, Richard","id":"per.000452"}</field>
+      <field name="defendant_ss">Lingan, Janet</field>
+      <field name="defendantID_ss">per.000453</field>
+      <field name="defendantData_ss">{"label":"Lingan, Janet","id":"per.000453"}</field>
+      <field name="attorneyP_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyPID_ss">per.000435</field>
+      <field name="attorneyPData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss">per.000435</field>
+      <field name="attorneyData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorneyP_ss">Taney, Augustus</field>
+      <field name="attorneyPID_ss">per.000460</field>
+      <field name="attorneyPData_ss">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="attorney_ss">Taney, Augustus</field>
+      <field name="attorneyID_ss">per.000460</field>
+      <field name="attorneyData_ss">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="attorneyD_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyDID_ss">per.000194</field>
+      <field name="attorneyDData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="attorney_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyID_ss">per.000194</field>
+      <field name="attorneyData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="attorneyD_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyDID_ss">per.000001</field>
+      <field name="attorneyDData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1821-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0042</field>
+      <field name="documentCaseData_ss">{"label":"Jack Garretson, Richard Luckett, Richard Johnson, &amp; Rachael Garretson v. Janet Lingan","id":"oscys.caseid.0042"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Jack Garretson v. Lingan. Length of time does not raise a presumption against a slave, that his owner took the oath required by law. Petition for freedom. The petitioner was carried, by his owner, from Maryland to Virginia, in the year 1784, and kept there several years, and then brought back to Maryland. By the law of Virginia of 17th of December, 1792, p. 186, the slave was entitled to his freedom, unless the owner took a certain oath within sixty days after his removal to Virginia. Mr. Key and Mr. Caldwell, for the defendant, moved the Court to instruct the jury, that after such a lapse of time they have a right to presume that the oath was duly taken agreeably to law. The law did not require that there should be any record of the taking of the oath. It is a fact which may be proved by parol. Judge White in Virginia has decided in favor of the presumption. Mr. Taney and Mr. Jones, contrà, stated that there is a contrary decision in 5 Munford, 542, and that Judge Dade had decided in the same way. The presumption could arise only from the acquiescence of the petitioner; but that presumption is rebutted by the state of slavery in which he has been held, which disabled him from asserting his rights. The Court (Cranch, C. J., doubting,) refused to give the instruction. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0042</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Dade</field>
+      <field name="personID_ss" update="add">per.002788</field>
+      <field name="personData_ss" update="add">{"label":"Dade","id":"per.002788"}</field>
+      <field name="person_ss" update="add">White</field>
+      <field name="personID_ss" update="add">per.002789</field>
+      <field name="personData_ss" update="add">{"label":"White","id":"per.002789"}</field>
+      <field name="person_ss" update="add">Garretson, Jack</field>
+      <field name="personID_ss" update="add">per.000449</field>
+      <field name="personData_ss" update="add">{"label":"Garretson, Jack","id":"per.000449"}</field>
+      <field name="person_ss" update="add">Garretson, Rachel</field>
+      <field name="personID_ss" update="add">per.000450</field>
+      <field name="personData_ss" update="add">{"label":"Garretson, Rachel","id":"per.000450"}</field>
+      <field name="person_ss" update="add">Johnson, Richard</field>
+      <field name="personID_ss" update="add">per.000451</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Richard","id":"per.000451"}</field>
+      <field name="person_ss" update="add">Luckett, Richard</field>
+      <field name="personID_ss" update="add">per.000452</field>
+      <field name="personData_ss" update="add">{"label":"Luckett, Richard","id":"per.000452"}</field>
+      <field name="person_ss" update="add">Lingan, Janet</field>
+      <field name="personID_ss" update="add">per.000453</field>
+      <field name="personData_ss" update="add">{"label":"Lingan, Janet","id":"per.000453"}</field>
+      <field name="person_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss" update="add">per.000435</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="person_ss" update="add">Taney, Augustus</field>
+      <field name="personID_ss" update="add">per.000460</field>
+      <field name="personData_ss" update="add">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="person_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="personID_ss" update="add">per.000194</field>
+      <field name="personData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss" update="add">Garretson, Jack</field>
+      <field name="plaintiffID_ss" update="add">per.000449</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Garretson, Jack","id":"per.000449"}</field>
+      <field name="plaintiff_ss" update="add">Garretson, Rachel</field>
+      <field name="plaintiffID_ss" update="add">per.000450</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Garretson, Rachel","id":"per.000450"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Richard</field>
+      <field name="plaintiffID_ss" update="add">per.000451</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Richard","id":"per.000451"}</field>
+      <field name="plaintiff_ss" update="add">Luckett, Richard</field>
+      <field name="plaintiffID_ss" update="add">per.000452</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Luckett, Richard","id":"per.000452"}</field>
+      <field name="defendant_ss" update="add">Lingan, Janet</field>
+      <field name="defendantID_ss" update="add">per.000453</field>
+      <field name="defendantData_ss" update="add">{"label":"Lingan, Janet","id":"per.000453"}</field>
+      <field name="attorneyP_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyPID_ss" update="add">per.000435</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss" update="add">per.000435</field>
+      <field name="attorneyData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorneyP_ss" update="add">Taney, Augustus</field>
+      <field name="attorneyPID_ss" update="add">per.000460</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="attorney_ss" update="add">Taney, Augustus</field>
+      <field name="attorneyID_ss" update="add">per.000460</field>
+      <field name="attorneyData_ss" update="add">{"label":"Taney, Augustus","id":"per.000460"}</field>
+      <field name="attorneyD_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyDID_ss" update="add">per.000194</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="attorney_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyID_ss" update="add">per.000194</field>
+      <field name="attorneyData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="attorneyD_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyDID_ss" update="add">per.000001</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0012.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Jack Garretson v. Janet Lingan. Circuit Court Report (April, 1821)","date":"1821-04","dateDisplay":"April, 1821","id":"oscys.report.0012.001"}</field>
+   </doc>
+</add>

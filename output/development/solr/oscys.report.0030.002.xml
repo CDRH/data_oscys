@@ -1,0 +1,206 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0030.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0030.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0030.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0030.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Thomas Butler v. Gabriel Duvall. Circuit Court Report</field>
+      <field name="titleSort" update="add">thomas butler v. gabriel duvall. circuit court report</field>
+      <field name="titleLetter_s" update="add">t</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1831-05-01T00:00:00Z</field>
+      <field name="dateDisplay">May 1831</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume IV, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Dells, John</field>
+      <field name="people">Butler, Airy</field>
+      <field name="people">Butler, Eliza</field>
+      <field name="people">Butler, Liddy</field>
+      <field name="people">Butler, Matilda</field>
+      <field name="people">Butler, Reason</field>
+      <field name="people">Butler, Sally</field>
+      <field name="people">Butler, Sarah</field>
+      <field name="people">Butler, Thomas</field>
+      <field name="people">Duvall, Gabriel, 1752-1844</field>
+      <field name="people">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="people">Jones, Walter, 1776-1861</field>
+      <field name="places">Virginia</field>
+      <field name="places">Prince George's County (Md.)</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Georgetown (Washington, D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Dells, John</field>
+      <field name="personID_ss">per.001394</field>
+      <field name="personData_ss">{"label":"Dells, John","id":"per.001394"}</field>
+      <field name="person_ss">Butler, Airy</field>
+      <field name="personID_ss">per.001385</field>
+      <field name="personData_ss">{"label":"Butler, Airy","id":"per.001385"}</field>
+      <field name="person_ss">Butler, Eliza</field>
+      <field name="personID_ss">per.001386</field>
+      <field name="personData_ss">{"label":"Butler, Eliza","id":"per.001386"}</field>
+      <field name="person_ss">Butler, Liddy</field>
+      <field name="personID_ss">per.001387</field>
+      <field name="personData_ss">{"label":"Butler, Liddy","id":"per.001387"}</field>
+      <field name="person_ss">Butler, Matilda</field>
+      <field name="personID_ss">per.001388</field>
+      <field name="personData_ss">{"label":"Butler, Matilda","id":"per.001388"}</field>
+      <field name="person_ss">Butler, Reason</field>
+      <field name="personID_ss">per.001389</field>
+      <field name="personData_ss">{"label":"Butler, Reason","id":"per.001389"}</field>
+      <field name="person_ss">Butler, Sally</field>
+      <field name="personID_ss">per.001390</field>
+      <field name="personData_ss">{"label":"Butler, Sally","id":"per.001390"}</field>
+      <field name="person_ss">Butler, Sarah</field>
+      <field name="personID_ss">per.001391</field>
+      <field name="personData_ss">{"label":"Butler, Sarah","id":"per.001391"}</field>
+      <field name="person_ss">Butler, Thomas</field>
+      <field name="personID_ss">per.001392</field>
+      <field name="personData_ss">{"label":"Butler, Thomas","id":"per.001392"}</field>
+      <field name="person_ss">Duvall, Gabriel, 1752-1844</field>
+      <field name="personID_ss">per.001393</field>
+      <field name="personData_ss">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="person_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss">per.000496</field>
+      <field name="personData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="person_ss">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss">per.000435</field>
+      <field name="personData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="plaintiff_ss">Butler, Airy</field>
+      <field name="plaintiffID_ss">per.001385</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Airy","id":"per.001385"}</field>
+      <field name="plaintiff_ss">Butler, Eliza</field>
+      <field name="plaintiffID_ss">per.001386</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Eliza","id":"per.001386"}</field>
+      <field name="plaintiff_ss">Butler, Liddy</field>
+      <field name="plaintiffID_ss">per.001387</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Liddy","id":"per.001387"}</field>
+      <field name="plaintiff_ss">Butler, Matilda</field>
+      <field name="plaintiffID_ss">per.001388</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Matilda","id":"per.001388"}</field>
+      <field name="plaintiff_ss">Butler, Reason</field>
+      <field name="plaintiffID_ss">per.001389</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Reason","id":"per.001389"}</field>
+      <field name="plaintiff_ss">Butler, Sally</field>
+      <field name="plaintiffID_ss">per.001390</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Sally","id":"per.001390"}</field>
+      <field name="plaintiff_ss">Butler, Sarah</field>
+      <field name="plaintiffID_ss">per.001391</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Sarah","id":"per.001391"}</field>
+      <field name="plaintiff_ss">Butler, Thomas</field>
+      <field name="plaintiffID_ss">per.001392</field>
+      <field name="plaintiffData_ss">{"label":"Butler, Thomas","id":"per.001392"}</field>
+      <field name="defendant_ss">Duvall, Gabriel, 1752-1844</field>
+      <field name="defendantID_ss">per.001393</field>
+      <field name="defendantData_ss">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="attorneyP_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyPID_ss">per.000496</field>
+      <field name="attorneyPData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss">per.000496</field>
+      <field name="attorneyData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorneyD_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss">per.000435</field>
+      <field name="attorneyDData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss">per.000435</field>
+      <field name="attorneyData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1831-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0217</field>
+      <field name="documentCaseData_ss">{"label":"Thomas Butler, Sarah Butler, Matilda Butler, Airy Butler, Reason Butler, Sally Butler, Liddy Butler, &amp; Eliza Butler v. Gabriel Duvall","id":"oscys.caseid.0217"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Thomas Butler et al. v. Gabriel Duvall. Slaves removed by their owner from Maryland, or Georgetown in the District of Columbia, to Virginia, and kept therein one whole year, are entitled to freedom under the law of Virginia, unless the owner took the oath prescribed by that law within the time thereby limited; but after the lapse of twenty-five or thirty years, the jury may presume that such oath was taken as prescribed, and within the limited time. Slaves carried by the owner from Virginia to Maryland, with intent to reside therein, are entitled to freedom. If slaves be removed by their owner from Virginia to the county of Washington, D.C., and there sold within three years after such removal, the jury may infer that they were imported for sale, and if so, they are entitled to freedom. This was a petition for freedom. Upon the trial the following instructions were given by the Court to the jury: 1. Upon the prayer of Mr. Coxe, for the petitioners,—That if the jury shall believe, from the evidence aforesaid, that Dales was the owner of the petitioners, or their parents, in the State of Maryland, or in Georgetown in the District of Columbia, and resided with them there, and subsequently removed to Virginia, and kept them in that State, one whole year together, that then the said petitioners are entitled to their freedom under the law of Virginia, unless the said Dales, within the time specified in the Virginia law, complied with the requisitions of that law by taking the oath therein prescribed. 2. But, at the prayer of Mr. Jones, for the defendant, further instructed them, that if they believe from the evidence that such removal, to Virginia, of the said slaves, was more than twenty-five to thirty years before the bringing of this petition; that during all the time the said Dales lived, whether in Virginia, in Maryland, or in the District of Columbia, the petitioners were continually held and used as slaves, either by the said Dales or by the defendant as purchaser from him; that the said slaves were purchased by said Duvall of the said Dales more than twenty years before the bringing of this petition, and have been held by him, as slaves, by virtue of that purchase, ever since; and that the said Dales died some years before the filing of this petition, then it is not necessary for this defendant to offer further evidence to prove a compliance, on the part of said Dales, with said requisitions of the Virginia law, but such compliance may be presumed; and the burden of proving the contrary thrown on the petitioners. 3. On the prayer of Mr. Coxe, for the petitioners, that if the jury shall believe from the evidence aforesaid, that the said Dales, owner of said petitioners as aforesaid, resided with the said petitioners in Virginia, and sold them' while he so resided, to the defendant, whether said sale was made in Georgetown or in Virginia, the defendant then residing in Washington county, D.C., who then carried said slaves to Prince George's county, with intent to reside therein, then the petitioners are entitled to their freedom. And in such case, if the said slaves and their master resided in the State of Virginia, and their said master removed with them to the District of Columbia, and sold them within three years after such removal, then the jury may infer that the said slaves were imported with intent to sell them; and if so they are entitled to their freedom. Mr. Jones, in support of his prayer (No. 2,) cited Matilda v. Mason, in this Court, at October term, 1821, (2 Cranch C. C. 343,) and S.C. 12 Wheat. 590, on writ of error; Murray v. McCarthy, 2 Mun. 393; Abraham v Matthew, 6 Mun. 159. Verdict for the petitioners. Motion for new trial, overruled. No writ of error taken. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0217</field>
+      <field name="person_ss" update="add">Dells, John</field>
+      <field name="personID_ss" update="add">per.001394</field>
+      <field name="personData_ss" update="add">{"label":"Dells, John","id":"per.001394"}</field>
+      <field name="person_ss" update="add">Butler, Airy</field>
+      <field name="personID_ss" update="add">per.001385</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Airy","id":"per.001385"}</field>
+      <field name="person_ss" update="add">Butler, Eliza</field>
+      <field name="personID_ss" update="add">per.001386</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Eliza","id":"per.001386"}</field>
+      <field name="person_ss" update="add">Butler, Liddy</field>
+      <field name="personID_ss" update="add">per.001387</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Liddy","id":"per.001387"}</field>
+      <field name="person_ss" update="add">Butler, Matilda</field>
+      <field name="personID_ss" update="add">per.001388</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Matilda","id":"per.001388"}</field>
+      <field name="person_ss" update="add">Butler, Reason</field>
+      <field name="personID_ss" update="add">per.001389</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Reason","id":"per.001389"}</field>
+      <field name="person_ss" update="add">Butler, Sally</field>
+      <field name="personID_ss" update="add">per.001390</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Sally","id":"per.001390"}</field>
+      <field name="person_ss" update="add">Butler, Sarah</field>
+      <field name="personID_ss" update="add">per.001391</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Sarah","id":"per.001391"}</field>
+      <field name="person_ss" update="add">Butler, Thomas</field>
+      <field name="personID_ss" update="add">per.001392</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Thomas","id":"per.001392"}</field>
+      <field name="person_ss" update="add">Duvall, Gabriel, 1752-1844</field>
+      <field name="personID_ss" update="add">per.001393</field>
+      <field name="personData_ss" update="add">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="person_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss" update="add">per.000496</field>
+      <field name="personData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="person_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss" update="add">per.000435</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Airy</field>
+      <field name="plaintiffID_ss" update="add">per.001385</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Airy","id":"per.001385"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Eliza</field>
+      <field name="plaintiffID_ss" update="add">per.001386</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Eliza","id":"per.001386"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Liddy</field>
+      <field name="plaintiffID_ss" update="add">per.001387</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Liddy","id":"per.001387"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Matilda</field>
+      <field name="plaintiffID_ss" update="add">per.001388</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Matilda","id":"per.001388"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Reason</field>
+      <field name="plaintiffID_ss" update="add">per.001389</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Reason","id":"per.001389"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Sally</field>
+      <field name="plaintiffID_ss" update="add">per.001390</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Sally","id":"per.001390"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Sarah</field>
+      <field name="plaintiffID_ss" update="add">per.001391</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Sarah","id":"per.001391"}</field>
+      <field name="plaintiff_ss" update="add">Butler, Thomas</field>
+      <field name="plaintiffID_ss" update="add">per.001392</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Butler, Thomas","id":"per.001392"}</field>
+      <field name="defendant_ss" update="add">Duvall, Gabriel, 1752-1844</field>
+      <field name="defendantID_ss" update="add">per.001393</field>
+      <field name="defendantData_ss" update="add">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="attorneyP_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyPID_ss" update="add">per.000496</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss" update="add">per.000496</field>
+      <field name="attorneyData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorneyD_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss" update="add">per.000435</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss" update="add">per.000435</field>
+      <field name="attorneyData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0030.002</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Thomas Butler v. Gabriel Duvall. Circuit Court Report (May, 1831)","date":"1831-05","dateDisplay":"May, 1831","id":"oscys.report.0030.002"}</field>
+   </doc>
+</add>

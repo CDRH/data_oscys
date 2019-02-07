@@ -1,0 +1,82 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0014.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0014.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0014.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0014.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Vincent Gardner v. Thompson Simpson. Circuit Court Report</field>
+      <field name="titleSort" update="add">vincent gardner v. thompson simpson. circuit court report</field>
+      <field name="titleLetter_s" update="add">v</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1823-04-01T00:00:00Z</field>
+      <field name="dateDisplay">April 1823</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume II, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Gardner, Thomas</field>
+      <field name="people">Barnes</field>
+      <field name="people">Gardner, Vincent</field>
+      <field name="people">Simpson, Thompson</field>
+      <field name="places">Virginia</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Gardner, Thomas</field>
+      <field name="personID_ss">per.000480</field>
+      <field name="personData_ss">{"label":"Gardner, Thomas","id":"per.000480"}</field>
+      <field name="person_ss">Barnes</field>
+      <field name="personID_ss">per.002790</field>
+      <field name="personData_ss">{"label":"Barnes","id":"per.002790"}</field>
+      <field name="person_ss">Gardner, Vincent</field>
+      <field name="personID_ss">per.000481</field>
+      <field name="personData_ss">{"label":"Gardner, Vincent","id":"per.000481"}</field>
+      <field name="person_ss">Simpson, Thompson</field>
+      <field name="personID_ss">per.000482</field>
+      <field name="personData_ss">{"label":"Simpson, Thompson","id":"per.000482"}</field>
+      <field name="plaintiff_ss">Gardner, Vincent</field>
+      <field name="plaintiffID_ss">per.000481</field>
+      <field name="plaintiffData_ss">{"label":"Gardner, Vincent","id":"per.000481"}</field>
+      <field name="defendant_ss">Simpson, Thompson</field>
+      <field name="defendantID_ss">per.000482</field>
+      <field name="defendantData_ss">{"label":"Simpson, Thompson","id":"per.000482"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1823-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0049</field>
+      <field name="documentCaseData_ss">{"label":"Vincent Gardner v. Thompson Simpson","id":"oscys.caseid.0049"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Vincent Gardner v. Thompson Simpson. A Virginian slave is not entitled to freedom, under the Maryland Act of 1796, c. 67, by being hired to a resident of the county of Washington for a limited period. Petition for freedom. Upon the trial, the petitioner's counsel took a bill of exceptions, which stated that he offered evidence to prove that the petitioner was residing in the city of Washington previous to Christmas, 1821, and continued so to reside till the end of the year 1822. That the defendant was a citizen and resident of Virginia, and knew that the petitioner was so residing in Washington, and made no objection to his so residing. That the defendant offered evidence to prove that the petitioner was his slave, born in Virginia, and that he hired the petitioner to the petitioner's father, Tom Gardner, for the year 1821, who then lived in Virginia. And that in 1822, he hired him to one Barnes, for the petitioner's father, not knowing that the father was about to remove into the county of Washington in the District of Columbia, which he did in December, 1821, taking the petitioner with him, where he remained until the 22d of December, 1822, and was at the defendant's house in Virginia, on the 25th of the same month. That the petitioner afterwards returned to Washington, and did not return to the defendant at the expiration of the year, but remained in Washington, and claimed his freedom in consequence of such removal to Washington: Whereupon, the Court, at the prayer of the defendant's counsel, instructed the jury, that if they should be satisfied by the evidence, that the importation of the petitioner into the county of Washington was with the intent that he should be hired to remain for a limited time only, and not permanently, it was not such an importation as is within the first section of the Act of Maryland of 1796, c. 67. Verdict for the defendant. A bill of exceptions was signed and a writ of error taken out, but not prosecuted. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0049</field>
+      <field name="person_ss" update="add">Gardner, Thomas</field>
+      <field name="personID_ss" update="add">per.000480</field>
+      <field name="personData_ss" update="add">{"label":"Gardner, Thomas","id":"per.000480"}</field>
+      <field name="person_ss" update="add">Barnes</field>
+      <field name="personID_ss" update="add">per.002790</field>
+      <field name="personData_ss" update="add">{"label":"Barnes","id":"per.002790"}</field>
+      <field name="person_ss" update="add">Gardner, Vincent</field>
+      <field name="personID_ss" update="add">per.000481</field>
+      <field name="personData_ss" update="add">{"label":"Gardner, Vincent","id":"per.000481"}</field>
+      <field name="person_ss" update="add">Simpson, Thompson</field>
+      <field name="personID_ss" update="add">per.000482</field>
+      <field name="personData_ss" update="add">{"label":"Simpson, Thompson","id":"per.000482"}</field>
+      <field name="plaintiff_ss" update="add">Gardner, Vincent</field>
+      <field name="plaintiffID_ss" update="add">per.000481</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gardner, Vincent","id":"per.000481"}</field>
+      <field name="defendant_ss" update="add">Simpson, Thompson</field>
+      <field name="defendantID_ss" update="add">per.000482</field>
+      <field name="defendantData_ss" update="add">{"label":"Simpson, Thompson","id":"per.000482"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0014.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Vincent Gardner v. Thompson Simpson. Circuit Court Report (April, 1823)","date":"1823-04","dateDisplay":"April, 1823","id":"oscys.report.0014.001"}</field>
+   </doc>
+</add>

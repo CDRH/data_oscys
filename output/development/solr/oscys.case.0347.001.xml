@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0347.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0347.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0347.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0347.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Nancy Cox v. James Cox. Petition for Freedom</field>
+      <field name="titleSort" update="add">nancy cox v. james cox. petition for freedom</field>
+      <field name="titleLetter_s" update="add">n</field>
+      <field name="contributor"/>
+      <field name="date">1829-08-04T00:00:00Z</field>
+      <field name="dateDisplay">August 4, 1829</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 435, Folder 52</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Cox, Nancy</field>
+      <field name="people">Cox, James</field>
+      <field name="people">Hall, David A.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Cox, Nancy</field>
+      <field name="personID_ss">per.002551</field>
+      <field name="personData_ss">{"label":"Cox, Nancy","id":"per.002551"}</field>
+      <field name="person_ss">Cox, James</field>
+      <field name="personID_ss">per.002552</field>
+      <field name="personData_ss">{"label":"Cox, James","id":"per.002552"}</field>
+      <field name="person_ss">Hall, David A.</field>
+      <field name="personID_ss">per.000533</field>
+      <field name="personData_ss">{"label":"Hall, David A.","id":"per.000533"}</field>
+      <field name="plaintiff_ss">Cox, Nancy</field>
+      <field name="plaintiffID_ss">per.002551</field>
+      <field name="plaintiffData_ss">{"label":"Cox, Nancy","id":"per.002551"}</field>
+      <field name="defendant_ss">Cox, James</field>
+      <field name="defendantID_ss">per.002552</field>
+      <field name="defendantData_ss">{"label":"Cox, James","id":"per.002552"}</field>
+      <field name="attorneyP_ss">Hall, David A.</field>
+      <field name="attorneyPID_ss">per.000533</field>
+      <field name="attorneyPData_ss">{"label":"Hall, David A.","id":"per.000533"}</field>
+      <field name="attorney_ss">Hall, David A.</field>
+      <field name="attorneyID_ss">per.000533</field>
+      <field name="attorneyData_ss">{"label":"Hall, David A.","id":"per.000533"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1830-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0372</field>
+      <field name="documentCaseData_ss">{"label":"Nancy Cox v. James Cox","id":"oscys.caseid.0372"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> District of Columbia County of Washington To Wit. The petition of Nancy Cox a woman of colour, to the Hon. the judges of the Circuit court of the District of Columbia sitting for the county of Washington, humbly represents, that she being of right, and by the laws existing in the said county entitled to her freedom, is unjustly restrained thereof, and contrary to law, is held in servitude by one James Cox late of said County. Wherefore she prays that the proper process may be issued from your Honourable court to bring the said James into court, to answer to the said charge, and that she may be relieved from the servitude which he so wrongfully claims to exercise over her. And she farther claims the protection of this court in the mean time, against any violence that may be attempted by the said James Cox, or any one acting by or under his authority. D. A. Hall for petitioner 81. Nancy Cox v. James Cox. Petition for freedom Clerk will please issue process vs. Deft. &amp; certificate thereof for pltff. D. A. Hall Filed 4 August 1829. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0372</field>
+      <field name="person_ss" update="add">Cox, Nancy</field>
+      <field name="personID_ss" update="add">per.002551</field>
+      <field name="personData_ss" update="add">{"label":"Cox, Nancy","id":"per.002551"}</field>
+      <field name="person_ss" update="add">Cox, James</field>
+      <field name="personID_ss" update="add">per.002552</field>
+      <field name="personData_ss" update="add">{"label":"Cox, James","id":"per.002552"}</field>
+      <field name="person_ss" update="add">Hall, David A.</field>
+      <field name="personID_ss" update="add">per.000533</field>
+      <field name="personData_ss" update="add">{"label":"Hall, David A.","id":"per.000533"}</field>
+      <field name="plaintiff_ss" update="add">Cox, Nancy</field>
+      <field name="plaintiffID_ss" update="add">per.002551</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Cox, Nancy","id":"per.002551"}</field>
+      <field name="defendant_ss" update="add">Cox, James</field>
+      <field name="defendantID_ss" update="add">per.002552</field>
+      <field name="defendantData_ss" update="add">{"label":"Cox, James","id":"per.002552"}</field>
+      <field name="attorneyP_ss" update="add">Hall, David A.</field>
+      <field name="attorneyPID_ss" update="add">per.000533</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Hall, David A.","id":"per.000533"}</field>
+      <field name="attorney_ss" update="add">Hall, David A.</field>
+      <field name="attorneyID_ss" update="add">per.000533</field>
+      <field name="attorneyData_ss" update="add">{"label":"Hall, David A.","id":"per.000533"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0347.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Nancy Cox v. James Cox. Petition for Freedom (August 4, 1829)","date":"1829-08-04","dateDisplay":"August 4, 1829","id":"oscys.case.0347.001"}</field>
+   </doc>
+</add>

@@ -1,0 +1,92 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0365.004</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0365.004.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0365.004.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0365.004.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Jacob v. Stephen Cooke. Affidavit of Thomas Botts</field>
+      <field name="titleSort" update="add">jacob v. stephen cooke. affidavit of thomas botts</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Affidavit</field>
+      <field name="people">Fitzpatrick, Mary</field>
+      <field name="people">Jacob</field>
+      <field name="people">Cooke, Stephen</field>
+      <field name="people">Botts, Thomas</field>
+      <field name="places">Maryland</field>
+      <field name="person_ss">Fitzpatrick, Mary</field>
+      <field name="personID_ss">per.002831</field>
+      <field name="personData_ss">{"label":"Fitzpatrick, Mary","id":"per.002831"}</field>
+      <field name="person_ss">Jacob</field>
+      <field name="personID_ss">per.002829</field>
+      <field name="personData_ss">{"label":"Jacob","id":"per.002829"}</field>
+      <field name="person_ss">Cooke, Stephen</field>
+      <field name="personID_ss">per.002458</field>
+      <field name="personData_ss">{"label":"Cooke, Stephen","id":"per.002458"}</field>
+      <field name="person_ss">Botts, Thomas</field>
+      <field name="personID_ss">per.002830</field>
+      <field name="personData_ss">{"label":"Botts, Thomas","id":"per.002830"}</field>
+      <field name="plaintiff_ss">Jacob</field>
+      <field name="plaintiffID_ss">per.002829</field>
+      <field name="plaintiffData_ss">{"label":"Jacob","id":"per.002829"}</field>
+      <field name="defendant_ss">Cooke, Stephen</field>
+      <field name="defendantID_ss">per.002458</field>
+      <field name="defendantData_ss">{"label":"Cooke, Stephen","id":"per.002458"}</field>
+      <field name="attorneyP_ss">Botts, Thomas</field>
+      <field name="attorneyPID_ss">per.002830</field>
+      <field name="attorneyPData_ss">{"label":"Botts, Thomas","id":"per.002830"}</field>
+      <field name="attorney_ss">Botts, Thomas</field>
+      <field name="attorneyID_ss">per.002830</field>
+      <field name="attorneyData_ss">{"label":"Botts, Thomas","id":"per.002830"}</field>
+      <field name="sourceTitle_s">Affidavit of Thomas Botts</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1801-07</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0391</field>
+      <field name="documentCaseData_ss">{"label":"Jacob v. Stephen Cooke","id":"oscys.caseid.0391"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> It appearing from the oath of Mary Fitzpatrick that Negroe Jacob has been imported into this Commonwealth and sold subsequent to the year 1778 from the state of Maryland. It is my opinion that the said negroe is entitled to his freedom under an Act of Assembly passed in that year prohibiting the importation of slaves in to this Commonwealth. Tho Botts Atto. at law </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0391</field>
+      <field name="person_ss" update="add">Fitzpatrick, Mary</field>
+      <field name="personID_ss" update="add">per.002831</field>
+      <field name="personData_ss" update="add">{"label":"Fitzpatrick, Mary","id":"per.002831"}</field>
+      <field name="person_ss" update="add">Jacob</field>
+      <field name="personID_ss" update="add">per.002829</field>
+      <field name="personData_ss" update="add">{"label":"Jacob","id":"per.002829"}</field>
+      <field name="person_ss" update="add">Cooke, Stephen</field>
+      <field name="personID_ss" update="add">per.002458</field>
+      <field name="personData_ss" update="add">{"label":"Cooke, Stephen","id":"per.002458"}</field>
+      <field name="person_ss" update="add">Botts, Thomas</field>
+      <field name="personID_ss" update="add">per.002830</field>
+      <field name="personData_ss" update="add">{"label":"Botts, Thomas","id":"per.002830"}</field>
+      <field name="plaintiff_ss" update="add">Jacob</field>
+      <field name="plaintiffID_ss" update="add">per.002829</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jacob","id":"per.002829"}</field>
+      <field name="defendant_ss" update="add">Cooke, Stephen</field>
+      <field name="defendantID_ss" update="add">per.002458</field>
+      <field name="defendantData_ss" update="add">{"label":"Cooke, Stephen","id":"per.002458"}</field>
+      <field name="attorneyP_ss" update="add">Botts, Thomas</field>
+      <field name="attorneyPID_ss" update="add">per.002830</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Botts, Thomas","id":"per.002830"}</field>
+      <field name="attorney_ss" update="add">Botts, Thomas</field>
+      <field name="attorneyID_ss" update="add">per.002830</field>
+      <field name="attorneyData_ss" update="add">{"label":"Botts, Thomas","id":"per.002830"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0365.004</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Jacob v. Stephen Cooke. Affidavit of Thomas Botts","id":"oscys.case.0365.004"}</field>
+   </doc>
+</add>

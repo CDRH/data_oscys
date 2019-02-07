@@ -1,0 +1,186 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0025.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0025.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0025.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0025.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Harry Wigle v. George Kirby. Circuit Court Report</field>
+      <field name="titleSort" update="add">harry wigle v. george kirby. circuit court report</field>
+      <field name="titleLetter_s" update="add">h</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1829-05-01T00:00:00Z</field>
+      <field name="dateDisplay">May 1829</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume III, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Kirby, John Baptist</field>
+      <field name="people">Thruston, Buckner, 1763-1845</field>
+      <field name="people">Forrest, William</field>
+      <field name="people">Johnson, Nace</field>
+      <field name="people">Johnson, Nancy</field>
+      <field name="people">Wigle, Adam</field>
+      <field name="people">Wigle, Harry</field>
+      <field name="people">Wigle, Rachel</field>
+      <field name="people">Kirby, George</field>
+      <field name="people">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="people">Ashton, Henry</field>
+      <field name="places">Maryland</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="person_ss">Kirby, John Baptist</field>
+      <field name="personID_ss">per.000689</field>
+      <field name="personData_ss">{"label":"Kirby, John Baptist","id":"per.000689"}</field>
+      <field name="person_ss">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss">per.000064</field>
+      <field name="personData_ss">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss">Forrest, William</field>
+      <field name="personID_ss">per.000690</field>
+      <field name="personData_ss">{"label":"Forrest, William","id":"per.000690"}</field>
+      <field name="person_ss">Johnson, Nace</field>
+      <field name="personID_ss">per.000691</field>
+      <field name="personData_ss">{"label":"Johnson, Nace","id":"per.000691"}</field>
+      <field name="person_ss">Johnson, Nancy</field>
+      <field name="personID_ss">per.000692</field>
+      <field name="personData_ss">{"label":"Johnson, Nancy","id":"per.000692"}</field>
+      <field name="person_ss">Wigle, Adam</field>
+      <field name="personID_ss">per.000693</field>
+      <field name="personData_ss">{"label":"Wigle, Adam","id":"per.000693"}</field>
+      <field name="person_ss">Wigle, Harry</field>
+      <field name="personID_ss">per.000694</field>
+      <field name="personData_ss">{"label":"Wigle, Harry","id":"per.000694"}</field>
+      <field name="person_ss">Wigle, Rachel</field>
+      <field name="personID_ss">per.000695</field>
+      <field name="personData_ss">{"label":"Wigle, Rachel","id":"per.000695"}</field>
+      <field name="person_ss">Kirby, George</field>
+      <field name="personID_ss">per.000696</field>
+      <field name="personData_ss">{"label":"Kirby, George","id":"per.000696"}</field>
+      <field name="person_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss">per.000496</field>
+      <field name="personData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="person_ss">Ashton, Henry</field>
+      <field name="personID_ss">per.001183</field>
+      <field name="personData_ss">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="plaintiff_ss">Forrest, William</field>
+      <field name="plaintiffID_ss">per.000690</field>
+      <field name="plaintiffData_ss">{"label":"Forrest, William","id":"per.000690"}</field>
+      <field name="plaintiff_ss">Johnson, Nace</field>
+      <field name="plaintiffID_ss">per.000691</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, Nace","id":"per.000691"}</field>
+      <field name="plaintiff_ss">Johnson, Nancy</field>
+      <field name="plaintiffID_ss">per.000692</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, Nancy","id":"per.000692"}</field>
+      <field name="plaintiff_ss">Wigle, Adam</field>
+      <field name="plaintiffID_ss">per.000693</field>
+      <field name="plaintiffData_ss">{"label":"Wigle, Adam","id":"per.000693"}</field>
+      <field name="plaintiff_ss">Wigle, Harry</field>
+      <field name="plaintiffID_ss">per.000694</field>
+      <field name="plaintiffData_ss">{"label":"Wigle, Harry","id":"per.000694"}</field>
+      <field name="plaintiff_ss">Wigle, Rachel</field>
+      <field name="plaintiffID_ss">per.000695</field>
+      <field name="plaintiffData_ss">{"label":"Wigle, Rachel","id":"per.000695"}</field>
+      <field name="defendant_ss">Kirby, George</field>
+      <field name="defendantID_ss">per.000696</field>
+      <field name="defendantData_ss">{"label":"Kirby, George","id":"per.000696"}</field>
+      <field name="attorneyP_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyPID_ss">per.000496</field>
+      <field name="attorneyPData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss">per.000496</field>
+      <field name="attorneyData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorneyD_ss">Ashton, Henry</field>
+      <field name="attorneyDID_ss">per.001183</field>
+      <field name="attorneyDData_ss">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="attorney_ss">Ashton, Henry</field>
+      <field name="attorneyID_ss">per.001183</field>
+      <field name="attorneyData_ss">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1829-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0089</field>
+      <field name="documentCaseData_ss">{"label":"Harry Wigle, Adam Wigle, Rachel Wigle, Nace Johnson, Nancy Johnson, &amp; William Forrest v. George Kirby","id":"oscys.caseid.0089"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Harry Wigle et al. v. J. B. Kirby's Executor. Slaves cannot be manumitted in Washington County, D.C., by last will, if over forty-five years old at the time the manumission is to take effect. Petition for freedom. The petitioners claimed freedom under the will of John Baptist Kirby, by which they were to be free at his death. Some of them were over forty-five years of age at the death of the testator. Mr. Ashton, for the defendant, prayed the Court to instruct the jury that if any of the petitioners were over the age of forty-five at the testator's death, the manumission was void as to them; and cited Burrough v. Negro Anna, 4 Harr. &amp; Johns. and Hamilton v. Cragg, 6 Har. &amp; Johns. 16. Mr. Coxe, contà. There were formerly, in Maryland, different opinions in regard to this question, but the Court of Appeals of Maryland have decided it since the formation of this district. While the law was unsettled in Maryland, this Court decided that the manumission was valid if provision was made by the testator against the slaves being a burden upon the public. Previous to the Act of 1752, c. 1, manumission by will was lawful; otherwise that act would have been unnecessary, (see its preamble,) and the second section does not make void the manumission, but only subjects the party to a penalty, and obliges him to support the negro during his life, "whereby he may not become a burden to others, or perish through want, to the great scandal of christian society." The object of the thirteenth section of the Act of 1796, c. 67, is the same as that of the second section of the Act of 1752, which is repealed by the twelfth section of the Act of 1796. The interpretation should be in favor of liberty. "And," in the thirteenth section, should be constructed to be "or," so as to read thus, "unless the said slave or slaves shall be under the age of forty-five years," or able to work and gain a sufficient maintenance and livelihood." This testator has made sufficient provision for the maintenance of the old and infirm, as well as of the young. Mr. Ashton, in reply. The legislature of 1796 intended to fix the rule of age as the qualification for manumission, in order to avoid disputes as to the ability of the slave to maintain himself, if over that age. It is a clear and definite line drawn; and although under forty-five, the negro must still be able to maintain himself. The Court stopped Mr. Ashton, and said that the law of 1796 was positive and clear, and that the decisions of the Court of Appeals of Maryland upon their own law are to be respected by this Court. The Court (nem. con.) gave the instruction as prayed by Mr. Ashton. Verdict and judgment accordingly. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0089</field>
+      <field update="add" name="outcomeData_ss">{"label":"Verdict for Defendant","date":"1829-05","dateDisplay":"May 1829","id":"oscys.report.0025.001"}</field>
+      <field update="add" name="outcome_ss">Verdict for Defendant</field>
+      <field name="person_ss" update="add">Kirby, John Baptist</field>
+      <field name="personID_ss" update="add">per.000689</field>
+      <field name="personData_ss" update="add">{"label":"Kirby, John Baptist","id":"per.000689"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Forrest, William</field>
+      <field name="personID_ss" update="add">per.000690</field>
+      <field name="personData_ss" update="add">{"label":"Forrest, William","id":"per.000690"}</field>
+      <field name="person_ss" update="add">Johnson, Nace</field>
+      <field name="personID_ss" update="add">per.000691</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Nace","id":"per.000691"}</field>
+      <field name="person_ss" update="add">Johnson, Nancy</field>
+      <field name="personID_ss" update="add">per.000692</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Nancy","id":"per.000692"}</field>
+      <field name="person_ss" update="add">Wigle, Adam</field>
+      <field name="personID_ss" update="add">per.000693</field>
+      <field name="personData_ss" update="add">{"label":"Wigle, Adam","id":"per.000693"}</field>
+      <field name="person_ss" update="add">Wigle, Harry</field>
+      <field name="personID_ss" update="add">per.000694</field>
+      <field name="personData_ss" update="add">{"label":"Wigle, Harry","id":"per.000694"}</field>
+      <field name="person_ss" update="add">Wigle, Rachel</field>
+      <field name="personID_ss" update="add">per.000695</field>
+      <field name="personData_ss" update="add">{"label":"Wigle, Rachel","id":"per.000695"}</field>
+      <field name="person_ss" update="add">Kirby, George</field>
+      <field name="personID_ss" update="add">per.000696</field>
+      <field name="personData_ss" update="add">{"label":"Kirby, George","id":"per.000696"}</field>
+      <field name="person_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss" update="add">per.000496</field>
+      <field name="personData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="person_ss" update="add">Ashton, Henry</field>
+      <field name="personID_ss" update="add">per.001183</field>
+      <field name="personData_ss" update="add">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="plaintiff_ss" update="add">Forrest, William</field>
+      <field name="plaintiffID_ss" update="add">per.000690</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Forrest, William","id":"per.000690"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Nace</field>
+      <field name="plaintiffID_ss" update="add">per.000691</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Nace","id":"per.000691"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Nancy</field>
+      <field name="plaintiffID_ss" update="add">per.000692</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Nancy","id":"per.000692"}</field>
+      <field name="plaintiff_ss" update="add">Wigle, Adam</field>
+      <field name="plaintiffID_ss" update="add">per.000693</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Wigle, Adam","id":"per.000693"}</field>
+      <field name="plaintiff_ss" update="add">Wigle, Harry</field>
+      <field name="plaintiffID_ss" update="add">per.000694</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Wigle, Harry","id":"per.000694"}</field>
+      <field name="plaintiff_ss" update="add">Wigle, Rachel</field>
+      <field name="plaintiffID_ss" update="add">per.000695</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Wigle, Rachel","id":"per.000695"}</field>
+      <field name="defendant_ss" update="add">Kirby, George</field>
+      <field name="defendantID_ss" update="add">per.000696</field>
+      <field name="defendantData_ss" update="add">{"label":"Kirby, George","id":"per.000696"}</field>
+      <field name="attorneyP_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyPID_ss" update="add">per.000496</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss" update="add">per.000496</field>
+      <field name="attorneyData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorneyD_ss" update="add">Ashton, Henry</field>
+      <field name="attorneyDID_ss" update="add">per.001183</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="attorney_ss" update="add">Ashton, Henry</field>
+      <field name="attorneyID_ss" update="add">per.001183</field>
+      <field name="attorneyData_ss" update="add">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0025.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Harry Wigle v. George Kirby. Circuit Court Report (May, 1829)","date":"1829-05","dateDisplay":"May, 1829","id":"oscys.report.0025.001"}</field>
+   </doc>
+</add>

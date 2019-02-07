@@ -1,0 +1,74 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0179.006</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0179.006.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0179.006.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0179.006.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Richard B. Alexander v. Moses Graham. Summons of Moses Graham</field>
+      <field name="titleSort" update="add">richard b. alexander v. moses graham. summons of moses graham</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="contributor"/>
+      <field name="date">1840-04-19T00:00:00Z</field>
+      <field name="dateDisplay">April 19, 1840</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 627, Folder 115</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Graham, Moses</field>
+      <field name="people">Alexander, Richard B.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Graham, Moses</field>
+      <field name="personID_ss">per.001342</field>
+      <field name="personData_ss">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="person_ss">Alexander, Richard B.</field>
+      <field name="personID_ss">per.001343</field>
+      <field name="personData_ss">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="plaintiff_ss">Graham, Moses</field>
+      <field name="plaintiffID_ss">per.001342</field>
+      <field name="plaintiffData_ss">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="defendant_ss">Alexander, Richard B.</field>
+      <field name="defendantID_ss">per.001343</field>
+      <field name="defendantData_ss">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="sourceTitle_s">Summons of Moses Graham</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1840-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0181</field>
+      <field name="documentCaseData_ss">{"label":"Moses Graham v. Richard B. Alexander","id":"oscys.caseid.0181"}</field>
+      <field name="jurisdiction_ss">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="text"> District of Columbia to wit: The United States of America To Moses Graham. Greeting You are hereby cited and admonished to be and appear at a Supreme Court of the United States on the second Monday of January next, pursuant to a Writ of Error filed in the Clerks Office of the Circuit Court of the United States for the District of Columbia sitting for the County of Washington, wherein Richard B. Alexander is plaintiff in error, and you are defendant in error, to show cause if any there be why judgment rendered against you should not be corrected, and why speedy justice should not be done to the parties in this behalf. Witness the Hon. W. Cranch Chief Judge of the Circuit Court of the District of Columbia this nineteenth day of April 1840. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0181</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Graham, Moses</field>
+      <field name="personID_ss" update="add">per.001342</field>
+      <field name="personData_ss" update="add">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="person_ss" update="add">Alexander, Richard B.</field>
+      <field name="personID_ss" update="add">per.001343</field>
+      <field name="personData_ss" update="add">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="plaintiff_ss" update="add">Graham, Moses</field>
+      <field name="plaintiffID_ss" update="add">per.001342</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Graham, Moses","id":"per.001342"}</field>
+      <field name="defendant_ss" update="add">Alexander, Richard B.</field>
+      <field name="defendantID_ss" update="add">per.001343</field>
+      <field name="defendantData_ss" update="add">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0179.006</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Richard B. Alexander v. Moses Graham. Summons of Moses Graham (April 19, 1840)","date":"1840-04-19","dateDisplay":"April 19, 1840","id":"oscys.case.0179.006"}</field>
+   </doc>
+</add>

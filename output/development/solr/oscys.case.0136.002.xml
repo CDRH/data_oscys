@@ -1,0 +1,81 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0136.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0136.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0136.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0136.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Hannah Stewart v. Allison Nailor. Summons of Nobody</field>
+      <field name="titleSort" update="add">hannah stewart v. allison nailor. summons of nobody</field>
+      <field name="titleLetter_s" update="add">h</field>
+      <field name="contributor"/>
+      <field name="date">1842-06-02T00:00:00Z</field>
+      <field name="dateDisplay">June 2, 1842</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 663, Folder 48</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Sampson</field>
+      <field name="people">Stewart, Hannah</field>
+      <field name="people">Nailor, Allison</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Sampson</field>
+      <field name="personID_ss">per.001046</field>
+      <field name="personData_ss">{"label":"Sampson","id":"per.001046"}</field>
+      <field name="person_ss">Stewart, Hannah</field>
+      <field name="personID_ss">per.001044</field>
+      <field name="personData_ss">{"label":"Stewart, Hannah","id":"per.001044"}</field>
+      <field name="person_ss">Nailor, Allison</field>
+      <field name="personID_ss">per.001045</field>
+      <field name="personData_ss">{"label":"Nailor, Allison","id":"per.001045"}</field>
+      <field name="plaintiff_ss">Stewart, Hannah</field>
+      <field name="plaintiffID_ss">per.001044</field>
+      <field name="plaintiffData_ss">{"label":"Stewart, Hannah","id":"per.001044"}</field>
+      <field name="defendant_ss">Nailor, Allison</field>
+      <field name="defendantID_ss">per.001045</field>
+      <field name="defendantData_ss">{"label":"Nailor, Allison","id":"per.001045"}</field>
+      <field name="sourceTitle_s">Summons of Nobody</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1843-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0136</field>
+      <field name="documentCaseData_ss">{"label":"Hannah Stewart v. Allison Nailor","id":"oscys.caseid.0136"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> District of Columbia, Washington County, sct. To the Marshal of the District of Columbia, greeting: You are hereby commanded to attach the body of Nobody and him immediately have before the Circuit Court for the District of Columbia, now sitting at the City of Washington, for the County of Washington, to answer unto the United States of America, touching a certain contempt by him committed in not attending this Court as a witness in the matter between A and B after being thereto legally summoned. Hereof fail not at your peril. Witness the Honourable William Cranch, Chief Judge of the said Court. Issued the 2nd day of June 1842. Sampson's removing </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0136</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Sampson</field>
+      <field name="personID_ss" update="add">per.001046</field>
+      <field name="personData_ss" update="add">{"label":"Sampson","id":"per.001046"}</field>
+      <field name="person_ss" update="add">Stewart, Hannah</field>
+      <field name="personID_ss" update="add">per.001044</field>
+      <field name="personData_ss" update="add">{"label":"Stewart, Hannah","id":"per.001044"}</field>
+      <field name="person_ss" update="add">Nailor, Allison</field>
+      <field name="personID_ss" update="add">per.001045</field>
+      <field name="personData_ss" update="add">{"label":"Nailor, Allison","id":"per.001045"}</field>
+      <field name="plaintiff_ss" update="add">Stewart, Hannah</field>
+      <field name="plaintiffID_ss" update="add">per.001044</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Stewart, Hannah","id":"per.001044"}</field>
+      <field name="defendant_ss" update="add">Nailor, Allison</field>
+      <field name="defendantID_ss" update="add">per.001045</field>
+      <field name="defendantData_ss" update="add">{"label":"Nailor, Allison","id":"per.001045"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0136.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Hannah Stewart v. Allison Nailor. Summons of Nobody (June 2, 1842)","date":"1842-06-02","dateDisplay":"June 2, 1842","id":"oscys.case.0136.002"}</field>
+   </doc>
+</add>

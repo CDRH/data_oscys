@@ -1,0 +1,165 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0341.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0341.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0341.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0341.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Rebecca v. Lloyd Pumphrey. Writ of Execution</field>
+      <field name="titleSort" update="add">rebecca v. lloyd pumphrey. writ of execution</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="contributor"/>
+      <field name="date">1825-03-09T00:00:00Z</field>
+      <field name="dateDisplay">March 9, 1825</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Box 353, Folder 197</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Writ</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Ringgold, Tench</field>
+      <field name="people">Ann</field>
+      <field name="people">Margaret</field>
+      <field name="people">Rebecca</field>
+      <field name="people">William</field>
+      <field name="people">Pumphrey, Lloyd</field>
+      <field name="people">Turner, Thomas</field>
+      <field name="people">Cox, Clement</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Ringgold, Tench</field>
+      <field name="personID_ss">per.000461</field>
+      <field name="personData_ss">{"label":"Ringgold, Tench","id":"per.000461"}</field>
+      <field name="person_ss">Ann</field>
+      <field name="personID_ss">per.002518</field>
+      <field name="personData_ss">{"label":"Ann","id":"per.002518"}</field>
+      <field name="person_ss">Margaret</field>
+      <field name="personID_ss">per.002519</field>
+      <field name="personData_ss">{"label":"Margaret","id":"per.002519"}</field>
+      <field name="person_ss">Rebecca</field>
+      <field name="personID_ss">per.002520</field>
+      <field name="personData_ss">{"label":"Rebecca","id":"per.002520"}</field>
+      <field name="person_ss">William</field>
+      <field name="personID_ss">per.002521</field>
+      <field name="personData_ss">{"label":"William","id":"per.002521"}</field>
+      <field name="person_ss">Pumphrey, Lloyd</field>
+      <field name="personID_ss">per.002385</field>
+      <field name="personData_ss">{"label":"Pumphrey, Lloyd","id":"per.002385"}</field>
+      <field name="person_ss">Turner, Thomas</field>
+      <field name="personID_ss">per.000640</field>
+      <field name="personData_ss">{"label":"Turner, Thomas","id":"per.000640"}</field>
+      <field name="person_ss">Cox, Clement</field>
+      <field name="personID_ss">per.000549</field>
+      <field name="personData_ss">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="plaintiff_ss">Ann</field>
+      <field name="plaintiffID_ss">per.002518</field>
+      <field name="plaintiffData_ss">{"label":"Ann","id":"per.002518"}</field>
+      <field name="plaintiff_ss">Margaret</field>
+      <field name="plaintiffID_ss">per.002519</field>
+      <field name="plaintiffData_ss">{"label":"Margaret","id":"per.002519"}</field>
+      <field name="plaintiff_ss">Rebecca</field>
+      <field name="plaintiffID_ss">per.002520</field>
+      <field name="plaintiffData_ss">{"label":"Rebecca","id":"per.002520"}</field>
+      <field name="plaintiff_ss">William</field>
+      <field name="plaintiffID_ss">per.002521</field>
+      <field name="plaintiffData_ss">{"label":"William","id":"per.002521"}</field>
+      <field name="defendant_ss">Pumphrey, Lloyd</field>
+      <field name="defendantID_ss">per.002385</field>
+      <field name="defendantData_ss">{"label":"Pumphrey, Lloyd","id":"per.002385"}</field>
+      <field name="attorneyP_ss">Turner, Thomas</field>
+      <field name="attorneyPID_ss">per.000640</field>
+      <field name="attorneyPData_ss">{"label":"Turner, Thomas","id":"per.000640"}</field>
+      <field name="attorney_ss">Turner, Thomas</field>
+      <field name="attorneyID_ss">per.000640</field>
+      <field name="attorneyData_ss">{"label":"Turner, Thomas","id":"per.000640"}</field>
+      <field name="attorneyP_ss">Cox, Clement</field>
+      <field name="attorneyPID_ss">per.000549</field>
+      <field name="attorneyPData_ss">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="attorney_ss">Cox, Clement</field>
+      <field name="attorneyID_ss">per.000549</field>
+      <field name="attorneyData_ss">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="sourceTitle_s">Writ of Execution</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1825-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0366</field>
+      <field name="documentCaseData_ss">{"label":"Rebecca, Ann, Margaret &amp; William v. Lloyd Pumphrey","id":"oscys.caseid.0366"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> District of Columbia, to wit: The United States of America, To the Marshal of the District of Columbia, Greeting: Whereas, at a Circuit Court of the district of Columbia, held for the county of Washington, at the city of Washington, on the Fourth Monday of December in the year of our Lord one thousand eight hundred and twenty four a certain Negro Rebecca and children, William Ann &amp; Margaret by judgment of the said Court, recovered against a certain Lloyd Pumphrey as well the sum of their freedom on their petition then before the same court against the said Lloyd Pumphrey on the sum of Forty one dollars and sixty eight cents, which was then and there adjudged unto the said Negro Rebecca and children for their costs and charges by them about this prosecution of the said petition laid out and expended; which was adjudged by the said Court to the said       on     assent for       costs and charges by       about       suit in that behalf laid out and expended; whereof the said Lloyd Pumphrey is convict as it appeareth of record. Therefore you are hereby commanded to take the said Lloyd Pumphrey if he shall be found in the said county of Washington, and him safely keep so that you have his body before the Circuit Court of the district of Columbia, to be held for the county of Washington, at the city of Washington, on the First Monday of May next, to satisfy unto the said Negro Rebecca &amp; children the damages costs, and charges aforesaid. Hereof fail not, at your peril: and have you then and there this writ. Witness, William Cranch, Esquire, chief judge of the said Court, the 9th day of February in the year 1825. Issued the 9th day of March 1825 Wm. Brent, Clk Turner C. Cox The clerk will enter this case not called by consent Clement Cox for petners L Pumphrey 5:57 my fees. 197 Jud May 1825. Negro Rebecca and children, William Ann &amp; Margaret vs Lloyd Pumphrey Case for Costs 1 Bre Costs $41.68 Costs in Chancery 13.04 Jailers ofc for maintenance 63.84 84 $120:00 Marfees 5:70 125:70 Cepi T. Ringgold Marshal Feby 7th 1825. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0366</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Ringgold, Tench</field>
+      <field name="personID_ss" update="add">per.000461</field>
+      <field name="personData_ss" update="add">{"label":"Ringgold, Tench","id":"per.000461"}</field>
+      <field name="person_ss" update="add">Ann</field>
+      <field name="personID_ss" update="add">per.002518</field>
+      <field name="personData_ss" update="add">{"label":"Ann","id":"per.002518"}</field>
+      <field name="person_ss" update="add">Margaret</field>
+      <field name="personID_ss" update="add">per.002519</field>
+      <field name="personData_ss" update="add">{"label":"Margaret","id":"per.002519"}</field>
+      <field name="person_ss" update="add">Rebecca</field>
+      <field name="personID_ss" update="add">per.002520</field>
+      <field name="personData_ss" update="add">{"label":"Rebecca","id":"per.002520"}</field>
+      <field name="person_ss" update="add">William</field>
+      <field name="personID_ss" update="add">per.002521</field>
+      <field name="personData_ss" update="add">{"label":"William","id":"per.002521"}</field>
+      <field name="person_ss" update="add">Pumphrey, Lloyd</field>
+      <field name="personID_ss" update="add">per.002385</field>
+      <field name="personData_ss" update="add">{"label":"Pumphrey, Lloyd","id":"per.002385"}</field>
+      <field name="person_ss" update="add">Turner, Thomas</field>
+      <field name="personID_ss" update="add">per.000640</field>
+      <field name="personData_ss" update="add">{"label":"Turner, Thomas","id":"per.000640"}</field>
+      <field name="person_ss" update="add">Cox, Clement</field>
+      <field name="personID_ss" update="add">per.000549</field>
+      <field name="personData_ss" update="add">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="plaintiff_ss" update="add">Ann</field>
+      <field name="plaintiffID_ss" update="add">per.002518</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ann","id":"per.002518"}</field>
+      <field name="plaintiff_ss" update="add">Margaret</field>
+      <field name="plaintiffID_ss" update="add">per.002519</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Margaret","id":"per.002519"}</field>
+      <field name="plaintiff_ss" update="add">Rebecca</field>
+      <field name="plaintiffID_ss" update="add">per.002520</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Rebecca","id":"per.002520"}</field>
+      <field name="plaintiff_ss" update="add">William</field>
+      <field name="plaintiffID_ss" update="add">per.002521</field>
+      <field name="plaintiffData_ss" update="add">{"label":"William","id":"per.002521"}</field>
+      <field name="defendant_ss" update="add">Pumphrey, Lloyd</field>
+      <field name="defendantID_ss" update="add">per.002385</field>
+      <field name="defendantData_ss" update="add">{"label":"Pumphrey, Lloyd","id":"per.002385"}</field>
+      <field name="attorneyP_ss" update="add">Turner, Thomas</field>
+      <field name="attorneyPID_ss" update="add">per.000640</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Turner, Thomas","id":"per.000640"}</field>
+      <field name="attorney_ss" update="add">Turner, Thomas</field>
+      <field name="attorneyID_ss" update="add">per.000640</field>
+      <field name="attorneyData_ss" update="add">{"label":"Turner, Thomas","id":"per.000640"}</field>
+      <field name="attorneyP_ss" update="add">Cox, Clement</field>
+      <field name="attorneyPID_ss" update="add">per.000549</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="attorney_ss" update="add">Cox, Clement</field>
+      <field name="attorneyID_ss" update="add">per.000549</field>
+      <field name="attorneyData_ss" update="add">{"label":"Cox, Clement","id":"per.000549"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0341.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Rebecca v. Lloyd Pumphrey. Writ of Execution (March 9, 1825)","date":"1825-03-09","dateDisplay":"March 9, 1825","id":"oscys.case.0341.002"}</field>
+   </doc>
+</add>

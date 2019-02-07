@@ -1,0 +1,68 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0007.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0007.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0007.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0007.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Emanuel Gasbury v. Henry W. Ball. Circuit Court Report</field>
+      <field name="titleSort" update="add">emanuel gasbury v. henry w. ball. circuit court report</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1814-06-01T00:00:00Z</field>
+      <field name="dateDisplay">June 1814</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume II, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Gasbury, Emanuel</field>
+      <field name="people">Ball, Henry W.</field>
+      <field name="places">Maryland</field>
+      <field name="places">Virginia</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Gasbury, Emanuel</field>
+      <field name="personID_ss">per.000236</field>
+      <field name="personData_ss">{"label":"Gasbury, Emanuel","id":"per.000236"}</field>
+      <field name="person_ss">Ball, Henry W.</field>
+      <field name="personID_ss">per.000232</field>
+      <field name="personData_ss">{"label":"Ball, Henry W.","id":"per.000232"}</field>
+      <field name="plaintiff_ss">Gasbury, Emanuel</field>
+      <field name="plaintiffID_ss">per.000236</field>
+      <field name="plaintiffData_ss">{"label":"Gasbury, Emanuel","id":"per.000236"}</field>
+      <field name="defendant_ss">Ball, Henry W.</field>
+      <field name="defendantID_ss">per.000232</field>
+      <field name="defendantData_ss">{"label":"Ball, Henry W.","id":"per.000232"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1814-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0029</field>
+      <field name="documentCaseData_ss">{"label":"Emanuel Gasbury v. Henry W. Ball","id":"oscys.caseid.0029"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Emanuel v. Henry W. Ball. If a slave escape from his master in Virginia, and be found in Washington, and there sold by his master, the slave does not thereby acquire a right to freedom. This was a petition for freedom. The petitioner was permitted to come from Virginia, to the city of Washington to see his wife, and to return by a certain day; but he stayed some months longer, and was taken up in Washington, by an agent of his owner, but escaped and eloped, and the agent sold him to the defendant, while he was so eloped and while he was in the city of Washington. The petitioner's counsel prayed the Court to instruct the jury that upon the state of facts the petitioner was entitled to his freedom. But the Court refused, and instructed the jury that he was not entitled to his freedom under the Maryland law of 1796, c. 67. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0029</field>
+      <field name="person_ss" update="add">Gasbury, Emanuel</field>
+      <field name="personID_ss" update="add">per.000236</field>
+      <field name="personData_ss" update="add">{"label":"Gasbury, Emanuel","id":"per.000236"}</field>
+      <field name="person_ss" update="add">Ball, Henry W.</field>
+      <field name="personID_ss" update="add">per.000232</field>
+      <field name="personData_ss" update="add">{"label":"Ball, Henry W.","id":"per.000232"}</field>
+      <field name="plaintiff_ss" update="add">Gasbury, Emanuel</field>
+      <field name="plaintiffID_ss" update="add">per.000236</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gasbury, Emanuel","id":"per.000236"}</field>
+      <field name="defendant_ss" update="add">Ball, Henry W.</field>
+      <field name="defendantID_ss" update="add">per.000232</field>
+      <field name="defendantData_ss" update="add">{"label":"Ball, Henry W.","id":"per.000232"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0007.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Emanuel Gasbury v. Henry W. Ball. Circuit Court Report (June, 1814)","date":"1814-06","dateDisplay":"June, 1814","id":"oscys.report.0007.001"}</field>
+   </doc>
+</add>

@@ -1,0 +1,74 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0103.010</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0103.010.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0103.010.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0103.010.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Amy Gray v. Henry Howison. Order</field>
+      <field name="titleSort" update="add">amy gray v. henry howison. order</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date">1835-04-07T00:00:00Z</field>
+      <field name="dateDisplay">April 7, 1835</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 535, Folder 640</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Order</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Gray, Amy</field>
+      <field name="people">Howison, Henry</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Gray, Amy</field>
+      <field name="personID_ss">per.000758</field>
+      <field name="personData_ss">{"label":"Gray, Amy","id":"per.000758"}</field>
+      <field name="person_ss">Howison, Henry</field>
+      <field name="personID_ss">per.000759</field>
+      <field name="personData_ss">{"label":"Howison, Henry","id":"per.000759"}</field>
+      <field name="plaintiff_ss">Gray, Amy</field>
+      <field name="plaintiffID_ss">per.000758</field>
+      <field name="plaintiffData_ss">{"label":"Gray, Amy","id":"per.000758"}</field>
+      <field name="defendant_ss">Howison, Henry</field>
+      <field name="defendantID_ss">per.000759</field>
+      <field name="defendantData_ss">{"label":"Howison, Henry","id":"per.000759"}</field>
+      <field name="sourceTitle_s">Order</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1835-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0103</field>
+      <field name="documentCaseData_ss">{"label":"Amy Gray v. Henry Howison","id":"oscys.caseid.0103"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Amy Gray v. Henry Howison Upon hearing the motion for an attachment made in this cause by the counsel for council for the petitioner, it is this 7th day of April 1835 ordered, that unless the said Henry Howison, who has been duly summoned to answer the said petition shall on or before the 13th day of April instant appear in this Court and produce before the Court the body of the said petitioner or enter with recognizance in the usual form with good security in the sum of four hundred dollars with the usual condition to have the said petitioner in this Court at the tri to attend the trial &amp;c. The attachment be issued, in the usual form against the said Henry Howison. By order of the Court Test W. Brent 7 Aprl. 1835 Amy Gray vs. Henry Howison fd 7th April 1835 On Petition for Freedom Amy Gray vs. Henry Howison Ordered by the Court that Amy Gray be brought into Court and that an Officer of this Court be required to take her into custody for the purpose of being discharged from slavery. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0103</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Gray, Amy</field>
+      <field name="personID_ss" update="add">per.000758</field>
+      <field name="personData_ss" update="add">{"label":"Gray, Amy","id":"per.000758"}</field>
+      <field name="person_ss" update="add">Howison, Henry</field>
+      <field name="personID_ss" update="add">per.000759</field>
+      <field name="personData_ss" update="add">{"label":"Howison, Henry","id":"per.000759"}</field>
+      <field name="plaintiff_ss" update="add">Gray, Amy</field>
+      <field name="plaintiffID_ss" update="add">per.000758</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Gray, Amy","id":"per.000758"}</field>
+      <field name="defendant_ss" update="add">Howison, Henry</field>
+      <field name="defendantID_ss" update="add">per.000759</field>
+      <field name="defendantData_ss" update="add">{"label":"Howison, Henry","id":"per.000759"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0103.010</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Amy Gray v. Henry Howison. Order (April 7, 1835)","date":"1835-04-07","dateDisplay":"April 7, 1835","id":"oscys.case.0103.010"}</field>
+   </doc>
+</add>

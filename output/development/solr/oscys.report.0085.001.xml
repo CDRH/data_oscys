@@ -1,0 +1,151 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0085.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0085.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0085.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0085.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Humphries v. Tench. Civil Court Report</field>
+      <field name="titleSort" update="add">humphries v. tench. civil court report</field>
+      <field name="titleLetter_s" update="add">h</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1822-10-01T00:00:00Z</field>
+      <field name="dateDisplay">October 1822</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume I, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Airy</field>
+      <field name="people">Humphries</field>
+      <field name="people">Tench</field>
+      <field name="people">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="people">Smith</field>
+      <field name="people">Swann, Thomas, 1789-1845</field>
+      <field name="places">Charles County (Md.)</field>
+      <field name="person_ss">Airy</field>
+      <field name="personID_ss">per.004347</field>
+      <field name="personData_ss">{"label":"Airy","id":"per.004347"}</field>
+      <field name="person_ss">Humphries</field>
+      <field name="personID_ss">per.004348</field>
+      <field name="personData_ss">{"label":"Humphries","id":"per.004348"}</field>
+      <field name="person_ss">Tench</field>
+      <field name="personID_ss">per.004349</field>
+      <field name="personData_ss">{"label":"Tench","id":"per.004349"}</field>
+      <field name="person_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="personID_ss">per.000194</field>
+      <field name="personData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="person_ss">Smith</field>
+      <field name="personID_ss">per.004350</field>
+      <field name="personData_ss">{"label":"Smith","id":"per.004350"}</field>
+      <field name="person_ss">Swann, Thomas, 1789-1845</field>
+      <field name="personID_ss">per.001562</field>
+      <field name="personData_ss">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="plaintiff_ss">Humphries</field>
+      <field name="plaintiffID_ss">per.004348</field>
+      <field name="plaintiffData_ss">{"label":"Humphries","id":"per.004348"}</field>
+      <field name="defendant_ss">Tench</field>
+      <field name="defendantID_ss">per.004349</field>
+      <field name="defendantData_ss">{"label":"Tench","id":"per.004349"}</field>
+      <field name="attorneyP_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyPID_ss">per.000194</field>
+      <field name="attorneyPData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="attorney_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyID_ss">per.000194</field>
+      <field name="attorneyData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorneyD_ss">Smith</field>
+      <field name="attorneyDID_ss">per.004350</field>
+      <field name="attorneyDData_ss">{"label":"Smith","id":"per.004350"}</field>
+      <field name="attorney_ss">Smith</field>
+      <field name="attorneyID_ss">per.004350</field>
+      <field name="attorneyData_ss">{"label":"Smith","id":"per.004350"}</field>
+      <field name="attorneyD_ss">Swann, Thomas, 1789-1845</field>
+      <field name="attorneyDID_ss">per.001562</field>
+      <field name="attorneyDData_ss">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="attorney_ss">Swann, Thomas, 1789-1845</field>
+      <field name="attorneyID_ss">per.001562</field>
+      <field name="attorneyData_ss">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1822-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0477</field>
+      <field name="documentCaseData_ss">{"label":"Humphries v. Tench","id":"oscys.caseid.0477"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Humphries v. Tench. Depositions taken in another suit for freedom, by one of the same family, cannot be read in evidence as hearsay respecting the condition of their common ancestor. Petition for freedom. The defendant offered to read the depositions in a record of Charles County Court in Maryland, in a suit for freedom, by one of the same family of negroes, as hearsay in relation to the common ancestor of that family. Mr. Key and Mr. Caldwell, for the petitioner, objected and cited 1 Phillips on Ev. 190. Mr. Smith and Mr. Swann, contrà, cited 1 Phil. on Ev. 174; Wheat. Dig. 153, § 16. The Court (nem. con.) said that the depositions could not be read in evidence, to prove the condition of the ancestor, (Airy.) Verdict for the petitioner. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0477</field>
+      <field update="add" name="outcomeData_ss">{"label":"Verdict for Plaintiff","date":"1822-10","dateDisplay":"October 1822","id":"oscys.report.0085.001"}</field>
+      <field update="add" name="outcome_ss">Verdict for Plaintiff</field>
+      <field name="person_ss" update="add">Airy</field>
+      <field name="personID_ss" update="add">per.004347</field>
+      <field name="personData_ss" update="add">{"label":"Airy","id":"per.004347"}</field>
+      <field name="person_ss" update="add">Humphries</field>
+      <field name="personID_ss" update="add">per.004348</field>
+      <field name="personData_ss" update="add">{"label":"Humphries","id":"per.004348"}</field>
+      <field name="person_ss" update="add">Tench</field>
+      <field name="personID_ss" update="add">per.004349</field>
+      <field name="personData_ss" update="add">{"label":"Tench","id":"per.004349"}</field>
+      <field name="person_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="personID_ss" update="add">per.000194</field>
+      <field name="personData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="person_ss" update="add">Smith</field>
+      <field name="personID_ss" update="add">per.004350</field>
+      <field name="personData_ss" update="add">{"label":"Smith","id":"per.004350"}</field>
+      <field name="person_ss" update="add">Swann, Thomas, 1789-1845</field>
+      <field name="personID_ss" update="add">per.001562</field>
+      <field name="personData_ss" update="add">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="plaintiff_ss" update="add">Humphries</field>
+      <field name="plaintiffID_ss" update="add">per.004348</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Humphries","id":"per.004348"}</field>
+      <field name="defendant_ss" update="add">Tench</field>
+      <field name="defendantID_ss" update="add">per.004349</field>
+      <field name="defendantData_ss" update="add">{"label":"Tench","id":"per.004349"}</field>
+      <field name="attorneyP_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyPID_ss" update="add">per.000194</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="attorney_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyID_ss" update="add">per.000194</field>
+      <field name="attorneyData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorneyD_ss" update="add">Smith</field>
+      <field name="attorneyDID_ss" update="add">per.004350</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Smith","id":"per.004350"}</field>
+      <field name="attorney_ss" update="add">Smith</field>
+      <field name="attorneyID_ss" update="add">per.004350</field>
+      <field name="attorneyData_ss" update="add">{"label":"Smith","id":"per.004350"}</field>
+      <field name="attorneyD_ss" update="add">Swann, Thomas, 1789-1845</field>
+      <field name="attorneyDID_ss" update="add">per.001562</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="attorney_ss" update="add">Swann, Thomas, 1789-1845</field>
+      <field name="attorneyID_ss" update="add">per.001562</field>
+      <field name="attorneyData_ss" update="add">{"label":"Swann, Thomas, 1789-1845","id":"per.001562"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0085.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Humphries v. Tench. Civil Court Report (October, 1822)","date":"1822-10","dateDisplay":"October, 1822","id":"oscys.report.0085.001"}</field>
+   </doc>
+</add>

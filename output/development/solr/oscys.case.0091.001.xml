@@ -1,0 +1,93 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0091.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0091.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0091.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0091.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Richard Henry Williams v. Joseph M. White. Petition for Freedom</field>
+      <field name="titleSort" update="add">richard henry williams v. joseph m. white. petition for freedom</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="contributor"/>
+      <field name="date">1829-12-14T00:00:00Z</field>
+      <field name="dateDisplay">December 14, 1829</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 427, Folder 468</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">White, Mariah</field>
+      <field name="people">Williams, Richard Henry</field>
+      <field name="people">White, Joseph M., 1781-1839</field>
+      <field name="people">Beale, Robert</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">White, Mariah</field>
+      <field name="personID_ss">per.000702</field>
+      <field name="personData_ss">{"label":"White, Mariah","id":"per.000702"}</field>
+      <field name="person_ss">Williams, Richard Henry</field>
+      <field name="personID_ss">per.000703</field>
+      <field name="personData_ss">{"label":"Williams, Richard Henry","id":"per.000703"}</field>
+      <field name="person_ss">White, Joseph M., 1781-1839</field>
+      <field name="personID_ss">per.000704</field>
+      <field name="personData_ss">{"label":"White, Joseph M., 1781-1839","id":"per.000704"}</field>
+      <field name="person_ss">Beale, Robert</field>
+      <field name="personID_ss">per.000572</field>
+      <field name="personData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="plaintiff_ss">Williams, Richard Henry</field>
+      <field name="plaintiffID_ss">per.000703</field>
+      <field name="plaintiffData_ss">{"label":"Williams, Richard Henry","id":"per.000703"}</field>
+      <field name="defendant_ss">White, Joseph M., 1781-1839</field>
+      <field name="defendantID_ss">per.000704</field>
+      <field name="defendantData_ss">{"label":"White, Joseph M., 1781-1839","id":"per.000704"}</field>
+      <field name="attorneyP_ss">Beale, Robert</field>
+      <field name="attorneyPID_ss">per.000572</field>
+      <field name="attorneyPData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="attorney_ss">Beale, Robert</field>
+      <field name="attorneyID_ss">per.000572</field>
+      <field name="attorneyData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1829-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0091</field>
+      <field name="documentCaseData_ss">{"label":"Richard Henry Williams v. Joseph M. White","id":"oscys.caseid.0091"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble the Judges of the Circuit Court of the District of Columbia for the County of Washington. The petition of Richard Henry Williams by his Mariah White his mother &amp; next friend &amp; humbly sets forth to your honors that he is a boy of color and entitled to his freedom and is now held in a state of slavery by one Joseph M White contrary to law and your petitioners just rights. your petitioner therefore prays your honors to grant such relief as he may be lawfully entitled to and such process of your honorable court against the said Joseph M White as is usual in such cases to compell the attendance of the said Joseph M White in your honorable court to ensure the petition and to enter the usual security and recognisance, not to remove your petitioner beyond the jurisdiction of this court and as in duty bound will ever pray &amp;c Robert Beale for Petitioner 468 Richard Henry Williams by his mother &amp; next friend v Joseph M White Pet. for freedom filed 14th Decr. 1829. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0091</field>
+      <field name="person_ss" update="add">White, Mariah</field>
+      <field name="personID_ss" update="add">per.000702</field>
+      <field name="personData_ss" update="add">{"label":"White, Mariah","id":"per.000702"}</field>
+      <field name="person_ss" update="add">Williams, Richard Henry</field>
+      <field name="personID_ss" update="add">per.000703</field>
+      <field name="personData_ss" update="add">{"label":"Williams, Richard Henry","id":"per.000703"}</field>
+      <field name="person_ss" update="add">White, Joseph M., 1781-1839</field>
+      <field name="personID_ss" update="add">per.000704</field>
+      <field name="personData_ss" update="add">{"label":"White, Joseph M., 1781-1839","id":"per.000704"}</field>
+      <field name="person_ss" update="add">Beale, Robert</field>
+      <field name="personID_ss" update="add">per.000572</field>
+      <field name="personData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="plaintiff_ss" update="add">Williams, Richard Henry</field>
+      <field name="plaintiffID_ss" update="add">per.000703</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Williams, Richard Henry","id":"per.000703"}</field>
+      <field name="defendant_ss" update="add">White, Joseph M., 1781-1839</field>
+      <field name="defendantID_ss" update="add">per.000704</field>
+      <field name="defendantData_ss" update="add">{"label":"White, Joseph M., 1781-1839","id":"per.000704"}</field>
+      <field name="attorneyP_ss" update="add">Beale, Robert</field>
+      <field name="attorneyPID_ss" update="add">per.000572</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="attorney_ss" update="add">Beale, Robert</field>
+      <field name="attorneyID_ss" update="add">per.000572</field>
+      <field name="attorneyData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0091.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Richard Henry Williams v. Joseph M. White. Petition for Freedom (December 14, 1829)","date":"1829-12-14","dateDisplay":"December 14, 1829","id":"oscys.case.0091.001"}</field>
+   </doc>
+</add>

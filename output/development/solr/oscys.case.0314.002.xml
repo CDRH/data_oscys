@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0314.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0314.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0314.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0314.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Mary Vigel v. Robert K. Nevitt. Petition for Freedom</field>
+      <field name="titleSort" update="add">mary vigel v. robert k. nevitt. petition for freedom</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="contributor"/>
+      <field name="date">1854-03-24T00:00:00Z</field>
+      <field name="dateDisplay">March 24, 1854</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 818, Folder 390</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Vigel, Mary</field>
+      <field name="people">Nevitt, Robert K.</field>
+      <field name="people">Stone, William J., Jr.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Vigel, Mary</field>
+      <field name="personID_ss">per.002371</field>
+      <field name="personData_ss">{"label":"Vigel, Mary","id":"per.002371"}</field>
+      <field name="person_ss">Nevitt, Robert K.</field>
+      <field name="personID_ss">per.001292</field>
+      <field name="personData_ss">{"label":"Nevitt, Robert K.","id":"per.001292"}</field>
+      <field name="person_ss">Stone, William J., Jr.</field>
+      <field name="personID_ss">per.002252</field>
+      <field name="personData_ss">{"label":"Stone, William J., Jr.","id":"per.002252"}</field>
+      <field name="plaintiff_ss">Vigel, Mary</field>
+      <field name="plaintiffID_ss">per.002371</field>
+      <field name="plaintiffData_ss">{"label":"Vigel, Mary","id":"per.002371"}</field>
+      <field name="defendant_ss">Nevitt, Robert K.</field>
+      <field name="defendantID_ss">per.001292</field>
+      <field name="defendantData_ss">{"label":"Nevitt, Robert K.","id":"per.001292"}</field>
+      <field name="attorneyP_ss">Stone, William J., Jr.</field>
+      <field name="attorneyPID_ss">per.002252</field>
+      <field name="attorneyPData_ss">{"label":"Stone, William J., Jr.","id":"per.002252"}</field>
+      <field name="attorney_ss">Stone, William J., Jr.</field>
+      <field name="attorneyID_ss">per.002252</field>
+      <field name="attorneyData_ss">{"label":"Stone, William J., Jr.","id":"per.002252"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1856-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0316</field>
+      <field name="documentCaseData_ss">{"label":"Mary Vigel v. Robert K. Nevitt","id":"oscys.caseid.0316"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Mary Vigal vs Robert K. Nevitt Petition for Freedom To the Honorable the Judges of the Circuit Court of the District of Columbia Your Petitioner respectfully represents unto your Honors that she is free and is unjustly detained in slavery by said defendant and prays that said defendant be summoned to appear before your Honorable Court and make answer to the allegations of above petition and she will ever pray &amp;c. W J Stone Junr for Petitioner 504 Mary Vigal vs Robert K Nevitt The Clerk will file this Petition and issue as prayed. W J Stone Junr for Petitioner Filed 24t March 1854. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0316</field>
+      <field name="person_ss" update="add">Vigel, Mary</field>
+      <field name="personID_ss" update="add">per.002371</field>
+      <field name="personData_ss" update="add">{"label":"Vigel, Mary","id":"per.002371"}</field>
+      <field name="person_ss" update="add">Nevitt, Robert K.</field>
+      <field name="personID_ss" update="add">per.001292</field>
+      <field name="personData_ss" update="add">{"label":"Nevitt, Robert K.","id":"per.001292"}</field>
+      <field name="person_ss" update="add">Stone, William J., Jr.</field>
+      <field name="personID_ss" update="add">per.002252</field>
+      <field name="personData_ss" update="add">{"label":"Stone, William J., Jr.","id":"per.002252"}</field>
+      <field name="plaintiff_ss" update="add">Vigel, Mary</field>
+      <field name="plaintiffID_ss" update="add">per.002371</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Vigel, Mary","id":"per.002371"}</field>
+      <field name="defendant_ss" update="add">Nevitt, Robert K.</field>
+      <field name="defendantID_ss" update="add">per.001292</field>
+      <field name="defendantData_ss" update="add">{"label":"Nevitt, Robert K.","id":"per.001292"}</field>
+      <field name="attorneyP_ss" update="add">Stone, William J., Jr.</field>
+      <field name="attorneyPID_ss" update="add">per.002252</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Stone, William J., Jr.","id":"per.002252"}</field>
+      <field name="attorney_ss" update="add">Stone, William J., Jr.</field>
+      <field name="attorneyID_ss" update="add">per.002252</field>
+      <field name="attorneyData_ss" update="add">{"label":"Stone, William J., Jr.","id":"per.002252"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0314.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Mary Vigel v. Robert K. Nevitt. Petition for Freedom (March 24, 1854)","date":"1854-03-24","dateDisplay":"March 24, 1854","id":"oscys.case.0314.002"}</field>
+   </doc>
+</add>

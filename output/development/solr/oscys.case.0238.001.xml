@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0238.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0238.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0238.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0238.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Nathan Jackson v. James Esling. Petition for Freedom</field>
+      <field name="titleSort" update="add">nathan jackson v. james esling. petition for freedom</field>
+      <field name="titleLetter_s" update="add">n</field>
+      <field name="contributor"/>
+      <field name="date">1849-03-29T00:00:00Z</field>
+      <field name="dateDisplay">March 29, 1849</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 733, Folder 8</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Jackson, Nathan</field>
+      <field name="people">Esling, James</field>
+      <field name="people">Giberson, Gilbert L.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Jackson, Nathan</field>
+      <field name="personID_ss">per.001835</field>
+      <field name="personData_ss">{"label":"Jackson, Nathan","id":"per.001835"}</field>
+      <field name="person_ss">Esling, James</field>
+      <field name="personID_ss">per.001836</field>
+      <field name="personData_ss">{"label":"Esling, James","id":"per.001836"}</field>
+      <field name="person_ss">Giberson, Gilbert L.</field>
+      <field name="personID_ss">per.000757</field>
+      <field name="personData_ss">{"label":"Giberson, Gilbert L.","id":"per.000757"}</field>
+      <field name="plaintiff_ss">Jackson, Nathan</field>
+      <field name="plaintiffID_ss">per.001835</field>
+      <field name="plaintiffData_ss">{"label":"Jackson, Nathan","id":"per.001835"}</field>
+      <field name="defendant_ss">Esling, James</field>
+      <field name="defendantID_ss">per.001836</field>
+      <field name="defendantData_ss">{"label":"Esling, James","id":"per.001836"}</field>
+      <field name="attorneyP_ss">Giberson, Gilbert L.</field>
+      <field name="attorneyPID_ss">per.000757</field>
+      <field name="attorneyPData_ss">{"label":"Giberson, Gilbert L.","id":"per.000757"}</field>
+      <field name="attorney_ss">Giberson, Gilbert L.</field>
+      <field name="attorneyID_ss">per.000757</field>
+      <field name="attorneyData_ss">{"label":"Giberson, Gilbert L.","id":"per.000757"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1849-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0243</field>
+      <field name="documentCaseData_ss">{"label":"Nathan Jackson v. James Esling","id":"oscys.caseid.0243"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court of the District of Columbia for Washington County The petition of negro Nathan Jackson respectfully sheweth: That yr. petitioner is entitled to his freedom, &amp; is held as a slave for life by one James Esling, who as yr. petitioner verily believes is about to convey or cause yr. petitioner, to be conveyed out of the District of Columbia to some distant place to yr. petitioner unknown. Yr. petitioner therefore prays yr. Honors to grant him the writ of subpoena directed to the Marshal of the District of Columbia, to be served on the said James Esling, requiring him that he be and appear before this Honorable Court about the next to answer the complaint of yr. petitioner in the premises &amp; he will pray. Gilbert L. Giberson for petitioner 8 Petition for freedom Nathan Jackson vs James Esling The Clk will please file this &amp; issue subpoena G. L. Giberson Atty for petitioner Filed 29 March 1849 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0243</field>
+      <field name="person_ss" update="add">Jackson, Nathan</field>
+      <field name="personID_ss" update="add">per.001835</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Nathan","id":"per.001835"}</field>
+      <field name="person_ss" update="add">Esling, James</field>
+      <field name="personID_ss" update="add">per.001836</field>
+      <field name="personData_ss" update="add">{"label":"Esling, James","id":"per.001836"}</field>
+      <field name="person_ss" update="add">Giberson, Gilbert L.</field>
+      <field name="personID_ss" update="add">per.000757</field>
+      <field name="personData_ss" update="add">{"label":"Giberson, Gilbert L.","id":"per.000757"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Nathan</field>
+      <field name="plaintiffID_ss" update="add">per.001835</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Nathan","id":"per.001835"}</field>
+      <field name="defendant_ss" update="add">Esling, James</field>
+      <field name="defendantID_ss" update="add">per.001836</field>
+      <field name="defendantData_ss" update="add">{"label":"Esling, James","id":"per.001836"}</field>
+      <field name="attorneyP_ss" update="add">Giberson, Gilbert L.</field>
+      <field name="attorneyPID_ss" update="add">per.000757</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Giberson, Gilbert L.","id":"per.000757"}</field>
+      <field name="attorney_ss" update="add">Giberson, Gilbert L.</field>
+      <field name="attorneyID_ss" update="add">per.000757</field>
+      <field name="attorneyData_ss" update="add">{"label":"Giberson, Gilbert L.","id":"per.000757"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0238.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Nathan Jackson v. James Esling. Petition for Freedom (March 29, 1849)","date":"1849-03-29","dateDisplay":"March 29, 1849","id":"oscys.case.0238.001"}</field>
+   </doc>
+</add>

@@ -1,0 +1,73 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0416.005</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0416.005.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0416.005.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0416.005.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Daniel Wells v. Benjamin F. Lewis. Order</field>
+      <field name="titleSort" update="add">daniel wells v. benjamin f. lewis. order</field>
+      <field name="titleLetter_s" update="add">d</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Order</field>
+      <field name="people">Young, Nicholas</field>
+      <field name="people">Wells, Daniel</field>
+      <field name="people">Lewis, Benjamin F.</field>
+      <field name="places">Prince George's County (Md.)</field>
+      <field name="person_ss">Young, Nicholas</field>
+      <field name="personID_ss">per.002602</field>
+      <field name="personData_ss">{"label":"Young, Nicholas","id":"per.002602"}</field>
+      <field name="person_ss">Wells, Daniel</field>
+      <field name="personID_ss">per.003326</field>
+      <field name="personData_ss">{"label":"Wells, Daniel","id":"per.003326"}</field>
+      <field name="person_ss">Lewis, Benjamin F.</field>
+      <field name="personID_ss">per.003327</field>
+      <field name="personData_ss">{"label":"Lewis, Benjamin F.","id":"per.003327"}</field>
+      <field name="plaintiff_ss">Wells, Daniel</field>
+      <field name="plaintiffID_ss">per.003326</field>
+      <field name="plaintiffData_ss">{"label":"Wells, Daniel","id":"per.003326"}</field>
+      <field name="defendant_ss">Lewis, Benjamin F.</field>
+      <field name="defendantID_ss">per.003327</field>
+      <field name="defendantData_ss">{"label":"Lewis, Benjamin F.","id":"per.003327"}</field>
+      <field name="sourceTitle_s">Order</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1824-11</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0443</field>
+      <field name="documentCaseData_ss">{"label":"Daniel Wells v. Benjamin F. Lewis","id":"oscys.caseid.0443"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> Negroe Daniel agt. Nicholas Young On the motion of Nicholas Young the Defendant By consent of the defendant it is ordered that the Plf. by hired out by be taken out of Jail and hired out by the marshall untill the trial shall take place of this cause. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0443</field>
+      <field name="person_ss" update="add">Young, Nicholas</field>
+      <field name="personID_ss" update="add">per.002602</field>
+      <field name="personData_ss" update="add">{"label":"Young, Nicholas","id":"per.002602"}</field>
+      <field name="person_ss" update="add">Wells, Daniel</field>
+      <field name="personID_ss" update="add">per.003326</field>
+      <field name="personData_ss" update="add">{"label":"Wells, Daniel","id":"per.003326"}</field>
+      <field name="person_ss" update="add">Lewis, Benjamin F.</field>
+      <field name="personID_ss" update="add">per.003327</field>
+      <field name="personData_ss" update="add">{"label":"Lewis, Benjamin F.","id":"per.003327"}</field>
+      <field name="plaintiff_ss" update="add">Wells, Daniel</field>
+      <field name="plaintiffID_ss" update="add">per.003326</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Wells, Daniel","id":"per.003326"}</field>
+      <field name="defendant_ss" update="add">Lewis, Benjamin F.</field>
+      <field name="defendantID_ss" update="add">per.003327</field>
+      <field name="defendantData_ss" update="add">{"label":"Lewis, Benjamin F.","id":"per.003327"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0416.005</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Daniel Wells v. Benjamin F. Lewis. Order","id":"oscys.case.0416.005"}</field>
+   </doc>
+</add>

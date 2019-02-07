@@ -1,0 +1,87 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0421.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0421.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0421.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0421.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ex parte Nathaniel Holmes. Warrant</field>
+      <field name="titleSort" update="add">ex parte nathaniel holmes. warrant</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="contributor"/>
+      <field name="date">1841-09-21T00:00:00Z</field>
+      <field name="dateDisplay">September 21, 1841</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Warrant</field>
+      <field name="people">Steele, Horatio N.</field>
+      <field name="people">Tatsapaugh, Henry</field>
+      <field name="people">Holmes, Nathaniel</field>
+      <field name="people">Hooe, Bernard</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Steele, Horatio N.</field>
+      <field name="personID_ss">per.003460</field>
+      <field name="personData_ss">{"label":"Steele, Horatio N.","id":"per.003460"}</field>
+      <field name="person_ss">Tatsapaugh, Henry</field>
+      <field name="personID_ss">per.003456</field>
+      <field name="personData_ss">{"label":"Tatsapaugh, Henry","id":"per.003456"}</field>
+      <field name="person_ss">Holmes, Nathaniel</field>
+      <field name="personID_ss">per.003459</field>
+      <field name="personData_ss">{"label":"Holmes, Nathaniel","id":"per.003459"}</field>
+      <field name="person_ss">Hooe, Bernard</field>
+      <field name="personID_ss">per.003181</field>
+      <field name="personData_ss">{"label":"Hooe, Bernard","id":"per.003181"}</field>
+      <field name="plaintiff_ss">Holmes, Nathaniel</field>
+      <field name="plaintiffID_ss">per.003459</field>
+      <field name="plaintiffData_ss">{"label":"Holmes, Nathaniel","id":"per.003459"}</field>
+      <field name="attorneyP_ss">Hooe, Bernard</field>
+      <field name="attorneyPID_ss">per.003181</field>
+      <field name="attorneyPData_ss">{"label":"Hooe, Bernard","id":"per.003181"}</field>
+      <field name="attorney_ss">Hooe, Bernard</field>
+      <field name="attorneyID_ss">per.003181</field>
+      <field name="attorneyData_ss">{"label":"Hooe, Bernard","id":"per.003181"}</field>
+      <field name="sourceTitle_s">Warrant</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1841-11</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0449</field>
+      <field name="documentCaseData_ss">{"label":"Ex parte Nathaniel Holmes","id":"oscys.caseid.0449"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> District of Columbia Alexandria County Sct. To Horatio N. Steele, Keeper of the Jail in said County. Whereas Henry Tatsapaugh has this day brought before me a certain negro man, suspected to be a Runaway Slave, who called himself Nathaniel Holmes; which said negro man claims to be a free man of color, but has no papers or other evidence in any manner calculated to sustain his said claim to freedom, wherefore I have reason to believe him to be a Runaway, as aforesaid, This is to command you Horatio N. Steele, Keeper of the Jail in the County aforesaid, to receive the said negro man calling himself Nathaniel Holmes into your custody in the said Jail, as a Runaway as aforesaid, and him there safely keep 'til he shall be thence discharged by due order of law. Given under my hand and seal this twenty first day of September in the year One Thousand and eight hundred and forty one. B: Hooe (seal) Nathaniel Holmes' Commitment as a Runaway </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0449</field>
+      <field name="person_ss" update="add">Steele, Horatio N.</field>
+      <field name="personID_ss" update="add">per.003460</field>
+      <field name="personData_ss" update="add">{"label":"Steele, Horatio N.","id":"per.003460"}</field>
+      <field name="person_ss" update="add">Tatsapaugh, Henry</field>
+      <field name="personID_ss" update="add">per.003456</field>
+      <field name="personData_ss" update="add">{"label":"Tatsapaugh, Henry","id":"per.003456"}</field>
+      <field name="person_ss" update="add">Holmes, Nathaniel</field>
+      <field name="personID_ss" update="add">per.003459</field>
+      <field name="personData_ss" update="add">{"label":"Holmes, Nathaniel","id":"per.003459"}</field>
+      <field name="person_ss" update="add">Hooe, Bernard</field>
+      <field name="personID_ss" update="add">per.003181</field>
+      <field name="personData_ss" update="add">{"label":"Hooe, Bernard","id":"per.003181"}</field>
+      <field name="plaintiff_ss" update="add">Holmes, Nathaniel</field>
+      <field name="plaintiffID_ss" update="add">per.003459</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Holmes, Nathaniel","id":"per.003459"}</field>
+      <field name="attorneyP_ss" update="add">Hooe, Bernard</field>
+      <field name="attorneyPID_ss" update="add">per.003181</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Hooe, Bernard","id":"per.003181"}</field>
+      <field name="attorney_ss" update="add">Hooe, Bernard</field>
+      <field name="attorneyID_ss" update="add">per.003181</field>
+      <field name="attorneyData_ss" update="add">{"label":"Hooe, Bernard","id":"per.003181"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0421.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ex parte Nathaniel Holmes. Warrant (September 21, 1841)","date":"1841-09-21","dateDisplay":"September 21, 1841","id":"oscys.case.0421.002"}</field>
+   </doc>
+</add>

@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0082.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0082.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0082.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0082.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Robert Loyal v. Benjamin Lewis. Petition for Freedom</field>
+      <field name="titleSort" update="add">robert loyal v. benjamin lewis. petition for freedom</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="contributor"/>
+      <field name="date">1828-05-03T00:00:00Z</field>
+      <field name="dateDisplay">May 3, 1828</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 402, Folder 408</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Loyal, Robert</field>
+      <field name="people">Lewis, Benjamin</field>
+      <field name="people">Beale, Robert</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Loyal, Robert</field>
+      <field name="personID_ss">per.000652</field>
+      <field name="personData_ss">{"label":"Loyal, Robert","id":"per.000652"}</field>
+      <field name="person_ss">Lewis, Benjamin</field>
+      <field name="personID_ss">per.000653</field>
+      <field name="personData_ss">{"label":"Lewis, Benjamin","id":"per.000653"}</field>
+      <field name="person_ss">Beale, Robert</field>
+      <field name="personID_ss">per.000572</field>
+      <field name="personData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="plaintiff_ss">Loyal, Robert</field>
+      <field name="plaintiffID_ss">per.000652</field>
+      <field name="plaintiffData_ss">{"label":"Loyal, Robert","id":"per.000652"}</field>
+      <field name="defendant_ss">Lewis, Benjamin</field>
+      <field name="defendantID_ss">per.000653</field>
+      <field name="defendantData_ss">{"label":"Lewis, Benjamin","id":"per.000653"}</field>
+      <field name="attorneyP_ss">Beale, Robert</field>
+      <field name="attorneyPID_ss">per.000572</field>
+      <field name="attorneyPData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="attorney_ss">Beale, Robert</field>
+      <field name="attorneyID_ss">per.000572</field>
+      <field name="attorneyData_ss">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1828-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0082</field>
+      <field name="documentCaseData_ss">{"label":"Robert Loyal v. Benjamin Lewis","id":"oscys.caseid.0082"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble the Judges of the Circuit Court of the United States for the District of Columbia &amp; county of Washington The petition of Robert Loyal a colored man sheweth unto your honors that he is a freeman and that he is illegally held in bondage by one Benjamin Lewis who claims your petitioner as a slave for life. And your petitioner is credably informed &amp; veryly believes that the said Benjamin Lewis is now about to sell him as a slave for life to some distant state. Your petitioner therefore prays your honors to grant him the benefit of writ of subpoena &amp; such other relief as shall apper to your honors to be meet &amp; proper &amp; he will ever pray &amp;c Robert Beale for petitioner 408 Robert Loyal v Benjn Lewis pet for freedom fd. 3d. May 1828 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0082</field>
+      <field name="person_ss" update="add">Loyal, Robert</field>
+      <field name="personID_ss" update="add">per.000652</field>
+      <field name="personData_ss" update="add">{"label":"Loyal, Robert","id":"per.000652"}</field>
+      <field name="person_ss" update="add">Lewis, Benjamin</field>
+      <field name="personID_ss" update="add">per.000653</field>
+      <field name="personData_ss" update="add">{"label":"Lewis, Benjamin","id":"per.000653"}</field>
+      <field name="person_ss" update="add">Beale, Robert</field>
+      <field name="personID_ss" update="add">per.000572</field>
+      <field name="personData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="plaintiff_ss" update="add">Loyal, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.000652</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Loyal, Robert","id":"per.000652"}</field>
+      <field name="defendant_ss" update="add">Lewis, Benjamin</field>
+      <field name="defendantID_ss" update="add">per.000653</field>
+      <field name="defendantData_ss" update="add">{"label":"Lewis, Benjamin","id":"per.000653"}</field>
+      <field name="attorneyP_ss" update="add">Beale, Robert</field>
+      <field name="attorneyPID_ss" update="add">per.000572</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="attorney_ss" update="add">Beale, Robert</field>
+      <field name="attorneyID_ss" update="add">per.000572</field>
+      <field name="attorneyData_ss" update="add">{"label":"Beale, Robert","id":"per.000572"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0082.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Robert Loyal v. Benjamin Lewis. Petition for Freedom (May 3, 1828)","date":"1828-05-03","dateDisplay":"May 3, 1828","id":"oscys.case.0082.001"}</field>
+   </doc>
+</add>

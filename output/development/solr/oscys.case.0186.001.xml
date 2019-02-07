@@ -1,0 +1,100 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0186.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0186.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0186.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0186.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Harriet v. James Larned &amp; Elizabeth R. Larned. Christopher Grammer to John A. Smith</field>
+      <field name="titleSort" update="add">harriet v. james larned &amp; elizabeth r. larned. christopher grammer to john a. smith</field>
+      <field name="titleLetter_s" update="add">h</field>
+      <field name="contributor"/>
+      <field name="date">1849-02-20T00:00:00Z</field>
+      <field name="dateDisplay">February 20, 1849</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 729, Folder 88</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Correspondence</field>
+      <field name="people">Grammer, Christopher</field>
+      <field name="people">Smith, John A.</field>
+      <field name="people">Woodyens, John</field>
+      <field name="people">Harriet</field>
+      <field name="people">Larned, Elizabeth R.</field>
+      <field name="people">Larned, James</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Grammer, Christopher</field>
+      <field name="personID_ss">per.001417</field>
+      <field name="personData_ss">{"label":"Grammer, Christopher","id":"per.001417"}</field>
+      <field name="person_ss">Smith, John A.</field>
+      <field name="personID_ss">per.000740</field>
+      <field name="personData_ss">{"label":"Smith, John A.","id":"per.000740"}</field>
+      <field name="person_ss">Woodyens, John</field>
+      <field name="personID_ss">per.001418</field>
+      <field name="personData_ss">{"label":"Woodyens, John","id":"per.001418"}</field>
+      <field name="person_ss">Harriet</field>
+      <field name="personID_ss">per.001419</field>
+      <field name="personData_ss">{"label":"Harriet","id":"per.001419"}</field>
+      <field name="person_ss">Larned, Elizabeth R.</field>
+      <field name="personID_ss">per.001420</field>
+      <field name="personData_ss">{"label":"Larned, Elizabeth R.","id":"per.001420"}</field>
+      <field name="person_ss">Larned, James</field>
+      <field name="personID_ss">per.001421</field>
+      <field name="personData_ss">{"label":"Larned, James","id":"per.001421"}</field>
+      <field name="plaintiff_ss">Harriet</field>
+      <field name="plaintiffID_ss">per.001419</field>
+      <field name="plaintiffData_ss">{"label":"Harriet","id":"per.001419"}</field>
+      <field name="defendant_ss">Larned, Elizabeth R.</field>
+      <field name="defendantID_ss">per.001420</field>
+      <field name="defendantData_ss">{"label":"Larned, Elizabeth R.","id":"per.001420"}</field>
+      <field name="defendant_ss">Larned, James</field>
+      <field name="defendantID_ss">per.001421</field>
+      <field name="defendantData_ss">{"label":"Larned, James","id":"per.001421"}</field>
+      <field name="sourceTitle_s">Christopher Grammer to John A. Smith</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1849-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0188</field>
+      <field name="documentCaseData_ss">{"label":"Harriet v. James Larned &amp; Elizabeth R. Larned","id":"oscys.caseid.0188"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Washington City DC Feb 20th 1849 John A. Smith Esq Dear Sir Please send me by the bearer Jno. Woodyens's will the execution of whic which was the question in the case of Harriet v Learned &amp; which was in court yesterday on you desk. Very respectfully Yr obt servt Christopher Grammer 112 Trials John A Smith Esq Clerk of the Cir Court D.C. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0188</field>
+      <field name="person_ss" update="add">Grammer, Christopher</field>
+      <field name="personID_ss" update="add">per.001417</field>
+      <field name="personData_ss" update="add">{"label":"Grammer, Christopher","id":"per.001417"}</field>
+      <field name="person_ss" update="add">Smith, John A.</field>
+      <field name="personID_ss" update="add">per.000740</field>
+      <field name="personData_ss" update="add">{"label":"Smith, John A.","id":"per.000740"}</field>
+      <field name="person_ss" update="add">Woodyens, John</field>
+      <field name="personID_ss" update="add">per.001418</field>
+      <field name="personData_ss" update="add">{"label":"Woodyens, John","id":"per.001418"}</field>
+      <field name="person_ss" update="add">Harriet</field>
+      <field name="personID_ss" update="add">per.001419</field>
+      <field name="personData_ss" update="add">{"label":"Harriet","id":"per.001419"}</field>
+      <field name="person_ss" update="add">Larned, Elizabeth R.</field>
+      <field name="personID_ss" update="add">per.001420</field>
+      <field name="personData_ss" update="add">{"label":"Larned, Elizabeth R.","id":"per.001420"}</field>
+      <field name="person_ss" update="add">Larned, James</field>
+      <field name="personID_ss" update="add">per.001421</field>
+      <field name="personData_ss" update="add">{"label":"Larned, James","id":"per.001421"}</field>
+      <field name="plaintiff_ss" update="add">Harriet</field>
+      <field name="plaintiffID_ss" update="add">per.001419</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Harriet","id":"per.001419"}</field>
+      <field name="defendant_ss" update="add">Larned, Elizabeth R.</field>
+      <field name="defendantID_ss" update="add">per.001420</field>
+      <field name="defendantData_ss" update="add">{"label":"Larned, Elizabeth R.","id":"per.001420"}</field>
+      <field name="defendant_ss" update="add">Larned, James</field>
+      <field name="defendantID_ss" update="add">per.001421</field>
+      <field name="defendantData_ss" update="add">{"label":"Larned, James","id":"per.001421"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0186.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Harriet v. James Larned &amp; Elizabeth R. Larned. Christopher Grammer to John A. Smith (February 20, 1849)","date":"1849-02-20","dateDisplay":"February 20, 1849","id":"oscys.case.0186.001"}</field>
+   </doc>
+</add>

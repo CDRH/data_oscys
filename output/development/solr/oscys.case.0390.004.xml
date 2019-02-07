@@ -1,0 +1,79 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0390.004</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0390.004.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0390.004.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0390.004.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Lotty v. William F. Luckie. Manumission of Charles &amp; Lotty</field>
+      <field name="titleSort" update="add">lotty v. william f. luckie. manumission of charles &amp; lotty</field>
+      <field name="titleLetter_s" update="add">l</field>
+      <field name="contributor"/>
+      <field name="date">1814-03-10T00:00:00Z</field>
+      <field name="dateDisplay">March 10, 1814</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Exhibit</field>
+      <field name="people">Charles</field>
+      <field name="people">Ewell, Thomas</field>
+      <field name="people">Lotty</field>
+      <field name="people">Luckie, William F.</field>
+      <field name="person_ss">Charles</field>
+      <field name="personID_ss">per.003091</field>
+      <field name="personData_ss">{"label":"Charles","id":"per.003091"}</field>
+      <field name="person_ss">Ewell, Thomas</field>
+      <field name="personID_ss">per.003092</field>
+      <field name="personData_ss">{"label":"Ewell, Thomas","id":"per.003092"}</field>
+      <field name="person_ss">Lotty</field>
+      <field name="personID_ss">per.003093</field>
+      <field name="personData_ss">{"label":"Lotty","id":"per.003093"}</field>
+      <field name="person_ss">Luckie, William F.</field>
+      <field name="personID_ss">per.003094</field>
+      <field name="personData_ss">{"label":"Luckie, William F.","id":"per.003094"}</field>
+      <field name="plaintiff_ss">Lotty</field>
+      <field name="plaintiffID_ss">per.003093</field>
+      <field name="plaintiffData_ss">{"label":"Lotty","id":"per.003093"}</field>
+      <field name="defendant_ss">Luckie, William F.</field>
+      <field name="defendantID_ss">per.003094</field>
+      <field name="defendantData_ss">{"label":"Luckie, William F.","id":"per.003094"}</field>
+      <field name="sourceTitle_s">Manumission of Charles &amp; Lotty</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1819-11</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0415</field>
+      <field name="documentCaseData_ss">{"label":"Lotty v. William F. Luckie","id":"oscys.caseid.0415"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> I do hereby agree I bind myself &amp; my heirs in administrators in case of my death set free Charles His Wife Lotty in one year if Charles will conduct himself I carefully discharge the duties of a like manner discharging the duties of a Cook at the mill during the said 12 months Thos Ewell 10th March 1814 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0415</field>
+      <field name="person_ss" update="add">Charles</field>
+      <field name="personID_ss" update="add">per.003091</field>
+      <field name="personData_ss" update="add">{"label":"Charles","id":"per.003091"}</field>
+      <field name="person_ss" update="add">Ewell, Thomas</field>
+      <field name="personID_ss" update="add">per.003092</field>
+      <field name="personData_ss" update="add">{"label":"Ewell, Thomas","id":"per.003092"}</field>
+      <field name="person_ss" update="add">Lotty</field>
+      <field name="personID_ss" update="add">per.003093</field>
+      <field name="personData_ss" update="add">{"label":"Lotty","id":"per.003093"}</field>
+      <field name="person_ss" update="add">Luckie, William F.</field>
+      <field name="personID_ss" update="add">per.003094</field>
+      <field name="personData_ss" update="add">{"label":"Luckie, William F.","id":"per.003094"}</field>
+      <field name="plaintiff_ss" update="add">Lotty</field>
+      <field name="plaintiffID_ss" update="add">per.003093</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Lotty","id":"per.003093"}</field>
+      <field name="defendant_ss" update="add">Luckie, William F.</field>
+      <field name="defendantID_ss" update="add">per.003094</field>
+      <field name="defendantData_ss" update="add">{"label":"Luckie, William F.","id":"per.003094"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0390.004</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Lotty v. William F. Luckie. Manumission of Charles &amp; Lotty (March 10, 1814)","date":"1814-03-10","dateDisplay":"March 10, 1814","id":"oscys.case.0390.004"}</field>
+   </doc>
+</add>

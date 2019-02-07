@@ -1,0 +1,246 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0008.003</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0008.003.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0008.003.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0008.003.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Elizabeth Bentley v. Thomas Keen. Answer</field>
+      <field name="titleSort" update="add">elizabeth bentley v. thomas keen. answer</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 2, Folder Unnumbered</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Answer</field>
+      <field name="people">Bentley, Anne</field>
+      <field name="people">Bentley, Daniel</field>
+      <field name="people">Bentley, Dennis</field>
+      <field name="people">Bentley, Eleanor</field>
+      <field name="people">Bentley, Elizabeth</field>
+      <field name="people">Bentley, Johnson</field>
+      <field name="people">Bentley, Lee</field>
+      <field name="people">Bentley, Nancy</field>
+      <field name="people">Bentley, Nelson</field>
+      <field name="people">Bentley, Rebecca</field>
+      <field name="people">Bentley, Susanna</field>
+      <field name="people">Bentley, William</field>
+      <field name="people">Keen, Thomas</field>
+      <field name="people">Morsell, James Sewall</field>
+      <field name="people">Balch, Lewis P. W.</field>
+      <field name="person_ss">Bentley, Anne</field>
+      <field name="personID_ss">per.000031</field>
+      <field name="personData_ss">{"label":"Bentley, Anne","id":"per.000031"}</field>
+      <field name="person_ss">Bentley, Daniel</field>
+      <field name="personID_ss">per.000032</field>
+      <field name="personData_ss">{"label":"Bentley, Daniel","id":"per.000032"}</field>
+      <field name="person_ss">Bentley, Dennis</field>
+      <field name="personID_ss">per.000033</field>
+      <field name="personData_ss">{"label":"Bentley, Dennis","id":"per.000033"}</field>
+      <field name="person_ss">Bentley, Eleanor</field>
+      <field name="personID_ss">per.000034</field>
+      <field name="personData_ss">{"label":"Bentley, Eleanor","id":"per.000034"}</field>
+      <field name="person_ss">Bentley, Elizabeth</field>
+      <field name="personID_ss">per.000035</field>
+      <field name="personData_ss">{"label":"Bentley, Elizabeth","id":"per.000035"}</field>
+      <field name="person_ss">Bentley, Johnson</field>
+      <field name="personID_ss">per.000036</field>
+      <field name="personData_ss">{"label":"Bentley, Johnson","id":"per.000036"}</field>
+      <field name="person_ss">Bentley, Lee</field>
+      <field name="personID_ss">per.000037</field>
+      <field name="personData_ss">{"label":"Bentley, Lee","id":"per.000037"}</field>
+      <field name="person_ss">Bentley, Nancy</field>
+      <field name="personID_ss">per.000038</field>
+      <field name="personData_ss">{"label":"Bentley, Nancy","id":"per.000038"}</field>
+      <field name="person_ss">Bentley, Nelson</field>
+      <field name="personID_ss">per.000039</field>
+      <field name="personData_ss">{"label":"Bentley, Nelson","id":"per.000039"}</field>
+      <field name="person_ss">Bentley, Rebecca</field>
+      <field name="personID_ss">per.000040</field>
+      <field name="personData_ss">{"label":"Bentley, Rebecca","id":"per.000040"}</field>
+      <field name="person_ss">Bentley, Susanna</field>
+      <field name="personID_ss">per.000041</field>
+      <field name="personData_ss">{"label":"Bentley, Susanna","id":"per.000041"}</field>
+      <field name="person_ss">Bentley, William</field>
+      <field name="personID_ss">per.000042</field>
+      <field name="personData_ss">{"label":"Bentley, William","id":"per.000042"}</field>
+      <field name="person_ss">Keen, Thomas</field>
+      <field name="personID_ss">per.000043</field>
+      <field name="personData_ss">{"label":"Keen, Thomas","id":"per.000043"}</field>
+      <field name="person_ss">Morsell, James Sewall</field>
+      <field name="personID_ss">per.000044</field>
+      <field name="personData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss">Balch, Lewis P. W.</field>
+      <field name="personID_ss">per.000045</field>
+      <field name="personData_ss">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="plaintiff_ss">Bentley, Anne</field>
+      <field name="plaintiffID_ss">per.000031</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Anne","id":"per.000031"}</field>
+      <field name="plaintiff_ss">Bentley, Daniel</field>
+      <field name="plaintiffID_ss">per.000032</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Daniel","id":"per.000032"}</field>
+      <field name="plaintiff_ss">Bentley, Dennis</field>
+      <field name="plaintiffID_ss">per.000033</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Dennis","id":"per.000033"}</field>
+      <field name="plaintiff_ss">Bentley, Eleanor</field>
+      <field name="plaintiffID_ss">per.000034</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Eleanor","id":"per.000034"}</field>
+      <field name="plaintiff_ss">Bentley, Elizabeth</field>
+      <field name="plaintiffID_ss">per.000035</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Elizabeth","id":"per.000035"}</field>
+      <field name="plaintiff_ss">Bentley, Johnson</field>
+      <field name="plaintiffID_ss">per.000036</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Johnson","id":"per.000036"}</field>
+      <field name="plaintiff_ss">Bentley, Lee</field>
+      <field name="plaintiffID_ss">per.000037</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Lee","id":"per.000037"}</field>
+      <field name="plaintiff_ss">Bentley, Nancy</field>
+      <field name="plaintiffID_ss">per.000038</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Nancy","id":"per.000038"}</field>
+      <field name="plaintiff_ss">Bentley, Nelson</field>
+      <field name="plaintiffID_ss">per.000039</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Nelson","id":"per.000039"}</field>
+      <field name="plaintiff_ss">Bentley, Rebecca</field>
+      <field name="plaintiffID_ss">per.000040</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Rebecca","id":"per.000040"}</field>
+      <field name="plaintiff_ss">Bentley, Susanna</field>
+      <field name="plaintiffID_ss">per.000041</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, Susanna","id":"per.000041"}</field>
+      <field name="plaintiff_ss">Bentley, William</field>
+      <field name="plaintiffID_ss">per.000042</field>
+      <field name="plaintiffData_ss">{"label":"Bentley, William","id":"per.000042"}</field>
+      <field name="defendant_ss">Keen, Thomas</field>
+      <field name="defendantID_ss">per.000043</field>
+      <field name="defendantData_ss">{"label":"Keen, Thomas","id":"per.000043"}</field>
+      <field name="attorneyP_ss">Morsell, James Sewall</field>
+      <field name="attorneyPID_ss">per.000044</field>
+      <field name="attorneyPData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="attorney_ss">Morsell, James Sewall</field>
+      <field name="attorneyID_ss">per.000044</field>
+      <field name="attorneyData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="attorneyD_ss">Balch, Lewis P. W.</field>
+      <field name="attorneyDID_ss">per.000045</field>
+      <field name="attorneyDData_ss">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="attorney_ss">Balch, Lewis P. W.</field>
+      <field name="attorneyID_ss">per.000045</field>
+      <field name="attorneyData_ss">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="sourceTitle_s">Answer</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1808-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0008</field>
+      <field name="documentCaseData_ss">{"label":"Elizabeth Bentley, Daniel Bentley, William Bentley, Susanna Bentley, Dennis Bentley, Johnson Bentley, Lee Bentley, Nelson Bentley, Nancy Bentley, Rebecca Bentley, Anne Bentley, &amp; Eleanor Bentley v. Thomas Keen","id":"oscys.caseid.0008"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> 289. The Defendant by his said attorney comes and says that the Petitioners are not entitled to their freedom in manner &amp; form as they have alleged, and of this they part the same he is ready to verify ref Gen. rep. &amp; issue agreed to be receivd, short error releasd James S Morsell for Petitioners Lewis P.W. Balch for Defendt </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0008</field>
+      <field name="person_ss" update="add">Bentley, Anne</field>
+      <field name="personID_ss" update="add">per.000031</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Anne","id":"per.000031"}</field>
+      <field name="person_ss" update="add">Bentley, Daniel</field>
+      <field name="personID_ss" update="add">per.000032</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Daniel","id":"per.000032"}</field>
+      <field name="person_ss" update="add">Bentley, Dennis</field>
+      <field name="personID_ss" update="add">per.000033</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Dennis","id":"per.000033"}</field>
+      <field name="person_ss" update="add">Bentley, Eleanor</field>
+      <field name="personID_ss" update="add">per.000034</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Eleanor","id":"per.000034"}</field>
+      <field name="person_ss" update="add">Bentley, Elizabeth</field>
+      <field name="personID_ss" update="add">per.000035</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Elizabeth","id":"per.000035"}</field>
+      <field name="person_ss" update="add">Bentley, Johnson</field>
+      <field name="personID_ss" update="add">per.000036</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Johnson","id":"per.000036"}</field>
+      <field name="person_ss" update="add">Bentley, Lee</field>
+      <field name="personID_ss" update="add">per.000037</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Lee","id":"per.000037"}</field>
+      <field name="person_ss" update="add">Bentley, Nancy</field>
+      <field name="personID_ss" update="add">per.000038</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Nancy","id":"per.000038"}</field>
+      <field name="person_ss" update="add">Bentley, Nelson</field>
+      <field name="personID_ss" update="add">per.000039</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Nelson","id":"per.000039"}</field>
+      <field name="person_ss" update="add">Bentley, Rebecca</field>
+      <field name="personID_ss" update="add">per.000040</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Rebecca","id":"per.000040"}</field>
+      <field name="person_ss" update="add">Bentley, Susanna</field>
+      <field name="personID_ss" update="add">per.000041</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, Susanna","id":"per.000041"}</field>
+      <field name="person_ss" update="add">Bentley, William</field>
+      <field name="personID_ss" update="add">per.000042</field>
+      <field name="personData_ss" update="add">{"label":"Bentley, William","id":"per.000042"}</field>
+      <field name="person_ss" update="add">Keen, Thomas</field>
+      <field name="personID_ss" update="add">per.000043</field>
+      <field name="personData_ss" update="add">{"label":"Keen, Thomas","id":"per.000043"}</field>
+      <field name="person_ss" update="add">Morsell, James Sewall</field>
+      <field name="personID_ss" update="add">per.000044</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss" update="add">Balch, Lewis P. W.</field>
+      <field name="personID_ss" update="add">per.000045</field>
+      <field name="personData_ss" update="add">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Anne</field>
+      <field name="plaintiffID_ss" update="add">per.000031</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Anne","id":"per.000031"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Daniel</field>
+      <field name="plaintiffID_ss" update="add">per.000032</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Daniel","id":"per.000032"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Dennis</field>
+      <field name="plaintiffID_ss" update="add">per.000033</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Dennis","id":"per.000033"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Eleanor</field>
+      <field name="plaintiffID_ss" update="add">per.000034</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Eleanor","id":"per.000034"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Elizabeth</field>
+      <field name="plaintiffID_ss" update="add">per.000035</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Elizabeth","id":"per.000035"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Johnson</field>
+      <field name="plaintiffID_ss" update="add">per.000036</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Johnson","id":"per.000036"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Lee</field>
+      <field name="plaintiffID_ss" update="add">per.000037</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Lee","id":"per.000037"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Nancy</field>
+      <field name="plaintiffID_ss" update="add">per.000038</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Nancy","id":"per.000038"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Nelson</field>
+      <field name="plaintiffID_ss" update="add">per.000039</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Nelson","id":"per.000039"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Rebecca</field>
+      <field name="plaintiffID_ss" update="add">per.000040</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Rebecca","id":"per.000040"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, Susanna</field>
+      <field name="plaintiffID_ss" update="add">per.000041</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, Susanna","id":"per.000041"}</field>
+      <field name="plaintiff_ss" update="add">Bentley, William</field>
+      <field name="plaintiffID_ss" update="add">per.000042</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bentley, William","id":"per.000042"}</field>
+      <field name="defendant_ss" update="add">Keen, Thomas</field>
+      <field name="defendantID_ss" update="add">per.000043</field>
+      <field name="defendantData_ss" update="add">{"label":"Keen, Thomas","id":"per.000043"}</field>
+      <field name="attorneyP_ss" update="add">Morsell, James Sewall</field>
+      <field name="attorneyPID_ss" update="add">per.000044</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="attorney_ss" update="add">Morsell, James Sewall</field>
+      <field name="attorneyID_ss" update="add">per.000044</field>
+      <field name="attorneyData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="attorneyD_ss" update="add">Balch, Lewis P. W.</field>
+      <field name="attorneyDID_ss" update="add">per.000045</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="attorney_ss" update="add">Balch, Lewis P. W.</field>
+      <field name="attorneyID_ss" update="add">per.000045</field>
+      <field name="attorneyData_ss" update="add">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0008.003</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Elizabeth Bentley v. Thomas Keen. Answer","id":"oscys.case.0008.003"}</field>
+   </doc>
+</add>

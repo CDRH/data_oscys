@@ -1,0 +1,72 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0083.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0083.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0083.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0083.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Reubin Reason v. John Bridges. Civil Court Report</field>
+      <field name="titleSort" update="add">reubin reason v. john bridges. civil court report</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1807-12-01T00:00:00Z</field>
+      <field name="dateDisplay">December 1807</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume I, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Smith, William</field>
+      <field name="people">Reason, Reubin</field>
+      <field name="people">Bridges, John</field>
+      <field name="person_ss">Smith, William</field>
+      <field name="personID_ss">per.002748</field>
+      <field name="personData_ss">{"label":"Smith, William","id":"per.002748"}</field>
+      <field name="person_ss">Reason, Reubin</field>
+      <field name="personID_ss">per.002753</field>
+      <field name="personData_ss">{"label":"Reason, Reubin","id":"per.002753"}</field>
+      <field name="person_ss">Bridges, John</field>
+      <field name="personID_ss">per.002754</field>
+      <field name="personData_ss">{"label":"Bridges, John","id":"per.002754"}</field>
+      <field name="plaintiff_ss">Reason, Reubin</field>
+      <field name="plaintiffID_ss">per.002753</field>
+      <field name="plaintiffData_ss">{"label":"Reason, Reubin","id":"per.002753"}</field>
+      <field name="defendant_ss">Bridges, John</field>
+      <field name="defendantID_ss">per.002754</field>
+      <field name="defendantData_ss">{"label":"Bridges, John","id":"per.002754"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1807-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0335</field>
+      <field name="documentCaseData_ss">{"label":"Reubin Reason v. John Bridges","id":"oscys.caseid.0335"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Reuben Reason v. John Bridges. If, after eight jurors have been sworn in chief, the defendant challenge one for favor, the challenge shall be tried by the jurors already sworn. A juror shall not be examined on oath as to his religious opinions, on the subject of slavery, nor will the Court, on a challenge for favor, suffer evidence to be given to the triors as to the prevailing opinion of individuals of the religious sect to which the juror belongs. Petition for freedom. The defendant having challenged twelve of the jurors peremptorily, challenged Mr. Smith, one of the tales, for favor. Eight jurors having been sworn, were sworn as triors. The Court refused to suffer Mr. Smith to be examined on oath as to his religious opinions, whether he was a Methodist, and whether the Methodists had religious scruples as to the legality of slavery. A witness was sworn, who testified that it was not an essential tenet of their religion that slavery was contrary to the divine law; but some of them were of that opinion. The Court refused to permit the witness to be asked whether it was the prevailing opinion among the people called Methodists, and decided that it was incumbent on the party challenging to show, either that it was an essential tenet of their religion, or was the individual opinion of the juror. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0335</field>
+      <field name="person_ss" update="add">Smith, William</field>
+      <field name="personID_ss" update="add">per.002748</field>
+      <field name="personData_ss" update="add">{"label":"Smith, William","id":"per.002748"}</field>
+      <field name="person_ss" update="add">Reason, Reubin</field>
+      <field name="personID_ss" update="add">per.002753</field>
+      <field name="personData_ss" update="add">{"label":"Reason, Reubin","id":"per.002753"}</field>
+      <field name="person_ss" update="add">Bridges, John</field>
+      <field name="personID_ss" update="add">per.002754</field>
+      <field name="personData_ss" update="add">{"label":"Bridges, John","id":"per.002754"}</field>
+      <field name="plaintiff_ss" update="add">Reason, Reubin</field>
+      <field name="plaintiffID_ss" update="add">per.002753</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Reason, Reubin","id":"per.002753"}</field>
+      <field name="defendant_ss" update="add">Bridges, John</field>
+      <field name="defendantID_ss" update="add">per.002754</field>
+      <field name="defendantData_ss" update="add">{"label":"Bridges, John","id":"per.002754"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0083.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Reubin Reason v. John Bridges. Civil Court Report (December, 1807)","date":"1807-12","dateDisplay":"December, 1807","id":"oscys.report.0083.001"}</field>
+   </doc>
+</add>

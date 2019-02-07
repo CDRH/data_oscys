@@ -1,0 +1,168 @@
+<add>
+   <doc>
+      <field name="id">oscys.mdcase.0006.005</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.mdcase.0006.005.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.mdcase.0006.005.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.mdcase.0006.005.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Robert Thomas v. Henry Pile. Deposition of Henrietta Wheeler</field>
+      <field name="titleSort" update="add">robert thomas v. henry pile. deposition of henrietta wheeler</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="contributor"/>
+      <field name="date">1793-03-23T00:00:00Z</field>
+      <field name="dateDisplay">March 23, 1793</field>
+      <field name="format">manuscript</field>
+      <field name="source">Maryland State Archives, General Court of Western Shore (Judgments), MSA S498-343</field>
+      <field name="rightsHolder">Maryland State Archives</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Deposition</field>
+      <field name="people">Barnes, Henry</field>
+      <field name="people">Boarman, Dorothea</field>
+      <field name="people">Boarman, Raphael</field>
+      <field name="people">Cooper, Nanny</field>
+      <field name="people">Mingo, Betty</field>
+      <field name="people">Smith, Basil</field>
+      <field name="people">Thomas, John</field>
+      <field name="people">Wharton, Henry</field>
+      <field name="people">Wheeler, Henrietta</field>
+      <field name="people">Thomas, Robert</field>
+      <field name="people">Pile, Henry</field>
+      <field name="people">Duvall, Gabriel, 1752-1844</field>
+      <field name="people">Key, Philip Barton, 1757-1815</field>
+      <field name="places">Charles County (Md.)</field>
+      <field name="places">Saint Mary's County (Md.)</field>
+      <field name="person_ss">Barnes, Henry</field>
+      <field name="personID_ss">per.001951</field>
+      <field name="personData_ss">{"label":"Barnes, Henry","id":"per.001951"}</field>
+      <field name="person_ss">Boarman, Dorothea</field>
+      <field name="personID_ss">per.002026</field>
+      <field name="personData_ss">{"label":"Boarman, Dorothea","id":"per.002026"}</field>
+      <field name="person_ss">Boarman, Raphael</field>
+      <field name="personID_ss">per.002028</field>
+      <field name="personData_ss">{"label":"Boarman, Raphael","id":"per.002028"}</field>
+      <field name="person_ss">Cooper, Nanny</field>
+      <field name="personID_ss">per.002035</field>
+      <field name="personData_ss">{"label":"Cooper, Nanny","id":"per.002035"}</field>
+      <field name="person_ss">Mingo, Betty</field>
+      <field name="personID_ss">per.001964</field>
+      <field name="personData_ss">{"label":"Mingo, Betty","id":"per.001964"}</field>
+      <field name="person_ss">Smith, Basil</field>
+      <field name="personID_ss">per.002057</field>
+      <field name="personData_ss">{"label":"Smith, Basil","id":"per.002057"}</field>
+      <field name="person_ss">Thomas, John</field>
+      <field name="personID_ss">per.002065</field>
+      <field name="personData_ss">{"label":"Thomas, John","id":"per.002065"}</field>
+      <field name="person_ss">Wharton, Henry</field>
+      <field name="personID_ss">per.002074</field>
+      <field name="personData_ss">{"label":"Wharton, Henry","id":"per.002074"}</field>
+      <field name="person_ss">Wheeler, Henrietta</field>
+      <field name="personID_ss">per.002075</field>
+      <field name="personData_ss">{"label":"Wheeler, Henrietta","id":"per.002075"}</field>
+      <field name="person_ss">Thomas, Robert</field>
+      <field name="personID_ss">per.001950</field>
+      <field name="personData_ss">{"label":"Thomas, Robert","id":"per.001950"}</field>
+      <field name="person_ss">Pile, Henry</field>
+      <field name="personID_ss">per.001943</field>
+      <field name="personData_ss">{"label":"Pile, Henry","id":"per.001943"}</field>
+      <field name="person_ss">Duvall, Gabriel, 1752-1844</field>
+      <field name="personID_ss">per.001393</field>
+      <field name="personData_ss">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="person_ss">Key, Philip Barton, 1757-1815</field>
+      <field name="personID_ss">per.001495</field>
+      <field name="personData_ss">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="plaintiff_ss">Thomas, Robert</field>
+      <field name="plaintiffID_ss">per.001950</field>
+      <field name="plaintiffData_ss">{"label":"Thomas, Robert","id":"per.001950"}</field>
+      <field name="defendant_ss">Pile, Henry</field>
+      <field name="defendantID_ss">per.001943</field>
+      <field name="defendantData_ss">{"label":"Pile, Henry","id":"per.001943"}</field>
+      <field name="attorneyP_ss">Duvall, Gabriel, 1752-1844</field>
+      <field name="attorneyPID_ss">per.001393</field>
+      <field name="attorneyPData_ss">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="attorney_ss">Duvall, Gabriel, 1752-1844</field>
+      <field name="attorneyID_ss">per.001393</field>
+      <field name="attorneyData_ss">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="attorneyD_ss">Key, Philip Barton, 1757-1815</field>
+      <field name="attorneyDID_ss">per.001495</field>
+      <field name="attorneyDData_ss">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="attorney_ss">Key, Philip Barton, 1757-1815</field>
+      <field name="attorneyID_ss">per.001495</field>
+      <field name="attorneyData_ss">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="sourceTitle_s">Deposition of Henrietta Wheeler</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1794-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0342</field>
+      <field name="documentCaseData_ss">{"label":"Robert Thomas v. Henry Pile","id":"oscys.caseid.0342"}</field>
+      <field name="jurisdiction_ss">Maryland. General Court of the Western Shore - Annapolis (Md.)</field>
+      <field name="text"> The deposition of Henrietta Wheeler of Charles County aged about 38 or 39 years when this 23d day of March 1793 being first duly sworn on the holy Evangely of Almighty God, saith that she has known Henry Pile about four or five years, but does not know personally Robert Thomas the petitioner; that she knows John who petitioned against Raphael Boarman and has known him from his Infancy; he is the son of a dark mulatto woman named Nanny commonly called Nanny Cooper; that she belonged when the deponent first knew her which is ever since she can remember, to Basil Smith who married the daughter of Mr. Wharton of St. Mary's County; that she has heard Mrs. Dorothea Boarman deceased, the late wife of the aforesaid Raphael Boarman say that the family of the aforesaid John son of Nanny Cooper came of a free white woman, and that they would be entitled to be free, but that the white woman aforesaid married a Negro, and in those days the marriage of a free white woman with a Negro enslaved her posterity; Being asked if she heard the said Dorothea Boarman say with what Negro the white woman intermarried, answers she did not; that she did not ask her any questions about it, as she had often heard before; and this deponent always understood from the aforesaid Dorothea Boarman that they were detained as slaves on account of their ancestor having intermarried with a slave. And she further saith that the said Dorothea Boarman was a daughter of the aforesaid Basil Smith, and grand daughter of the aforesaid Mrs. Wharton; and this deponent has often heard, when she was young, that they were entitled to be free; she further saith that this Conversation has happened since the said Dorothea Boarman was married to Raphael Boarman, and had Children by him; and she thinks about ten years ago and she further saith that she has heard the aforesaid Raphael Boarman in the Course of the last year say that his said wife had told him the same as this deponent has related was told to her as above; and further the said Raphael Boarman at the time aforesaid, said that his said wife had asked him if he thought they were free, if he would desire to keep them as slaves, and to which he answered that he would not; but that as their ancestor had married a Negro, the law enslaved them. She further saith that she has known several of the family of the aforesaid John and has generally understood them to be forward; and that they were as well fed and cloathed as negroes usually are and were equally indulged. That the deponent ever since she could remember was intimate in Basil Smiths family, having been always a near neighbour. This deponent further saith that she never understood from Mrs. Boarman nor did she ask her, of whom she derived her Information respecting the descent of these Negroes. That she does not know from whom she heard the report of their being descended from a White Woman (except from Mrs. Boarman) but probably she has heard it as often from the Negroes as from White Peoples. That this deponent always understood the Dispute was Whether the Ancestor of these Negroes was married to a Slave or not. This deponent says that she told Mrs. Boarman that Nanny Cooper said her Ancestor was not married to a Slave, but Mrs. Boarman made answer that Nanny knew Nothing about it for they were married. and this deponent never heard it questioned in Mr. Smiths Family that these people were descended from a White Woman, but the Dispute was whether married or not? And further she saith that she always understood that Nanny Cooper was the daughter of Betty Mingo who belonged to Mrs. Pile mother of the Rev'rend Mr. Pile; she used to go to see her as her mother every year; and she also saith that Mrs. Boarman deceased was a discent woman and easy and peaceable in her disposition and indulgent to her slaves, but she never knew her to suffer any improper familiarity with them. Sworn before Henry Barnes Taken in the presence of us. G Duvall for Pet. Philip B. Key for Defdt. ½ Henrietta Wheeler's Deposition 7½ sid No. 2. Entered 7½ Henrietta Wheeler 2. filed 31s Octo 1794 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0342</field>
+      <field name="person_ss" update="add">Barnes, Henry</field>
+      <field name="personID_ss" update="add">per.001951</field>
+      <field name="personData_ss" update="add">{"label":"Barnes, Henry","id":"per.001951"}</field>
+      <field name="person_ss" update="add">Boarman, Dorothea</field>
+      <field name="personID_ss" update="add">per.002026</field>
+      <field name="personData_ss" update="add">{"label":"Boarman, Dorothea","id":"per.002026"}</field>
+      <field name="person_ss" update="add">Boarman, Raphael</field>
+      <field name="personID_ss" update="add">per.002028</field>
+      <field name="personData_ss" update="add">{"label":"Boarman, Raphael","id":"per.002028"}</field>
+      <field name="person_ss" update="add">Cooper, Nanny</field>
+      <field name="personID_ss" update="add">per.002035</field>
+      <field name="personData_ss" update="add">{"label":"Cooper, Nanny","id":"per.002035"}</field>
+      <field name="person_ss" update="add">Mingo, Betty</field>
+      <field name="personID_ss" update="add">per.001964</field>
+      <field name="personData_ss" update="add">{"label":"Mingo, Betty","id":"per.001964"}</field>
+      <field name="person_ss" update="add">Smith, Basil</field>
+      <field name="personID_ss" update="add">per.002057</field>
+      <field name="personData_ss" update="add">{"label":"Smith, Basil","id":"per.002057"}</field>
+      <field name="person_ss" update="add">Thomas, John</field>
+      <field name="personID_ss" update="add">per.002065</field>
+      <field name="personData_ss" update="add">{"label":"Thomas, John","id":"per.002065"}</field>
+      <field name="person_ss" update="add">Wharton, Henry</field>
+      <field name="personID_ss" update="add">per.002074</field>
+      <field name="personData_ss" update="add">{"label":"Wharton, Henry","id":"per.002074"}</field>
+      <field name="person_ss" update="add">Wheeler, Henrietta</field>
+      <field name="personID_ss" update="add">per.002075</field>
+      <field name="personData_ss" update="add">{"label":"Wheeler, Henrietta","id":"per.002075"}</field>
+      <field name="person_ss" update="add">Thomas, Robert</field>
+      <field name="personID_ss" update="add">per.001950</field>
+      <field name="personData_ss" update="add">{"label":"Thomas, Robert","id":"per.001950"}</field>
+      <field name="person_ss" update="add">Pile, Henry</field>
+      <field name="personID_ss" update="add">per.001943</field>
+      <field name="personData_ss" update="add">{"label":"Pile, Henry","id":"per.001943"}</field>
+      <field name="person_ss" update="add">Duvall, Gabriel, 1752-1844</field>
+      <field name="personID_ss" update="add">per.001393</field>
+      <field name="personData_ss" update="add">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="person_ss" update="add">Key, Philip Barton, 1757-1815</field>
+      <field name="personID_ss" update="add">per.001495</field>
+      <field name="personData_ss" update="add">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="plaintiff_ss" update="add">Thomas, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.001950</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Thomas, Robert","id":"per.001950"}</field>
+      <field name="defendant_ss" update="add">Pile, Henry</field>
+      <field name="defendantID_ss" update="add">per.001943</field>
+      <field name="defendantData_ss" update="add">{"label":"Pile, Henry","id":"per.001943"}</field>
+      <field name="attorneyP_ss" update="add">Duvall, Gabriel, 1752-1844</field>
+      <field name="attorneyPID_ss" update="add">per.001393</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="attorney_ss" update="add">Duvall, Gabriel, 1752-1844</field>
+      <field name="attorneyID_ss" update="add">per.001393</field>
+      <field name="attorneyData_ss" update="add">{"label":"Duvall, Gabriel, 1752-1844","id":"per.001393"}</field>
+      <field name="attorneyD_ss" update="add">Key, Philip Barton, 1757-1815</field>
+      <field name="attorneyDID_ss" update="add">per.001495</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="attorney_ss" update="add">Key, Philip Barton, 1757-1815</field>
+      <field name="attorneyID_ss" update="add">per.001495</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Philip Barton, 1757-1815","id":"per.001495"}</field>
+      <field name="jurisdiction_ss" update="add">Maryland. General Court of the Western Shore - Annapolis (Md.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.mdcase.0006.005</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Robert Thomas v. Henry Pile. Deposition of Henrietta Wheeler (March 23, 1793)","date":"1793-03-23","dateDisplay":"March 23, 1793","id":"oscys.mdcase.0006.005"}</field>
+   </doc>
+</add>

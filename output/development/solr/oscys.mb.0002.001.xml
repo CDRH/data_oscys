@@ -1,0 +1,79 @@
+<add>
+   <doc>
+      <field name="id">oscys.mb.0002.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.mb.0002.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.mb.0002.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.mb.0002.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Kitty Shorter &amp; William Shorter v. Daniel Rapine. Minute Book Entry</field>
+      <field name="titleSort" update="add">kitty shorter &amp; william shorter v. daniel rapine. minute book entry</field>
+      <field name="titleLetter_s" update="add">k</field>
+      <field name="contributor"/>
+      <field name="date">1809-01-20T00:00:00Z</field>
+      <field name="dateDisplay">January 20, 1809</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Microfilm 1021, Reel 1</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Minute Book</field>
+      <field name="people">Shorter, Kitty</field>
+      <field name="people">Shorter, William</field>
+      <field name="people">Rapine, Daniel</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Shorter, Kitty</field>
+      <field name="personID_ss">per.000012</field>
+      <field name="personData_ss">{"label":"Shorter, Kitty","id":"per.000012"}</field>
+      <field name="person_ss">Shorter, William</field>
+      <field name="personID_ss">per.000013</field>
+      <field name="personData_ss">{"label":"Shorter, William","id":"per.000013"}</field>
+      <field name="person_ss">Rapine, Daniel</field>
+      <field name="personID_ss">per.000014</field>
+      <field name="personData_ss">{"label":"Rapine, Daniel","id":"per.000014"}</field>
+      <field name="plaintiff_ss">Shorter, Kitty</field>
+      <field name="plaintiffID_ss">per.000012</field>
+      <field name="plaintiffData_ss">{"label":"Shorter, Kitty","id":"per.000012"}</field>
+      <field name="plaintiff_ss">Shorter, William</field>
+      <field name="plaintiffID_ss">per.000013</field>
+      <field name="plaintiffData_ss">{"label":"Shorter, William","id":"per.000013"}</field>
+      <field name="defendant_ss">Rapine, Daniel</field>
+      <field name="defendantID_ss">per.000014</field>
+      <field name="defendantData_ss">{"label":"Rapine, Daniel","id":"per.000014"}</field>
+      <field name="sourceTitle_s">Minutes of the U.S. Circuit Court for the District of Columbia, 1801-1863</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1808-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0003</field>
+      <field name="documentCaseData_ss">{"label":"Kitty Shorter &amp; William Shorter v. Daniel Rapine","id":"oscys.caseid.0003"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Daniel Rapine entered into Recog: in 800 Dolls for that appearance of Negro Kitty and her child Wm shall not be removed out of District of Cola &amp;c &amp;c. until a suit brought by them against him for their freedom, and now depending in this Court shall be decided. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0003</field>
+      <field name="person_ss" update="add">Shorter, Kitty</field>
+      <field name="personID_ss" update="add">per.000012</field>
+      <field name="personData_ss" update="add">{"label":"Shorter, Kitty","id":"per.000012"}</field>
+      <field name="person_ss" update="add">Shorter, William</field>
+      <field name="personID_ss" update="add">per.000013</field>
+      <field name="personData_ss" update="add">{"label":"Shorter, William","id":"per.000013"}</field>
+      <field name="person_ss" update="add">Rapine, Daniel</field>
+      <field name="personID_ss" update="add">per.000014</field>
+      <field name="personData_ss" update="add">{"label":"Rapine, Daniel","id":"per.000014"}</field>
+      <field name="plaintiff_ss" update="add">Shorter, Kitty</field>
+      <field name="plaintiffID_ss" update="add">per.000012</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Shorter, Kitty","id":"per.000012"}</field>
+      <field name="plaintiff_ss" update="add">Shorter, William</field>
+      <field name="plaintiffID_ss" update="add">per.000013</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Shorter, William","id":"per.000013"}</field>
+      <field name="defendant_ss" update="add">Rapine, Daniel</field>
+      <field name="defendantID_ss" update="add">per.000014</field>
+      <field name="defendantData_ss" update="add">{"label":"Rapine, Daniel","id":"per.000014"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.mb.0002.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Kitty Shorter &amp; William Shorter v. Daniel Rapine. Minute Book Entry (January 20, 1809)","date":"1809-01-20","dateDisplay":"January 20, 1809","id":"oscys.mb.0002.001"}</field>
+   </doc>
+</add>

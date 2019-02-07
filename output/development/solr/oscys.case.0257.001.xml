@@ -1,0 +1,93 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0257.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0257.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0257.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0257.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Peter Thomas v. Creedy Hamilton. Petition for Freedom</field>
+      <field name="titleSort" update="add">peter thomas v. creedy hamilton. petition for freedom</field>
+      <field name="titleLetter_s" update="add">p</field>
+      <field name="contributor"/>
+      <field name="date">1809-12-07T00:00:00Z</field>
+      <field name="dateDisplay">December 7, 1809</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 9, Folder 271</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Thomas, Elizabeth</field>
+      <field name="people">Thomas, Peter</field>
+      <field name="people">Hamilton, Creedy</field>
+      <field name="people">Balch, Lewis P. W.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Thomas, Elizabeth</field>
+      <field name="personID_ss">per.001932</field>
+      <field name="personData_ss">{"label":"Thomas, Elizabeth","id":"per.001932"}</field>
+      <field name="person_ss">Thomas, Peter</field>
+      <field name="personID_ss">per.001933</field>
+      <field name="personData_ss">{"label":"Thomas, Peter","id":"per.001933"}</field>
+      <field name="person_ss">Hamilton, Creedy</field>
+      <field name="personID_ss">per.001934</field>
+      <field name="personData_ss">{"label":"Hamilton, Creedy","id":"per.001934"}</field>
+      <field name="person_ss">Balch, Lewis P. W.</field>
+      <field name="personID_ss">per.000045</field>
+      <field name="personData_ss">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="plaintiff_ss">Thomas, Peter</field>
+      <field name="plaintiffID_ss">per.001933</field>
+      <field name="plaintiffData_ss">{"label":"Thomas, Peter","id":"per.001933"}</field>
+      <field name="defendant_ss">Hamilton, Creedy</field>
+      <field name="defendantID_ss">per.001934</field>
+      <field name="defendantData_ss">{"label":"Hamilton, Creedy","id":"per.001934"}</field>
+      <field name="attorneyP_ss">Balch, Lewis P. W.</field>
+      <field name="attorneyPID_ss">per.000045</field>
+      <field name="attorneyPData_ss">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="attorney_ss">Balch, Lewis P. W.</field>
+      <field name="attorneyID_ss">per.000045</field>
+      <field name="attorneyData_ss">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1809-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0259</field>
+      <field name="documentCaseData_ss">{"label":"Peter Thomas v. Creedy Hamilton","id":"oscys.caseid.0259"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honourable the Judges of the Circuit Court for the County of Washington, &amp; District of Columbia The petition of Peter Thomas humbly sheweth, that he is held in slavery by Creedy Hamilton of the County of Washington, and District of Columbia, and he is advised that he is entitled to be free, being descended from a free white woman whose name was Elizabeth Thomas, in the female line. He therefore prays your Honours, the premises considered, to discharge him from the custody of the said Creedy Hamilton if he should prove his descent as aforesaid, &amp; that summons may issue for the said Creedy Hamilton to answer this petition, and he will pray &amp; soforth. Lewis. P. W. Balch for Petitioner 271. filed 7th Dec 1809. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0259</field>
+      <field name="person_ss" update="add">Thomas, Elizabeth</field>
+      <field name="personID_ss" update="add">per.001932</field>
+      <field name="personData_ss" update="add">{"label":"Thomas, Elizabeth","id":"per.001932"}</field>
+      <field name="person_ss" update="add">Thomas, Peter</field>
+      <field name="personID_ss" update="add">per.001933</field>
+      <field name="personData_ss" update="add">{"label":"Thomas, Peter","id":"per.001933"}</field>
+      <field name="person_ss" update="add">Hamilton, Creedy</field>
+      <field name="personID_ss" update="add">per.001934</field>
+      <field name="personData_ss" update="add">{"label":"Hamilton, Creedy","id":"per.001934"}</field>
+      <field name="person_ss" update="add">Balch, Lewis P. W.</field>
+      <field name="personID_ss" update="add">per.000045</field>
+      <field name="personData_ss" update="add">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="plaintiff_ss" update="add">Thomas, Peter</field>
+      <field name="plaintiffID_ss" update="add">per.001933</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Thomas, Peter","id":"per.001933"}</field>
+      <field name="defendant_ss" update="add">Hamilton, Creedy</field>
+      <field name="defendantID_ss" update="add">per.001934</field>
+      <field name="defendantData_ss" update="add">{"label":"Hamilton, Creedy","id":"per.001934"}</field>
+      <field name="attorneyP_ss" update="add">Balch, Lewis P. W.</field>
+      <field name="attorneyPID_ss" update="add">per.000045</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="attorney_ss" update="add">Balch, Lewis P. W.</field>
+      <field name="attorneyID_ss" update="add">per.000045</field>
+      <field name="attorneyData_ss" update="add">{"label":"Balch, Lewis P. W.","id":"per.000045"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0257.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Peter Thomas v. Creedy Hamilton. Petition for Freedom (December 7, 1809)","date":"1809-12-07","dateDisplay":"December 7, 1809","id":"oscys.case.0257.001"}</field>
+   </doc>
+</add>

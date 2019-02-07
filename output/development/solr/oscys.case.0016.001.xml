@@ -1,0 +1,147 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0016.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0016.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0016.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0016.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Susan Bordley v. Anne Tilley. Petition for Freedom</field>
+      <field name="titleSort" update="add">susan bordley v. anne tilley. petition for freedom</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date">1809-07-10T00:00:00Z</field>
+      <field name="dateDisplay">July 10, 1809</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 34, Folder 191</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Bordley, Charlotte</field>
+      <field name="people">Bordley, James</field>
+      <field name="people">Bordley, Phillis</field>
+      <field name="people">Bordley, Rachel</field>
+      <field name="people">Bordley, Susan</field>
+      <field name="people">Tilley, Anne</field>
+      <field name="people">Law, John</field>
+      <field name="places">Pennsylvania</field>
+      <field name="places">Maryland</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Bordley, Charlotte</field>
+      <field name="personID_ss">per.000132</field>
+      <field name="personData_ss">{"label":"Bordley, Charlotte","id":"per.000132"}</field>
+      <field name="person_ss">Bordley, James</field>
+      <field name="personID_ss">per.000133</field>
+      <field name="personData_ss">{"label":"Bordley, James","id":"per.000133"}</field>
+      <field name="person_ss">Bordley, Phillis</field>
+      <field name="personID_ss">per.000134</field>
+      <field name="personData_ss">{"label":"Bordley, Phillis","id":"per.000134"}</field>
+      <field name="person_ss">Bordley, Rachel</field>
+      <field name="personID_ss">per.000135</field>
+      <field name="personData_ss">{"label":"Bordley, Rachel","id":"per.000135"}</field>
+      <field name="person_ss">Bordley, Susan</field>
+      <field name="personID_ss">per.000136</field>
+      <field name="personData_ss">{"label":"Bordley, Susan","id":"per.000136"}</field>
+      <field name="person_ss">Tilley, Anne</field>
+      <field name="personID_ss">per.000137</field>
+      <field name="personData_ss">{"label":"Tilley, Anne","id":"per.000137"}</field>
+      <field name="person_ss">Law, John</field>
+      <field name="personID_ss">per.000023</field>
+      <field name="personData_ss">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="plaintiff_ss">Bordley, Charlotte</field>
+      <field name="plaintiffID_ss">per.000132</field>
+      <field name="plaintiffData_ss">{"label":"Bordley, Charlotte","id":"per.000132"}</field>
+      <field name="plaintiff_ss">Bordley, James</field>
+      <field name="plaintiffID_ss">per.000133</field>
+      <field name="plaintiffData_ss">{"label":"Bordley, James","id":"per.000133"}</field>
+      <field name="plaintiff_ss">Bordley, Phillis</field>
+      <field name="plaintiffID_ss">per.000134</field>
+      <field name="plaintiffData_ss">{"label":"Bordley, Phillis","id":"per.000134"}</field>
+      <field name="plaintiff_ss">Bordley, Rachel</field>
+      <field name="plaintiffID_ss">per.000135</field>
+      <field name="plaintiffData_ss">{"label":"Bordley, Rachel","id":"per.000135"}</field>
+      <field name="plaintiff_ss">Bordley, Susan</field>
+      <field name="plaintiffID_ss">per.000136</field>
+      <field name="plaintiffData_ss">{"label":"Bordley, Susan","id":"per.000136"}</field>
+      <field name="defendant_ss">Tilley, Anne</field>
+      <field name="defendantID_ss">per.000137</field>
+      <field name="defendantData_ss">{"label":"Tilley, Anne","id":"per.000137"}</field>
+      <field name="attorneyP_ss">Law, John</field>
+      <field name="attorneyPID_ss">per.000023</field>
+      <field name="attorneyPData_ss">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="attorney_ss">Law, John</field>
+      <field name="attorneyID_ss">per.000023</field>
+      <field name="attorneyData_ss">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1811-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0016</field>
+      <field name="documentCaseData_ss">{"label":"Susan Bordley, Rachael Bordley, Charlotte Bordley, Phillis Bordley, &amp; James Bordley v. Anne Tilley","id":"oscys.caseid.0016"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble the Judges of the circuit court of the United States for the district of Columbia &amp; county of Washington The petition of Susan Bordley &amp; her children Rachael Bordley, Charlotte Bordley, Phillis Bordley &amp; James Bordley humbly sheweth, That your petitioner first named Susan Bordley is a native of the state of Pennsylvania &amp; was entitled by the laws of said state to her freedom but to prevent her enjoying the benefit of the laws of the said State, she was forcibly brought from said state by her then master &amp; sold on certain conditions in the state of Maryland. That since her arrival here she became the mother of the other persons above named on whose behalf she now petitions, &amp; that she together with her children are now unlawfully claimed &amp; detained in servitude by a certain Anne Tilley Your petitioner therefore prays on behalf of herself &amp; her children, that your Honors would take her case &amp; her rights into consideration, &amp; authorize &amp; direct such steps on the premises as to the honble Court may appear meet. And your petitioner &amp; her children will forever pray &amp;c. John Law Petr's atty. 211. Susan Bordley &amp; her children Rachael Charlotte Phillis &amp; James vs. Anne Tilley Mr Brent will please to file this petition &amp; issue subpœna for this defendant J Law filed 10th July 1809 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0016</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Bordley, Charlotte</field>
+      <field name="personID_ss" update="add">per.000132</field>
+      <field name="personData_ss" update="add">{"label":"Bordley, Charlotte","id":"per.000132"}</field>
+      <field name="person_ss" update="add">Bordley, James</field>
+      <field name="personID_ss" update="add">per.000133</field>
+      <field name="personData_ss" update="add">{"label":"Bordley, James","id":"per.000133"}</field>
+      <field name="person_ss" update="add">Bordley, Phillis</field>
+      <field name="personID_ss" update="add">per.000134</field>
+      <field name="personData_ss" update="add">{"label":"Bordley, Phillis","id":"per.000134"}</field>
+      <field name="person_ss" update="add">Bordley, Rachel</field>
+      <field name="personID_ss" update="add">per.000135</field>
+      <field name="personData_ss" update="add">{"label":"Bordley, Rachel","id":"per.000135"}</field>
+      <field name="person_ss" update="add">Bordley, Susan</field>
+      <field name="personID_ss" update="add">per.000136</field>
+      <field name="personData_ss" update="add">{"label":"Bordley, Susan","id":"per.000136"}</field>
+      <field name="person_ss" update="add">Tilley, Anne</field>
+      <field name="personID_ss" update="add">per.000137</field>
+      <field name="personData_ss" update="add">{"label":"Tilley, Anne","id":"per.000137"}</field>
+      <field name="person_ss" update="add">Law, John</field>
+      <field name="personID_ss" update="add">per.000023</field>
+      <field name="personData_ss" update="add">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="plaintiff_ss" update="add">Bordley, Charlotte</field>
+      <field name="plaintiffID_ss" update="add">per.000132</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bordley, Charlotte","id":"per.000132"}</field>
+      <field name="plaintiff_ss" update="add">Bordley, James</field>
+      <field name="plaintiffID_ss" update="add">per.000133</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bordley, James","id":"per.000133"}</field>
+      <field name="plaintiff_ss" update="add">Bordley, Phillis</field>
+      <field name="plaintiffID_ss" update="add">per.000134</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bordley, Phillis","id":"per.000134"}</field>
+      <field name="plaintiff_ss" update="add">Bordley, Rachel</field>
+      <field name="plaintiffID_ss" update="add">per.000135</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bordley, Rachel","id":"per.000135"}</field>
+      <field name="plaintiff_ss" update="add">Bordley, Susan</field>
+      <field name="plaintiffID_ss" update="add">per.000136</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bordley, Susan","id":"per.000136"}</field>
+      <field name="defendant_ss" update="add">Tilley, Anne</field>
+      <field name="defendantID_ss" update="add">per.000137</field>
+      <field name="defendantData_ss" update="add">{"label":"Tilley, Anne","id":"per.000137"}</field>
+      <field name="attorneyP_ss" update="add">Law, John</field>
+      <field name="attorneyPID_ss" update="add">per.000023</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="attorney_ss" update="add">Law, John</field>
+      <field name="attorneyID_ss" update="add">per.000023</field>
+      <field name="attorneyData_ss" update="add">{"label":"Law, John","id":"per.000023"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0016.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Susan Bordley v. Anne Tilley. Petition for Freedom (July 10, 1809)","date":"1809-07-10","dateDisplay":"July 10, 1809","id":"oscys.case.0016.001"}</field>
+   </doc>
+</add>

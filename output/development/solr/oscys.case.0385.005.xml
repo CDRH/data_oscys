@@ -1,0 +1,82 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0385.005</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0385.005.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0385.005.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0385.005.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Samuel v. James Green. Affidavit of John W. Beedle</field>
+      <field name="titleSort" update="add">samuel v. james green. affidavit of john w. beedle</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date">1818-12-01T00:00:00Z</field>
+      <field name="dateDisplay">December 1, 1818</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Affidavit</field>
+      <field name="people">Beedle, John W.</field>
+      <field name="people">Burrage, Edward</field>
+      <field name="people">Samuel</field>
+      <field name="people">Green, James</field>
+      <field name="places">Maryland</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Beedle, John W.</field>
+      <field name="personID_ss">per.003063</field>
+      <field name="personData_ss">{"label":"Beedle, John W.","id":"per.003063"}</field>
+      <field name="person_ss">Burrage, Edward</field>
+      <field name="personID_ss">per.003067</field>
+      <field name="personData_ss">{"label":"Burrage, Edward","id":"per.003067"}</field>
+      <field name="person_ss">Samuel</field>
+      <field name="personID_ss">per.003061</field>
+      <field name="personData_ss">{"label":"Samuel","id":"per.003061"}</field>
+      <field name="person_ss">Green, James</field>
+      <field name="personID_ss">per.003062</field>
+      <field name="personData_ss">{"label":"Green, James","id":"per.003062"}</field>
+      <field name="plaintiff_ss">Samuel</field>
+      <field name="plaintiffID_ss">per.003061</field>
+      <field name="plaintiffData_ss">{"label":"Samuel","id":"per.003061"}</field>
+      <field name="defendant_ss">Green, James</field>
+      <field name="defendantID_ss">per.003062</field>
+      <field name="defendantData_ss">{"label":"Green, James","id":"per.003062"}</field>
+      <field name="sourceTitle_s">Affidavit of John W. Beedle</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1819-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0410</field>
+      <field name="documentCaseData_ss">{"label":"Samuel v. James Green","id":"oscys.caseid.0410"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> District of Columbia County of Alexandria John W Beedle personally appeared before me Jacob Hoffman a Justice of the Peace for said County, and made Oath, that Samuel a Black Man, who he understands is about to bring Suit for his freedom, he hired from Edward Burrage, in the month of June or July in the year Eighteen hundred and seventeen sixteen. that the said Samuel Continued with him untill about eight days before Christmas, when the said Edward Burrage took him away from this Deponant, stating he must return him to his Master in Maryland he Otherwise might Obtain his freedom, that he understood from the said Edwd. Burrage that he had removed to this place. some time, early in the year, in which he hired Sam from him, that he brought Samuel from Maryland he further states that a few days after Damage took him to Maryland he returned, and he believes he hired him for a short time. further this Deponant saith not Given under my hand &amp; Seal this 1 Decr. 1818 Jacob Hoffman (seal) Deposition report of Sam </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0410</field>
+      <field name="person_ss" update="add">Beedle, John W.</field>
+      <field name="personID_ss" update="add">per.003063</field>
+      <field name="personData_ss" update="add">{"label":"Beedle, John W.","id":"per.003063"}</field>
+      <field name="person_ss" update="add">Burrage, Edward</field>
+      <field name="personID_ss" update="add">per.003067</field>
+      <field name="personData_ss" update="add">{"label":"Burrage, Edward","id":"per.003067"}</field>
+      <field name="person_ss" update="add">Samuel</field>
+      <field name="personID_ss" update="add">per.003061</field>
+      <field name="personData_ss" update="add">{"label":"Samuel","id":"per.003061"}</field>
+      <field name="person_ss" update="add">Green, James</field>
+      <field name="personID_ss" update="add">per.003062</field>
+      <field name="personData_ss" update="add">{"label":"Green, James","id":"per.003062"}</field>
+      <field name="plaintiff_ss" update="add">Samuel</field>
+      <field name="plaintiffID_ss" update="add">per.003061</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Samuel","id":"per.003061"}</field>
+      <field name="defendant_ss" update="add">Green, James</field>
+      <field name="defendantID_ss" update="add">per.003062</field>
+      <field name="defendantData_ss" update="add">{"label":"Green, James","id":"per.003062"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0385.005</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Samuel v. James Green. Affidavit of John W. Beedle (December 1, 1818)","date":"1818-12-01","dateDisplay":"December 1, 1818","id":"oscys.case.0385.005"}</field>
+   </doc>
+</add>

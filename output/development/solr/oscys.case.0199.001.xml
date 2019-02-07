@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0199.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0199.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0199.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0199.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Sally Cross v. Sarah E. Linton. Petition for Freedom</field>
+      <field name="titleSort" update="add">sally cross v. sarah e. linton. petition for freedom</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date">1843-08-23T00:00:00Z</field>
+      <field name="dateDisplay">August 23, 1843</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 712, Folder 167</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Cross, Sally</field>
+      <field name="people">Linton, Sarah E.</field>
+      <field name="people">Dermott, John J.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Cross, Sally</field>
+      <field name="personID_ss">per.001650</field>
+      <field name="personData_ss">{"label":"Cross, Sally","id":"per.001650"}</field>
+      <field name="person_ss">Linton, Sarah E.</field>
+      <field name="personID_ss">per.001649</field>
+      <field name="personData_ss">{"label":"Linton, Sarah E.","id":"per.001649"}</field>
+      <field name="person_ss">Dermott, John J.</field>
+      <field name="personID_ss">per.000873</field>
+      <field name="personData_ss">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="plaintiff_ss">Cross, Sally</field>
+      <field name="plaintiffID_ss">per.001650</field>
+      <field name="plaintiffData_ss">{"label":"Cross, Sally","id":"per.001650"}</field>
+      <field name="defendant_ss">Linton, Sarah E.</field>
+      <field name="defendantID_ss">per.001649</field>
+      <field name="defendantData_ss">{"label":"Linton, Sarah E.","id":"per.001649"}</field>
+      <field name="attorneyP_ss">Dermott, John J.</field>
+      <field name="attorneyPID_ss">per.000873</field>
+      <field name="attorneyPData_ss">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="attorney_ss">Dermott, John J.</field>
+      <field name="attorneyID_ss">per.000873</field>
+      <field name="attorneyData_ss">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1847-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0204</field>
+      <field name="documentCaseData_ss">{"label":"Sally Cross v. Sarah E. Linton","id":"oscys.caseid.0204"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Circuit Court of the District of Columbia for the County of Washington The Petition of Sally Cross a coloured person humbly complaining sheweth unto the said Honorable Court that your Petitioner is entitled to her freedom and is unjustly held in bondage by Sarah E Linton who claim your Petitioner as her slave Wherefore your Petitioner prays the said Honourable Court to grant a subpoena to the said Sarah E Linton directed and such relief in the premises as may be according to Law John J Dermott atty for Petitioner 91 49. 30. 38. 99. 62 Sally Cross vs Sarah E. Linton The clerk will file this Petition and issue accordingly John J Dermott Atty for Petitioner Filed 23 August 1843 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0204</field>
+      <field name="person_ss" update="add">Cross, Sally</field>
+      <field name="personID_ss" update="add">per.001650</field>
+      <field name="personData_ss" update="add">{"label":"Cross, Sally","id":"per.001650"}</field>
+      <field name="person_ss" update="add">Linton, Sarah E.</field>
+      <field name="personID_ss" update="add">per.001649</field>
+      <field name="personData_ss" update="add">{"label":"Linton, Sarah E.","id":"per.001649"}</field>
+      <field name="person_ss" update="add">Dermott, John J.</field>
+      <field name="personID_ss" update="add">per.000873</field>
+      <field name="personData_ss" update="add">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="plaintiff_ss" update="add">Cross, Sally</field>
+      <field name="plaintiffID_ss" update="add">per.001650</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Cross, Sally","id":"per.001650"}</field>
+      <field name="defendant_ss" update="add">Linton, Sarah E.</field>
+      <field name="defendantID_ss" update="add">per.001649</field>
+      <field name="defendantData_ss" update="add">{"label":"Linton, Sarah E.","id":"per.001649"}</field>
+      <field name="attorneyP_ss" update="add">Dermott, John J.</field>
+      <field name="attorneyPID_ss" update="add">per.000873</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="attorney_ss" update="add">Dermott, John J.</field>
+      <field name="attorneyID_ss" update="add">per.000873</field>
+      <field name="attorneyData_ss" update="add">{"label":"Dermott, John J.","id":"per.000873"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0199.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Sally Cross v. Sarah E. Linton. Petition for Freedom (August 23, 1843)","date":"1843-08-23","dateDisplay":"August 23, 1843","id":"oscys.case.0199.001"}</field>
+   </doc>
+</add>

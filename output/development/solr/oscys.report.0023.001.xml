@@ -1,0 +1,66 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0023.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0023.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0023.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0023.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Louisa Johnson v. Milo Mason. Circuit Court Report</field>
+      <field name="titleSort" update="add">louisa johnson v. milo mason. circuit court report</field>
+      <field name="titleLetter_s" update="add">l</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1828-05-01T00:00:00Z</field>
+      <field name="dateDisplay">May 1828</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume III, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Johnson, Louisa</field>
+      <field name="people">Mason, Milo</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="person_ss">Johnson, Louisa</field>
+      <field name="personID_ss">per.000644</field>
+      <field name="personData_ss">{"label":"Johnson, Louisa","id":"per.000644"}</field>
+      <field name="person_ss">Mason, Milo</field>
+      <field name="personID_ss">per.000645</field>
+      <field name="personData_ss">{"label":"Mason, Milo","id":"per.000645"}</field>
+      <field name="plaintiff_ss">Johnson, Louisa</field>
+      <field name="plaintiffID_ss">per.000644</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, Louisa","id":"per.000644"}</field>
+      <field name="defendant_ss">Mason, Milo</field>
+      <field name="defendantID_ss">per.000645</field>
+      <field name="defendantData_ss">{"label":"Mason, Milo","id":"per.000645"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1828-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0080</field>
+      <field name="documentCaseData_ss">{"label":"Louisa Johnson v. Milo Mason","id":"oscys.caseid.0080"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Louisa Johnson v. Milo Mason. If a slave be not brought into the county of Washington for sale, nor to reside permanently, he is not entitled to freedom under the Maryland Act of 1796, c. 67. Petition for freedom. The Court (nem. con.) was of opinion that if the petitioner was not brought into this county for sale or to reside, she is not entitled to freedom under the Maryland Act of 1796, c. 67, and that the act meant a permanent residence, a residence without expectation of change. See the case of Jordan v. Sawyer, in this Court at April term, 1823, [2 Cranch, 373.] </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0080</field>
+      <field name="person_ss" update="add">Johnson, Louisa</field>
+      <field name="personID_ss" update="add">per.000644</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Louisa","id":"per.000644"}</field>
+      <field name="person_ss" update="add">Mason, Milo</field>
+      <field name="personID_ss" update="add">per.000645</field>
+      <field name="personData_ss" update="add">{"label":"Mason, Milo","id":"per.000645"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.000644</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Louisa","id":"per.000644"}</field>
+      <field name="defendant_ss" update="add">Mason, Milo</field>
+      <field name="defendantID_ss" update="add">per.000645</field>
+      <field name="defendantData_ss" update="add">{"label":"Mason, Milo","id":"per.000645"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0023.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Louisa Johnson v. Milo Mason. Circuit Court Report (May, 1828)","date":"1828-05","dateDisplay":"May, 1828","id":"oscys.report.0023.001"}</field>
+   </doc>
+</add>

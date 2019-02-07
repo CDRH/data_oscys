@@ -1,0 +1,67 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0436.003</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0436.003.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0436.003.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0436.003.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Christiana Dunbar v. Richard B. Alexander. Affidavit of Richard B. Alexander</field>
+      <field name="titleSort" update="add">christiana dunbar v. richard b. alexander. affidavit of richard b. alexander</field>
+      <field name="titleLetter_s" update="add">c</field>
+      <field name="contributor"/>
+      <field name="date">1851-06-12T00:00:00Z</field>
+      <field name="dateDisplay">June 12, 1851</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Affidavit</field>
+      <field name="people">Dunbar, Christiana</field>
+      <field name="people">Alexander, Richard B.</field>
+      <field name="person_ss">Dunbar, Christiana</field>
+      <field name="personID_ss">per.001346</field>
+      <field name="personData_ss">{"label":"Dunbar, Christiana","id":"per.001346"}</field>
+      <field name="person_ss">Alexander, Richard B.</field>
+      <field name="personID_ss">per.001343</field>
+      <field name="personData_ss">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="plaintiff_ss">Dunbar, Christiana</field>
+      <field name="plaintiffID_ss">per.001346</field>
+      <field name="plaintiffData_ss">{"label":"Dunbar, Christiana","id":"per.001346"}</field>
+      <field name="defendant_ss">Alexander, Richard B.</field>
+      <field name="defendantID_ss">per.001343</field>
+      <field name="defendantData_ss">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="sourceTitle_s">Affidavit of Richard B. Alexander</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1851-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0479</field>
+      <field name="documentCaseData_ss">{"label":"Christiana Dunbar v. Richard B. Alexander","id":"oscys.caseid.0479"}</field>
+      <field name="jurisdiction_ss">Virginia. Circuit Superior Court (Alexandria County) - Alexandria (Va.)</field>
+      <field name="text"> I am willing that Judgement be entered in the case of Christy Dunbar vs. Alexander according to terms, Viz: that she be free at the age of thirty years of age, as far as my right or interest is concerned, but not thereby admitting her right to freedom. Each party paying their own costs. R. B. Alexander June 12th 1851. To be filed in the records or papers of the suit. R. B. Alexander June 12th 1851. file 11 June 1857 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0479</field>
+      <field update="add" name="outcomeData_ss">{"label":"Judgment for Plaintiff","date":"1851-06-12","dateDisplay":"June 12, 1851","id":"oscys.case.0436.003"}</field>
+      <field update="add" name="outcome_ss">Judgment for Plaintiff</field>
+      <field name="person_ss" update="add">Dunbar, Christiana</field>
+      <field name="personID_ss" update="add">per.001346</field>
+      <field name="personData_ss" update="add">{"label":"Dunbar, Christiana","id":"per.001346"}</field>
+      <field name="person_ss" update="add">Alexander, Richard B.</field>
+      <field name="personID_ss" update="add">per.001343</field>
+      <field name="personData_ss" update="add">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="plaintiff_ss" update="add">Dunbar, Christiana</field>
+      <field name="plaintiffID_ss" update="add">per.001346</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Dunbar, Christiana","id":"per.001346"}</field>
+      <field name="defendant_ss" update="add">Alexander, Richard B.</field>
+      <field name="defendantID_ss" update="add">per.001343</field>
+      <field name="defendantData_ss" update="add">{"label":"Alexander, Richard B.","id":"per.001343"}</field>
+      <field name="jurisdiction_ss" update="add">Virginia. Circuit Superior Court (Alexandria County) - Alexandria (Va.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0436.003</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Christiana Dunbar v. Richard B. Alexander. Affidavit of Richard B. Alexander (June 12, 1851)","date":"1851-06-12","dateDisplay":"June 12, 1851","id":"oscys.case.0436.003"}</field>
+   </doc>
+</add>

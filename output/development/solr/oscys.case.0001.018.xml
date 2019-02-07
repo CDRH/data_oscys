@@ -1,0 +1,107 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0001.018</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0001.018.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0001.018.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0001.018.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ben v. Sabret Scott. Summons of Sabret Scott</field>
+      <field name="titleSort" update="add">ben v. sabret scott. summons of sabret scott</field>
+      <field name="titleLetter_s" update="add">b</field>
+      <field name="contributor"/>
+      <field name="date">1806-09-17T00:00:00Z</field>
+      <field name="dateDisplay">September 17, 1806</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 34, Folder 190</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Brent, Daniel Carroll, 1759-1815</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Ben</field>
+      <field name="people">Scott, Sabret</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, Daniel Carroll, 1759-1815</field>
+      <field name="personID_ss">per.001555</field>
+      <field name="personData_ss">{"label":"Brent, Daniel Carroll, 1759-1815","id":"per.001555"}</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Ben</field>
+      <field name="personID_ss">per.000002</field>
+      <field name="personData_ss">{"label":"Ben","id":"per.000002"}</field>
+      <field name="person_ss">Scott, Sabret</field>
+      <field name="personID_ss">per.000005</field>
+      <field name="personData_ss">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss">Ben</field>
+      <field name="plaintiffID_ss">per.000002</field>
+      <field name="plaintiffData_ss">{"label":"Ben","id":"per.000002"}</field>
+      <field name="defendant_ss">Scott, Sabret</field>
+      <field name="defendantID_ss">per.000005</field>
+      <field name="defendantData_ss">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="sourceTitle_s">Summons of Sabret Scott</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1811-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0001</field>
+      <field name="documentCaseData_ss">{"label":"Ben v. Sabret Scott","id":"oscys.caseid.0001"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> District of Columbia towit The United States of America to the Marshal of the District of Columbia Greeting You are hereby commanded to summon Sabritt Scott that all Excuses and delays set aside he be and appear before the circuit Court of the District of Columbia to be held for the County of Washington at the City of Washington on the fourth monday of December next to answer the Petition of Negro Ben in the said Court exhibited by the said "Ben" against the said Sabritt Scott for this freedom. Hereof fail not at your peril and have you then and there this writ. Witness the honorable William Cranch Esquire Chief Judge of the said Court the 25th day of June 1806 Issued this 17th day of September 1806 &gt;Wm Brent Clk F S Key 121 Negro Ben vs Sabritt Scott Subpa Petition for freedom Sumd. on the 17th of Septr. 1806 Danl. C Brent Marshal </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0001</field>
+      <field name="person_ss" update="add">Brent, Daniel Carroll, 1759-1815</field>
+      <field name="personID_ss" update="add">per.001555</field>
+      <field name="personData_ss" update="add">{"label":"Brent, Daniel Carroll, 1759-1815","id":"per.001555"}</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Ben</field>
+      <field name="personID_ss" update="add">per.000002</field>
+      <field name="personData_ss" update="add">{"label":"Ben","id":"per.000002"}</field>
+      <field name="person_ss" update="add">Scott, Sabret</field>
+      <field name="personID_ss" update="add">per.000005</field>
+      <field name="personData_ss" update="add">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss" update="add">Ben</field>
+      <field name="plaintiffID_ss" update="add">per.000002</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ben","id":"per.000002"}</field>
+      <field name="defendant_ss" update="add">Scott, Sabret</field>
+      <field name="defendantID_ss" update="add">per.000005</field>
+      <field name="defendantData_ss" update="add">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0001.018</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ben v. Sabret Scott. Summons of Sabret Scott (September 17, 1806)","date":"1806-09-17","dateDisplay":"September 17, 1806","id":"oscys.case.0001.018"}</field>
+   </doc>
+</add>

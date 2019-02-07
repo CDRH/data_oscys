@@ -1,0 +1,94 @@
+<add>
+   <doc>
+      <field name="id">oscys.mdcase.0008.034</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.mdcase.0008.034.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.mdcase.0008.034.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.mdcase.0008.034.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Charles Mahoney v. John Ashton. Summons of Jurors</field>
+      <field name="titleSort" update="add">charles mahoney v. john ashton. summons of jurors</field>
+      <field name="titleLetter_s" update="add">c</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">Maryland State Archives, General Court of the Western Shore (Judgments), MSA S498-220</field>
+      <field name="rightsHolder">Maryland State Archives</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Deposition</field>
+      <field name="people">Crain, Abner</field>
+      <field name="people">Duvall, Lewis</field>
+      <field name="people">Gwinn, John</field>
+      <field name="people">Warfield, Lancelot, Sr.</field>
+      <field name="people">Mahoney, Charles</field>
+      <field name="people">Ashton, John</field>
+      <field name="places">Ann Arundel County (Md.)</field>
+      <field name="person_ss">Crain, Abner</field>
+      <field name="personID_ss">per.004754</field>
+      <field name="personData_ss">{"label":"Crain, Abner","id":"per.004754"}</field>
+      <field name="person_ss">Duvall, Lewis</field>
+      <field name="personID_ss">per.004753</field>
+      <field name="personData_ss">{"label":"Duvall, Lewis","id":"per.004753"}</field>
+      <field name="person_ss">Gwinn, John</field>
+      <field name="personID_ss">per.001493</field>
+      <field name="personData_ss">{"label":"Gwinn, John","id":"per.001493"}</field>
+      <field name="person_ss">Warfield, Lancelot, Sr.</field>
+      <field name="personID_ss">per.004752</field>
+      <field name="personData_ss">{"label":"Warfield, Lancelot, Sr.","id":"per.004752"}</field>
+      <field name="person_ss">Mahoney, Charles</field>
+      <field name="personID_ss">per.004476</field>
+      <field name="personData_ss">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="person_ss">Ashton, John</field>
+      <field name="personID_ss">per.000215</field>
+      <field name="personData_ss">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="plaintiff_ss">Mahoney, Charles</field>
+      <field name="plaintiffID_ss">per.004476</field>
+      <field name="plaintiffData_ss">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="defendant_ss">Ashton, John</field>
+      <field name="defendantID_ss">per.000215</field>
+      <field name="defendantData_ss">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="sourceTitle_s">Summons of Jurors</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1799-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0481</field>
+      <field name="documentCaseData_ss">{"label":"Charles Mahoney v. John Ashton","id":"oscys.caseid.0481"}</field>
+      <field name="jurisdiction_ss">Maryland. General Court of the Western Shore - Annapolis (Md.)</field>
+      <field name="text"> To the Sheriff of Anne Arundel County You are hereby commanded to Summon Three good &amp; lawful men de circumstantibus to make a Jury of Twelve men to try an issue now depending in the General Court between Charles Mahony against John Ashton returnable Immediately. Jno Gwinn Cl Lancelot Warfield Senr Lewis Duvall Abner Crain Intersect. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0481</field>
+      <field name="person_ss" update="add">Crain, Abner</field>
+      <field name="personID_ss" update="add">per.004754</field>
+      <field name="personData_ss" update="add">{"label":"Crain, Abner","id":"per.004754"}</field>
+      <field name="person_ss" update="add">Duvall, Lewis</field>
+      <field name="personID_ss" update="add">per.004753</field>
+      <field name="personData_ss" update="add">{"label":"Duvall, Lewis","id":"per.004753"}</field>
+      <field name="person_ss" update="add">Gwinn, John</field>
+      <field name="personID_ss" update="add">per.001493</field>
+      <field name="personData_ss" update="add">{"label":"Gwinn, John","id":"per.001493"}</field>
+      <field name="person_ss" update="add">Warfield, Lancelot, Sr.</field>
+      <field name="personID_ss" update="add">per.004752</field>
+      <field name="personData_ss" update="add">{"label":"Warfield, Lancelot, Sr.","id":"per.004752"}</field>
+      <field name="person_ss" update="add">Mahoney, Charles</field>
+      <field name="personID_ss" update="add">per.004476</field>
+      <field name="personData_ss" update="add">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="person_ss" update="add">Ashton, John</field>
+      <field name="personID_ss" update="add">per.000215</field>
+      <field name="personData_ss" update="add">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="plaintiff_ss" update="add">Mahoney, Charles</field>
+      <field name="plaintiffID_ss" update="add">per.004476</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="defendant_ss" update="add">Ashton, John</field>
+      <field name="defendantID_ss" update="add">per.000215</field>
+      <field name="defendantData_ss" update="add">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="jurisdiction_ss" update="add">Maryland. General Court of the Western Shore - Annapolis (Md.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.mdcase.0008.034</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Charles Mahoney v. John Ashton. Summons of Jurors","id":"oscys.mdcase.0008.034"}</field>
+   </doc>
+</add>

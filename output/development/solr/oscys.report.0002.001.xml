@@ -1,0 +1,92 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0002.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0002.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0002.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0002.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Mima Queen v. John Hepburn. Circuit Court Report</field>
+      <field name="titleSort" update="add">mima queen v. john hepburn. circuit court report</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1810-06-01T00:00:00Z</field>
+      <field name="dateDisplay">June 1810</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume II, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Thruston, Buckner, 1763-1845</field>
+      <field name="people">Queen, Louisa</field>
+      <field name="people">Queen, Mima</field>
+      <field name="people">Hepburn, John</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss">per.000064</field>
+      <field name="personData_ss">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss">Queen, Louisa</field>
+      <field name="personID_ss">per.000056</field>
+      <field name="personData_ss">{"label":"Queen, Louisa","id":"per.000056"}</field>
+      <field name="person_ss">Queen, Mima</field>
+      <field name="personID_ss">per.000057</field>
+      <field name="personData_ss">{"label":"Queen, Mima","id":"per.000057"}</field>
+      <field name="person_ss">Hepburn, John</field>
+      <field name="personID_ss">per.000058</field>
+      <field name="personData_ss">{"label":"Hepburn, John","id":"per.000058"}</field>
+      <field name="plaintiff_ss">Queen, Louisa</field>
+      <field name="plaintiffID_ss">per.000056</field>
+      <field name="plaintiffData_ss">{"label":"Queen, Louisa","id":"per.000056"}</field>
+      <field name="plaintiff_ss">Queen, Mima</field>
+      <field name="plaintiffID_ss">per.000057</field>
+      <field name="plaintiffData_ss">{"label":"Queen, Mima","id":"per.000057"}</field>
+      <field name="defendant_ss">Hepburn, John</field>
+      <field name="defendantID_ss">per.000058</field>
+      <field name="defendantData_ss">{"label":"Hepburn, John","id":"per.000058"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1810-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0011</field>
+      <field name="documentCaseData_ss">{"label":"Mima Queen &amp; Louisa Queen v. John Hepburn","id":"oscys.caseid.0011"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Mima and Louisa Queen v. John Hepburn Alienage is not a cause of challenge of a juror. Challenge for favor is to be tried by the two first jurors who are sworn in the cause. A freeborn negro is a competent witness in a case of freedom. Petition for freedom. The Court directed twelve jurors to be drawn out of the box, and a list handed to each party. The Court (Thruston, J., absent,) rejected a challenge because a juror was an alien. It was stated to have been decided early in the existence of this Court, that alienage was no cause of challenge. Four jurors were challenged for cause, and put aside, until two were sworn, who tried whether the four stood indifferent. The Court admitted a freeborn black to give evidence. There were several bills of exception taken. Cranch, C. J., was absent during part of the trial. Verdict for the defendant. Judgment affirmed by the Supreme Court of the United States. 7 Cranch, 290. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0011</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Queen, Louisa</field>
+      <field name="personID_ss" update="add">per.000056</field>
+      <field name="personData_ss" update="add">{"label":"Queen, Louisa","id":"per.000056"}</field>
+      <field name="person_ss" update="add">Queen, Mima</field>
+      <field name="personID_ss" update="add">per.000057</field>
+      <field name="personData_ss" update="add">{"label":"Queen, Mima","id":"per.000057"}</field>
+      <field name="person_ss" update="add">Hepburn, John</field>
+      <field name="personID_ss" update="add">per.000058</field>
+      <field name="personData_ss" update="add">{"label":"Hepburn, John","id":"per.000058"}</field>
+      <field name="plaintiff_ss" update="add">Queen, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.000056</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Queen, Louisa","id":"per.000056"}</field>
+      <field name="plaintiff_ss" update="add">Queen, Mima</field>
+      <field name="plaintiffID_ss" update="add">per.000057</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Queen, Mima","id":"per.000057"}</field>
+      <field name="defendant_ss" update="add">Hepburn, John</field>
+      <field name="defendantID_ss" update="add">per.000058</field>
+      <field name="defendantData_ss" update="add">{"label":"Hepburn, John","id":"per.000058"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0002.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Mima Queen v. John Hepburn. Circuit Court Report (June, 1810)","date":"1810-06","dateDisplay":"June, 1810","id":"oscys.report.0002.001"}</field>
+   </doc>
+</add>

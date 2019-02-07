@@ -1,0 +1,106 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0011.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0011.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0011.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0011.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Mima Queen v. John Hepburn. Petition for Freedom</field>
+      <field name="titleSort" update="add">mima queen v. john hepburn. petition for freedom</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="contributor"/>
+      <field name="date">1810-01-08T00:00:00Z</field>
+      <field name="dateDisplay">January 8, 1810</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 20, Folder 207</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Queen, Louisa</field>
+      <field name="people">Queen, Mima</field>
+      <field name="people">Hepburn, John</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Queen, Louisa</field>
+      <field name="personID_ss">per.000056</field>
+      <field name="personData_ss">{"label":"Queen, Louisa","id":"per.000056"}</field>
+      <field name="person_ss">Queen, Mima</field>
+      <field name="personID_ss">per.000057</field>
+      <field name="personData_ss">{"label":"Queen, Mima","id":"per.000057"}</field>
+      <field name="person_ss">Hepburn, John</field>
+      <field name="personID_ss">per.000058</field>
+      <field name="personData_ss">{"label":"Hepburn, John","id":"per.000058"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss">Queen, Louisa</field>
+      <field name="plaintiffID_ss">per.000056</field>
+      <field name="plaintiffData_ss">{"label":"Queen, Louisa","id":"per.000056"}</field>
+      <field name="plaintiff_ss">Queen, Mima</field>
+      <field name="plaintiffID_ss">per.000057</field>
+      <field name="plaintiffData_ss">{"label":"Queen, Mima","id":"per.000057"}</field>
+      <field name="defendant_ss">Hepburn, John</field>
+      <field name="defendantID_ss">per.000058</field>
+      <field name="defendantData_ss">{"label":"Hepburn, John","id":"per.000058"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1810-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0011</field>
+      <field name="documentCaseData_ss">{"label":"Mima Queen &amp; Louisa Queen v. John Hepburn","id":"oscys.caseid.0011"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble the Judges of the Circuit Court of the District of Columbia for Washington County The petition of Minor or Mina Queen &amp; Louisa her child of Washington County humbly sheweth that your petitioner &amp; her said child are entitled to their freedom &amp; are unjustly held in bondage by a certain John Hepburn of Washington County as slaves. Wherefore she prays your honors to grant her relief in the premisses &amp; as she apprehends that she may be removed out of the Jurisdiction of this Court before the next term thereof, she prays that subpoena may issue to the said John Hepburn retble immediately. FS Key for Petr 240 207. Minor Queen &amp; child vs. Jno Hepburn. Mr Brent File it &amp; issue sbpa as prayed. FS Key filed 8. January 1810. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0011</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Queen, Louisa</field>
+      <field name="personID_ss" update="add">per.000056</field>
+      <field name="personData_ss" update="add">{"label":"Queen, Louisa","id":"per.000056"}</field>
+      <field name="person_ss" update="add">Queen, Mima</field>
+      <field name="personID_ss" update="add">per.000057</field>
+      <field name="personData_ss" update="add">{"label":"Queen, Mima","id":"per.000057"}</field>
+      <field name="person_ss" update="add">Hepburn, John</field>
+      <field name="personID_ss" update="add">per.000058</field>
+      <field name="personData_ss" update="add">{"label":"Hepburn, John","id":"per.000058"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss" update="add">Queen, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.000056</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Queen, Louisa","id":"per.000056"}</field>
+      <field name="plaintiff_ss" update="add">Queen, Mima</field>
+      <field name="plaintiffID_ss" update="add">per.000057</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Queen, Mima","id":"per.000057"}</field>
+      <field name="defendant_ss" update="add">Hepburn, John</field>
+      <field name="defendantID_ss" update="add">per.000058</field>
+      <field name="defendantData_ss" update="add">{"label":"Hepburn, John","id":"per.000058"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0011.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Mima Queen v. John Hepburn. Petition for Freedom (January 8, 1810)","date":"1810-01-08","dateDisplay":"January 8, 1810","id":"oscys.case.0011.001"}</field>
+   </doc>
+</add>

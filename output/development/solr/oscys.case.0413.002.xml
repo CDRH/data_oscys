@@ -1,0 +1,85 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0413.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0413.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0413.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0413.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Cleary Moore v. Thomas Jacobs. Complaint</field>
+      <field name="titleSort" update="add">cleary moore v. thomas jacobs. complaint</field>
+      <field name="titleLetter_s" update="add">c</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Complaint</field>
+      <field name="people">Moore, Cleary</field>
+      <field name="people">Jacobs, Thomas</field>
+      <field name="people">Neale, Christopher</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="person_ss">Moore, Cleary</field>
+      <field name="personID_ss">per.003285</field>
+      <field name="personData_ss">{"label":"Moore, Cleary","id":"per.003285"}</field>
+      <field name="person_ss">Jacobs, Thomas</field>
+      <field name="personID_ss">per.003286</field>
+      <field name="personData_ss">{"label":"Jacobs, Thomas","id":"per.003286"}</field>
+      <field name="person_ss">Neale, Christopher</field>
+      <field name="personID_ss">per.002274</field>
+      <field name="personData_ss">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="plaintiff_ss">Moore, Cleary</field>
+      <field name="plaintiffID_ss">per.003285</field>
+      <field name="plaintiffData_ss">{"label":"Moore, Cleary","id":"per.003285"}</field>
+      <field name="defendant_ss">Jacobs, Thomas</field>
+      <field name="defendantID_ss">per.003286</field>
+      <field name="defendantData_ss">{"label":"Jacobs, Thomas","id":"per.003286"}</field>
+      <field name="attorneyP_ss">Neale, Christopher</field>
+      <field name="attorneyPID_ss">per.002274</field>
+      <field name="attorneyPData_ss">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="attorney_ss">Neale, Christopher</field>
+      <field name="attorneyID_ss">per.002274</field>
+      <field name="attorneyData_ss">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="sourceTitle_s">Complaint</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1833-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0440</field>
+      <field name="documentCaseData_ss">{"label":"Cleary Moore v. Thomas Jacobs","id":"oscys.caseid.0440"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> Alexandria County to wit. Cleary Moore, complains of Thomas Jacobs in custody &amp;c of a plea of Trespass for this to wit. That the said deft: on the       day of       1829 at the County aforesaid with force and arms made an assault upon the said Plaintiff and then and there the said Plaintiff, then and there did seize and imprison and unjustly deprived of her liberty for a long time to wit from the said       day of       1829 'till the bringing of this suit. and other wrongs &amp; injuries then and there did against the peace of the United States and to the damage of the Pltff: five hundred Dollars and therefore she brings suit &amp;c. Chr: Neale for Pltff. Moore vs Jacobs Nar. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0440</field>
+      <field name="person_ss" update="add">Moore, Cleary</field>
+      <field name="personID_ss" update="add">per.003285</field>
+      <field name="personData_ss" update="add">{"label":"Moore, Cleary","id":"per.003285"}</field>
+      <field name="person_ss" update="add">Jacobs, Thomas</field>
+      <field name="personID_ss" update="add">per.003286</field>
+      <field name="personData_ss" update="add">{"label":"Jacobs, Thomas","id":"per.003286"}</field>
+      <field name="person_ss" update="add">Neale, Christopher</field>
+      <field name="personID_ss" update="add">per.002274</field>
+      <field name="personData_ss" update="add">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="plaintiff_ss" update="add">Moore, Cleary</field>
+      <field name="plaintiffID_ss" update="add">per.003285</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Moore, Cleary","id":"per.003285"}</field>
+      <field name="defendant_ss" update="add">Jacobs, Thomas</field>
+      <field name="defendantID_ss" update="add">per.003286</field>
+      <field name="defendantData_ss" update="add">{"label":"Jacobs, Thomas","id":"per.003286"}</field>
+      <field name="attorneyP_ss" update="add">Neale, Christopher</field>
+      <field name="attorneyPID_ss" update="add">per.002274</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="attorney_ss" update="add">Neale, Christopher</field>
+      <field name="attorneyID_ss" update="add">per.002274</field>
+      <field name="attorneyData_ss" update="add">{"label":"Neale, Christopher","id":"per.002274"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0413.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Cleary Moore v. Thomas Jacobs. Complaint","id":"oscys.case.0413.002"}</field>
+   </doc>
+</add>

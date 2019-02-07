@@ -1,0 +1,91 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0104.007</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0104.007.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0104.007.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0104.007.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ann Bell v. Gerard T. Greenfield. Jury Instructions</field>
+      <field name="titleSort" update="add">ann bell v. gerard t. greenfield. jury instructions</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 617, Folder 145</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Jury Instructions</field>
+      <field name="people">Bell, Ann</field>
+      <field name="people">Bell, Daniel</field>
+      <field name="people">Bell, David</field>
+      <field name="people">Greenfield, Gerard T.</field>
+      <field name="person_ss">Bell, Ann</field>
+      <field name="personID_ss">per.000772</field>
+      <field name="personData_ss">{"label":"Bell, Ann","id":"per.000772"}</field>
+      <field name="person_ss">Bell, Daniel</field>
+      <field name="personID_ss">per.000773</field>
+      <field name="personData_ss">{"label":"Bell, Daniel","id":"per.000773"}</field>
+      <field name="person_ss">Bell, David</field>
+      <field name="personID_ss">per.000774</field>
+      <field name="personData_ss">{"label":"Bell, David","id":"per.000774"}</field>
+      <field name="person_ss">Greenfield, Gerard T.</field>
+      <field name="personID_ss">per.000775</field>
+      <field name="personData_ss">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="plaintiff_ss">Bell, Ann</field>
+      <field name="plaintiffID_ss">per.000772</field>
+      <field name="plaintiffData_ss">{"label":"Bell, Ann","id":"per.000772"}</field>
+      <field name="plaintiff_ss">Bell, Daniel</field>
+      <field name="plaintiffID_ss">per.000773</field>
+      <field name="plaintiffData_ss">{"label":"Bell, Daniel","id":"per.000773"}</field>
+      <field name="plaintiff_ss">Bell, David</field>
+      <field name="plaintiffID_ss">per.000774</field>
+      <field name="plaintiffData_ss">{"label":"Bell, David","id":"per.000774"}</field>
+      <field name="defendant_ss">Greenfield, Gerard T.</field>
+      <field name="defendantID_ss">per.000775</field>
+      <field name="defendantData_ss">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="sourceTitle_s">Jury Instructions</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1840-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0104</field>
+      <field name="documentCaseData_ss">{"label":"Ann Bell, Daniel Bell, &amp; David Bell v. Gerard T. Greenfield","id":"oscys.caseid.0104"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> If from the evidence aforesaid the Jury shall find that the Petitioner Ann Bell before during &amp; after the year 1827 until the bringing of this suit claimed to be free, went at large as free, purchased real property in this city and built a house thereon, made contracts, built a house claimed to be free and did hired a servant from the defendant and did other acts as aforesaid inconsistent with the condition of slavery and that these facts were known to the defendant. and, that during that time the said Defendant did not reduce her into his possession or exercise any acts of ownership over her, then the Jury [from the facts aforesaid] may infer that the said petitioner is free has been manumitted. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0104</field>
+      <field name="person_ss" update="add">Bell, Ann</field>
+      <field name="personID_ss" update="add">per.000772</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Ann","id":"per.000772"}</field>
+      <field name="person_ss" update="add">Bell, Daniel</field>
+      <field name="personID_ss" update="add">per.000773</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Daniel","id":"per.000773"}</field>
+      <field name="person_ss" update="add">Bell, David</field>
+      <field name="personID_ss" update="add">per.000774</field>
+      <field name="personData_ss" update="add">{"label":"Bell, David","id":"per.000774"}</field>
+      <field name="person_ss" update="add">Greenfield, Gerard T.</field>
+      <field name="personID_ss" update="add">per.000775</field>
+      <field name="personData_ss" update="add">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="plaintiff_ss" update="add">Bell, Ann</field>
+      <field name="plaintiffID_ss" update="add">per.000772</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, Ann","id":"per.000772"}</field>
+      <field name="plaintiff_ss" update="add">Bell, Daniel</field>
+      <field name="plaintiffID_ss" update="add">per.000773</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, Daniel","id":"per.000773"}</field>
+      <field name="plaintiff_ss" update="add">Bell, David</field>
+      <field name="plaintiffID_ss" update="add">per.000774</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, David","id":"per.000774"}</field>
+      <field name="defendant_ss" update="add">Greenfield, Gerard T.</field>
+      <field name="defendantID_ss" update="add">per.000775</field>
+      <field name="defendantData_ss" update="add">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0104.007</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ann Bell v. Gerard T. Greenfield. Jury Instructions","id":"oscys.case.0104.007"}</field>
+   </doc>
+</add>

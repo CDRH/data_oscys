@@ -1,0 +1,248 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0398.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0398.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0398.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0398.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Dorcas &amp; Julia v. James Smith and Fanny v. Isaac Kell. Order</field>
+      <field name="titleSort" update="add">dorcas &amp; julia v. james smith and fanny v. isaac kell. order</field>
+      <field name="titleLetter_s" update="add">d</field>
+      <field name="contributor"/>
+      <field name="date">1817-12-17T00:00:00Z</field>
+      <field name="dateDisplay">May 17, 1817</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Order</field>
+      <field name="people">Carrington, Timothy</field>
+      <field name="people">Lowe, Rector</field>
+      <field name="people">Scott, James S.</field>
+      <field name="people">Simms, William</field>
+      <field name="people">Smith, Alexander</field>
+      <field name="people">Dorcas</field>
+      <field name="people">Julia</field>
+      <field name="people">Smith, James</field>
+      <field name="people">Taylor, Robert I.</field>
+      <field name="people">Fanny</field>
+      <field name="people">Kell, Isaac</field>
+      <field name="people">Taylor, Robert I.</field>
+      <field name="person_ss">Carrington, Timothy</field>
+      <field name="personID_ss">per.003157</field>
+      <field name="personData_ss">{"label":"Carrington, Timothy","id":"per.003157"}</field>
+      <field name="person_ss">Lowe, Rector</field>
+      <field name="personID_ss">per.003158</field>
+      <field name="personData_ss">{"label":"Lowe, Rector","id":"per.003158"}</field>
+      <field name="person_ss">Scott, James S.</field>
+      <field name="personID_ss">per.003159</field>
+      <field name="personData_ss">{"label":"Scott, James S.","id":"per.003159"}</field>
+      <field name="person_ss">Simms, William</field>
+      <field name="personID_ss">per.003160</field>
+      <field name="personData_ss">{"label":"Simms, William","id":"per.003160"}</field>
+      <field name="person_ss">Smith, Alexander</field>
+      <field name="personID_ss">per.003166</field>
+      <field name="personData_ss">{"label":"Smith, Alexander","id":"per.003166"}</field>
+      <field name="person_ss">Dorcas</field>
+      <field name="personID_ss">per.003161</field>
+      <field name="personData_ss">{"label":"Dorcas","id":"per.003161"}</field>
+      <field name="person_ss">Julia</field>
+      <field name="personID_ss">per.003162</field>
+      <field name="personData_ss">{"label":"Julia","id":"per.003162"}</field>
+      <field name="person_ss">Smith, James</field>
+      <field name="personID_ss">per.003163</field>
+      <field name="personData_ss">{"label":"Smith, James","id":"per.003163"}</field>
+      <field name="person_ss">Taylor, Robert I.</field>
+      <field name="personID_ss">per.002883</field>
+      <field name="personData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="person_ss">Fanny</field>
+      <field name="personID_ss">per.003164</field>
+      <field name="personData_ss">{"label":"Fanny","id":"per.003164"}</field>
+      <field name="person_ss">Kell, Isaac</field>
+      <field name="personID_ss">per.003165</field>
+      <field name="personData_ss">{"label":"Kell, Isaac","id":"per.003165"}</field>
+      <field name="person_ss">Taylor, Robert I.</field>
+      <field name="personID_ss">per.002883</field>
+      <field name="personData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="plaintiff_ss">Dorcas</field>
+      <field name="plaintiffID_ss">per.003161</field>
+      <field name="plaintiffData_ss">{"label":"Dorcas","id":"per.003161"}</field>
+      <field name="plaintiff_ss">Julia</field>
+      <field name="plaintiffID_ss">per.003162</field>
+      <field name="plaintiffData_ss">{"label":"Julia","id":"per.003162"}</field>
+      <field name="plaintiff_ss">Fanny</field>
+      <field name="plaintiffID_ss">per.003164</field>
+      <field name="plaintiffData_ss">{"label":"Fanny","id":"per.003164"}</field>
+      <field name="defendant_ss">Smith, James</field>
+      <field name="defendantID_ss">per.003163</field>
+      <field name="defendantData_ss">{"label":"Smith, James","id":"per.003163"}</field>
+      <field name="defendant_ss">Kell, Isaac</field>
+      <field name="defendantID_ss">per.003165</field>
+      <field name="defendantData_ss">{"label":"Kell, Isaac","id":"per.003165"}</field>
+      <field name="attorneyP_ss">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss">per.002883</field>
+      <field name="attorneyPData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss">Taylor, Robert I.</field>
+      <field name="attorneyID_ss">per.002883</field>
+      <field name="attorneyData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorneyP_ss">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss">per.002883</field>
+      <field name="attorneyPData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss">Taylor, Robert I.</field>
+      <field name="attorneyID_ss">per.002883</field>
+      <field name="attorneyData_ss">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="sourceTitle_s">Order</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1824-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0424</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0425</field>
+      <field name="documentCaseData_ss">{"label":"Dorcas &amp; Julia v. James Smith","id":"oscys.caseid.0424"}</field>
+      <field name="documentCaseData_ss">{"label":"Fanny v. Isaac Kell","id":"oscys.caseid.0425"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> On the Petition of Negroes Dorcas and Julia and Fanny stating that they are illegally detained in slavery, the two first by James Smith and the last by Isaac Kell, and praying for leave to sue for the recovery of their freedom in forma puperum. The court doth assign R. I. Taylor as Counsel for the Petitioners to state the facts of the case on which they rest their claim and to report the same to this court. Whereupon the said R. I Taylor returned (the following) statement of facts with his opinion therein. * It appears from the evidence of William Simms that some time in the year 1796 he entered into a contract with one Alexander Smith for the purchase of the Petitioner Dorcas for a Term of years the said Alexander being then the owner of the said Slave. That the said William Simms paid to the said Alexr Smith the price stipulated in consideration whereof she and Alexander on his part sold the said slave to the said William for the Term agreed on and then voluntarily promised to execute the a Deed of emancipation for the residue of her life. The slave Dorcas was accordingly in the possession of the said Simms but from in rather than assign the deed of emancipation was not executed. after holding the said Dorcas for some years the said W. Simms sold his right to her for that portion of the Term then to one Timothy Carrington, with whom the said Dorcas served out her Term and was then discharged by him as a free woman. During her servitude with Carrington she had two children one of whom named Fanny is now in the possession of the said Isaac Kell, after her Term had expired she had three other children one of whom is the slave Julia now in the possession of Rector Lowe, who however claims no right to her &amp; is desirous of surrendering her the slave Fanny was purchased from the Executors of Carrington by Isaac Kell, the said purchase was made after the mother had been discharged as free, and the said Isaac had for a long time previously been intimate in the said Carrington, family and was married to one of his daughters, from which consideration a notice of the rights of the said Fanny may be fairly inferred to have been received by the said Isaac the slaves negroes Dorcas and Julia are claimed by the said James Smith on behalf of the said Alexander Smith is as a volunteer under him From all which circumstances it is the opinion of the subscriber that the said Dorcas Fanny and Julia, have an equitable claim to their freedom such as would be decreed in by a Court of Chancery and that they ought to be permitted to sue for the same agt the said James Smith &amp; Isaac Kell. R. I. Taylor 17 May 1817 * which being seen &amp; explained by the Court it is thereupon ordered that the said Dorcas and Julia be permitted to bring suit for their freedom in forma pauperum against James Smith in the report mentioned, and that they remain be taken into the custody of the marshall and there kept at the expense of the until the into bond with security to be approved by one of the Judges of this court in the penalty of $1000, with condition as the law directs. And it is further ordered that the said Fanny be permitted to bring suit for her freedom in forma puperis agt the said Isaac Kell and that she be taken by the marshal into his Custody &amp; by him retained at his the expence of until the said Isaac Kell until he enter into bond in the penalty of $600, with security to be approved of as aforesaid and with the condition above mentioned We of the Jury find for the Plf the joined subject to the opinion of the Court on the case agreed &amp; award her damages to one cent Jas. S Scott foreman 66 53 48 69. 75 Negroes Dorcas &amp; al Negroe Fanny vs Isaac Kell &amp; al Order May 24 No 1 Entered 1817. April Term 10th day Upon petition for leave to sue forma pauperum for the recovery of their freedom, R. I. Taylor assigned as Counsel for Petitioners to state the facts of case &amp; to report to this Court the same &amp; statement returned with opinion thereon, which being seen and examined by Court ordered that said Dorcas and Julia be permitted to bring suit &amp;c to be taken into the custody of the marshal and there kept at the expence of said James Smith until he enter into Bondf with security to be approved by one of the Judges of this Court in the penalty of $1000 &amp; that said Fanny be permitted to bring suit &amp;c against Isaac Kell &amp; that she be taken into the custody of the Marshal &amp; by him retained at expense of said Kell until he enter into Bond in the penalty of $600 with Secy to be approved of as aforesaid &amp; with condition as law directs. Decr. Continued 1818. Jany: Contd. Feby: Nar: filed and Com: Order. Mar: Contd. April, Jud: &amp; W. Jy. 1821 May Term 18th day Continued Novem: Term 2nd day Continued 1822 May Term 2d day Continued Novem. Term 2nd day Case agreed filed &amp; Jury sworn &amp; affirmed &amp; verdict for Pltff. subject to the opinion of the Court upon the Case agreed &amp; assess his dam. to one cent 1823 May Term 11th day Continued Nov: Term 22nd Day Continued 1824 May Term 2nd day On motion Judg: for the deft. on the Case agreed. Defendant's Costs App 8 Ord: 26 plea 18 $52 Mo: 26 Jud: 18 C 18 62 T Cro Crop 18 58 1.72 Attos fee 5.00 $6.72 Tay: </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0424</field>
+      <field name="person_ss" update="add">Carrington, Timothy</field>
+      <field name="personID_ss" update="add">per.003157</field>
+      <field name="personData_ss" update="add">{"label":"Carrington, Timothy","id":"per.003157"}</field>
+      <field name="person_ss" update="add">Lowe, Rector</field>
+      <field name="personID_ss" update="add">per.003158</field>
+      <field name="personData_ss" update="add">{"label":"Lowe, Rector","id":"per.003158"}</field>
+      <field name="person_ss" update="add">Scott, James S.</field>
+      <field name="personID_ss" update="add">per.003159</field>
+      <field name="personData_ss" update="add">{"label":"Scott, James S.","id":"per.003159"}</field>
+      <field name="person_ss" update="add">Simms, William</field>
+      <field name="personID_ss" update="add">per.003160</field>
+      <field name="personData_ss" update="add">{"label":"Simms, William","id":"per.003160"}</field>
+      <field name="person_ss" update="add">Smith, Alexander</field>
+      <field name="personID_ss" update="add">per.003166</field>
+      <field name="personData_ss" update="add">{"label":"Smith, Alexander","id":"per.003166"}</field>
+      <field name="person_ss" update="add">Dorcas</field>
+      <field name="personID_ss" update="add">per.003161</field>
+      <field name="personData_ss" update="add">{"label":"Dorcas","id":"per.003161"}</field>
+      <field name="person_ss" update="add">Julia</field>
+      <field name="personID_ss" update="add">per.003162</field>
+      <field name="personData_ss" update="add">{"label":"Julia","id":"per.003162"}</field>
+      <field name="person_ss" update="add">Smith, James</field>
+      <field name="personID_ss" update="add">per.003163</field>
+      <field name="personData_ss" update="add">{"label":"Smith, James","id":"per.003163"}</field>
+      <field name="person_ss" update="add">Taylor, Robert I.</field>
+      <field name="personID_ss" update="add">per.002883</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="person_ss" update="add">Fanny</field>
+      <field name="personID_ss" update="add">per.003164</field>
+      <field name="personData_ss" update="add">{"label":"Fanny","id":"per.003164"}</field>
+      <field name="person_ss" update="add">Kell, Isaac</field>
+      <field name="personID_ss" update="add">per.003165</field>
+      <field name="personData_ss" update="add">{"label":"Kell, Isaac","id":"per.003165"}</field>
+      <field name="person_ss" update="add">Taylor, Robert I.</field>
+      <field name="personID_ss" update="add">per.002883</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="plaintiff_ss" update="add">Dorcas</field>
+      <field name="plaintiffID_ss" update="add">per.003161</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Dorcas","id":"per.003161"}</field>
+      <field name="plaintiff_ss" update="add">Julia</field>
+      <field name="plaintiffID_ss" update="add">per.003162</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Julia","id":"per.003162"}</field>
+      <field name="plaintiff_ss" update="add">Fanny</field>
+      <field name="plaintiffID_ss" update="add">per.003164</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Fanny","id":"per.003164"}</field>
+      <field name="defendant_ss" update="add">Smith, James</field>
+      <field name="defendantID_ss" update="add">per.003163</field>
+      <field name="defendantData_ss" update="add">{"label":"Smith, James","id":"per.003163"}</field>
+      <field name="defendant_ss" update="add">Kell, Isaac</field>
+      <field name="defendantID_ss" update="add">per.003165</field>
+      <field name="defendantData_ss" update="add">{"label":"Kell, Isaac","id":"per.003165"}</field>
+      <field name="attorneyP_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss" update="add">per.002883</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyID_ss" update="add">per.002883</field>
+      <field name="attorneyData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorneyP_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss" update="add">per.002883</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyID_ss" update="add">per.002883</field>
+      <field name="attorneyData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0398.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Dorcas &amp; Julia v. James Smith and Fanny v. Isaac Kell. Order (December 17, 1817)","date":"1817-12-17","dateDisplay":"December 17, 1817","id":"oscys.case.0398.001"}</field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0425</field>
+      <field name="person_ss" update="add">Carrington, Timothy</field>
+      <field name="personID_ss" update="add">per.003157</field>
+      <field name="personData_ss" update="add">{"label":"Carrington, Timothy","id":"per.003157"}</field>
+      <field name="person_ss" update="add">Lowe, Rector</field>
+      <field name="personID_ss" update="add">per.003158</field>
+      <field name="personData_ss" update="add">{"label":"Lowe, Rector","id":"per.003158"}</field>
+      <field name="person_ss" update="add">Scott, James S.</field>
+      <field name="personID_ss" update="add">per.003159</field>
+      <field name="personData_ss" update="add">{"label":"Scott, James S.","id":"per.003159"}</field>
+      <field name="person_ss" update="add">Simms, William</field>
+      <field name="personID_ss" update="add">per.003160</field>
+      <field name="personData_ss" update="add">{"label":"Simms, William","id":"per.003160"}</field>
+      <field name="person_ss" update="add">Smith, Alexander</field>
+      <field name="personID_ss" update="add">per.003166</field>
+      <field name="personData_ss" update="add">{"label":"Smith, Alexander","id":"per.003166"}</field>
+      <field name="person_ss" update="add">Dorcas</field>
+      <field name="personID_ss" update="add">per.003161</field>
+      <field name="personData_ss" update="add">{"label":"Dorcas","id":"per.003161"}</field>
+      <field name="person_ss" update="add">Julia</field>
+      <field name="personID_ss" update="add">per.003162</field>
+      <field name="personData_ss" update="add">{"label":"Julia","id":"per.003162"}</field>
+      <field name="person_ss" update="add">Smith, James</field>
+      <field name="personID_ss" update="add">per.003163</field>
+      <field name="personData_ss" update="add">{"label":"Smith, James","id":"per.003163"}</field>
+      <field name="person_ss" update="add">Taylor, Robert I.</field>
+      <field name="personID_ss" update="add">per.002883</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="person_ss" update="add">Fanny</field>
+      <field name="personID_ss" update="add">per.003164</field>
+      <field name="personData_ss" update="add">{"label":"Fanny","id":"per.003164"}</field>
+      <field name="person_ss" update="add">Kell, Isaac</field>
+      <field name="personID_ss" update="add">per.003165</field>
+      <field name="personData_ss" update="add">{"label":"Kell, Isaac","id":"per.003165"}</field>
+      <field name="person_ss" update="add">Taylor, Robert I.</field>
+      <field name="personID_ss" update="add">per.002883</field>
+      <field name="personData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="plaintiff_ss" update="add">Dorcas</field>
+      <field name="plaintiffID_ss" update="add">per.003161</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Dorcas","id":"per.003161"}</field>
+      <field name="plaintiff_ss" update="add">Julia</field>
+      <field name="plaintiffID_ss" update="add">per.003162</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Julia","id":"per.003162"}</field>
+      <field name="plaintiff_ss" update="add">Fanny</field>
+      <field name="plaintiffID_ss" update="add">per.003164</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Fanny","id":"per.003164"}</field>
+      <field name="defendant_ss" update="add">Smith, James</field>
+      <field name="defendantID_ss" update="add">per.003163</field>
+      <field name="defendantData_ss" update="add">{"label":"Smith, James","id":"per.003163"}</field>
+      <field name="defendant_ss" update="add">Kell, Isaac</field>
+      <field name="defendantID_ss" update="add">per.003165</field>
+      <field name="defendantData_ss" update="add">{"label":"Kell, Isaac","id":"per.003165"}</field>
+      <field name="attorneyP_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss" update="add">per.002883</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyID_ss" update="add">per.002883</field>
+      <field name="attorneyData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorneyP_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyPID_ss" update="add">per.002883</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="attorney_ss" update="add">Taylor, Robert I.</field>
+      <field name="attorneyID_ss" update="add">per.002883</field>
+      <field name="attorneyData_ss" update="add">{"label":"Taylor, Robert I.","id":"per.002883"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0398.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Dorcas &amp; Julia v. James Smith and Fanny v. Isaac Kell. Order (December 17, 1817)","date":"1817-12-17","dateDisplay":"December 17, 1817","id":"oscys.case.0398.001"}</field>
+   </doc>
+</add>

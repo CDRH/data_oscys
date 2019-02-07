@@ -1,0 +1,99 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0014.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0014.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0014.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0014.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Isaac Davis &amp; Edgar Davis v. John Travers. Petition for Freedom</field>
+      <field name="titleSort" update="add">isaac davis &amp; edgar davis v. john travers. petition for freedom</field>
+      <field name="titleLetter_s" update="add">i</field>
+      <field name="contributor"/>
+      <field name="date">1810-02-11T00:00:00Z</field>
+      <field name="dateDisplay">February 11, 1810</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 20, Folder 221</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Davis, Edgar</field>
+      <field name="people">Davis, Isaac</field>
+      <field name="people">Travers, John</field>
+      <field name="people">Lee, Edmund J.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Davis, Edgar</field>
+      <field name="personID_ss">per.000123</field>
+      <field name="personData_ss">{"label":"Davis, Edgar","id":"per.000123"}</field>
+      <field name="person_ss">Davis, Isaac</field>
+      <field name="personID_ss">per.000124</field>
+      <field name="personData_ss">{"label":"Davis, Isaac","id":"per.000124"}</field>
+      <field name="person_ss">Travers, John</field>
+      <field name="personID_ss">per.000125</field>
+      <field name="personData_ss">{"label":"Travers, John","id":"per.000125"}</field>
+      <field name="person_ss">Lee, Edmund J.</field>
+      <field name="personID_ss">per.000122</field>
+      <field name="personData_ss">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="plaintiff_ss">Davis, Edgar</field>
+      <field name="plaintiffID_ss">per.000123</field>
+      <field name="plaintiffData_ss">{"label":"Davis, Edgar","id":"per.000123"}</field>
+      <field name="plaintiff_ss">Davis, Isaac</field>
+      <field name="plaintiffID_ss">per.000124</field>
+      <field name="plaintiffData_ss">{"label":"Davis, Isaac","id":"per.000124"}</field>
+      <field name="defendant_ss">Travers, John</field>
+      <field name="defendantID_ss">per.000125</field>
+      <field name="defendantData_ss">{"label":"Travers, John","id":"per.000125"}</field>
+      <field name="attorneyP_ss">Lee, Edmund J.</field>
+      <field name="attorneyPID_ss">per.000122</field>
+      <field name="attorneyPData_ss">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="attorney_ss">Lee, Edmund J.</field>
+      <field name="attorneyID_ss">per.000122</field>
+      <field name="attorneyData_ss">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1810-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0014</field>
+      <field name="documentCaseData_ss">{"label":"Isaac Davis &amp; Edgar Davis v. John Travers","id":"oscys.caseid.0014"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court of the District of Columbia for the County of Washington- The Humble Petition of Isaac Davis and Edgar Davis sheweth that your petitioner is detained in slavery by-by John Traverse and as he was born free He prays that process may be awarded to compell the appearance of the said Traverse to answer his complaint. Edm J Lee for Complt 29 Jany 1810 5 221. Isaac Davis Edgar Davis vs: Traverse Petn filed 11 Feby 1810 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0014</field>
+      <field name="person_ss" update="add">Davis, Edgar</field>
+      <field name="personID_ss" update="add">per.000123</field>
+      <field name="personData_ss" update="add">{"label":"Davis, Edgar","id":"per.000123"}</field>
+      <field name="person_ss" update="add">Davis, Isaac</field>
+      <field name="personID_ss" update="add">per.000124</field>
+      <field name="personData_ss" update="add">{"label":"Davis, Isaac","id":"per.000124"}</field>
+      <field name="person_ss" update="add">Travers, John</field>
+      <field name="personID_ss" update="add">per.000125</field>
+      <field name="personData_ss" update="add">{"label":"Travers, John","id":"per.000125"}</field>
+      <field name="person_ss" update="add">Lee, Edmund J.</field>
+      <field name="personID_ss" update="add">per.000122</field>
+      <field name="personData_ss" update="add">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="plaintiff_ss" update="add">Davis, Edgar</field>
+      <field name="plaintiffID_ss" update="add">per.000123</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Davis, Edgar","id":"per.000123"}</field>
+      <field name="plaintiff_ss" update="add">Davis, Isaac</field>
+      <field name="plaintiffID_ss" update="add">per.000124</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Davis, Isaac","id":"per.000124"}</field>
+      <field name="defendant_ss" update="add">Travers, John</field>
+      <field name="defendantID_ss" update="add">per.000125</field>
+      <field name="defendantData_ss" update="add">{"label":"Travers, John","id":"per.000125"}</field>
+      <field name="attorneyP_ss" update="add">Lee, Edmund J.</field>
+      <field name="attorneyPID_ss" update="add">per.000122</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="attorney_ss" update="add">Lee, Edmund J.</field>
+      <field name="attorneyID_ss" update="add">per.000122</field>
+      <field name="attorneyData_ss" update="add">{"label":"Lee, Edmund J.","id":"per.000122"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0014.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Isaac Davis &amp; Edgar Davis v. John Travers. Petition for Freedom (February 11, 1810)","date":"1810-02-11","dateDisplay":"February 11, 1810","id":"oscys.case.0014.001"}</field>
+   </doc>
+</add>

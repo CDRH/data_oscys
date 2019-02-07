@@ -1,0 +1,99 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0099.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0099.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0099.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0099.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Adeline Johnson v. Chloe Clarke. Summons of Chloe Clarke</field>
+      <field name="titleSort" update="add">adeline johnson v. chloe clarke. summons of chloe clarke</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date">1842-06-25T00:00:00Z</field>
+      <field name="dateDisplay">June 25, 1842</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 694, Folder 42&gt;</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Hunter, Alexander</field>
+      <field name="people">Johnson, Adeline</field>
+      <field name="people">Clarke, Chloe</field>
+      <field name="people">Hoban, James</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Hunter, Alexander</field>
+      <field name="personID_ss">per.000739</field>
+      <field name="personData_ss">{"label":"Hunter, Alexander","id":"per.000739"}</field>
+      <field name="person_ss">Johnson, Adeline</field>
+      <field name="personID_ss">per.000742</field>
+      <field name="personData_ss">{"label":"Johnson, Adeline","id":"per.000742"}</field>
+      <field name="person_ss">Clarke, Chloe</field>
+      <field name="personID_ss">per.000743</field>
+      <field name="personData_ss">{"label":"Clarke, Chloe","id":"per.000743"}</field>
+      <field name="person_ss">Hoban, James</field>
+      <field name="personID_ss">per.000744</field>
+      <field name="personData_ss">{"label":"Hoban, James","id":"per.000744"}</field>
+      <field name="plaintiff_ss">Johnson, Adeline</field>
+      <field name="plaintiffID_ss">per.000742</field>
+      <field name="plaintiffData_ss">{"label":"Johnson, Adeline","id":"per.000742"}</field>
+      <field name="defendant_ss">Clarke, Chloe</field>
+      <field name="defendantID_ss">per.000743</field>
+      <field name="defendantData_ss">{"label":"Clarke, Chloe","id":"per.000743"}</field>
+      <field name="attorneyP_ss">Hoban, James</field>
+      <field name="attorneyPID_ss">per.000744</field>
+      <field name="attorneyPData_ss">{"label":"Hoban, James","id":"per.000744"}</field>
+      <field name="attorney_ss">Hoban, James</field>
+      <field name="attorneyID_ss">per.000744</field>
+      <field name="attorneyData_ss">{"label":"Hoban, James","id":"per.000744"}</field>
+      <field name="sourceTitle_s">Summons of Chloe Clarke</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1845-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0099</field>
+      <field name="documentCaseData_ss">{"label":"Adeline Johnson v. Chloe Clarke","id":"oscys.caseid.0099"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Circuit Court, Term 184 . You are hereby commanded to summon Chloe Clarke that she be and appear before the Court here, immediately, 4th Monday Nov. next as Witness for to Answer the Petition for Freedom of Adeline Johnson Issued 25 day of June 1842 By order, W. Brent, Ck To the Marshal of the District of Columbia. Hoban 42. 43. 57. 152. 89. 49. 173 Apps Nov '42 64 Adeline Johnson vs Chloe Clarke Subpa 1 Bre Pet. for Freedom + Summoned A. Hunter Marshal </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0099</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Hunter, Alexander</field>
+      <field name="personID_ss" update="add">per.000739</field>
+      <field name="personData_ss" update="add">{"label":"Hunter, Alexander","id":"per.000739"}</field>
+      <field name="person_ss" update="add">Johnson, Adeline</field>
+      <field name="personID_ss" update="add">per.000742</field>
+      <field name="personData_ss" update="add">{"label":"Johnson, Adeline","id":"per.000742"}</field>
+      <field name="person_ss" update="add">Clarke, Chloe</field>
+      <field name="personID_ss" update="add">per.000743</field>
+      <field name="personData_ss" update="add">{"label":"Clarke, Chloe","id":"per.000743"}</field>
+      <field name="person_ss" update="add">Hoban, James</field>
+      <field name="personID_ss" update="add">per.000744</field>
+      <field name="personData_ss" update="add">{"label":"Hoban, James","id":"per.000744"}</field>
+      <field name="plaintiff_ss" update="add">Johnson, Adeline</field>
+      <field name="plaintiffID_ss" update="add">per.000742</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Johnson, Adeline","id":"per.000742"}</field>
+      <field name="defendant_ss" update="add">Clarke, Chloe</field>
+      <field name="defendantID_ss" update="add">per.000743</field>
+      <field name="defendantData_ss" update="add">{"label":"Clarke, Chloe","id":"per.000743"}</field>
+      <field name="attorneyP_ss" update="add">Hoban, James</field>
+      <field name="attorneyPID_ss" update="add">per.000744</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Hoban, James","id":"per.000744"}</field>
+      <field name="attorney_ss" update="add">Hoban, James</field>
+      <field name="attorneyID_ss" update="add">per.000744</field>
+      <field name="attorneyData_ss" update="add">{"label":"Hoban, James","id":"per.000744"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0099.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Adeline Johnson v. Chloe Clarke. Summons of Chloe Clarke (June 25, 1842)","date":"1842-06-25","dateDisplay":"June 25, 1842","id":"oscys.case.0099.001"}</field>
+   </doc>
+</add>

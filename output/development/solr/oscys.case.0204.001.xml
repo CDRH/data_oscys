@@ -1,0 +1,93 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0204.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0204.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0204.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0204.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Sandy Weaver v. George Bomford. Petition for Freedom</field>
+      <field name="titleSort" update="add">sandy weaver v. george bomford. petition for freedom</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date">1846-05-11T00:00:00Z</field>
+      <field name="dateDisplay">May 11, 1846</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 717, Folder 29</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Weaver, Sandy</field>
+      <field name="people">Bomford, George</field>
+      <field name="people">Lawrence, A. H.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Weaver, Sandy</field>
+      <field name="personID_ss">per.001678</field>
+      <field name="personData_ss">{"label":"Weaver, Sandy","id":"per.001678"}</field>
+      <field name="person_ss">Bomford, George</field>
+      <field name="personID_ss">per.001679</field>
+      <field name="personData_ss">{"label":"Bomford, George","id":"per.001679"}</field>
+      <field name="person_ss">Lawrence, A. H.</field>
+      <field name="personID_ss">per.001680</field>
+      <field name="personData_ss">{"label":"Lawrence, A. H.","id":"per.001680"}</field>
+      <field name="plaintiff_ss">Weaver, Sandy</field>
+      <field name="plaintiffID_ss">per.001678</field>
+      <field name="plaintiffData_ss">{"label":"Weaver, Sandy","id":"per.001678"}</field>
+      <field name="defendant_ss">Bomford, George</field>
+      <field name="defendantID_ss">per.001679</field>
+      <field name="defendantData_ss">{"label":"Bomford, George","id":"per.001679"}</field>
+      <field name="attorneyP_ss">Lawrence, A. H.</field>
+      <field name="attorneyPID_ss">per.001680</field>
+      <field name="attorneyPData_ss">{"label":"Lawrence, A. H.","id":"per.001680"}</field>
+      <field name="attorney_ss">Lawrence, A. H.</field>
+      <field name="attorneyID_ss">per.001680</field>
+      <field name="attorneyData_ss">{"label":"Lawrence, A. H.","id":"per.001680"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1848-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0209</field>
+      <field name="documentCaseData_ss">{"label":"Sandy Weaver v. George Bomford","id":"oscys.caseid.0209"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable, The Judges of the Circuit Court of the United States for the County of Washington in the District of Columbia. The petition of Sandy Weaver respectfully sheweth that your petitioner is a colored person and entitled to his freedom and is unlawfully detained in Custody by George Bomford of said County who refuses to release your petitioner. And your petitioner prays your honourable Court to have such action in this case as is required, and that justice may be done in the premises and your petitioner will every pray &amp;c. A.H. Lawrence Atty for petitioner 25 78 75. 29. Sandy Weaver vs George Bomford Pet. for freedom Filed 11 May 1846. Col. Brent. Please issue a subpoena on the within A.H. Lawrence Atty for Plff </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0209</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Weaver, Sandy</field>
+      <field name="personID_ss" update="add">per.001678</field>
+      <field name="personData_ss" update="add">{"label":"Weaver, Sandy","id":"per.001678"}</field>
+      <field name="person_ss" update="add">Bomford, George</field>
+      <field name="personID_ss" update="add">per.001679</field>
+      <field name="personData_ss" update="add">{"label":"Bomford, George","id":"per.001679"}</field>
+      <field name="person_ss" update="add">Lawrence, A. H.</field>
+      <field name="personID_ss" update="add">per.001680</field>
+      <field name="personData_ss" update="add">{"label":"Lawrence, A. H.","id":"per.001680"}</field>
+      <field name="plaintiff_ss" update="add">Weaver, Sandy</field>
+      <field name="plaintiffID_ss" update="add">per.001678</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Weaver, Sandy","id":"per.001678"}</field>
+      <field name="defendant_ss" update="add">Bomford, George</field>
+      <field name="defendantID_ss" update="add">per.001679</field>
+      <field name="defendantData_ss" update="add">{"label":"Bomford, George","id":"per.001679"}</field>
+      <field name="attorneyP_ss" update="add">Lawrence, A. H.</field>
+      <field name="attorneyPID_ss" update="add">per.001680</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Lawrence, A. H.","id":"per.001680"}</field>
+      <field name="attorney_ss" update="add">Lawrence, A. H.</field>
+      <field name="attorneyID_ss" update="add">per.001680</field>
+      <field name="attorneyData_ss" update="add">{"label":"Lawrence, A. H.","id":"per.001680"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0204.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Sandy Weaver v. George Bomford. Petition for Freedom (May 11, 1846)","date":"1846-05-11","dateDisplay":"May 11, 1846","id":"oscys.case.0204.001"}</field>
+   </doc>
+</add>

@@ -1,0 +1,166 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0017.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0017.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0017.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0017.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Letty Brown v. John H. Lowe. Circuit Court Report</field>
+      <field name="titleSort" update="add">letty brown v. john h. lowe. circuit court report</field>
+      <field name="titleLetter_s" update="add">l</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1825-12-01T00:00:00Z</field>
+      <field name="dateDisplay">December 1825</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume II, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Bingay, Thomas S.</field>
+      <field name="people">Greenfield, Mary</field>
+      <field name="people">Morsell, James Sewall</field>
+      <field name="people">Thruston, Buckner, 1763-1845</field>
+      <field name="people">Brown, Letty</field>
+      <field name="people">Brown, Robert</field>
+      <field name="people">Lowe, John H.</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="people">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="people">Jones, Walter, 1776-1861</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Bingay, Thomas S.</field>
+      <field name="personID_ss">per.000585</field>
+      <field name="personData_ss">{"label":"Bingay, Thomas S.","id":"per.000585"}</field>
+      <field name="person_ss">Greenfield, Mary</field>
+      <field name="personID_ss">per.000586</field>
+      <field name="personData_ss">{"label":"Greenfield, Mary","id":"per.000586"}</field>
+      <field name="person_ss">Morsell, James Sewall</field>
+      <field name="personID_ss">per.000044</field>
+      <field name="personData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss">per.000064</field>
+      <field name="personData_ss">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss">Brown, Letty</field>
+      <field name="personID_ss">per.000587</field>
+      <field name="personData_ss">{"label":"Brown, Letty","id":"per.000587"}</field>
+      <field name="person_ss">Brown, Robert</field>
+      <field name="personID_ss">per.000588</field>
+      <field name="personData_ss">{"label":"Brown, Robert","id":"per.000588"}</field>
+      <field name="person_ss">Lowe, John H.</field>
+      <field name="personID_ss">per.000589</field>
+      <field name="personData_ss">{"label":"Lowe, John H.","id":"per.000589"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="person_ss">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="personID_ss">per.000545</field>
+      <field name="personData_ss">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="person_ss">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss">per.000435</field>
+      <field name="personData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="plaintiff_ss">Brown, Letty</field>
+      <field name="plaintiffID_ss">per.000587</field>
+      <field name="plaintiffData_ss">{"label":"Brown, Letty","id":"per.000587"}</field>
+      <field name="plaintiff_ss">Brown, Robert</field>
+      <field name="plaintiffID_ss">per.000588</field>
+      <field name="plaintiffData_ss">{"label":"Brown, Robert","id":"per.000588"}</field>
+      <field name="defendant_ss">Lowe, John H.</field>
+      <field name="defendantID_ss">per.000589</field>
+      <field name="defendantData_ss">{"label":"Lowe, John H.","id":"per.000589"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorneyP_ss">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyPID_ss">per.000545</field>
+      <field name="attorneyPData_ss">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="attorney_ss">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyID_ss">per.000545</field>
+      <field name="attorneyData_ss">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="attorneyD_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss">per.000435</field>
+      <field name="attorneyDData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss">per.000435</field>
+      <field name="attorneyData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1825-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0069</field>
+      <field name="documentCaseData_ss">{"label":"Letty Brown &amp; Robert Brown v. John H. Lowe","id":"oscys.caseid.0069"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Letty and Child v. John H. Lowe. A female slave, purchased by the defendant at the request of the slave, to enable her to obtain her freedom by repayment of the purchase-money, is not entitled to judgment in her favor, until she has repaid the whole purchase-money; and if she had paid the whole purchase-money, quœre whether she would be entitled to judgment in her favor, either at law or in equity, without a deed of emancipation. Petition for freedom. On the trial of this cause, Thomas Bingay, a witness for the petitioner, testified that he was present at the bargain between the defendant and Mary Greenfield, for the purchase of the petitioner, who was held by the said Mary Greenfield as a slave for life, and was offered for sale by her mistress; that the price agreed upon to be paid by the defendant, was $250. That the witness then took the defendant aside, and inquired of him what was his purpose and object in making the said purchase; to which he replied that he was about to make the said purchase from motives only of Christian charity, and to serve the said woman, of whom he had a good opinion, and whom he thought it his duty to serve; that he had confidence in her that she would repay him what he should advance, and that she should then be free. The witness told him if that was his object in making the said purchase, he would, if he desired it, be security for Letty for $50; that she would pay up, in small sums what he might advance; and that he would, moreover, put into his hands $40 then, to enable him to make the first payment for Letty. The defendant declined requiring the security, saying he had confidence in the woman, but agreed to receive the $40, which the witness thereupon paid him. The witness got the said $40 from a colored woman, to whom Letty told him to apply for it, saying that it had been contributed by some friends of hers, for the purpose of enabling her to buy herself of her said mistress. That he would not have given the said $40 to the defendant, but for his stating that he was making the purchase from the motives and for the purpose aforesaid. That after the said bargain, the defendant never claimed nor held the petitioner in his service; but that she lived at large, as a free woman, in the city of Washington, where the defendant also lived; and that after the said bargain, and while so living at large, the child mentioned in the petition, was born. That the defendant after receiving the $40, paid it to Mrs. Greenfield, but no information was given to her of the object of the defendant in making the said purchase. That this transaction took place some time in the year 1818, and at that time no bill of sale was executed, nor any receipt given for the money paid. And the petitioner also produced and read in evidence the paper writings following, admitted to be signed by the defendant. "Washington city. This is to certify that Letty Brown, the bearer of this, is my property; that I, in 1817 or 1818, purchased her from Miss Mary Greenfield, then her mistress. I further certify that I have received from her (Letty,) at sundry times, $206, and that there is now due, on the purchase-money, &amp;c., to me, $64.94, on payment of which I hereby promise and bind myself that she (Letty) shall be free, her lifetime, from bondage to any person or persons. Given under my hand this 21st day of February, in the year 1823. John H. Lowe. Balance due and to be paid J. H. B., $64.94." "Washington city, 8th October, 1823, received from Letty, through the hands of Mr. Bingay, $20, in part payment of the above claim. John H. Lowe." "Received of Letty nine dollars. 5th February, 1825. J. H. Lowe." The petition was filed on the 15th of July, 1825. Upon this evidence, Mr. Jones, for the defendant, prayed the Court to instruct the jury that the petitioner was not entitled to recover; because, 1st. A slave is not competent in law to be a party to a binding contract. 2d. There can be no emancipation, but by deed, according to the provisions of Maryland Act of 1796, c. 67, or by last will and testament. 3d. The whole purchase-money has not yet been repaid to the defendant. Mr. Lear and Mr. Key, contrà. In the case of Brown v. Wingard, at April term, 1822, (ante, 300,) this Court only decided that there could not be a contract between the master and his slave, even in equity. But this is a contract between a slave and a third person. Here Mr. Lowe was only the trustee of the slave, and bought her only for her own use. The witness, Bingay, was also a trustee, and may enforce this contract. It is not necessary, under the law of Maryland, that there should be a deed of manumission. Freedom may be obtained by implication. The defendant never had the right of property in the slave, he was only trustee, and no deed of manumission was necessary for him. Hall v. Mullen, 5 Har. &amp; Johns. 190. The jury is to decide whether the whole purchase-money has been repaid to the defendant. In the case of Crawford v. Cruse, (not reported,) this Court decided that there was a remedy for the slave in equity. Mr. Jones, in reply. In Crawford v. Cruse, this Court said there was a remedy in equity, consequently not at law. If the defendant never had the legal title, then the petitioner can have no right to freedom. It is said that freedom may be gained by implication in a will; but there must be a will; and the whole question in Hall v. Mullen, was as to the true construction of the will; that is, whether the testator intended to give freedom to his slaves. But here is neither a will, nor a deed of emancipation. There was no contract between Bingay and the defendant. He merely received the $40 from Letty and gave it to the defendant. This is a suit at law, and the petitioner must show a legal consummate, title to freedom. In Cruse v. Crawford, the suit was in equity, upon a contract between persons competent to contract. The Court (Morsell, J., absent,) could not agree to give the instruction. The defendant then demurred to the evidence. At the next term, (May 1826,) The Court (Thruston, J., contrà,) ordered judgment to be entered for the defendant upon the demurrer, without prejudice to any equitable relief which the petitioners might thereafter have. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0069</field>
+      <field update="add" name="outcomeData_ss">{"label":"Judgment for Defendant","date":"1825-12","dateDisplay":"December 1825","id":"oscys.report.0017.001"}</field>
+      <field update="add" name="outcome_ss">Judgment for Defendant</field>
+      <field name="person_ss" update="add">Bingay, Thomas S.</field>
+      <field name="personID_ss" update="add">per.000585</field>
+      <field name="personData_ss" update="add">{"label":"Bingay, Thomas S.","id":"per.000585"}</field>
+      <field name="person_ss" update="add">Greenfield, Mary</field>
+      <field name="personID_ss" update="add">per.000586</field>
+      <field name="personData_ss" update="add">{"label":"Greenfield, Mary","id":"per.000586"}</field>
+      <field name="person_ss" update="add">Morsell, James Sewall</field>
+      <field name="personID_ss" update="add">per.000044</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Brown, Letty</field>
+      <field name="personID_ss" update="add">per.000587</field>
+      <field name="personData_ss" update="add">{"label":"Brown, Letty","id":"per.000587"}</field>
+      <field name="person_ss" update="add">Brown, Robert</field>
+      <field name="personID_ss" update="add">per.000588</field>
+      <field name="personData_ss" update="add">{"label":"Brown, Robert","id":"per.000588"}</field>
+      <field name="person_ss" update="add">Lowe, John H.</field>
+      <field name="personID_ss" update="add">per.000589</field>
+      <field name="personData_ss" update="add">{"label":"Lowe, John H.","id":"per.000589"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="person_ss" update="add">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="personID_ss" update="add">per.000545</field>
+      <field name="personData_ss" update="add">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="person_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss" update="add">per.000435</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="plaintiff_ss" update="add">Brown, Letty</field>
+      <field name="plaintiffID_ss" update="add">per.000587</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Brown, Letty","id":"per.000587"}</field>
+      <field name="plaintiff_ss" update="add">Brown, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.000588</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Brown, Robert","id":"per.000588"}</field>
+      <field name="defendant_ss" update="add">Lowe, John H.</field>
+      <field name="defendantID_ss" update="add">per.000589</field>
+      <field name="defendantData_ss" update="add">{"label":"Lowe, John H.","id":"per.000589"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorneyP_ss" update="add">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyPID_ss" update="add">per.000545</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="attorney_ss" update="add">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyID_ss" update="add">per.000545</field>
+      <field name="attorneyData_ss" update="add">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="attorneyD_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss" update="add">per.000435</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss" update="add">per.000435</field>
+      <field name="attorneyData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0017.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Letty Brown v. John H. Lowe. Circuit Court Report (December, 1825)","date":"1825-12","dateDisplay":"December, 1825","id":"oscys.report.0017.001"}</field>
+   </doc>
+</add>

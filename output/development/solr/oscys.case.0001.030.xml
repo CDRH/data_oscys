@@ -1,0 +1,88 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0001.030</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0001.030.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0001.030.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0001.030.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Sabret Scott v. Ben. Summons of Ben</field>
+      <field name="titleSort" update="add">sabret scott v. ben. summons of ben</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date">1808-01-13T00:00:00Z</field>
+      <field name="dateDisplay">January 13, 1808</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 34, Folder 190</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Brent, Robert</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Wilson, John A.</field>
+      <field name="people">Ben</field>
+      <field name="people">Scott, Sabret</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, Robert</field>
+      <field name="personID_ss">per.001560</field>
+      <field name="personData_ss">{"label":"Brent, Robert","id":"per.001560"}</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Wilson, John A.</field>
+      <field name="personID_ss">per.001561</field>
+      <field name="personData_ss">{"label":"Wilson, John A.","id":"per.001561"}</field>
+      <field name="person_ss">Ben</field>
+      <field name="personID_ss">per.000002</field>
+      <field name="personData_ss">{"label":"Ben","id":"per.000002"}</field>
+      <field name="person_ss">Scott, Sabret</field>
+      <field name="personID_ss">per.000005</field>
+      <field name="personData_ss">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="plaintiff_ss">Ben</field>
+      <field name="plaintiffID_ss">per.000002</field>
+      <field name="plaintiffData_ss">{"label":"Ben","id":"per.000002"}</field>
+      <field name="defendant_ss">Scott, Sabret</field>
+      <field name="defendantID_ss">per.000005</field>
+      <field name="defendantData_ss">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="sourceTitle_s">Summons of Ben</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1811-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0001</field>
+      <field name="documentCaseData_ss">{"label":"Ben v. Sabret Scott","id":"oscys.caseid.0001"}</field>
+      <field name="jurisdiction_ss">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="text"> District of Columbia Washington County ss. To Negro Ben Greeting: You are hereby acted &amp; admonished to be and appear at a Supreme Court of the United States, to be holden the City of Washington on the first monday in August February next permanent a writ of error filed in the Clerk's office of the Circuit Court of the United States for the District of Columbia in the County of Washington wherein Negro Ben is Petitioner &amp; Sabritt Scott is Defendant, to shew cause if any there be why the Judgment rendered against the said Sabrett Scott as in the said writ of error mentioned should not be reversed, &amp; why the error complained of should not be corrected &amp; why speedy Justice should not be done to the parties in that behalf Witness W. Cranch, chief Judge of the Circuit Court of the District of Columbia this 22th day of June 1807 11th day of January 1808. W. Cranch On the 13th day of January 1808 John A Wilson personally appeared before me the subscriber a Justice of the Peace for the County of Washington District of Columbia &amp; made oath on the holy evangels of almighty god that he the deponent served the within citation on the within named Negro Ben on the twelfth day of instant and left with said Negro Ben a true copy of the same at the time afsd. Robt Brent. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0001</field>
+      <field name="person_ss" update="add">Brent, Robert</field>
+      <field name="personID_ss" update="add">per.001560</field>
+      <field name="personData_ss" update="add">{"label":"Brent, Robert","id":"per.001560"}</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Wilson, John A.</field>
+      <field name="personID_ss" update="add">per.001561</field>
+      <field name="personData_ss" update="add">{"label":"Wilson, John A.","id":"per.001561"}</field>
+      <field name="person_ss" update="add">Ben</field>
+      <field name="personID_ss" update="add">per.000002</field>
+      <field name="personData_ss" update="add">{"label":"Ben","id":"per.000002"}</field>
+      <field name="person_ss" update="add">Scott, Sabret</field>
+      <field name="personID_ss" update="add">per.000005</field>
+      <field name="personData_ss" update="add">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="plaintiff_ss" update="add">Ben</field>
+      <field name="plaintiffID_ss" update="add">per.000002</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ben","id":"per.000002"}</field>
+      <field name="defendant_ss" update="add">Scott, Sabret</field>
+      <field name="defendantID_ss" update="add">per.000005</field>
+      <field name="defendantData_ss" update="add">{"label":"Scott, Sabret","id":"per.000005"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0001.030</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Sabret Scott v. Ben. Summons of Ben (January 13, 1808)","date":"1808-01-13","dateDisplay":"January 13, 1808","id":"oscys.case.0001.030"}</field>
+   </doc>
+</add>

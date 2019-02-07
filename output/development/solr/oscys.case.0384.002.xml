@@ -1,0 +1,85 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0384.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0384.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0384.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0384.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Maria v. William Meade. Complaint</field>
+      <field name="titleSort" update="add">maria v. william meade. complaint</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="contributor"/>
+      <field name="date"/>
+      <field name="dateDisplay"/>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Complaint</field>
+      <field name="people">Maria</field>
+      <field name="people">Meade, William</field>
+      <field name="people">Mason, Thomson Francis, 1785-1838</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="person_ss">Maria</field>
+      <field name="personID_ss">per.003056</field>
+      <field name="personData_ss">{"label":"Maria","id":"per.003056"}</field>
+      <field name="person_ss">Meade, William</field>
+      <field name="personID_ss">per.003057</field>
+      <field name="personData_ss">{"label":"Meade, William","id":"per.003057"}</field>
+      <field name="person_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="personID_ss">per.002112</field>
+      <field name="personData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="plaintiff_ss">Maria</field>
+      <field name="plaintiffID_ss">per.003056</field>
+      <field name="plaintiffData_ss">{"label":"Maria","id":"per.003056"}</field>
+      <field name="defendant_ss">Meade, William</field>
+      <field name="defendantID_ss">per.003057</field>
+      <field name="defendantData_ss">{"label":"Meade, William","id":"per.003057"}</field>
+      <field name="attorneyP_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyPID_ss">per.002112</field>
+      <field name="attorneyPData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="attorney_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyID_ss">per.002112</field>
+      <field name="attorneyData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="sourceTitle_s">Complaint</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1818-11</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0409</field>
+      <field name="documentCaseData_ss">{"label":"Maria v. William Meade","id":"oscys.caseid.0409"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> Alexandria County to wit: Maria (a negro woman) complains of William Meade in custody &amp;c of a plea of trespass on the case. For that the said William Meade at the County aforesaid on the     day of     in the year 1816, with force &amp; arms assauled the plaintiff &amp; then &amp; there took and imprisoned the plaintiff and restrained her of her freedom from the said     day of     1816 until the     day of     in the same year. against the law of the land &amp; against the will of the plaintiff. &amp; other injuries the said William Meade then &amp; here did to the plaintiff against the peace &amp; dignity of the United States, &amp; to the damage of the plaintiff of one hundred dollars &amp; therefore she brings suit &amp;c. Thomson F Mason pro que (Maria a negro woman) vs Wm Meade Narr. 1816. Novr. Term 14th day petition fd vide capias </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0409</field>
+      <field name="person_ss" update="add">Maria</field>
+      <field name="personID_ss" update="add">per.003056</field>
+      <field name="personData_ss" update="add">{"label":"Maria","id":"per.003056"}</field>
+      <field name="person_ss" update="add">Meade, William</field>
+      <field name="personID_ss" update="add">per.003057</field>
+      <field name="personData_ss" update="add">{"label":"Meade, William","id":"per.003057"}</field>
+      <field name="person_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="personID_ss" update="add">per.002112</field>
+      <field name="personData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="plaintiff_ss" update="add">Maria</field>
+      <field name="plaintiffID_ss" update="add">per.003056</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Maria","id":"per.003056"}</field>
+      <field name="defendant_ss" update="add">Meade, William</field>
+      <field name="defendantID_ss" update="add">per.003057</field>
+      <field name="defendantData_ss" update="add">{"label":"Meade, William","id":"per.003057"}</field>
+      <field name="attorneyP_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyPID_ss" update="add">per.002112</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="attorney_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyID_ss" update="add">per.002112</field>
+      <field name="attorneyData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0384.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Maria v. William Meade. Complaint","id":"oscys.case.0384.002"}</field>
+   </doc>
+</add>

@@ -1,0 +1,75 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0337.007</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0337.007.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0337.007.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0337.007.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Amelia Ward v. Elias B. Caldwell. Amelia's Pass to Georgetown</field>
+      <field name="titleSort" update="add">amelia ward v. elias b. caldwell. amelia's pass to georgetown</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date">1821-12-07T00:00:00Z</field>
+      <field name="dateDisplay">December 7, 1821</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 303, Folder 417</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Exhibit</field>
+      <field name="people">Middleton, Henry O.</field>
+      <field name="people">Ward, Amelia</field>
+      <field name="people">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="places">Fredericksburg (Va.)</field>
+      <field name="places">Georgetown (Washington, D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Middleton, Henry O.</field>
+      <field name="personID_ss">per.002506</field>
+      <field name="personData_ss">{"label":"Middleton, Henry O.","id":"per.002506"}</field>
+      <field name="person_ss">Ward, Amelia</field>
+      <field name="personID_ss">per.002505</field>
+      <field name="personData_ss">{"label":"Ward, Amelia","id":"per.002505"}</field>
+      <field name="person_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="personID_ss">per.000194</field>
+      <field name="personData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="plaintiff_ss">Ward, Amelia</field>
+      <field name="plaintiffID_ss">per.002505</field>
+      <field name="plaintiffData_ss">{"label":"Ward, Amelia","id":"per.002505"}</field>
+      <field name="defendant_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="defendantID_ss">per.000194</field>
+      <field name="defendantData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="sourceTitle_s">Amelia's Pass to Georgetown</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1823-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0362</field>
+      <field name="documentCaseData_ss">{"label":"Amelia Ward v. Elias B. Caldwell","id":"oscys.caseid.0362"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> My servant Amelia has the liberty to go from Fredericksburg to George Town, Dis of Columbia. Henry O. Middleton Fredg 7the Decr. 1821 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0362</field>
+      <field name="person_ss" update="add">Middleton, Henry O.</field>
+      <field name="personID_ss" update="add">per.002506</field>
+      <field name="personData_ss" update="add">{"label":"Middleton, Henry O.","id":"per.002506"}</field>
+      <field name="person_ss" update="add">Ward, Amelia</field>
+      <field name="personID_ss" update="add">per.002505</field>
+      <field name="personData_ss" update="add">{"label":"Ward, Amelia","id":"per.002505"}</field>
+      <field name="person_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="personID_ss" update="add">per.000194</field>
+      <field name="personData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="plaintiff_ss" update="add">Ward, Amelia</field>
+      <field name="plaintiffID_ss" update="add">per.002505</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ward, Amelia","id":"per.002505"}</field>
+      <field name="defendant_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="defendantID_ss" update="add">per.000194</field>
+      <field name="defendantData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0337.007</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Amelia Ward v. Elias B. Caldwell. Amelia's Pass to Georgetown (December 7, 1821)","date":"1821-12-07","dateDisplay":"December 7, 1821","id":"oscys.case.0337.007"}</field>
+   </doc>
+</add>

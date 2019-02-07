@@ -1,0 +1,81 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0315.013</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0315.013.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0315.013.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0315.013.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Susan Vigel v. Henry Naylor. Summons of Henry Naylor</field>
+      <field name="titleSort" update="add">susan vigel v. henry naylor. summons of henry naylor</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date">1858-12-31T00:00:00Z</field>
+      <field name="dateDisplay">December 31, 1858</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 881, Folder 1001</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Dunlop, James, 1793-</field>
+      <field name="people">Naylor, George</field>
+      <field name="people">Vigel, Susan</field>
+      <field name="people">Naylor, Henry</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Dunlop, James, 1793-</field>
+      <field name="personID_ss">per.000476</field>
+      <field name="personData_ss">{"label":"Dunlop, James, 1793-","id":"per.000476"}</field>
+      <field name="person_ss">Naylor, George</field>
+      <field name="personID_ss">per.000699</field>
+      <field name="personData_ss">{"label":"Naylor, George","id":"per.000699"}</field>
+      <field name="person_ss">Vigel, Susan</field>
+      <field name="personID_ss">per.002374</field>
+      <field name="personData_ss">{"label":"Vigel, Susan","id":"per.002374"}</field>
+      <field name="person_ss">Naylor, Henry</field>
+      <field name="personID_ss">per.000883</field>
+      <field name="personData_ss">{"label":"Naylor, Henry","id":"per.000883"}</field>
+      <field name="plaintiff_ss">Vigel, Susan</field>
+      <field name="plaintiffID_ss">per.002374</field>
+      <field name="plaintiffData_ss">{"label":"Vigel, Susan","id":"per.002374"}</field>
+      <field name="defendant_ss">Naylor, Henry</field>
+      <field name="defendantID_ss">per.000883</field>
+      <field name="defendantData_ss">{"label":"Naylor, Henry","id":"per.000883"}</field>
+      <field name="sourceTitle_s">Summons of Henry Naylor</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1858-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0317</field>
+      <field name="documentCaseData_ss">{"label":"Susan Vigel v. Henry Naylor","id":"oscys.caseid.0317"}</field>
+      <field name="jurisdiction_ss">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="text"> District of Columbia, to wit: The United States of America, To Henry Naylor, administrator of George Naylor, Greeting: You are hereby cited and admonished to be and appear at a Supreme Court of the United on the first Monday in December next, pursuant to a writ of error filed in the Clerks Office of the Circuit Court of the District of Columbia, sitting for the County of Washington wherein Susan Vigel is plaintiff in Error and you are defendant in error, to shew cause if any there be, why judgment rendered against the said Susan Vigel in the said Writ of error mentioned should not be corrected, and why speedy justice should not be done to the parties in this behalf Witness the Hon: James Dunlop Chief Judge of the Circuit Court of the District of Columbia this 31st day of December 1858. Jas. Dunlop </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0317</field>
+      <field name="person_ss" update="add">Dunlop, James, 1793-</field>
+      <field name="personID_ss" update="add">per.000476</field>
+      <field name="personData_ss" update="add">{"label":"Dunlop, James, 1793-","id":"per.000476"}</field>
+      <field name="person_ss" update="add">Naylor, George</field>
+      <field name="personID_ss" update="add">per.000699</field>
+      <field name="personData_ss" update="add">{"label":"Naylor, George","id":"per.000699"}</field>
+      <field name="person_ss" update="add">Vigel, Susan</field>
+      <field name="personID_ss" update="add">per.002374</field>
+      <field name="personData_ss" update="add">{"label":"Vigel, Susan","id":"per.002374"}</field>
+      <field name="person_ss" update="add">Naylor, Henry</field>
+      <field name="personID_ss" update="add">per.000883</field>
+      <field name="personData_ss" update="add">{"label":"Naylor, Henry","id":"per.000883"}</field>
+      <field name="plaintiff_ss" update="add">Vigel, Susan</field>
+      <field name="plaintiffID_ss" update="add">per.002374</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Vigel, Susan","id":"per.002374"}</field>
+      <field name="defendant_ss" update="add">Naylor, Henry</field>
+      <field name="defendantID_ss" update="add">per.000883</field>
+      <field name="defendantData_ss" update="add">{"label":"Naylor, Henry","id":"per.000883"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0315.013</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Susan Vigel v. Henry Naylor. Summons of Henry Naylor (December 31, 1858)","date":"1858-12-31","dateDisplay":"December 31, 1858","id":"oscys.case.0315.013"}</field>
+   </doc>
+</add>

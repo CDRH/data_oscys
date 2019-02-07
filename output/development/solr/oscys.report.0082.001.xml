@@ -1,0 +1,84 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0082.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0082.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0082.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0082.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Moses Burr v. Patrick Dunnahoo. Civil Court Report</field>
+      <field name="titleSort" update="add">moses burr v. patrick dunnahoo. civil court report</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1806-06-01T00:00:00Z</field>
+      <field name="dateDisplay">June 1806</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume I, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Burr, Moses</field>
+      <field name="people">Dunnahoo, Patrick</field>
+      <field name="people">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="person_ss">Burr, Moses</field>
+      <field name="personID_ss">per.002718</field>
+      <field name="personData_ss">{"label":"Burr, Moses","id":"per.002718"}</field>
+      <field name="person_ss">Dunnahoo, Patrick</field>
+      <field name="personID_ss">per.002719</field>
+      <field name="personData_ss">{"label":"Dunnahoo, Patrick","id":"per.002719"}</field>
+      <field name="person_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="personID_ss">per.000194</field>
+      <field name="personData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="plaintiff_ss">Burr, Moses</field>
+      <field name="plaintiffID_ss">per.002718</field>
+      <field name="plaintiffData_ss">{"label":"Burr, Moses","id":"per.002718"}</field>
+      <field name="defendant_ss">Dunnahoo, Patrick</field>
+      <field name="defendantID_ss">per.002719</field>
+      <field name="defendantData_ss">{"label":"Dunnahoo, Patrick","id":"per.002719"}</field>
+      <field name="attorneyP_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyPID_ss">per.000194</field>
+      <field name="attorneyPData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="attorney_ss">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyID_ss">per.000194</field>
+      <field name="attorneyData_ss">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1806-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0333</field>
+      <field name="documentCaseData_ss">{"label":"Moses Burr v. Patrick Dunnahoo","id":"oscys.caseid.0333"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Moses v. Patrick Dunnaho. A petitioner for freedom has not a right to go in search of his witnesses. Petition for freedom. Mr. Caldwell, for the petitioner, moved the Court for leave to the petitioner to go in search of evidence in support of his petition. Refused. The Court said they knew no law which authorized them to give such leave. The usual recognizance is to permit the petitioner to attend court from time to time. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0333</field>
+      <field name="person_ss" update="add">Burr, Moses</field>
+      <field name="personID_ss" update="add">per.002718</field>
+      <field name="personData_ss" update="add">{"label":"Burr, Moses","id":"per.002718"}</field>
+      <field name="person_ss" update="add">Dunnahoo, Patrick</field>
+      <field name="personID_ss" update="add">per.002719</field>
+      <field name="personData_ss" update="add">{"label":"Dunnahoo, Patrick","id":"per.002719"}</field>
+      <field name="person_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="personID_ss" update="add">per.000194</field>
+      <field name="personData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="plaintiff_ss" update="add">Burr, Moses</field>
+      <field name="plaintiffID_ss" update="add">per.002718</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Burr, Moses","id":"per.002718"}</field>
+      <field name="defendant_ss" update="add">Dunnahoo, Patrick</field>
+      <field name="defendantID_ss" update="add">per.002719</field>
+      <field name="defendantData_ss" update="add">{"label":"Dunnahoo, Patrick","id":"per.002719"}</field>
+      <field name="attorneyP_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyPID_ss" update="add">per.000194</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="attorney_ss" update="add">Caldwell, Elias Boudinot, 1776-1825</field>
+      <field name="attorneyID_ss" update="add">per.000194</field>
+      <field name="attorneyData_ss" update="add">{"label":"Caldwell, Elias Boudinot, 1776-1825","id":"per.000194"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0082.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Moses Burr v. Patrick Dunnahoo. Civil Court Report (June, 1806)","date":"1806-06","dateDisplay":"June, 1806","id":"oscys.report.0082.001"}</field>
+   </doc>
+</add>

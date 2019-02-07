@@ -1,0 +1,89 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0410.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0410.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0410.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0410.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ex parte Thomas Morris. Warrant</field>
+      <field name="titleSort" update="add">ex parte thomas morris. warrant</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="contributor"/>
+      <field name="date">1832-07-16T00:00:00Z</field>
+      <field name="dateDisplay">July 16, 1832</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Warrant</field>
+      <field name="people">Ashton, Henry</field>
+      <field name="people">Hawke, Thomas A.</field>
+      <field name="people">Martin, Thomas J.</field>
+      <field name="people">Morsell, Benjamin K.</field>
+      <field name="people">Williams, James</field>
+      <field name="people">Morris, Thomas</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Ashton, Henry</field>
+      <field name="personID_ss">per.000502</field>
+      <field name="personData_ss">{"label":"Ashton, Henry","id":"per.000502"}</field>
+      <field name="person_ss">Hawke, Thomas A.</field>
+      <field name="personID_ss">per.003235</field>
+      <field name="personData_ss">{"label":"Hawke, Thomas A.","id":"per.003235"}</field>
+      <field name="person_ss">Martin, Thomas J.</field>
+      <field name="personID_ss">per.003270</field>
+      <field name="personData_ss">{"label":"Martin, Thomas J.","id":"per.003270"}</field>
+      <field name="person_ss">Morsell, Benjamin K.</field>
+      <field name="personID_ss">per.001621</field>
+      <field name="personData_ss">{"label":"Morsell, Benjamin K.","id":"per.001621"}</field>
+      <field name="person_ss">Williams, James</field>
+      <field name="personID_ss">per.003236</field>
+      <field name="personData_ss">{"label":"Williams, James","id":"per.003236"}</field>
+      <field name="person_ss">Morris, Thomas</field>
+      <field name="personID_ss">per.003268</field>
+      <field name="personData_ss">{"label":"Morris, Thomas","id":"per.003268"}</field>
+      <field name="plaintiff_ss">Morris, Thomas</field>
+      <field name="plaintiffID_ss">per.003268</field>
+      <field name="plaintiffData_ss">{"label":"Morris, Thomas","id":"per.003268"}</field>
+      <field name="sourceTitle_s">Warrant</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1832-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0437</field>
+      <field name="documentCaseData_ss">{"label":"Ex parte Thomas Morris","id":"oscys.caseid.0437"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> District of Columbia Washington Couty Ss To Henry Ashton Esq Marshal D.C. Whereas Thomas Morris Stands charged before me the subscriber a justice of the peace for said County with being a runaway Slave and having failed to prove the Contrary You are therefore hereby directed to receive from Thos. J. Martin Constable The body of the said Thos. and him safe Keep in your jail and Custody untill he shall be thence delivered agreeable to law Given under my hand and seal This 16th day of July 1832 B. K. Morsell (seal) true coppy of the Caption detention &amp;c of Thos Morris for James Williams jailor Thos A hawke </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0437</field>
+      <field name="person_ss" update="add">Ashton, Henry</field>
+      <field name="personID_ss" update="add">per.000502</field>
+      <field name="personData_ss" update="add">{"label":"Ashton, Henry","id":"per.000502"}</field>
+      <field name="person_ss" update="add">Hawke, Thomas A.</field>
+      <field name="personID_ss" update="add">per.003235</field>
+      <field name="personData_ss" update="add">{"label":"Hawke, Thomas A.","id":"per.003235"}</field>
+      <field name="person_ss" update="add">Martin, Thomas J.</field>
+      <field name="personID_ss" update="add">per.003270</field>
+      <field name="personData_ss" update="add">{"label":"Martin, Thomas J.","id":"per.003270"}</field>
+      <field name="person_ss" update="add">Morsell, Benjamin K.</field>
+      <field name="personID_ss" update="add">per.001621</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, Benjamin K.","id":"per.001621"}</field>
+      <field name="person_ss" update="add">Williams, James</field>
+      <field name="personID_ss" update="add">per.003236</field>
+      <field name="personData_ss" update="add">{"label":"Williams, James","id":"per.003236"}</field>
+      <field name="person_ss" update="add">Morris, Thomas</field>
+      <field name="personID_ss" update="add">per.003268</field>
+      <field name="personData_ss" update="add">{"label":"Morris, Thomas","id":"per.003268"}</field>
+      <field name="plaintiff_ss" update="add">Morris, Thomas</field>
+      <field name="plaintiffID_ss" update="add">per.003268</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Morris, Thomas","id":"per.003268"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0410.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ex parte Thomas Morris. Warrant (July 16, 1832)","date":"1832-07-16","dateDisplay":"July 16, 1832","id":"oscys.case.0410.002"}</field>
+   </doc>
+</add>

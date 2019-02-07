@@ -1,0 +1,181 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0259.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0259.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0259.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0259.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Chloe v. William Marbury. Petition for Freedom</field>
+      <field name="titleSort" update="add">chloe v. william marbury. petition for freedom</field>
+      <field name="titleLetter_s" update="add">c</field>
+      <field name="contributor"/>
+      <field name="date">1820-02-01T00:00:00Z</field>
+      <field name="dateDisplay">February 1, 1820</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 243, Folder 594</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Fitzhugh, Richard Henry</field>
+      <field name="people">Fitzhugh, Richard</field>
+      <field name="people">Caroline</field>
+      <field name="people">Chloe</field>
+      <field name="people">Henry</field>
+      <field name="people">John</field>
+      <field name="people">Nancy</field>
+      <field name="people">Marbury, William</field>
+      <field name="people">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="people">Mason, Thomson Francis, 1785-1838</field>
+      <field name="places">Fairfax County (Va.)</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Alexandria (Va.)</field>
+      <field name="places">Georgetown (Washington, D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Fitzhugh, Richard Henry</field>
+      <field name="personID_ss">per.002105</field>
+      <field name="personData_ss">{"label":"Fitzhugh, Richard Henry","id":"per.002105"}</field>
+      <field name="person_ss">Fitzhugh, Richard</field>
+      <field name="personID_ss">per.002113</field>
+      <field name="personData_ss">{"label":"Fitzhugh, Richard","id":"per.002113"}</field>
+      <field name="person_ss">Caroline</field>
+      <field name="personID_ss">per.002106</field>
+      <field name="personData_ss">{"label":"Caroline","id":"per.002106"}</field>
+      <field name="person_ss">Chloe</field>
+      <field name="personID_ss">per.002107</field>
+      <field name="personData_ss">{"label":"Chloe","id":"per.002107"}</field>
+      <field name="person_ss">Henry</field>
+      <field name="personID_ss">per.002108</field>
+      <field name="personData_ss">{"label":"Henry","id":"per.002108"}</field>
+      <field name="person_ss">John</field>
+      <field name="personID_ss">per.002109</field>
+      <field name="personData_ss">{"label":"John","id":"per.002109"}</field>
+      <field name="person_ss">Nancy</field>
+      <field name="personID_ss">per.002110</field>
+      <field name="personData_ss">{"label":"Nancy","id":"per.002110"}</field>
+      <field name="person_ss">Marbury, William</field>
+      <field name="personID_ss">per.002111</field>
+      <field name="personData_ss">{"label":"Marbury, William","id":"per.002111"}</field>
+      <field name="person_ss">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="personID_ss">per.001002</field>
+      <field name="personData_ss">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="person_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="personID_ss">per.002112</field>
+      <field name="personData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="plaintiff_ss">Caroline</field>
+      <field name="plaintiffID_ss">per.002106</field>
+      <field name="plaintiffData_ss">{"label":"Caroline","id":"per.002106"}</field>
+      <field name="plaintiff_ss">Chloe</field>
+      <field name="plaintiffID_ss">per.002107</field>
+      <field name="plaintiffData_ss">{"label":"Chloe","id":"per.002107"}</field>
+      <field name="plaintiff_ss">Henry</field>
+      <field name="plaintiffID_ss">per.002108</field>
+      <field name="plaintiffData_ss">{"label":"Henry","id":"per.002108"}</field>
+      <field name="plaintiff_ss">John</field>
+      <field name="plaintiffID_ss">per.002109</field>
+      <field name="plaintiffData_ss">{"label":"John","id":"per.002109"}</field>
+      <field name="plaintiff_ss">Nancy</field>
+      <field name="plaintiffID_ss">per.002110</field>
+      <field name="plaintiffData_ss">{"label":"Nancy","id":"per.002110"}</field>
+      <field name="defendant_ss">Marbury, William</field>
+      <field name="defendantID_ss">per.002111</field>
+      <field name="defendantData_ss">{"label":"Marbury, William","id":"per.002111"}</field>
+      <field name="attorneyP_ss">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="attorneyPID_ss">per.001002</field>
+      <field name="attorneyPData_ss">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="attorney_ss">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="attorneyID_ss">per.001002</field>
+      <field name="attorneyData_ss">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="attorneyP_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyPID_ss">per.002112</field>
+      <field name="attorneyPData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="attorney_ss">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyID_ss">per.002112</field>
+      <field name="attorneyData_ss">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1822-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0347</field>
+      <field name="documentCaseData_ss">{"label":"Chloe, John, Caroline, Henry, &amp; Nancy v. William Marbury","id":"oscys.caseid.0347"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honourable the Judges of the Circuit Court of the District Court of Columbia. Your Petitioner Chloe humbly sheweth that she is a mulatto woman, and formerly was owned by one Richard Fitzhugh of the County of Fairfax in the state of Virginia. That the said Richard Fitzhugh afterward gave her to his son Richard H. Fitzhugh (as your petitioner is informed) who became a resident of Georgetown, sometime about the year 1809. That in the spring of the year 1817 the said Richard H. Fitzhugh brought your petitioner and three children, Caroline, John and Henry to Alexandria, where he caused them to remain eight weeks, at the expiration of which time he removed them to Georgetown, where your petitioner and her two children Caroline and John aforesaid have lived ever since, and where your petitioners child Henry aforesaid remained about eight months &amp; was then removed to Virginia. That in the month of February 1819 your petitioners child Nancy was born. Your petitioner farther shows, that by a deed of trust dated in either the month of December 1819 or January 1820 for purposes not fully known to your petitioner, she and her children Caroline, John, Henry and Nancy, among other property claimed by the said Richard H. Fitzhugh were by him conveyed as your petitioner is informed to one William Marbury. That under the said deed your petitioner continually expects that she and her four children Caroline, John, Henry, and Nancy will be sold. Your petitioner believes, that she has been and is illegally detained in slavery by the said Fitzhugh the younger, and is advised that she, and her children John, Caroline, Henry and Nancy were imported into Washington County in violation of the law of Maryland passed in the year 1796, and of the acts of Congress in regard to the importation of slaves, and that under that law and those acts, she and her children, John, Caroline, Henry and Nancy are entitled to their freedom. To the end therefore that your petitioners claim for herself and her children aforesaid, may be examined into and determined before your honors, she humbly prays that the said Richard H. Fitzhugh, the said William Marbury, and all other person or persons may be enjoined from selling or in any wise removing your petitioner and her said children from Georgetown, until her case can be fully and fairly examined, and that your Honors will pass such other order as may best consist with justice, and your petitioner's and her childrens rights; may it please your Honours to gerant to your petitioner the United States most gracious writ of subpoena &amp;c. to the said Richard H. Fitzhugh, and the said William Marbury, directed, commanding &amp;c. P. R. Fendall for the Petitioner Thomson F. Mason Alexa. Jany. 31. 1820. Wm. Brent Esq. Dear Sir, Your early attention to the within will oblige me, and if "H" be not the initial letter of Fitzhugh the younger's middle name be pleased to alter it to the right one; &amp; also, if the deed to secure Marbury be made to a trustee to insert his name among the other Defendants. Not possessing accurate information on this lead, I urge you to the trouble of thus supplying it, which, as the case is one of humanity, I am persuaded that you will willingly do. Yrs. very sincrly. &amp; resply. P. R. Fendall 44. Negro Chloe for herself &amp; Children vs Richd. H. Fitzhugh &amp; Wm Marbury. filed 1 Feb 1820 Charge P. R. Fendall To William Brent Esq. Clerk of the Court of Washington County DC. Washington </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0347</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Fitzhugh, Richard Henry</field>
+      <field name="personID_ss" update="add">per.002105</field>
+      <field name="personData_ss" update="add">{"label":"Fitzhugh, Richard Henry","id":"per.002105"}</field>
+      <field name="person_ss" update="add">Fitzhugh, Richard</field>
+      <field name="personID_ss" update="add">per.002113</field>
+      <field name="personData_ss" update="add">{"label":"Fitzhugh, Richard","id":"per.002113"}</field>
+      <field name="person_ss" update="add">Caroline</field>
+      <field name="personID_ss" update="add">per.002106</field>
+      <field name="personData_ss" update="add">{"label":"Caroline","id":"per.002106"}</field>
+      <field name="person_ss" update="add">Chloe</field>
+      <field name="personID_ss" update="add">per.002107</field>
+      <field name="personData_ss" update="add">{"label":"Chloe","id":"per.002107"}</field>
+      <field name="person_ss" update="add">Henry</field>
+      <field name="personID_ss" update="add">per.002108</field>
+      <field name="personData_ss" update="add">{"label":"Henry","id":"per.002108"}</field>
+      <field name="person_ss" update="add">John</field>
+      <field name="personID_ss" update="add">per.002109</field>
+      <field name="personData_ss" update="add">{"label":"John","id":"per.002109"}</field>
+      <field name="person_ss" update="add">Nancy</field>
+      <field name="personID_ss" update="add">per.002110</field>
+      <field name="personData_ss" update="add">{"label":"Nancy","id":"per.002110"}</field>
+      <field name="person_ss" update="add">Marbury, William</field>
+      <field name="personID_ss" update="add">per.002111</field>
+      <field name="personData_ss" update="add">{"label":"Marbury, William","id":"per.002111"}</field>
+      <field name="person_ss" update="add">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="personID_ss" update="add">per.001002</field>
+      <field name="personData_ss" update="add">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="person_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="personID_ss" update="add">per.002112</field>
+      <field name="personData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="plaintiff_ss" update="add">Caroline</field>
+      <field name="plaintiffID_ss" update="add">per.002106</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Caroline","id":"per.002106"}</field>
+      <field name="plaintiff_ss" update="add">Chloe</field>
+      <field name="plaintiffID_ss" update="add">per.002107</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Chloe","id":"per.002107"}</field>
+      <field name="plaintiff_ss" update="add">Henry</field>
+      <field name="plaintiffID_ss" update="add">per.002108</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Henry","id":"per.002108"}</field>
+      <field name="plaintiff_ss" update="add">John</field>
+      <field name="plaintiffID_ss" update="add">per.002109</field>
+      <field name="plaintiffData_ss" update="add">{"label":"John","id":"per.002109"}</field>
+      <field name="plaintiff_ss" update="add">Nancy</field>
+      <field name="plaintiffID_ss" update="add">per.002110</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Nancy","id":"per.002110"}</field>
+      <field name="defendant_ss" update="add">Marbury, William</field>
+      <field name="defendantID_ss" update="add">per.002111</field>
+      <field name="defendantData_ss" update="add">{"label":"Marbury, William","id":"per.002111"}</field>
+      <field name="attorneyP_ss" update="add">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="attorneyPID_ss" update="add">per.001002</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="attorney_ss" update="add">Fendall, Philip Ricard, 1794-1868</field>
+      <field name="attorneyID_ss" update="add">per.001002</field>
+      <field name="attorneyData_ss" update="add">{"label":"Fendall, Philip Ricard, 1794-1868","id":"per.001002"}</field>
+      <field name="attorneyP_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyPID_ss" update="add">per.002112</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="attorney_ss" update="add">Mason, Thomson Francis, 1785-1838</field>
+      <field name="attorneyID_ss" update="add">per.002112</field>
+      <field name="attorneyData_ss" update="add">{"label":"Mason, Thomson Francis, 1785-1838","id":"per.002112"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0259.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Chloe v. William Marbury. Petition for Freedom (February 1, 1820)","date":"1820-02-01","dateDisplay":"February 1, 1820","id":"oscys.case.0259.002"}</field>
+   </doc>
+</add>

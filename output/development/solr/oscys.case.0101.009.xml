@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0101.009</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0101.009.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0101.009.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0101.009.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Allen Seymour v. Nathan Seymour. Petition of Freedom</field>
+      <field name="titleSort" update="add">allen seymour v. nathan seymour. petition of freedom</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="contributor"/>
+      <field name="date">1848-03-13T00:00:00Z</field>
+      <field name="dateDisplay">March 13, 1848</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 766, Folder 116</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Seymour, Allen</field>
+      <field name="people">Seymour, Nathan</field>
+      <field name="people">Ratcliffe, Daniel</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Seymour, Allen</field>
+      <field name="personID_ss">per.000749</field>
+      <field name="personData_ss">{"label":"Seymour, Allen","id":"per.000749"}</field>
+      <field name="person_ss">Seymour, Nathan</field>
+      <field name="personID_ss">per.000750</field>
+      <field name="personData_ss">{"label":"Seymour, Nathan","id":"per.000750"}</field>
+      <field name="person_ss">Ratcliffe, Daniel</field>
+      <field name="personID_ss">per.000751</field>
+      <field name="personData_ss">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="plaintiff_ss">Seymour, Allen</field>
+      <field name="plaintiffID_ss">per.000749</field>
+      <field name="plaintiffData_ss">{"label":"Seymour, Allen","id":"per.000749"}</field>
+      <field name="defendant_ss">Seymour, Nathan</field>
+      <field name="defendantID_ss">per.000750</field>
+      <field name="defendantData_ss">{"label":"Seymour, Nathan","id":"per.000750"}</field>
+      <field name="attorneyP_ss">Ratcliffe, Daniel</field>
+      <field name="attorneyPID_ss">per.000751</field>
+      <field name="attorneyPData_ss">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="attorney_ss">Ratcliffe, Daniel</field>
+      <field name="attorneyID_ss">per.000751</field>
+      <field name="attorneyData_ss">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1853-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0101</field>
+      <field name="documentCaseData_ss">{"label":"Allen Seymour v. Nathan Seymour","id":"oscys.caseid.0101"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court of the District of Columbia and County of Washington The petition of Allen Seymour a coloured person humbly sheweth unto your Honorable Court, that your petitioner is entitled to his freedom and is unjustly held in bondage by Nathan Seymour, who claims your petitioner as his Slave, Wherefore your petitioner prays the said Honorable Court to grant a subpoena directed to the said Seymour and such other relief in the premises as may be according to Law. Allen Seymour Danl. Ratcliffe atty for petitioner 214. 162 116. 143 46 188. 116. 158. 109. 78 68. Allen Seymour vs Nathan Seymour The clerk will file this petition &amp; issue accordingly D Ratcliffe atty for Petitioners Filed 13th. March 1848 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0101</field>
+      <field name="person_ss" update="add">Seymour, Allen</field>
+      <field name="personID_ss" update="add">per.000749</field>
+      <field name="personData_ss" update="add">{"label":"Seymour, Allen","id":"per.000749"}</field>
+      <field name="person_ss" update="add">Seymour, Nathan</field>
+      <field name="personID_ss" update="add">per.000750</field>
+      <field name="personData_ss" update="add">{"label":"Seymour, Nathan","id":"per.000750"}</field>
+      <field name="person_ss" update="add">Ratcliffe, Daniel</field>
+      <field name="personID_ss" update="add">per.000751</field>
+      <field name="personData_ss" update="add">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="plaintiff_ss" update="add">Seymour, Allen</field>
+      <field name="plaintiffID_ss" update="add">per.000749</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Seymour, Allen","id":"per.000749"}</field>
+      <field name="defendant_ss" update="add">Seymour, Nathan</field>
+      <field name="defendantID_ss" update="add">per.000750</field>
+      <field name="defendantData_ss" update="add">{"label":"Seymour, Nathan","id":"per.000750"}</field>
+      <field name="attorneyP_ss" update="add">Ratcliffe, Daniel</field>
+      <field name="attorneyPID_ss" update="add">per.000751</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="attorney_ss" update="add">Ratcliffe, Daniel</field>
+      <field name="attorneyID_ss" update="add">per.000751</field>
+      <field name="attorneyData_ss" update="add">{"label":"Ratcliffe, Daniel","id":"per.000751"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0101.009</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Allen Seymour v. Nathan Seymour. Petition of Freedom (March 13, 1848)","date":"1848-03-13","dateDisplay":"March 13, 1848","id":"oscys.case.0101.009"}</field>
+   </doc>
+</add>

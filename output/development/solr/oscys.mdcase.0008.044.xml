@@ -1,0 +1,466 @@
+<add>
+   <doc>
+      <field name="id">oscys.mdcase.0008.044</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.mdcase.0008.044.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.mdcase.0008.044.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.mdcase.0008.044.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Charles Mahoney v. John Ashton. Account of Servants Imported into Maryland</field>
+      <field name="titleSort" update="add">charles mahoney v. john ashton. account of servants imported into maryland</field>
+      <field name="titleLetter_s" update="add">c</field>
+      <field name="contributor"/>
+      <field name="date">1799-06-03T00:00:00Z</field>
+      <field name="dateDisplay">June 3, 1799</field>
+      <field name="format">manuscript</field>
+      <field name="source">Maryland State Archives, General Court of the Western Shore (Judgments), MSA S498-220</field>
+      <field name="rightsHolder">Maryland State Archives</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Exhibit</field>
+      <field name="people">Anglen, Ellinor</field>
+      <field name="people">Arundel, Lidia</field>
+      <field name="people">Baltimore, Charles Calvert, Lord, 1637-1715</field>
+      <field name="people">Berren, Rice</field>
+      <field name="people">Brown, Charles</field>
+      <field name="people">Brown, John</field>
+      <field name="people">Brown, John</field>
+      <field name="people">Brown, John, Jr.</field>
+      <field name="people">Bryan, Derby</field>
+      <field name="people">Butler, Richard</field>
+      <field name="people">Calahone, Margaret</field>
+      <field name="people">Calahone, Teag</field>
+      <field name="people">Callahan, John</field>
+      <field name="people">Casey, James</field>
+      <field name="people">Couthland, Margaret</field>
+      <field name="people">Cunisby, William</field>
+      <field name="people">Descole, Dermott</field>
+      <field name="people">Freeman, Thomas</field>
+      <field name="people">Griffith, Rice</field>
+      <field name="people">Gutheridge, Henry</field>
+      <field name="people">Holand, Daniel</field>
+      <field name="people">Holand, Dennis</field>
+      <field name="people">Howell, George</field>
+      <field name="people">Jenifer</field>
+      <field name="people">Joice, Ann</field>
+      <field name="people">Jones, Bridget</field>
+      <field name="people">Jones, Rowland</field>
+      <field name="people">Kennedy, Edward</field>
+      <field name="people">Kile, John</field>
+      <field name="people">Lyne, Daniel</field>
+      <field name="people">Macchoone, Jerum</field>
+      <field name="people">Mahoney, Teag</field>
+      <field name="people">Malihone, Desmond</field>
+      <field name="people">Martin, Ann</field>
+      <field name="people">Morris, Ann</field>
+      <field name="people">Morris, Ruthro</field>
+      <field name="people">O'Bryan, Mortimer</field>
+      <field name="people">Owen, Bartholomew</field>
+      <field name="people">Phillips, Alice</field>
+      <field name="people">Phillips, Ewan</field>
+      <field name="people">Powell, William</field>
+      <field name="people">Price, Charles</field>
+      <field name="people">Price, Jenken</field>
+      <field name="people">Rees, John</field>
+      <field name="people">Roberts, Grace</field>
+      <field name="people">Rousby, Charles</field>
+      <field name="people">Saylee, Abraham</field>
+      <field name="people">Shoolevant, Derby</field>
+      <field name="people">Shoolevant, James</field>
+      <field name="people">Shoolevant, Julian</field>
+      <field name="people">Teag, Sheely</field>
+      <field name="people">Thomas, Richard</field>
+      <field name="people">Warren, Henry</field>
+      <field name="people">Watts, Katharine</field>
+      <field name="people">Welsh, Julian</field>
+      <field name="people">Welsh, Morris</field>
+      <field name="people">Young, William</field>
+      <field name="people">Mahoney, Charles</field>
+      <field name="people">Ashton, John</field>
+      <field name="places">Maryland</field>
+      <field name="places">Bristol (England)</field>
+      <field name="person_ss">Anglen, Ellinor</field>
+      <field name="personID_ss">per.004701</field>
+      <field name="personData_ss">{"label":"Anglen, Ellinor","id":"per.004701"}</field>
+      <field name="person_ss">Arundel, Lidia</field>
+      <field name="personID_ss">per.004698</field>
+      <field name="personData_ss">{"label":"Arundel, Lidia","id":"per.004698"}</field>
+      <field name="person_ss">Baltimore, Charles Calvert, Lord, 1637-1715</field>
+      <field name="personID_ss">per.004336</field>
+      <field name="personData_ss">{"label":"Baltimore, Charles Calvert, Lord, 1637-1715","id":"per.004336"}</field>
+      <field name="person_ss">Berren, Rice</field>
+      <field name="personID_ss">per.004719</field>
+      <field name="personData_ss">{"label":"Berren, Rice","id":"per.004719"}</field>
+      <field name="person_ss">Brown, Charles</field>
+      <field name="personID_ss">per.004689</field>
+      <field name="personData_ss">{"label":"Brown, Charles","id":"per.004689"}</field>
+      <field name="person_ss">Brown, John</field>
+      <field name="personID_ss">per.004704</field>
+      <field name="personData_ss">{"label":"Brown, John","id":"per.004704"}</field>
+      <field name="person_ss">Brown, John</field>
+      <field name="personID_ss">per.004731</field>
+      <field name="personData_ss">{"label":"Brown, John","id":"per.004731"}</field>
+      <field name="person_ss">Brown, John, Jr.</field>
+      <field name="personID_ss">per.004696</field>
+      <field name="personData_ss">{"label":"Brown, John, Jr.","id":"per.004696"}</field>
+      <field name="person_ss">Bryan, Derby</field>
+      <field name="personID_ss">per.004709</field>
+      <field name="personData_ss">{"label":"Bryan, Derby","id":"per.004709"}</field>
+      <field name="person_ss">Butler, Richard</field>
+      <field name="personID_ss">per.004684</field>
+      <field name="personData_ss">{"label":"Butler, Richard","id":"per.004684"}</field>
+      <field name="person_ss">Calahone, Margaret</field>
+      <field name="personID_ss">per.004755</field>
+      <field name="personData_ss">{"label":"Calahone, Margaret","id":"per.004755"}</field>
+      <field name="person_ss">Calahone, Teag</field>
+      <field name="personID_ss">per.004700</field>
+      <field name="personData_ss">{"label":"Calahone, Teag","id":"per.004700"}</field>
+      <field name="person_ss">Callahan, John</field>
+      <field name="personID_ss">per.004736</field>
+      <field name="personData_ss">{"label":"Callahan, John","id":"per.004736"}</field>
+      <field name="person_ss">Casey, James</field>
+      <field name="personID_ss">per.004730</field>
+      <field name="personData_ss">{"label":"Casey, James","id":"per.004730"}</field>
+      <field name="person_ss">Couthland, Margaret</field>
+      <field name="personID_ss">per.004690</field>
+      <field name="personData_ss">{"label":"Couthland, Margaret","id":"per.004690"}</field>
+      <field name="person_ss">Cunisby, William</field>
+      <field name="personID_ss">per.004727</field>
+      <field name="personData_ss">{"label":"Cunisby, William","id":"per.004727"}</field>
+      <field name="person_ss">Descole, Dermott</field>
+      <field name="personID_ss">per.004697</field>
+      <field name="personData_ss">{"label":"Descole, Dermott","id":"per.004697"}</field>
+      <field name="person_ss">Freeman, Thomas</field>
+      <field name="personID_ss">per.004733</field>
+      <field name="personData_ss">{"label":"Freeman, Thomas","id":"per.004733"}</field>
+      <field name="person_ss">Griffith, Rice</field>
+      <field name="personID_ss">per.004722</field>
+      <field name="personData_ss">{"label":"Griffith, Rice","id":"per.004722"}</field>
+      <field name="person_ss">Gutheridge, Henry</field>
+      <field name="personID_ss">per.004717</field>
+      <field name="personData_ss">{"label":"Gutheridge, Henry","id":"per.004717"}</field>
+      <field name="person_ss">Holand, Daniel</field>
+      <field name="personID_ss">per.004726</field>
+      <field name="personData_ss">{"label":"Holand, Daniel","id":"per.004726"}</field>
+      <field name="person_ss">Holand, Dennis</field>
+      <field name="personID_ss">per.004723</field>
+      <field name="personData_ss">{"label":"Holand, Dennis","id":"per.004723"}</field>
+      <field name="person_ss">Howell, George</field>
+      <field name="personID_ss">per.004705</field>
+      <field name="personData_ss">{"label":"Howell, George","id":"per.004705"}</field>
+      <field name="person_ss">Jenifer</field>
+      <field name="personID_ss">per.004756</field>
+      <field name="personData_ss">{"label":"Jenifer","id":"per.004756"}</field>
+      <field name="person_ss">Joice, Ann</field>
+      <field name="personID_ss">per.004337</field>
+      <field name="personData_ss">{"label":"Joice, Ann","id":"per.004337"}</field>
+      <field name="person_ss">Jones, Bridget</field>
+      <field name="personID_ss">per.004710</field>
+      <field name="personData_ss">{"label":"Jones, Bridget","id":"per.004710"}</field>
+      <field name="person_ss">Jones, Rowland</field>
+      <field name="personID_ss">per.004708</field>
+      <field name="personData_ss">{"label":"Jones, Rowland","id":"per.004708"}</field>
+      <field name="person_ss">Kennedy, Edward</field>
+      <field name="personID_ss">per.004732</field>
+      <field name="personData_ss">{"label":"Kennedy, Edward","id":"per.004732"}</field>
+      <field name="person_ss">Kile, John</field>
+      <field name="personID_ss">per.004712</field>
+      <field name="personData_ss">{"label":"Kile, John","id":"per.004712"}</field>
+      <field name="person_ss">Lyne, Daniel</field>
+      <field name="personID_ss">per.004721</field>
+      <field name="personData_ss">{"label":"Lyne, Daniel","id":"per.004721"}</field>
+      <field name="person_ss">Macchoone, Jerum</field>
+      <field name="personID_ss">per.004686</field>
+      <field name="personData_ss">{"label":"Macchoone, Jerum","id":"per.004686"}</field>
+      <field name="person_ss">Mahoney, Teag</field>
+      <field name="personID_ss">per.004687</field>
+      <field name="personData_ss">{"label":"Mahoney, Teag","id":"per.004687"}</field>
+      <field name="person_ss">Malihone, Desmond</field>
+      <field name="personID_ss">per.004729</field>
+      <field name="personData_ss">{"label":"Malihone, Desmond","id":"per.004729"}</field>
+      <field name="person_ss">Martin, Ann</field>
+      <field name="personID_ss">per.004703</field>
+      <field name="personData_ss">{"label":"Martin, Ann","id":"per.004703"}</field>
+      <field name="person_ss">Morris, Ann</field>
+      <field name="personID_ss">per.004713</field>
+      <field name="personData_ss">{"label":"Morris, Ann","id":"per.004713"}</field>
+      <field name="person_ss">Morris, Ruthro</field>
+      <field name="personID_ss">per.004707</field>
+      <field name="personData_ss">{"label":"Morris, Ruthro","id":"per.004707"}</field>
+      <field name="person_ss">O'Bryan, Mortimer</field>
+      <field name="personID_ss">per.004706</field>
+      <field name="personData_ss">{"label":"O'Bryan, Mortimer","id":"per.004706"}</field>
+      <field name="person_ss">Owen, Bartholomew</field>
+      <field name="personID_ss">per.004714</field>
+      <field name="personData_ss">{"label":"Owen, Bartholomew","id":"per.004714"}</field>
+      <field name="person_ss">Phillips, Alice</field>
+      <field name="personID_ss">per.004685</field>
+      <field name="personData_ss">{"label":"Phillips, Alice","id":"per.004685"}</field>
+      <field name="person_ss">Phillips, Ewan</field>
+      <field name="personID_ss">per.004728</field>
+      <field name="personData_ss">{"label":"Phillips, Ewan","id":"per.004728"}</field>
+      <field name="person_ss">Powell, William</field>
+      <field name="personID_ss">per.004699</field>
+      <field name="personData_ss">{"label":"Powell, William","id":"per.004699"}</field>
+      <field name="person_ss">Price, Charles</field>
+      <field name="personID_ss">per.004702</field>
+      <field name="personData_ss">{"label":"Price, Charles","id":"per.004702"}</field>
+      <field name="person_ss">Price, Jenken</field>
+      <field name="personID_ss">per.004711</field>
+      <field name="personData_ss">{"label":"Price, Jenken","id":"per.004711"}</field>
+      <field name="person_ss">Rees, John</field>
+      <field name="personID_ss">per.004725</field>
+      <field name="personData_ss">{"label":"Rees, John","id":"per.004725"}</field>
+      <field name="person_ss">Roberts, Grace</field>
+      <field name="personID_ss">per.004688</field>
+      <field name="personData_ss">{"label":"Roberts, Grace","id":"per.004688"}</field>
+      <field name="person_ss">Rousby, Charles</field>
+      <field name="personID_ss">per.004734</field>
+      <field name="personData_ss">{"label":"Rousby, Charles","id":"per.004734"}</field>
+      <field name="person_ss">Saylee, Abraham</field>
+      <field name="personID_ss">per.004695</field>
+      <field name="personData_ss">{"label":"Saylee, Abraham","id":"per.004695"}</field>
+      <field name="person_ss">Shoolevant, Derby</field>
+      <field name="personID_ss">per.004718</field>
+      <field name="personData_ss">{"label":"Shoolevant, Derby","id":"per.004718"}</field>
+      <field name="person_ss">Shoolevant, James</field>
+      <field name="personID_ss">per.004724</field>
+      <field name="personData_ss">{"label":"Shoolevant, James","id":"per.004724"}</field>
+      <field name="person_ss">Shoolevant, Julian</field>
+      <field name="personID_ss">per.004715</field>
+      <field name="personData_ss">{"label":"Shoolevant, Julian","id":"per.004715"}</field>
+      <field name="person_ss">Teag, Sheely</field>
+      <field name="personID_ss">per.004692</field>
+      <field name="personData_ss">{"label":"Teag, Sheely","id":"per.004692"}</field>
+      <field name="person_ss">Thomas, Richard</field>
+      <field name="personID_ss">per.004716</field>
+      <field name="personData_ss">{"label":"Thomas, Richard","id":"per.004716"}</field>
+      <field name="person_ss">Warren, Henry</field>
+      <field name="personID_ss">per.004735</field>
+      <field name="personData_ss">{"label":"Warren, Henry","id":"per.004735"}</field>
+      <field name="person_ss">Watts, Katharine</field>
+      <field name="personID_ss">per.004693</field>
+      <field name="personData_ss">{"label":"Watts, Katharine","id":"per.004693"}</field>
+      <field name="person_ss">Welsh, Julian</field>
+      <field name="personID_ss">per.004694</field>
+      <field name="personData_ss">{"label":"Welsh, Julian","id":"per.004694"}</field>
+      <field name="person_ss">Welsh, Morris</field>
+      <field name="personID_ss">per.004691</field>
+      <field name="personData_ss">{"label":"Welsh, Morris","id":"per.004691"}</field>
+      <field name="person_ss">Young, William</field>
+      <field name="personID_ss">per.004720</field>
+      <field name="personData_ss">{"label":"Young, William","id":"per.004720"}</field>
+      <field name="person_ss">Mahoney, Charles</field>
+      <field name="personID_ss">per.004476</field>
+      <field name="personData_ss">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="person_ss">Ashton, John</field>
+      <field name="personID_ss">per.000215</field>
+      <field name="personData_ss">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="plaintiff_ss">Mahoney, Charles</field>
+      <field name="plaintiffID_ss">per.004476</field>
+      <field name="plaintiffData_ss">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="defendant_ss">Ashton, John</field>
+      <field name="defendantID_ss">per.000215</field>
+      <field name="defendantData_ss">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="sourceTitle_s">Account of Servants Imported into Maryland</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1799-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0481</field>
+      <field name="documentCaseData_ss">{"label":"Charles Mahoney v. John Ashton","id":"oscys.caseid.0481"}</field>
+      <field name="jurisdiction_ss">Maryland. General Court of the Western Shore - Annapolis (Md.)</field>
+      <field name="text"> May the viiith MDCLxviii 1668. Account of servants imported into Maryland upon the ship John and Christian of Bristoll vizt Richard Butler Alice Phillips Jerman Manhoone Teag Mahony Grace Roberts Charles Brown Margrett Couthland Mary Joyce Morris Welsh Sheely Teag Katharine Watts Julian Welsh Abraham Saylee John Brown Junr Dermott Descole Lidia Arundel William Powell Teag Calahone Ellinor Anglen Charles Price Margaret Calahone John Brown George Howell Ann Martin Ruthro Morris Rowland Jones Mortimer O Bryan Bridget Jones Jenken Price Derby Bryan Ann Morris Bartholomew Owen John Kile Richard Thomas Henry Gutheridge Julian Shoolevant Rice Berren William Young Derby Shoolevant Rice Griffith Dennis Holand Daniel Lyne John Rees Daniel Holand James Shoolevant Ewan Phillips Desmond Malihone William Cunisby John Brown Edward Kennedy James Casey Tho: Freeman proves 51 Rights &amp; assigns Charles Calvert Esqr vide Charles Calvert Esqr asst to Jenifer in folio 547. The above said right of land due for the transportation of the said persons here above mentioned were proved. Thomas Freeman to be originally due, to the said Freeman and never yet made use of by him this done before me this tenth day of June MDCLxviii. Charles Calvert I Thomas Freeman do assign all my interest and rights of land due for the transportation of the fifty one persons herein specified to the said Charles Calvert his heirs and assign. Witness my hand this eleventh day of June one thousand six hundred sixty eight. Thomas Freeman Witness Charles Rousby Henry Warren I hereby certify that the above is a true copy from Liber No 11 folio 378, of the records of the land office of The State of Maryland. In Testimony whereof Thereto set my hand and affix the seal of office the twelfth day of february seventeen hundred and ninety eight Jno Callahan Reg Ld Off WS Co 42 L Tob @ 12/6 5/3. 3 1/2 sides Thomas Freeman rights for transportation of 51 persons &amp; Asst to Charles Calvert Esq Ct (Copy) filed 3 June 1799. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0481</field>
+      <field name="person_ss" update="add">Anglen, Ellinor</field>
+      <field name="personID_ss" update="add">per.004701</field>
+      <field name="personData_ss" update="add">{"label":"Anglen, Ellinor","id":"per.004701"}</field>
+      <field name="person_ss" update="add">Arundel, Lidia</field>
+      <field name="personID_ss" update="add">per.004698</field>
+      <field name="personData_ss" update="add">{"label":"Arundel, Lidia","id":"per.004698"}</field>
+      <field name="person_ss" update="add">Baltimore, Charles Calvert, Lord, 1637-1715</field>
+      <field name="personID_ss" update="add">per.004336</field>
+      <field name="personData_ss" update="add">{"label":"Baltimore, Charles Calvert, Lord, 1637-1715","id":"per.004336"}</field>
+      <field name="person_ss" update="add">Berren, Rice</field>
+      <field name="personID_ss" update="add">per.004719</field>
+      <field name="personData_ss" update="add">{"label":"Berren, Rice","id":"per.004719"}</field>
+      <field name="person_ss" update="add">Brown, Charles</field>
+      <field name="personID_ss" update="add">per.004689</field>
+      <field name="personData_ss" update="add">{"label":"Brown, Charles","id":"per.004689"}</field>
+      <field name="person_ss" update="add">Brown, John</field>
+      <field name="personID_ss" update="add">per.004704</field>
+      <field name="personData_ss" update="add">{"label":"Brown, John","id":"per.004704"}</field>
+      <field name="person_ss" update="add">Brown, John</field>
+      <field name="personID_ss" update="add">per.004731</field>
+      <field name="personData_ss" update="add">{"label":"Brown, John","id":"per.004731"}</field>
+      <field name="person_ss" update="add">Brown, John, Jr.</field>
+      <field name="personID_ss" update="add">per.004696</field>
+      <field name="personData_ss" update="add">{"label":"Brown, John, Jr.","id":"per.004696"}</field>
+      <field name="person_ss" update="add">Bryan, Derby</field>
+      <field name="personID_ss" update="add">per.004709</field>
+      <field name="personData_ss" update="add">{"label":"Bryan, Derby","id":"per.004709"}</field>
+      <field name="person_ss" update="add">Butler, Richard</field>
+      <field name="personID_ss" update="add">per.004684</field>
+      <field name="personData_ss" update="add">{"label":"Butler, Richard","id":"per.004684"}</field>
+      <field name="person_ss" update="add">Calahone, Margaret</field>
+      <field name="personID_ss" update="add">per.004755</field>
+      <field name="personData_ss" update="add">{"label":"Calahone, Margaret","id":"per.004755"}</field>
+      <field name="person_ss" update="add">Calahone, Teag</field>
+      <field name="personID_ss" update="add">per.004700</field>
+      <field name="personData_ss" update="add">{"label":"Calahone, Teag","id":"per.004700"}</field>
+      <field name="person_ss" update="add">Callahan, John</field>
+      <field name="personID_ss" update="add">per.004736</field>
+      <field name="personData_ss" update="add">{"label":"Callahan, John","id":"per.004736"}</field>
+      <field name="person_ss" update="add">Casey, James</field>
+      <field name="personID_ss" update="add">per.004730</field>
+      <field name="personData_ss" update="add">{"label":"Casey, James","id":"per.004730"}</field>
+      <field name="person_ss" update="add">Couthland, Margaret</field>
+      <field name="personID_ss" update="add">per.004690</field>
+      <field name="personData_ss" update="add">{"label":"Couthland, Margaret","id":"per.004690"}</field>
+      <field name="person_ss" update="add">Cunisby, William</field>
+      <field name="personID_ss" update="add">per.004727</field>
+      <field name="personData_ss" update="add">{"label":"Cunisby, William","id":"per.004727"}</field>
+      <field name="person_ss" update="add">Descole, Dermott</field>
+      <field name="personID_ss" update="add">per.004697</field>
+      <field name="personData_ss" update="add">{"label":"Descole, Dermott","id":"per.004697"}</field>
+      <field name="person_ss" update="add">Freeman, Thomas</field>
+      <field name="personID_ss" update="add">per.004733</field>
+      <field name="personData_ss" update="add">{"label":"Freeman, Thomas","id":"per.004733"}</field>
+      <field name="person_ss" update="add">Griffith, Rice</field>
+      <field name="personID_ss" update="add">per.004722</field>
+      <field name="personData_ss" update="add">{"label":"Griffith, Rice","id":"per.004722"}</field>
+      <field name="person_ss" update="add">Gutheridge, Henry</field>
+      <field name="personID_ss" update="add">per.004717</field>
+      <field name="personData_ss" update="add">{"label":"Gutheridge, Henry","id":"per.004717"}</field>
+      <field name="person_ss" update="add">Holand, Daniel</field>
+      <field name="personID_ss" update="add">per.004726</field>
+      <field name="personData_ss" update="add">{"label":"Holand, Daniel","id":"per.004726"}</field>
+      <field name="person_ss" update="add">Holand, Dennis</field>
+      <field name="personID_ss" update="add">per.004723</field>
+      <field name="personData_ss" update="add">{"label":"Holand, Dennis","id":"per.004723"}</field>
+      <field name="person_ss" update="add">Howell, George</field>
+      <field name="personID_ss" update="add">per.004705</field>
+      <field name="personData_ss" update="add">{"label":"Howell, George","id":"per.004705"}</field>
+      <field name="person_ss" update="add">Jenifer</field>
+      <field name="personID_ss" update="add">per.004756</field>
+      <field name="personData_ss" update="add">{"label":"Jenifer","id":"per.004756"}</field>
+      <field name="person_ss" update="add">Joice, Ann</field>
+      <field name="personID_ss" update="add">per.004337</field>
+      <field name="personData_ss" update="add">{"label":"Joice, Ann","id":"per.004337"}</field>
+      <field name="person_ss" update="add">Jones, Bridget</field>
+      <field name="personID_ss" update="add">per.004710</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Bridget","id":"per.004710"}</field>
+      <field name="person_ss" update="add">Jones, Rowland</field>
+      <field name="personID_ss" update="add">per.004708</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Rowland","id":"per.004708"}</field>
+      <field name="person_ss" update="add">Kennedy, Edward</field>
+      <field name="personID_ss" update="add">per.004732</field>
+      <field name="personData_ss" update="add">{"label":"Kennedy, Edward","id":"per.004732"}</field>
+      <field name="person_ss" update="add">Kile, John</field>
+      <field name="personID_ss" update="add">per.004712</field>
+      <field name="personData_ss" update="add">{"label":"Kile, John","id":"per.004712"}</field>
+      <field name="person_ss" update="add">Lyne, Daniel</field>
+      <field name="personID_ss" update="add">per.004721</field>
+      <field name="personData_ss" update="add">{"label":"Lyne, Daniel","id":"per.004721"}</field>
+      <field name="person_ss" update="add">Macchoone, Jerum</field>
+      <field name="personID_ss" update="add">per.004686</field>
+      <field name="personData_ss" update="add">{"label":"Macchoone, Jerum","id":"per.004686"}</field>
+      <field name="person_ss" update="add">Mahoney, Teag</field>
+      <field name="personID_ss" update="add">per.004687</field>
+      <field name="personData_ss" update="add">{"label":"Mahoney, Teag","id":"per.004687"}</field>
+      <field name="person_ss" update="add">Malihone, Desmond</field>
+      <field name="personID_ss" update="add">per.004729</field>
+      <field name="personData_ss" update="add">{"label":"Malihone, Desmond","id":"per.004729"}</field>
+      <field name="person_ss" update="add">Martin, Ann</field>
+      <field name="personID_ss" update="add">per.004703</field>
+      <field name="personData_ss" update="add">{"label":"Martin, Ann","id":"per.004703"}</field>
+      <field name="person_ss" update="add">Morris, Ann</field>
+      <field name="personID_ss" update="add">per.004713</field>
+      <field name="personData_ss" update="add">{"label":"Morris, Ann","id":"per.004713"}</field>
+      <field name="person_ss" update="add">Morris, Ruthro</field>
+      <field name="personID_ss" update="add">per.004707</field>
+      <field name="personData_ss" update="add">{"label":"Morris, Ruthro","id":"per.004707"}</field>
+      <field name="person_ss" update="add">O'Bryan, Mortimer</field>
+      <field name="personID_ss" update="add">per.004706</field>
+      <field name="personData_ss" update="add">{"label":"O'Bryan, Mortimer","id":"per.004706"}</field>
+      <field name="person_ss" update="add">Owen, Bartholomew</field>
+      <field name="personID_ss" update="add">per.004714</field>
+      <field name="personData_ss" update="add">{"label":"Owen, Bartholomew","id":"per.004714"}</field>
+      <field name="person_ss" update="add">Phillips, Alice</field>
+      <field name="personID_ss" update="add">per.004685</field>
+      <field name="personData_ss" update="add">{"label":"Phillips, Alice","id":"per.004685"}</field>
+      <field name="person_ss" update="add">Phillips, Ewan</field>
+      <field name="personID_ss" update="add">per.004728</field>
+      <field name="personData_ss" update="add">{"label":"Phillips, Ewan","id":"per.004728"}</field>
+      <field name="person_ss" update="add">Powell, William</field>
+      <field name="personID_ss" update="add">per.004699</field>
+      <field name="personData_ss" update="add">{"label":"Powell, William","id":"per.004699"}</field>
+      <field name="person_ss" update="add">Price, Charles</field>
+      <field name="personID_ss" update="add">per.004702</field>
+      <field name="personData_ss" update="add">{"label":"Price, Charles","id":"per.004702"}</field>
+      <field name="person_ss" update="add">Price, Jenken</field>
+      <field name="personID_ss" update="add">per.004711</field>
+      <field name="personData_ss" update="add">{"label":"Price, Jenken","id":"per.004711"}</field>
+      <field name="person_ss" update="add">Rees, John</field>
+      <field name="personID_ss" update="add">per.004725</field>
+      <field name="personData_ss" update="add">{"label":"Rees, John","id":"per.004725"}</field>
+      <field name="person_ss" update="add">Roberts, Grace</field>
+      <field name="personID_ss" update="add">per.004688</field>
+      <field name="personData_ss" update="add">{"label":"Roberts, Grace","id":"per.004688"}</field>
+      <field name="person_ss" update="add">Rousby, Charles</field>
+      <field name="personID_ss" update="add">per.004734</field>
+      <field name="personData_ss" update="add">{"label":"Rousby, Charles","id":"per.004734"}</field>
+      <field name="person_ss" update="add">Saylee, Abraham</field>
+      <field name="personID_ss" update="add">per.004695</field>
+      <field name="personData_ss" update="add">{"label":"Saylee, Abraham","id":"per.004695"}</field>
+      <field name="person_ss" update="add">Shoolevant, Derby</field>
+      <field name="personID_ss" update="add">per.004718</field>
+      <field name="personData_ss" update="add">{"label":"Shoolevant, Derby","id":"per.004718"}</field>
+      <field name="person_ss" update="add">Shoolevant, James</field>
+      <field name="personID_ss" update="add">per.004724</field>
+      <field name="personData_ss" update="add">{"label":"Shoolevant, James","id":"per.004724"}</field>
+      <field name="person_ss" update="add">Shoolevant, Julian</field>
+      <field name="personID_ss" update="add">per.004715</field>
+      <field name="personData_ss" update="add">{"label":"Shoolevant, Julian","id":"per.004715"}</field>
+      <field name="person_ss" update="add">Teag, Sheely</field>
+      <field name="personID_ss" update="add">per.004692</field>
+      <field name="personData_ss" update="add">{"label":"Teag, Sheely","id":"per.004692"}</field>
+      <field name="person_ss" update="add">Thomas, Richard</field>
+      <field name="personID_ss" update="add">per.004716</field>
+      <field name="personData_ss" update="add">{"label":"Thomas, Richard","id":"per.004716"}</field>
+      <field name="person_ss" update="add">Warren, Henry</field>
+      <field name="personID_ss" update="add">per.004735</field>
+      <field name="personData_ss" update="add">{"label":"Warren, Henry","id":"per.004735"}</field>
+      <field name="person_ss" update="add">Watts, Katharine</field>
+      <field name="personID_ss" update="add">per.004693</field>
+      <field name="personData_ss" update="add">{"label":"Watts, Katharine","id":"per.004693"}</field>
+      <field name="person_ss" update="add">Welsh, Julian</field>
+      <field name="personID_ss" update="add">per.004694</field>
+      <field name="personData_ss" update="add">{"label":"Welsh, Julian","id":"per.004694"}</field>
+      <field name="person_ss" update="add">Welsh, Morris</field>
+      <field name="personID_ss" update="add">per.004691</field>
+      <field name="personData_ss" update="add">{"label":"Welsh, Morris","id":"per.004691"}</field>
+      <field name="person_ss" update="add">Young, William</field>
+      <field name="personID_ss" update="add">per.004720</field>
+      <field name="personData_ss" update="add">{"label":"Young, William","id":"per.004720"}</field>
+      <field name="person_ss" update="add">Mahoney, Charles</field>
+      <field name="personID_ss" update="add">per.004476</field>
+      <field name="personData_ss" update="add">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="person_ss" update="add">Ashton, John</field>
+      <field name="personID_ss" update="add">per.000215</field>
+      <field name="personData_ss" update="add">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="plaintiff_ss" update="add">Mahoney, Charles</field>
+      <field name="plaintiffID_ss" update="add">per.004476</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Mahoney, Charles","id":"per.004476"}</field>
+      <field name="defendant_ss" update="add">Ashton, John</field>
+      <field name="defendantID_ss" update="add">per.000215</field>
+      <field name="defendantData_ss" update="add">{"label":"Ashton, John","id":"per.000215"}</field>
+      <field name="jurisdiction_ss" update="add">Maryland. General Court of the Western Shore - Annapolis (Md.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.mdcase.0008.044</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Charles Mahoney v. John Ashton. Account of Servants Imported into Maryland (June 3, 1799)","date":"1799-06-03","dateDisplay":"June 3, 1799","id":"oscys.mdcase.0008.044"}</field>
+   </doc>
+</add>

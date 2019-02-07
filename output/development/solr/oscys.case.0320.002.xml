@@ -1,0 +1,105 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0320.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0320.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0320.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0320.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Mary Jane Jones v. Peter Hewitt. Petition for Freedom</field>
+      <field name="titleSort" update="add">mary jane jones v. peter hewitt. petition for freedom</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="contributor"/>
+      <field name="date">1856-12-20T00:00:00Z</field>
+      <field name="dateDisplay">December 20, 1856</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 854, Folder 478</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Jones, Mary Jane</field>
+      <field name="people">Hewitt, Peter</field>
+      <field name="people">Martin, William J.</field>
+      <field name="people">Peters, John A.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Jones, Mary Jane</field>
+      <field name="personID_ss">per.002394</field>
+      <field name="personData_ss">{"label":"Jones, Mary Jane","id":"per.002394"}</field>
+      <field name="person_ss">Hewitt, Peter</field>
+      <field name="personID_ss">per.002395</field>
+      <field name="personData_ss">{"label":"Hewitt, Peter","id":"per.002395"}</field>
+      <field name="person_ss">Martin, William J.</field>
+      <field name="personID_ss">per.002396</field>
+      <field name="personData_ss">{"label":"Martin, William J.","id":"per.002396"}</field>
+      <field name="person_ss">Peters, John A.</field>
+      <field name="personID_ss">per.002397</field>
+      <field name="personData_ss">{"label":"Peters, John A.","id":"per.002397"}</field>
+      <field name="plaintiff_ss">Jones, Mary Jane</field>
+      <field name="plaintiffID_ss">per.002394</field>
+      <field name="plaintiffData_ss">{"label":"Jones, Mary Jane","id":"per.002394"}</field>
+      <field name="defendant_ss">Hewitt, Peter</field>
+      <field name="defendantID_ss">per.002395</field>
+      <field name="defendantData_ss">{"label":"Hewitt, Peter","id":"per.002395"}</field>
+      <field name="attorneyP_ss">Martin, William J.</field>
+      <field name="attorneyPID_ss">per.002396</field>
+      <field name="attorneyPData_ss">{"label":"Martin, William J.","id":"per.002396"}</field>
+      <field name="attorney_ss">Martin, William J.</field>
+      <field name="attorneyID_ss">per.002396</field>
+      <field name="attorneyData_ss">{"label":"Martin, William J.","id":"per.002396"}</field>
+      <field name="attorneyP_ss">Peters, John A.</field>
+      <field name="attorneyPID_ss">per.002397</field>
+      <field name="attorneyPData_ss">{"label":"Peters, John A.","id":"per.002397"}</field>
+      <field name="attorney_ss">Peters, John A.</field>
+      <field name="attorneyID_ss">per.002397</field>
+      <field name="attorneyData_ss">{"label":"Peters, John A.","id":"per.002397"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1858-01</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0321</field>
+      <field name="documentCaseData_ss">{"label":"Mary Jane Jones v. Peter Hewitt","id":"oscys.caseid.0321"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court, for the County of Washington, District of Columbia The petition of Mary Jane Jones respectfully represents that she is unjustly detained in servitu servitude by Charles Peter Hewitt of the County and District aforesaid Whereupon she prays that the same may be enquired of by your Honors. and such relief granted her as to your Honors may seem right and proper and as in duty bound your petitioner will ever pray &amp;c Martin &amp; Peters Counsel for Petitioner 43. Petition of Mary Jane Jones for freedom The clerk will please file the writ and file the within petition Martin &amp; Peters Filed 20: Decr. 1856 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0321</field>
+      <field name="person_ss" update="add">Jones, Mary Jane</field>
+      <field name="personID_ss" update="add">per.002394</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Mary Jane","id":"per.002394"}</field>
+      <field name="person_ss" update="add">Hewitt, Peter</field>
+      <field name="personID_ss" update="add">per.002395</field>
+      <field name="personData_ss" update="add">{"label":"Hewitt, Peter","id":"per.002395"}</field>
+      <field name="person_ss" update="add">Martin, William J.</field>
+      <field name="personID_ss" update="add">per.002396</field>
+      <field name="personData_ss" update="add">{"label":"Martin, William J.","id":"per.002396"}</field>
+      <field name="person_ss" update="add">Peters, John A.</field>
+      <field name="personID_ss" update="add">per.002397</field>
+      <field name="personData_ss" update="add">{"label":"Peters, John A.","id":"per.002397"}</field>
+      <field name="plaintiff_ss" update="add">Jones, Mary Jane</field>
+      <field name="plaintiffID_ss" update="add">per.002394</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jones, Mary Jane","id":"per.002394"}</field>
+      <field name="defendant_ss" update="add">Hewitt, Peter</field>
+      <field name="defendantID_ss" update="add">per.002395</field>
+      <field name="defendantData_ss" update="add">{"label":"Hewitt, Peter","id":"per.002395"}</field>
+      <field name="attorneyP_ss" update="add">Martin, William J.</field>
+      <field name="attorneyPID_ss" update="add">per.002396</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Martin, William J.","id":"per.002396"}</field>
+      <field name="attorney_ss" update="add">Martin, William J.</field>
+      <field name="attorneyID_ss" update="add">per.002396</field>
+      <field name="attorneyData_ss" update="add">{"label":"Martin, William J.","id":"per.002396"}</field>
+      <field name="attorneyP_ss" update="add">Peters, John A.</field>
+      <field name="attorneyPID_ss" update="add">per.002397</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Peters, John A.","id":"per.002397"}</field>
+      <field name="attorney_ss" update="add">Peters, John A.</field>
+      <field name="attorneyID_ss" update="add">per.002397</field>
+      <field name="attorneyData_ss" update="add">{"label":"Peters, John A.","id":"per.002397"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0320.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Mary Jane Jones v. Peter Hewitt. Petition for Freedom (December 20, 1856)","date":"1856-12-20","dateDisplay":"December 20, 1856","id":"oscys.case.0320.002"}</field>
+   </doc>
+</add>

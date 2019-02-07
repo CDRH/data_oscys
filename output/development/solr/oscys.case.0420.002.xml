@@ -1,0 +1,87 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0420.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0420.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0420.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0420.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ex Parte Rebecca Jackson &amp; Arnold Jackson. Warrant of Arnold Jackson</field>
+      <field name="titleSort" update="add">ex parte rebecca jackson &amp; arnold jackson. warrant of arnold jackson</field>
+      <field name="titleLetter_s" update="add">e</field>
+      <field name="contributor"/>
+      <field name="date">1837-01-18T00:00:00Z</field>
+      <field name="dateDisplay">January 18, 1837</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Warrant</field>
+      <field name="people">Keene, Newton</field>
+      <field name="people">Talsapaugh, Henry</field>
+      <field name="people">West, Arthur</field>
+      <field name="people">Jackson, Arnold</field>
+      <field name="people">Jackson, Rebecca</field>
+      <field name="places">Alexandria (Va.)</field>
+      <field name="person_ss">Keene, Newton</field>
+      <field name="personID_ss">per.003453</field>
+      <field name="personData_ss">{"label":"Keene, Newton","id":"per.003453"}</field>
+      <field name="person_ss">Talsapaugh, Henry</field>
+      <field name="personID_ss">per.003456</field>
+      <field name="personData_ss">{"label":"Talsapaugh, Henry","id":"per.003456"}</field>
+      <field name="person_ss">West, Arthur</field>
+      <field name="personID_ss">per.003457</field>
+      <field name="personData_ss">{"label":"West, Arthur","id":"per.003457"}</field>
+      <field name="person_ss">Jackson, Arnold</field>
+      <field name="personID_ss">per.003454</field>
+      <field name="personData_ss">{"label":"Jackson, Arnold","id":"per.003454"}</field>
+      <field name="person_ss">Jackson, Rebecca</field>
+      <field name="personID_ss">per.003455</field>
+      <field name="personData_ss">{"label":"Jackson, Rebecca","id":"per.003455"}</field>
+      <field name="plaintiff_ss">Jackson, Arnold</field>
+      <field name="plaintiffID_ss">per.003454</field>
+      <field name="plaintiffData_ss">{"label":"Jackson, Arnold","id":"per.003454"}</field>
+      <field name="plaintiff_ss">Jackson, Rebecca</field>
+      <field name="plaintiffID_ss">per.003455</field>
+      <field name="plaintiffData_ss">{"label":"Jackson, Rebecca","id":"per.003455"}</field>
+      <field name="sourceTitle_s">Warrant</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1837-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0448</field>
+      <field name="documentCaseData_ss">{"label":"Ex parte Rebecca Jackson &amp; Arnold Jackson","id":"oscys.caseid.0448"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> To the Keeper of the Jail For the County of Alexandria Receive unto your Jail &amp; Custody a Dark mulatto Boy calling himself Arnold Jackson brought before me by Henry Talsapaugh Supposed to be a Runaway &amp; him the said Arnold Jackson safely keep until Discharged by due Course of Law. Given under my hand this 18th day of January 1837 Newton Keene J Peace Belongs to Arthur West Andrew Jackson Arnold </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0448</field>
+      <field name="person_ss" update="add">Keene, Newton</field>
+      <field name="personID_ss" update="add">per.003453</field>
+      <field name="personData_ss" update="add">{"label":"Keene, Newton","id":"per.003453"}</field>
+      <field name="person_ss" update="add">Talsapaugh, Henry</field>
+      <field name="personID_ss" update="add">per.003456</field>
+      <field name="personData_ss" update="add">{"label":"Talsapaugh, Henry","id":"per.003456"}</field>
+      <field name="person_ss" update="add">West, Arthur</field>
+      <field name="personID_ss" update="add">per.003457</field>
+      <field name="personData_ss" update="add">{"label":"West, Arthur","id":"per.003457"}</field>
+      <field name="person_ss" update="add">Jackson, Arnold</field>
+      <field name="personID_ss" update="add">per.003454</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Arnold","id":"per.003454"}</field>
+      <field name="person_ss" update="add">Jackson, Rebecca</field>
+      <field name="personID_ss" update="add">per.003455</field>
+      <field name="personData_ss" update="add">{"label":"Jackson, Rebecca","id":"per.003455"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Arnold</field>
+      <field name="plaintiffID_ss" update="add">per.003454</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Arnold","id":"per.003454"}</field>
+      <field name="plaintiff_ss" update="add">Jackson, Rebecca</field>
+      <field name="plaintiffID_ss" update="add">per.003455</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Jackson, Rebecca","id":"per.003455"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0420.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Ex Parte Rebecca Jackson &amp; Arnold Jackson. Warrant of Arnold Jackson (January 18, 1837)","date":"1837-01-18","dateDisplay":"January 18, 1837","id":"oscys.case.0420.002"}</field>
+   </doc>
+</add>

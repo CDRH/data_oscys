@@ -1,0 +1,144 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0017.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0017.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0017.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0017.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Letitia Davis v. Rebecca Forrest. Summons of John Rabbit</field>
+      <field name="titleSort" update="add">letitia davis v. rebecca forrest. summons of john rabbit</field>
+      <field name="titleLetter_s" update="add">l</field>
+      <field name="contributor"/>
+      <field name="date">1811-06-04T00:00:00Z</field>
+      <field name="dateDisplay">June 4, 1811</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 39, Folder 218</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Crook, Samuel</field>
+      <field name="people">Dorsey, Owen</field>
+      <field name="people">Rabbit, John</field>
+      <field name="people">Rutter, Thomas</field>
+      <field name="people">Talbot, Jesse</field>
+      <field name="people">Davis, Letitia</field>
+      <field name="people">Davis, Rachel</field>
+      <field name="people">Davis, Henry</field>
+      <field name="people">Forrest, Rebecca</field>
+      <field name="places">Baltimore County (Md.)</field>
+      <field name="places">Montgomery County (Md.)</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Crook, Samuel</field>
+      <field name="personID_ss">per.000154</field>
+      <field name="personData_ss">{"label":"Crook, Samuel","id":"per.000154"}</field>
+      <field name="person_ss">Dorsey, Owen</field>
+      <field name="personID_ss">per.000155</field>
+      <field name="personData_ss">{"label":"Dorsey, Owen","id":"per.000155"}</field>
+      <field name="person_ss">Rabbit, John</field>
+      <field name="personID_ss">per.000156</field>
+      <field name="personData_ss">{"label":"Rabbit, John","id":"per.000156"}</field>
+      <field name="person_ss">Rutter, Thomas</field>
+      <field name="personID_ss">per.000157</field>
+      <field name="personData_ss">{"label":"Rutter, Thomas","id":"per.000157"}</field>
+      <field name="person_ss">Talbot, Jesse</field>
+      <field name="personID_ss">per.000158</field>
+      <field name="personData_ss">{"label":"Talbot, Jesse","id":"per.000158"}</field>
+      <field name="person_ss">Davis, Letitia</field>
+      <field name="personID_ss">per.000150</field>
+      <field name="personData_ss">{"label":"Davis, Letitia","id":"per.000150"}</field>
+      <field name="person_ss">Davis, Rachel</field>
+      <field name="personID_ss">per.000151</field>
+      <field name="personData_ss">{"label":"Davis, Rachel","id":"per.000151"}</field>
+      <field name="person_ss">Davis, Henry</field>
+      <field name="personID_ss">per.000152</field>
+      <field name="personData_ss">{"label":"Davis, Henry","id":"per.000152"}</field>
+      <field name="person_ss">Forrest, Rebecca</field>
+      <field name="personID_ss">per.000153</field>
+      <field name="personData_ss">{"label":"Forrest, Rebecca","id":"per.000153"}</field>
+      <field name="plaintiff_ss">Davis, Letitia</field>
+      <field name="plaintiffID_ss">per.000150</field>
+      <field name="plaintiffData_ss">{"label":"Davis, Letitia","id":"per.000150"}</field>
+      <field name="plaintiff_ss">Davis, Rachel</field>
+      <field name="plaintiffID_ss">per.000151</field>
+      <field name="plaintiffData_ss">{"label":"Davis, Rachel","id":"per.000151"}</field>
+      <field name="plaintiff_ss">Davis, Henry</field>
+      <field name="plaintiffID_ss">per.000152</field>
+      <field name="plaintiffData_ss">{"label":"Davis, Henry","id":"per.000152"}</field>
+      <field name="defendant_ss">Forrest, Rebecca</field>
+      <field name="defendantID_ss">per.000153</field>
+      <field name="defendantData_ss">{"label":"Forrest, Rebecca","id":"per.000153"}</field>
+      <field name="sourceTitle_s">Summons of John Rabbit</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1811-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0017</field>
+      <field name="documentCaseData_ss">{"label":"Letitia Davis, Rachel Davis, &amp; Henry Davis v. Rebecca Forrest","id":"oscys.caseid.0017"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> District of Columbia, to wit. The United States of America To the Marshal of the District of Columbia, Greeting. You are hereby commanded to summon John Rabbit if he shall be found in the county of Washington, that (all excuses set aside) he be and appear before the circuit court of the District of Columbia to be held for the county of Washington at the city of Washington on the fourteenth day of June instant to testify on the part of Letitia Davis and Children against Rebecca Forrest. Hereof fail not at your peril. And have you then and there this precept Witness Wm Cranch esquire, chief Judge of the said court. Issued this fourth day of June 1811. Wm Brent Clk Baltimore County ss On the sixth day of June 1811 before me the subscriber one of the Justices of the Peace for said County personally appeared Jesse Talbot and did solemnly declare and affirm that he this day served the original Summons of which the above is a true Copy on Thomas Rutter Esquire Marshal of Maryland Owen Dorsey Letitia Davis &amp; Children vs Rebecca Forrest Sumd John Rabbit near Montgomery Court House Single Sheet only Samuel Crook Treasurers office Washington District of Columbia 219. John Rabbit sumd </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0017</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Crook, Samuel</field>
+      <field name="personID_ss" update="add">per.000154</field>
+      <field name="personData_ss" update="add">{"label":"Crook, Samuel","id":"per.000154"}</field>
+      <field name="person_ss" update="add">Dorsey, Owen</field>
+      <field name="personID_ss" update="add">per.000155</field>
+      <field name="personData_ss" update="add">{"label":"Dorsey, Owen","id":"per.000155"}</field>
+      <field name="person_ss" update="add">Rabbit, John</field>
+      <field name="personID_ss" update="add">per.000156</field>
+      <field name="personData_ss" update="add">{"label":"Rabbit, John","id":"per.000156"}</field>
+      <field name="person_ss" update="add">Rutter, Thomas</field>
+      <field name="personID_ss" update="add">per.000157</field>
+      <field name="personData_ss" update="add">{"label":"Rutter, Thomas","id":"per.000157"}</field>
+      <field name="person_ss" update="add">Talbot, Jesse</field>
+      <field name="personID_ss" update="add">per.000158</field>
+      <field name="personData_ss" update="add">{"label":"Talbot, Jesse","id":"per.000158"}</field>
+      <field name="person_ss" update="add">Davis, Letitia</field>
+      <field name="personID_ss" update="add">per.000150</field>
+      <field name="personData_ss" update="add">{"label":"Davis, Letitia","id":"per.000150"}</field>
+      <field name="person_ss" update="add">Davis, Rachel</field>
+      <field name="personID_ss" update="add">per.000151</field>
+      <field name="personData_ss" update="add">{"label":"Davis, Rachel","id":"per.000151"}</field>
+      <field name="person_ss" update="add">Davis, Henry</field>
+      <field name="personID_ss" update="add">per.000152</field>
+      <field name="personData_ss" update="add">{"label":"Davis, Henry","id":"per.000152"}</field>
+      <field name="person_ss" update="add">Forrest, Rebecca</field>
+      <field name="personID_ss" update="add">per.000153</field>
+      <field name="personData_ss" update="add">{"label":"Forrest, Rebecca","id":"per.000153"}</field>
+      <field name="plaintiff_ss" update="add">Davis, Letitia</field>
+      <field name="plaintiffID_ss" update="add">per.000150</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Davis, Letitia","id":"per.000150"}</field>
+      <field name="plaintiff_ss" update="add">Davis, Rachel</field>
+      <field name="plaintiffID_ss" update="add">per.000151</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Davis, Rachel","id":"per.000151"}</field>
+      <field name="plaintiff_ss" update="add">Davis, Henry</field>
+      <field name="plaintiffID_ss" update="add">per.000152</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Davis, Henry","id":"per.000152"}</field>
+      <field name="defendant_ss" update="add">Forrest, Rebecca</field>
+      <field name="defendantID_ss" update="add">per.000153</field>
+      <field name="defendantData_ss" update="add">{"label":"Forrest, Rebecca","id":"per.000153"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0017.002</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Letitia Davis v. Rebecca Forrest. Summons of John Rabbit (June 4, 1811)","date":"1811-06-04","dateDisplay":"June 4, 1811","id":"oscys.case.0017.002"}</field>
+   </doc>
+</add>

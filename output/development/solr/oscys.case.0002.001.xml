@@ -1,0 +1,100 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0002.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0002.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0002.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0002.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Sally Shorter v. Thomas Corcoran. Petition for Freedom</field>
+      <field name="titleSort" update="add">sally shorter v. thomas corcoran. petition for freedom</field>
+      <field name="titleLetter_s" update="add">s</field>
+      <field name="contributor"/>
+      <field name="date">1808-07-01T00:00:00Z</field>
+      <field name="dateDisplay">July 1, 1808</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 2, Folder 18</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Shorter, Ann</field>
+      <field name="people">Shorter, Sally</field>
+      <field name="people">Corcoran, Thomas</field>
+      <field name="people">Hiort, Henry</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Shorter, Ann</field>
+      <field name="personID_ss">per.000008</field>
+      <field name="personData_ss">{"label":"Shorter, Ann","id":"per.000008"}</field>
+      <field name="person_ss">Shorter, Sally</field>
+      <field name="personID_ss">per.000009</field>
+      <field name="personData_ss">{"label":"Shorter, Sally","id":"per.000009"}</field>
+      <field name="person_ss">Corcoran, Thomas</field>
+      <field name="personID_ss">per.000010</field>
+      <field name="personData_ss">{"label":"Corcoran, Thomas","id":"per.000010"}</field>
+      <field name="person_ss">Hiort, Henry</field>
+      <field name="personID_ss">per.000011</field>
+      <field name="personData_ss">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="plaintiff_ss">Shorter, Sally</field>
+      <field name="plaintiffID_ss">per.000009</field>
+      <field name="plaintiffData_ss">{"label":"Shorter, Sally","id":"per.000009"}</field>
+      <field name="defendant_ss">Corcoran, Thomas</field>
+      <field name="defendantID_ss">per.000010</field>
+      <field name="defendantData_ss">{"label":"Corcoran, Thomas","id":"per.000010"}</field>
+      <field name="attorneyP_ss">Hiort, Henry</field>
+      <field name="attorneyPID_ss">per.000011</field>
+      <field name="attorneyPData_ss">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="attorney_ss">Hiort, Henry</field>
+      <field name="attorneyID_ss">per.000011</field>
+      <field name="attorneyData_ss">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1808-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0002</field>
+      <field name="documentCaseData_ss">{"label":"Sally Shorter v. Thomas Corcoran","id":"oscys.caseid.0002"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble The Judges of The Circuit Court of the District of Columbia, for the County of Washington. The humble Petition of Ann Shorter on behalf of her Daughter Sally. Humbly Sheweth, That Your Petitioners Daughter is detained in Slavery, by a certain Thomas Corcoran; She therefore prays that the regular process may issue, so that Your Petitioner for her Child may be enabled to Assert her right to freedom. And Your Petitioner will ever pray. H: Hiort for the Petr 28 June 1808. 18 Ann Shorter on behalf of Sally vs Thos Corcoran Pn. Mr Brent will be pleased to Issue sbpoena H: Hiort Filed 1th July 1808. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0002</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Shorter, Ann</field>
+      <field name="personID_ss" update="add">per.000008</field>
+      <field name="personData_ss" update="add">{"label":"Shorter, Ann","id":"per.000008"}</field>
+      <field name="person_ss" update="add">Shorter, Sally</field>
+      <field name="personID_ss" update="add">per.000009</field>
+      <field name="personData_ss" update="add">{"label":"Shorter, Sally","id":"per.000009"}</field>
+      <field name="person_ss" update="add">Corcoran, Thomas</field>
+      <field name="personID_ss" update="add">per.000010</field>
+      <field name="personData_ss" update="add">{"label":"Corcoran, Thomas","id":"per.000010"}</field>
+      <field name="person_ss" update="add">Hiort, Henry</field>
+      <field name="personID_ss" update="add">per.000011</field>
+      <field name="personData_ss" update="add">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="plaintiff_ss" update="add">Shorter, Sally</field>
+      <field name="plaintiffID_ss" update="add">per.000009</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Shorter, Sally","id":"per.000009"}</field>
+      <field name="defendant_ss" update="add">Corcoran, Thomas</field>
+      <field name="defendantID_ss" update="add">per.000010</field>
+      <field name="defendantData_ss" update="add">{"label":"Corcoran, Thomas","id":"per.000010"}</field>
+      <field name="attorneyP_ss" update="add">Hiort, Henry</field>
+      <field name="attorneyPID_ss" update="add">per.000011</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="attorney_ss" update="add">Hiort, Henry</field>
+      <field name="attorneyID_ss" update="add">per.000011</field>
+      <field name="attorneyData_ss" update="add">{"label":"Hiort, Henry","id":"per.000011"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0002.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Sally Shorter v. Thomas Corcoran. Petition for Freedom (July 1, 1808)","date":"1808-07-01","dateDisplay":"July 1, 1808","id":"oscys.case.0002.001"}</field>
+   </doc>
+</add>

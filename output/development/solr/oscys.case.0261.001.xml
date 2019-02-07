@@ -1,0 +1,178 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0261.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0261.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0261.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0261.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Nan v. Daniel Moxley, Elizabeth Crow, Edward Edelin, &amp; Harriet Beans. Petition for Freedom</field>
+      <field name="titleSort" update="add">nan v. daniel moxley, elizabeth crow, edward edelin, &amp; harriet beans. petition for freedom</field>
+      <field name="titleLetter_s" update="add">n</field>
+      <field name="contributor"/>
+      <field name="date">1809-01-16T00:00:00Z</field>
+      <field name="dateDisplay">January 16, 1809</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 10, Folder 40</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Charles</field>
+      <field name="people">Eliza</field>
+      <field name="people">Juda</field>
+      <field name="people">Nan</field>
+      <field name="people">Stephen</field>
+      <field name="people">Beans, Harriet</field>
+      <field name="people">Crow, Elizabeth</field>
+      <field name="people">Edelin, Edward</field>
+      <field name="people">Moxley, Daniel</field>
+      <field name="people">Key, Francis Scott, 1779-1843</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Charles</field>
+      <field name="personID_ss">per.002118</field>
+      <field name="personData_ss">{"label":"Charles","id":"per.002118"}</field>
+      <field name="person_ss">Eliza</field>
+      <field name="personID_ss">per.002119</field>
+      <field name="personData_ss">{"label":"Eliza","id":"per.002119"}</field>
+      <field name="person_ss">Juda</field>
+      <field name="personID_ss">per.002120</field>
+      <field name="personData_ss">{"label":"Juda","id":"per.002120"}</field>
+      <field name="person_ss">Nan</field>
+      <field name="personID_ss">per.002121</field>
+      <field name="personData_ss">{"label":"Nan","id":"per.002121"}</field>
+      <field name="person_ss">Stephen</field>
+      <field name="personID_ss">per.002122</field>
+      <field name="personData_ss">{"label":"Stephen","id":"per.002122"}</field>
+      <field name="person_ss">Beans, Harriet</field>
+      <field name="personID_ss">per.002123</field>
+      <field name="personData_ss">{"label":"Beans, Harriet","id":"per.002123"}</field>
+      <field name="person_ss">Crow, Elizabeth</field>
+      <field name="personID_ss">per.002124</field>
+      <field name="personData_ss">{"label":"Crow, Elizabeth","id":"per.002124"}</field>
+      <field name="person_ss">Edelin, Edward</field>
+      <field name="personID_ss">per.002125</field>
+      <field name="personData_ss">{"label":"Edelin, Edward","id":"per.002125"}</field>
+      <field name="person_ss">Moxley, Daniel</field>
+      <field name="personID_ss">per.002126</field>
+      <field name="personData_ss">{"label":"Moxley, Daniel","id":"per.002126"}</field>
+      <field name="person_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss">per.000001</field>
+      <field name="personData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss">Eliza</field>
+      <field name="plaintiffID_ss">per.002119</field>
+      <field name="plaintiffData_ss">{"label":"Eliza","id":"per.002119"}</field>
+      <field name="plaintiff_ss">Juda</field>
+      <field name="plaintiffID_ss">per.002120</field>
+      <field name="plaintiffData_ss">{"label":"Juda","id":"per.002120"}</field>
+      <field name="plaintiff_ss">Nan</field>
+      <field name="plaintiffID_ss">per.002121</field>
+      <field name="plaintiffData_ss">{"label":"Nan","id":"per.002121"}</field>
+      <field name="plaintiff_ss">Stephen</field>
+      <field name="plaintiffID_ss">per.002122</field>
+      <field name="plaintiffData_ss">{"label":"Stephen","id":"per.002122"}</field>
+      <field name="defendant_ss">Beans, Harriet</field>
+      <field name="defendantID_ss">per.002123</field>
+      <field name="defendantData_ss">{"label":"Beans, Harriet","id":"per.002123"}</field>
+      <field name="defendant_ss">Crow, Elizabeth</field>
+      <field name="defendantID_ss">per.002124</field>
+      <field name="defendantData_ss">{"label":"Crow, Elizabeth","id":"per.002124"}</field>
+      <field name="defendant_ss">Edelin, Edward</field>
+      <field name="defendantID_ss">per.002125</field>
+      <field name="defendantData_ss">{"label":"Edelin, Edward","id":"per.002125"}</field>
+      <field name="defendant_ss">Moxley, Daniel</field>
+      <field name="defendantID_ss">per.002126</field>
+      <field name="defendantData_ss">{"label":"Moxley, Daniel","id":"per.002126"}</field>
+      <field name="attorneyP_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss">per.000001</field>
+      <field name="attorneyPData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss">per.000001</field>
+      <field name="attorneyData_ss">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1809-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0261</field>
+      <field name="documentCaseData_ss">{"label":"Nan, Eliza, Juda, &amp; Stephen v. Daniel Moxley, Elizabeth Crow, Edward Edelin, &amp; Harriet Beans","id":"oscys.caseid.0261"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honble the Judges of the Circuit Court of the District of Columbia for the County of Washington The Petition of Negro Charles and Nan his wife and Eliza Juda &amp; Stephen her children by the said Charles their next friend all of Washington County aforesaid humbly sheweth that your said Petitioners Nan &amp; her said Children are unjustly &amp; illegally held in bondage by a certain Daniel Moxley Elizabeth Crow Edward Edelin &amp; Harriet Beans of said county who claim your said Petitioners as Slaves; that your Petitioners are free &amp; by law are entitled to their freedom &amp; to be discharged from the said defendants, which they are ready to make appear to your Honors. Wherefore they pray a subpoena to the said Defts. directed that they may appear &amp; answer here unto &amp; that such proceeding may take place as your Honors may direct in the premises agreeably to the laws in such cases provied &amp;c. F S Key for Petrs. 16 Jany 1809 Appeared before me in open Court the above named Petr. Charles &amp; made oath that he had just ground to apprehend &amp; does truly believe that the Petrs. his wife &amp; children above named are about to be removed by the persons claiming them without the District of Columbia Sworn to in open Court. Wm Brent Clk 72 205 Trials 40. Nan &amp; others vs Moxley, Crow &amp; others Petn. Mr Brent File it &amp; issue sbpna (with leave of the Court) retble. immediately. Yrs F S Key filed 16th Jany 1809. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0261</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Charles</field>
+      <field name="personID_ss" update="add">per.002118</field>
+      <field name="personData_ss" update="add">{"label":"Charles","id":"per.002118"}</field>
+      <field name="person_ss" update="add">Eliza</field>
+      <field name="personID_ss" update="add">per.002119</field>
+      <field name="personData_ss" update="add">{"label":"Eliza","id":"per.002119"}</field>
+      <field name="person_ss" update="add">Juda</field>
+      <field name="personID_ss" update="add">per.002120</field>
+      <field name="personData_ss" update="add">{"label":"Juda","id":"per.002120"}</field>
+      <field name="person_ss" update="add">Nan</field>
+      <field name="personID_ss" update="add">per.002121</field>
+      <field name="personData_ss" update="add">{"label":"Nan","id":"per.002121"}</field>
+      <field name="person_ss" update="add">Stephen</field>
+      <field name="personID_ss" update="add">per.002122</field>
+      <field name="personData_ss" update="add">{"label":"Stephen","id":"per.002122"}</field>
+      <field name="person_ss" update="add">Beans, Harriet</field>
+      <field name="personID_ss" update="add">per.002123</field>
+      <field name="personData_ss" update="add">{"label":"Beans, Harriet","id":"per.002123"}</field>
+      <field name="person_ss" update="add">Crow, Elizabeth</field>
+      <field name="personID_ss" update="add">per.002124</field>
+      <field name="personData_ss" update="add">{"label":"Crow, Elizabeth","id":"per.002124"}</field>
+      <field name="person_ss" update="add">Edelin, Edward</field>
+      <field name="personID_ss" update="add">per.002125</field>
+      <field name="personData_ss" update="add">{"label":"Edelin, Edward","id":"per.002125"}</field>
+      <field name="person_ss" update="add">Moxley, Daniel</field>
+      <field name="personID_ss" update="add">per.002126</field>
+      <field name="personData_ss" update="add">{"label":"Moxley, Daniel","id":"per.002126"}</field>
+      <field name="person_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="personID_ss" update="add">per.000001</field>
+      <field name="personData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="plaintiff_ss" update="add">Eliza</field>
+      <field name="plaintiffID_ss" update="add">per.002119</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Eliza","id":"per.002119"}</field>
+      <field name="plaintiff_ss" update="add">Juda</field>
+      <field name="plaintiffID_ss" update="add">per.002120</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Juda","id":"per.002120"}</field>
+      <field name="plaintiff_ss" update="add">Nan</field>
+      <field name="plaintiffID_ss" update="add">per.002121</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Nan","id":"per.002121"}</field>
+      <field name="plaintiff_ss" update="add">Stephen</field>
+      <field name="plaintiffID_ss" update="add">per.002122</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Stephen","id":"per.002122"}</field>
+      <field name="defendant_ss" update="add">Beans, Harriet</field>
+      <field name="defendantID_ss" update="add">per.002123</field>
+      <field name="defendantData_ss" update="add">{"label":"Beans, Harriet","id":"per.002123"}</field>
+      <field name="defendant_ss" update="add">Crow, Elizabeth</field>
+      <field name="defendantID_ss" update="add">per.002124</field>
+      <field name="defendantData_ss" update="add">{"label":"Crow, Elizabeth","id":"per.002124"}</field>
+      <field name="defendant_ss" update="add">Edelin, Edward</field>
+      <field name="defendantID_ss" update="add">per.002125</field>
+      <field name="defendantData_ss" update="add">{"label":"Edelin, Edward","id":"per.002125"}</field>
+      <field name="defendant_ss" update="add">Moxley, Daniel</field>
+      <field name="defendantID_ss" update="add">per.002126</field>
+      <field name="defendantData_ss" update="add">{"label":"Moxley, Daniel","id":"per.002126"}</field>
+      <field name="attorneyP_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyPID_ss" update="add">per.000001</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="attorney_ss" update="add">Key, Francis Scott, 1779-1843</field>
+      <field name="attorneyID_ss" update="add">per.000001</field>
+      <field name="attorneyData_ss" update="add">{"label":"Key, Francis Scott, 1779-1843","id":"per.000001"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0261.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Nan v. Daniel Moxley, Elizabeth Crow, Edward Edelin, &amp; Harriet Beans. Petition for Freedom (January 16, 1809)","date":"1809-01-16","dateDisplay":"January 16, 1809","id":"oscys.case.0261.001"}</field>
+   </doc>
+</add>

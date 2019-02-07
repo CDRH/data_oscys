@@ -1,0 +1,99 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0022.004</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0022.004.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0022.004.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0022.004.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">John &amp; Serena v. Henry Moscross. Bill of Sale</field>
+      <field name="titleSort" update="add">john &amp; serena v. henry moscross. bill of sale</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1799-09-16T00:00:00Z</field>
+      <field name="dateDisplay">September 16, 1799</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 69, Folder 202</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Exhibit</field>
+      <field name="people">Carr, Overton, Sr.</field>
+      <field name="people">Michael</field>
+      <field name="people">Nancy</field>
+      <field name="people">John</field>
+      <field name="people">Serena</field>
+      <field name="people">Moscross, Henry</field>
+      <field name="person_ss">Carr, Overton, Sr.</field>
+      <field name="personID_ss">per.002640</field>
+      <field name="personData_ss">{"label":"Carr, Overton, Sr.","id":"per.002640"}</field>
+      <field name="person_ss">Michael</field>
+      <field name="personID_ss">per.002643</field>
+      <field name="personData_ss">{"label":"Michael","id":"per.002643"}</field>
+      <field name="person_ss">Nancy</field>
+      <field name="personID_ss">per.002644</field>
+      <field name="personData_ss">{"label":"Nancy","id":"per.002644"}</field>
+      <field name="person_ss">John</field>
+      <field name="personID_ss">per.000191</field>
+      <field name="personData_ss">{"label":"John","id":"per.000191"}</field>
+      <field name="person_ss">Serena</field>
+      <field name="personID_ss">per.000192</field>
+      <field name="personData_ss">{"label":"Serena","id":"per.000192"}</field>
+      <field name="person_ss">Moscross, Henry</field>
+      <field name="personID_ss">per.000193</field>
+      <field name="personData_ss">{"label":"Moscross, Henry","id":"per.000193"}</field>
+      <field name="plaintiff_ss">John</field>
+      <field name="plaintiffID_ss">per.000191</field>
+      <field name="plaintiffData_ss">{"label":"John","id":"per.000191"}</field>
+      <field name="plaintiff_ss">Serena</field>
+      <field name="plaintiffID_ss">per.000192</field>
+      <field name="plaintiffData_ss">{"label":"Serena","id":"per.000192"}</field>
+      <field name="defendant_ss">Moscross, Henry</field>
+      <field name="defendantID_ss">per.000193</field>
+      <field name="defendantData_ss">{"label":"Moscross, Henry","id":"per.000193"}</field>
+      <field name="sourceTitle_s">Bill of Sale</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1814-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0022</field>
+      <field name="documentCaseData_ss">{"label":"John &amp; Serena v. Henry Moscross","id":"oscys.caseid.0022"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> I hereby sell &amp; deliver to the Rev'd Henry Moscross a Certain Negro Lad Named Michael to serve four years from the twentieth of May first day of January last a Certain Negro Girl named Nancy to serve eight years from the first day of January last &amp; a Certain negro Boy named John to serve from the fifteen years from the first day of January last past as will appear by referring to the Records of P Georges County where the Emancipation of the above mentioned negros are recorded. &amp; I do humbly warrant &amp; defend the said negros as the Right title &amp; Estate of the said Henry Moscoss his Heirs and Assigns till they shall have served their respective terms of service as mentioned above as witnessed my Hand &amp; seal this sixteenth day of Seper 1799 Overton Carr (seal) Receiv'd of the Rev'd Henry Moscross Seventy Dollars on Acct of the above named Negro Michael in part. The above named Negros Nancy &amp; John were paid for by Mr Moscross when delivered Overton Carr Seper 16th 1799 Revd Mr Moscross Overton Carr's Bill of Sale Septr 16th 1799 Carr bill of Sale </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0022</field>
+      <field name="person_ss" update="add">Carr, Overton, Sr.</field>
+      <field name="personID_ss" update="add">per.002640</field>
+      <field name="personData_ss" update="add">{"label":"Carr, Overton, Sr.","id":"per.002640"}</field>
+      <field name="person_ss" update="add">Michael</field>
+      <field name="personID_ss" update="add">per.002643</field>
+      <field name="personData_ss" update="add">{"label":"Michael","id":"per.002643"}</field>
+      <field name="person_ss" update="add">Nancy</field>
+      <field name="personID_ss" update="add">per.002644</field>
+      <field name="personData_ss" update="add">{"label":"Nancy","id":"per.002644"}</field>
+      <field name="person_ss" update="add">John</field>
+      <field name="personID_ss" update="add">per.000191</field>
+      <field name="personData_ss" update="add">{"label":"John","id":"per.000191"}</field>
+      <field name="person_ss" update="add">Serena</field>
+      <field name="personID_ss" update="add">per.000192</field>
+      <field name="personData_ss" update="add">{"label":"Serena","id":"per.000192"}</field>
+      <field name="person_ss" update="add">Moscross, Henry</field>
+      <field name="personID_ss" update="add">per.000193</field>
+      <field name="personData_ss" update="add">{"label":"Moscross, Henry","id":"per.000193"}</field>
+      <field name="plaintiff_ss" update="add">John</field>
+      <field name="plaintiffID_ss" update="add">per.000191</field>
+      <field name="plaintiffData_ss" update="add">{"label":"John","id":"per.000191"}</field>
+      <field name="plaintiff_ss" update="add">Serena</field>
+      <field name="plaintiffID_ss" update="add">per.000192</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Serena","id":"per.000192"}</field>
+      <field name="defendant_ss" update="add">Moscross, Henry</field>
+      <field name="defendantID_ss" update="add">per.000193</field>
+      <field name="defendantData_ss" update="add">{"label":"Moscross, Henry","id":"per.000193"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0022.004</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"John &amp; Serena v. Henry Moscross. Bill of Sale (September 16, 1799)","date":"1799-09-16","dateDisplay":"September 16, 1799","id":"oscys.case.0022.004"}</field>
+   </doc>
+</add>

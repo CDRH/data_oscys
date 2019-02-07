@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0195.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0195.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0195.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0195.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Robert Brown v. Dolly Mullin. Petition for Freedom</field>
+      <field name="titleSort" update="add">robert brown v. dolly mullin. petition for freedom</field>
+      <field name="titleLetter_s" update="add">r</field>
+      <field name="contributor"/>
+      <field name="date">1845-05-23T00:00:00Z</field>
+      <field name="dateDisplay">May 23, 1845</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 700, Folder 84</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brown, Robert</field>
+      <field name="people">Mullin, Dolly</field>
+      <field name="people">Norris, John E.</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brown, Robert</field>
+      <field name="personID_ss">per.001629</field>
+      <field name="personData_ss">{"label":"Brown, Robert","id":"per.001629"}</field>
+      <field name="person_ss">Mullin, Dolly</field>
+      <field name="personID_ss">per.001632</field>
+      <field name="personData_ss">{"label":"Mullin, Dolly","id":"per.001632"}</field>
+      <field name="person_ss">Norris, John E.</field>
+      <field name="personID_ss">per.001631</field>
+      <field name="personData_ss">{"label":"Norris, John E.","id":"per.001631"}</field>
+      <field name="plaintiff_ss">Brown, Robert</field>
+      <field name="plaintiffID_ss">per.001629</field>
+      <field name="plaintiffData_ss">{"label":"Brown, Robert","id":"per.001629"}</field>
+      <field name="defendant_ss">Mullin, Dolly</field>
+      <field name="defendantID_ss">per.001632</field>
+      <field name="defendantData_ss">{"label":"Mullin, Dolly","id":"per.001632"}</field>
+      <field name="attorneyP_ss">Norris, John E.</field>
+      <field name="attorneyPID_ss">per.001631</field>
+      <field name="attorneyPData_ss">{"label":"Norris, John E.","id":"per.001631"}</field>
+      <field name="attorney_ss">Norris, John E.</field>
+      <field name="attorneyID_ss">per.001631</field>
+      <field name="attorneyData_ss">{"label":"Norris, John E.","id":"per.001631"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1846-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0197</field>
+      <field name="documentCaseData_ss">{"label":"Robert Brown v. Dolly Mullin","id":"oscys.caseid.0197"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable, the Judges of the Circuit Court of the District of Columbia for the County of Washington. The Petition of Robert Brown humbly shewth unto your Honors that he is now held in unlawful slavery by Dolly Mullin and that he is now confined in the Jail of the County and District aforesaid. Therefore your petitioner, the said Robert, prays your Honors to inquire into the same and afford him such relief as the nature of his case and Justice and equity require, and as in duty bound your petitioner will ever pray and so forth. John E Norris Solr. for Petitioner 48 53. 84. Robert Brown v Dolly Mullin Petition for Freedom Filed 23d May 1845 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0197</field>
+      <field name="person_ss" update="add">Brown, Robert</field>
+      <field name="personID_ss" update="add">per.001629</field>
+      <field name="personData_ss" update="add">{"label":"Brown, Robert","id":"per.001629"}</field>
+      <field name="person_ss" update="add">Mullin, Dolly</field>
+      <field name="personID_ss" update="add">per.001632</field>
+      <field name="personData_ss" update="add">{"label":"Mullin, Dolly","id":"per.001632"}</field>
+      <field name="person_ss" update="add">Norris, John E.</field>
+      <field name="personID_ss" update="add">per.001631</field>
+      <field name="personData_ss" update="add">{"label":"Norris, John E.","id":"per.001631"}</field>
+      <field name="plaintiff_ss" update="add">Brown, Robert</field>
+      <field name="plaintiffID_ss" update="add">per.001629</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Brown, Robert","id":"per.001629"}</field>
+      <field name="defendant_ss" update="add">Mullin, Dolly</field>
+      <field name="defendantID_ss" update="add">per.001632</field>
+      <field name="defendantData_ss" update="add">{"label":"Mullin, Dolly","id":"per.001632"}</field>
+      <field name="attorneyP_ss" update="add">Norris, John E.</field>
+      <field name="attorneyPID_ss" update="add">per.001631</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Norris, John E.","id":"per.001631"}</field>
+      <field name="attorney_ss" update="add">Norris, John E.</field>
+      <field name="attorneyID_ss" update="add">per.001631</field>
+      <field name="attorneyData_ss" update="add">{"label":"Norris, John E.","id":"per.001631"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0195.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Robert Brown v. Dolly Mullin. Petition for Freedom (May 23, 1845)","date":"1845-05-23","dateDisplay":"May 23, 1845","id":"oscys.case.0195.001"}</field>
+   </doc>
+</add>

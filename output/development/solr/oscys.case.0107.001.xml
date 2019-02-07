@@ -1,0 +1,86 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0107.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0107.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0107.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0107.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Barney Montgomery v. John R. Bronaugh. Petition for Freedom</field>
+      <field name="titleSort" update="add">barney montgomery v. john r. bronaugh. petition for freedom</field>
+      <field name="titleLetter_s" update="add">b</field>
+      <field name="contributor"/>
+      <field name="date">1841-11-19T00:00:00Z</field>
+      <field name="dateDisplay">November 19, 1841</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 665, Folder 290</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Montgomery, Barney</field>
+      <field name="people">Bronaugh, John Robert</field>
+      <field name="people">Carlisle, James M.</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="person_ss">Montgomery, Barney</field>
+      <field name="personID_ss">per.000845</field>
+      <field name="personData_ss">{"label":"Montgomery, Barney","id":"per.000845"}</field>
+      <field name="person_ss">Bronaugh, John Robert</field>
+      <field name="personID_ss">per.000846</field>
+      <field name="personData_ss">{"label":"Bronaugh, John Robert","id":"per.000846"}</field>
+      <field name="person_ss">Carlisle, James M.</field>
+      <field name="personID_ss">per.000847</field>
+      <field name="personData_ss">{"label":"Carlisle, James M.","id":"per.000847"}</field>
+      <field name="plaintiff_ss">Montgomery, Barney</field>
+      <field name="plaintiffID_ss">per.000845</field>
+      <field name="plaintiffData_ss">{"label":"Montgomery, Barney","id":"per.000845"}</field>
+      <field name="defendant_ss">Bronaugh, John Robert</field>
+      <field name="defendantID_ss">per.000846</field>
+      <field name="defendantData_ss">{"label":"Bronaugh, John Robert","id":"per.000846"}</field>
+      <field name="attorneyP_ss">Carlisle, James M.</field>
+      <field name="attorneyPID_ss">per.000847</field>
+      <field name="attorneyPData_ss">{"label":"Carlisle, James M.","id":"per.000847"}</field>
+      <field name="attorney_ss">Carlisle, James M.</field>
+      <field name="attorneyID_ss">per.000847</field>
+      <field name="attorneyData_ss">{"label":"Carlisle, James M.","id":"per.000847"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1843-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0107</field>
+      <field name="documentCaseData_ss">{"label":"Barney Montgomery v. John R. Bronaugh","id":"oscys.caseid.0107"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Circuit Court of the District of Columbia, sitting or the County of Washington The Petition of Barney Montgomery humbly sheweth that he is entitled to his freedom. And that he is illegally detained and held in bondage as a slave by John Robert Bronaugh who claims him as such. Wherefore he prays that subpa may be issued to said Bronaugh and that he may be compelled to appear and answer hereto, and that he may be discharged from his service and adjudged free according to law. J. M. Carlisle for petnr 434 246. 188 290. Barney Montgomery vs John Robt. Bronaugh Pet for freedom Filed 19 Nov 1841. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0107</field>
+      <field name="person_ss" update="add">Montgomery, Barney</field>
+      <field name="personID_ss" update="add">per.000845</field>
+      <field name="personData_ss" update="add">{"label":"Montgomery, Barney","id":"per.000845"}</field>
+      <field name="person_ss" update="add">Bronaugh, John Robert</field>
+      <field name="personID_ss" update="add">per.000846</field>
+      <field name="personData_ss" update="add">{"label":"Bronaugh, John Robert","id":"per.000846"}</field>
+      <field name="person_ss" update="add">Carlisle, James M.</field>
+      <field name="personID_ss" update="add">per.000847</field>
+      <field name="personData_ss" update="add">{"label":"Carlisle, James M.","id":"per.000847"}</field>
+      <field name="plaintiff_ss" update="add">Montgomery, Barney</field>
+      <field name="plaintiffID_ss" update="add">per.000845</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Montgomery, Barney","id":"per.000845"}</field>
+      <field name="defendant_ss" update="add">Bronaugh, John Robert</field>
+      <field name="defendantID_ss" update="add">per.000846</field>
+      <field name="defendantData_ss" update="add">{"label":"Bronaugh, John Robert","id":"per.000846"}</field>
+      <field name="attorneyP_ss" update="add">Carlisle, James M.</field>
+      <field name="attorneyPID_ss" update="add">per.000847</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Carlisle, James M.","id":"per.000847"}</field>
+      <field name="attorney_ss" update="add">Carlisle, James M.</field>
+      <field name="attorneyID_ss" update="add">per.000847</field>
+      <field name="attorneyData_ss" update="add">{"label":"Carlisle, James M.","id":"per.000847"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0107.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Barney Montgomery v. John R. Bronaugh. Petition for Freedom (November 19, 1841)","date":"1841-11-19","dateDisplay":"November 19, 1841","id":"oscys.case.0107.001"}</field>
+   </doc>
+</add>

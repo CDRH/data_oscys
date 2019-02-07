@@ -1,0 +1,74 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0177.010</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0177.010.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0177.010.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0177.010.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">James Rhodes v. Moses Bell. Summons of Moses Bell</field>
+      <field name="titleSort" update="add">james rhodes v. moses bell. summons of moses bell</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1842-08-29T00:00:00Z</field>
+      <field name="dateDisplay">August 29, 1842</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 650, Folder 332</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Summons</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Bell, Moses</field>
+      <field name="people">Rhodes, James</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Bell, Moses</field>
+      <field name="personID_ss">per.001277</field>
+      <field name="personData_ss">{"label":"Bell, Moses","id":"per.001277"}</field>
+      <field name="person_ss">Rhodes, James</field>
+      <field name="personID_ss">per.001278</field>
+      <field name="personData_ss">{"label":"Rhodes, James","id":"per.001278"}</field>
+      <field name="plaintiff_ss">Bell, Moses</field>
+      <field name="plaintiffID_ss">per.001277</field>
+      <field name="plaintiffData_ss">{"label":"Bell, Moses","id":"per.001277"}</field>
+      <field name="defendant_ss">Rhodes, James</field>
+      <field name="defendantID_ss">per.001278</field>
+      <field name="defendantData_ss">{"label":"Rhodes, James","id":"per.001278"}</field>
+      <field name="sourceTitle_s">Summons of Moses Bell</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1842-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0179</field>
+      <field name="documentCaseData_ss">{"label":"Moses Bell v. James Rhodes","id":"oscys.caseid.0179"}</field>
+      <field name="jurisdiction_ss">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="text"> District of Columbia, to wit: The United States of America. To Moses Bell, Greeting: You are hereby cited and admonished to be and appear at a Supreme Court of the United States on the second Monday of January next, pursuant to a Writ of Error filed in the Clerks office of the Circuit Court of the United States for the District of Columbia in the County of Washington, wherein James Rhodes is plaintiff in Error and you are defendant in error, to shew cause, if any there be, why Judgment rendered against the said James Rhodes in the said writ of Error mentioned, should not be corrected, and why speedy justice should not be done to the parties in this behalf. Witness the Honorable William Cranch Chief Judge of the Circuit Court of the District of Columbia this 29th day of August 1842. W. Cranch </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0179</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Bell, Moses</field>
+      <field name="personID_ss" update="add">per.001277</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Moses","id":"per.001277"}</field>
+      <field name="person_ss" update="add">Rhodes, James</field>
+      <field name="personID_ss" update="add">per.001278</field>
+      <field name="personData_ss" update="add">{"label":"Rhodes, James","id":"per.001278"}</field>
+      <field name="plaintiff_ss" update="add">Bell, Moses</field>
+      <field name="plaintiffID_ss" update="add">per.001277</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, Moses","id":"per.001277"}</field>
+      <field name="defendant_ss" update="add">Rhodes, James</field>
+      <field name="defendantID_ss" update="add">per.001278</field>
+      <field name="defendantData_ss" update="add">{"label":"Rhodes, James","id":"per.001278"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0177.010</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"James Rhodes v. Moses Bell. Summons of Moses Bell (August 29, 1842)","date":"1842-08-29","dateDisplay":"August 29, 1842","id":"oscys.case.0177.010"}</field>
+   </doc>
+</add>

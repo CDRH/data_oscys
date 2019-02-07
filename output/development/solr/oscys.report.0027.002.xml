@@ -1,0 +1,174 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0027.002</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0027.002.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0027.002.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0027.002.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">James Ash v. William H. Williams. Circuit Court Report</field>
+      <field name="titleSort" update="add">james ash v. william h. williams. circuit court report</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1840-03-01T00:00:00Z</field>
+      <field name="dateDisplay">March 1840</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume V, Boston: Little, Brown and Company (1853) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Ben</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Greenfield, Gerard T.</field>
+      <field name="people">Greenfield, Maria Amne T.</field>
+      <field name="people">James</field>
+      <field name="people">Manson</field>
+      <field name="people">Morsell, James Sewall</field>
+      <field name="people">Ash, James</field>
+      <field name="people">Williams, William H.</field>
+      <field name="people">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="people">Jones, Walter, 1776-1861</field>
+      <field name="people">Marbury, John</field>
+      <field name="places">Maryland</field>
+      <field name="person_ss">Ben</field>
+      <field name="personID_ss">per.000803</field>
+      <field name="personData_ss">{"label":"Ben","id":"per.000803"}</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Greenfield, Gerard T.</field>
+      <field name="personID_ss">per.000775</field>
+      <field name="personData_ss">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="person_ss">Greenfield, Maria Amne T.</field>
+      <field name="personID_ss">per.000777</field>
+      <field name="personData_ss">{"label":"Greenfield, Maria Amne T.","id":"per.000777"}</field>
+      <field name="person_ss">James</field>
+      <field name="personID_ss">per.000815</field>
+      <field name="personData_ss">{"label":"James","id":"per.000815"}</field>
+      <field name="person_ss">Manson</field>
+      <field name="personID_ss">per.000819</field>
+      <field name="personData_ss">{"label":"Manson","id":"per.000819"}</field>
+      <field name="person_ss">Morsell, James Sewall</field>
+      <field name="personID_ss">per.000044</field>
+      <field name="personData_ss">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss">Ash, James</field>
+      <field name="personID_ss">per.000816</field>
+      <field name="personData_ss">{"label":"Ash, James","id":"per.000816"}</field>
+      <field name="person_ss">Williams, William H.</field>
+      <field name="personID_ss">per.001145</field>
+      <field name="personData_ss">{"label":"Williams, William H.","id":"per.001145"}</field>
+      <field name="person_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="personID_ss">per.000829</field>
+      <field name="personData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="person_ss">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss">per.000435</field>
+      <field name="personData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="person_ss">Marbury, John</field>
+      <field name="personID_ss">per.000830</field>
+      <field name="personData_ss">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="plaintiff_ss">Ash, James</field>
+      <field name="plaintiffID_ss">per.000816</field>
+      <field name="plaintiffData_ss">{"label":"Ash, James","id":"per.000816"}</field>
+      <field name="defendant_ss">Williams, William H.</field>
+      <field name="defendantID_ss">per.001145</field>
+      <field name="defendantData_ss">{"label":"Williams, William H.","id":"per.001145"}</field>
+      <field name="attorneyP_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyPID_ss">per.000829</field>
+      <field name="attorneyPData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorney_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyID_ss">per.000829</field>
+      <field name="attorneyData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorneyD_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss">per.000435</field>
+      <field name="attorneyDData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss">per.000435</field>
+      <field name="attorneyData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorneyD_ss">Marbury, John</field>
+      <field name="attorneyDID_ss">per.000830</field>
+      <field name="attorneyDData_ss">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="attorney_ss">Marbury, John</field>
+      <field name="attorneyID_ss">per.000830</field>
+      <field name="attorneyData_ss">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1840-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0149</field>
+      <field name="documentCaseData_ss">{"label":"James Ash v. William H. Williams","id":"oscys.caseid.0149"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro James Ash v. William H. Williams. In the will of Maria T. Greenfield is the following clause, "I also give and bequeathe to my nephew Gerard T. Greenfield, all my negro slaves, namely, Ben, Mansa, James, &amp;c., (naming seventeen slaves,) provided he shall not carry them out of the State of Maryland, or sell them to any one; in either of which events I will and desire the said negroes to be free for life." The legatee sold one of them, (the petitioner) to the defendant. Held, that the petitioner thereby became entitled to his freedom. The petitioner claimed his freedom under the clause of the will recited in the margin. Upon the death of the testatrix, the legatee, who was also executor, took possession of the petitioner and the other slaves bequeathed to him by the will and held them until he sold the petitioner to the defendant. Mr Bradley, for the petitioner, contended that it was a bequest of freedom to the slaves, upon the occurrence of the event of removal or sale. This is a limitation over, in the event of the sale or removal of the negroes by the legatee. Although they are personal property, yet they are also recognized as persons, and are so called in the Constitution of the United States; and are capable of receiving a bequest of freedom; even an implied bequest. Dolly Mullen's case, 5 Har. &amp; J. 190; Wheeler's Law of Slavery, 183, 252; Fitzhugh v. Foot, 3 Call, 13; Legrand v. Darnell, 2 Peters, 664; Wallingsford v. Allen, 10 Peters, 583; Menard v. Asparia, 5 Peters, 505; Lee v. Lee, 8 Peters, 44; Boyce v. Anderson, 2 Peters, 154, 155; McCutchen v. Marshall, 8 Peters, 220. This is a question of intention. The testatrix had a right to dispose of her property absolutely, or sub modo. She had a right to bequeathe freedom, conditionally, or in a certain event; and when the event occurs, the right to freedom becomes absolute. Dommett v. Bedford, 6 T. R. 684; Gill v. Pearson, 6 East, 173; Powell on Devises, 265; Smith v. Bell, 6 Peters, 74; Gulliver v. Poyntz, 3 Wils. 141; Bradley v. Peixoto, 3 Ves. 324; Brandon v. Robinson, 18 Ves. 429; 1 Russ. &amp; Miln. 364; Hall v. Smith, 14 Ves. 429. Mr. Marbury and Mr. Jones, contrà, contended that the prohibition to sell or remove the slaves is repugnant to the bequest and therefore void; and that the bequest vested an absolute right to the slaves in the legatee. There is no difference in the decision of cases of freedom, and other cases; nor in the construction of wills. Mima Queen v. Hepburne, 7 Cranch, 290; Corcoran v. Jones, in this Court at last term, (ante, 607); Bradley v. Peixoto, 3 Ves. 324; Newkerk v. Newkerk, 2 Caines, 345. The Court, (Cranch, C. J., and Morsell, J., doubting,) at the prayer of the petitioner's counsel, instructed the jury, that by the fact of the sale of the petitioner the estate or property in the petitioner so bequeathed to the said Gerard T. Greenfield, ceased and determined; and the petitioner, thereupon, became entitled to freedom as claimed in his petition. Cranch, C. J., delivered the following opinion. The petitioner claims his freedom under the following bequest in the will of Maria Anna T. Greenfield, dated September 16th, 1824. "I also give and bequeathe to my nephew Gerard T. Greenfield, all my negro slaves, namely, Ben, &amp;c., (naming seventeen); provided he shall not carry them out of the State of Maryland, or sell them to any one; in either of which events I will and desire the negroes to be free for life." Here is a clear bequest of freedom to the slaves upon the happening of a certain event, which has happened; for it is admitted that the said Gerard T. Greenfield, sold the petitioner to the defendant. The condition, in the bequest, that the legatee should not sell the slaves may be repugnant to the bequest of the slaves to the legatee, and may therefore be void as a condition, and the bequest may be absolute to him; but that does not prevent the happening of the event upon which the bequest of freedom to the slaves also became absolute. Here then are two absolute bequests inconsistent with each other; in which case the last of the bequests must prevail, as being the last will of the testatrix. But the bequest of freedom to the slaves is not a condition annexed to the bequest of the slaves to Gerard T. Briscoe. It is an independent bequest which has become absolute upon the happening of a certain event; and the circumstance, that that event consisted of an act done in the supposed violation of a condition which is void, as being repugnant to the legacy to G. T. Greenfield, does not affect the truth of the fact, that that event has happened; to wit, the sale of the petitioner, by which his title to freedom became absolute. There is another view of the subject. The owner of property has a right to dispose of it as he pleases, either absolutely or sub modo; or to grant or bequeathe a temporary use of it, reserving to himself an ultimate right of property. It is true that if he parts with his whole interest in the thing to his legatee, with condition that the legatee shall not alienate it, such condition is void, and the bequest is absolute. But if any right or interest in the thing remains in the testator, and not bequeathed to that legatee, he may annex such condition, for it is not repugnant to that bequest. This remaining right or interest may be bequeathed over, or pass to the next of kin, as being undisposed of by the will. The intention of the testator is the rule of construction of the will. In the present case the question is, whether the testatrix intended to devise to G. T. Greenfield such an estate in, or right over, these slaves, as would enable him to carry them out of the Stale of Maryland, or to sell them. It is very clear that she did not, for she has plainly declared her will that he should not sell or remove them, by giving them their freedom, if he did. The words of the legacy to G. T. Greenfield, therefore, which, without the proviso, and bequest of freedom to the slaves, would have given him an absolute right to them, are restrained by that proviso, and that subsequent legacy of freedom, which operate upon the supposed absolute legacy to G. T. Greenfield, exactly as the devise of the remainder to the son in the case of Smith v. Bell, (6 Peters, 74,) operated upon the absolute devise to his mother; namely, by limiting and restraining the supposed absolute bequest to G. T. Greenfield, and show that she did not intend to give him an absolute estate in the slaves. (See Preston on Estates, 38, 42, 43, 45, and 46.) If she had said, I give and bequeathe ail my slaves to G. T. Greenfield, provided they shall be free at his death; according to the case of Smith v. Bell, the estate, under such a bequest, to the said G. T. Greenfield, would be only an estate for life; and, a fortiori, if she had restrained him from selling or removing them. There is only this difference; that the death of G. T. Greenfield was an event which must certainly happen, and his sale of the slaves might never happen; but although his death would be certain, yet it would be uncertain whether he would die before the slaves. There would, therefore, be an uncertainty in both cases; and the uncertainty of the event cannot deprive the slaves of the benefit of it, if it should happen. It is a mere question of construction of the will, which construction must be governed by the intent of the testatrix derived from a view of the whole will. If she had said, in her will, that her slaves should be free at the death of her nephew, and that, in the meantime, he should not remove nor sell them, but should be entitled to their labor and services, I can see no reason why this should not be a good bequest of freedom to the slaves who should be alive at his death; and I think that a similar construction should be given to this will upon the event of a sale. The law of Maryland which authorizes the owner to manumit his slaves by his last will, makes them capable of taking their freedom under such a bequest, although the manumission should be intended to take effect at a future time or upon a contingent event. If it should be said that these slaves may be taken in execution against G. T. Greenfield, and sold as his property, the same may be said of any other bequest of slaves subject to a contingent right, to freedom at a future day; but I apprehend nothing more could be sold under the execution than the right, title, and interest of the legatee. If the sale should be by collusion with the creditor to defeat the right of freedom, I suppose it might be set aside on the ground of fraud. But it has been said, in argument, that this bequest of freedom to the slaves is void because it is upon an unlawful condition. The condition of this bequest, (if it be a condition,) is, that G. T. Greenfield should remove or sell the slaves. But it is contended by the defendant that such removal or sale is not unlawful; and, if so, the bequest is not upon an unlawful condition. But the sale is not the condition of the bequest; it is only the event, or fact, upon the happening of which the bequest is to take effect; and whether that sale be lawful or unlawful the effect upon the petitioner's right to freedom is the same. Verdict for the petitioner. Bill of exceptions taken by the defendant. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0149</field>
+      <field update="add" name="outcomeData_ss">{"label":"Verdict for Plaintiff","date":"1840-03","dateDisplay":"March 1840","id":"oscys.report.0027.002"}</field>
+      <field update="add" name="outcome_ss">Verdict for Plaintiff</field>
+      <field name="person_ss" update="add">Ben</field>
+      <field name="personID_ss" update="add">per.000803</field>
+      <field name="personData_ss" update="add">{"label":"Ben","id":"per.000803"}</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Greenfield, Gerard T.</field>
+      <field name="personID_ss" update="add">per.000775</field>
+      <field name="personData_ss" update="add">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="person_ss" update="add">Greenfield, Maria Amne T.</field>
+      <field name="personID_ss" update="add">per.000777</field>
+      <field name="personData_ss" update="add">{"label":"Greenfield, Maria Amne T.","id":"per.000777"}</field>
+      <field name="person_ss" update="add">James</field>
+      <field name="personID_ss" update="add">per.000815</field>
+      <field name="personData_ss" update="add">{"label":"James","id":"per.000815"}</field>
+      <field name="person_ss" update="add">Manson</field>
+      <field name="personID_ss" update="add">per.000819</field>
+      <field name="personData_ss" update="add">{"label":"Manson","id":"per.000819"}</field>
+      <field name="person_ss" update="add">Morsell, James Sewall</field>
+      <field name="personID_ss" update="add">per.000044</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, James Sewall","id":"per.000044"}</field>
+      <field name="person_ss" update="add">Ash, James</field>
+      <field name="personID_ss" update="add">per.000816</field>
+      <field name="personData_ss" update="add">{"label":"Ash, James","id":"per.000816"}</field>
+      <field name="person_ss" update="add">Williams, William H.</field>
+      <field name="personID_ss" update="add">per.001145</field>
+      <field name="personData_ss" update="add">{"label":"Williams, William H.","id":"per.001145"}</field>
+      <field name="person_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="personID_ss" update="add">per.000829</field>
+      <field name="personData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="person_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss" update="add">per.000435</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="person_ss" update="add">Marbury, John</field>
+      <field name="personID_ss" update="add">per.000830</field>
+      <field name="personData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="plaintiff_ss" update="add">Ash, James</field>
+      <field name="plaintiffID_ss" update="add">per.000816</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Ash, James","id":"per.000816"}</field>
+      <field name="defendant_ss" update="add">Williams, William H.</field>
+      <field name="defendantID_ss" update="add">per.001145</field>
+      <field name="defendantData_ss" update="add">{"label":"Williams, William H.","id":"per.001145"}</field>
+      <field name="attorneyP_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyPID_ss" update="add">per.000829</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorney_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyID_ss" update="add">per.000829</field>
+      <field name="attorneyData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorneyD_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss" update="add">per.000435</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss" update="add">per.000435</field>
+      <field name="attorneyData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorneyD_ss" update="add">Marbury, John</field>
+      <field name="attorneyDID_ss" update="add">per.000830</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="attorney_ss" update="add">Marbury, John</field>
+      <field name="attorneyID_ss" update="add">per.000830</field>
+      <field name="attorneyData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0027.002</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"James Ash v. William H. Williams. Circuit Court Report (March, 1840)","date":"1840-03","dateDisplay":"March, 1840","id":"oscys.report.0027.002"}</field>
+   </doc>
+</add>

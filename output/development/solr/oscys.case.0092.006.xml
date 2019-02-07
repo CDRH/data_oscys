@@ -1,0 +1,124 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0092.006</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0092.006.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0092.006.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0092.006.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Matilda Derrick v. George Mason &amp; Alexander Moore. Alexander Moore to F. Moore</field>
+      <field name="titleSort" update="add">matilda derrick v. george mason &amp; alexander moore. alexander moore to f. moore</field>
+      <field name="titleLetter_s" update="add">m</field>
+      <field name="contributor"/>
+      <field name="date">1823-04-29T00:00:00Z</field>
+      <field name="dateDisplay">April 29, 1823</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 291, Folder 1309</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Correspondence</field>
+      <field name="people">Moore, F.</field>
+      <field name="people">Derrick, Louisa</field>
+      <field name="people">Derrick, Lucy</field>
+      <field name="people">Derrick, Matilda</field>
+      <field name="people">Derrick, Matilda</field>
+      <field name="people">Mason, George</field>
+      <field name="people">Moore, Alexander</field>
+      <field name="person_ss">Moore, F.</field>
+      <field name="personID_ss">per.000724</field>
+      <field name="personData_ss">{"label":"Moore, F.","id":"per.000724"}</field>
+      <field name="person_ss">Derrick, Louisa</field>
+      <field name="personID_ss">per.000708</field>
+      <field name="personData_ss">{"label":"Derrick, Louisa","id":"per.000708"}</field>
+      <field name="person_ss">Derrick, Lucy</field>
+      <field name="personID_ss">per.000709</field>
+      <field name="personData_ss">{"label":"Derrick, Lucy","id":"per.000709"}</field>
+      <field name="person_ss">Derrick, Matilda</field>
+      <field name="personID_ss">per.000710</field>
+      <field name="personData_ss">{"label":"Derrick, Matilda","id":"per.000710"}</field>
+      <field name="person_ss">Derrick, Matilda</field>
+      <field name="personID_ss">per.000711</field>
+      <field name="personData_ss">{"label":"Derrick, Matilda","id":"per.000711"}</field>
+      <field name="person_ss">Mason, George</field>
+      <field name="personID_ss">per.000712</field>
+      <field name="personData_ss">{"label":"Mason, George","id":"per.000712"}</field>
+      <field name="person_ss">Moore, Alexander</field>
+      <field name="personID_ss">per.000713</field>
+      <field name="personData_ss">{"label":"Moore, Alexander","id":"per.000713"}</field>
+      <field name="plaintiff_ss">Derrick, Louisa</field>
+      <field name="plaintiffID_ss">per.000708</field>
+      <field name="plaintiffData_ss">{"label":"Derrick, Louisa","id":"per.000708"}</field>
+      <field name="plaintiff_ss">Derrick, Lucy</field>
+      <field name="plaintiffID_ss">per.000709</field>
+      <field name="plaintiffData_ss">{"label":"Derrick, Lucy","id":"per.000709"}</field>
+      <field name="plaintiff_ss">Derrick, Matilda</field>
+      <field name="plaintiffID_ss">per.000710</field>
+      <field name="plaintiffData_ss">{"label":"Derrick, Matilda","id":"per.000710"}</field>
+      <field name="plaintiff_ss">Derrick, Matilda</field>
+      <field name="plaintiffID_ss">per.000711</field>
+      <field name="plaintiffData_ss">{"label":"Derrick, Matilda","id":"per.000711"}</field>
+      <field name="defendant_ss">Mason, George</field>
+      <field name="defendantID_ss">per.000712</field>
+      <field name="defendantData_ss">{"label":"Mason, George","id":"per.000712"}</field>
+      <field name="defendant_ss">Moore, Alexander</field>
+      <field name="defendantID_ss">per.000713</field>
+      <field name="defendantData_ss">{"label":"Moore, Alexander","id":"per.000713"}</field>
+      <field name="sourceTitle_s">Alexander Moore to F. Moore</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1823-04</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0092</field>
+      <field name="documentCaseData_ss">{"label":"Matilda Derrick, Lucy Derrick, Louisa Derrick, &amp; Matilda Derrick v. George Mason &amp; Alexander Moore","id":"oscys.caseid.0092"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Marshall, Sir, 29 Apl 1823. A. Moore F. Moore </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0092</field>
+      <field name="person_ss" update="add">Moore, F.</field>
+      <field name="personID_ss" update="add">per.000724</field>
+      <field name="personData_ss" update="add">{"label":"Moore, F.","id":"per.000724"}</field>
+      <field name="person_ss" update="add">Derrick, Louisa</field>
+      <field name="personID_ss" update="add">per.000708</field>
+      <field name="personData_ss" update="add">{"label":"Derrick, Louisa","id":"per.000708"}</field>
+      <field name="person_ss" update="add">Derrick, Lucy</field>
+      <field name="personID_ss" update="add">per.000709</field>
+      <field name="personData_ss" update="add">{"label":"Derrick, Lucy","id":"per.000709"}</field>
+      <field name="person_ss" update="add">Derrick, Matilda</field>
+      <field name="personID_ss" update="add">per.000710</field>
+      <field name="personData_ss" update="add">{"label":"Derrick, Matilda","id":"per.000710"}</field>
+      <field name="person_ss" update="add">Derrick, Matilda</field>
+      <field name="personID_ss" update="add">per.000711</field>
+      <field name="personData_ss" update="add">{"label":"Derrick, Matilda","id":"per.000711"}</field>
+      <field name="person_ss" update="add">Mason, George</field>
+      <field name="personID_ss" update="add">per.000712</field>
+      <field name="personData_ss" update="add">{"label":"Mason, George","id":"per.000712"}</field>
+      <field name="person_ss" update="add">Moore, Alexander</field>
+      <field name="personID_ss" update="add">per.000713</field>
+      <field name="personData_ss" update="add">{"label":"Moore, Alexander","id":"per.000713"}</field>
+      <field name="plaintiff_ss" update="add">Derrick, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.000708</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Derrick, Louisa","id":"per.000708"}</field>
+      <field name="plaintiff_ss" update="add">Derrick, Lucy</field>
+      <field name="plaintiffID_ss" update="add">per.000709</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Derrick, Lucy","id":"per.000709"}</field>
+      <field name="plaintiff_ss" update="add">Derrick, Matilda</field>
+      <field name="plaintiffID_ss" update="add">per.000710</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Derrick, Matilda","id":"per.000710"}</field>
+      <field name="plaintiff_ss" update="add">Derrick, Matilda</field>
+      <field name="plaintiffID_ss" update="add">per.000711</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Derrick, Matilda","id":"per.000711"}</field>
+      <field name="defendant_ss" update="add">Mason, George</field>
+      <field name="defendantID_ss" update="add">per.000712</field>
+      <field name="defendantData_ss" update="add">{"label":"Mason, George","id":"per.000712"}</field>
+      <field name="defendant_ss" update="add">Moore, Alexander</field>
+      <field name="defendantID_ss" update="add">per.000713</field>
+      <field name="defendantData_ss" update="add">{"label":"Moore, Alexander","id":"per.000713"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0092.006</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Matilda Derrick v. George Mason &amp; Alexander Moore. Alexander Moore to F. Moore (April 29, 1823)","date":"1823-04-29","dateDisplay":"April 29, 1823","id":"oscys.case.0092.006"}</field>
+   </doc>
+</add>

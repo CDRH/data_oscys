@@ -1,0 +1,182 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0075.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0075.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0075.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0075.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Ann Bell v. Gerard T. Greenfield. Circuit Court Report</field>
+      <field name="titleSort" update="add">ann bell v. gerard t. greenfield. circuit court report</field>
+      <field name="titleLetter_s" update="add">a</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1840-03-01T00:00:00Z</field>
+      <field name="dateDisplay">March 1840</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume V, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Greenfield, Gabriel P. T.</field>
+      <field name="people">Thruston, Buckner, 1763-1845</field>
+      <field name="people">Bell, Ann</field>
+      <field name="people">Bell, Daniel</field>
+      <field name="people">Bell, David</field>
+      <field name="people">Greenfield, Gerard T.</field>
+      <field name="people">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="people">Brent, William Leigh, 1784-1848</field>
+      <field name="people">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="people">Marbury, John</field>
+      <field name="places">Maryland</field>
+      <field name="person_ss">Greenfield, Gabriel P. T.</field>
+      <field name="personID_ss">per.000776</field>
+      <field name="personData_ss">{"label":"Greenfield, Gabriel P. T.","id":"per.000776"}</field>
+      <field name="person_ss">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss">per.000064</field>
+      <field name="personData_ss">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss">Bell, Ann</field>
+      <field name="personID_ss">per.000772</field>
+      <field name="personData_ss">{"label":"Bell, Ann","id":"per.000772"}</field>
+      <field name="person_ss">Bell, Daniel</field>
+      <field name="personID_ss">per.000773</field>
+      <field name="personData_ss">{"label":"Bell, Daniel","id":"per.000773"}</field>
+      <field name="person_ss">Bell, David</field>
+      <field name="personID_ss">per.000774</field>
+      <field name="personData_ss">{"label":"Bell, David","id":"per.000774"}</field>
+      <field name="person_ss">Greenfield, Gerard T.</field>
+      <field name="personID_ss">per.000775</field>
+      <field name="personData_ss">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="person_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="personID_ss">per.000829</field>
+      <field name="personData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="person_ss">Brent, William Leigh, 1784-1848</field>
+      <field name="personID_ss">per.000738</field>
+      <field name="personData_ss">{"label":"Brent, William Leigh, 1784-1848","id":"per.000738"}</field>
+      <field name="person_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss">per.000496</field>
+      <field name="personData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="person_ss">Marbury, John</field>
+      <field name="personID_ss">per.000830</field>
+      <field name="personData_ss">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="plaintiff_ss">Bell, Ann</field>
+      <field name="plaintiffID_ss">per.000772</field>
+      <field name="plaintiffData_ss">{"label":"Bell, Ann","id":"per.000772"}</field>
+      <field name="plaintiff_ss">Bell, Daniel</field>
+      <field name="plaintiffID_ss">per.000773</field>
+      <field name="plaintiffData_ss">{"label":"Bell, Daniel","id":"per.000773"}</field>
+      <field name="plaintiff_ss">Bell, David</field>
+      <field name="plaintiffID_ss">per.000774</field>
+      <field name="plaintiffData_ss">{"label":"Bell, David","id":"per.000774"}</field>
+      <field name="defendant_ss">Greenfield, Gerard T.</field>
+      <field name="defendantID_ss">per.000775</field>
+      <field name="defendantData_ss">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="attorneyP_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyPID_ss">per.000829</field>
+      <field name="attorneyPData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorney_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyID_ss">per.000829</field>
+      <field name="attorneyData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorneyP_ss">Brent, William Leigh, 1784-1848</field>
+      <field name="attorneyPID_ss">per.000738</field>
+      <field name="attorneyPData_ss">{"label":"Brent, William Leigh, 1784-1848","id":"per.000738"}</field>
+      <field name="attorney_ss">Brent, William Leigh, 1784-1848</field>
+      <field name="attorneyID_ss">per.000738</field>
+      <field name="attorneyData_ss">{"label":"Brent, William Leigh, 1784-1848","id":"per.000738"}</field>
+      <field name="attorneyD_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyDID_ss">per.000496</field>
+      <field name="attorneyDData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss">per.000496</field>
+      <field name="attorneyData_ss">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorneyD_ss">Marbury, John</field>
+      <field name="attorneyDID_ss">per.000830</field>
+      <field name="attorneyDData_ss">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="attorney_ss">Marbury, John</field>
+      <field name="attorneyID_ss">per.000830</field>
+      <field name="attorneyData_ss">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1840-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0104</field>
+      <field name="documentCaseData_ss">{"label":"Ann Bell, Daniel Bell, &amp; David Bell v. Gerard T. Greenfield","id":"oscys.caseid.0104"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro Ann Bell and Children v. Gerard T. Greenfield A will, not admitted to probat, is not admissible in favor of the petitioners for freedom The petitioners claimed their freedom under a paper purporting to be the last will and testament of Gabriel P. T. Greenfield, of Maryland. The will, upon caveat, had been admitted to probat, by the Orphans' Court; but the sentence of that court had been reversed in the Court of Appeals. It was agreed by the parties in this Court, that the petitioners might read in evidence from the record of the Court of Appeals of Maryland the paper purporting to be the will of Gabriel P. T. Greenfield, and the depositions taken in support of it; and that the defendant might read the depositions in the same record taken on the part of the caveator, in the same manner, and to have the same effect, (and no other,) as if the original paper purporting to be a will was now produced, and the witnesses for and against it were now examined vivâ voce. Under that agreement the petitioner's counsel offered the paper in evidence, together with the depositions, to the admissibility of which the counsel of the defendant objected, that it was not a valid will until probat; and that the probat had been conclusively refused by the highest court in Maryland. Mr. Marbury and Mr. R. S. Coxe, for the defendant, cited The King v. Netherseal, 4 T. R. 259, 260, in which Lord Kenyon, C. J., said, "Nothing but the probate, or letters of administration with the will annexed, are legal evidence of the will, in all questions respecting personalty." Mr. Bradley and Mr. W. L. Brent, contrà, contended that the rule did not apply to questions of freedom which were not questions respecting personalty. The judgment of the Court of Appeals could not affect the petitioners who were not parties to that controversy, and could not appear to sustain their rights. The only right which they have is to appear in this Court and petition for their freedom. The reversal was upon grounds not affecting the manumission. The parties might have colluded in the Orphans' Court to deprive those petitioners of their rights. It was not a judgment in rem. If it were, it is only conclusive against those who could contest it. Mr. R. S. Coxe, in reply. The sentence of the Orphans' Court is annulled by that of the Court of Appeals. It is no will of personal property until proved in the Orphans' Court. In the case of Armstrong v. Lear, 12 Wheat. 175, 176, the Supreme Court say, "By the common law, the exclusive right to entertain jurisdiction over wills of personal estate, belongs to the ecclesiastical courts; and before any testamentary paper of personalty can be admitted in evidence, it must receive probate in those courts." "This principle of the common law is supposed to be in force in Maryland, from which this part of the District of Columbia derives its jurisprudence; and the probate of wills of personalty to belong exclusively to the proper Orphans' Court here exercising ecclesiastical jurisdiction. If this be so; and nothing has been shown which leads us to a different conclusion, then it is indispensable to the plaintiff's title to procure, in the first instance, a regular probate of this testamentary paper in the Orphans' Court of this district and to set forth that fact in his bill. The treaty stipulations, the act of Congress, and the principles of the law of France which have been cited at the argument; attributing to them the full force, which that argument supposes, to establish the validity of the instrument, do not change the forum which is entitled, by the local jurisprudence, to pronounce upon it as a testamentary paper, and to grant a probate. It is one thing to possess proofs which may be sufficient to establish that a testamentary instru- ment had been executed in a foreign country under circumstances which ought to give it legal effect here; and quite a different thing to ascertain what is the proper tribunal here, by which those proofs may be examined, for the purpose of pronouncing a judicial sentence thereon." There must be the same evidence of a will, in cases of freedom as in other cases respecting personal rights. Mima Queen v. Hepburn, 7 Cranch, 290. The decree was in rem; upon the will itself; and binds all the world. If the petitioners are not bound by the decree rejecting the will, they could not claim under the will if proved. The rule works both ways. The Court (Thruston, J., contrà) refused to permit the paper to be read in evidence to the jury as a will or testamentary paper. Mr. W. L. Brent, then offered to read the paper to the jury as an instrument of manumission, under the 29th section of the Maryland Act of 1796, c. 67, and contended that it is not necessary that the instrument of manumission should be signed or acknowledged by the party. That clause of the section which requires acknowledgment and recording applies only to manumissions intended to take effect in future; not to present manumissions. But the Court (Thruston, J. contra,) refused this also. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0104</field>
+      <field name="person_ss" update="add">Greenfield, Gabriel P. T.</field>
+      <field name="personID_ss" update="add">per.000776</field>
+      <field name="personData_ss" update="add">{"label":"Greenfield, Gabriel P. T.","id":"per.000776"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Bell, Ann</field>
+      <field name="personID_ss" update="add">per.000772</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Ann","id":"per.000772"}</field>
+      <field name="person_ss" update="add">Bell, Daniel</field>
+      <field name="personID_ss" update="add">per.000773</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Daniel","id":"per.000773"}</field>
+      <field name="person_ss" update="add">Bell, David</field>
+      <field name="personID_ss" update="add">per.000774</field>
+      <field name="personData_ss" update="add">{"label":"Bell, David","id":"per.000774"}</field>
+      <field name="person_ss" update="add">Greenfield, Gerard T.</field>
+      <field name="personID_ss" update="add">per.000775</field>
+      <field name="personData_ss" update="add">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="person_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="personID_ss" update="add">per.000829</field>
+      <field name="personData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="person_ss" update="add">Brent, William Leigh, 1784-1848</field>
+      <field name="personID_ss" update="add">per.000738</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William Leigh, 1784-1848","id":"per.000738"}</field>
+      <field name="person_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="personID_ss" update="add">per.000496</field>
+      <field name="personData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="person_ss" update="add">Marbury, John</field>
+      <field name="personID_ss" update="add">per.000830</field>
+      <field name="personData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="plaintiff_ss" update="add">Bell, Ann</field>
+      <field name="plaintiffID_ss" update="add">per.000772</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, Ann","id":"per.000772"}</field>
+      <field name="plaintiff_ss" update="add">Bell, Daniel</field>
+      <field name="plaintiffID_ss" update="add">per.000773</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, Daniel","id":"per.000773"}</field>
+      <field name="plaintiff_ss" update="add">Bell, David</field>
+      <field name="plaintiffID_ss" update="add">per.000774</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, David","id":"per.000774"}</field>
+      <field name="defendant_ss" update="add">Greenfield, Gerard T.</field>
+      <field name="defendantID_ss" update="add">per.000775</field>
+      <field name="defendantData_ss" update="add">{"label":"Greenfield, Gerard T.","id":"per.000775"}</field>
+      <field name="attorneyP_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyPID_ss" update="add">per.000829</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorney_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyID_ss" update="add">per.000829</field>
+      <field name="attorneyData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorneyP_ss" update="add">Brent, William Leigh, 1784-1848</field>
+      <field name="attorneyPID_ss" update="add">per.000738</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Brent, William Leigh, 1784-1848","id":"per.000738"}</field>
+      <field name="attorney_ss" update="add">Brent, William Leigh, 1784-1848</field>
+      <field name="attorneyID_ss" update="add">per.000738</field>
+      <field name="attorneyData_ss" update="add">{"label":"Brent, William Leigh, 1784-1848","id":"per.000738"}</field>
+      <field name="attorneyD_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyDID_ss" update="add">per.000496</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorney_ss" update="add">Coxe, Richard S. (Richard Smith), 1792-1865</field>
+      <field name="attorneyID_ss" update="add">per.000496</field>
+      <field name="attorneyData_ss" update="add">{"label":"Coxe, Richard S. (Richard Smith), 1792-1865","id":"per.000496"}</field>
+      <field name="attorneyD_ss" update="add">Marbury, John</field>
+      <field name="attorneyDID_ss" update="add">per.000830</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="attorney_ss" update="add">Marbury, John</field>
+      <field name="attorneyID_ss" update="add">per.000830</field>
+      <field name="attorneyData_ss" update="add">{"label":"Marbury, John","id":"per.000830"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0075.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"Ann Bell v. Gerard T. Greenfield. Circuit Court Report (March, 1840)","date":"1840-03","dateDisplay":"March, 1840","id":"oscys.report.0075.001"}</field>
+   </doc>
+</add>

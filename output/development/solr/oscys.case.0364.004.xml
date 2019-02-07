@@ -1,0 +1,88 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0364.004</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0364.004.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0364.004.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0364.004.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Charles v. Henry Nicholson. Affidavit of John Brown</field>
+      <field name="titleSort" update="add">charles v. henry nicholson. affidavit of john brown</field>
+      <field name="titleLetter_s" update="add">c</field>
+      <field name="contributor"/>
+      <field name="date">1805-05-27T00:00:00Z</field>
+      <field name="dateDisplay">May 27, 1805</field>
+      <field name="format">manuscript</field>
+      <field name="source">Library of Virginia, Richmond, Virginia, Local Government Records Collection, Arlington County Court Records, Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</field>
+      <field name="rightsHolder">Library of Virginia, Richmond, Virginia</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Affidavit</field>
+      <field name="people">Brown, John</field>
+      <field name="people">Faw, Abraham</field>
+      <field name="people">Wilburn, Abner</field>
+      <field name="people">Charles</field>
+      <field name="people">Nicholson, Henry</field>
+      <field name="places">Alexandria County (Va.)</field>
+      <field name="places">Wilkes County (N.C.)</field>
+      <field name="person_ss">Brown, John</field>
+      <field name="personID_ss">per.002865</field>
+      <field name="personData_ss">{"label":"Brown, John","id":"per.002865"}</field>
+      <field name="person_ss">Faw, Abraham</field>
+      <field name="personID_ss">per.001547</field>
+      <field name="personData_ss">{"label":"Faw, Abraham","id":"per.001547"}</field>
+      <field name="person_ss">Wilburn, Abner</field>
+      <field name="personID_ss">per.002866</field>
+      <field name="personData_ss">{"label":"Wilburn, Abner","id":"per.002866"}</field>
+      <field name="person_ss">Charles</field>
+      <field name="personID_ss">per.002863</field>
+      <field name="personData_ss">{"label":"Charles","id":"per.002863"}</field>
+      <field name="person_ss">Nicholson, Henry</field>
+      <field name="personID_ss">per.002864</field>
+      <field name="personData_ss">{"label":"Nicholson, Henry","id":"per.002864"}</field>
+      <field name="plaintiff_ss">Charles</field>
+      <field name="plaintiffID_ss">per.002863</field>
+      <field name="plaintiffData_ss">{"label":"Charles","id":"per.002863"}</field>
+      <field name="defendant_ss">Nicholson, Henry</field>
+      <field name="defendantID_ss">per.002864</field>
+      <field name="defendantData_ss">{"label":"Nicholson, Henry","id":"per.002864"}</field>
+      <field name="sourceTitle_s">Affidavit of John Brown</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1805-06</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0390</field>
+      <field name="documentCaseData_ss">{"label":"Charles v. Henry Nicholson","id":"oscys.caseid.0390"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="text"> Alexandria County Ss: Personally Appeared before me a Justice of Peace for said County John Brown of Wilkes County in the State of North Carolina, who made Oath, that his partner Abner Wilburn purchased of Henry Nicholson Negroe Chalres now in the Jail of said County, for the sum of Two Hundred &amp; Twenty Two pounds Dollars Current Money Which was paid down and a Bill of Sale executed by said Nicholson declaring said Charles to be a slave, and as such warrented by said Bill of Sale, that said Nicholson then had said slave put in Jail for safe keeping until he should be delivered to the Purchasers, and gave them an Order to receive him at any time. Given under my Hand this 27th Day of May 1805 A Faw </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0390</field>
+      <field name="person_ss" update="add">Brown, John</field>
+      <field name="personID_ss" update="add">per.002865</field>
+      <field name="personData_ss" update="add">{"label":"Brown, John","id":"per.002865"}</field>
+      <field name="person_ss" update="add">Faw, Abraham</field>
+      <field name="personID_ss" update="add">per.001547</field>
+      <field name="personData_ss" update="add">{"label":"Faw, Abraham","id":"per.001547"}</field>
+      <field name="person_ss" update="add">Wilburn, Abner</field>
+      <field name="personID_ss" update="add">per.002866</field>
+      <field name="personData_ss" update="add">{"label":"Wilburn, Abner","id":"per.002866"}</field>
+      <field name="person_ss" update="add">Charles</field>
+      <field name="personID_ss" update="add">per.002863</field>
+      <field name="personData_ss" update="add">{"label":"Charles","id":"per.002863"}</field>
+      <field name="person_ss" update="add">Nicholson, Henry</field>
+      <field name="personID_ss" update="add">per.002864</field>
+      <field name="personData_ss" update="add">{"label":"Nicholson, Henry","id":"per.002864"}</field>
+      <field name="plaintiff_ss" update="add">Charles</field>
+      <field name="plaintiffID_ss" update="add">per.002863</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Charles","id":"per.002863"}</field>
+      <field name="defendant_ss" update="add">Nicholson, Henry</field>
+      <field name="defendantID_ss" update="add">per.002864</field>
+      <field name="defendantData_ss" update="add">{"label":"Nicholson, Henry","id":"per.002864"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Alexandria (Washington, D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0364.004</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Charles v. Henry Nicholson. Affidavit of John Brown (May 27, 1805)","date":"1805-05-27","dateDisplay":"May 27, 1805","id":"oscys.case.0364.004"}</field>
+   </doc>
+</add>

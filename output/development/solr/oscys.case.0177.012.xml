@@ -1,0 +1,95 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0177.012</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0177.012.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0177.012.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0177.012.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">James Rhodes v. Moses Bell. Affidavit of John Walker, William Lindley &amp; George Barnes</field>
+      <field name="titleSort" update="add">james rhodes v. moses bell. affidavit of john walker, william lindley &amp; george barnes</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1842-12-01T00:00:00Z</field>
+      <field name="dateDisplay">December 1, 1842</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 650, Folder 332</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Affidavit</field>
+      <field name="people">Barnes, George</field>
+      <field name="people">Lindley, William</field>
+      <field name="people">Morsell, Benjamin K.</field>
+      <field name="people">Walker, John</field>
+      <field name="people">Bell, Moses</field>
+      <field name="people">Rhodes, James</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="person_ss">Barnes, George</field>
+      <field name="personID_ss">per.001300</field>
+      <field name="personData_ss">{"label":"Barnes, George","id":"per.001300"}</field>
+      <field name="person_ss">Lindley, William</field>
+      <field name="personID_ss">per.001301</field>
+      <field name="personData_ss">{"label":"Lindley, William","id":"per.001301"}</field>
+      <field name="person_ss">Morsell, Benjamin K.</field>
+      <field name="personID_ss">per.001621</field>
+      <field name="personData_ss">{"label":"Morsell, Benjamin K.","id":"per.001621"}</field>
+      <field name="person_ss">Walker, John</field>
+      <field name="personID_ss">per.001303</field>
+      <field name="personData_ss">{"label":"Walker, John","id":"per.001303"}</field>
+      <field name="person_ss">Bell, Moses</field>
+      <field name="personID_ss">per.001277</field>
+      <field name="personData_ss">{"label":"Bell, Moses","id":"per.001277"}</field>
+      <field name="person_ss">Rhodes, James</field>
+      <field name="personID_ss">per.001278</field>
+      <field name="personData_ss">{"label":"Rhodes, James","id":"per.001278"}</field>
+      <field name="plaintiff_ss">Bell, Moses</field>
+      <field name="plaintiffID_ss">per.001277</field>
+      <field name="plaintiffData_ss">{"label":"Bell, Moses","id":"per.001277"}</field>
+      <field name="defendant_ss">Rhodes, James</field>
+      <field name="defendantID_ss">per.001278</field>
+      <field name="defendantData_ss">{"label":"Rhodes, James","id":"per.001278"}</field>
+      <field name="sourceTitle_s">Affidavit of John Walker, William Lindley &amp; George Barnes</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1842-03</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0179</field>
+      <field name="documentCaseData_ss">{"label":"Moses Bell v. James Rhodes","id":"oscys.caseid.0179"}</field>
+      <field name="jurisdiction_ss">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="text"> Washington County District of Columbia Sct Upon this 1st day of December 1842, before me a justice of the Peace for the County aforesaid personally appeared John Walker, William Lindley &amp; George Barnes competent and credible persons, and made oath that they know Moses Bell, the Petitioner for freedom in a certain case decided in the Circuit Court of the District of Columbia for Washington County, in which James Rhodes was Defendant, and in which a Judgment was rendered in favor of said Petitioner, and that the said Petitioner is not worth one thousand dollars, but is worth much less. They further made oath that the said Petitioner is worth more than one hundred dollars and to the best of their judgments he is worth about the sum of two hundred dollars or two hundred and fifty dollars. Sworn before B K Morsell J.P. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0179</field>
+      <field name="person_ss" update="add">Barnes, George</field>
+      <field name="personID_ss" update="add">per.001300</field>
+      <field name="personData_ss" update="add">{"label":"Barnes, George","id":"per.001300"}</field>
+      <field name="person_ss" update="add">Lindley, William</field>
+      <field name="personID_ss" update="add">per.001301</field>
+      <field name="personData_ss" update="add">{"label":"Lindley, William","id":"per.001301"}</field>
+      <field name="person_ss" update="add">Morsell, Benjamin K.</field>
+      <field name="personID_ss" update="add">per.001621</field>
+      <field name="personData_ss" update="add">{"label":"Morsell, Benjamin K.","id":"per.001621"}</field>
+      <field name="person_ss" update="add">Walker, John</field>
+      <field name="personID_ss" update="add">per.001303</field>
+      <field name="personData_ss" update="add">{"label":"Walker, John","id":"per.001303"}</field>
+      <field name="person_ss" update="add">Bell, Moses</field>
+      <field name="personID_ss" update="add">per.001277</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Moses","id":"per.001277"}</field>
+      <field name="person_ss" update="add">Rhodes, James</field>
+      <field name="personID_ss" update="add">per.001278</field>
+      <field name="personData_ss" update="add">{"label":"Rhodes, James","id":"per.001278"}</field>
+      <field name="plaintiff_ss" update="add">Bell, Moses</field>
+      <field name="plaintiffID_ss" update="add">per.001277</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, Moses","id":"per.001277"}</field>
+      <field name="defendant_ss" update="add">Rhodes, James</field>
+      <field name="defendantID_ss" update="add">per.001278</field>
+      <field name="defendantData_ss" update="add">{"label":"Rhodes, James","id":"per.001278"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Supreme Court - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0177.012</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"James Rhodes v. Moses Bell. Affidavit of John Walker, William Lindley &amp; George Barnes (December 1, 1842)","date":"1842-12-01","dateDisplay":"December 1, 1842","id":"oscys.case.0177.012"}</field>
+   </doc>
+</add>

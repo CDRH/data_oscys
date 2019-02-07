@@ -1,0 +1,127 @@
+<add>
+   <doc>
+      <field name="id">oscys.report.0021.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.report.0021.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.report.0021.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.report.0021.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">John Battaile v. Thomas Miller. Circuit Court Report</field>
+      <field name="titleSort" update="add">john battaile v. thomas miller. circuit court report</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="publisher">Little, Brown and Company</field>
+      <field name="contributor"/>
+      <field name="date">1828-05-01T00:00:00Z</field>
+      <field name="dateDisplay">May 1828</field>
+      <field name="format">manuscript</field>
+      <field name="source">William Cranch, Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841, Volume III, Boston: Little, Brown and Company (1852) </field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Supplementary Documents</field>
+      <field name="subCategory">Court Report</field>
+      <field name="people">Cranch, William, 1769-1855</field>
+      <field name="people">Miller, James Richard</field>
+      <field name="people">Thruston, Buckner, 1763-1845</field>
+      <field name="people">Battaile, John</field>
+      <field name="people">Miller, Thomas, Jr.</field>
+      <field name="people">Ashton, Henry</field>
+      <field name="people">Jones, Walter, 1776-1861</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Alexandria (Va.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Cranch, William, 1769-1855</field>
+      <field name="personID_ss">per.000004</field>
+      <field name="personData_ss">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss">Miller, James Richard</field>
+      <field name="personID_ss">per.000658</field>
+      <field name="personData_ss">{"label":"Miller, James Richard","id":"per.000658"}</field>
+      <field name="person_ss">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss">per.000064</field>
+      <field name="personData_ss">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss">Battaile, John</field>
+      <field name="personID_ss">per.000654</field>
+      <field name="personData_ss">{"label":"Battaile, John","id":"per.000654"}</field>
+      <field name="person_ss">Miller, Thomas, Jr.</field>
+      <field name="personID_ss">per.000655</field>
+      <field name="personData_ss">{"label":"Miller, Thomas, Jr.","id":"per.000655"}</field>
+      <field name="person_ss">Ashton, Henry</field>
+      <field name="personID_ss">per.001183</field>
+      <field name="personData_ss">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="person_ss">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss">per.000435</field>
+      <field name="personData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="plaintiff_ss">Battaile, John</field>
+      <field name="plaintiffID_ss">per.000654</field>
+      <field name="plaintiffData_ss">{"label":"Battaile, John","id":"per.000654"}</field>
+      <field name="defendant_ss">Miller, Thomas, Jr.</field>
+      <field name="defendantID_ss">per.000655</field>
+      <field name="defendantData_ss">{"label":"Miller, Thomas, Jr.","id":"per.000655"}</field>
+      <field name="attorneyD_ss">Ashton, Henry</field>
+      <field name="attorneyDID_ss">per.001183</field>
+      <field name="attorneyDData_ss">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="attorney_ss">Ashton, Henry</field>
+      <field name="attorneyID_ss">per.001183</field>
+      <field name="attorneyData_ss">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="attorneyD_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss">per.000435</field>
+      <field name="attorneyDData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss">per.000435</field>
+      <field name="attorneyData_ss">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="sourceTitle_s">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1828-05</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0083</field>
+      <field name="documentCaseData_ss">{"label":"John Battaile v. Thomas Miller","id":"oscys.caseid.0083"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> Negro John Battles v. Thomas Miller. If a citizen of Virginia, the owner of a slave there, who had resided in Virginia three whole years, remove into the county of Washington with the bonâ fide intention to settle therein; and bring the slave with him, at the time of his removal or within on year thereafter, to reside in the said county, such importation is not contrary to law; but a sale of such slave, in the said county, within three years after such importation, may entitle him to his freedom; although such sale be made to a person residing out of the District of Columbia, and in a State wherein slaves are lawfully held, and intending to take the said slave out of the District of Columbia to the place of the purchaser's residence, and with that intent removing him from Washington to Alexandria, where he ran away and came to Washington and the sale was by mutual consent rescinded; and although the sale, (commenced in Washington,) was not consummated till the removal of the slave to Alexandria; and although the agreement for the sale was made in Alexandria, out of the county of Washington, and was completed at Alexandria by the delivery of the slave, from the vendor to the vendee, there. Petition for freedom. Upon the trial, the defendant's counsel, Mr. Ashton and Mr. Jones, after stating the evidence, prayed the Court to instruct the jury, 1. That if they should be of opinion, from the evidence, that James Richard Miller was a citizen of the United States, and came into the county of Washington, in the District of Columbia, with the bonâ fide intention of settling therein, and imported or brought into the said county, at the time of his removal into the said county, or within one year thereafter, the petitioner, to reside in the said county, and that the said petitioner was the property of the said James Richard Miller at the time of his said removal; and that the petitioner was at the time of his said owner's removal a slave who had resided in the State of Virginia, one of the United States, for three whole years next before such removal, then, and in such case, the petitioner was not imported, or brought into the said country, contrary to law. Which instruction the Court gave as prayed. 2. The defendant's counsel then further prayed the Court to instruct the jury, that if they should be of opinion from the evidence, that the petitioner was imported or brought into the said county, under the circumstances and in the manner aforesaid, then the subsequent sale of him by his said master, although within the county of Washington, and within three years next ensuing the time of such removal, would not entitle the petitioner to his freedom. Which instruction the Court refused to give. 3. The defendant's counsel then prayed the Court to instruct the jury, that if they should find, from the evidence, that the said sale was made to a person residing out of the District of Columbia, and in a State where slaves were lawfully held; and that the immediate and known intent and purpose of the purchaser, in making the said sale, were to take the said slave out of the said district to the place of the purchaser's residence; and that he did immediately, and in fulfilment of such original intent and purpose, remove the said slave from Washington to Alexandria, on his way to his ultimate destination; that the said slave, after being so purchased and removed to Alexandria, was never brought back, by his owner, to Washington; but while temporarily detained in Alexandria till the said purchaser was ready to proceed on his journey, absconded and returned to Washington of his own accord, and that the sale was then rescinded by agreement of parties, then the petitioner did not become entitled to his freedom in virtue of such sale. Which instruction was also refused by the Court. 4. The defendant's counsel, then, further prayed the Court to instruct the jury, that if the said sale was not, in the opinion of the jury, from the evidence, consummated till the removal of the petitioner to Alexandria as aforesaid, though the treaty for the sale commenced before, then the petitioner became not entitled to freedom in virtue of such sale. Which instruction was also refused by the Court. 5. Whereupon the defendant's counsel further prayed the Court to instruct the jury, that if they should find, from the evidence, that the agreement for the said sale was made at Alex- andria, out of the county of Washington, that in the terms of the said agreement the sale was not to be complete till the petitioner should be delivered by the seller to the purchaser at Alexandria, and that such delivery in fact took place there, then such sale and delivery do not entitle the petitioner to freedom. Which instruction the Court also refused to give. 6. Whereupon the defendant's counsel further prayed the Court to instruct the jury, that if they find from the evidence, that the agreement for the said sale was made at Alexandria, out of the county of Washington, and was completed at Alexandria by the delivery of the slave from the vendor to the vendee, there, the said sale is not competent to entitle him to his freedom. Which instruction the Court also refused to give. In all these opinions, except the last, the judges concurred. In the last Judge Thruston did not concur. Upon the point that the sale within three years entitled the prisoner to freedom, the Court referred to the case of Dunbar v. Ball, at October term, 1821, [2 Cranch, 261,] as conclusive. They also referred to Jordan v. Sawyer, in this court at April term, 1823, [2 Cranch, 373.] Cranch, C. J., was of opinion that if the slave was sold by the importer within the three years, the importer is not protected by the 2d section of the Act of 1796, c. 67, from the prohibition contained in the first section. The 1st section contains the general principle—the prohibition to import slaves. The 2d section contains the exception in favor of those who come to reside. The 3d section is an exception to the second. If the case be within the 3d section, it is not within the 2d, and if not within the 2d it is within the first. He was also of opinion that it was immaterial whether the sale was made in or out of the county of Washington. Verdict for the petitioner. </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0083</field>
+      <field name="person_ss" update="add">Cranch, William, 1769-1855</field>
+      <field name="personID_ss" update="add">per.000004</field>
+      <field name="personData_ss" update="add">{"label":"Cranch, William, 1769-1855","id":"per.000004"}</field>
+      <field name="person_ss" update="add">Miller, James Richard</field>
+      <field name="personID_ss" update="add">per.000658</field>
+      <field name="personData_ss" update="add">{"label":"Miller, James Richard","id":"per.000658"}</field>
+      <field name="person_ss" update="add">Thruston, Buckner, 1763-1845</field>
+      <field name="personID_ss" update="add">per.000064</field>
+      <field name="personData_ss" update="add">{"label":"Thruston, Buckner, 1763-1845","id":"per.000064"}</field>
+      <field name="person_ss" update="add">Battaile, John</field>
+      <field name="personID_ss" update="add">per.000654</field>
+      <field name="personData_ss" update="add">{"label":"Battaile, John","id":"per.000654"}</field>
+      <field name="person_ss" update="add">Miller, Thomas, Jr.</field>
+      <field name="personID_ss" update="add">per.000655</field>
+      <field name="personData_ss" update="add">{"label":"Miller, Thomas, Jr.","id":"per.000655"}</field>
+      <field name="person_ss" update="add">Ashton, Henry</field>
+      <field name="personID_ss" update="add">per.001183</field>
+      <field name="personData_ss" update="add">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="person_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="personID_ss" update="add">per.000435</field>
+      <field name="personData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="plaintiff_ss" update="add">Battaile, John</field>
+      <field name="plaintiffID_ss" update="add">per.000654</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Battaile, John","id":"per.000654"}</field>
+      <field name="defendant_ss" update="add">Miller, Thomas, Jr.</field>
+      <field name="defendantID_ss" update="add">per.000655</field>
+      <field name="defendantData_ss" update="add">{"label":"Miller, Thomas, Jr.","id":"per.000655"}</field>
+      <field name="attorneyD_ss" update="add">Ashton, Henry</field>
+      <field name="attorneyDID_ss" update="add">per.001183</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="attorney_ss" update="add">Ashton, Henry</field>
+      <field name="attorneyID_ss" update="add">per.001183</field>
+      <field name="attorneyData_ss" update="add">{"label":"Ashton, Henry","id":"per.001183"}</field>
+      <field name="attorneyD_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyDID_ss" update="add">per.000435</field>
+      <field name="attorneyDData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="attorney_ss" update="add">Jones, Walter, 1776-1861</field>
+      <field name="attorneyID_ss" update="add">per.000435</field>
+      <field name="attorneyData_ss" update="add">{"label":"Jones, Walter, 1776-1861","id":"per.000435"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseRelatedDocumentID_ss" update="add">oscys.report.0021.001</field>
+      <field name="caseRelatedDocumentData_ss" update="add">{"label":"John Battaile v. Thomas Miller. Circuit Court Report (May, 1828)","date":"1828-05","dateDisplay":"May, 1828","id":"oscys.report.0021.001"}</field>
+   </doc>
+</add>

@@ -1,0 +1,103 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0308.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0308.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0308.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0308.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">Louisa Bell v. Lee. Petition for Freedom</field>
+      <field name="titleSort" update="add">louisa bell v. lee. petition for freedom</field>
+      <field name="titleLetter_s" update="add">l</field>
+      <field name="contributor"/>
+      <field name="date">1854-05-23T00:00:00Z</field>
+      <field name="dateDisplay">May 23, 1854</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 814, Folder 94</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Bell, Louisa</field>
+      <field name="people">Lee</field>
+      <field name="people">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="people">Bradley, Joseph H., Jr.</field>
+      <field name="person_ss">Bell, Louisa</field>
+      <field name="personID_ss">per.002349</field>
+      <field name="personData_ss">{"label":"Bell, Louisa","id":"per.002349"}</field>
+      <field name="person_ss">Lee</field>
+      <field name="personID_ss">per.002350</field>
+      <field name="personData_ss">{"label":"Lee","id":"per.002350"}</field>
+      <field name="person_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="personID_ss">per.000829</field>
+      <field name="personData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="person_ss">Bradley, Joseph H., Jr.</field>
+      <field name="personID_ss">per.002341</field>
+      <field name="personData_ss">{"label":"Bradley, Joseph H., Jr.","id":"per.002341"}</field>
+      <field name="plaintiff_ss">Bell, Louisa</field>
+      <field name="plaintiffID_ss">per.002349</field>
+      <field name="plaintiffData_ss">{"label":"Bell, Louisa","id":"per.002349"}</field>
+      <field name="defendant_ss">Lee</field>
+      <field name="defendantID_ss">per.002350</field>
+      <field name="defendantData_ss">{"label":"Lee","id":"per.002350"}</field>
+      <field name="attorneyP_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyPID_ss">per.000829</field>
+      <field name="attorneyPData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorney_ss">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyID_ss">per.000829</field>
+      <field name="attorneyData_ss">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorneyP_ss">Bradley, Joseph H., Jr.</field>
+      <field name="attorneyPID_ss">per.002341</field>
+      <field name="attorneyPData_ss">{"label":"Bradley, Joseph H., Jr.","id":"per.002341"}</field>
+      <field name="attorney_ss">Bradley, Joseph H., Jr.</field>
+      <field name="attorneyID_ss">per.002341</field>
+      <field name="attorneyData_ss">{"label":"Bradley, Joseph H., Jr.","id":"per.002341"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1856-10</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0310</field>
+      <field name="documentCaseData_ss">{"label":"Louisa Bell v. Lee","id":"oscys.caseid.0310"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court The Petition of Louisa Harriet Louisa Bell shows that she is free, and has been seized &amp; is now held and is about to be carried out of this District by a certain — Lee Green &amp; others to her unknown &amp; she prays the process of this Court that she may be adjudged free Bradley &amp; Bradley for Petitner 94 Louisa Bell v — Green Lee filed 23 May 1854 </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0310</field>
+      <field name="person_ss" update="add">Bell, Louisa</field>
+      <field name="personID_ss" update="add">per.002349</field>
+      <field name="personData_ss" update="add">{"label":"Bell, Louisa","id":"per.002349"}</field>
+      <field name="person_ss" update="add">Lee</field>
+      <field name="personID_ss" update="add">per.002350</field>
+      <field name="personData_ss" update="add">{"label":"Lee","id":"per.002350"}</field>
+      <field name="person_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="personID_ss" update="add">per.000829</field>
+      <field name="personData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="person_ss" update="add">Bradley, Joseph H., Jr.</field>
+      <field name="personID_ss" update="add">per.002341</field>
+      <field name="personData_ss" update="add">{"label":"Bradley, Joseph H., Jr.","id":"per.002341"}</field>
+      <field name="plaintiff_ss" update="add">Bell, Louisa</field>
+      <field name="plaintiffID_ss" update="add">per.002349</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Bell, Louisa","id":"per.002349"}</field>
+      <field name="defendant_ss" update="add">Lee</field>
+      <field name="defendantID_ss" update="add">per.002350</field>
+      <field name="defendantData_ss" update="add">{"label":"Lee","id":"per.002350"}</field>
+      <field name="attorneyP_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyPID_ss" update="add">per.000829</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorney_ss" update="add">Bradley, Joseph H. (Joseph Habersham), 1802-1887</field>
+      <field name="attorneyID_ss" update="add">per.000829</field>
+      <field name="attorneyData_ss" update="add">{"label":"Bradley, Joseph H. (Joseph Habersham), 1802-1887","id":"per.000829"}</field>
+      <field name="attorneyP_ss" update="add">Bradley, Joseph H., Jr.</field>
+      <field name="attorneyPID_ss" update="add">per.002341</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Bradley, Joseph H., Jr.","id":"per.002341"}</field>
+      <field name="attorney_ss" update="add">Bradley, Joseph H., Jr.</field>
+      <field name="attorneyID_ss" update="add">per.002341</field>
+      <field name="attorneyData_ss" update="add">{"label":"Bradley, Joseph H., Jr.","id":"per.002341"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0308.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"Louisa Bell v. Lee. Petition for Freedom (May 23, 1854)","date":"1854-05-23","dateDisplay":"May 23, 1854","id":"oscys.case.0308.001"}</field>
+   </doc>
+</add>

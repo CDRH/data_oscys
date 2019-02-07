@@ -1,0 +1,153 @@
+<add>
+   <doc>
+      <field name="id">oscys.case.0060.001</field>
+      <field name="slug" update="add"/>
+      <field name="project" update="add">oscys</field>
+      <field name="uri" update="add">http://earlywashingtondc.org/files/oscys.case.0060.001.html</field>
+      <field name="uriHTML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.case.0060.001.html</field>
+      <field name="uriXML" update="add">https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.case.0060.001.xml</field>
+      <field name="dataType" update="add">tei</field>
+      <field name="title" update="add">John Bacchus Burvill v. William Melvin et al. Petition for Freedom</field>
+      <field name="titleSort" update="add">john bacchus burvill v. william melvin et al. petition for freedom</field>
+      <field name="titleLetter_s" update="add">j</field>
+      <field name="contributor"/>
+      <field name="date">1824-06-06T00:00:00Z</field>
+      <field name="dateDisplay">June 6, 1824</field>
+      <field name="format">manuscript</field>
+      <field name="source">National Archives and Records Administration, Record Group 21, Entry 6, Box 329, Folder 43</field>
+      <field name="rightsHolder">National Archives and Records Administration</field>
+      <field name="principalInvestigator" update="add">Jennifer Guiliano; Trevor Muñoz; William G. Thomas III</field>
+      <field name="principalInvestigators" update="add">Jennifer Guiliano</field>
+      <field name="principalInvestigators" update="add">Trevor Muñoz</field>
+      <field name="principalInvestigators" update="add">William G. Thomas III</field>
+      <field name="category" update="add">Case Papers</field>
+      <field name="subCategory">Petition</field>
+      <field name="people">Brent, William, 1774-1848</field>
+      <field name="people">Grayson, William</field>
+      <field name="people">Burvill, John Bacchus</field>
+      <field name="people">Beale</field>
+      <field name="people">Beale, Polly</field>
+      <field name="people">Grayson, John</field>
+      <field name="people">Grayson, Peter</field>
+      <field name="people">Melvin, William</field>
+      <field name="people">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="places">Virginia</field>
+      <field name="places">Washington County (D.C.)</field>
+      <field name="places">Washington (D.C.)</field>
+      <field name="person_ss">Brent, William, 1774-1848</field>
+      <field name="personID_ss">per.000003</field>
+      <field name="personData_ss">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss">Grayson, William</field>
+      <field name="personID_ss">per.000542</field>
+      <field name="personData_ss">{"label":"Grayson, William","id":"per.000542"}</field>
+      <field name="person_ss">Burvill, John Bacchus</field>
+      <field name="personID_ss">per.000543</field>
+      <field name="personData_ss">{"label":"Burvill, John Bacchus","id":"per.000543"}</field>
+      <field name="person_ss">Beale</field>
+      <field name="personID_ss">per.000538</field>
+      <field name="personData_ss">{"label":"Beale","id":"per.000538"}</field>
+      <field name="person_ss">Beale, Polly</field>
+      <field name="personID_ss">per.000539</field>
+      <field name="personData_ss">{"label":"Beale, Polly","id":"per.000539"}</field>
+      <field name="person_ss">Grayson, John</field>
+      <field name="personID_ss">per.000540</field>
+      <field name="personData_ss">{"label":"Grayson, John","id":"per.000540"}</field>
+      <field name="person_ss">Grayson, Peter</field>
+      <field name="personID_ss">per.000541</field>
+      <field name="personData_ss">{"label":"Grayson, Peter","id":"per.000541"}</field>
+      <field name="person_ss">Melvin, William</field>
+      <field name="personID_ss">per.000544</field>
+      <field name="personData_ss">{"label":"Melvin, William","id":"per.000544"}</field>
+      <field name="person_ss">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="personID_ss">per.000545</field>
+      <field name="personData_ss">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="plaintiff_ss">Burvill, John Bacchus</field>
+      <field name="plaintiffID_ss">per.000543</field>
+      <field name="plaintiffData_ss">{"label":"Burvill, John Bacchus","id":"per.000543"}</field>
+      <field name="defendant_ss">Beale</field>
+      <field name="defendantID_ss">per.000538</field>
+      <field name="defendantData_ss">{"label":"Beale","id":"per.000538"}</field>
+      <field name="defendant_ss">Beale, Polly</field>
+      <field name="defendantID_ss">per.000539</field>
+      <field name="defendantData_ss">{"label":"Beale, Polly","id":"per.000539"}</field>
+      <field name="defendant_ss">Grayson, John</field>
+      <field name="defendantID_ss">per.000540</field>
+      <field name="defendantData_ss">{"label":"Grayson, John","id":"per.000540"}</field>
+      <field name="defendant_ss">Grayson, Peter</field>
+      <field name="defendantID_ss">per.000541</field>
+      <field name="defendantData_ss">{"label":"Grayson, Peter","id":"per.000541"}</field>
+      <field name="defendant_ss">Melvin, William</field>
+      <field name="defendantID_ss">per.000544</field>
+      <field name="defendantData_ss">{"label":"Melvin, William","id":"per.000544"}</field>
+      <field name="attorneyP_ss">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyPID_ss">per.000545</field>
+      <field name="attorneyPData_ss">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="attorney_ss">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyID_ss">per.000545</field>
+      <field name="attorneyData_ss">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="sourceTitle_s">Petition for Freedom</field>
+      <field name="recordType_s">document</field>
+      <field name="term_ss">1824-12</field>
+      <field name="documentCaseID_ss" update="add">oscys.caseid.0060</field>
+      <field name="documentCaseData_ss">{"label":"John Bacchus Burvill v. William Melvin, Beale, Polly Beale, John Grayson, &amp; Peter Grayson","id":"oscys.caseid.0060"}</field>
+      <field name="jurisdiction_ss">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="text"> To the Honorable the Judges of the Circuit Court of the District of Columbia, for the County of Washington, The Petition of John Bacchus Burvill humbly sheweth, That your Petitioner was a slave belonging to William Grayson of       County in Virginia at the time of his Death. That the Executor of said Grayson's Estate is one William Melvin. that he left a widow who has since intermarried with one       Beale, and two sons who he believes are still living, to wit. John Grayson &amp; Peter Grayson. Your Petitioner was brought or sent from said       County in Virginia about the       in the year Eighteen hundred and       into the County of Washington &amp; District of Columbia, to reside therein, contrary to the provisions of the act of Assembly of Maryland, then &amp; now of force in the said County of Washington, whereby (as he is advised) he is entitled to his freedom, &amp; prays your honors to allow him a trial therefor &amp; his discharge from slavery if he shall be found Entitled to it. B L Lear for Petr 43 John Bacchus Burvill vs Wm Melvin Exr of Wm Grayson, decd, ____ Beale &amp; Polly his wife John Grayson Peter Grayson Mr Brent Please file this Petn &amp; issue subpoenas. B. L. Lear 4 June 1824. Filed June 6th 1824 Cert. given to Petitioner </field>
+   </doc>
+   <doc>
+      <field name="id">oscys.caseid.0060</field>
+      <field name="person_ss" update="add">Brent, William, 1774-1848</field>
+      <field name="personID_ss" update="add">per.000003</field>
+      <field name="personData_ss" update="add">{"label":"Brent, William, 1774-1848","id":"per.000003"}</field>
+      <field name="person_ss" update="add">Grayson, William</field>
+      <field name="personID_ss" update="add">per.000542</field>
+      <field name="personData_ss" update="add">{"label":"Grayson, William","id":"per.000542"}</field>
+      <field name="person_ss" update="add">Burvill, John Bacchus</field>
+      <field name="personID_ss" update="add">per.000543</field>
+      <field name="personData_ss" update="add">{"label":"Burvill, John Bacchus","id":"per.000543"}</field>
+      <field name="person_ss" update="add">Beale</field>
+      <field name="personID_ss" update="add">per.000538</field>
+      <field name="personData_ss" update="add">{"label":"Beale","id":"per.000538"}</field>
+      <field name="person_ss" update="add">Beale, Polly</field>
+      <field name="personID_ss" update="add">per.000539</field>
+      <field name="personData_ss" update="add">{"label":"Beale, Polly","id":"per.000539"}</field>
+      <field name="person_ss" update="add">Grayson, John</field>
+      <field name="personID_ss" update="add">per.000540</field>
+      <field name="personData_ss" update="add">{"label":"Grayson, John","id":"per.000540"}</field>
+      <field name="person_ss" update="add">Grayson, Peter</field>
+      <field name="personID_ss" update="add">per.000541</field>
+      <field name="personData_ss" update="add">{"label":"Grayson, Peter","id":"per.000541"}</field>
+      <field name="person_ss" update="add">Melvin, William</field>
+      <field name="personID_ss" update="add">per.000544</field>
+      <field name="personData_ss" update="add">{"label":"Melvin, William","id":"per.000544"}</field>
+      <field name="person_ss" update="add">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="personID_ss" update="add">per.000545</field>
+      <field name="personData_ss" update="add">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="plaintiff_ss" update="add">Burvill, John Bacchus</field>
+      <field name="plaintiffID_ss" update="add">per.000543</field>
+      <field name="plaintiffData_ss" update="add">{"label":"Burvill, John Bacchus","id":"per.000543"}</field>
+      <field name="defendant_ss" update="add">Beale</field>
+      <field name="defendantID_ss" update="add">per.000538</field>
+      <field name="defendantData_ss" update="add">{"label":"Beale","id":"per.000538"}</field>
+      <field name="defendant_ss" update="add">Beale, Polly</field>
+      <field name="defendantID_ss" update="add">per.000539</field>
+      <field name="defendantData_ss" update="add">{"label":"Beale, Polly","id":"per.000539"}</field>
+      <field name="defendant_ss" update="add">Grayson, John</field>
+      <field name="defendantID_ss" update="add">per.000540</field>
+      <field name="defendantData_ss" update="add">{"label":"Grayson, John","id":"per.000540"}</field>
+      <field name="defendant_ss" update="add">Grayson, Peter</field>
+      <field name="defendantID_ss" update="add">per.000541</field>
+      <field name="defendantData_ss" update="add">{"label":"Grayson, Peter","id":"per.000541"}</field>
+      <field name="defendant_ss" update="add">Melvin, William</field>
+      <field name="defendantID_ss" update="add">per.000544</field>
+      <field name="defendantData_ss" update="add">{"label":"Melvin, William","id":"per.000544"}</field>
+      <field name="attorneyP_ss" update="add">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyPID_ss" update="add">per.000545</field>
+      <field name="attorneyPData_ss" update="add">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="attorney_ss" update="add">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</field>
+      <field name="attorneyID_ss" update="add">per.000545</field>
+      <field name="attorneyData_ss" update="add">{"label":"Lear, Benjamin L. (Benjamin Lincoln), 1792-1832","id":"per.000545"}</field>
+      <field name="jurisdiction_ss" update="add">United States. Circuit Court (District of Columbia) - Washington (D.C.)</field>
+      <field name="caseDocumentID_ss" update="add">oscys.case.0060.001</field>
+      <field name="caseDocumentData_ss" update="add">{"label":"John Bacchus Burvill v. William Melvin et al. Petition for Freedom (June 6, 1824)","date":"1824-06-06","dateDisplay":"June 6, 1824","id":"oscys.case.0060.001"}</field>
+   </doc>
+</add>
