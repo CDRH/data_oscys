@@ -636,7 +636,7 @@
 			<xsl:variable name="jurisdiction">
 				<xsl:value-of select="$org"/>
 				<xsl:choose>
-					<xsl:when test="not($place/text() = '')">
+					<xsl:when test="not(string($place/text()) = '')">
 						- 
 						<xsl:value-of select="$place"/>
 					</xsl:when>
@@ -898,7 +898,7 @@
 					<xsl:variable name="jurisdiction">
 						<xsl:value-of select="$org"/>
 						<xsl:choose>
-							<xsl:when test="not($place/text() = '')">
+							<xsl:when test="not(string($place/text()) = '')">
 								- 
 								<xsl:value-of select="$place"/>
 							</xsl:when>
