@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
-
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0423.003">
-    
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Caroline Blue &amp; Noah Blue v. Charles W. C. Dunnington. Affidavit of William S. Colquhoun</title>
 <principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
-<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
-<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<principal n="Muñoz, Trevor" xml:id="tm">Trevor Muñoz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Askren, Elizabeth" xml:id="ea">Elizabeth Askren</name>
@@ -20,13 +18,11 @@
 <sponsor>University of Maryland</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
 </titleStmt>
-    
 <editionStmt>
 <edition>
 <date>2016</date>
 </edition>
 </editionStmt>
-            
 <publicationStmt>
 <authority>O Say Can You See</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
@@ -34,20 +30,18 @@
 <name>Center for Digital Research in the Humanities</name>
 <address>
 <addrLine>319 Love Library</addrLine>
-<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
 <addrLine>Lincoln, NE 68588-4100</addrLine>
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
 <idno type="project">oscys.case.0423.003</idno>
 <idno type="case">oscys.caseid.0451</idno>
-
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
 </availability>
 </publicationStmt>
-            
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Affidavit of William S. Colquhoun</title>
@@ -63,50 +57,43 @@
 </msDesc>
 </sourceDesc>
 </fileDesc>
-        
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
 <term>Case Papers</term>
 </keywords>
-    
 <keywords scheme="original" n="subcategory">
 <term>Affidavit</term>
 </keywords>
-
 <keywords scheme="original" n="type">
 <term>Civil</term>
 </keywords>
-
 <keywords scheme="original" n="subtype">
 <term>Petition for Freedom</term>
 </keywords>
-
 <keywords scheme="original" n="term">
-<term><date when="1843-10">October 1843</date></term>
+<term>
+<date when="1843-10">October 1843</date>
+</term>
 </keywords>
-    
-<keywords scheme="lcsh" n="people">   
+<keywords scheme="lcsh" n="people">
 <term xml:id="per.001745">Colquhoun, William S.</term>
 <term xml:id="per.003467">Dunnington, Francis H.</term>
 <term xml:id="per.003472">Hampton, Thomas R.</term>
 </keywords>
-
-<keywords scheme="lcsh" n="places">   
-<term>Virginia</term> 
+<keywords scheme="lcsh" n="places">
+<term>Virginia</term>
 <term>Alexandria County (Va.)</term>
 <term>Washington (D.C.)</term>
 </keywords>
-
 </textClass>
-            
-<particDesc>   
-<listPerson>            
+<particDesc>
+<listPerson>
 <person role="petitioner" xml:id="per.003468">
 <persName>Blue, Caroline</persName>
 </person>
 <person role="petitioner" xml:id="per.003469">
-<persName>Blue, Noah</persName> 
+<persName>Blue, Noah</persName>
 </person>
 <person role="defendant" xml:id="per.003470">
 <persName>Dunnington, Charles W. C.</persName>
@@ -118,63 +105,44 @@
 <persName/>
 </person>
 </listPerson>
-            
 <listOrg>
 <org>
 <orgName>United States. Circuit Court (District of Columbia)</orgName>
 <placeName>Alexandria (Washington, D.C.)</placeName>
 </org>
-</listOrg>   
-</particDesc> 
+</listOrg>
+</particDesc>
 </profileDesc>
-        
 <revisionDesc>
-<change when="2016-10-17" who="#lkw">added xml:ids</change>  
-<change when="2016-07-18" who="#kln">reviewed, edited</change>                
+<change when="2016-10-17" who="#lkw">added xml:ids</change>
+<change when="2016-07-18" who="#kln">reviewed, edited</change>
 <change when="2016-06-21" who="#ea">Encoded and transcribed</change>
 </revisionDesc>
-
 </teiHeader>
-    
 <text>
-
-<body>  
-               
+<body>
 <div1 type="case">
-
 <pb xml:id="p001" facs="oscys.case.0423.003.001.jpg"/>
-
 <div2 type="caption">
-
 <p>District of Columbia<lb/>
 Washington County Solicits</p>
-
 </div2>
-
 <div2 type="body">
-     
 <p>On this 5th day of Septr. 1843 came personally before me the Subscriber a Justice of the Peace for said County, Wm. S. Colquhoun of Washington and being duly sworn according to Law states as follows. That Charles W. C. Dunnington his nephew was appointed in 1834 to the Printing business in Washington. That his father Francis H Dunnington died in 1827 leaving his estate very much involved, so much, so that the Administratrix his widow by her own labor and execution alone enabled him in a long time to claim the Estate from debt which was followed by a division of the negroes in the year 1839. That the said Charles became of age in Decr. 1839 and went home to Virginia to his mothers. That in 1840 he returned with his portion to Washington to wit Caroline and Noah where they have remained ever since in his possession until June last when they were removed to Alexandria. This deponent further states that the said Charles W. C. Dunnington is the rightful owner of the said Negroes. further this deponent saith not.</p>
-
 <p>W. S. Colquhoun</p>
-
 <p>Sworn to and subscribed before Th R Hampton JP</p>
-
 </div2>
-
 <pb xml:id="p002" facs="oscys.case.0423.003.002.jpg"/>
-
 <div2 type="back">
-
 <p>Re Negroes Caroline &amp; Noah</p>
-
 <p>Affidavit filed in support of the rule by Dunnington</p>
-
 <p>Deposition</p>
-
 </div2>
-
+<div2 type="documents">
+<!--documents generated programmatically from document files-->
+<ab type="document">oscys.case.0423.002</ab>
+</div2>
 </div1>
-    
 </body>
 </text>
 </TEI>
