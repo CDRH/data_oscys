@@ -46,7 +46,7 @@ class TeiToSolr
   # returns an array of strings
   def get_field(xml, xpath)
     values = xml.xpath(xpath)
-    values = values.map { |val| val.text }
+    values = values.map { |val| CommonXml.normalize_space(val.text) }
     values.reject { |val| val.empty? }
   end
 

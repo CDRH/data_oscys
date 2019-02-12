@@ -9,11 +9,11 @@ class FileTei < FileType
     # imitating structure of tei_to_es for oscys overrides
     # but not worrying about breaking into subdocuments for each class
     if self.filename.include?("persons")
-      # @file_location
       require_relative "tei_to_solr_personography.rb"
       docs = TeiToSolrPersonography.new(@options, self.file_location, self.out_solr).xml
     elsif self.filename.include?("caseid")
-      # caseid
+      require_relative "tei_to_solr_caseid.rb"
+      docs = TeiToSolrCaseid.new(@options, self.file_location, self.out_solr).xml
     else
       # document
     end
