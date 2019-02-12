@@ -1,4 +1,7 @@
 class Datura::DataManager
+  # entire purpose of this override is to insert document ids into
+  # caseid xml files BEFORE running the transformation scripts per file
+
 
   # oscys caseid files have some elements with attribute `xml:id`
   # and these are removed when writing the file if loaded with no namespace
@@ -46,7 +49,7 @@ class Datura::DataManager
         else
           div2 = div1.add_child("<div2 type='documents'/>").first
           comment = Nokogiri::XML::Comment.new(
-            caseid_xml, "documents generated programmatically from document files"
+            caseid_xml, "Documents are generated programmatically from document files. If document is no longer associated with a case it must be manually removed below."
           )
           div2.add_child(comment)
         end
