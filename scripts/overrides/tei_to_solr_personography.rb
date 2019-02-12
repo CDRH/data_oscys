@@ -2,6 +2,7 @@ class TeiToSolrPersonography
 
   def initialize(options, file_location, output_location)
     @options = options
+    @file_location = file_location
     # this returns multiple documents for the single file in question
     # line 674 of tei_to_solr.xsl has tei_person template
     @people_xml = CommonXml.create_xml_object(file_location)
@@ -20,7 +21,7 @@ class TeiToSolrPersonography
       json["id"] = val.parent["source"][/oscys\.[a-z]+\.[0-9]{4}\.[0-9]{3}/]
     end
 
-    # TODO it seems wrong to have "date" be a non date format (includes text, etc)
+    # Note it seems wrong to have "date" be a non date format (includes text, etc)
     # but this is how it was being outputted in XSLT
     date = []
     date << "Not after #{val["notAfter"]}" if val["notAfter"]
@@ -88,32 +89,22 @@ class TeiToSolrPersonography
       xml.add {
         @people_xml.xpath("//person").each do |person|
           id = person["id"]
-          # TODO look into the "source" part of the dataIDSourceData template
-          # which is confusing to me
-
           # note: ".doc" is an existing method so have to use doc_ to distinguish
           xml.doc_ {
-            # TODO take this field out after we've used it
-            xml.field("", "name" => "slug", "update" => "add")
-            xml.field(@options["collection"], "name" => "project", "update" => "add")
+            xml.field(@options["collection"], "name" => "project")
             # Note altered from original XSLT
-            # xml.field(File.join(@options["variables_solr"]["site_location"], "people", id), "name" => "uri", "update" => "add")
-            # xml.field(File.join(@options["data_base"], "data", @options["collection"], "output", @options["environment"], "html", "#{id}.html"), "name" => "uriHTML", "update" => "add")
-            # TODO
-            # xml.field(File.join(@options["data_base"], "data", @options["collection"], "source/tei/oscys.person.xml"), "name" => "uriXML", "update" => "add")
+            filename = File.basename(@file_location)
+            xml.field(File.join(@options["variables_solr"]["site_location"], "people", id), "name" => "uri")
+            xml.field(File.join(@options["data_base"], "data", @options["collection"], "output", @options["environment"], "html", "#{id}.html"), "name" => "uriHTML")
+            xml.field(File.join(@options["data_base"], "data", @options["collection"], "source/tei", filename), "name" => "uriXML")
 
-            # TODO remove these later and replace with above, simply copying XSLT to verify all is well
-            xml.field("http://earlywashingtondc.org/files/oscys.persons.html", "name" => "uri", "update" => "add")
-            xml.field("https://cdrhdev1.unl.edu/media/data/oscys/output/development/html/oscys.persons.html", "name" => "uriHTML", "update" => "add")
-            xml.field("https://cdrhdev1.unl.edu/media/data/oscys/source/tei/oscys.persons.xml", "name" => "uriXML", "update" => "add")
-
-            xml.field("tei", "name" => "dataType", "update" => "add")
+            xml.field("tei", "name" => "dataType")
             title = get_pers_name(person)
-            xml.field(title, "name" => "title", "update" => "add")
-            xml.field(CommonXml.normalize_name(title), "name" => "titleSort", "update" => "add")
+            xml.field(title, "name" => "title")
+            xml.field(CommonXml.normalize_name(title), "name" => "titleSort")
             # grab the first letter of the title
             letter = title[0] ? title[0].downcase : ""
-            xml.field(letter, "name" => "titleLetter_s", "update" => "add")
+            xml.field(letter, "name" => "titleLetter_s")
 
             # TODO check if contributor / date fields needed for personography
             xml.field("", "name" => "contributor")
@@ -121,11 +112,11 @@ class TeiToSolrPersonography
             xml.field("", "name" => "dateDisplay")
             
             if @principals
-              xml.field(@principals.join("; "), "name" => "principalInvestigator", "update" => "add")
-              @principals.each { |p| xml.field(p, "name" => "principalInvestigators", "update" => "add") }
+              xml.field(@principals.join("; "), "name" => "principalInvestigator")
+              @principals.each { |p| xml.field(p, "name" => "principalInvestigators") }
             end
 
-            xml.field("People", "name" => "category", "update" => "add")
+            xml.field("People", "name" => "category")
             xml.field("Person", "name" => "subCategory")
             xml.field("", "name" => "sourceTitle_s")
             xml.field("person", "name" => "recordType_s")
@@ -175,7 +166,6 @@ class TeiToSolrPersonography
               xml.field(json(b), "name" => "personBiblData_ss")
             end
 
-            # TODO birth / death / event check the Data logic because I'm confused
             get_field(person, "birth").each do |b|
               xml.field(b["val"], "name" => "personBirth_ss")
               xml.field(json(b), "name" => "personBirthData_ss")
@@ -221,7 +211,6 @@ class TeiToSolrPersonography
               xml.field(json(t), "name" => "personColorData_ss")
             end
 
-            # TODO get spacing correct and normalize space
             text = []
             person.traverse do |node|
               text << node.text if node.class == Nokogiri::XML::Text
