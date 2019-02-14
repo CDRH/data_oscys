@@ -1,5 +1,6 @@
 class TeiToSolr
 
+  # TODO is this only used for persography?  If so, move to that class
   def build_json_field(val, label=nil)
     json = {}
 
@@ -24,7 +25,6 @@ class TeiToSolr
     end
     # remove nil keys
     json.each { |k,v| json.delete(k) if !v }
-    # json.delete("id") if !json["id"]
 
     json
   end
@@ -47,15 +47,16 @@ class TeiToSolr
   end
 
   # returns an array of strings
-  def get_field(xml, xpath)
-    values = xml.xpath(xpath)
+  def get_field(xml_in, xpath)
+    values = xml_in.xpath(xpath)
     values = values.map { |val| CommonXml.normalize_space(val.text) }
     values.reject { |val| val.empty? }
   end
 
+  # TODO does anything besides personography use this?
   # returns a data structure formatted for Data_ss fields
-  def get_data_field(xml, xpath)
-    values = xml.xpath(xpath)
+  def get_data_field(xml_in, xpath)
+    values = xml_in.xpath(xpath)
     values = values.reject { |val| val.text.empty? }
     values.map { |val| build_json_field(val) }
   end
