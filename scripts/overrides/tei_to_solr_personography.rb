@@ -16,138 +16,137 @@ class TeiToSolrPersonography < TeiToSolr
   end
 
   def xml
-    builder = Nokogiri::XML::Builder.new do |xml|
-      xml.add {
+    builder = Nokogiri::XML::Builder.new do |x|
+      x.add {
         @people_xml.xpath("//person").each do |person|
           id = person["id"]
           # note: ".doc" is an existing method so have to use doc_ to distinguish
-          xml.doc_ {
-            xml.field(@options["collection"], "name" => "project")
+          x.doc_ {
+            x.field(@options["collection"], "name" => "project")
             # Note altered from original XSLT
             filename = File.basename(@file_location)
-            xml.field(File.join(@options["variables_solr"]["site_location"], "people", id), "name" => "uri")
-            xml.field(File.join(@options["data_base"], "data", @options["collection"], "output", @options["environment"], "html", "#{id}.html"), "name" => "uriHTML")
-            xml.field(File.join(@options["data_base"], "data", @options["collection"], "source/tei", filename), "name" => "uriXML")
+            x.field(File.join(@options["variables_solr"]["site_location"], "people", id), "name" => "uri")
+            x.field(File.join(@options["data_base"], "data", @options["collection"], "output", @options["environment"], "html", "#{id}.html"), "name" => "uriHTML")
+            x.field(File.join(@options["data_base"], "data", @options["collection"], "source/tei", filename), "name" => "uriXML")
 
-            xml.field("tei", "name" => "dataType")
+            x.field("tei", "name" => "dataType")
             title = get_pers_name(person)
-            xml.field(title, "name" => "title")
-            xml.field(CommonXml.normalize_name(title), "name" => "titleSort")
+            x.field(title, "name" => "title")
+            x.field(CommonXml.normalize_name(title), "name" => "titleSort")
             # grab the first letter of the title
             letter = title[0] ? title[0].downcase : ""
-            xml.field(letter, "name" => "titleLetter_s")
+            x.field(letter, "name" => "titleLetter_s")
 
             # TODO check if contributor / date fields needed for personography
-            xml.field("", "name" => "contributor")
-            xml.field("", "name" => "date")
-            xml.field("", "name" => "dateDisplay")
+            x.field("", "name" => "contributor")
+            x.field("", "name" => "date")
+            x.field("", "name" => "dateDisplay")
             
             if @principals
-              xml.field(@principals.join("; "), "name" => "principalInvestigator")
-              @principals.each { |p| xml.field(p, "name" => "principalInvestigators") }
+              x.field(@principals.join("; "), "name" => "principalInvestigator")
+              @principals.each { |p| x.field(p, "name" => "principalInvestigators") }
             end
 
-            xml.field("People", "name" => "category")
-            xml.field("Person", "name" => "subCategory")
-            xml.field("", "name" => "sourceTitle_s")
-            xml.field("person", "name" => "recordType_s")
+            x.field("People", "name" => "category")
+            x.field("Person", "name" => "subCategory")
+            x.field("", "name" => "sourceTitle_s")
+            x.field("person", "name" => "recordType_s")
 
-            xml.field(id, "name" => "id")
-            xml.field(title, "name" => "people_ss")
-            xml.field(id, "name" => "peopleID_ss")
+            x.field(id, "name" => "id")
+            x.field(title, "name" => "people_ss")
+            x.field(id, "name" => "peopleID_ss")
 
             # TODO this is in the XSLT but doesn't actually appear to be
             # in the output file
             get_field(person, "idno[@type='viaf']").each do |v|
-              xml.field(v, "name" => "personIdnoVIAF_ss")
+              x.field(v, "name" => "personIdnoVIAF_ss")
             end
 
             # Note seems odd to just pull first name but that's how the XSLT worked
             get_data_field(person, "persName[1]").each do |p|
-              puts p
-              xml.field(json(p, {"id" => id}), "name" => "peopleData_ss")
-              xml.field(p["label"], "name" => "personName_ss")
-              xml.field(json(p), "name" => "personNameData_ss")
+              x.field(json(p, {"id" => id}), "name" => "peopleData_ss")
+              x.field(p["label"], "name" => "personName_ss")
+              x.field(json(p), "name" => "personNameData_ss")
             end
 
             get_field(person, "persName/addName").each do |n|
-              xml.field(n, "name" => "personAltName_ss")
+              x.field(n, "name" => "personAltName_ss")
             end
 
             get_field(person, "persName/surname[@type='birth']").each do |s|
-              xml.field(s, "name" => "personBirthName_ss")
+              x.field(s, "name" => "personBirthName_ss")
             end
 
             get_data_field(person, "sex").each do |s|
-              xml.field(s["label"], "name" => "personSex_ss")
-              xml.field(json(s), "name" => "personSexData_ss")
+              x.field(s["label"], "name" => "personSex_ss")
+              x.field(json(s), "name" => "personSexData_ss")
             end
 
             get_data_field(person, "affiliation").each do |a|
-              xml.field(a["label"], "name" => "personAffiliation_ss")
-              xml.field(json(a), "name" => "personAffiliationData_ss")
+              x.field(a["label"], "name" => "personAffiliation_ss")
+              x.field(json(a), "name" => "personAffiliationData_ss")
             end
 
             get_data_field(person, "age").each do |a|
-              xml.field(a["label"], "name" => "personAge_ss")
-              xml.field(json(a), "name" => "personAgeData_ss")
+              x.field(a["label"], "name" => "personAge_ss")
+              x.field(json(a), "name" => "personAgeData_ss")
             end
 
             get_data_field(person, "bibl").each do |b|
-              xml.field(b["label"], "name" => "personBibl_ss")
-              xml.field(json(b), "name" => "personBiblData_ss")
+              x.field(b["label"], "name" => "personBibl_ss")
+              x.field(json(b), "name" => "personBiblData_ss")
             end
 
             get_data_field(person, "birth").each do |b|
-              xml.field(b["label"], "name" => "personBirth_ss")
-              xml.field(json(b), "name" => "personBirthData_ss")
+              x.field(b["label"], "name" => "personBirth_ss")
+              x.field(json(b), "name" => "personBirthData_ss")
             end
 
             get_data_field(person, "death").each do |d|
-              xml.field(d["label"], "name" => "personDeath_ss")
-              xml.field(json(d), "name" => "personDeathData_ss")
+              x.field(d["label"], "name" => "personDeath_ss")
+              x.field(json(d), "name" => "personDeathData_ss")
             end
 
             get_data_field(person, "event").each do |e|
-              xml.field(e["label"], "name" => "personEvent_ss")
-              xml.field(json(e), "name" => "personEventData_ss")
+              x.field(e["label"], "name" => "personEvent_ss")
+              x.field(json(e), "name" => "personEventData_ss")
             end
 
             get_data_field(person, "nationality").each do |n|
-              xml.field(n["label"], "name" => "personNationality_ss")
-              xml.field(json(n), "name" => "personNationalityData_ss")
+              x.field(n["label"], "name" => "personNationality_ss")
+              x.field(json(n), "name" => "personNationalityData_ss")
             end
 
             get_data_field(person, "note").each do |n|
-              xml.field(n["label"], "name" => "personNote_ss")
-              xml.field(json(n), "name" => "personNoteData_ss")
+              x.field(n["label"], "name" => "personNote_ss")
+              x.field(json(n), "name" => "personNoteData_ss")
             end
 
             get_data_field(person, "occupation").each do |o|
-              xml.field(o["label"], "name" => "personOccupation_ss")
-              xml.field(json(o), "name" => "personOccupationData_ss")
+              x.field(o["label"], "name" => "personOccupation_ss")
+              x.field(json(o), "name" => "personOccupationData_ss")
             end
 
             get_data_field(person, "residence").each do |r|
-              xml.field(r["label"], "name" => "personResidence_ss")
-              xml.field(json(r), "name" => "personResidenceData_ss")
+              x.field(r["label"], "name" => "personResidence_ss")
+              x.field(json(r), "name" => "personResidenceData_ss")
             end
 
             get_data_field(person, "socecStatus").each do |s|
-              xml.field(s["label"], "name" => "personSocecStatus_ss")
-              xml.field(json(s), "name" => "personSocecStatusData_ss")
+              x.field(s["label"], "name" => "personSocecStatus_ss")
+              x.field(json(s), "name" => "personSocecStatusData_ss")
             end
 
             get_data_field(person, "trait[@type='color']").each do |t|
-              xml.field(t["label"], "name" => "personColor_ss")
-              xml.field(json(t), "name" => "personColorData_ss")
+              x.field(t["label"], "name" => "personColor_ss")
+              x.field(json(t), "name" => "personColorData_ss")
             end
 
             text = []
             person.traverse do |node|
               text << node.text if node.class == Nokogiri::XML::Text
             end
-            xml.field(CommonXml.normalize_space(text.join(" ")), "name" => "text")
+            x.field(CommonXml.normalize_space(text.join(" ")), "name" => "text")
           }
         end
       }

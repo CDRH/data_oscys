@@ -10,19 +10,22 @@ class TeiToSolrCaseid < TeiToSolr
 
   # THINGS THAT CAN PROBABLY BE REUSED BY DOCUMENTS
   # TODO evaluate and move when working on documents
-  def doc_date(xml)
+  def doc_date(doc_xml)
     date_node = nil
-    if xml.at_xpath("//keywords[@n='subcategory']/term[text()='Court Report']")
-      date_node = xml.at_xpath("//keywords[@n='term']/term/date")
+    if doc_xml.at_xpath("//keywords[@n='subcategory']/term[text()='Court Report']")
+      date_node = doc_xml.at_xpath("//keywords[@n='term']/term/date")
     else
-      date_node = xml.at_xpath("/TEI/teiHeader/fileDesc/sourceDesc/bibl/date")
+      date_node = doc_xml.at_xpath("/TEI/teiHeader/fileDesc/sourceDesc/bibl/date")
     end
-    { "date" => date_node["when"], "dateDisplay" => date_node.text } if date_node
+    if date_node
+      { "date" => date_node["when"], "dateDisplay" => CommonXml.normalize_space(date_node.text) }
+    end
   end
 
-  def documents(xml)
-    # collect people at the top so that they can be deduplicated
+  def documents(x)
+    # collect certain fields at the top so that they can be deduplicated
     # after all the documents have reported back
+    jurisdictions = []
     people_role = {
       "person" => [],
       "plaintiff" => [],
@@ -42,11 +45,34 @@ class TeiToSolrCaseid < TeiToSolr
       # neither type of date is actually assigned directly to the caseid
       # but it is used to populate data fields for specific outcomes, etc
       date = doc_date(doc)
+      title = get_field(doc, "/TEI/teiHeader/fileDesc/titleStmt/title").first
+      title = "#{title} (#{date["dateDisplay"]})" if !date["dateDisplay"].empty?
+
+      # if this is a Case Paper then it should be a case document, otherwise
+      # consider it a related document
+      data = { "label" => title, "id" => doc_id }.merge(date)
+      if get_field(doc, "//keywords[@n='category']").include?("Case Papers")
+        x.field(doc_id, "name" => "caseDocumentID_ss")
+        x.field(json(data), "name" => "caseDocumentData_ss")
+      else
+        x.field(doc_id, "name" => "caseRelatedDocumentID_ss")
+        x.field(json(data), "name" => "caseRelatedDocumentData_ss")
+      end
 
       # TODO verify this is working with a different case
       get_field(doc, "//TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term").each do |outcome|
-        xml.field(json({ "label" => outcome, "id" => doc_id }.merge(date)), "name" => "outcomeData_ss")
-        xml.field(outcome, "name" => "outcome_ss")
+        x.field(json({ "label" => outcome, "id" => doc_id }.merge(date)), "name" => "outcomeData_ss")
+        x.field(outcome, "name" => "outcome_ss")
+      end
+
+      # TODO not sure if we need documentCaseData_ss in caseid documents?
+
+      doc.xpath("//org").each do |org|
+        jurisdiction = org.at_xpath("orgName").text
+        if org.at_xpath("placeName")
+          jurisdiction << " - #{org.at_xpath("placeName").text}"
+        end
+        jurisdictions << jurisdiction
       end
 
       # sometimes a document belongs to two cases at once
@@ -91,8 +117,12 @@ class TeiToSolrCaseid < TeiToSolr
         end
       end
 
-
     end
+
+    # AFTER INDIVIDUAL DOCUMENTS HAVE BEEN RUN
+
+    # deduplicate jurisdiction and push
+    jurisdictions.uniq.each { |j| x.field(j, "name" => "jurisdiction_ss") }
 
     # add attorneys together
     people_role["attorney"] = people_role["attorneyP"] + people_role["attorneyD"]
@@ -102,10 +132,10 @@ class TeiToSolrCaseid < TeiToSolr
       uniq_ppl = people.uniq { |person| person["id"] }
       # make the following fields for each role:  _ss, ID_ss, Data_ss
       uniq_ppl.each do |uniq_pers|
-        xml.field(uniq_pers["id"], "name" => "#{role}ID_ss")
-        xml.field(uniq_pers["label"], "name" => "#{role}_ss")
+        x.field(uniq_pers["id"], "name" => "#{role}ID_ss")
+        x.field(uniq_pers["label"], "name" => "#{role}_ss")
         obj = { "label" => uniq_pers["label"], "id" => uniq_pers["id"] }
-        xml.field(json(obj), "name" => "#{role}Data_ss")
+        x.field(json(obj), "name" => "#{role}Data_ss")
       end
     end
   end
@@ -118,13 +148,7 @@ class TeiToSolrCaseid < TeiToSolr
     title.first.text if title && title.first
   end
 
-  def related_cases(xml)
-    # TODO put this inside the other related cases loop once it's determined that
-    # there have been no changes to the case files
-    @xml.xpath("//ref[@type='related.case']/text()").each do |f|
-      caseid = f.text
-      xml.field(caseid, "name" => "relatedCaseID_ss", "update" => "add")
-    end
+  def related_cases(x)
     # you have to open all of the caseid files in question to get titles
     # note: this assumes caseid files are always TEI XML
     @xml.xpath("//ref[@type='related.case']/text()").each do |f|
@@ -134,41 +158,39 @@ class TeiToSolrCaseid < TeiToSolr
         case_xml = CommonXml.create_xml_object(case_file)
         title = get_field(case_xml, "//title").first
         data = { "label" => title, "id" => caseid }
-        xml.field(JSON.generate(data), "name" => "relatedCaseData_ss", "update" => "add")
-        xml.field(caseid, "name" => "relatedCaseID_ss", "update" => "add")
+        x.field(JSON.generate(data), "name" => "relatedCaseData_ss")
+        x.field(caseid, "name" => "relatedCaseID_ss")
       end
     end
   end
 
   def xml
-    builder = Nokogiri::XML::Builder.new do |xml|
+    builder = Nokogiri::XML::Builder.new do |x|
       @id = @xml.at_xpath("//idno").text
-      xml.add {
+      x.add {
         # note: ".doc" is an existing method so have to use doc_ to distinguish
-        xml.doc_ {
-          xml.field(@id, "name" => "id")
-          xml.field("", "name" => "slug", "update" => "add")
-          xml.field(@options["collection"], "name" => "project", "update" => "add")
+        x.doc_ {
+          x.field(@id, "name" => "id")
+          x.field(@options["collection"], "name" => "project")
           # TODO replace with more accurate URL
-          xml.field("http://earlywashingtondc.org/files/#{@id}.html", "name" => "uri", "update" => "add")
-          # xml.field(File.join(@options["variables_solr"]["site_location"], "people", id), "name" => "uri", "update" => "add")
-          xml.field(File.join(@options["data_base"], "data", @options["collection"], "output", @options["environment"], "html", "#{@id}.html"), "name" => "uriHTML", "update" => "add")
+          x.field(File.join(@options["variables_solr"]["site_location"], "cases", @id), "name" => "uri")
+          x.field(File.join(@options["data_base"], "data", @options["collection"], "output", @options["environment"], "html", "#{@id}.html"), "name" => "uriHTML")
           filename = File.basename(@file_location)
-          xml.field(File.join(@options["data_base"], "data", @options["collection"], "source/tei", filename), "name" => "uriXML", "update" => "add")
+          x.field(File.join(@options["data_base"], "data", @options["collection"], "source/tei", filename), "name" => "uriXML")
 
-          xml.field("tei", "name" => "dataType", "update" => "add")
+          x.field("tei", "name" => "dataType")
 
           # TODO consider pulling these common fields out into a different file
           title = get_title
-          xml.field(title, "name" => "title", "update" => "add")
-          xml.field(CommonXml.normalize_name(title), "name" => "titleSort", "update" => "add")
+          x.field(title, "name" => "title")
+          x.field(CommonXml.normalize_name(title), "name" => "titleSort")
           # grab the first letter of the title
           letter = title[0] ? title[0].downcase : ""
-          xml.field(letter, "name" => "titleLetter_s", "update" => "add")
+          x.field(letter, "name" => "titleLetter_s")
 
-          xml.field("", "name" => "contributor")
-          xml.field("", "name" => "date")
-          xml.field("", "name" => "dateDisplay")
+          x.field("", "name" => "contributor")
+          x.field("", "name" => "date")
+          x.field("", "name" => "dateDisplay")
           # Look into whether the following are needed
           # creator / s
           # publisher
@@ -181,16 +203,16 @@ class TeiToSolrCaseid < TeiToSolr
 
           pis = @xml.xpath("/TEI/teiHeader/fileDesc/titleStmt/principal").map { |f| f.text }
           if pis.length > 0
-            xml.field(pis.join("; "), "name" => "principalInvestigator", "update" => "add")
+            x.field(pis.join("; "), "name" => "principalInvestigator")
           end
           pis.each do |f|
-            xml.field(f, "name" => "principalInvestigators", "update" => "add")
+            x.field(f, "name" => "principalInvestigators")
           end
 
           category = get_field(@xml, "/TEI/teiHeader/profileDesc/textClass/keywords[@n='category'][1]/term")
-          xml.field(category.first, "name" => "category", "update" => "add")
+          x.field(category.first, "name" => "category")
           # subcat = get_field(@xml, "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term")
-          # xml.field(subcat.first, "name" => "subCategory")
+          # x.field(subcat.first, "name" => "subCategory")
 
           # TODO look into following fields
           # topic
@@ -198,13 +220,13 @@ class TeiToSolrCaseid < TeiToSolr
           # people
 
           # TODO see if we need to keep this
-          xml.field("", "name" => "sourceTitle_s")
-          xml.field("caseid", "name" => "recordType_s")
+          x.field("", "name" => "sourceTitle_s")
+          x.field("caseid", "name" => "recordType_s")
 
-          related_cases(xml)
+          related_cases(x)
 
           get_field(@xml, "//keywords[@n='claims']/term").each do |f|
-            xml.field(f, "name" => "claims_ss")
+            x.field(f, "name" => "claims_ss")
           end
 
           text = []
@@ -216,14 +238,14 @@ class TeiToSolrCaseid < TeiToSolr
               end
             end
           end
-          xml.field(CommonXml.normalize_space(text.join(" ")), "name" => "text")
+          x.field(CommonXml.normalize_space(text.join(" ")), "name" => "text")
 
           # TODO this is a change from the original xpath which was looking for div1 type case
           narrative = get_field(@xml, "//div2[@type='narrative']")
-          xml.field("true", "name" => "caseidHasNarrative_s") if narrative.length > 0
+          x.field("true", "name" => "caseidHasNarrative_s") if narrative.length > 0
 
           # go through all of the associated documents and pull out relevant information
-          documents(xml)
+          documents(x)
         }
       }
     end
