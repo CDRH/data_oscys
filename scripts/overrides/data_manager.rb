@@ -21,12 +21,12 @@ class Datura::DataManager
   def pre_batch_processing
     puts "inserting documents into case files"
     case_loc = File.join(@options["collection_dir"], "source/tei")
-    # iterate through document cases and insert references into caseid TEI XML
     @files.each do |file|
       doc_id = file.filename(false)
       # skip if this is the personography or a case
       next if doc_id[/caseid|persons/]
 
+      # search each document for references to cases
       doc_xml = CommonXml.create_xml_object(file.file_location)
       doc_type = get_doc_type(doc_xml)
       doc_cases = doc_xml.xpath("//idno[@type='case']")
@@ -36,6 +36,7 @@ class Datura::DataManager
         caseid_path = File.join(case_loc, "#{caseid}.xml")
         caseid_xml = CommonXml.create_xml_object(caseid_path, false)
 
+        # find the cases's div1 and look to see if it already has a div2 for documents
         div1 = caseid_xml.at_xpath("//xmlns:div1", xmlns: NS)
         div2 = div1.at_xpath("xmlns:div2[@type='documents']", xmlns: NS)
         if div2
@@ -45,8 +46,9 @@ class Datura::DataManager
                     .children
                     .map { |node| node.text }
                     .include?(doc_id)
-
         else
+          # create a div2 to contain the documents, add a comment explaining it
+          # and then add the specific document to the caseid file
           div2 = div1.add_child("<div2 type='documents'/>").first
           comment = Nokogiri::XML::Comment.new(
             caseid_xml, "Documents are generated programmatically from document files. If document is no longer associated with a case it must be manually removed below."
