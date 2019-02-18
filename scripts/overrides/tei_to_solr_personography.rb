@@ -7,7 +7,43 @@ class TeiToSolrPersonography < TeiToSolr
     # line 674 of tei_to_solr.xsl has tei_person template
     @people_xml = CommonXml.create_xml_object(file_location)
     @viaf = @people_xml.at_xpath("//sourceDesc[1]//bibl[1]/ref/text()").text
+    # Note different than tei_to_solr build_pi_fields because of how personography would call it repeatedly
     @principals = @people_xml.xpath("//principal").map { |pi| CommonXml.normalize_space(pi.text) }
+  end
+
+  def build_json_field(val, label=nil)
+    json = {}
+
+    json["label"] = label || CommonXml.normalize_space(val.text)
+
+    # Note it seems wrong to have "date" be a non date format (includes text, etc)
+    # but this is how it was being outputted in XSLT
+    date = []
+    date << "Not after #{val["notAfter"]}" if val["notAfter"]
+    date << "Not before #{val["notBefore"]}" if val["notBefore"]
+    date << val["when"] if val["when"]
+
+    if !date.empty?
+      json["date"] = date.join(" ")
+      json["dateDisplay"] = date_display(date.join(" "))
+    end
+
+    if val["source"]
+      json["id"] = val["source"].include?("viaf") ? @viaf : val["source"][/oscys\.[a-z]+\.[0-9]{4}\.[0-9]{3}/]
+    elsif val.parent["source"]
+      json["id"] = val.parent["source"][/oscys\.[a-z]+\.[0-9]{4}\.[0-9]{3}/]
+    end
+    # remove nil keys
+    json.each { |k,v| json.delete(k) if !v }
+
+    json
+  end
+
+  # returns a data structure formatted for person specific Data_ss fields
+  def get_data_field(xml_in, xpath)
+    values = xml_in.xpath(xpath)
+    values = values.reject { |val| val.text.empty? }
+    values.map { |val| build_json_field(val) }
   end
 
   def get_pers_name(person)
@@ -31,11 +67,7 @@ class TeiToSolrPersonography < TeiToSolr
 
             x.field("tei", "name" => "dataType")
             title = get_pers_name(person)
-            x.field(title, "name" => "title")
-            x.field(CommonXml.normalize_name(title), "name" => "titleSort")
-            # grab the first letter of the title
-            letter = title[0] ? title[0].downcase : ""
-            x.field(letter, "name" => "titleLetter_s")
+            build_title_fields(x, title)
 
             # TODO check if contributor / date fields needed for personography
             x.field("", "name" => "contributor")

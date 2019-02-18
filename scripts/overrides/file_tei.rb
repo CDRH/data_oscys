@@ -15,9 +15,9 @@ class FileTei < FileType
       require_relative "tei_to_solr_caseid.rb"
       docs = TeiToSolrCaseid.new(@options, self.file_location, self.out_solr).xml
     else
-      # document
+      require_relative "tei_to_solr_document.rb"
+      docs = TeiToSolrDocument.new(@options, self.file_location, self.out_solr).xml
     end
-
 
     if @options["output"]
       File.write(File.join(@out_solr, self.filename), docs)
