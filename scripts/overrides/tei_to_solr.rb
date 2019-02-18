@@ -15,19 +15,19 @@ class TeiToSolr
   def build_pi_fields(x)
     pis = @xml.xpath("/TEI/teiHeader/fileDesc/titleStmt/principal").map { |f| f.text }
     if pis.length > 0
-      x.field(pis.join("; "), "name" => "principalInvestigator", "update" => "add")
+      x.field(pis.join("; "), "name" => "principalInvestigator")
     end
     pis.each do |f|
-      x.field(f, "name" => "principalInvestigators", "update" => "add")
+      x.field(f, "name" => "principalInvestigators")
     end
   end
 
   def build_title_fields(x, title)
-    x.field(title, "name" => "title", "update" => "add")
-    x.field(CommonXml.normalize_name(title), "name" => "titleSort", "update" => "add")
+    x.field(title, "name" => "title")
+    x.field(CommonXml.normalize_name(title), "name" => "titleSort")
     # grab the first letter of the title
     letter = title[0] ? title[0].downcase : ""
-    x.field(letter, "name" => "titleLetter_s", "update" => "add")
+    x.field(letter, "name" => "titleLetter_s")
   end
 
   def date_display(date_in)
