@@ -8,31 +8,11 @@ class TeiToSolrCaseid < TeiToSolr
     @xml = CommonXml.create_xml_object(file_location)
   end
 
-  # THINGS THAT CAN PROBABLY BE REUSED BY DOCUMENTS
-  # TODO evaluate and move when working on documents
-  def doc_date(doc_xml)
-    date_node = nil
-    if doc_xml.at_xpath("//keywords[@n='subcategory']/term[text()='Court Report']")
-      date_node = doc_xml.at_xpath("//keywords[@n='term']/term/date")
-    else
-      date_node = doc_xml.at_xpath("/TEI/teiHeader/fileDesc/sourceDesc/bibl/date")
-    end
-    if date_node
-      { "date" => date_node["when"], "dateDisplay" => CommonXml.normalize_space(date_node.text) }
-    end
-  end
-
   def documents(x)
     # collect certain fields at the top so that they can be deduplicated
     # after all the documents have reported back
     jurisdictions = []
-    people_role = {
-      "person" => [],
-      "plaintiff" => [],
-      "defendant" => [],
-      "attorneyP" => [],
-      "attorneyD" => []
-    }
+    people_role = people_role_template
 
     # DOCUMENTS
     # For each case document or related document associated with a case,
@@ -92,19 +72,8 @@ class TeiToSolrCaseid < TeiToSolr
           if person["id"] && person["label"] && person["role"]
             # "person" contains all individuals mentioned cases regardless of roles
             people_role["person"] << person
-            if person["role"]
-              case person["role"]
-              when "petitioner"
-                people_role["plaintiff"] << person
-              when "attorney_plaintiff", "attorney_petitioner"
-                people_role["attorneyP"] << person
-              when "attorney_defendant"
-                people_role["attorneyD"] << person
-              else
-                # defendant and plaintiff go into this category
-                people_role[person["role"]] << person
-              end
-            end
+            role_label = get_person_role(person)
+            people_role[role_label] << person
           end
         end
       end
@@ -127,25 +96,9 @@ class TeiToSolrCaseid < TeiToSolr
     # add attorneys together
     people_role["attorney"] = people_role["attorneyP"] + people_role["attorneyD"]
     # iterate through the people related to a case and deduplicate based on person id
-    # TODO is there a more elegant way of doing this?
     people_role.each do |role, people|
-      uniq_ppl = people.uniq { |person| person["id"] }
-      # make the following fields for each role:  _ss, ID_ss, Data_ss
-      uniq_ppl.each do |uniq_pers|
-        x.field(uniq_pers["id"], "name" => "#{role}ID_ss")
-        x.field(uniq_pers["label"], "name" => "#{role}_ss")
-        obj = { "label" => uniq_pers["label"], "id" => uniq_pers["id"] }
-        x.field(json(obj), "name" => "#{role}Data_ss")
-      end
+      build_person_fields(x, role, people)
     end
-  end
-
-  def get_title
-    title = @xml.xpath(
-      "/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']",
-      "/TEI/teiHeader/fileDesc/titleStmt/title"
-    )
-    title.first.text if title && title.first
   end
 
   def related_cases(x)
@@ -180,13 +133,8 @@ class TeiToSolrCaseid < TeiToSolr
 
           x.field("tei", "name" => "dataType")
 
-          # TODO consider pulling these common fields out into a different file
           title = get_title
-          x.field(title, "name" => "title")
-          x.field(CommonXml.normalize_name(title), "name" => "titleSort")
-          # grab the first letter of the title
-          letter = title[0] ? title[0].downcase : ""
-          x.field(letter, "name" => "titleLetter_s")
+          build_title_fields(x, title)
 
           x.field("", "name" => "contributor")
           x.field("", "name" => "date")
@@ -201,16 +149,11 @@ class TeiToSolrCaseid < TeiToSolr
           # source
           # rightsholder
 
-          pis = @xml.xpath("/TEI/teiHeader/fileDesc/titleStmt/principal").map { |f| f.text }
-          if pis.length > 0
-            x.field(pis.join("; "), "name" => "principalInvestigator")
-          end
-          pis.each do |f|
-            x.field(f, "name" => "principalInvestigators")
-          end
+          build_pi_fields(x)
 
           category = get_field(@xml, "/TEI/teiHeader/profileDesc/textClass/keywords[@n='category'][1]/term")
           x.field(category.first, "name" => "category")
+          # TODO do caseids have subcategories?
           # subcat = get_field(@xml, "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term")
           # x.field(subcat.first, "name" => "subCategory")
 
@@ -250,7 +193,7 @@ class TeiToSolrCaseid < TeiToSolr
       }
     end
     # debugging courtesy line
-    puts builder.to_xml
+    # puts builder.to_xml
 
     # note XSLT had 3 space indents so imitating in order to make comparisons more easily
     builder.to_xml(

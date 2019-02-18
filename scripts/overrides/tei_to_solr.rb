@@ -1,32 +1,33 @@
 class TeiToSolr
 
-  # TODO is this only used for persography?  If so, move to that class
-  def build_json_field(val, label=nil)
-    json = {}
-
-    json["label"] = label || CommonXml.normalize_space(val.text)
-
-    # Note it seems wrong to have "date" be a non date format (includes text, etc)
-    # but this is how it was being outputted in XSLT
-    date = []
-    date << "Not after #{val["notAfter"]}" if val["notAfter"]
-    date << "Not before #{val["notBefore"]}" if val["notBefore"]
-    date << val["when"] if val["when"]
-
-    if !date.empty?
-      json["date"] = date.join(" ")
-      json["dateDisplay"] = date_display(date.join(" "))
+  # people is expecting array of hashes with id, label, and name
+  def build_person_fields(x, role, people)
+    uniq_ppl = people.uniq { |person| person["id"] }
+    # make the following fields for each role:  _ss, ID_ss, Data_ss
+    uniq_ppl.each do |uniq_pers|
+      x.field(uniq_pers["label"], "name" => "#{role}_ss")
+      x.field(uniq_pers["id"], "name" => "#{role}ID_ss")
+      obj = { "label" => uniq_pers["label"], "id" => uniq_pers["id"] }
+      x.field(json(obj), "name" => "#{role}Data_ss")
     end
+  end
 
-    if val["source"]
-      json["id"] = val["source"].include?("viaf") ? @viaf : val["source"][/oscys\.[a-z]+\.[0-9]{4}\.[0-9]{3}/]
-    elsif val.parent["source"]
-      json["id"] = val.parent["source"][/oscys\.[a-z]+\.[0-9]{4}\.[0-9]{3}/]
+  def build_pi_fields(x)
+    pis = @xml.xpath("/TEI/teiHeader/fileDesc/titleStmt/principal").map { |f| f.text }
+    if pis.length > 0
+      x.field(pis.join("; "), "name" => "principalInvestigator", "update" => "add")
     end
-    # remove nil keys
-    json.each { |k,v| json.delete(k) if !v }
+    pis.each do |f|
+      x.field(f, "name" => "principalInvestigators", "update" => "add")
+    end
+  end
 
-    json
+  def build_title_fields(x, title)
+    x.field(title, "name" => "title", "update" => "add")
+    x.field(CommonXml.normalize_name(title), "name" => "titleSort", "update" => "add")
+    # grab the first letter of the title
+    letter = title[0] ? title[0].downcase : ""
+    x.field(letter, "name" => "titleLetter_s", "update" => "add")
   end
 
   def date_display(date_in)
@@ -46,6 +47,20 @@ class TeiToSolr
     end
   end
 
+  # TODO documents also call date_standardize XSLT and add T00:00:00Z to the end
+  # but see if this is required or relic of older code
+  def doc_date(doc_xml)
+    date_node = nil
+    if doc_xml.at_xpath("//keywords[@n='subcategory']/term[text()='Court Report']")
+      date_node = doc_xml.at_xpath("//keywords[@n='term']/term/date")
+    else
+      date_node = doc_xml.at_xpath("/TEI/teiHeader/fileDesc/sourceDesc/bibl/date")
+    end
+    if date_node
+      { "date" => date_node["when"], "dateDisplay" => CommonXml.normalize_space(date_node.text) }
+    end
+  end
+
   # returns an array of strings
   def get_field(xml_in, xpath)
     values = xml_in.xpath(xpath)
@@ -53,17 +68,43 @@ class TeiToSolr
     values.reject { |val| val.empty? }
   end
 
-  # TODO does anything besides personography use this?
-  # returns a data structure formatted for Data_ss fields
-  def get_data_field(xml_in, xpath)
-    values = xml_in.xpath(xpath)
-    values = values.reject { |val| val.text.empty? }
-    values.map { |val| build_json_field(val) }
+  def get_person_role(person)
+    if person["role"]
+      case person["role"]
+      when "petitioner"
+        "plaintiff"
+      when "attorney_plaintiff", "attorney_petitioner"
+        "attorneyP"
+      when "attorney_defendant"
+        "attorneyD"
+      else
+        # defendant and plaintiff go into this category
+        person["role"]
+      end
+    end
+  end
+
+  def get_title(src_xml=@xml)
+    title = src_xml.xpath(
+      "/TEI/teiHeader/fileDesc/titleStmt/title[@type='main']",
+      "/TEI/teiHeader/fileDesc/titleStmt/title"
+    )
+    title.first.text if title && title.first
   end
 
   def json(object, overrides={})
     combined = object.merge(overrides)
     JSON.generate(combined)
+  end
+
+  def people_role_template
+    {
+      "person" => [],
+      "plaintiff" => [],
+      "defendant" => [],
+      "attorneyP" => [],
+      "attorneyD" => []
+    }
   end
 
 end
