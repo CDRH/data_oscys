@@ -31,7 +31,7 @@ class TeiToSolrDocument < TeiToSolr
         source = desc.join(", ")
         source << ", #{place.first}:" if place.first
         source << " #{pub.first}" if pub.first
-        source << " (#{dat.first})" if date.first
+        source << " (#{date.first})" if date.first
       end
     end
     source
@@ -44,17 +44,14 @@ class TeiToSolrDocument < TeiToSolr
         # note: ".doc" is an existing method so have to use doc_ to distinguish
         x.doc_ {
           x.field(@id, "name" => "id")
-          x.field("", "name" => "slug", "update" => "add")
-          x.field(@options["collection"], "name" => "project", "update" => "add")
+          x.field(@options["collection"], "name" => "project")
           # Note altered from original XSLT
           filename = File.basename(@file_location)
-          # TODO replace field with valid URI
-          x.field(File.join(@options["variables_solr"]["site_location"], "files", "#{@id}.html"), "name" => "uri", "update" => "add")
-          # x.field(File.join(@options["variables_solr"]["site_location"], "doc", @id), "name" => "uri")
-          x.field(File.join(@options["data_base"], "data", @options["collection"], "output", @options["environment"], "html", "#{@id}.html"), "name" => "uriHTML", "update" => "add")
-          x.field(File.join(@options["data_base"], "data", @options["collection"], "source/tei", filename), "name" => "uriXML", "update" => "add")
+          x.field(File.join(@options["variables_solr"]["site_location"], "doc", @id), "name" => "uri")
+          x.field(File.join(@options["data_base"], "data", @options["collection"], "output", @options["environment"], "html", "#{@id}.html"), "name" => "uriHTML")
+          x.field(File.join(@options["data_base"], "data", @options["collection"], "source/tei", filename), "name" => "uriXML")
 
-          x.field("tei", "name" => "dataType", "update" => "add")
+          x.field("tei", "name" => "dataType")
           title = get_title
           # title, titleSort, titleLetter
           build_title_fields(x, title)
@@ -83,7 +80,7 @@ class TeiToSolrDocument < TeiToSolr
           build_pi_fields(x)
 
           category = get_field(@xml, "/TEI/teiHeader/profileDesc/textClass/keywords[@n='category'][1]/term").first
-          x.field(category, "name" => "category", "update" => "add") if category
+          x.field(category, "name" => "category") if category
           subcat = get_field(@xml, "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term").first
           x.field(subcat, "name" => "subCategory") if subcat
 
@@ -145,7 +142,7 @@ class TeiToSolrDocument < TeiToSolr
 
           @xml.xpath("//idno[@type='case']").each do |relCase|
             caseid = relCase.text
-            x.field(caseid, "name" => "documentCaseID_ss", "update" => "add")
+            x.field(caseid, "name" => "documentCaseID_ss")
             caseid_file = File.join(@options["collection_dir"], "source/tei", "#{caseid}.xml")
             caseid_xml = CommonXml.create_xml_object(caseid_file)
             case_title = get_title(caseid_xml)

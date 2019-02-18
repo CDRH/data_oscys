@@ -24,9 +24,9 @@ class TeiToSolrCaseid < TeiToSolr
 
       # neither type of date is actually assigned directly to the caseid
       # but it is used to populate data fields for specific outcomes, etc
-      date = doc_date(doc)
+      date = doc_date(doc) || {}
       title = get_field(doc, "/TEI/teiHeader/fileDesc/titleStmt/title").first
-      title = "#{title} (#{date["dateDisplay"]})" if !date["dateDisplay"].empty?
+      title = "#{title} (#{date["dateDisplay"]})" if date.key?("dateDisplay") && !date["dateDisplay"].empty?
 
       # if this is a Case Paper then it should be a case document, otherwise
       # consider it a related document
