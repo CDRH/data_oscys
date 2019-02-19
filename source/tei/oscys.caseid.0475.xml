@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.caseid.0397">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.caseid.0475">
 
 <teiHeader>
 <fileDesc>
@@ -11,6 +11,7 @@
 <respStmt>
 <resp>encoding</resp>
 <name n="Camerone, Stephanie N" xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -33,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.caseid.0397</idno>
+<idno type="project">oscys.caseid.0475</idno>
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
@@ -63,6 +64,7 @@
 </textClass>
 </profileDesc>
 <revisionDesc>
+<change when="2019-02-19" who="#kln">fixed idno/xml:id</change>
 <change when="2017-02-20" who="#kln">added A. to petitioner name</change>
 <change when="2016-03-15" who="#kln">added related case</change>
 <change when="2016-03-10" who="#snc">created case ID document</change>

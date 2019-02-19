@@ -36,7 +36,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0133.004oscys.case.0133.004</idno>
+<idno type="project">oscys.case.0133.004</idno>
 <idno type="case">oscys.caseid.0133</idno>
 
 <availability>
@@ -126,6 +126,7 @@
 </profileDesc>
         
 <revisionDesc> 
+<change when="2019-02-19" who="#kln">fixed idno/xml:id</change>
 <change when="2015-06-30" who="#lkw">added xml:ids</change>   
 <change when="2015-01-22" who="#kln">reviewed; edited</change>                   
 <change when="2014-10" who="#snc">encoded</change>
