@@ -1,15 +1,9 @@
 class TeiToSolr
 
-  def build_json_field(val)
+  def build_json_field(val, label=nil)
     json = {}
 
-    json["val"] = CommonXml.normalize_space(val.text)
-
-    if val["source"]
-      json["id"] = val["source"].include?("viaf") ? @viaf : val["source"][/oscys\.[a-z]+\.[0-9]{4}\.[0-9]{3}/]
-    elsif val.parent["source"]
-      json["id"] = val.parent["source"][/oscys\.[a-z]+\.[0-9]{4}\.[0-9]{3}/]
-    end
+    json["label"] = label || CommonXml.normalize_space(val.text)
 
     # Note it seems wrong to have "date" be a non date format (includes text, etc)
     # but this is how it was being outputted in XSLT
@@ -20,8 +14,17 @@ class TeiToSolr
 
     if !date.empty?
       json["date"] = date.join(" ")
-      json["dateDisplay"] = date.join(" ")
+      json["dateDisplay"] = date_display(date.join(" "))
     end
+
+    if val["source"]
+      json["id"] = val["source"].include?("viaf") ? @viaf : val["source"][/oscys\.[a-z]+\.[0-9]{4}\.[0-9]{3}/]
+    elsif val.parent["source"]
+      json["id"] = val.parent["source"][/oscys\.[a-z]+\.[0-9]{4}\.[0-9]{3}/]
+    end
+    # remove nil keys
+    json.each { |k,v| json.delete(k) if !v }
+    # json.delete("id") if !json["id"]
 
     json
   end
@@ -57,24 +60,9 @@ class TeiToSolr
     values.map { |val| build_json_field(val) }
   end
 
-  def json(item, id=nil)
-    source = "{"
-    source << "\"label\":\"#{item["val"]}\"," if item["val"]
-    source << "\"date\":\"#{item["date"]}\"," if item["date"]
-    if item["dateDisplay"]
-      # not using CommonXml.date_display because it makes assumptions
-      # about full date (Jan 1, X) instead of using just year if given, etc
-      # instead imitating original oscys date display override
-      date = date_display(item["dateDisplay"])
-      source << "\"dateDisplay\":\"#{date}\"," if date
-    end
-    if id
-      source << "\"id\":\"#{id}\""
-    elsif item["id"]
-      source << "\"id\":\"#{item["id"]}\""
-    end
-    source << "}"
-    source
+  def json(object, overrides={})
+    combined = object.merge(overrides)
+    JSON.generate(combined)
   end
 
 end

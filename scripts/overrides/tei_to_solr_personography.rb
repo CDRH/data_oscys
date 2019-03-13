@@ -6,7 +6,7 @@ class TeiToSolrPersonography < TeiToSolr
     # this returns multiple documents for the single file in question
     # line 674 of tei_to_solr.xsl has tei_person template
     @people_xml = CommonXml.create_xml_object(file_location)
-    @viaf = @people_xml.at_xpath("//sourceDesc[1]//bibl[1]/ref/text()")
+    @viaf = @people_xml.at_xpath("//sourceDesc[1]//bibl[1]/ref/text()").text
     @principals = @people_xml.xpath("//principal").map { |pi| CommonXml.normalize_space(pi.text) }
   end
 
@@ -64,8 +64,9 @@ class TeiToSolrPersonography < TeiToSolr
 
             # Note seems odd to just pull first name but that's how the XSLT worked
             get_data_field(person, "persName[1]").each do |p|
-              xml.field(json(p, id), "name" => "peopleData_ss")
-              xml.field(p["val"], "name" => "personName_ss")
+              puts p
+              xml.field(json(p, {"id" => id}), "name" => "peopleData_ss")
+              xml.field(p["label"], "name" => "personName_ss")
               xml.field(json(p), "name" => "personNameData_ss")
             end
 
@@ -78,67 +79,67 @@ class TeiToSolrPersonography < TeiToSolr
             end
 
             get_data_field(person, "sex").each do |s|
-              xml.field(s["val"], "name" => "personSex_ss")
+              xml.field(s["label"], "name" => "personSex_ss")
               xml.field(json(s), "name" => "personSexData_ss")
             end
 
             get_data_field(person, "affiliation").each do |a|
-              xml.field(a["val"], "name" => "personAffiliation_ss")
+              xml.field(a["label"], "name" => "personAffiliation_ss")
               xml.field(json(a), "name" => "personAffiliationData_ss")
             end
 
             get_data_field(person, "age").each do |a|
-              xml.field(a["val"], "name" => "personAge_ss")
+              xml.field(a["label"], "name" => "personAge_ss")
               xml.field(json(a), "name" => "personAgeData_ss")
             end
 
             get_data_field(person, "bibl").each do |b|
-              xml.field(b["val"], "name" => "personBibl_ss")
+              xml.field(b["label"], "name" => "personBibl_ss")
               xml.field(json(b), "name" => "personBiblData_ss")
             end
 
             get_data_field(person, "birth").each do |b|
-              xml.field(b["val"], "name" => "personBirth_ss")
+              xml.field(b["label"], "name" => "personBirth_ss")
               xml.field(json(b), "name" => "personBirthData_ss")
             end
 
             get_data_field(person, "death").each do |d|
-              xml.field(d["val"], "name" => "personDeath_ss")
+              xml.field(d["label"], "name" => "personDeath_ss")
               xml.field(json(d), "name" => "personDeathData_ss")
             end
 
             get_data_field(person, "event").each do |e|
-              xml.field(e["val"], "name" => "personEvent_ss")
+              xml.field(e["label"], "name" => "personEvent_ss")
               xml.field(json(e), "name" => "personEventData_ss")
             end
 
             get_data_field(person, "nationality").each do |n|
-              xml.field(n["val"], "name" => "personNationality_ss")
+              xml.field(n["label"], "name" => "personNationality_ss")
               xml.field(json(n), "name" => "personNationalityData_ss")
             end
 
             get_data_field(person, "note").each do |n|
-              xml.field(n["val"], "name" => "personNote_ss")
+              xml.field(n["label"], "name" => "personNote_ss")
               xml.field(json(n), "name" => "personNoteData_ss")
             end
 
             get_data_field(person, "occupation").each do |o|
-              xml.field(o["val"], "name" => "personOccupation_ss")
+              xml.field(o["label"], "name" => "personOccupation_ss")
               xml.field(json(o), "name" => "personOccupationData_ss")
             end
 
             get_data_field(person, "residence").each do |r|
-              xml.field(r["val"], "name" => "personResidence_ss")
+              xml.field(r["label"], "name" => "personResidence_ss")
               xml.field(json(r), "name" => "personResidenceData_ss")
             end
 
             get_data_field(person, "socecStatus").each do |s|
-              xml.field(s["val"], "name" => "personSocecStatus_ss")
+              xml.field(s["label"], "name" => "personSocecStatus_ss")
               xml.field(json(s), "name" => "personSocecStatusData_ss")
             end
 
             get_data_field(person, "trait[@type='color']").each do |t|
-              xml.field(t["val"], "name" => "personColor_ss")
+              xml.field(t["label"], "name" => "personColor_ss")
               xml.field(json(t), "name" => "personColorData_ss")
             end
 
