@@ -13,6 +13,7 @@ class TeiToSolrCaseid < TeiToSolr
     # after all the documents have reported back
     jurisdictions = []
     people_role = people_role_template
+    dates = []
 
     # DOCUMENTS
     # For each case document or related document associated with a case,
@@ -25,6 +26,7 @@ class TeiToSolrCaseid < TeiToSolr
       # neither type of date is actually assigned directly to the caseid
       # but it is used to populate data fields for specific outcomes, etc
       date = doc_date(doc) || {}
+      dates << date["date"]
       title = get_field(doc, "/TEI/teiHeader/fileDesc/titleStmt/title").first
       title = "#{title} (#{date["dateDisplay"]})" if date.key?("dateDisplay") && !date["dateDisplay"].empty?
 
@@ -39,13 +41,10 @@ class TeiToSolrCaseid < TeiToSolr
         x.field(json(data), "name" => "caseRelatedDocumentData_ss")
       end
 
-      # TODO verify this is working with a different case
       get_field(doc, "//TEI/teiHeader/profileDesc/textClass/keywords[@n='outcome']/term").each do |outcome|
         x.field(json({ "label" => outcome, "id" => doc_id }.merge(date)), "name" => "outcomeData_ss")
         x.field(outcome, "name" => "outcome_ss")
       end
-
-      # TODO not sure if we need documentCaseData_ss in caseid documents?
 
       doc.xpath("//org").each do |org|
         jurisdiction = org.at_xpath("orgName").text
@@ -99,6 +98,14 @@ class TeiToSolrCaseid < TeiToSolr
     people_role.each do |role, people|
       build_person_fields(x, role, people)
     end
+
+    # now figure out which document had the most recent date and use that as the
+    # caseid date (and dateDisplay)
+    dates = dates.compact.reject(&:empty?).map{|d| CommonXml.date_standardize(d)}
+    if dates.length > 0
+      x.field(dates.last, "name" => "date")
+      x.field(CommonXml.date_display(dates.last), "name" => "dateDisplay")
+    end
   end
 
   def related_cases(x)
@@ -125,7 +132,6 @@ class TeiToSolrCaseid < TeiToSolr
         x.doc_ {
           x.field(@id, "name" => "id")
           x.field(@options["collection"], "name" => "project")
-          # TODO replace with more accurate URL
           x.field(File.join(@options["variables_solr"]["site_location"], "cases", @id), "name" => "uri")
           x.field(File.join(@options["data_base"], "data", @options["collection"], "output", @options["environment"], "html", "#{@id}.html"), "name" => "uriHTML")
           filename = File.basename(@file_location)
@@ -137,32 +143,14 @@ class TeiToSolrCaseid < TeiToSolr
           build_title_fields(x, title)
 
           x.field("", "name" => "contributor")
-          x.field("", "name" => "date")
-          x.field("", "name" => "dateDisplay")
-          # Look into whether the following are needed
-          # creator / s
-          # publisher
-          # contributor
-          # date
-          # dateDisplay
-          # format
-          # source
-          # rightsholder
 
           build_pi_fields(x)
 
           category = get_field(@xml, "/TEI/teiHeader/profileDesc/textClass/keywords[@n='category'][1]/term")
           x.field(category.first, "name" => "category")
-          # TODO do caseids have subcategories?
-          # subcat = get_field(@xml, "/TEI/teiHeader/profileDesc/textClass/keywords[@n='subcategory'][1]/term")
-          # x.field(subcat.first, "name" => "subCategory")
+          # caseid files do not have subcategory
 
-          # TODO look into following fields
-          # topic
-          # keywords
-          # people
-
-          # TODO see if we need to keep this
+          # caseid does not have a sourcetitle_s
           x.field("", "name" => "sourceTitle_s")
           x.field("caseid", "name" => "recordType_s")
 
@@ -183,7 +171,7 @@ class TeiToSolrCaseid < TeiToSolr
           end
           x.field(CommonXml.normalize_space(text.join(" ")), "name" => "text")
 
-          # TODO this is a change from the original xpath which was looking for div1 type case
+          # NOTE this is a change from the original xpath which was looking for div1 type case
           narrative = get_field(@xml, "//div2[@type='narrative']")
           x.field("true", "name" => "caseidHasNarrative_s") if narrative.length > 0
 

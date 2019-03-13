@@ -69,7 +69,7 @@ class TeiToSolrPersonography < TeiToSolr
             title = get_pers_name(person)
             build_title_fields(x, title)
 
-            # TODO check if contributor / date fields needed for personography
+            # okay to leave blank
             x.field("", "name" => "contributor")
             x.field("", "name" => "date")
             x.field("", "name" => "dateDisplay")
@@ -88,13 +88,11 @@ class TeiToSolrPersonography < TeiToSolr
             x.field(title, "name" => "people_ss")
             x.field(id, "name" => "peopleID_ss")
 
-            # TODO this is in the XSLT but doesn't actually appear to be
-            # in the output file
-            get_field(person, "idno[@type='viaf']").each do |v|
+            get_field(person, "idno").each do |v|
               x.field(v, "name" => "personIdnoVIAF_ss")
             end
 
-            # Note seems odd to just pull first name but that's how the XSLT worked
+            # Note seems odd to just pull first persName but that's how the XSLT worked
             get_data_field(person, "persName[1]").each do |p|
               x.field(json(p, {"id" => id}), "name" => "peopleData_ss")
               x.field(p["label"], "name" => "personName_ss")

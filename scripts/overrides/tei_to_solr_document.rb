@@ -61,12 +61,10 @@ class TeiToSolrDocument < TeiToSolr
           x.field(pub, "name" => "publisher") if pub
 
           date = doc_date(@xml)
-          # TODO do we actually need T00:00:00Z on the end?
           x.field("#{date["date"]}T00:00:00Z", "name" => "date") if date && date["date"]
           x.field(date["dateDisplay"], "name" => "dateDisplay") if date && date["dateDisplay"]
 
-          # TODO will there ever be non-manuscripts for OSCYS?
-          # if so need to also check type letter and level "j" for periodicals
+          # note: this will need to change if there are ever non-manuscripts included
           manu_format = get_field(@xml, "/TEI/teiHeader/fileDesc/sourceDesc/bibl/title[@level='m']").first
           if manu_format
             x.field("manuscript", "name" => "format")

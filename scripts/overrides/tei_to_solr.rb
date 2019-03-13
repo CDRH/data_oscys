@@ -47,8 +47,8 @@ class TeiToSolr
     end
   end
 
-  # TODO documents also call date_standardize XSLT and add T00:00:00Z to the end
-  # but see if this is required or relic of older code
+  # documents call date_standardize XSLT and add T00:00:00Z to the end
+  # but solr seems to take care of this on its own
   def doc_date(doc_xml)
     date_node = nil
     if doc_xml.at_xpath("//keywords[@n='subcategory']/term[text()='Court Report']")
