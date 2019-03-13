@@ -89,23 +89,16 @@ class TeiToSolrCaseid < TeiToSolr
           @xml.xpath("//ref[@type='related.case']/text()").each do |f|
             caseid = f.text
             if caseid
-              # xml.field(caseid, "name" => "relatedCaseID_ss", "update" => "add")
               case_file = File.join(@options["collection_dir"], "source/tei", "#{caseid}.xml")
               case_xml = CommonXml.create_xml_object(case_file)
               title = get_field(case_xml, "//title").first
               data = { "label" => title, "id" => caseid }
               xml.field(JSON.generate(data), "name" => "relatedCaseData_ss", "update" => "add")
+              xml.field(caseid, "name" => "relatedCaseID_ss", "update" => "add")
             end
           end
 
-          # TODO ?
-          # term
-          # related case id
-          # related case data
-          # case name
-          # jurisdiction
-
-          get_field(@xml, "//keywords[@n='claims']/term").each do |f|
+            get_field(@xml, "//keywords[@n='claims']/term").each do |f|
             xml.field(f, "name" => "claims_ss")
           end
 
