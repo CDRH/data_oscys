@@ -101,7 +101,7 @@ class TeiToSolrCaseid < TeiToSolr
 
     # now figure out which document had the most recent date and use that as the
     # caseid date (and dateDisplay)
-    dates = dates.compact.reject(&:empty?).map{|d| CommonXml.date_standardize(d)}
+    dates = dates.map{|d| CommonXml.date_standardize(d)}.compact.sort
     if dates.length > 0
       x.field(dates.last, "name" => "date")
       x.field(CommonXml.date_display(dates.last), "name" => "dateDisplay")
