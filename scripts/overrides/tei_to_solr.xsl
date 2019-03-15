@@ -243,7 +243,7 @@
 				
 		<!-- creator -->
 		<!-- creators -->
-		
+		<!-- Note: Feb 2019 this field does not show up in the index for any oscys files -->
 		<xsl:choose>
 			<!-- When handled in header -->
 			<xsl:when test="/TEI/teiHeader/fileDesc/titleStmt/author != ''">
@@ -298,6 +298,7 @@
 		<!-- contributors -->
 		
 		<!-- All in one field -->
+		<!-- Note: Feb 2019 this field does not show up in the index for any oscys files -->
 		<field name="contributor">
 			<xsl:for-each-group select="/TEI/teiHeader/revisionDesc/change/name" group-by=".">
 				<xsl:sort select="."/>
