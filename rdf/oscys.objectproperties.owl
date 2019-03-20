@@ -229,8 +229,8 @@
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
 </owl:ObjectProperty>
 
-<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#juryPoolFor -->    
-<owl:ObjectProperty rdf:about="#juryPoolFor">
+<!-- http://earlywashingtondc.org/rdf/oscys.objectproperties.owl#juryPoolOf -->
+<owl:ObjectProperty rdf:about="#juryPoolOf">
     <rdfs:domain rdf:resource="#Person"/>
     <rdfs:range rdf:resource="#Person"/>
     <rdfs:subPropertyOf rdf:resource="#legalRelationship"/>
