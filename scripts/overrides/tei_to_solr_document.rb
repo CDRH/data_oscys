@@ -1,3 +1,6 @@
+# manually require because datura doesn't have a base TeiToSolr class
+require_relative "tei_to_solr.rb"
+
 class TeiToSolrDocument < TeiToSolr
 
   def initialize(options, file_location, output_location)
