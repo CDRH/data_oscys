@@ -142,7 +142,7 @@ class TeiToSolrCaseid < TeiToSolr
           title = get_title
           build_title_fields(x, title)
 
-          x.field("", "name" => "contributor")
+          # Note: could gather contributor from all of the documents if necessary
 
           build_pi_fields(x)
 
