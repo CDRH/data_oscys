@@ -1,3 +1,6 @@
+# manually require because datura doesn't have a base TeiToSolr class
+require_relative "tei_to_solr.rb"
+
 class TeiToSolrCaseid < TeiToSolr
 
   def initialize(options, file_location, output_location)
@@ -142,7 +145,7 @@ class TeiToSolrCaseid < TeiToSolr
           title = get_title
           build_title_fields(x, title)
 
-          x.field("", "name" => "contributor")
+          # Note: could gather contributor from all of the documents if necessary
 
           build_pi_fields(x)
 

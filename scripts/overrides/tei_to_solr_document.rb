@@ -1,3 +1,6 @@
+# manually require because datura doesn't have a base TeiToSolr class
+require_relative "tei_to_solr.rb"
+
 class TeiToSolrDocument < TeiToSolr
 
   def initialize(options, file_location, output_location)
@@ -56,7 +59,17 @@ class TeiToSolrDocument < TeiToSolr
           # title, titleSort, titleLetter
           build_title_fields(x, title)
 
-          # Note: no creators nor contributors nor recipients for oscys
+          # contributor
+          names = @xml.xpath("/TEI/teiHeader/fileDesc/titleStmt/respStmt/name")
+                      .map { |n| CommonXml.normalize_space(n.text) }
+          names.each do |n|
+            x.field(n, "name" => "contributors")
+          end
+          if names.length > 0
+            x.field(names.join("; "), "name" => "contributor")
+          end
+
+          # Note: no creators nor recipients for oscys
           pub = get_field(@xml, "/TEI/teiHeader/fileDesc/sourceDesc/bibl/publisher").first
           x.field(pub, "name" => "publisher") if pub
 
