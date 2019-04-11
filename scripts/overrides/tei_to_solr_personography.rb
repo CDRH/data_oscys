@@ -12,7 +12,6 @@ class TeiToSolrPersonography < TeiToSolr
     @viaf = @people_xml.at_xpath("//sourceDesc[1]//bibl[1]/ref/text()").text
     # Note different than tei_to_solr build_pi_fields because of how personography would call it repeatedly
     @principals = @people_xml.xpath("//principal").map { |pi| CommonXml.normalize_space(pi.text) }
-    @contributors = @people_xml.xpath("/TEI/teiHeader/fileDesc/titleStmt/respStmt/name").map { |c| CommonXml.normalize_space(c.text) }
   end
 
   def build_json_field(val, label=nil)
@@ -81,11 +80,7 @@ class TeiToSolrPersonography < TeiToSolr
               x.field(@principals.join("; "), "name" => "principalInvestigator")
               @principals.each { |p| x.field(p, "name" => "principalInvestigators") }
             end
-
-            if @contributors
-              x.field(@contributors.join("; "), "name" => "contributor")
-              @contributors.each { |c| x.field(c, "name" => "contributors") }
-            end
+            # do not use contributors in personography file or they show up thousands of times
 
             x.field("People", "name" => "category")
             x.field("Person", "name" => "subCategory")
