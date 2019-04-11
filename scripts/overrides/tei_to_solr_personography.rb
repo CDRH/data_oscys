@@ -110,6 +110,10 @@ class TeiToSolrPersonography < TeiToSolr
               x.field(s, "name" => "personBirthName_ss")
             end
 
+            get_field(person, "persName/roleName").each do |r|
+              x.field(r, "name" => "personRoleName_ss")
+            end
+
             get_data_field(person, "sex").each do |s|
               x.field(s["label"], "name" => "personSex_ss")
               x.field(json(s), "name" => "personSexData_ss")
