@@ -24,6 +24,7 @@ class TeiToSolrDocument < TeiToSolr
         source = desc.join(", ")
       else
         desc = []
+        desc += get_field(sourceDesc, "bibl/editor")
         desc += get_field(sourceDesc, "bibl/author")
         desc += get_field(sourceDesc, "bibl/title")
         desc += get_field(sourceDesc, "bibl/biblScope")
