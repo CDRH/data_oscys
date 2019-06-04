@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0364.009">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charles v. Henry Nicholson. Summons of Henry Nicholson</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0364.009</idno>
+<idno type="case">oscys.caseid.0390</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Summons of Henry Nicholson</title>
+<date when="1805-05-25">May 25, 1805</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Library of Virginia, Richmond, Virginia</repository>
+<collection>Local Government Records Collection, Arlington County Court Records</collection>
+<idno>Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 1</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Summons</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1805-06">June 1805</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term xml:id="per.002865">Brown, John</term>
+<term xml:id="per.001547">Faw, Abraham</term>
+<term xml:id="per.002870">Hoskins, John</term>
+<term xml:id="per.002861">Moore, Henry</term>
+<term xml:id="per.002862">Sexsmith, Matthew</term>
+<term xml:id="per.002872">White, Thomas</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places"> 
+<term>Alexandria County (Va.)</term>
+<term>Alexandria (Va.)</term>
+<term>Washington (D.C.)</term>
+</keywords>  
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.002863">
+<persName>Charles</persName>
+</person>
+<person role="defendant" xml:id="per.002864">
+<persName>Nicholson, Henry</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc> 
+<change when="2016-06-29" who="#lkw">added xml:ids</change>  
+<change when="2016-06-14" who="#snc">reviewed</change>               
+<change when="2016-03-04" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.case.0364.009.001.jpg"/>
+
+<div2 type="caption">
+
+<p>District of Columbia<lb/>
+Alexandria County Sst.</p>
+
+</div2>
+
+<div2 type="body">
+     
+<p>Whereas I have received Information that Negroe Charles, is Illegally held in Slavery by Henry Nicholson in the Town of Alexandria, that he hath been imported from the State of  Maryland into this district Contrary to Law. As Also that he had entered into a Covenant with said Nicholson to serve him Ten years, and then to be set at Liberty, and that Contrary to said Stipulation the said Nicholson has sold him the said Charles to a Certain John Brown as a Slave and to be Carried away out of the district of Columbia into some foreign parts.</p>
+
+<p>You are therefore required to have said Henry Nicholson before me to Answer the Charges Aforesaid, and to be dealt with as the Law directs</p>
+
+<p>Given under my Hand and Seal this 25th Day of May 1805<lb/>
+A Faw</p>
+
+<p>To any Constable to execute</p>
+
+</div2>
+
+<pb xml:id="p002" facs="oscys.case.0364.009.002.jpg"/>
+
+<div2 type="back">
+
+<p>U States<lb/>
+vs<lb/>
+H. Nicholson</p>
+
+
+<p>Summons as Witnesses<lb/>
+Henry Moore<lb/>
+Thomas White<lb/>
+Mathew Sexsmith<lb/>
+John Brown<lb/>
+John Hoskins</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

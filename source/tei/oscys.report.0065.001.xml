@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.report.0065.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Christopher Harris v. Penelope B. Alexander. Circuit Court Report</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.report.0065.001</idno>
+<idno type="case">oscys.caseid.0084</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Reports of Cases Civil and Criminal in the United States Circuit Court of the District of Columbia, from 1801 to 1841</title>
+<author n="Cranch, William, 1769-1855">William Cranch</author>
+<publisher>Little, Brown and Company</publisher>
+<biblScope>Volume IV</biblScope>
+<date when="1852">1852</date>
+<pubPlace>Boston</pubPlace>
+</bibl>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Court Report</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1830-04">April 1830</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term/>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Washington County (D.C.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Judgment for Plaintiff</term>
+</keywords>
+
+</textClass>          
+ 
+<particDesc>   
+<listPerson>            
+<person role="petitioner" xml:id="per.000664">
+<persName>Harris, Christopher</persName>
+</person>
+<person role="defendant" xml:id="per.000665">
+<persName>Alexander, Penelope B.</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.002883">
+<persName>Taylor, Robert I.</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.002112">
+<persName>Mason, Thomson Francis, 1785-1838</persName>
+</person>
+</listPerson>          
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>
+<change when="2016-12-05" who="#lkw">added xml:ids</change>
+<change when="2016-08-02" who="#kln">reviewed; edited</change>             
+<change when="2016-07-20" who="#snc">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="report">
+
+<pb xml:id="p001" facs="oscys.report.0065.001.001.jpg"/>
+
+<div2 type="caption"> 
+
+<p>Negro Christopher Harris v. Nelly Alexander.</p>
+
+</div2>
+
+<div2 type="syllabus"> 
+
+<p>The right of a citizen of the United States to import a slave into the county of Washington under the <bibl type="code">2d section of the Maryland Act of 1796, c. 67</bibl>, is forfeited by a sale of the slave within three years after the importation.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Petition for freedom. Verdict for the petitioner.</p>
+
+<p>Motion for new trial, on the ground that a sale within three years after importation into the county of Washington does not, per se, give a right to freedom, but is only evidence of importation for sale; and it was agreed that if the Court should be of that opinion, a new trial should be granted; and the counsel referred to the case of <bibl type="case" xml:id="oscys.caseid.0050">Negro William Jordan v. Sawyer, in this Court, in Washington, at April term, 1823, [2 Cranch, C. C. 373,]</bibl> and <bibl type="case" xml:id="oscys.caseid.0371">Negro Mary v. White, at December term, 1829, [3 Cranch, C. C.]</bibl></p>
+
+<p>The slave was brought into the county of Washington, with the defendant, to reside; but the defendant sold him before the expiration of three years.</p>
+
+<p>By the <bibl type="code">1st section of the Act of Maryland of 1796, c. 67</bibl>, it is enacted, "That it shall not be lawful to import or bring into this
+
+<pb xml:id="p002" facs="oscys.report.0065.001.002.jpg"/>
+
+State, by land or water, any negro, mulatto, or other slave, for sale, or to reside within this State; and any person brought into this State as a slave, contrary to this act, if a slave before, shall cease to be the property of the person or persons so importing," &amp;c., "and shall be free."</p>
+
+<p>By the 2d section it is provided, "That it shall be lawful for any citizen or citizens of the United States, who shall come into this State with a <term>bonâ fide</term> intention of settling therein, to import or bring into this State, at the time of his or her removal into this State, or within one year thereafter, any slave or slaves, the property of such citizen at the time of his or her said removal," &amp;c.</p>
+
+<p>And by the 3d section it is further provided, "That nothing herein contained shall be construed to enable any person or persons so removing to sell or dispose of any slave or slaves, imported by virtue of this act, or their increase, unless such person, &amp;c., shall have resided within this State three whole years next preceding such sale, except in cases of disposition by will, and dispositions by law for <term>bonâ fide</term> debts, or consequent upon intestacy."</p>
+
+<p>Mr. Taylor, for the petitioner. The petitioner having been imported "to reside," is entitled to his freedom, unless the defendant was protected from the forfeiture of the first section by being within the proviso of the second section; and she is not protected by the second section, if the petitioner was sold within three years, contrary to the third section.</p>
+
+<p>Mr. Mason, for the defendant, submitted the case to the Court without argument.</p>
+
+<p>The Court (<term>nem. con.</term>) refused the new trial; being of opinion that the <bibl type="code">3d section of the Maryland Act of 1796, c. 67</bibl>, is a qualification of the license to import given by the 2d section; that is, you may bring your slaves with you to reside, provided you do not sell within the three years. If you sell within the three years you forfeit your privilege under the 2d section.</p>
+
+<p>Judgment for the petitioner.</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

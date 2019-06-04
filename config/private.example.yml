@@ -1,6 +1,0 @@
-# set solr_path for production_emergency
-# as it would be inheriting the default otherwise
-# and that may not always be the same
-production_emergency:
-  solr_path: http://localhost:8983/solr
-

@@ -1,7 +1,6 @@
 require 'csv'
 require 'linkeddata'
 require 'nokogiri'
-# require 'sparql'
 require 'rdf'
 
 ##########################
@@ -9,7 +8,7 @@ require 'rdf'
 ##########################
 
 csv_path = File.join(File.dirname(__FILE__), '../rdf/oscys.relationships.csv')
-tei_path = File.join(File.dirname(__FILE__), '../tei/oscys.persons.xml')
+tei_path = File.join(File.dirname(__FILE__), '../source/tei/oscys.persons.xml')
 output = File.join(File.dirname(__FILE__), '../rdf/oscys.relationships.ttl')
 
 PREFIXES = {

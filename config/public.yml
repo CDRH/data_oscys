@@ -3,11 +3,11 @@
 #####################################
 
 default:
-  es_type: oscys
-  # es_type: oscys
+  collection: oscys
   solr_core: api_oscys
-  tei_solr_xsl: collections/oscys/scripts/solr_transform_tei.xsl
-  tei_html_xsl: collections/oscys/scripts/tei.p5.xsl
+  tei_solr_xsl: scripts/overrides/tei_to_solr.xsl
+  tei_html_xsl: scripts/overrides/tei_to_html.xsl
+  threads: 20
 
   data_base: https://cdrhmedia.unl.edu
   media_base: https://cdrhmedia.unl.edu
@@ -20,6 +20,11 @@ default:
 
 development:
   data_base: https://cdrhdev1.unl.edu/media
+  solr_path: https://cdrhdev1.unl.edu/solr
+
+production:
+  solr_path: https://cors1601.unl.edu/solr
 
 production_emergency:
   solr_core: api_oscys_emergency
+  solr_path: https://cors1601.unl.edu/solr

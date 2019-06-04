@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0398.001">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Dorcas &amp; Julia v. James Smith and Fanny v. Isaac Kell. Order</title>
+<principal n="Guiliano, Jennifer" xml:id="jeg">Jennifer Guiliano</principal>
+<principal n="Mu&#241;oz, Trevor" xml:id="tm">Trevor Mu&#241;oz</principal>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Camerone, Stephanie N." xml:id="snc">Steph N. Camerone</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2016</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0398.001</idno>
+<idno type="case">oscys.caseid.0424</idno>
+<idno type="case">oscys.caseid.0425</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Order</title>
+<date when="1817-12-17">May 17, 1817</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Library of Virginia, Richmond, Virginia</repository>
+<collection>Local Government Records Collection, Arlington County Court Records</collection>
+<idno>Arlington County (Va.) Judgments (Freedom Suits), 1795-1858, Box 2</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Order</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1824-05">May 1824</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.003157">Carrington, Timothy</term>
+<term xml:id="per.003158">Lowe, Rector</term>
+<term xml:id="per.003159">Scott, James S.</term>
+<term xml:id="per.003160">Simms, William</term>
+<term xml:id="per.003166">Smith, Alexander</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson xml:id="oscys.caseid.0424">            
+<person role="petitioner" xml:id="per.003161">
+<persName>Dorcas</persName>
+</person>
+<person role="petitioner" xml:id="per.003162">
+<persName>Julia</persName>
+</person>
+<person role="defendant" xml:id="per.003163">
+<persName>Smith, James</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.002883">
+<persName>Taylor, Robert I.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listPerson xml:id="oscys.caseid.0425">            
+<person role="petitioner" xml:id="per.003164">
+<persName>Fanny</persName>
+</person>
+<person role="defendant" xml:id="per.003165">
+<persName>Kell, Isaac</persName>
+</person>
+<person role="attorney_petitioner" corresp="per.002883">
+<persName>Taylor, Robert I.</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Alexandria (Washington, D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>   
+<change when="2016-08-04" who="#lkw">added xml:ids; transcription</change> 
+<change when="2016-06-28" who="#snc">reviewed</change>                 
+<change when="2016-05-24" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="oscys.case.0398.001.001.jpg"/>
+
+<div2 type="body">
+
+<p>On the Petition of Negroes Dorcas <del>and</del> Julia and Fanny stating that they are illegally detained in slavery, the two first by James Smith and the last by Isaac Kell, and praying for leave to sue for the recovery of their freedom <del>in</del> forma puperum. The court doth assign R. I. Taylor as Counsel for the Petitioners to state the facts of the case on which they rest their claim and to report  the same to this court. Whereupon the said R. I Taylor returned (the following) statement of facts with his opinion therein. *</p>
+
+<p>It appears from the evidence of William Simms that some time in the year 1796 he entered into a contract with one Alexander Smith for the purchase of the Petitioner Dorcas for a Term of years <gap extent="about eight words" reason="strikethrough"/> the said Alexander being then the owner of the said Slave. That the said William Simms paid to the said Alexr Smith the price stipulated in consideration whereof she and Alexander on his part sold the said slave to the said William for the Term agreed on and then voluntarily promised to execute <del>the</del> a Deed of emancipation for the residue of her life. The slave Dorcas was accordingly <gap extent="one word" reason="illegible"/> in the possession of the said Simms but from in <gap extent="one or two words" reason="illegible"/> rather than assign the deed of emancipation was not executed. after holding the said Dorcas for some years the said W. Simms sold his right to her for that portion of the Term then
+
+<pb xml:id="p002" facs="oscys.case.0398.001.002.jpg"/>
+
+<gap extent="one word" reason="illegible"/> to one Timothy Carrington, with whom the said Dorcas served out her Term and was then discharged by him as a free woman.</p>
+
+<p>During her servitude with Carrington she had two children one of whom named Fanny is now in the possession of the said Isaac Kell, after her Term had expired she had three other children one of whom is the slave Julia now in the possession of Rector Lowe, who however claims no right to her &amp; is desirous of surrendering her the slave Fanny was purchased from the Executors of Carrington by Isaac Kell, the said purchase was made after the mother had been discharged as free, and the said Isaac had for a long time previously been intimate in the said Carrington, family and was married to one of his daughters, from which consideration a notice of the rights of the said Fanny may be fairly inferred to have been <unclear extent="one word" reason="illegible">received</unclear> by the said Isaac the <del>slaves</del> negroes Dorcas and Julia are claimed by the said James Smith on behalf of the said Alexander Smith is as a volunteer under him From all which circumstances it is the opinion of the subscriber that the said Dorcas Fanny and Julia, have an equitable claim to their freedom such as would be decreed in <gap extent="one or two words" reason="illegible"/> by a Court of Chancery and that they ought to be permitted to sue for the same agt the said James Smith &amp; Isaac Kell.</p>
+
+<p>R. I. Taylor<lb/>
+17 May 1817</p>
+
+<pb xml:id="p003" facs="oscys.case.0398.001.003.jpg"/>
+
+<p>* which being seen &amp; explained by the Court it is thereupon ordered that the said Dorcas and Julia be permitted to bring suit for their freedom in forma pauperum against James Smith in the report mentioned, and that they <del>remain</del> be taken into the custody of the marshall <del>and</del> there kept at the expense of the <gap extent="one or two words" reason="torn page"/> until the <gap extent="one or two words" reason="torn page"/> <del>into</del> bond with security to be approved by one of the Judges of this court in the penalty of $1000, with condition as the law directs.</p>
+
+<p>And it is further ordered that the said Fanny be permitted to bring suit for her freedom in forma puperis agt the said Isaac Kell and that she be taken by the <unclear reason="torn page">marshal</unclear> into his Custody &amp; by him retained at his the expence of <gap extent="one word" reason="strikethrough"/> <del>until</del> the said Isaac Kell until he enter into bond in the penalty of $600, with security to be approved of as aforesaid and with the condition above mentioned</p>  
+
+</div2>
+
+<pb xml:id="p004" facs="oscys.case.0398.001.004.jpg"/>
+
+<div2 type="back">
+
+<p>We of the Jury find for the Plf the <gap extent="one or two words" reason="illegible"/> joined subject to the opinion of the Court on the case agreed &amp; award her damages to one cent<lb/>
+Jas. S Scott foreman</p>
+
+<p><del>66</del> <del>53</del> 48 <del>69.</del> <del>75</del></p>
+
+<p><del>Negroes Dorcas &amp; al</del><lb/>
+Negroe Fanny<lb/>
+vs<lb/>
+Isaac Kell &amp; al</p>
+
+<p>Order</p>
+
+<p>May 24 No 1</p>
+
+<p>Entered</p>
+
+<p>1817. April  Term 10th day<lb/>
+Upon petition for leave to sue forma pauperum for the recovery of their freedom, R. I. Taylor assigned as Counsel for Petitioners to state the facts of case &amp; to report to this Court the same &amp; statement returned with opinion thereon, which being seen and examined by Court ordered that said Dorcas and Julia be permitted to bring suit &amp;c to be taken into the custody of the marshal and there kept at the expence of said James Smith until he enter into Bondf with security to be approved by one of the Judges of this Court in the penalty of $1000 &amp; that said Fanny be permitted to bring suit &amp;c against Isaac Kell &amp; that she be taken into the custody of the Marshal &amp; by him retained at expense of said Kell until he enter into Bond in the penalty of $600 with Secy to be approved of as aforesaid &amp; with condition as law directs.</p>
+
+<p>Decr. Continued</p>
+
+<p>1818. Jany: Contd.<lb/>
+Feby: Nar: filed and Com: Order.<lb/>
+Mar: Contd.<lb/>
+April, Jud: &amp; W. Jy.</p>
+
+<p>1821<lb/>
+May Term 18th day Continued<lb/>
+Novem: Term 2nd day Continued<lb/>
+1822 May Term 2d day Continued<lb/>
+Novem. Term 2nd day Case agreed filed &amp; Jury sworn &amp; affirmed &amp; verdict for Pltff. subject to the opinion of the Court upon the Case agreed &amp; assess his dam. to one cent<lb/>
+1823<lb/>
+May Term 11th day Continued<lb/>
+Nov: Term 22nd Day Continued<lb/>
+1824<lb/>
+May Term 2nd day On motion Judg: for the deft. on the Case agreed.</p>
+
+<p>Defendant's Costs</p>
+
+<table>
+<row>
+<cell>App 8 Ord: 26 plea 18</cell>
+<cell>$52</cell>
+</row>
+<row>
+<cell>Mo: 26 Jud: 18 C 18</cell>
+<cell>62</cell>
+</row>
+<row>
+<cell>T Cro Crop 18</cell>
+<cell><hi rend="underline">58</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>1.72</cell>
+</row>
+<row>
+<cell>Attos fee</cell>
+<cell><hi rend="underline">5.00</hi></cell>
+</row>
+<row>
+<cell/>
+<cell>$6.72</cell>
+</row>
+</table>
+
+<p>Tay:</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

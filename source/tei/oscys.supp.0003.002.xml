@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.0.0/tei_all.rng" type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.supp.0003.002">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Charlotte v. Henry Clay. James Condon to Henry Clay (From the Papers of Henry Clay)</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.supp.0003.002</idno>
+<idno type="case">oscys.caseid.0373</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<!-- <title level="a">James Condon to Henry Clay</title>
+<date when="1829-03-01">March 1, 1829</date> -->
+
+<title level="m" type="main">The Papers of Henry Clay</title>
+<editor>James F. Hopkins and Mary W. M. Hargreaves</editor>
+<!-- <editor n="Hopkins, James F.">James F. Hopkins</editor>
+<editor n="Hargreaves, Mary W. M.">Mary W. M. Hargreaves</editor> -->
+<pubPlace>Lexington, Kentucky</pubPlace>
+<publisher>University of Kentucky Press</publisher>
+<date when="1959">1959</date>
+<biblScope unit="volume">vol 7</biblScope>
+<biblScope unit="page">pp 630-631</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Answer</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term>
+<date when="1830-05">May 1830</date>
+</term>
+</keywords>
+
+<keywords scheme="lcsh" n="people"> 
+<term xml:id="per.004936">Clay, Lucretia Hart, 1781-1864</term>
+<term xml:id="per.002559">Condon, James</term>
+<term xml:id="per.004935">Dupuy, Aaron</term>
+<term xml:id="per.002560">Erwin, John P.</term>
+<term xml:id="per.002577">Flint, William</term>
+<term xml:id="per.004937">Martin, William Bond</term>
+<term xml:id="per.002579">Mowbray, John</term>
+<term xml:id="per.002561">Parker, Daniel</term>
+<term xml:id="per.004938">Parker, Daniel</term>
+<term xml:id="per.004939">Parker, Ezekiel</term>
+<term xml:id="per.002562">Stanley, George</term><!-- not James or Ezekiel -->
+<term xml:id="per.002563">Stanley, Rachel</term>
+<term xml:id="per.004940">Wallace, Thomas</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Kentucky</term>
+<term>Maryland</term>
+<term>Dorchester County (Md.)</term>
+<term>Cambridge (Md.)</term>
+<term>Lexington (Ky.)</term>
+<term>Nashville (Tenn.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.002553">
+<persName>Dupuy, Charles</persName>
+</person>
+<person role="petitioner" xml:id="per.002554">
+<persName>Dupuy, Charlotte</persName>
+</person>
+<person role="petitioner" xml:id="per.002555">
+<persName>Dupuy, Mary Ann</persName>
+</person>
+<person role="defendant" xml:id="per.002556">
+<persName>Clay, Henry, 1777-1852</persName>
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>United States. Circuit Court (District of Columbia)</orgName>
+<placeName>Washington (D.C.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+            
+</profileDesc>
+        
+<revisionDesc>       
+<change when="2019-04-02" who="#kln">transcribed, encoded</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="book">
+
+<pb xml:id="p631"/>
+
+<div2 type="body">
+
+<p>From James Condon</p>
+
+<p>Nashville, March 1, 1829</p>
+
+<p>Your letter dated Washington 11th Feby 1829 addressd to me was receivd by the hands of Mr Jno P Erwin of Yesterday; and I hasten to answer its contents. you say that Charlotte or Lotty a female Slave whom I sold to you sets up a claim to her freedom &amp; is about to assert it in a Court of Justice, that you understand her claim to be that her Mother &amp; Grand-Mother were free. that I was only entitled to her service untill she was 18 years old; and that I had carried her from the Eastern Shore of Mary-land, and sold her illegally.</p>
+
+<p>The degree of moral turpitude that would necessarily attach to the foregoing charge if sustained by any responsible accuser, would certainly be exceedingly painful to the feelings of an old Man, who has passd a life of more than 60 years without ever having been calld upon to answer before a Court of Justice. or any other earthly Tribunal for any Crime what-ever,&#8212;I infer however from the language of the letter referrd to, that your information is exclusively drawn from the Slave in question hir-self. And shall now proceed to give your the information sought for. I will just add that I am happy to say my recollection of the facts of which I shall speak are as clear in my mind as if they had transpired but yesterday.</p>
+
+<p>1st. you ask "was Lotty's mother free"? I answer she was free at the time I purchased Lotty.&#8212;2ndly "was she born free, or did She become so before or after Lottys birth? Answer the Mother was born a Slave and remained such for several years after the birth of Lotty.&#8212;3dly "who did you buy Lotty of, and whose property was she when born"? Answer I purchased her of Daniel Parker then residing in Cambridge Dorchester County Mary land said Parker resided about 3 miles from Cambridge.&#8212;She was born his Slave&#8212;I have a distinct recollection that the name of the husband of Lottys mother, was either, James or Ezekiel Stanley and that said Stanley purchased Lottys Mother from said Daniel Parker a short time before I purchased Lotty. You no doubt are aware that by the Laws of Mary-land (at that time) when the husband purchased a Slave for a wife, that she thereby became free</p>
+
+<p>I became the purchaser of Lotty in the year 1795 or 96 of the aforesaid Parker, to whom I paid $100 dollars, which at that time in that County was Considered by every body as a very high price.&#8212;some time in the month of May or June 1805 when I came to Lexington wishing to comply with what I understood to be the law of the land, I had Lotty registered as my Slave, this was done by Thomas Wallace Esqr. in Conformity with the laws of Kentucky.&#8212;I presume you will find the Record thereof by application to the proper office</p>
+
+<p>Lotty was about 18 years old, when I moved with my family from Mary land, and such was the strict &amp; rigid regulations of the Abolition Society at that time, that if there had been any illegal or fraudulent Conduct in relation to this woman, it would have been next to impossible to have eluded detection by that Institution.&#8212;</p>
+
+<pb xml:id="p632"/>
+
+<p>I must Confess that I was truely astonished at the Contents of your letter, and cannot account for the origin of this business in any other way, than that of some evil disposed person opperating upon the mind of Lotty improperly.&#8212;There is however another Circumstance that upon reflection has occurd to my mind &amp; perhaps it may have had some influence upon her mind. I did once promise Lotty freedom (when I do not now remember) but this promise was predicated upon the Condition of long &amp; faithful services, this she voluntarily relinguished by marying Your Servant Boy Aron and by her own pressing solicitations I sold her to you. You perhaps do not recollect the particulars, but I have no doubt Mrs Clay will be able to remember, that it was with much reluctance I sold her, &amp; in fact never would have sold her had it not been for the cause already mentioned. after she married your servant, she repeatedly expressd her fears that I would move away &amp; part her from her husband You Came to me and asked my price. I replied $400 you paid it without hesitation</p>
+
+<p>I still cannot for a moment entertain the belief that any serious attempt will be made to bring you or my self into a difficulty about this matter.&#8212;If however it should turn out otherwise; I shall feel my self bound to do every thing in my power, to have the subject fully and Clearly understood.&#8212;It is now 33 Years since I purchased this Woman, many of my old neighbors &amp; acquaintances, who were at that time knowing to all the circumstances of the purchase are now no doubt Numbered with the dead, &amp; if evidence of that kind should become necessary it may be very difficult to adduce, I will however now refer to such persons as are probably living, and if they are no doubt their testimony would at once put this question to rest, as to where they are if still in existance. I cannot Speak with any degree of Certainty Constantly engaged for many Years as I have been providing for a Numerous family. I have not attempted to keep up a Correspondence with my old friends in Mary land. John Mobry was a Young Man who Commenced his Appreprentiship with me a short time after I purchased Lotty  I left him Carrying on the Tayloring business in the same house that I previously owned in Cambridge. Some Years ago I was informed that he had maried &amp; perhaps is still living in that Country.&#8212;William Flint (occupation sadler) lived next door to me in that place and was well acquainted with my domestic Circumstances  Daniel Parker the former Master referd to above, died before I left that Country  He had two sons then young Men, named Daniel &amp; Ezekiel. where they are I know not. but was informed many years ago that Daniel had moved some where into the Country on the lower Mississippi&#8212;I think it probable that there is a record in Dorchester County Court of the purchase of Lottys Mother from Parker, but her husband before named.&#8212;You will pardon this tedious detail. I have been influenced by a sincere desire to serve you, and, to do an act of justice to my self,&#8212;I am informed that William Bond Martin is the present Governor of Mary land. If I must take the liberty of refering you to him for information as to my Character &amp; Standing when residing to the State,&#8212;he knew me well. I might refer you to many others there but is very uncertain whether they are yet in the land of the living, as to my character in Lexington I trust that a reference to
+
+<pb xml:id="p633"/>
+
+your self would be sufficient&#8212;I have been living in this County 21 Years, &amp; I believe I could with safety refer you to every Citizen of good standing in it</p>
+
+<p>In Conclusion I have only to add that every statement I have made in this letter as fact I would at any moment be ready to depose upon oath, before any Tribunal on this Earth, or before my God  If I were now in Mary land I have no doubt but the necessary evidence Could soon be had in this Case, but there I am unable to go.&#8212;Altho now an old and inform Man, If I could be of any service, I would yet, endeavor to ride up to Lexington &amp; see you personally&#8212;Sensible that I am rapidly approaching the borders of the Grave it would be a source of much affliction to me If I could for a moment believe that i am destined to descend into that mansion with the slightest imputation resting upon me in relation to this matter.&#8212;I shall anxiously look for further information from you.</p>
+
+</div2>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
