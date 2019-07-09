@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0012.005">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>William Shorter v. William Tyer. Judgment Record</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Hyman, Christy" xml:id="ch">Christy Hyman</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0012.005</idno>
+<idno type="case">oscys.caseid.0520</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Judgment Record</title>
+<date when="1795-05">May 1795</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgment Record)</collection>
+<idno>MSA S497-24 JG 27</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1795-05">May 1795</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.001514">Chase, Samuel, 1741-1811</term><!-- chief judge of General Court of the Western Shore -->
+<term xml:id="per.001493">Gwinn, John</term><!-- clerk, General Court of the Western Shore -->
+<term xml:id="per.005217">Shorter, Elizabeth</term><!-- free white woman -->
+<term xml:id="per.002691">Simms, James</term><!-- alt spelling Simmes; sheriff of Charles County -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Charles County (Md.)</term>
+<term>Annapolis (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term/>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner">
+<persName>Shorter, William</persName><!-- enslaved by William Tyer -->
+</person>
+<person role="defendant">
+<persName>Tyer, William</persName><!-- Charles County -->
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001947">
+<persName>Buchanan, Thomas</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Craik, William</persName><!-- attorney -->
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-07-09" who="#kln">reviewed and edited transcription; encoded</change>
+<change when="2018" who="#ch">preliminary transcription</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb xml:id="p029" facs="oscys.mdcase.0012.005.001"/>
+
+<div2 type="caption">
+
+<p>William Shorter<lb/>
+against<lb/>
+William Tyer</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Be it remembered, that heretofore towit on the Twenty fifth day of April in the year of our Lord One thousand seven hundred and ninety two; William Shorter by Gabriel Duvall his attorney, preferred and filed in the General Court here his
+
+<pb xml:id="p030" facs="oscys.mdcase.0012.005.002"/>
+
+Petition for Freedom, which is in form following towit. To the honorable the Judges of the General Court: The Petition of William Shorter, humbly sheweth that he is held in slavery by William Tyer of Charles County &amp; he is advised that he is entitled to his Freedom, being descended in the female line here from a Free white woman named Elizabeth Shorter: He therefore prays your honors, the premises being considered, to discharge him from the custody of the said William Tyer, if he should prove his descent as aforesaid, &amp; that summons may issue for the said William Tyer to answer this Petition, &amp; he will pray &amp; soforth. G. Duvall for Petitioner. Thereupon, it is ordered by the Court here, that the writ of the State of Maryland of Summons issue against the said William Tyer to answer unto the Petition aforesaid of the said William Shorter, which was accordingly issued, directed to the Sheriff of Charles County in form following towit. The State of Maryland Sct. To the Sheriff of Charles County, Greeting: We command you, that you summon William Tyer late of Charles County, that all excuses &amp; delays set aside he be and appear before the Judges of our General Court, to be held at the City of Annapolis, on the second tuesday of May next, to answer the Petition of <sic>Robert</sic> Shorter, preferred against him for Freedom; Hereof he is not fail, and fail not at your peril, and have you then and there this writ; Witness the Honorable Samuel Chase Esquire Chief Judge of our said Court the 14th day of February Anno domini 1792. Issued the 25th day of April 1792. (GD.) Jno Gwinn Clk.</p>
+
+<p>At which said second tuesday of May in the year of our Lord One thousand seven hundred and ninety two, being the day of the return of the said aforegoing summons, comes into the General Court here, the said William Shorter by his attorney aforesaid, and the Sheriff of Charles County to whom the said writ of summons was in form aforesaid directed, makes return thereof to the Court here, thus endorsed towit. "Summoned, James Simmes, Sheriff". Whereupon, comes into the General Court here, the said William Tyer by William Craik his attorney, and defends the force and injury when andsoforth, and prays leave of the Court here to imparle until the second tuesday of October next, and to him it is granted; the same day is given to the said William Tyer also. At which said second tuesday of October in the year of our Lord One thousand seven hundred and ninety two, come again into the General Court here as well
+
+<pb xml:id="p031" facs="oscys.mdcase.0012.005.003"/>
+
+the said William Shorter by his attorney aforesaid, as the said William Tyer by his attorney aforesaid: And the said William Tyer by his attorney aforesaid as before, defends the force and injury when and soforth, and prays leave of the Court here further to imparle until the second tuesday of May next, and to him it is granted; the same day is given to the said William Shorter also. At which said second tuesday of May, in the year of our Lord one thousand seven hundred and ninety three, come again into the General Court here, as well the said William Shorter by his attorney aforesaid, as the said William Tyer by Thomas Buchanan his attorney: And the said William Tyer by his attorney aforesaid, as before, defends the force and injury when and soforth, and prays leave of the Court here further to imparle until the second tuesday of October next, and to him it is granted; the same day is given to the said William Shorter also. At which said second tuesday of October in the year of our Lord One thousand seven hundred and ninety three, 
+
+
+ hearing of May next, and to him it is granted; the same day is given to the said William Shorter also— At which said second Tuesday of May in the year of our Lord one thousand seven hundred and ninety three, come again into the General Court here, as well the said William Shorter by his attorney aforesaid as before, defends the force and injury when and so forth, and prays leave of the Court here further to imparte until the second Tuesday of October next, and to him it is granted; the same day is given to the said William Shorter also- At which said second Tuesday of October in the year of our Lord One thousand seven hundred and ninety three, come again into the General Court here, as well the said William Shorter by his attorney aforesaid as the William Tyer by his attorney aforesaid. And the said William Tyer by his attorney aforesaid as before defends the force and injury when and so forth, and prays leave of the Court here further to impart until the second Tuesday of October next, and to him it is granted, the same day is given to the said William Shorter also. At which said second Tuesday of October in the year of our Lord One thousand seven hundred and ninety three, come again into the General Court here, as well the said William Shorter by his attorney aforesaid, as the William Tyer by his attorney aforesaid. And the said William Tyer by his attorney aforesaid, as before defends the force and inquiry when and so forth and prays leave of the Court here further to impart until the second tuesday of May next, and to him it is granted, the same day is given to the said William Shorter also.- At which second tuesday of may in the year of our Lord One thousand seven hundred and ninety four, come again into the General Court here, as well the said William Shorter by his attorney aforesaid, as the said William Tyer by his attorney aforesaid. Thereupon further process of and upon the premises aforesaid, between the parties aforesaid, by order of the Court here as continued until the second tuesday of October next. At which said second Tuesday of October in the year of our Lord one thousand seven hundred and ninety four, come again into the General Court here, as well the said William Shorter by his attorney aforesaid, as the said William Tyer by his attorney aforesaid. Thereupon further process of and upon the premises aforesaid, between the parties aforesaid, by order of the Court here is further contained until the second tuesday of May next- And now at the day towit the said second Tuesday of May in the year of our Lord one thousand seven hundred and ninety five, come again into the General Court here as well the said William Shorter by his attorney aforesaid,
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>
