@@ -36,6 +36,11 @@
 <!-- ==================================================================== -->
 <!--                            OVERRIDES                                 -->
 <!-- ==================================================================== -->
+  
+  <!-- remove auto generated references from case files -->
+  <xsl:template match="div2[@type='documents']">
+    <!-- Do nothing -->
+  </xsl:template>
 
   <!-- Adding links to other cases via bibls https://github.com/CDRH/earlywashingtondc/issues/124 -->
   <!-- This change originally made by kdalziel before datura reorganization for PR #25 -->
