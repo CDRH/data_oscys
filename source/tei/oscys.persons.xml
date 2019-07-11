@@ -42588,6 +42588,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab></ab></trait>
 <death notAfter="1796-05-23" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.003">before May 23, 1796</death>
 <note>Often styled as Charles Carroll of Annapolis.</note>
+<note>May be the same as per.005280.</note>
 </person>
 
 <person xml:id="per.004512" source="http://earlywashingtondc.org/doc/oscys.mdcase.0008.002">
@@ -46987,8 +46988,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.005075" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
-<persName type="display">Coombs, Lotty</persName>
-<persName type="full"><surname>Coombs</surname>, <forename type="first" full="yes">Lotty</forename></persName>
+<persName type="display">Coombs, Totty</persName>
+<persName type="full"><surname>Coombs</surname>, <forename type="first" full="yes">Totty</forename></persName>
 <sex>male</sex>
 </person>
 
@@ -47507,8 +47508,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.005149" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
-<persName type="display">Brook, Henny</persName>
-<persName type="full"><surname>Brook</surname> <surname type="birth">Neale</surname>, <forename type="first" full="yes">Henny</forename></persName>
+<persName type="display">Brooke, Henny</persName>
+<persName type="full"><surname>Brooke</surname> <surname type="birth">Neale</surname>, <forename type="first" full="yes">Henny</forename></persName>
 <sex>female</sex>
 <residence>Calvert County (Md.)</residence>
 <residence>St. Mary's County (Md.)</residence>
@@ -47639,12 +47640,13 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>female</sex>
 </person>
 
+<!-- same as per.005169 ??
 <person xml:id="per.005168" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
 <persName type="display">Neale, Ralph</persName>
 <persName type="full"><surname>Neale</surname>, <forename type="first" full="yes">Ralph</forename></persName>
 <sex>male</sex>
 <residence>St. Mary's County (Md.)</residence>
-</person>
+</person>-->
 
 <person xml:id="per.005169" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
 <persName type="display">Neale, Raphael</persName>
@@ -48464,6 +48466,19 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Rozer</surname> <addName type="surname" subtype="alternate">Rozier</addName>, <forename type="first" full="yes">Henry</forename> </persName>
 <sex>male</sex>
 <residence>Prince George's County (Md.)</residence>
+</person>
+
+<person xml:id="per.005278" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Reeves, Thomas</persName>
+<persName type="full"><surname>Reeves</surname>, <forename type="first" full="yes">Thomas</forename> </persName>
+<sex>male</sex>
+</person>
+
+<person xml:id="per.005279" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Carroll, Charles</persName>
+<persName type="full"><surname>Carroll</surname>, <forename type="first" full="yes">Charles</forename></persName>
+<sex>male</sex>
+<note>May be the same as per.004511.</note>
 </person>
 
 <!-- end oscys.mdcase.0012.001 -->
