@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0012.007">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Basil Shorter v. Charles Carroll. Judgment Record</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Hyman, Christy" xml:id="ch">Christy Hyman</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2019</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0012.007</idno>
+<idno type="case">oscys.caseid.0522</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Judgment Record</title>
+<date when="1795-05">May 1795</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgment Record)</collection>
+<idno>MSA S497-24 JG 27</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1795-05">May 1795</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Charles County (Md.)</term>
+<term>Annapolis (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Dismissed</term>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.005199">
+<persName>Shorter, Basil</persName>
+</person>
+<person role="defendant" xml:id="per.005279">
+<persName>Carroll, Charles</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001956">
+<persName>Digges, Francis</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2019-07-12" who="#kln">reviewed and edited transcription; encoded</change>
+<change when="2018" who="#ch">preliminary transcription</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb xml:id="p032" facs="oscys.mdcase.0012.007.001"/>
+
+<div2 type="caption">
+
+<p>Basil Shorter.<lb/>
+against<lb/>
+Charles Carroll.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Be it remembered that heretofore towit on the Thirtieth day of May in the year of our Lord one thousand seven hundred and ninety two, Basil Shorter by Gabriel Duvall his attorney preferred and filed in the general court here his petition for freedom which is in form following towit— To the honorable, the Judges of the General Court. The potion of Basil Shorter humbly shewweith that his held in slavery by Charles Carroll of Washington County and he is advised that he is entitled to his Freedom being descended on the female line from a free white
+
+
+
+
+
+
+</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>
