@@ -103,11 +103,11 @@
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.005283">
 <persName>Shorter, William</persName><!-- enslaved by William Tyer -->
 </person>
-<person role="defendant">
-<persName>Tyer, William</persName><!-- Charles County -->
+<person role="defendant" xml:id="per.005284">
+<persName>Tyer, William</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.001393">
 <persName>Duvall, Gabriel, 1752-1844</persName>
@@ -115,8 +115,8 @@
 <person role="attorney_defendant" xml:id="per.001947">
 <persName>Buchanan, Thomas</persName>
 </person>
-<person role="attorney_defendant">
-<persName>Craik, William</persName><!-- attorney -->
+<person role="attorney_defendant" xml:id="per.005285">
+<persName>Craik, William</persName>
 </person>
 </listPerson>
 

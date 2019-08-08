@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0012.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0012.027">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Mary Shorter v. Ignatius Matthews. Judgment Record</title>
+<title>Peter Shorter v. Henry Rozer. Judgment Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Hyman, Christy" xml:id="ch">Christy Hyman</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0012.003</idno>
-<idno type="case">oscys.caseid.0518</idno>
+<idno type="project">oscys.mdcase.0012.027</idno>
+<idno type="case">oscys.caseid.0542</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,14 +47,14 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Judgment Record</title>
-<date when="1795-05">May 1795</date>
+<date when="1795-04">April 1795</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Maryland State Archives</repository>
-<collection>General Court of the Western Shore (Judgment Record)</collection>
-<idno>MSA S497-24 JG 27</idno>
+<collection>Prince George's County Court (Judgment Record)</collection>
+<idno>MSA C1231-1 IRM 3</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -80,11 +79,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1795-05">May 1795</date></term>
+<term><date when="1795-04">April 1795</date></term>
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.001493">Gwinn, John</term><!-- clerk, General Court of the Western Shore -->
+<term/>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -92,18 +91,18 @@
 </keywords>
 
 <keywords scheme="original" n="outcome">
-<term>Verdict for Plaintiff</term>
+<term/>
 </keywords>
 
 </textClass>
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.005234">
-<persName>Shorter, Mary</persName>
+<person role="petitioner">
+<persName>Shorter, Peter</persName>
 </person>
-<person role="defendant" xml:id="per.005282">
-<persName>Matthews, Ignatius</persName>
+<person role="defendant">
+<persName>Rozer, Henry</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -115,16 +114,15 @@
 
 <listOrg>
 <org>
-<orgName>Maryland. General Court of the Western Shore</orgName>
-<placeName>Annapolis (Md.)</placeName>
+<orgName>Maryland. Prince George's County Court</orgName>
+<placeName>Upper Marlboro (Md.)</placeName>
 </org>
 </listOrg>
 </particDesc>
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-07-09" who="#kln">reviewed and edited transcription; encoded</change>
-<change when="2018" who="#ch">preliminary transcription</change>
+<change when="2019-08-08" who="#kln">transcription, encoding</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,21 +133,40 @@
 
 <div1 type="case">
 
-<pb xml:id="p024" facs="oscys.mdcase.0012.003.001"/>
+<pb xml:id="p112" facs="oscys.mdcase.0012.026.001"/>
 
 <div2 type="caption">
 
-<p>Mary Shorter<lb/>
-against<lb/>
-Ignatius Matthews</p>
+<p>Peter Shorter<lb/>
+vs.<lb/>
+Henry Rozer</p>
 
 </div2>
 
 <div2 type="body">
 
-<p>Petition for Freedom. Summons &amp;ca. Same proceedings and Judgement &amp; Mutatis Mutandis, as Charity Shorter against Ignatius Matthews, in page 21 &amp;ca in this Book.</p>
+<p>Petition for Freedom<lb/>
+Plea. Replication. Issued.</p>
 
-<p>Test. John Gwinn Clk.</p>
+<p>Jury</p>
+
+<p>1. Benjamin Brookes<lb/>
+2. John F. Beall<lb/>
+3. Thomas Harwood of Benja<lb/>
+4. Thomas Hodgkin Jr.<lb/>
+5. Charles D. Hodges<lb/>
+6. Nicholas Sansbury<lb/>
+7. Joseph Blandford<lb/>
+8. Philip Heill<lb/>
+9. Richard Marshall<lb/>
+10. Edward Willett<lb/>
+11. Solomon Hillen<lb/>
+12. Josiah Gordon</p>
+
+<p>Bailiff sworn<lb/>
+Bill of Exceptions filed<lb/>
+Verdict for Petitioner<lb/>
+Jury fee paid</p>
 
 </div2>
 

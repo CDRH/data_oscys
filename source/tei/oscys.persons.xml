@@ -18861,7 +18861,7 @@ This file was compiled from information found in:
 <trait type="color"><ab></ab></trait>
 <occupation when="1796-08-15">associate justice of Charles County Court</occupation>
 <occupation when="1792-07-14" source="http://earlywashingtondc.org/doc/oscys.mdcase.0010.001">justice of the peace for Charles County (Md.)</occupation>
-<note>May be the same as per.005043.</note>
+<note>Probably be the same as per.005043.</note>
 </person>
 
 <person xml:id="per.001952" source="http://earlywashingtondc.org/doc/oscys.case.0258.008">
@@ -26053,10 +26053,10 @@ This file was compiled from information found in:
 
 <person xml:id="per.002691" source="http://earlywashingtondc.org/doc/oscys.mdcase.0005.001">
 <persName type="display">Simms, James</persName>
-<persName type="full"> <surname>Simms</surname>, <forename type="first" full="yes">James</forename></persName>
+<persName type="full"> <surname>Simms</surname> <addName type="surname" subtype="alternate">Simmes</addName>, <forename type="first" full="yes">James</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<occupation>sheriff</occupation>
+<occupation>Sheriff of Charles County (Md.)</occupation>
 </person>
 
 <person xml:id="per.002692" source="http://earlywashingtondc.org/doc/oscys.mdcase.0005.001">
@@ -46751,11 +46751,12 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.005043" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
-<persName type="display">Barnes</persName>
-<persName type="full"><surname>Barnes</surname></persName>
+<persName type="display">Barnes, Henry</persName>
+<persName type="full"><surname>Barnes</surname>, <forename type="first" full="yes">Henry</forename></persName>
 <sex>male</sex>
 <residence>Port Tobacco (Md.)</residence>
-<note>May be the same as per.001951.</note>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.004">Charles County (Md.)</residence>
+<note>Probably the same as per.001951.</note>
 </person>
 
 <person xml:id="per.005044" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
@@ -46989,7 +46990,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.005075" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
 <persName type="display">Coombs, Totty</persName>
-<persName type="full"><surname>Coombs</surname>, <forename type="first" full="yes">Totty</forename></persName>
+<persName type="full"><surname>Coombs</surname> <addName type="surname" subtype="alternate">Coombes</addName>, <forename type="first" full="yes">Totty</forename></persName>
 <sex>male</sex>
 </person>
 
@@ -47021,9 +47022,10 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.005080" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
-<persName type="display">Diggs, Henry</persName>
-<persName type="full"><surname>Diggs</surname>, <forename type="first" full="yes">Henry</forename></persName>
+<persName type="display">Digges, Henry</persName>
+<persName type="full"><surname>Digges</surname> <addName type="surname" subtype="alternate">Diggs</addName>, <forename type="first" full="yes">Henry</forename></persName>
 <sex>male</sex>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.006">Charles County (Md.)</residence>
 <note>May be the same as per.002084.</note>
 </person>
 
@@ -48022,6 +48024,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>female</sex>
 <trait type="color"><ab>white</ab></trait>
 <socecStatus>enslaved</socecStatus>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.004">free</socecStatus>
 </person>
 
 <person xml:id="per.005218" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
@@ -48046,8 +48049,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.005221" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
-<persName type="display">Shorter, Henny</persName>
-<persName type="full"><surname>Shorter</surname>, <forename type="first" full="yes">Henny</forename></persName>
+<persName type="display">Shorter, Henrietta</persName>
+<persName type="full"><surname>Shorter</surname>, <forename type="first" full="yes">Henrietta</forename> <addName type="forename" subtype="alternate">Henny</addName></persName>
 <sex>female</sex>
 <socecStatus>enslaved</socecStatus>
 </person>
@@ -48143,8 +48146,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.005234" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
-<persName type="display">Shorter, Mary Anne</persName>
-<persName type="full"><surname>Shorter</surname>, <forename type="first" full="yes">Mary Anne</forename></persName>
+<persName type="display">Shorter, Mary </persName>
+<persName type="full"><surname>Shorter</surname>, <forename type="first" full="yes">Mary</forename> <addName type="forename" subtype="alternate">Mary Anne</addName></persName>
 <sex>female</sex>
 </person>
 
@@ -48234,9 +48237,11 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Shorter</surname>, <forename type="first" full="yes">Patty</forename> <addName type="forename" subtype="alternate">Patt</addName> <addName type="forename" subtype="alternate">Martha</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab>mulatto</ab></trait>
+<trait type="color"><ab>dark mulatto</ab></trait>
 <socecStatus>enslaved</socecStatus>
 </person>
 
+<!-- same as above 
 <person xml:id="per.005247" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
 <persName type="display">Shorter, Patt</persName>
 <persName type="full"><surname>Shorter</surname>, <forename type="first" full="yes">Patt</forename> <addName type="forename" subtype="alternate">Patty</addName></persName>
@@ -48244,7 +48249,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab>mulatto</ab></trait>
 <trait type="color"><ab>dark mulatto</ab></trait>
 <socecStatus>enslaved</socecStatus>
-</person>
+</person>-->
 
 <person xml:id="per.005248" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
 <persName type="display">Shorter, Peggy</persName>
@@ -48304,6 +48309,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Shorter</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
 <socecStatus>enslaved</socecStatus>
+<note>May be the same as per.005283.</note>
 </person>
 
 <person xml:id="per.005256" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
@@ -48481,6 +48487,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="display">Carroll, Charles</persName>
 <persName type="full"><surname>Carroll</surname>, <forename type="first" full="yes">Charles</forename></persName>
 <sex>male</sex>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.007">Washington County (Md.)</residence>
 <note>May be the same as per.004511.</note>
 </person>
 
@@ -48497,6 +48504,75 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <!-- end oscys.mdcase.0012.001 -->
+
+<!-- start oscys.mdcase.0012.002 -->
+
+<person xml:id="per.005282" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Matthews, Ignatius</persName>
+<persName type="full"><surname>Matthews</surname>, <forename type="first" full="yes">Ignatius</forename></persName>
+<sex>male</sex>
+<residence>Charles County (Md.)</residence>
+</person>
+
+<!-- end oscys.mdcase.0012.002 -->
+
+<!-- start oscys.mdcase.0012.005 -->
+
+<person xml:id="per.005283" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Shorter, William</persName>
+<persName type="full"><surname>Shorter</surname>, <forename type="first" full="yes">William</forename></persName>
+<sex>male</sex>
+<socecStatus>enslaved</socecStatus>
+<note>May be the same as per.005255.</note>
+</person>
+
+<person xml:id="per.005284" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Tyer, William</persName>
+<persName type="full"><surname>Tyer</surname>, <forename type="first" full="yes">William</forename></persName>
+<sex>male</sex>
+<residence>Charles County (Md.)</residence>
+</person>
+
+<person xml:id="per.005285" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Craik, William</persName>
+<persName type="full"><surname>Craik</surname>, <forename type="first" full="yes">William</forename></persName>
+<sex>male</sex>
+<occupation>attorney</occupation>
+</person>
+
+<!-- end oscys.mdcase.0012.005 -->
+
+<!-- start oscys.mdcase.0012.006 -->
+
+<person xml:id="per.005286" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Digges, Francis</persName>
+<persName type="full"><surname>Digges</surname>, <forename type="first" full="yes">Francis</forename></persName>
+<sex>male</sex>
+</person>
+
+<person xml:id="per.005287" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Digges, John</persName>
+<persName type="full"><surname>Digges</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<residence>Charles County (Md.)</residence>
+</person>
+
+<!-- end oscys.mdcase.0012.006 -->
+
+<!-- start oscys.mdcase.0012.007 -->
+
+<person xml:id="per.005288" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Shryock, Henry</persName>
+<persName type="full"><surname>Shryock</surname>, <forename type="first" full="yes">Henry</forename></persName>
+<sex>male</sex>
+<occupation>Sheriff of Washington County (Md.)</occupation>
+</person>
+
+<!-- end oscys.mdcase.0012.006 -->
+
+
+
+
 
 <!--
 

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Charles Shorter v. John Digges and Francis Digges. Judgment Record</title>
+<title>Charles Shorter v. John Digges &amp; Francis Digges. Judgment Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -84,7 +84,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.005043">Barnes</term>
+<term xml:id="per.005043">Barnes, Henry</term>
 <term xml:id="per.005049">Boarman</term>
 <term xml:id="per.005055">Bradburn, Mary</term>
 <term xml:id="per.005056">Bradford, Eleanor</term>
@@ -99,7 +99,7 @@
 <term xml:id="per.001514">Chase, Samuel, 1741-1811</term>
 <term xml:id="per.005071">Chunn, Anne</term>
 <term xml:id="per.005079">Digges, Edward</term>
-<term xml:id="per.005080">Digges, Henry</term><!-- Diggs alt spelling; Charles County; enslaved Charles Shorter -->
+<term xml:id="per.005080">Digges, Henry</term><!-- enslaved Charles Shorter -->
 <term xml:id="per.001493">Gwinn, John</term>
 <term xml:id="per.005144">Lancaster, Betsy</term>
 <term xml:id="per.005122">Lancaster, John</term>
@@ -137,7 +137,7 @@
 <term xml:id="per.005253">Shorter, Terry</term>
 <term xml:id="per.005164">Taney, Mary</term>
 <term xml:id="per.005261">Taney, Thomas</term>
-<term xml:id="per.005075">Coombs, Totty</term><!-- alt name Coombes -->
+<term xml:id="per.005075">Coombs, Totty</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -158,11 +158,11 @@
 <person role="petitioner" xml:id="per.005211">
 <persName>Shorter, Charles</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.005286">
 <persName>Digges, Francis</persName>
 </person>
-<person role="defendant">
-<persName>Digges, John</persName><!-- Charles County -->
+<person role="defendant" xml:id="per.005287">
+<persName>Digges, John</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.001393">
 <persName>Duvall, Gabriel, 1752-1844</persName>
