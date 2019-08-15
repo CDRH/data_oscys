@@ -83,7 +83,12 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term/>
+<term xml:id="per.001514">Chase, Samuel, 1741-1811</term>
+<term xml:id="per.001493">Gwinn, John</term>
+<term xml:id="per.005217">Shorter, Elizabeth</term>
+<term xml:id="per.005225">Shorter, Jenny</term>
+<term xml:id="per.005252">Shorter, Teresa</term>
+<term xml:id="per.002691">Simms, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -99,20 +104,23 @@
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.005322">
 <persName>Shorter, Phillis</persName>
 </person>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.005315">
 <persName>Shorter, Letty</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.005298">
 <persName>Boarman, Mary</persName>
 </person>
-<person role="attorney_petitioner">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
 </person>
-<person role="attorney_defendant">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.004534">
+<persName>Wilmer, Jonathan Roberts</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
 </person>
 </listPerson>
 
