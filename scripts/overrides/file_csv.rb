@@ -11,6 +11,9 @@ class FileCsv < FileType
 
     @csv.each_with_index do |row, index|
       next if row.header_row?
+      # skip if missing lat / long
+      next if !row["Long"] || !row["Lat"]
+
       feature = {
         "type" => "Feature",
         "geometry" => {
