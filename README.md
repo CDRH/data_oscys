@@ -11,7 +11,7 @@ If relationships have changed or been updated, run the RDF generation.  This ste
 ruby scripts/csv_to_rdf.rb
 ```
 
-Now index everything to solr and generate the development HTML:
+Now index everything to solr and generate the development HTML. This also includes the map geojson, which is regenerated as part of the HTML output format:
 
 ```
 post -x html,solr
@@ -60,3 +60,13 @@ git add (files)
 git commit -m "message"
 git push origin (branchname)
 ```
+
+## Update the Maps
+
+To update the maps, you will need to determine which layer needs updating. If it is a ward, public building, etc, then you need to update the geojson files in the Rails application. If it is a directory layer, like the breakdowns of court roles, gender, occupation, and race, then you should modify the directory CSV file in `source/csv`. Once your CSV is updated, you may run:
+
+```
+post -f csv -x html -e [environment]
+```
+
+This will create geojson files in the output directory which, if located on the development / production servers, will automatically update on the map.
