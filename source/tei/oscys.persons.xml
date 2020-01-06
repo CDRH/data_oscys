@@ -55194,6 +55194,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus when="1763-09-27">enslaved</socecStatus>
+<age when="1767-05-27">about 44</age>
 </person>
 
 <person xml:id="per.006304" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
@@ -55260,11 +55261,13 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006312" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
 <persName type="display">Butler, Eleanor</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Eleanor</forename></persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Eleanor</forename> <addName type="forename" subtype="nickname">Nell</addName> <addName type="forename" subtype="nickname">Irish Nell</addName></persName>
 <sex>female</sex>
-<trait type="color"><ab></ab></trait>
+<trait type="color"><ab>white</ab></trait>
 <nationality>Irish</nationality>
 <occupation>washer woman</occupation>
+<occupation>midwife</occupation>
+<occupation>cook</occupation>
 <residence>Major Boarman's plantation</residence>
 </person>
 
@@ -55278,9 +55281,9 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006314" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
 <persName type="display">Butler, John</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">John</forename></persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">John</forename> <addName type="first" subtype="nickname">Jack</addName></persName>
 <sex>male</sex>
-<trait type="color"><ab></ab></trait>
+<trait type="color"><ab>mulatto</ab></trait>
 <age notAfter="1707">between 19 and 20</age>
 </person>
 
@@ -55294,9 +55297,9 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006316" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
 <persName type="display">Butler, Catharine</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Catharine</forename></persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Catharine</forename> <addName type="first" subtype="nickname">Kate</addName></persName>
 <sex>female</sex>
-<trait type="color"><ab></ab></trait>
+<trait type="color"><ab>mulatto</ab></trait>
 <age notAfter="1707">about 15</age>
 </person>
 
@@ -55306,6 +55309,128 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>Justice of Charles County (Md.)</occupation>
+</person>
+
+<person xml:id="per.006318" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Boarman</persName>
+<persName type="full"><surname>Boarman</surname> <roleName>Major</roleName></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006319" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Howard, Jane</persName>
+<persName type="full"><surname>Howard</surname>, <forename type="first" full="yes">Jane</forename> <addName type="first" subtype="alternate">Jean</addName></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<age when="1767-09-21">70 or thereabouts</age>
+<residence>Saint Mary's County (Md.)</residence>
+</person>
+
+<person xml:id="per.006320" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Reeder, John, Jr.</persName>
+<persName type="full"><surname>Reeder</surname>, <forename type="first" full="yes">John</forename> <genName>Junior</genName></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>Justice for Saint Mary's County (Md.)</occupation>
+</person>
+
+<person xml:id="per.006321" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Beach, Thomas</persName>
+<persName type="full"><surname>Beach</surname>, <forename type="first" full="yes">Thomas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<age>78</age>
+</person>
+
+<person xml:id="per.006322" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Brookes, Leonard</persName>
+<persName type="full"><surname>Brookes</surname>, <forename type="first" full="yes">Leonard</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<residence>Saint Mary's County (Md.)</residence>
+</person>
+
+<person xml:id="per.006323" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Butler, Elizabeth</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Elizabeth</forename> <addName type="first" subtype="alternate">Abigail</addName></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<death when="1737">about 1737</death>
+</person>
+
+<person xml:id="per.006324" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Whitehorn, Ann</persName>
+<persName type="full"><surname>Whitehorn</surname>, <forename type="first" full="yes">Ann</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<age when="1767-05-27">76</age>
+<birth when="--12-11">December 11</birth>
+</person>
+
+<person xml:id="per.006325" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Brookes, Richard</persName>
+<persName type="full"><surname>Brookes</surname>, <forename type="first" full="yes">Richard</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<residence>Saint Mary's County (Md.)</residence>
+</person>
+
+<person xml:id="per.006326" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Abell, Samuel, Jr.</persName>
+<persName type="full"><surname>Abell</surname>, <forename type="first" full="yes">Samuel</forename> <genName>Junior</genName></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<age when="1767-05-27">55</age>
+<birth when="--03">March</birth>
+</person>
+
+<person xml:id="per.006327" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Edwards</persName>
+<persName type="full"><surname>Edwards</surname></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006328" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Darnall</persName>
+<persName type="full"><surname>Darnall</surname></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006329" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Suit, Nathaniel</persName>
+<persName type="full"><surname>Suit</surname>, <forename type="first" full="yes">Nathaniel</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<age when="1767-05-27">40</age>
+<birth when="--07-22">July 22</birth>
+</person>
+
+<person xml:id="per.006339" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Soot, Nathaniel</persName>
+<persName type="full"><surname>Soot</surname>, <forename type="first" full="yes">Nathaniel</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<age when="1757-04">89</age>
+<death when="1757-04">April 1757</death>
+</person>
+
+<person xml:id="per.006340" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">McPherson, William</persName>
+<persName type="full"><surname>McPherson</surname>, <forename type="first" full="yes">William</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<age when="1767-05-27">60</age>
+<birth when="--09-05">September 5</birth>
+</person>
+
+<person xml:id="per.006341" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Sanders, Pomphrey John</persName>
+<persName type="full"><surname>Sanders</surname>, <forename type="first" full="yes">Pomphrey</forename> <forename type="middle" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
 </person>
 
 <!-- end oscys.mdcase.0014.001 -->
