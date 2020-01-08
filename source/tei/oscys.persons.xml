@@ -55200,7 +55200,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006304" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
 <persName type="display">Butler, Mary</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Mary</forename> <addName type="first" subtype="nickname">Molly</addName></persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Mary</forename> <addName type="first" subtype="nickname">Molly</addName> <addName type="first" subtype="nickname">Moll</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus when="1763-09-27">enslaved</socecStatus>
@@ -55278,6 +55278,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><forename type="first" full="yes">Charles</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab>negro</ab></trait>
+<trait type="color"><ab>Salt Water Negro</ab></trait>
 <residence>Major Boarman's plantation</residence>
 </person>
 
@@ -55302,6 +55303,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Catharine</forename> <addName type="first" subtype="nickname">Kate</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab>mulatto</ab></trait>
+<socecStatus>enslaved</socecStatus>
 <age notAfter="1707">about 15</age>
 <death notAfter="1760">about 1760</death>
 </person>
@@ -55315,8 +55317,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006318" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
-<persName type="display">Boarman</persName>
-<persName type="full"><surname>Boarman</surname> <roleName>Major</roleName></persName>
+<persName type="display">Boarman, William</persName>
+<persName type="full"><surname>Boarman</surname>, <forename type="first" full="yes">William</forename> <roleName>Major</roleName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -55448,6 +55450,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Boarman</surname>, <forename type="first" full="yes">Ignatius</forename> <addName type="first" subtype="nickname">Nasy</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence>Zachiah Swamp, Charles County (Md.)</residence>
 </person>
 
 <person xml:id="per.006344" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
@@ -55470,6 +55473,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Nan</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
 </person>
 
 <person xml:id="per.006347" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
@@ -55513,8 +55517,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006352" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
-<persName type="display">William</persName>
-<persName type="full"><surname>William</surname></persName>
+<persName type="display">Witham</persName>
+<persName type="full"><surname>Witham</surname></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -55574,8 +55578,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006360" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
-<persName type="display">Hubbert</persName>
-<persName type="full"><surname>Hubbert</surname></persName>
+<persName type="display">Hulbert</persName>
+<persName type="full"><surname>Hulbert</surname> <addName type="surname" subtype="alternate">Hubbert</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>Roman Priest</occupation>
@@ -55590,8 +55594,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006362" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
-<persName type="display">Simson, William</persName>
-<persName type="full"><surname>Simson</surname>, <forename type="first" full="yes">William</forename></persName>
+<persName type="display">Simpson, William</persName>
+<persName type="full"><surname>Simpson</surname> <addName type="surname" subtype="alternate">Simson</addName>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <age when="1767-05-27">69</age>
@@ -55604,6 +55608,46 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab></ab></trait>
 <residence>Kob</residence>
 <note>May be the same as per.005174.</note>
+</person>
+
+<person xml:id="per.006364" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Redhead</persName>
+<persName type="full"><surname>Redhead</surname>, <roleName>Captain</roleName></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006365" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Brooke, Baker</persName>
+<persName type="full"><surname>Brooke</surname>, <forename type="first" full="yes">Baker</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006366" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Jameson, Joseph</persName>
+<persName type="full"><surname>Jameson</surname>, <forename type="first" full="yes">Joseph</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<age>52</age>
+<birth when="--12">December</birth>
+</person>
+
+<person xml:id="per.006367" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Crossen, Mary</persName>
+<persName type="full"><surname>Crossen</surname>, <forename type="first" full="yes">Mary</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<age when="1767-05-27">74</age>
+<birth when="--02-15">February 15</birth>
+</person>
+
+<person xml:id="per.006368" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
+<persName type="display">Boarman, Gerrard</persName>
+<persName type="full"><surname>Boarman</surname>, <forename type="first" full="yes">Gerrard</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<residence>Zachiah Swamp, Charles County (Md.)</residence>
 </person>
 
 <!-- end oscys.mdcase.0014.001 -->
