@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.012">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lydia Butler v. James Carrico. Summons of James Carrico</title>
+<title>Electius Butler v. Bennett Posey. Petition for Freedom</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0014.004</idno>
-<idno type="case">oscys.caseid.0573</idno>
+<idno type="project">oscys.mdcase.0014.012</idno>
+<idno type="case">oscys.caseid.0577</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,8 +48,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of James Carrico</title>
-<date when="1790-12-07">December 7, 1790</date>
+<title level="m" type="main">Petition for Freedom</title>
+<date when="1790-10-21">October 21, 1790</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -69,7 +69,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="original" n="subcategory">
-<term>Summons</term>
+<term>Petition</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -85,14 +85,12 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.002096">Dyson, Thomas A.</term><!-- sheriff -->
-<term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
-<term xml:id="per.002097">Johnson, Thomas, 1732-1819</term><!-- judge -->
+<term xml:id="per.006312">Butler, Eleanor</term><!-- family of Teresa and Electius -->
+<term xml:id="per.006394">Butler, Teresa</term><!-- parent of Electius -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Charles County (Md.)</term>
-<term>Annapolis (Md.)</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="outcome">
@@ -103,11 +101,11 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.006380">
-<persName>Butler, Lydia</persName>
+<person role="petitioner" xml:id="per.006395">
+<persName>Butler, Electius</persName>
 </person>
-<person role="defendant" xml:id="per.006384">
-<persName>Carrico, James</persName>
+<person role="defendant" xml:id="per.006393">
+<persName>Posey, Bennett</persName> 
 </person>
 <person role="attorney_petitioner" xml:id="per.001393">
 <persName>Duvall, Gabriel, 1752-1844</persName>
@@ -127,7 +125,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-10" who="#kln">transcribed; encoded</change>
+<change when="2020-01-13" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,37 +136,43 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0014.004.001"/>
+<pb n="oscys.mdcase.0014.012.001"/>
 
 <div2 type="body">
 
-<p>The State of Maryland Sst To the Sheriff of Charles County Greeting we Command you that you summon James Carrico late of Charles County that all excuses and delays set aside he be and appear before the Judges of our General Court to be held at the City of Annapolis on the second tuesday of May next to answer the Petition of Lydia Butler prefered against him for Freedom. hereof he is not to fail and fail not at your peril and have you then and there this writ Witness the Honourable Thomas Johnson Esquire Chief Judge of our said Court the 24th day of November Anno Domini 1790.</p>
+<p>To the honourable The Judges of the General Court</p>
 
-<p>Issued the 7th day of December 1790</p>
+<p>The petition of Electius Butler humbly sheweth That he is held in slavery by Bennett Posey of Charles County altho he is entitled to his freedom being descended from a free white woman whose name was Eleanor Butler. Your petitioner is the son of Teresa Butler who was the daughter of a daughter of the said Eleanor Butler. He therefore prays your Honours to take his Case into Consideration &amp; discharge him from the Custody of the said Bennett Posey; &amp; that summons may issue for the Witnesses &amp; soforth.</p>
 
-<p>Jno Gwinn Clk</p>
-
-<p>G Duvall</p>
+<p>G. Duvall for Petr</p>
 
 </div2>
 
-<pb n="oscys.mdcase.0014.004.002"/>
+<pb n="oscys.mdcase.0014.012.002"/>
 
 <div2 type="back">
 
-<p>No 112</p>
+<p>Electius Butler<lb/>
+vs<lb/>
+Bennett Posey</p>
 
-<p>Lydia Butler<lb/>
-a<lb/>
-James Carrico</p>
+<p>Chs</p>
 
-<p>sum</p>
+<p>filed 21st Octo 1790</p>
 
-<p>Charles County<lb/>
-Summoned<lb/>
-Thos A Dyson Shff of Chas County.</p>
+<p>sums issued to May 1791</p>
 
-<p><gap extent="several words" reason="strikethrough"/></p>
+<p>NE at May 1791</p>
+
+<pb n="oscys.mdcase.0014.012.003"/> 
+
+<p>No 75</p>
+
+<p>Electius Butler<lb/>
+vs<lb/>
+Bennett Posey</p>
+
+<p>Petition for Freedom &amp; Summons issued &amp; returned "Not Summoned." May 1791</p>
 
 </div2>
 

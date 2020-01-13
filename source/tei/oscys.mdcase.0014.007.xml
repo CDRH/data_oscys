@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.004">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.007">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lydia Butler v. James Carrico. Summons of James Carrico</title>
+<title>James Butler v. James Arnold. Summons of James Arnold</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0014.004</idno>
-<idno type="case">oscys.caseid.0573</idno>
+<idno type="project">oscys.mdcase.0014.007</idno>
+<idno type="case">oscys.caseid.0574</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,8 +48,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of James Carrico</title>
-<date when="1790-12-07">December 7, 1790</date>
+<title level="m" type="main">Summons of James Arnold</title>
+<date when="1791-04-14">April 14, 1791</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -85,13 +85,12 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.002096">Dyson, Thomas A.</term><!-- sheriff -->
 <term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
 <term xml:id="per.002097">Johnson, Thomas, 1732-1819</term><!-- judge -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Charles County (Md.)</term>
+<term>Saint Mary's County (Md.)</term>
 <term>Annapolis (Md.)</term>
 </keywords>
 
@@ -103,14 +102,14 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.006380">
-<persName>Butler, Lydia</persName>
+<person role="petitioner" xml:id="per.006385">
+<persName>Butler, James</persName>
 </person>
-<person role="defendant" xml:id="per.006384">
-<persName>Carrico, James</persName>
+<person role="defendant" xml:id="per.006386">
+<persName>Arnold, James</persName> 
 </person>
-<person role="attorney_petitioner" xml:id="per.001393">
-<persName>Duvall, Gabriel, 1752-1844</persName>
+<person role="attorney_petitioner" xml:id="per.004375">
+<persName>Ridgely, Henry</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -127,7 +126,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-10" who="#kln">transcribed; encoded</change>
+<change when="2020-01-13" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,37 +137,36 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0014.004.001"/>
+<pb n="oscys.mdcase.0014.007.001"/>
 
 <div2 type="body">
 
-<p>The State of Maryland Sst To the Sheriff of Charles County Greeting we Command you that you summon James Carrico late of Charles County that all excuses and delays set aside he be and appear before the Judges of our General Court to be held at the City of Annapolis on the second tuesday of May next to answer the Petition of Lydia Butler prefered against him for Freedom. hereof he is not to fail and fail not at your peril and have you then and there this writ Witness the Honourable Thomas Johnson Esquire Chief Judge of our said Court the 24th day of November Anno Domini 1790.</p>
+<p>The State of Maryland to wit. To the Sheriff of Saint Marys County Greeting. We Command you that you summons James Arnold late of Saint Marys County that all delays and excuses set a side he be and appear before the Judges of our General Court to be held at the City of Annapolis on the second Tuesday of May next to answer unto the petition of James Butler prefered against him for freedom hereof he is not to fail and fail not at your peril and have you then and there this writ. witness the Honourable Thomas Johnson Esquire Chief Judge of our said Court the 24th day of November Anno Domini 1790</p>
 
-<p>Issued the 7th day of December 1790</p>
+<p>Issued the 14th day of April Anno Domini 1791</p>
 
-<p>Jno Gwinn Clk</p>
+<p>John Gwinn Clk</p>
 
-<p>G Duvall</p>
+<p>H. Ridgely</p>
 
 </div2>
 
-<pb n="oscys.mdcase.0014.004.002"/>
+<pb n="oscys.mdcase.0014.007.001"/>
 
 <div2 type="back">
 
-<p>No 112</p>
+<p>No 260.</p>
 
-<p>Lydia Butler<lb/>
+<p>James Butler<lb/>
 a<lb/>
-James Carrico</p>
+James Arnold</p>
 
-<p>sum</p>
+<p>Sums</p>
 
-<p>Charles County<lb/>
-Summoned<lb/>
-Thos A Dyson Shff of Chas County.</p>
+<p>St. Mary's</p> 
 
-<p><gap extent="several words" reason="strikethrough"/></p>
+<p>Not Summoned<lb/>
+P Ford Shff</p>
 
 </div2>
 
