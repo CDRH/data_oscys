@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.016">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Henrietta Butler v. Edward Smith. Petition for Freedom</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.016</idno>
+<idno type="case">oscys.caseid.0579</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petition for Freedom</title>
+<date when="1790-10-21">October 21, 1790</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgments)</collection>
+<idno>MSA S498-13</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Petition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1791-05">May 1791</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.006312">Butler, Eleanor</term><!-- parent of Eleanor -->
+<term xml:id="per.006402">Butler, Eleanor</term><!-- child of Eleanor; parent of Henrietta -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term/>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.006400">
+<persName>Butler, Henrietta</persName>
+</person>
+<person role="defendant" xml:id="per.006401">
+<persName>Smith, Edward</persName> 
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-01-14" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.016.001"/>
+
+<div2 type="body">
+
+<p>To the honourable the Judges of the General Court.</p>
+
+<p>The petition of Henrietta Butler humbly sheweth that she is held as a Slave by Edward Smith of Charles County, altho' she is entitled to her freedom, being descended from a free white woman whose name was Eleanor Butler. Your petitioner is the daughter of Eleanor Butler, who was the daughter of Eleanor Butler aforesaid a free white woman. She therefore prays your honours to take her case into Consideration, and discharge her from the Custody of the said Edward Smith, and that Summonses may Issue for her witnesses and so forth.</p>
+
+<p>G. Duvall for Petnr</p>
+
+</div2>
+
+<pb n="oscys.mdcase.0014.016.002"/>
+
+<div2 type="back">
+
+<p>Henrietta Butler<lb/>
+v<lb/>
+Edward Smith</p>
+
+<p>pet.</p>
+
+<p>May 1791</p>
+
+<p>filed the 21st October 1790</p>
+
+<pb n="oscys.mdcase.0014.016.003"/>
+
+<p>No 80</p>
+
+<p>Henrietta Butler<lb/>
+vs<lb/>
+Edward Smith</p>
+
+<p>Petition for Freedom</p>
+
+<p>Summons issued &amp; returned "Not Summoned."</p>
+
+<p>May 1791</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>

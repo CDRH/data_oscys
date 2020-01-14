@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.021">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Anthony Butler v. Mary Shervin. Docket Sheet</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.021</idno>
+<idno type="case">oscys.caseid.0581</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Docket Sheet</title>
+<date when="1791-05">May 1791</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgments)</collection>
+<idno>MSA S498-13</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Docket</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1791-05">May 1791</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term/>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term/>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.006405">
+<persName>Butler, Anthony</persName>
+</person>
+<person role="defendant" xml:id="per.006403">
+<persName>Shervin, Mary</persName> 
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-01-14" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.021.001"/>
+
+<div2 type="body">
+
+<p>Anthony Butler<lb/>
+against<lb/>
+Mary Shervin</p>
+
+<p>The same proceedings &amp;ca as Rebecca vs same</p>
+
+<p>copy <gap extent="one or two words" reason="strikethrough"/> original papers<lb/>
+565 Tobo Cost</p>
+
+</div2>
+
+<pb n="oscys.mdcase.0014.021.002"/>
+
+<div2 type="back">
+
+<p>No 85</p>
+
+<p>Anthony Butler<lb/>
+v<lb/>
+Mary Shervin</p>
+
+<p>Petition for Freedom</p>
+
+<p>May 1791</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>
