@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.022">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.024">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Anthony Butler v. Mary Shervin. Petition for Freedom</title>
+<title>Anne Butler v. Mary Shervin. Docket Sheet</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0014.022</idno>
-<idno type="case">oscys.caseid.0581</idno>
+<idno type="project">oscys.mdcase.0014.024</idno>
+<idno type="case">oscys.caseid.0582</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,8 +48,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petition for Freedom</title>
-<date when="1790-11-14">November 14, 1790</date>
+<title level="m" type="main">Docket Sheet</title>
+<date when="1791-05">May 1791</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -69,7 +69,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="original" n="subcategory">
-<term>Petition</term>
+<term>Docket</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -85,10 +85,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.006312">Butler, Eleanor</term><!-- parent of Jane -->
-<term xml:id="per.006398">Butler, Jane</term><!-- child of Eleanor; parent of Rebecca -->
-<term xml:id="per.006406">Butler, Jane</term><!-- parent of Anthony; child of Rebecca -->
-<term xml:id="per.006399">Butler, Rebecca</term><!-- parent of Jane; child of Jane -->
+<term/>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -103,14 +100,14 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.006405">
-<persName>Butler, Anthony</persName>
+<person role="petitioner" xml:id="per.006407">
+<persName>Butler, Anne</persName>
 </person>
 <person role="defendant" xml:id="per.006403">
 <persName>Shervin, Mary</persName> 
 </person>
-<person role="attorney_petitioner" xml:id="per.001393">
-<persName>Duvall, Gabriel, 1752-1844</persName>
+<person role="attorney_petitioner">
+<persName/>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -138,33 +135,22 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0014.022.001"/>
+<pb n="oscys.mdcase.0014.024.001"/>
 
-<div2 type="body">
+<div2 type="caption">
 
-<p>To the honourable the Judges of the General Court</p>
-
-<p>The petition of Anthony Butler humbly sheweth that he is held as a slave by Mary Sherwin of Charles County although he is intitled to his freedom, being descended from a free woman. Your petitioner is the son of Jane Butler who was the daughter of Rebecca Butler who was the daughter of Jane Butler who was the daughter of Eleanor Butler a free woman. She therefore prayeth that your honours would take his case into consideration and discharge him from the custody of the aforesaid Mary Shervin, and that summons may Issue for his witnesses, and so forth.</p>
-
-<p>G. Duvall for petitioner</p>
+<p>Anne Butler<lb/> 
+against<lb/>
+Mary Shervin</p>
 
 </div2>
 
-<pb n="oscys.mdcase.0014.022.002"/>
+<div2 type="body">
 
-<div2 type="back">
+<p>The same proceedings &amp;ca as Rebecca vs same</p>
 
-<p>Anthony Butler<lb/>
-vs<lb/>
-Mary Sherwin</p>
+<p>copy from original papers</p>
 
-<p>petition</p>
-
-<p>May 1791</p>
-
-<p>filed the 14th of November 1790</p>
-
-<p>sums issued 7th Decr 1790</p>
 
 </div2>
 

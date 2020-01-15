@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.022">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.026">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Anthony Butler v. Mary Shervin. Petition for Freedom</title>
+<title>Anne Butler v. Mary Shervin. Summons of Mary Shervin</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0014.022</idno>
-<idno type="case">oscys.caseid.0581</idno>
+<idno type="project">oscys.mdcase.0014.026</idno>
+<idno type="case">oscys.caseid.0582</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,8 +48,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Petition for Freedom</title>
-<date when="1790-11-14">November 14, 1790</date>
+<title level="m" type="main">Summons of Mary Shervin</title>
+<date when="1790-12-07">December 7, 1790</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -69,7 +69,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="original" n="subcategory">
-<term>Petition</term>
+<term>Summons</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -85,14 +85,14 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.006312">Butler, Eleanor</term><!-- parent of Jane -->
-<term xml:id="per.006398">Butler, Jane</term><!-- child of Eleanor; parent of Rebecca -->
-<term xml:id="per.006406">Butler, Jane</term><!-- parent of Anthony; child of Rebecca -->
-<term xml:id="per.006399">Butler, Rebecca</term><!-- parent of Jane; child of Jane -->
+<term xml:id="per.002096">Dyson, Thomas A.</term><!-- sheriff -->
+<term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
+<term xml:id="per.002097">Johnson, Thomas, 1732-1819</term><!-- judge -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term/>
+<term>Charles County (Md.)</term>
+<term>Annapolis (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">
@@ -103,8 +103,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.006405">
-<persName>Butler, Anthony</persName>
+<person role="petitioner" xml:id="per.006407">
+<persName>Butler, Anne</persName>
 </person>
 <person role="defendant" xml:id="per.006403">
 <persName>Shervin, Mary</persName> 
@@ -127,7 +127,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-14" who="#kln">transcribed; encoded</change>
+<change when="2020-01-15" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,33 +138,38 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0014.022.001"/>
+<pb n="oscys.mdcase.0014.026.001"/>
 
 <div2 type="body">
 
-<p>To the honourable the Judges of the General Court</p>
+<p>The State of Maryland Sst To the Sheriff of Charles County Greeting</p>
 
-<p>The petition of Anthony Butler humbly sheweth that he is held as a slave by Mary Sherwin of Charles County although he is intitled to his freedom, being descended from a free woman. Your petitioner is the son of Jane Butler who was the daughter of Rebecca Butler who was the daughter of Jane Butler who was the daughter of Eleanor Butler a free woman. She therefore prayeth that your honours would take his case into consideration and discharge him from the custody of the aforesaid Mary Shervin, and that summons may Issue for his witnesses, and so forth.</p>
+<p>we command you that you summon Mary Shirvin late of Charles County that all excuses and delays set aside she be and appear before the Judges of our General Court to be held at the City of Annapolis on the second tuesday of May next to answer the Petition of Ann Butler prefered against her for Freedom. hereof he is not to fail and fail not at your peril and have you then and there this writ Witness the Honourable Thomas Johnson Esquire Chief Judge of our said Court the 24th day of November Anno Domini 1790</p>
 
-<p>G. Duvall for petitioner</p>
+<p>Issued the 7th day of December 1790</p>
+
+<p>Jno Gwinn Clk</p>
+
+<p>G Duvall</p>
 
 </div2>
 
-<pb n="oscys.mdcase.0014.022.002"/>
+<pb n="oscys.mdcase.0014.026.002"/>
 
 <div2 type="back">
 
-<p>Anthony Butler<lb/>
-vs<lb/>
-Mary Sherwin</p>
+<p>No 86</p>
 
-<p>petition</p>
+<p>Anne Butler<lb/>
+a<lb/>
+Mary Shirvin</p>
 
-<p>May 1791</p>
+<p>sum</p>
 
-<p>filed the 14th of November 1790</p>
+<p>Charles County</p>
 
-<p>sums issued 7th Decr 1790</p>
+<p>Summoned<lb/>
+Thos A Dyson Shff of Chas County</p>
 
 </div2>
 
