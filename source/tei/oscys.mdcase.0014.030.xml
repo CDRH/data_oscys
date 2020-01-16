@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.028">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.030">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Stephen Butler v. Charles Carroll. Summons of Charles Carroll</title>
+<title>Henny Butler v. Charles Carroll. Deposition of Joseph Butler</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0014.028</idno>
-<idno type="case">oscys.caseid.0583</idno>
+<idno type="project">oscys.mdcase.0014.030</idno>
+<idno type="case">oscys.caseid.0584</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,8 +48,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of Charles Carroll</title>
-<date when="1790-07-28">July 28, 1790</date>
+<title level="m" type="main">Deposition of Joseph Butler</title>
+<date when="1791-12-29">December 29, 1791</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -69,7 +69,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="original" n="subcategory">
-<term>Summons</term>
+<term>Deposition</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -85,13 +85,15 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
-<term xml:id="per.002097">Johnson, Thomas, 1732-1819</term><!-- judge -->
-<term xml:id="per.006410">Stull, D.</term>
+<term>Butler, Eleanor</term>
+<term>Butler, Joseph</term>
+<term>Butler, Sarah</term>
+<term>Plowden, Edmond</term>
+<term xml:id="per.001477">Quynn, Allen</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Washington County (Md.)</term>
+<term>St. Mary's County (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">
@@ -102,8 +104,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.006408">
-<persName>Butler, Stephen</persName>
+<person role="petitioner">
+<persName>Butler, Henny</persName>
 </person>
 <person role="defendant" xml:id="per.006409">
 <persName>Carroll, Charles</persName> 
@@ -126,7 +128,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-15" who="#kln">transcribed; encoded</change>
+<change when="2020-01-16" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,37 +139,36 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0014.028.001"/>
+<pb n="oscys.mdcase.0014.030.001"/>
 
 <div2 type="body">
 
-<p>The State of Maryland Sst To the Sheriff of Washington County Greeting we Command you that you summon Charles Carroll late of Washington County that all excuses and delays set aside he be and appear before the Judges of our General Court to be held at the City of Annapolis on the Second Tuesday of October next, to answer <del>unto</del> the Petition of Stephen Butler prefered against him for Freedom, Hereof he is not to fail, and fail not at your peril, and have you then and there this writ, Witness the Honourable Thomas Johnson Esquire Chief Judge of our said Court the 17th day of June Anno Domini 1790.</p>
-
-<p>Issued the 28. July 1790</p>
-
-<p>Jno Gwinn Clk</p>
-
-</div2>
-
-<pb n="oscys.mdcase.0014.028.002"/>
-
-<div2 type="back">
-
-<p>No 54.</p>
-
-<p>Stephen Butler<lb/>
+<p>Henny Butler<lb/>
 v<lb/>
 Charles Carroll</p>
 
-<p>Sums for Freedom</p>
+<p>Petition for freedom in General Court.</p>
 
-<p>2bre</p>
+<p>Joseph Butler a person of colour aged fifty two years or thereabouts being sworn on the holy Evangely of Almighty God deposeth &amp; saith that Henny Butler the petitioner in this cause, is sister of the deponent and daughter of Sarah the mother of the deponent; and he has known her ever since she was a child. That Sarah the mother of Henny is the daughter of Sarah as this deponent has always understood who was the reputed daughter of old Irish Nell. The deponent knew his grandmother Sarah who has been dead about ten or twelve years. The deponent obtained his freedom at May term 1790 on a petition against Edmond Plowden of St Marys County and further he saith not.</p>
 
-<p><del>May 1789.</del></p>
+<p>Allen Quynn<lb/>
+29 decbr 1791</p>
 
-<p>Wash Cy<lb/>
-Sumd<lb/>
-D Stull Shff</p>
+</div2>
+
+<pb n="oscys.mdcase.0014.030.002"/>
+
+<div2 type="back">
+
+<p>1 1/4 sids</p>
+
+<p>Henny Butler<lb/>
+v<lb/>
+Charles Carroll</p>
+
+<p>Joseph Butlers Depo</p>
+
+<p>filed 28 Decr 1791</p>
 
 </div2>
 
