@@ -85,15 +85,16 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Butler, Eleanor</term>
-<term>Butler, Joseph</term>
-<term>Butler, Sarah</term>
-<term>Plowden, Edmond</term>
-<term xml:id="per.001477">Quynn, Allen</term>
+<term xml:id="per.006312">Butler, Eleanor</term><!-- parent of Sarah -->
+<term xml:id="per.006413">Butler, Joseph</term><!-- sibling of Henny; enslaved by Edmond Plowden -->
+<term xml:id="per.006414">Butler, Sarah</term><!-- parent of Henny and Joseph; child of Sarah -->
+<term xml:id="per.006415">Butler, Sarah</term><!-- parent of Sarah; child of Eleanor -->
+<term xml:id="per.001977">Plowden, Edmond</term><!-- enslaved Joseph -->
+<term xml:id="per.001477">Quynn, Allen</term><!-- justice of the peace -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>St. Mary's County (Md.)</term>
+<term>Saint Mary's County (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">
@@ -104,8 +105,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
-<persName>Butler, Henny</persName>
+<person role="petitioner" xml:id="per.006412">
+<persName>Butler, Henny</persName><!-- sibling of Joseph -->
 </person>
 <person role="defendant" xml:id="per.006409">
 <persName>Carroll, Charles</persName> 

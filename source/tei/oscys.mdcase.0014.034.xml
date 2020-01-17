@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.031">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.034">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Henny Butler v. Charles Carroll. Summons of Charles Carroll</title>
+<title>Elizabeth Butler v. Henry Hill. Summons of Henry Hill</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0014.031</idno>
-<idno type="case">oscys.caseid.0584</idno>
+<idno type="project">oscys.mdcase.0014.034</idno>
+<idno type="case">oscys.caseid.0585</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,8 +48,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of Charles Carroll</title>
-<date when="1790-12-07">December 7, 1790</date>
+<title level="m" type="main">Summons of Henry Hill</title>
+<date when="1789-10-19">October 19, 1789</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -85,13 +85,13 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
+<term xml:id="per.006387">Ford, P.</term><!-- sheriff -->
 <term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
-<term xml:id="per.002097">Johnson, Thomas, 1732-1819</term><!-- judge -->
-<term xml:id="per.006410">Stull, D.</term><!-- sheriff -->
+<term xml:id="per.005383">Harrison, Robert Hanson, 1745-1790</term><!-- judge -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Washington County (Md.)</term>
+<term>Saint Mary's County (Md.)</term>
 <term>Annapolis (Md.)</term>
 </keywords>
 
@@ -103,14 +103,14 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.006412">
-<persName>Butler, Henny</persName>
+<person role="petitioner" xml:id="per.006383">
+<persName>Butler, Elizabeth</persName>
 </person>
-<person role="defendant" xml:id="per.006409">
-<persName>Carroll, Charles</persName> 
+<person role="defendant" xml:id="per.006416">
+<persName>Hill, Henry</persName> 
 </person>
-<person role="attorney_petitioner" xml:id="per.001393">
-<persName>Duvall, Gabriel, 1752-1844</persName>
+<person role="attorney_petitioner">
+<persName/>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -127,7 +127,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-16" who="#kln">transcribed; encoded</change>
+<change when="2020-01-17" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,38 +138,34 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0014.031.001"/>
+<pb n="oscys.mdcase.0014.034.001"/>
 
 <div2 type="body">
 
-<p>The State of Maryland Sst To the Sheriff of Washington County Greeting</p>
+<p>The State of Maryland Sst To the Sheriff of Saint Marys County Greeting we Command you that you Summon Henry Hill late of Saint Marys County that all excuses and delays set aside he be and appear before the Judges of Our General Court to be held at the City of Annapolis Returnable immediately to answer the Petition of Elizabeth Butler prefered against him for Freedom Hereof he is not to fail and fail not at your peril and have you then and there this Writ Witness the Honourable Robert Hanson Harrison Esquire Chief Judge of Our said Court the 13th day of October Anno Domini 1789.</p>
 
-<p>We Command you that you summon Charles Carroll late of Washington County that all excuses and delays set aside he be and appear before the  Judges of our General Court to be held at the City of Annapolis on the Second tuesday of May next to answer the Petition of Henny Butler prefered against him for Freedom hereof he is not to fail and fail not at your peril and have you then and there this writ Witness the Honourable Thomas Johnson Esquire Chief Judge of our said Court the 24th day of November 1790.</p>
-
-<p>Issued the 7th day of December 1790</p>
+<p>Issued the 19th day of October 1789.</p>
 
 <p>Jno Gwinn Clk</p>
 
-<p>G Duvall</p>
-
 </div2>
 
-<pb n="oscys.mdcase.0014.031.002"/>
+<pb n="oscys.mdcase.0014.034.002"/>
 
 <div2 type="back">
 
-<p>No 107.</p>
+<p>Elizabeth Butler<lb/>
+vs<lb/>
+Henry Hill</p>
 
-<p>Henny Butler<lb/>
-a<lb/>
-Charles Carroll</p>
+<p>Sums in <gap extent="one word" reason="illegible"/></p>
 
-<p>Octo 1791</p>
+<p>St Mays Coty</p>
 
-<p>Washington</p>
+<p>Summond<lb/>
+P Ford Shff</p>
 
-<p>Sumd<lb/>
-D Stull Shff</p>
+<p><unclear>AT</unclear></p>
 
 </div2>
 

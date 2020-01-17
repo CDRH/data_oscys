@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.031">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.038">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Henny Butler v. Charles Carroll. Summons of Charles Carroll</title>
+<title>Agnes Butler v. Robert Lawson. Petition for Freedom</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0014.031</idno>
-<idno type="case">oscys.caseid.0584</idno>
+<idno type="project">oscys.mdcase.0014.038</idno>
+<idno type="case">oscys.caseid.0587</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,8 +48,8 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of Charles Carroll</title>
-<date when="1790-12-07">December 7, 1790</date>
+<title level="m" type="main">Petition for Freedom</title>
+<date when="1790-10-21">October 21, 1790</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -69,7 +69,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="original" n="subcategory">
-<term>Summons</term>
+<term>Petition</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -85,14 +85,13 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
-<term xml:id="per.002097">Johnson, Thomas, 1732-1819</term><!-- judge -->
-<term xml:id="per.006410">Stull, D.</term><!-- sheriff -->
+<term xml:id="per.006323">Butler, Eleanor</term><!-- parent of Jane -->
+<term xml:id="per.006398">Butler, Jane</term><!-- parent of Rebecca; child of Eleanor -->
+<term xml:id="per.006399">Butler, Rebecca</term><!-- parent of Agnes; child of Jane -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Washington County (Md.)</term>
-<term>Annapolis (Md.)</term>
+<term>Charles County (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">
@@ -103,11 +102,11 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.006412">
-<persName>Butler, Henny</persName>
+<person role="petitioner" xml:id="per.006424">
+<persName>Butler, Agnes</persName><!-- child of Rebecca -->
 </person>
-<person role="defendant" xml:id="per.006409">
-<persName>Carroll, Charles</persName> 
+<person role="defendant" xml:id="per.006425">
+<persName>Lawson, Robert</persName> 
 </person>
 <person role="attorney_petitioner" xml:id="per.001393">
 <persName>Duvall, Gabriel, 1752-1844</persName>
@@ -127,7 +126,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-16" who="#kln">transcribed; encoded</change>
+<change when="2020-01-17" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,38 +137,46 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0014.031.001"/>
+<pb n="oscys.mdcase.0014.038.001"/>
 
 <div2 type="body">
 
-<p>The State of Maryland Sst To the Sheriff of Washington County Greeting</p>
+<p>To the honourable The Judges of the General Court.</p>
 
-<p>We Command you that you summon Charles Carroll late of Washington County that all excuses and delays set aside he be and appear before the  Judges of our General Court to be held at the City of Annapolis on the Second tuesday of May next to answer the Petition of Henny Butler prefered against him for Freedom hereof he is not to fail and fail not at your peril and have you then and there this writ Witness the Honourable Thomas Johnson Esquire Chief Judge of our said Court the 24th day of November 1790.</p>
+<p>The petition of Agnes Butler humbly Sheweth that she is held as a Slave by Robert Lawson of Charles County, altho' she is entitled to her freedom, being descended from a free woman whose name was Eleanor Butler. your petitioner is the daughter of Rebecca Butler who was the daughter of Jane Butler who was the daughter of Eleanor Butler aforesaid, a free white woman. She therefore prays your honours to take her case into consideration, and discharge her from the Custody of the Said Robert Lawson, and that summonses may Issue for her witnesses and so forth.</p>
 
-<p>Issued the 7th day of December 1790</p>
-
-<p>Jno Gwinn Clk</p>
-
-<p>G Duvall</p>
+<p>G. Duvall for Petr</p>
 
 </div2>
 
-<pb n="oscys.mdcase.0014.031.002"/>
+<pb n="oscys.mdcase.0014.038.002"/>
 
 <div2 type="back">
 
-<p>No 107.</p>
+<p>Agnes Butler<lb/>
+vs<lb/>
+Robert Lawson</p>
 
-<p>Henny Butler<lb/>
-a<lb/>
-Charles Carroll</p>
+<p>Peto for Freedom</p>
 
-<p>Octo 1791</p>
+<p>Entd JG No 13 folio 26.</p>
 
-<p>Washington</p>
+<p>(Octo 1791)</p>
 
-<p>Sumd<lb/>
-D Stull Shff</p>
+<pb n="oscys.mdcase.0014.038.003"/>
+
+<p>Agnes Butler<lb/>
+v<lb/>
+Robert Lawson</p>
+
+<p>pet.</p>
+
+<p>Entd JG. No 13. folio 26.</p>
+
+<p>Oct 1791</p>
+
+<p>filed the 21st October 1790<lb/>
+sum issd to May 1791</p>
 
 </div2>
 
