@@ -48607,6 +48607,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Craik</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
 <occupation>attorney</occupation>
+<note>May be the same as per.006447.</note>
 </person>
 
 <!-- end oscys.mdcase.0012.005 -->
@@ -55789,9 +55790,10 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006383" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.005">
 <persName type="display">Butler, Elizabeth</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Elizabeth</forename></persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Elizabeth</forename> <addName type="first" subtype="nickname">Betty</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
 </person>
 
 <person xml:id="per.006384" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.004">
@@ -55939,6 +55941,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Rebecca</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<socecStatus when="1790-11-14">enslaved</socecStatus>
+<socecStatus when="1791-12-24" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">free</socecStatus>
 </person>
 
 <!-- end oscys.mdcase.0014.014 -->
@@ -56162,7 +56166,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006422" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.035">
 <persName type="display">Butler, Nelly</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Nelly</forename></persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Nelly</forename> <addName type="first" subtype="alternate">Nel</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -56314,6 +56318,96 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <!-- end oscys.mdcase.0014.051 -->
+
+<!-- start oscys.mdcase.0014.054 -->
+
+<person xml:id="per.006437" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Butler, Ignatius</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Ignatius</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006438" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Simms, Joseph</persName>
+<persName type="full"><surname>Simms</surname>, <forename type="first" full="yes">Joseph</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006439" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Butler, John</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<age when="1791-12-24">69</age>
+</person>
+
+<person xml:id="per.006440" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Butler, Chloe</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Chloe</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006441" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Sewall, Nicholas L.</persName>
+<persName type="full"><surname>Sewall</surname>, <forename type="first" full="yes">Nicholas</forename> <forename type="middle" full="init">L.</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006442" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Butler, Clara</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Clara</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006443" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Shade, Patty</persName>
+<persName type="full"><surname>Shade</surname>, <forename type="first" full="yes">Patty</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006444" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Butler, Gustavus</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Gustavus</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006445" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Thomas, William</persName>
+<persName type="full"><surname>Thomas</surname>, <forename type="first" full="yes">William</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006446" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Butler, Ignatius</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Ignatius</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006447" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
+<persName type="display">Craik, William</persName>
+<persName type="full"><surname>Craik</surname>, <forename type="first" full="yes">William</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<note>May be the same as per.005285.</note>
+</person>
+
+<!-- end oscys.mdcase.0014.054 -->
+
+
 
 
 
