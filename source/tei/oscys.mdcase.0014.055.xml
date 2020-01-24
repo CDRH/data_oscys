@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.005">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.055">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Lydia Butler v. James Carrico. Petition for Freedom</title>
+<title>Ignatius Butler v. Joseph Sims. Petition for Freedom</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0014.005</idno>
-<idno type="case">oscys.caseid.0573</idno>
+<idno type="project">oscys.mdcase.0014.055</idno>
+<idno type="case">oscys.caseid.0595</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,14 +49,14 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Petition for Freedom</title>
-<date when="1790-11-18">November 18, 1790</date>
+<date when="1790-10-21">October 21, 1790</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Maryland State Archives</repository>
 <collection>General Court of the Western Shore (Judgments)</collection>
-<idno>MSA S498-13</idno>
+<idno>MSA S498-14</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -81,18 +81,20 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1791-05">May 1791</date></term>
+<term><date when="1791-10">October 1791</date></term>
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.006312">Butler, Eleanor</term><!-- parent of Elizabeth -->
-<term xml:id="per.006323">Butler, Elizabeth</term><!-- daughter of Eleanor; parent of Philis -->
-<term xml:id="per.006383">Butler, Elizabeth</term><!-- daughter of Philis; parent of Lydia -->
-<term xml:id="per.006382">Butler, Philis</term><!-- daughter of Elizabeth -->
+<term xml:id="per.002077">Boarman, Leonard</term><!-- witness -->
+<term xml:id="per.006312">Butler, Eleanor</term><!-- parent of Jane -->
+<term xml:id="per.006398">Butler, Jane</term><!-- parent of Rebecca; child of Eleanor -->
+<term xml:id="per.006399">Butler, Rebecca</term><!-- parent of Ignatius; child of Jane -->
+<term xml:id="per.006461">Plowden, Henrietta</term><!-- witness -->
+<term xml:id="per.006460">Spalding, Basil</term><!-- witness -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Charles County (Md.)</term>
+<term>Montgomery County (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">
@@ -103,11 +105,11 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.006380">
-<persName>Butler, Lydia</persName><!-- child of Elizabeth -->
+<person role="petitioner" xml:id="per.006437">
+<persName>Butler, Ignatius</persName><!-- child of Rebecca -->
 </person>
-<person role="defendant" xml:id="per.006381">
-<persName>Carrico, James</persName>
+<person role="defendant" xml:id="per.006438">
+<persName>Simms, Joseph</persName> 
 </person>
 <person role="attorney_petitioner" xml:id="per.001393">
 <persName>Duvall, Gabriel, 1752-1844</persName>
@@ -127,7 +129,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-01-10" who="#kln">transcribed; encoded</change>
+<change when="2020-01-24" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,35 +140,50 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0014.005.001"/>
+<pb n="oscys.mdcase.0014.055.001"/>
 
 <div2 type="body">
 
 <p>To the honourable the Judges of the General Court.</p>
 
-<p>The petition of Lydia Butler humbly sheweth that she is held as a slave by James Carrico of Charles County although she is intitled to her freedom, being defended from a free woman. Your petitioner is the daughter of Elizabeth Butler, who was the daughter of Philis Butler who was the daughter of Abigal Butler who was the daughter of Eleaner Butler a free woman. She therefore prayeth that your honours would take her Case into Consideration and discharge her from the Custody of the aforesaid James Carrico and that summonses may Issue for the witnesses, and soforth</p>
+<p>The petition of Ignatius Butler humbly sheweth, that he is held as a Slave by Joseph Si<del>e</del>ms of Montgomery County, although he is intitled to his freedom, being descended from a free woman whose name was Eleanor Butler. Your Petitioner is the son of <gap extent="one name" reason="strikethrough"/> Rebecca Butler who was the daughter of Jane Butler who was the daughter of Eleanor Butler aforesaid a free white woman. He therefore prays, your honours to take his case into consideration, and discharge him from the custody of the said Joseph Seems and that summonses may Issue for his Witnesses and so forth.</p>
 
-<p>G. Duvall for petitioner</p>
+<p>G. Duvall for Petr.</p>
 
 </div2>
 
-<pb n="oscys.mdcase.0014.005.002"/>
+<pb n="oscys.mdcase.0014.055.002"/>
 
 <div2 type="back">
 
-<p>Lydia Butler
-agt
-James Carrico</p>
+<p>Ignatius Butler<lb/>
+v<lb/>
+Joseph Si<del>e</del>ms.</p>
 
-<p>petition</p>
+<p>Petition.</p>
 
-<p>May 1791.</p>
+<p>Octo 1791</p>
 
-<p>filed the 18th of November 1790 
-sums issued 7th Decr 1790.</p>
+<p>Entd JG No 14. folio 35.</p>
 
-<p><gap extent="several words" reason="strikethrough"/>
-Depo as Ign in Jos: Simmes Octo 1791.</p>
+<p>Witnesses<lb/>
+Leonard Boarman<lb/>
+Basil Spalding issd<lb/>
+Henrietta Plowden</p>
+
+<p>filed the 21st October 1790</p>
+
+<pb n="oscys.mdcase.0014.055.003"/>
+
+<p>Ignatius Butler<lb/>
+a<lb/>
+Joseph Sims</p>
+
+<p>Petr for Freedom</p>
+
+<p>Entd JG. No 13. folio 35.</p>
+
+<p>(Octo 1791.)</p>
 
 </div2>
 
