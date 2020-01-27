@@ -50270,7 +50270,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>clerk of the Maryland Court of Appeals</occupation>
-<note>May be the same as per.006404.</note>
+<note>May be the same as per.006404 or per.006462.</note>
 </person>
 
 <!-- end oscys.mdcase.0011.002 -->
@@ -55992,7 +55992,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation>attorney</occupation>
-<note>May be the same as per.005494.</note>
+<note>May be the same as per.005494 or per.006462.</note>
 </person>
 
 <!-- end oscys.mdcase.0014.018 -->
@@ -56356,10 +56356,11 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006441" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
-<persName type="display">Sewall, Nicholas L.</persName>
-<persName type="full"><surname>Sewall</surname>, <forename type="first" full="yes">Nicholas</forename> <forename type="middle" full="init">L.</forename></persName>
+<persName type="display">Sewall, Nicholas Lewis</persName>
+<persName type="full"><surname>Sewall</surname>, <forename type="first" full="yes">Nicholas</forename> <forename type="middle" full="init">Lewis</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence>Saint Mary's County (Md.)</residence>
 </person>
 
 <person xml:id="per.006442" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
@@ -56518,11 +56519,29 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- start oscys.mdcase.0014.057 -->
 
-<person xml:id="per.006462" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.055">
-<persName type="display">Plowden, Henrietta</persName>
-<persName type="full"><surname>Plowden</surname>, <forename type="first" full="yes">Henrietta</forename></persName>
+<person xml:id="per.006462" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.057">
+<persName type="display">Merrick, T. D.</persName>
+<persName type="full"><surname>Merrick</surname>, <forename type="first" full="init">T.</forename> <forename type="middle" full="init">D.</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>attorney</occupation>
+<note>May be the same as per.006404 or per.005494.</note>
+</person>
+
+<person xml:id="per.006463" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.057">
+<persName type="display">Pye, Walter</persName>
+<persName type="full"><surname>Pye</surname>, <forename type="first" full="yes">Walter</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<residence>Charles County (Md.)</residence>
+</person>
+
+<person xml:id="per.006464" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.057">
+<persName type="display">Boarman, Ann</persName>
+<persName type="full"><surname>Boarman</surname>, <forename type="first" full="yes">Ann</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<residence>Saint Mary's County (Md.)</residence>
 </person>
 
 <!-- end oscys.mdcase.0014.057 -->
