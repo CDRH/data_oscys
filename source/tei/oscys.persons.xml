@@ -55445,6 +55445,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab></ab></trait>
 <age when="1767-05-27">60</age>
 <birth when="--09-05">September 5</birth>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">Charles County (Md.)</residence>
 </person>
 
 <person xml:id="per.006341" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
@@ -55525,11 +55526,12 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006351" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
 <persName type="display">Jameson, Benjamin</persName>
-<persName type="full"><surname>Jameson</surname>, <forename type="first" full="yes">Benjamin</forename></persName>
+<persName type="full"><surname>Jameson</surname> <addName type="surname" subtype="alternate">Jameston</addName>, <forename type="first" full="yes">Benjamin</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <age when="1767-05-27">48</age>
 <birth when="--11">November</birth>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">Charles County (Md.)</residence>
 </person>
 
 <person xml:id="per.006352" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
@@ -55555,7 +55557,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006355" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
 <persName type="display">Ruthom</persName>
-<persName type="full"><surname>Ruthom</surname></persName>
+<persName type="full"><surname>Ruthom</surname> <addName type="surname" subtype="alternate">Ruthorn</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -55634,8 +55636,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006365" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
-<persName type="display">Brooke, Baker</persName>
-<persName type="full"><surname>Brooke</surname>, <forename type="first" full="yes">Baker</forename></persName>
+<persName type="display">Brookes, Baker</persName>
+<persName type="full"><surname>Brookes</surname>, <forename type="first" full="yes">Baker</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -55706,8 +55708,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006374" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
-<persName type="display">Dinter, John</persName>
-<persName type="full"><surname>Dinter</surname>, <forename type="first" full="yes">John</forename></persName>
+<persName type="display">Winter, John</persName>
+<persName type="full"><surname>Winter</surname>, <forename type="first" full="yes">John</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence>Charles County (Md.)</residence>
@@ -56634,13 +56636,14 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <occupation>clerk, General Court for the Western Shore</occupation>
 </person>
 
+<!-- same as per.006340
 <person xml:id="per.006474" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
 <persName type="display">McPherson, William</persName>
 <persName type="full"><surname>McPherson</surname>, <forename type="first" full="yes">William</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence>Charles County (Md.)</residence>
-</person>
+</person> -->
 
 <person xml:id="per.006475" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
 <persName type="display">Bowling, William</persName>
@@ -56650,6 +56653,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <residence>Charles County (Md.)</residence>
 </person>
 
+<!-- same as per.006357
 <person xml:id="per.006476" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
 <persName type="display">Bowling, Thomas</persName>
 <persName type="full"><surname>Bowling</surname>, <forename type="first" full="yes">Thomas</forename></persName>
@@ -56657,14 +56661,15 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab></ab></trait>
 <residence>Charles County (Md.)</residence>
 </person>
-
+-->
+<!-- same as per.006351
 <person xml:id="per.006477" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
 <persName type="display">Jameston, Benjamin</persName>
 <persName type="full"><surname>Jameston</surname>, <forename type="first" full="yes">Benjamin</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence>Charles County (Md.)</residence>
-</person>
+</person>-->
 
 <person xml:id="per.006478" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
 <persName type="display">Proctor, Jane</persName>
@@ -56768,6 +56773,71 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <occupation>attorney</occupation>
 </person>
 
+<person xml:id="per.006490" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
+<persName type="display">Baltimore, Frederick Calvert, Baron, 1731-1771</persName>
+<persName type="full"><surname>Calvert</surname>, <forename type="first" full="yes">Frederick</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<idno>http://viaf.org/viaf/29889230</idno>
+</person>
+
+<person xml:id="per.006491" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
+<persName type="display">Hayward, William</persName>
+<persName type="full"><surname>Hayward</surname>, <forename type="first" full="yes">William</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>chief justice, Maryland Provincial Court</occupation>
+</person>
+
+<person xml:id="per.006492" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
+<persName type="display">Hepburne, John</persName>
+<persName type="full"><surname>Hepburne</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>justice, Maryland Provincial Court</occupation>
+</person>
+
+<person xml:id="per.006493" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
+<persName type="display">Leeds, John</persName>
+<persName type="full"><surname>Leeds</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>justice, Maryland Provincial Court</occupation>
+</person>
+
+<person xml:id="per.006494" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
+<persName type="display">Bordley, J. B. (John Beale), 1727-1804</persName>
+<persName type="full"><surname>Bordley</surname>, <forename type="first" full="yes">John</forename> <forename type="middle" full="yes">Beale</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>justice, Maryland Provincial Court</occupation>
+<idno>http://viaf.org/viaf/61911412</idno>
+</person>
+
+<person xml:id="per.006495" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
+<persName type="display">Jenifer, Daniel of St. Thomas, 1723-1790</persName>
+<persName type="full"><surname>Jenifer</surname>, <forename type="first" full="yes">Daniel of St. Thomas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>justice, Maryland Provincial Court</occupation>
+<idno>http://viaf.org/viaf/58926402</idno>
+</person>
+
+<person xml:id="per.006496" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
+<persName type="display">Lee, Philip Thomas</persName>
+<persName type="full"><surname>Lee</surname>, <forename type="first" full="yes">Philip</forename> <forename type="middle" full="yes">Thomas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>justice, Maryland Provincial Court</occupation>
+</person>
+
+<person xml:id="per.006497" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
+<persName type="display">Clapham, John</persName>
+<persName type="full"><surname>Clapham</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>sheriff</occupation>
+</person>
 
 
 <!-- end oscys.mdcase.0014.065 -->
