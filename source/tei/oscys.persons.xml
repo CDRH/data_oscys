@@ -14414,6 +14414,7 @@ This file was compiled from information found in:
 <death when="1811" source="#viaf">1811</death>
 <trait type="color"><ab></ab></trait>
 <occupation>judge, Maryland General Court</occupation>
+<occupation source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">attorney</occupation>
 <idno>http://viaf.org/viaf/42639490</idno>
 </person>
 
@@ -19089,7 +19090,7 @@ This file was compiled from information found in:
 
 <person xml:id="per.001977" source="http://earlywashingtondc.org/doc/oscys.case.0258.010">
 <persName type="display">Plowden, Edmund</persName>
-<persName type="full"><surname>Plowden</surname> <addName type="surname" subtype="alternate">Plowdon</addName>, <forename type="first" full="yes">Edmund</forename></persName>
+<persName type="full"><surname>Plowden</surname> <addName type="surname" subtype="alternate">Plowdon</addName>, <forename type="first" full="yes">Edmund</forename> <addName type="first" subtype="alternate">Edmond</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <occupation source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">justice of the peace, St. Mary's County (Md.)</occupation>
@@ -56960,6 +56961,40 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- end oscys.mdcase.0014.072 -->
 
+<!-- start oscys.mdcase.0014.073 -->
+
+<person xml:id="per.006511" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.071">
+<persName type="display">Thomas, J. A.</persName>
+<persName type="full"><surname>Thomas</surname>, <forename type="first" full="init">J.</forename> <forename type="middle" full="init">A.</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- end oscys.mdcase.0014.073 -->
+
+<!-- start oscys.mdcase.0014.074 -->
+
+<person xml:id="per.006512" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.071">
+<persName type="display">Abell</persName>
+<persName type="full"><surname>Abell</surname></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- end oscys.mdcase.0014.074 -->
+
+<!-- start oscys.mdcase.0014.076 -->
+
+<person xml:id="per.006513" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.071">
+<persName type="display">Gardiner, John</persName>
+<persName type="full"><surname>Gardiner</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<age when="1789-05-18">68</age>
+<residence>Saint Mary's County (Md.)</residence>
+</person>
+
+<!-- end oscys.mdcase.0014.076 -->
 
 
 <!--
