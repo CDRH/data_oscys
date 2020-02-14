@@ -48399,6 +48399,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="display">Sligh</persName>
 <persName type="full"><surname>Sligh</surname></persName>
 <sex>male</sex>
+<note>May be the same as per.006515.</note>
 </person>
 
 <person xml:id="per.005259" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
@@ -55309,9 +55310,9 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006315" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.001">
 <persName type="display">Butler, Sarah</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Sarah</forename></persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Sarah</forename> <addName type="nickname">Sal</addName></persName>
 <sex>female</sex>
-<trait type="color"><ab></ab></trait>
+<trait type="color" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076"><ab>mulatto</ab></trait>
 <age notAfter="1707">about 17</age>
 </person>
 
@@ -56952,7 +56953,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- start oscys.mdcase.0014.072 -->
 
-<person xml:id="per.006510" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.071">
+<person xml:id="per.006510" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.072">
 <persName type="display">Spalding</persName>
 <persName type="full"><surname>Spalding</surname></persName>
 <sex>male</sex>
@@ -56963,7 +56964,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- start oscys.mdcase.0014.073 -->
 
-<person xml:id="per.006511" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.071">
+<person xml:id="per.006511" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.073">
 <persName type="display">Thomas, J. A.</persName>
 <persName type="full"><surname>Thomas</surname>, <forename type="first" full="init">J.</forename> <forename type="middle" full="init">A.</forename></persName>
 <sex>male</sex>
@@ -56974,7 +56975,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- start oscys.mdcase.0014.074 -->
 
-<person xml:id="per.006512" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.071">
+<person xml:id="per.006512" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.074">
 <persName type="display">Abell</persName>
 <persName type="full"><surname>Abell</surname></persName>
 <sex>male</sex>
@@ -56985,13 +56986,63 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- start oscys.mdcase.0014.076 -->
 
-<person xml:id="per.006513" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.071">
+<person xml:id="per.006513" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
 <persName type="display">Gardiner, John</persName>
 <persName type="full"><surname>Gardiner</surname>, <forename type="first" full="yes">John</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <age when="1789-05-18">68</age>
 <residence>Saint Mary's County (Md.)</residence>
+</person>
+
+<person xml:id="per.006514" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
+<persName type="display">Gardiner, Wilfred</persName>
+<persName type="full"><surname>Gardiner</surname>, <forename type="first" full="yes">Wilfred</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006515" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
+<persName type="display">Sligh, George</persName>
+<persName type="full"><surname>Sligh</surname>, <forename type="first" full="yes">George</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<note>May be the same as per.005258.</note>
+</person>
+
+<person xml:id="per.006516" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
+<persName type="display">Butler, Charles</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Charles</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006517" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
+<persName type="display">Butler, Nell</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Nell</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006518" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
+<persName type="display">Butler, Monica</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Monica</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006519" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
+<persName type="display">Butler, Jeremiah</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Jeremiah</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006530" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
+<persName type="display">Butler, George</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">George</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
 </person>
 
 <!-- end oscys.mdcase.0014.076 -->
