@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.093">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>William Butler v. Samuel Bond. Judgment Record</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.093</idno>
+<idno type="case">oscys.caseid.0601</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Judgment Record</title>
+<date when="1792-05">May 1792</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgment Record)</collection>
+<idno>MSA S497-17</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1792-05">May 1792</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.004601">Bullen, J.</term>
+<term>Butler, Anne</term><!-- enslaved by John Keech, sibling of William -->
+<term>Butler, Eleanor</term><!-- parent of Sarah, child of Sarah -->
+<term>Butler, Eleanor</term><!-- Irish Nell, parent of Sarah -->
+<term>Butler, Henny</term><!-- parent of William, died before May 1792, child of Nanny -->
+<term>Butler, Jacob</term><!-- sibling of Sarah; obtained freedom from Eleanor Taney -->
+<term>Butler, Jane</term><!-- enslaved by Joseph Sim; sibling of Nace; child of Rebecca -->
+<term>Butler, Joseph</term><!-- deponent, sibling of Letty, acquaintance of William and Will and Jane and Lydia -->
+<term>Butler, Letty</term><!-- parent of Lydia and Sarah, sibling of Joseph, child of Sarah -->
+<term>Butler, Lydia</term><!-- about 17 in May 1792, enslaved by Anne Digges, sibling of Sarah, daughter of Letty -->
+<term>Butler, Nace</term><!-- sibling of Jane; obtained freedom from Joseph Sim -->
+<term>Butler, Nanny</term><!-- parent of Henny, child of Irish Nell -->
+<term>Butler, Rebecca</term><!-- parent of Jane; obtained freedom from Mrs Shervin -->
+<term>Butler, Sarah</term><!-- parent of William, child of Eleanor -->
+<term>Butler, Sarah</term><!-- parent of Eleanor, parent of Sarah, child of Eleanor (Irish Nell) -->
+<term>Butler, Sarah</term><!-- parent of Will, child of Betty, sibling of Jacob -->
+<term>Butler, Sarah</term><!-- sibling of Lydia, daughter of Letty, enslaved by Anne Digges -->
+<term>Butler, Sarah</term><!-- parent of Letty, child of Sarah -->
+<term>Butler, William</term><!-- enslaved by enslaved by Joseph Neale, child of Henny, sibling of Anne -->
+<term>Butler, Will</term><!-- enslaved by John Laidler, child of Sarah -->
+<term>Digges, Anne</term><!-- Charles County, slaveholder of Lydia and Sarah -->
+<term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
+<term xml:id="per.002097">Johnson, Thomas, 1732-1819</term><!-- judge -->
+<term>Keech, John</term><!-- slaveholder of Anne -->
+<term>Laidler, John</term><!-- slaveholder of Will-->
+<term>Neale, Joseph</term><!-- slaveholder of William -->
+<term>Shervin</term><!-- former slaveholder of Rebecca -->
+<term>Sim, Joseph</term><!-- slaveholder of Jane; former slaveholder of Nace --> 
+<term>Taney, Eleanor</term><!-- former slaveholder of Jacob -->
+<term xml:id="per.004529">Wailes, Edward Lloyd</term><!-- sheriff -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Prince George's County (Md.)</term>
+<term>Annapolis (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Judgment for Petitioner</term>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner">
+<persName>Butler, William</persName><!-- child of Sarah -->
+</person>
+<person role="defendant">
+<persName>Bond, Samuel</persName><!-- Prince George's County --> 
+</person>
+<person role="attorney_petitioner" xml:id="per.004375">
+<persName>Ridgely, Henry</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001495">
+<persName>Key, Philip Barton, 1818-1859</persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. Court of Appeals</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-02-21" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.093.001"/>
+
+<div2 type="caption">
+
+<p>William Butler<lb/>
+against<lb/>
+Samuel Bond.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Be it remembered, that heretofore towit: on the Seventh day of December in the year of our Lord One thousand seven hundred and ninety; William Butler by Henry Ridgely his attorney <sic>prefered</sic> and filed in Court here his Petition for Freedom against
+
+<pb n="oscys.mdcase.0014.093.002"/>
+
+Samuel Bond, in the words and of the tenor following towit To the Honorable Judges of the General Court; The Petition of William Butler humbly sheweth that he is held as a Slave by Samuel Bond of Prince Georges County, altho' he is entitled to his Freedom, being descended from a free white woman whose name was Eleanor Butler; Your Petitioner is the son of Sarah Butler, who was the Daughter of Eleanor Butler, who was the Daughter of Sarah Butler who was the Daughter of Eleanor Butler the Free white woman aforesaid: He therefore prays your Honors to take his case into consideration, and discharge him from the custody of the said Samuel Bond, and that Summonses may Issue for his Witnesses &amp; soforth. H. Ridgely for Petitioner.</p>
+
+<p>Thereupon, on motion of the said William Butler by his attorney aforesaid it is ruled and ordered by the Court here that the said Samuel Bond do not remove the said William Butler out of this State, nor obstructs him from attending this Court from time to time in support of his Petition for Freedom preferred to the Court here; and in the mean time to feed, cloath and use the said William Butler well: It is further ruled &amp; ordered by the Court here, that the writ of the State of Maryland of Summons issue forth out of the General Court here against the said Samuel Bond to answer unto the said Petition of the said William Butler, which issues accordingly, directed to the Sheriff of Prince Georges County in the worlds and of the tenor following towit The State of Maryland Sct To the Sheriff of Prince Georges County, Greeting: We command you that you Summon Samuel Bond late of Prince Georges County, that all excuses and delays set aside he be and appear before the Judges of our General Court to be held at the City of Annapolis on the second Tuesday of May next to answer the Petition of William Butler preferred against him for Freedom: Hereof he is not to fail, and fail not at your peril and have you then and there this writ. Witness the Honorable Thomas Johnson Esquire Chief Judge of our said Court the 24th day of November Anno domini 1790.</p>
+
+<p>Issued the 7th day of December 1790. (H.R.) John Gwinn Clk</p>
+
+<p>At which said second tuesday of May being the Tenth day of the said month in the year of our Lord One thousand seven hundred and ninety one, and the day of the return of the aforegoing Summons, comes into the General Court here, the said William Butler by <catchwords>his</catchwords>
+
+<pb n="oscys.mdcase.0014.093.003"/>
+
+his attorney aforesaid; and the Sheriff of Prince Georges County aforesaid to whom the said Summons was in form aforesaid directed, makes return thereof to the Court here thus endorsed towit: "Summoned. Edwd Lloyd Wailes, Shff." And the said Samuel Bond being so forewarned now comes into the General Court here, by Philip Barton Key his attorney; Thereupon, further process of and upon the premises aforesaid, between the parties aforesaid, by order of the Court here is continued until the second tuesday of October next; the same day is given to the parties aforesaid then, andsoforth.</p>
+
+<p>At which said Second Tuesday of October being the Eleventh day of the said month in the year of our Lord One thousand seven hundred and ninety one, come again into the General Court here, as well the said William Butler by his attorney aforesaid, as the said Samuel Bond by his attorney aforesaid: Thereupon further process of and upon the premises aforesaid between the parties aforesaid, by order of the Court here, is further continued until the second Tuesday of May next, the same day is given to the parties aforesaid then, and soforth.</p>
+
+<p>And now at this day towit, the said second Tuesday of May being the Eighth day of the said month in the year of our Lord One thousand seven hundred and ninety two, come again into the General Court here as well the said William Butler by his attorney aforesaid, as the said Samuel Bond by his attorney aforesaid: and the said William Butler by his attorney aforesaid files in Court here, the Deposition of Joseph Butler, which is in form following towit.</p>
+
+<p>Jane Butler<lb/>
+vs<lb/>
+Joseph Sim</p>
+
+<p>Joseph Butler aged fifty one or two years, being duly sworn on the Holy Evangely of Almighty God deposeth &amp; saith, that he well knows Jane the Petitioner against Joseph Sim, she is the sister of Nace who obtained his Freedom on a Petition against the said Joseph Sim, and is Daughter of Rebecca who obtained her Freedom against Mrs Shervin. And he further saith that he well knows Will Butler who Petitioned against John <unclear>Laidler</unclear>; he is son of Sarah who is Daughter of Betty &amp; Sister of Jacob Butler who obtained his Freedom on a Petition against Eleanor Taney. And he further saith that he well knows Lydia Butler aged about Seventeen years who petitioned against Anne Digges of Charles County and Sarah Butler sister of the said Lydia who petitioned against the same person; they are the Daughters of Letty, sister of the Deponent, which Letty is Daughter of Sarah who was Daughter of Sarah who was Daughter of Eleanor Butler a Free
+
+<pb n="oscys.mdcase.0014.093.004"/>
+
+white woman. And he further saith that he well knows William Butler who has petitioned against Samuel Bond of St Mary's County, he is son of Sarah who is daughter of Nell who was Daughter of Sarah who was Daughter of Irish Nell as this Deponent has always understood. And he further saith that William Butler who has petitioned against Joseph Neale he well knows and he is the son of Henny now deceased who was Daughter of Nanny also deceased, who this Deponent has always understood was the Daughter of Irish Nell, and this Deponent being told that he once proved the said William to be the Daughter of Sarah, saith it was not so intended, nor did he mean to swear to any such thing the fact being otherwise, but supposes it happened from several persons being mentioned together and he did not understand the Deposition when read to be as it now appears; and he further saith that Anne who petitioned against John Keech is sister of the said William &amp; Daughter of Henny aforesaid now deceased. Sworn to this &#160;&#160; day of May 1792. Before Bullen
+
+Whereupon, the said Samuel Bond by his attorney aforesaid, saith that he cannot deny the complaint aforesaid of the said William Butler the Petitioner aforesaid, so as aforesaid made, nor but that the said William Butler, the petitioner aforesaid, is entitled to his Freedom, being descended from a Free white woman whose name was Eleanor Butler, in manner and form as the said William Butler by his said Petition to the Court here preferred against him the said Samuel Bond above hath alleged; and thereupon, the said William Butler by his attorney aforesaid prays that he may be dismissed and discharged from the service of the said Samuel Bond, together with his costs and charges by him about the prosecution of his said Petition, to him to be adjudged, andsoforth: Therefore it is considered by the Court here, that the said William Butler the Petitioner aforesaid, recover of and against the said Samuel Bond his Freedom, and that he be hence freed and discharged of and from the service of the said Samuel Bond, and that he the said William Butler the Petitioner aforesaid, go freed and discharged thereof without day, andsoforth, and it is further considered by the Court here, that the said William Butler the Petitioner aforesaid, recover against the said Samuel Bond the quantity of Seven hundred and twenty six pounds of tobacco by the Court here, unto the said William Butler on his assent adjudged for <catchwords>his</catchwords>
+
+<pb n="oscys.mdcase.0014.093.005"/>
+
+his costs and charges by him about the prosecution of his s aid Petition in this behalf laid out and expended, and that he have thereof his Execution, andsoforth.</p>
+
+<p>Test. John Gwinn Clerk</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>

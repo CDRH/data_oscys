@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.082">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.092">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Jane Butler v. Robert Lawson. Judgment Record</title>
+<title>Jacob Butler v. Eleanor Taney. Judgment Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0014.082</idno>
-<idno type="case">oscys.caseid.0589</idno>
+<idno type="project">oscys.mdcase.0014.092</idno>
+<idno type="case">oscys.caseid.0599</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -85,14 +85,11 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.006424">Butler, Agnes</term>
-<term xml:id="per.006399">Butler, Rebecca</term>
-<term xml:id="per.006312">Butler, Eleanor</term>
 <term xml:id="per.001493">Gwinn, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term>Charles County (Md.)</term>
+<term/>
 </keywords>
 
 <keywords scheme="original" n="outcome">
@@ -103,14 +100,14 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.006427">
-<persName>Butler, Jane</persName>
+<person role="petitioner" xml:id="per.006467">
+<persName>Butler, Jacob</persName>
 </person>
-<person role="defendant" xml:id="per.006425">
-<persName>Lawson, Robert</persName> 
+<person role="defendant" xml:id="per.006465">
+<persName>Thompson, Joseph</persName> 
 </person>
-<person role="attorney_petitioner" xml:id="per.001393">
-<persName>Duvall, Gabriel, 1752-1844</persName>
+<person role="attorney_petitioner">
+<persName/>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -127,7 +124,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-02-19" who="#kln">transcribed; encoded</change>
+<change when="2020-02-21" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -138,25 +135,21 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0014.082.001"/>
+<pb n="oscys.mdcase.0014.092.001"/>
 
 <div2 type="caption">
 
-<p>Jane Butler<lb/>
+<p>Jacob Butler<lb/>
 against<lb/>
-Robert Lawson</p>
+Eleanor Taney</p>
 
 </div2>
 
 <div2 type="body">
 
-<p>Be it remembered that heretofore towit on the Fourteenth day of November in the year of our Lord One thousand seven hundred and ninety Jane Butler by Gabriel Duvall her attorney, preferred and filed in the General Court here her Petition for Freedom against Robert Lawson, which is in form following towit.</p>
+<p>Same proceedings and Judgment &amp;ca Mutatis Mutandis as Clement Butler against Henry Pyke, entered in this Book in pages 29, 30, 31 &amp; 32</p>
 
-<p>To the Honorable the Judges of the General Court: The Petition of Jane Butler humbly sheweth that she is held as a Slave by Robert Lawson of Charles County although she is entitled to her Freedom being descended from a Free woman. Your Petitioner is the Daughter of Agnes Butler, who was the Daughter of Rebecca Butler, who was the Daughter of Jane Butler, who was the Daughter of Eleanor Butler a Free Woman. She therefore prays that your Honors would take her case into consideration and discharge her from the custody of the aforesaid Robert Lawson <catchwords>and</catchwords>
-
-<pb n="oscys.mdcase.0014.082.002"/>
-
-and that Summonses may issue for her Witnesses andsoforth. G. Duvall for Petr. (proceed as in the case of Agnes Butler against Robert Lawson entered in this Book in page 26 &amp;ca Mutatis Mutandis). Test. John Gwinn Clk.</p>
+<p>Test. John Gwinn Clk.</p>
 
 </div2>
 
