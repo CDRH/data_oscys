@@ -86,34 +86,35 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.004601">Bullen, J.</term>
-<term>Butler, Anne</term><!-- enslaved by John Keech, sibling of William -->
-<term>Butler, Eleanor</term><!-- parent of Sarah, child of Sarah -->
-<term>Butler, Eleanor</term><!-- Irish Nell, parent of Sarah -->
-<term>Butler, Henny</term><!-- parent of William, died before May 1792, child of Nanny -->
-<term>Butler, Jacob</term><!-- sibling of Sarah; obtained freedom from Eleanor Taney -->
-<term>Butler, Jane</term><!-- enslaved by Joseph Sim; sibling of Nace; child of Rebecca -->
-<term>Butler, Joseph</term><!-- deponent, sibling of Letty, acquaintance of William and Will and Jane and Lydia -->
-<term>Butler, Letty</term><!-- parent of Lydia and Sarah, sibling of Joseph, child of Sarah -->
-<term>Butler, Lydia</term><!-- about 17 in May 1792, enslaved by Anne Digges, sibling of Sarah, daughter of Letty -->
-<term>Butler, Nace</term><!-- sibling of Jane; obtained freedom from Joseph Sim -->
-<term>Butler, Nanny</term><!-- parent of Henny, child of Irish Nell -->
-<term>Butler, Rebecca</term><!-- parent of Jane; obtained freedom from Mrs Shervin -->
-<term>Butler, Sarah</term><!-- parent of William, child of Eleanor -->
-<term>Butler, Sarah</term><!-- parent of Eleanor, parent of Sarah, child of Eleanor (Irish Nell) -->
-<term>Butler, Sarah</term><!-- parent of Will, child of Betty, sibling of Jacob -->
-<term>Butler, Sarah</term><!-- sibling of Lydia, daughter of Letty, enslaved by Anne Digges -->
-<term>Butler, Sarah</term><!-- parent of Letty, child of Sarah -->
-<term>Butler, William</term><!-- enslaved by enslaved by Joseph Neale, child of Henny, sibling of Anne -->
-<term>Butler, Will</term><!-- enslaved by John Laidler, child of Sarah -->
-<term>Digges, Anne</term><!-- Charles County, slaveholder of Lydia and Sarah -->
+<term xml:id="per.006346">Butler, Anne</term><!-- Nanny; parent of Henny, child of Irish Nell -->
+<term xml:id="per.006391">Butler, Anne</term><!-- enslaved by John Keech, sibling of William -->
+<term xml:id="per.006517">Butler, Eleanor</term><!-- parent of Sarah, child of Sarah -->
+<term xml:id="per.006312">Butler, Eleanor</term><!-- Irish Nell, parent of Sarah -->
+<term xml:id="per.006435">Butler, Bett</term><!-- Betty; parent of Sarah -->
+<term xml:id="per.006390">Butler, Henny</term><!-- parent of William, died before May 1792, child of Nanny -->
+<term xml:id="per.006467">Butler, Jacob</term><!-- sibling of Sarah; obtained freedom from Eleanor Taney -->
+<term xml:id="per.006406">Butler, Jane</term><!-- enslaved by Joseph Sim; sibling of Nace; child of Rebecca -->
+<term xml:id="per.006413">Butler, Joseph</term><!-- deponent, sibling of Letty, acquaintance of William and Will and Jane and Lydia -->
+<term xml:id="per.006574">Butler, Letty</term><!-- parent of Lydia and Sarah 6573, sibling of Joseph, child of Sarah 6414 -->
+<term xml:id="per.006571">Butler, Lydia</term><!-- enslaved by Anne Digges, sibling of Sarah, daughter of Letty -->
+<term xml:id="per.006437">Butler, Nace</term><!-- sibling of Jane; obtained freedom from Joseph Sim -->
+<term xml:id="per.006399">Butler, Rebecca</term><!-- parent of Jane; obtained freedom from Mrs Shervin -->
+<term xml:id="per.006534">Butler, Sarah</term><!-- parent of William, child of Eleanor -->
+<term xml:id="per.006315">Butler, Sarah</term><!-- parent of Eleanor, parent of Sarah, child of Eleanor (Irish Nell) -->
+<term xml:id="per.006557">Butler, Sarah</term><!-- parent of William, child of Betty, sibling of Jacob -->
+<term xml:id="per.006573">Butler, Sarah</term><!-- sibling of Lydia, daughter of Letty, enslaved by Anne Digges -->
+<term xml:id="per.006414">Butler, Sarah</term><!-- parent of Letty, child of Sarah 6315 -->
+<term xml:id="per.006575">Butler, William</term><!-- enslaved by Joseph Neale, child of Henny, sibling of Anne -->
+<term xml:id="per.006558">Butler, William</term><!-- enslaved by John Laidler, child of Sarah -->
+<term xml:id="per.006572">Digges, Anne</term><!-- slaveholder of Lydia and Sarah -->
 <term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
 <term xml:id="per.002097">Johnson, Thomas, 1732-1819</term><!-- judge -->
-<term>Keech, John</term><!-- slaveholder of Anne -->
-<term>Laidler, John</term><!-- slaveholder of Will-->
-<term>Neale, Joseph</term><!-- slaveholder of William -->
-<term>Shervin</term><!-- former slaveholder of Rebecca -->
-<term>Sim, Joseph</term><!-- slaveholder of Jane; former slaveholder of Nace --> 
-<term>Taney, Eleanor</term><!-- former slaveholder of Jacob -->
+<term xml:id="per.006567">Keech, John</term><!-- slaveholder of Anne -->
+<term xml:id="per.006570">Laidler, John</term><!-- slaveholder of Will-->
+<term xml:id="per.006560">Neale, Joseph</term><!-- slaveholder of William -->
+<term xml:id="per.006403">Shervin, Mary</term><!-- former slaveholder of Rebecca -->
+<term xml:id="per.006438">Simms, Joseph</term><!-- slaveholder of Jane; former slaveholder of Nace --> 
+<term xml:id="per.006468">Taney, Eleanor</term><!-- former slaveholder of Jacob -->
 <term xml:id="per.004529">Wailes, Edward Lloyd</term><!-- sheriff -->
 </keywords>
 
@@ -130,11 +131,11 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
-<persName>Butler, William</persName><!-- child of Sarah -->
+<person role="petitioner" xml:id="per.006568">
+<persName>Butler, William</persName><!-- child of Sarah, acquaintance of Joseph -->
 </person>
-<person role="defendant">
-<persName>Bond, Samuel</persName><!-- Prince George's County --> 
+<person role="defendant" xml:id="per.006569">
+<persName>Bond, Samuel</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.004375">
 <persName>Ridgely, Henry</persName>

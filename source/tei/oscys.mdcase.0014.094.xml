@@ -85,10 +85,10 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Butler, Anne</term><!-- parent of Agnes, child of Eleanor -->
-<term>Butler, Anne</term><!-- parent of Eleanor, child of Irish Nell -->
-<term>Butler, Eleanor</term><!-- parent of Anne, child of Anne -->
-<term>Butler, Eleanor</term><!-- Irish Nell, parent of Anne -->
+<term xml:id="per.006578">Butler, Anne</term><!-- parent of Agnes, child of Eleanor -->
+<term xml:id="per.006346">Butler, Anne</term><!-- parent of Eleanor, child of Irish Nell -->
+<term xml:id="per.006579">Butler, Eleanor</term><!-- parent of Anne, child of Anne -->
+<term xml:id="per.006312">Butler, Eleanor</term><!-- Irish Nell, parent of Anne -->
 <term xml:id="per.002096">Dyson, Thomas A.</term><!-- sheriff -->
 <term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
 <term xml:id="per.002097">Johnson, Thomas, 1732-1819</term><!-- judge -->
@@ -106,11 +106,11 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.006576">
 <persName>Butler, Agnes</persName><!-- child of Anne, died before May 8, 1792 -->
 </person>
-<person role="defendant">
-<persName>Boarman, Rachel</persName><!-- Charles County --> 
+<person role="defendant" xml:id="per.006577">
+<persName>Boarman, Rachel</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.001393">
 <persName>Duvall, Gabriel, 1752-1844</persName>
