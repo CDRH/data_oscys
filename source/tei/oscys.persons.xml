@@ -19654,8 +19654,8 @@ This file was compiled from information found in:
 </person>
 
 <person xml:id="per.002041" source="http://earlywashingtondc.org/doc/oscys.mdcase.0006.001">
-<persName type="display">Hammersly, Francis</persName>
-<persName type="full"><surname>Hammersly</surname>, <forename type="first" full="yes">Francis</forename></persName>
+<persName type="display">Hamersley, Francis</persName>
+<persName type="full"><surname>Hamersley</surname> <addName type="surname" subtype="alternate">Hammersly</addName> <addName type="surname" subtype="alternate">Hamersly</addName>, <forename type="first" full="yes">Francis</forename></persName>
 <sex>male</sex>
 <occupation source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.013">Sheriff of St. Mary's County (Md.)</occupation>
 </person>
@@ -57726,7 +57726,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Henny</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus when="1792-02-06">enslaved</socecStatus>
+<socecStatus when="1792-02-06" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.105">enslaved</socecStatus>
+<socecStatus when="1792-05-08" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.105">free</socecStatus>
 </person>
 
 <person xml:id="per.006611" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.101">
@@ -57737,11 +57738,12 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006612" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.101">
-<persName type="display">Butler, Nace</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Nace</forename></persName>
+<persName type="display">Butler, Nase</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Nase</forename> <addName type="first" subtype="alternative">Nace</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus when="1792-02-05" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.106">enslaved</socecStatus>
+<socecStatus when="1792-05-08" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.106">free</socecStatus>
 </person>
 
 <person xml:id="per.006613" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.101">
@@ -57749,7 +57751,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Katy</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.107">enslaved</socecStatus>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.107">free</socecStatus>
 </person>
 
 <person xml:id="per.006614" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.101">
@@ -57757,7 +57760,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Lymus</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.108">enslaved</socecStatus>
+<socecStatus source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.108">free</socecStatus>
 </person>
 
 <!-- end oscys.mdcase.0014.101 -->
@@ -57859,11 +57863,16 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- end oscys.mdcase.0014.104 -->
 
-<!-- start oscys.mdcase.0014.105 -->
+<!-- start oscys.mdcase.0014.109 -->
 
+<person xml:id="per.006626" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.109">
+<persName type="display">Butler, Lectius</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Lectius</forename></persName>
+<trait type="color"><ab></ab></trait>
+<residence>Saint Mary's County (Md.)</residence>
+</person>
 
-
-<!-- end oscys.mdcase.0014.105 -->
+<!-- end oscys.mdcase.0014.109 -->
 
 
 
