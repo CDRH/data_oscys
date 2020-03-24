@@ -56469,11 +56469,11 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006451" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
-<persName type="display">Butler, Electius</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Electius</forename></persName>
+<persName type="display">Butler, Lectius</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Lectius</forename> <addName type="first" subtype="alternate">Electius</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus when="1790-11-14" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.109">enslaved</socecStatus>
 </person>
 
 <person xml:id="per.006452" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
@@ -56481,6 +56481,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Jameston</surname>, <forename type="first" full="yes">Ralph</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.109">Charles County (Md.)</residence>
 </person>
 
 <person xml:id="per.006453" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
@@ -57865,12 +57866,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- start oscys.mdcase.0014.109 -->
 
-<person xml:id="per.006626" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.109">
-<persName type="display">Butler, Lectius</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Lectius</forename></persName>
-<trait type="color"><ab></ab></trait>
-<residence>Saint Mary's County (Md.)</residence>
-</person>
+
 
 <!-- end oscys.mdcase.0014.109 -->
 
