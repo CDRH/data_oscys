@@ -18782,7 +18782,8 @@ This file was compiled from information found in:
 <birth when="1765" source="#viaf">1765</birth>
 <death when="1828" source="#viaf">1828</death>
 <trait type="color"><ab></ab></trait>
-<occupation source="#viaf">representative</occupation>
+<occupation>representative</occupation>
+<occupation>attorney</occupation>
 <idno>http://viaf.org/viaf/46027183</idno>
 </person>
 
@@ -57315,11 +57316,12 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006562" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.086">
-<persName type="display">Butler, Henny</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Henny</forename></persName>
+<persName type="display">Butler, Henrietta</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Henrietta</forename> <addName type="first" subtype="nickname">Henny</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus when="1790-10-21" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.112">enslaved</socecStatus>
+<socecStatus when="1792-05-08" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.112">free</socecStatus>
 </person>
 
 <person xml:id="per.006563" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.086">
@@ -57327,6 +57329,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>King</surname>, <forename type="first" full="yes">Williamson</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.112">Charles County (Md.)</residence>
 </person>
 
 <person xml:id="per.006564" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.086">
@@ -57654,7 +57657,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Fanny</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus when="1790-09-25" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.110">enslaved</socecStatus>
 </person>
 
 <person xml:id="per.006602" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.100">
@@ -57662,6 +57665,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Johnson</surname>, <forename type="first" full="yes">Rinaldo</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.110">Prince George's County (Md.)</residence>
 </person>
 
 <person xml:id="per.006603" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.100">
@@ -57670,6 +57674,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
+<socecStatus when="1792-05-08" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.111">free</socecStatus>
 </person>
 
 <!-- end oscys.mdcase.0014.100 -->
