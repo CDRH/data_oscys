@@ -56336,8 +56336,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006435" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.051">
-<persName type="display">Butler, Bett</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Bett</forename> <addName type="first" subtype="alternate">Betty</addName></persName>
+<persName type="display">Butler, Elizabeth</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Elizabeth</forename> <addName type="first" subtype="nickname">Betty</addName> <addName type="first" subtype="nickname">Bett</addName> <addName type="first" subtype="nickname">Bess</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -57288,7 +57288,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">William</forename> <addName type="first" subtype="nickname">Will</addName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus when="1789-07-29" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.113">enslaved</socecStatus>
+<socecStatus when="1792-05-08" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.113">free</socecStatus>
 </person>
 
 <person xml:id="per.006559" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.086">
@@ -57386,9 +57387,10 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006570" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.093">
 <persName type="display">Laidler, John</persName>
-<persName type="full"><surname>Laidler</surname>, <forename type="first" full="yes">John</forename></persName>
+<persName type="full"><surname>Laidler</surname> <addName type="surname" subtype="alternate">Leidler</addName>, <forename type="first" full="yes">John</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.113">Charles County (Md.)</residence>
 </person>
 
 <person xml:id="per.006571" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.093">
