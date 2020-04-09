@@ -44,6 +44,10 @@ class FileCsv < FileType
   def transform_es
   end
 
+  # no support for solr, leave blank
+  def transform_solr
+  end
+
   def transform_html
     puts "transforming #{self.filename} to HTML subdocuments"
     build_json_from_csv
