@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0012.026">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.115">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Jane Shorter v. Henry Neale. Judgment Record</title>
+<title>Jane Butler v. John Lancaster. Judgment Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -19,7 +19,7 @@
 
 <editionStmt>
 <edition>
-<date>2019</date>
+<date>2020</date>
 </edition>
 </editionStmt>
 
@@ -35,12 +35,14 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0012.026</idno>
-<idno type="case">oscys.caseid.0541</idno>
+<idno type="project">oscys.mdcase.0014.115</idno>
+<idno type="case">oscys.caseid.0622</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
-<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
 </availability>
 </publicationStmt>
 
@@ -54,7 +56,7 @@
 <msIdentifier>
 <repository>Maryland State Archives</repository>
 <collection>General Court of the Western Shore (Judgment Record)</collection>
-<idno>MSA S497-17 JG 15</idno>
+<idno>MSA S497-17</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -98,11 +100,11 @@
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="per.005311">
-<persName>Shorter, Jane</persName>
+<person role="petitioner" xml:id="per.006626">
+<persName>Butler, Jane</persName>
 </person>
-<person role="defendant" xml:id="per.005152">
-<persName>Neale, Henry</persName>
+<person role="defendant" xml:id="per.006627">
+<persName>Lancaster, John</persName> 
 </person>
 <person role="attorney_petitioner">
 <persName/>
@@ -114,7 +116,7 @@
 
 <listOrg>
 <org>
-<orgName>Maryland. General Court of the Western Shore</orgName>
+<orgName>Maryland. Court of Appeals</orgName>
 <placeName>Annapolis (Md.)</placeName>
 </org>
 </listOrg>
@@ -122,7 +124,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2019-08-08" who="#kln">transcription, encoding</change>
+<change when="2020-04-17" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,23 +135,23 @@
 
 <div1 type="case">
 
-<pb xml:id="p131" n="oscys.mdcase.0012.026.001"/>
+<pb n="oscys.mdcase.0014.115.001"/>
 
 <div2 type="caption">
 
-<p>Jane Shorter<lb/>
+<p>Jane Butler.<lb/>
 against<lb/>
-Henry Neale</p>
+John Lancaster.</p>
 
 </div2>
 
 <div2 type="body">
 
-<p>Petition for Freedom</p>
+<p>Petition for Freedom.</p>
 
-<p>Abated by the death of the Petitioner.</p>
+<p>Abated, by the death of the Petitioner.</p>
 
-<p>Test John Gwinn Clerk.</p>
+<p>Test John Gwinn, Clerk.</p>
 
 </div2>
 
