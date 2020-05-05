@@ -55991,7 +55991,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006402" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.016">
 <persName type="display">Butler, Eleanor</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Eleanor</forename></persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Eleanor</forename> <addName type="first" subtype="alternate">Peggy?</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -56343,7 +56343,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006435" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.051">
 <persName type="display">Butler, Elizabeth</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Elizabeth</forename> <addName type="first" subtype="nickname">Betty</addName> <addName type="first" subtype="nickname">Bett</addName> <addName type="first" subtype="nickname">Bess</addName></persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Elizabeth</forename> <addName type="first" subtype="nickname">Betty</addName> <addName type="first" subtype="nickname">Bett</addName> <addName type="first" subtype="nickname">Bess</addName> <addName type="first" subtype="nickname">Peggy?</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -56561,6 +56561,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Plowden</surname>, <forename type="first" full="yes">Henrietta</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">St. Mary's County (Md.)</residence>
 </person>
 
 <!-- end oscys.mdcase.0014.055 -->
@@ -57063,8 +57064,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006517" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
-<persName type="display">Butler, Nell</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Nell</forename></persName>
+<persName type="display">Butler, Eleanor</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Eleanor</forename> <forename type="nickname" full="yes">Nelly</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -57117,6 +57118,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Sarah</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<socecStatus when="1790-12-07" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.125">enslaved</socecStatus>
+<socecStatus when="1792-05-08" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.125">free</socecStatus>
 </person>
 
 <person xml:id="per.006535" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
@@ -57125,6 +57128,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
+<socecStatus notAfter="1792-05" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">free</socecStatus>
 </person>
 
 <person xml:id="per.006536" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.076">
@@ -57254,8 +57258,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006553" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.086">
-<persName type="display">Penn, Iezreel</persName>
-<persName type="full"><surname>Penn</surname>, <forename type="first" full="yes">Iezreel</forename></persName>
+<persName type="display">Penn, Jezreel</persName>
+<persName type="full"><surname>Penn</surname>, <forename type="first" full="yes">Jezreel</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.119">Charles County (Md.)</residence>
@@ -57266,7 +57270,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Clement</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus when="1791-11-18" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.121">enslaved</socecStatus>
+<socecStatus when="1792-05-08" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.121">free</socecStatus>
 </person>
 
 <person xml:id="per.006555" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.086">
@@ -57552,9 +57557,10 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006588" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.096">
 <persName type="display">Southron, Henry</persName>
-<persName type="full"><surname>Southron</surname> <addName type="surname" subtype="alternate">Southoron</addName>, <forename type="first" full="yes">Henry</forename></persName>
+<persName type="full"><surname>Southron</surname> <addName type="surname" subtype="alternate">Southoron</addName> <addName type="surname" subtype="alternate">Sothoron</addName>, <forename type="first" full="yes">Henry</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence>St. Mary's County (Md.)</residence>
 </person>
 
 <!-- end oscys.mdcase.0014.096 -->
@@ -57632,7 +57638,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Abraham</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus when="1790-05-11" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.124">enslaved</socecStatus>
+<socecStatus when="1792-05-08" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.124">free</socecStatus>
 </person>
 
 <person xml:id="per.006597" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.100">
@@ -57640,6 +57647,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Ridgate</surname>, <forename type="first" full="yes">Elizabeth</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<residence>Charles County (Md.)</residence>
 </person>
 
 <person xml:id="per.006598" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.100">
@@ -57921,13 +57929,123 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006629" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.118">
 <persName type="display">Peers, Nicholas</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Eleanor</forename></persName>
+<persName type="full"><surname>Peers</surname>, <forename type="first" full="yes">Nicholas</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence>Charles County (Md.)</residence>
 </person>
 
 <!-- end oscys.mdcase.0014.118 -->
+
+<!-- start oscys.mdcase.0014.122 -->
+
+<person xml:id="per.006630" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">
+<persName type="display">Butler, Abigail</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Abigail</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus when="1790-12-07">enslaved</socecStatus>
+<socecStatus when="1792-05-08">free</socecStatus>
+</person>
+
+<person xml:id="per.006631" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">
+<persName type="display">Butler, Benjamin</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Benjamin</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<socecStatus when="1792-05-08"  source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.123">free</socecStatus>
+</person>
+
+<person xml:id="per.006632" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">
+<persName type="display">Butler, Stephen</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Benjamin</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<socecStatus when="1792-05-08"  source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.123">free</socecStatus>
+</person>
+
+<person xml:id="per.006633" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">
+<persName type="display">Butler, Samuel</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Samuel</forename> <forename type="nickname" full="yes">Sam</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<socecStatus when="1792-05-08"  source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.123">free</socecStatus>
+</person>
+
+<person xml:id="per.006634" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">
+<persName type="display">Butler, Nell</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Nell</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<socecStatus when="1792-05-08"  source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.123">free</socecStatus>
+</person>
+
+<person xml:id="per.006635" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">
+<persName type="display">Butler, Hopey</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Hopey</forename></persName>
+<sex>unknown</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<socecStatus when="1792-05-08"  source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.123">free</socecStatus>
+</person>
+
+<person xml:id="per.006636" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">
+<persName type="display">Butler, Jenny</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Jenny</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<socecStatus when="1792-05-08"  source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.123">free</socecStatus>
+</person>
+
+<person xml:id="per.006637" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">
+<persName type="display">Butler, Nancy</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Nancy</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<socecStatus when="1792-05-08"  source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.123">free</socecStatus>
+</person>
+
+<person xml:id="per.006638" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.122">
+<persName type="display">Butler, Milly</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Milly</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<socecStatus when="1792-05-08"  source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.123">free</socecStatus>
+</person>
+
+<!-- end oscys.mdcase.0014.122 -->
+
+<!-- start oscys.mdcase.0014.124 -->
+
+<person xml:id="per.006639" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.124">
+<persName type="display">Ridgate, Thomas How</persName>
+<persName type="full"><surname>Ridgate</surname>, <forename type="first" full="yes">Thomas</forename> <forename type="middle" full="yes">How</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- end oscys.mdcase.0014.124 -->
+
+<!-- start oscys.mdcase.0014.126 -->
+
+<person xml:id="per.006640" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.126">
+<persName type="display">Butler, Sarah</persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Sarah</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus when="1790-12-07">enslaved</socecStatus>
+<socecStatus when="1792-05-08">free</socecStatus>
+</person>
+
+<!-- end oscys.mdcase.0014.126 -->
+
 
 <!--
 
