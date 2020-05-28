@@ -96,7 +96,7 @@ This file was compiled from information found in:
 
 <!-- TMP, for troubleshooting -->
 <person  xml:id="per.000000">
-<persName type="full">Person does not yet have an ID</persName>
+<persName type="full">This person does not yet have an ID.</persName>
 </person>   
     
 <!-- oscys.case.0001.001 start -->
@@ -56459,6 +56459,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Wheeler</surname>, <forename type="first" full="yes">Benedict</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.130">Charles County (Md.)</residence>
 </person>
 
 <person xml:id="per.006449" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
@@ -56466,7 +56467,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Lucy</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus when="1790-11-18" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.130">enslaved</socecStatus>
 </person>
 
 <person xml:id="per.006450" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.054">
@@ -57519,7 +57520,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Charles</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<socecStatus>enslaved</socecStatus>
+<socecStatus when="1789-05-14" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.129">enslaved</socecStatus>
+<socecStatus when="1792-05-08" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.129">free</socecStatus>
 </person>
 
 <person xml:id="per.006584" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.095">
@@ -57532,9 +57534,10 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006585" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.095">
 <persName type="display">Thomas, John</persName>
-<persName type="full"><surname>Thomas</surname>, <forename type="first" full="yes">John</forename></persName>
+<persName type="full"><surname>Thomas</surname>, <forename type="first" full="yes">John</forename> <roleName>Colonel</roleName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.129">Charles County (Md.)</residence>
 </person>
 
 <person xml:id="per.006586" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.095">
@@ -58049,6 +58052,31 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <!-- end oscys.mdcase.0014.126 -->
+
+<!-- start oscys.mdcase.0014.130 -->
+
+<person xml:id="per.006641" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.130">
+<persName type="display">Middleton, Samuel Ward</persName>
+<persName type="full"><surname>Middleton</surname>, <forename type="first" full="yes">Samuel</forename> <forename type="middle" full="yes">Ward</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006642" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.130">
+<persName type="display">Nelson, Thomas</persName>
+<persName type="full"><surname>Nelson</surname>, <forename type="first" full="yes">Thomas</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006643" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.130">
+<persName type="display">Dyson, Ben</persName>
+<persName type="full"><surname>Dyson</surname>, <forename type="first" full="yes">Ben</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- end oscys.mdcase.0014.130 -->
 
 
 <!--
