@@ -49267,6 +49267,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <residence>Anne Arundel County (Md.)</residence>
 </person>
 
+<!-- same as per.005378 
 <person xml:id="per.005370" source="http://earlywashingtondc.org/doc/oscys.mdcase.0011.001">
 <persName type="display">Booth, Edward</persName>
 <persName type="full"><surname>Booth</surname>, <forename type="first" full="yes">Edward</forename></persName>
@@ -49274,7 +49275,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
 </person>
-
+-->
 <person xml:id="per.005371" source="http://earlywashingtondc.org/doc/oscys.mdcase.0011.001">
 <persName type="display">Booth, Thomas</persName>
 <persName type="full"><surname>Booth</surname>, <forename type="first" full="yes">Thomas</forename></persName>
@@ -49311,6 +49312,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
+<note>May be the same person as per.005378.</note>
 </person>
 
 <person xml:id="per.005376" source="http://earlywashingtondc.org/doc/oscys.mdcase.0011.001">
@@ -49320,6 +49322,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab></ab></trait>
 </person>
 
+<!-- same as per.005378 
 <person xml:id="per.005377" source="http://earlywashingtondc.org/doc/oscys.mdcase.0011.001">
 <persName type="display">Booth, Edward</persName>
 <persName type="full"><surname>Booth</surname> <addName type="surname" subtype="alternate">Brown</addName>, <forename type="first" full="yes">Edward</forename></persName>
@@ -49328,6 +49331,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab></ab></trait>
 <socecStatus>enslaved</socecStatus>
 </person>
+-->
 
 <person xml:id="per.005378" source="http://earlywashingtondc.org/doc/oscys.mdcase.0011.001">
 <persName type="display">Brown, Edward</persName>
@@ -49338,6 +49342,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>enslaved</socecStatus>
 <socecStatus>free</socecStatus>
 <residence>Montgomery County (Md.)</residence>
+<note>May be the same person as per.005375.</note>
 </person>
 
 <person xml:id="per.005379" source="http://earlywashingtondc.org/doc/oscys.mdcase.0011.001">
@@ -49417,7 +49422,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab>bright mulatto</ab></trait>
 <trait type="color"><ab>yellow</ab></trait>
 <trait type="color"><ab>dark mulatto</ab></trait>
-<birth when="1759">about 1671</birth>
+<birth when="1671">about 1671</birth>
 <death when="1759">about 1759</death>
 <residence>Anne Arundel County (Md.)</residence>
 <socecStatus>enslaved</socecStatus>
