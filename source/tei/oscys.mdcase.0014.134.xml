@@ -85,11 +85,15 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term/>
+<term xml:id="per.006312">Butler, Eleanor</term>
+<term xml:id="per.001514">Chase, Samuel, 1741-1811</term>
+<term xml:id="per.001493">Gwinn, John</term>
+<term xml:id="per.002691">Simms, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term/>
+<term>Charles County (Md.)</term>
+<term>Annapolis (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">
@@ -100,11 +104,11 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="">
-<persName></persName>
+<person role="petitioner" xml:id="per.006657">
+<persName>Butler, Sarah</persName>
 </person>
-<person role="defendant" xml:id="">
-<persName></persName> 
+<person role="defendant" xml:id="per.006658">
+<persName>Carrico, Henry</persName> 
 </person>
 <person role="attorney_petitioner" xml:id="per.001393">
 <persName>Duvall, Gabriel, 1752-1844</persName>
@@ -124,6 +128,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-06" who="#kln">encoded people</change>
 <change when="2020-05-18" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
