@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.054">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ignatius Butler v. Joseph Simms. Deposition of John Butler</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.054</idno>
+<idno type="case">oscys.caseid.0595</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Deposition of John Butler</title>
+<date when="1791-12-24">December 24, 1791</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgments)</collection>
+<idno>MSA S498-14</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Deposition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1791-10">October 1791</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.006454">Butler, Anne</term><!-- parent of Nelly; parent of Jane; acquaintance of John -->
+<term xml:id="per.006455">Butler, Charles</term><!-- child of Nelly; acquaintance of John -->
+<term xml:id="per.006440">Butler, Chloe</term><!-- child of Elizabeth; enslaved by Nicholas L. Sewall -->
+<term xml:id="per.006442">Butler, Clara</term><!-- child of Elizabeth; enslaved by Patty Shade -->
+<term xml:id="per.006312">Butler, Eleanor</term><!-- parent of Jane -->
+<term xml:id="per.006383">Butler, Elizabeth</term><!-- acquaintance of John Butler; child of Phillis -->
+<term xml:id="per.006444">Butler, Gustavus</term><!-- child of Elizabeth; enslaved by William Thomas -->
+<term xml:id="per.006446">Butler, Ignatius</term><!-- child of Elizabeth; enslaved by William Craik -->
+<term xml:id="per.006398">Butler, Jane</term><!-- parent of Rebecca; child of Eleanor; sibling of Ignatius -->
+<term xml:id="per.006459">Butler, Jane</term><!-- parent of Stephen; child of Nanny; acquaintance of John -->
+<term xml:id="per.006406">Butler, Jane</term><!-- parent of Lectius -->
+<term xml:id="per.006450">Butler, Jeremiah</term><!-- child of Nelly; enslaved by John Cartwright -->
+<term xml:id="per.006439">Butler, John</term><!-- deponent; acquaintance of Rebecca; acquaintance of Ralph -->
+<term xml:id="per.006451">Butler, Lectius</term><!-- child of Jane; enslaved by Ralph Jameston -->
+<term xml:id="per.006449">Butler, Lucy</term><!-- child of Elizabeth; enslaved by Benedict Wheeler -->
+<term xml:id="per.006380">Butler, Lydia</term><!-- child of Elizabeth; enslaved by James Carrico -->
+<term xml:id="per.006422">Butler, Nell</term><!-- parent of Ralph; sibling of Rebecca -->
+<term xml:id="per.006453">Butler, Nelly</term><!-- parent of Jeremiah and Charles; child of Nanny -->
+<term xml:id="per.006382">Butler, Phillis</term><!-- parent of Elizabeth -->
+<term xml:id="per.006420">Butler, Ralph</term><!-- child of Nel; enslaved by John Lucas -->
+<term xml:id="per.006399">Butler, Rebecca</term><!-- parent of Ignatius; acquaintance of John Butler --> 
+<term xml:id="per.006457">Butler, Stephen</term><!-- enslaved by Eleanor Smith; child of Jane; acquaintance of John  -->
+<term xml:id="per.006381">Carrico, James</term><!-- enslaved Lydia -->
+<term xml:id="per.006456">Cartwright, John</term><!-- slaveholder of Jeremiah -->
+<term xml:id="per.006447">Craik, William</term><!-- slaveholder of Ignatius -->
+<term xml:id="per.006416">Hill, Henry</term>
+<term xml:id="per.006452">Jameston, Ralph</term><!-- slaveholder of Electius -->
+<term xml:id="per.006421">Lucas, John</term><!-- slaveholder of Ralph -->
+<term xml:id="per.001477">Quynn, Allen</term><!-- jp -->
+<term xml:id="per.006441">Sewall, Nicholas L.</term><!-- slaveholder of Chloe -->
+<term xml:id="per.006443">Shade, Patty</term><!-- slaveholder of Clara -->
+<term xml:id="per.006403">Shervin, Mary</term>
+<term xml:id="per.006458">Smith, Eleanor</term><!-- slaveholder of Stephen -->
+<term xml:id="per.006445">Thomas, William</term><!-- slaveholder of Gustavus -->
+<term xml:id="per.006448">Wheeler, Benedict</term><!-- slaveholder of Lucy -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term/>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term/>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.006437">
+<persName>Butler, Ignatius</persName>
+</person>
+<person role="defendant" xml:id="per.006438">
+<persName>Simms, Joseph</persName> 
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-01-23" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.054.001"/>
+
+<div2 type="caption">
+
+<p>Ignatius Butler<lb/>
+v.<lb/>
+Joseph Simms</p>
+
+<p>336<lb/>
+Key</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>John Butler aged sixty nine years &amp; upwards being sworn on the holy evangely of Almighty God deposeth &amp; saith that he knows Rebecca the Mother of Ignatius a petitioner against Joseph Sims now present ever since he was seven years old, the said Rebecca was always reputed to be the daughter of Jane Butler who was daughter of Irish Nell a free white woman; and Rebecca aforesaid hath obtained her freedom on a petition against Mary Shervin. He further saith that Ralph Butler now present, a petitioner for his freedom against John Lucas is son of Nel Butler sister of Rebecca the mother of Ignatius aforesaid; and this deponent saith he knew Ralph ever since he as a child; &amp; his mother also. That he knew Betty now present a petitioner for freedom against Henry Hill, ever since she was a child, she is the daughter of Phillis the sister of the deponent. That Chloe Butler now present a petitioner against Nicholas L. Sewall is daughter of the said Betty; also Clara Butler now present a petition against Patty Shade is daughter of Betty, and Gustavus now present a petitioner against William Thomas, and Ignatius now present a petitioner against William Craik are sons of the said Betty; and Lydia now present a petitioner against James Carrico; and Lucy a petitioner against Benedict Wheeler an daughter of the said Betty, and <del>are</del> all of them have been known by the deponent ever since they were small children. That Charles Butler now present has been known by the deponent ever since he was a sucking child and is the son of Nel Butler, and brother of Jeremiah Butler who obtained his freedom against John Cartwright. That Electius now present a petitioner against Ralph Jameston is son of Jane Butler who is sister to Ignatius abovementioned a petitioner against Joseph Sims; and the deponent has also known Stephen now present a petitioner against Eleanor Smith ever since he was a child, he is son of <gap extent="one name" reason="strikethrough"/> Jane Butler whom the deponent knew ever since she was a child, who was daughter of Nanny Butler whom this deponent has known ever since he was very young; the said Nanny last named was mother of Nelly who was mother of Jeremiah who is now free on a petition against John Cartwright. sworn before the subscriber this twenty fourth day of December 1791.</p>
+
+<p>Allen Quynn</p>
+
+</div2>
+
+<pb n="oscys.mdcase.0014.054.002"/>
+
+<div2 type="back">
+
+<p>Ignatius Butler<lb/>
+vs<lb/>
+Joseph Simmes</p>
+
+<p>Jdgt Octo 1791.</p>
+
+<p>Ralph vs John Lucas - id<lb/>
+Eliza vs Henry Hill - id<lb/>
+Charles vs Benja Estep -<lb/>
+Electious vs Ralph Jameson. May 1792<lb/>
+Chloe vs Nichs L Sewall. Octo 1791<lb/>
+Clara vs Patty Shade. Octo 1793.<lb/>
+Gustavus vs Wm Thomas. Octo 1791.<lb/>
+Igns vs Wm Craik. May 1792.<lb/>
+Lydia vs Jas Carrico. May 1791<lb/>
+Lucy vs Bendict Wheeler. May 1792.<lb/>
+Stephen vs Eleanor Smith. Octo 1793.</p>
+
+<p>John Butler's Depo</p>
+
+<p>Filed 28. of Decr 1791</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>

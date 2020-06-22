@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.050">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Clement Butler v. Henry Pyke. Petition for Freedom</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.050</idno>
+<idno type="case">oscys.caseid.0593</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petition for Freedom</title>
+<date when="1790-05-13">May 13, 1790</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgments)</collection>
+<idno>MSA S498-14</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Petition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1791-10">October 1791</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.006312">Butler, Eleanor</term><!-- family of Clement -->
+<term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Saint Mary's County (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term/>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.006431">
+<persName>Butler, Clement</persName>
+</person>
+<person role="defendant" xml:id="per.006432">
+<persName>Pyke, Henry</persName> 
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-01-22" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.050.001"/>
+
+<div2 type="body">
+
+<p>To the honourable The Judges of the General Court</p>
+
+<p>The Petition of Clement Butler humbly sheweth that he is held in slavery by Henry Pyke of Saint Mary's County, when he is entitled to his freedom being the descendant of Elinor Butler, who was a free white person in the female line. He therefore prays your honours to grant a summons against the said Henry Pyke returnable immediately that he may be and appear in this honourable Court and answer the premisses. And he as in duty bound will pray &amp; so forth.</p>
+
+<p>G. Duvall for Petr</p>
+
+</div2>
+
+<pb n="oscys.mdcase.0014.050.002"/>
+
+<div2 type="back">
+
+<p>Clement Butler<lb/>
+vs<lb/>
+Henry Pyke, HM</p>
+
+<p>Peto.</p>
+
+<p>Mr Gwinn,<lb/>
+File this Peto &amp; issue Summons<lb/>
+yrs<lb/>
+G. Duvall</p>
+
+<p>Depo as Thos in Iezreal Penn at May 1792</p>
+
+<p>filed 13th May 1790</p>
+
+<p>Subpoena issd <gap extent="one or two words" reason="illegible"/> immediately</p>
+
+<p>Octo 1791</p>
+
+<p>Entd JG. No 13. folio 29.</p>
+
+<pb n="oscys.mdcase.0014.050.003"/>
+
+<p>Clement Butler<lb/>
+v<lb/>
+Henry Pyke</p>
+
+<p>Pet. for Freedom</p>
+
+<p>Entd JG No 13. folio 29.</p>
+
+<p>(Octo 1791)</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>

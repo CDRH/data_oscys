@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.130">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Lucy Butler v. Benedict Wheeler. Judgment Record</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.130</idno>
+<idno type="case">oscys.caseid.0637</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Judgment Record</title>
+<date when="1792-05">May 1792</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgment Record)</collection>
+<idno>MSA S497-17</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1792-05">May 1792</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.006454">Butler, Anne</term>
+<term xml:id="per.006455">Butler, Charles</term>
+<term xml:id="per.006440">Butler, Chloe</term>
+<term xml:id="per.006442">Butler, Clara</term>
+<term xml:id="per.006312">Butler, Eleanor</term>
+<term xml:id="per.006383">Butler, Elizabeth</term>
+<term xml:id="per.006323">Butler, Elizabeth</term>
+<term xml:id="per.006444">Butler, Gustavus</term>
+<term xml:id="per.006437">Butler, Ignatius</term>
+<term xml:id="per.006398">Butler, Jane</term>
+<term xml:id="per.006406">Butler, Jane</term>
+<term xml:id="per.006459">Butler, Jane</term>
+<term xml:id="per.006450">Butler, Jeremiah</term>
+<term xml:id="per.006439">Butler, John</term>
+<term xml:id="per.006451">Butler, Lectius</term>
+<term xml:id="per.006380">Butler, Lydia</term>
+<term xml:id="per.006422">Butler, Nell</term>
+<term xml:id="per.006453">Butler, Nelly</term>
+<term xml:id="per.006382">Butler, Phillis</term>
+<term xml:id="per.006420">Butler, Ralph</term>
+<term xml:id="per.006399">Butler, Rebecca</term>
+<term xml:id="per.006457">Butler, Stephen</term>
+<term xml:id="per.006381">Carrico, James</term>
+<term xml:id="per.006456">Cartwright, John</term>
+<term xml:id="per.006643">Dyson, Ben</term><!-- legal -->
+<term xml:id="per.002096">Dyson, Thomas A.</term>
+<term xml:id="per.001493">Gwinn, John</term>
+<term xml:id="per.006416">Hill, Henry</term>
+<term xml:id="per.006452">Jameston, Ralph</term>
+<term xml:id="per.002097">Johnson, Thomas, 1732-1819</term>
+<term xml:id="per.006421">Lucas, John</term>
+<term xml:id="per.002050">McPherson, Alexander</term>
+<term xml:id="per.006641">Middleton, Samuel Ward</term><!-- legal -->
+<term xml:id="per.006642">Nelson, Thomas</term><!-- legal -->
+<term xml:id="per.001477">Quynn, Allen</term>
+<term xml:id="per.006441">Sewall, Nicholas L.</term>
+<term xml:id="per.006443">Shade, Patty</term>
+<term xml:id="per.006403">Shervin, Mary</term>
+<term xml:id="per.006438">Simms, Joseph</term>
+<term xml:id="per.006458">Smith, Eleanor</term>
+<term xml:id="per.006445">Thomas, William</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Charles Butler (Md.)</term>
+<term>Annapolis (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Judgment for Petitioner</term>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson> 
+<person role="petitioner" xml:id="per.006449">
+<persName>Butler, Lucy</persName>
+</person>
+<person role="defendant"  xml:id="per.006448">
+<persName>Wheeler, Benedict</persName> 
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.005285">
+<persName>Craik, William</persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. Court of Appeals</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-05" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.130.001"/>
+
+<div2 type="caption">
+
+<p>Lucy Butler.<lb/>
+against<lb/>
+Benedict Wheeler.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Be it remembered, that heretofore towit, on the Eighteenth day of November in the year of our Lord One thousand seven hundred and ninety, Lucy Butler by Gabriel Duvall her attorney <catchwords>preferred</catchwords>
+
+<pb n="oscys.mdcase.0014.130.002"/>
+
+preferred and filed in the General Court here, her Petition for Freedom against Benedict Wheeler, which is in the form following towit. To the Honorable the Judges of the General Court. The Petition of Lucy Butler humbly sheweth, that she is held as a Slave by Benedict Wheeler of Charles County, although she is entitled to her Freedom being descended from a Free woman. Your Petitioner is the Daughter of Elizabeth Butler who was the Daughter of Phillis Butler who was the Daughter of Abigail Butler who was the Daughter of Eleanor Butler a Free Woman. She therefore prayeth that your honors would take her case into consideration and discharge her from the custody of the aforesaid Benedict Wheeler, and that Summons may issue for her Witnesses, andsoforth. G Duvall for Petitioner. Thereupon, on motion of the said Lucy Butler by her attorney aforesaid, it is ruled and ordered by the Court here, that the said Benedict Wheeler do not remove the said Lucy Butler out of this State, nor obstruct her from attending this Court from time to time in support of his Petition for Freedom, preferred to the Court here; and in the mean time to feed, clothe and use the said Lucy Butler, well; It is further ruled and ordered by the Court here, that the writ of the State of Maryland of Summons issue forth out of the General Court here against the said Benedict Wheeler, to answer unto the said Petition of the said Lucy Butler; which said Summons issued accordingly, directed to the Sheriff of Charles County in form following towit. The State of Maryland Sct To the Sheriff of Charles County, Greeting: We command you that you Summon Benedict Wheeler late of Charles County, that all excuses and delays set aside he be and appear before the Judges of our General Court to be held at the City of Annapolis on the second Tuesday of May next, to answer the Petition of Lucy Butler, preferred against him for Freedom. Hereof he is not to fail and fail not at your peril and have you then and there this writ: Witness the Honorable Thomas Johnson Esquire Chief Judge of our said Court the 24th day of November anno domini 1790. (G Duvall)</p>
+
+<p>Issued the 7th day of December 1790. Jno Gwinn Clk</p>
+
+<p>At which said Second Tuesday of May being the Tenth day of the said month in the year of our Lord One thousand seven hundred and
+
+<pb n="oscys.mdcase.0014.130.003"/>
+
+ninety one, and the day of the return of the aforegoing Summons, comes into the General Court here, the said Lucy Butler by her attorney aforesaid; and the Sheriff of Charles County aforesaid, to whom the said Summons was in form aforesaid, directed, makes return thereof to the Court here, thus endorsed, towit. "Summoned. Thos A. Dyson, Sheriff. And the said Benedict Wheeler, being so forewarned, comes into the General Court here, by William Craik his attorney: And thereupon, on motion of the said Lucy Butler by her attorney aforesaid, it is ruled by the Court here, that the said Benedict Wheeler enter into the usual and customary recognizance in such cases prescribed: Thereupon, the said Benedict Wheeler by his attorney aforesaid, files in Court here a recognizance, in form following towit. You Samuel Ward Middleton &amp; Thomas Nelson do acknowledge yourselves to owe and Stand justly indebted to the State of Maryland in the Sum of Five hundred pounds current money to be levied on your Body, Goods, Chattels, Lands and Tenements to and for the use of the Said State on Condition that Benedict Wheeler do not transport negro Lucy Butler out of the said State; that he will allow her to attend at the next General Court to be held at Annapolis on the Second Tuesday of May next, that he will permit the said Negro Lucy Butler to have a reasonable time to consult with her council and in the mean time not ill use her; They are content therewith this Twentieth day of April in the year of our Lord One thousand Seven hundred and ninety one. Ben Dyson. Alexr McPherson. Mr William Craik, Sir, I hereby authorise you to appear for me in the Suit brought by negro Lucy Butler against me in the General Court. Benedict Wheeler.</p>
+
+<p>Thereupon, further process of and upon the premises aforesaid, between the parties aforesaid, by order of the Court here, is continued until the second Tuesday of October next; the same day is given to the parties aforesaid, then, andsoforth.</p>
+
+<p>At which said Second Tuesday of October, being the Eleventh day of the said month in the year of our Lord One thousand seven hundred and ninety one, come again into the General Court here, as well the said Lucy Butler by her attorney aforesaid, as the said Benedict Wheeler by his attorney aforesaid: Thereupon, further process of and upon the premises aforesaid, between the parties aforesaid, by order of the Court here, is further continued until the second Tuesday of May next; the same day is given to the parties aforesaid, then, andsoforth.</p>
+
+<p><catchwords>And</catchwords>
+
+<pb n="oscys.mdcase.0014.130.004"/>
+
+And now at this day towit, the Said Second Tuesday of May being the Eighth day of the said month in the year of our Lord One thousand seven hundred and ninety two, come again into the General Court here, as well the said Lucy Butler by her attorney aforesaid, as the said Benedict Wheeler by his attorney aforesaid: And the said Lucy Butler by her attorney aforesaid files in Court here the Deposition of John Butler, towit.</p>
+
+<p>Ignatius Butler<lb/>
+vs<lb/>
+Joseph Simms.</p>
+
+<p>John Butler aged Sixty nine &amp; upwards, being Sworn on the Holy Evangily of Almighty God, deposeth &amp; saith that he knows Rebecca the mother of Ignatius a Petitioner against Joseph Sims now present ever since he was seven years old, the said Rebecca was always reputed to be the Daughter of Jane Butler who was Daughter of Irish Nell a Free white woman, and Rebecca aforesaid hath obtained her Freedom on a Petition against Mary Shervin. He further saith that Ralph Butler now present, a petitioner for his Freedom against John Lucas is son of Nel Butler, Sister of Rebecca the mother of Ignatius aforesaid; and this Deponent saith he knew Ralph ever since he was a child; &amp; his mother also. That he knew Betty now present, a Petitioner for Freedom against Henry Hill, ever since She was a child, she is the Daughter of Phillis the Sister of the Deponent. That Chloe Butler now present a Petitioner against Nicholas L. Sewall, is Daughter of the said Betty; also Clara Butler now present, a petitioner against Patty Shade, is Daughter of Betty, and Gustavus now present a Petitioner against William Thomas, and Ignatius now present, a petitioner against William Craik are sons of the said Betty; and Lydia now present a Petitioner against James Carrico; and Lucy a Petitioner against Benedict Wheeler are Daughters of the said Betty, and all of them have been known by the Deponent ever since they were Small children. That Charles Butler now present has been known by the Deponent ever Since he was a Sucking child and is the son of Nel Butler, and Brother of Jeremiah Butler who obtained his Freedom against John Cartwright. That Electius now present a Petitioner against Ralph Jameston is Son of Jane Butler who is Sister to Ignatius above mentioned a petitioner against Joseph Sims; and the Deponent has also known Stephen now present a petitioner against Eleanor Smith ever Since he was a child. he is Son of Jane Butler whom the Deponent knew ever Since
+
+<pb n="oscys.mdcase.0014.130.005"/>
+
+She was a child, who was Daughter of Nanny Butler, whom this Deponent has known ever since he was very young; the said Nanny, last named was mother of Nelly, who was mother of Jeremiah, who is now Free on a Petition against John Cartwright. Sworn before the Subscriber this Twenty fourth day of December 1791. Allen Quynn.</p>
+
+<p>Whereupon, all and Singular the premises aforesaid between the parties aforesaid, by the Court here being seen, heard and fully understood, and mature deliberation thereupon had, for that it appears to the Court here, that the said Lucy Butler, the Petitioner aforesaid, is entitled to her Freedom, being descended from a Free woman, as She by her Petition to the Court here, hath alleged; Therefore it is considered by the Court here that the said Lucy Butler, the Petitioner aforesaid, be Free and discharged of and from the Service of the said Benedict Wheeler, and that She the said Lucy Butler, the Petitioner aforesaid,  go thereof without day, andsoforth. It is also considered by the Court here, the the said Lucy Butler, the petitioner aforesaid, recover against the said Benedict Wheeler, the quantity of Six hundred and ten pounds of tobacco, by the Court here, unto her the said Lucy Butler, on her assent adjudged, for her costs and charges by her about the prosecution of her petition aforesaid, laid out and expended, and that she have thereof her Execution, andsoforth.</p>
+
+<p>Test. John Gwinn Clerk.</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>

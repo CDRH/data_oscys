@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.035">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Ralph Butler v. John Lucas. Petition for Freedom</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.035</idno>
+<idno type="case">oscys.caseid.0586</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petition for Freedom</title>
+<date when="1789-05-14">May 14, 1789</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgments)</collection>
+<idno>MSA S498-14</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Petition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1791-10">October 1791</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.006323">Butler, Eleanor</term><!-- parent of Jane -->
+<term xml:id="per.006398">Butler, Jane</term><!-- child of Eleanor; parent of Nelly -->
+<term xml:id="per.006422">Butler, Nell</term><!-- parent of Ralph; child of Jane -->
+<term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Saint Mary's County (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term/>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.006420">
+<persName>Butler, Ralph</persName><!-- child of Nelly -->
+</person>
+<person role="defendant" xml:id="per.006421">
+<persName>Lucas, John</persName> 
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-01-17" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.035.001"/>
+
+<div2 type="body">
+
+<p>To the honourable the judges of the General Court</p>
+
+<p>The petition of Ralph Butler humble sheweth that he is held in slavery by John Lucas of St Marys County altho he is entitled to his freedom being the son of Nelly Butler who was Daughter of Jane Butler who was Daughter of Eleanor Butler a free white woman. Your petitioner therefore prays your honors to Direct summons to issue against the said John Lucas and that the premises considered he be Discharged and he will pray and so forth.</p>
+
+<p>G. Duvall for Petr</p>
+
+</div2>
+
+<pb n="oscys.mdcase.0014.035.002"/>
+
+<div2 type="back">
+
+<p>Ralph Butler<lb/>
+v<lb/>
+John Lucas</p>
+
+<p>Peto</p>
+
+<p>Mr Gwinn,<lb/>
+File it &amp; Issue Summons<lb/>
+yrs,<lb/>
+G. Duvall.</p>
+
+<p>Depo as Igns vs Joseph Simmes<lb/>
+Octo 1791</p>
+
+<p>Filed 14 May 1789</p>
+
+<p>Isd sums retble to next Court<lb/>
+Issd</p>
+
+<p>Octo 1791</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>

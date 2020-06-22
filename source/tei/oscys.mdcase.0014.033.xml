@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.033">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Elizabeth Butler v. Henry Hill. Petition for Freedom</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.033</idno>
+<idno type="case">oscys.caseid.0585</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Petition for Freedom</title>
+<date when="1789-10-19">October 19, 1789</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgments)</collection>
+<idno>MSA S498-14</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Petition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1791-10">October 1791</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.006312">Butler, Eleanor</term>
+<term xml:id="per.006417">Butler, Jerry</term><!-- child of Elizabeth -->
+<term xml:id="per.006418">Butler, Jess</term><!-- child of Elizabeth -->
+<term xml:id="per.006419">Butler, Phillis</term><!-- child of Elizabeth -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Saint Mary's County (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term/>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.006383">
+<persName>Butler, Elizabeth</persName>
+</person>
+<person role="defendant" xml:id="per.006416">
+<persName>Hill, Henry</persName> 
+</person>
+<person role="attorney_petitioner">
+<persName/>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-01-17" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.033.001"/>
+
+<div2 type="body">
+
+<p>To The Honourable the Judges of The General Court</p>
+
+<p>The humble Petition of Elizabeth Butler (Great Grand Daughter of a white woman called Irish Nell) sheweth, That your Petition is unlawfully detained in Slavery by Mr Henry Hill of St Mary's County; that your Petitioner is the mother of Eleven Children, Three of whom (two Boys, one named Jerry, &amp; the other named Jess, and a Girl named Phillis) were in the Possession of the said Henry Hill since January last, and have been since sent (and as your Petitioner believes sold) out of the State by the said Henry Hill.</p>
+
+<p>Your Petitioner prays your Honours to hear her Complaint against the said Henry Hill, and to declare her free, with all her Children; and for that purpose your Petitioner prays that summons may issue against the said Henry Hill to appear and Answer this Petition, and that he be obliged to permit your Petitioner to attend the Court, and not to sell your Petitioner out of the State, or do any other Act to prevent your Petitioner from attending the Court; and your Petitioner who prays that the said Henry Hill may be Compelled to produce before the Court in some reasonable time the said these Children of your Petitioner sent by him out of the State as above set forth. And your Petitioner will pray.</p>
+
+</div2>
+
+<pb n="oscys.mdcase.0014.033.002"/>
+
+<div2 type="back">
+
+<p>Elizabeth Butler<lb/>
+vs<lb/>
+Henry Hill</p>
+
+<p>Petition for Freedom</p>
+
+<p>Octo 1791</p>
+
+<p>Entd JG No 13 folio 19</p>
+
+<p>Filed 19th October 1789</p>
+
+<p>Depo as Igs vs Jos Simmes</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>

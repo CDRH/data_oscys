@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.065">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Mary Butler v. Adam Craig. Transcript from General Court of the Western Shore</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.065</idno>
+<idno type="case">oscys.caseid.0600</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Transcript from General Court of the Western Shore</title>
+<date when="1787-11-19">November 19, 1787</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>Court of Appeals (Judgments)</collection>
+<idno>MSA S381-52</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Transcript</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1791-06">June 1791</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.006326">Abell, Samuel, Jr.</term>
+<term xml:id="per.004336">Baltimore, Charles Calvert, Lord, 1637-1715</term>
+<term xml:id="per.006490">Baltimore, Frederick Calvert, Baron, 1731-1771</term>
+<term xml:id="per.006321">Beach, Thomas</term><!-- deponent -->
+<term xml:id="per.006480">Beall, John</term><!-- sheriff -->
+<term xml:id="per.006494">Bordley, J. B. (John Beale), 1727-1804</term>
+<term xml:id="per.006347">Boarman, Francis</term>
+<term xml:id="per.006372">Boarman, George</term>
+<term xml:id="per.006368">Boarman, Gerrard</term>
+<term xml:id="per.006343">Boarman, Ignatius</term>
+<term xml:id="per.006344">Boarman, John Baptist</term>
+<term xml:id="per.006305">Boarman, Richard</term><!-- enslaved William Lazarus; purchased slave from Leonard Walkin -->
+<term xml:id="per.006318">Boarman, William</term>
+<term xml:id="per.006376">Bond, Thomas</term>
+<term xml:id="per.006375">Bond, Zach</term>
+<term xml:id="per.006357">Bowling, Thomas</term><!-- witness -->
+<term xml:id="per.006475">Bowling, William</term><!-- witness -->
+<term xml:id="per.006307">Branson, John</term>
+<term xml:id="per.006365">Brookes, Baker</term>
+<term xml:id="per.006358">Brookes, Clear</term>
+<term xml:id="per.006498">Brookes, James</term><!-- clerk -->
+<term xml:id="per.006322">Brookes, Leonard</term>
+<term xml:id="per.006325">Brookes, Richard</term>
+<term xml:id="per.006486">Broom, John Hooper</term><!-- deponent; acquaintance of William Lazarus -->
+<term xml:id="per.006316">Butler, Catharine</term><!-- child of Eleanor and Charles -->
+<term xml:id="per.006312">Butler, Eleanor</term>
+<term xml:id="per.006323">Butler, Elizabeth</term><!-- Abigail -->
+<term xml:id="per.006369">Butler, Jack</term>
+<term xml:id="per.006370">Butler, Jenny</term>
+<term xml:id="per.006314">Butler, John</term><!-- child of Eleanor and Charles -->
+<term xml:id="per.006304">Butler, Mary</term><!-- parent of Mary and William Lazarus -->
+<term xml:id="per.006484">Butler, Mary</term><!-- enslaved by Leonard Walkin, Richard Boarman; sibling of William Lazarus -->
+<term xml:id="per.006345">Butler, Moll</term>
+<term xml:id="per.006346">Butler, Nan</term>
+<term xml:id="per.006487">Butler, Nan</term><!-- sibling of William Lazarus; child of William and Mary -->
+<term xml:id="per.006348">Butler, Ned</term>
+<term xml:id="per.006342">Butler, Pegg</term>
+<term xml:id="per.006315">Butler, Sarah</term><!-- child of Eleanor and Charles -->
+<term xml:id="per.006303">Butler, William</term><!-- parent of Mary and William Lazarus -->
+<term xml:id="per.006483">Butler, William Lazarus</term><!-- enslaved by Leonard Walkin, Richard Boarman; sibling of Mary; child of William and Mary -->
+<term xml:id="per.006313">Charles</term><!-- parent of John, Sarah, and Catharine -->
+<term xml:id="per.006497">Clapham, John</term><!-- sheriff -->
+<term xml:id="per.006367">Crossen, Mary</term>
+<term xml:id="per.006328">Darnall</term>
+<term xml:id="per.006317">Davis, Allen</term>
+<term xml:id="per.006373">Dent, George</term>
+<term xml:id="per.006353">Doynes</term>
+<term xml:id="per.006349">Edelen, Edward</term>
+<term xml:id="per.006350">Edelen, Richard</term>
+<term xml:id="per.006327">Edwards</term>
+<term xml:id="per.006311">Ghiselin, Reverdy</term>
+<term xml:id="per.004366">Goldsborough, Robert, 1740-1798</term><!-- judge -->
+<term xml:id="per.006361">Haddock</term>
+<term xml:id="per.006306">Hall, John</term>
+<term xml:id="per.006471">Hanson, Alexander Contee, 1749-1806</term><!-- judge -->
+<term xml:id="per.005383">Harrison, Robert Hanson, 1745-1790</term><!-- judge -->
+<term xml:id="per.006491">Hayward, William</term><!-- judge for William and Mary -->
+<term xml:id="per.006492">Hepburne, John</term><!-- judge for William and Mary -->
+<term xml:id="per.006473">Hodgkin, Thomas B.</term><!-- clerk -->
+<term xml:id="per.006481">Hodskin, Ann</term><!-- deponent; spouse of Leonard Walkin -->
+<term xml:id="per.006319">Howard, Jane</term><!-- deponent -->
+<term xml:id="per.006360">Hulbert</term>
+<term xml:id="per.006351">Jameson, Benjamin</term><!-- witness -->
+<term xml:id="per.006366">Jameson, Joseph</term>
+<term xml:id="per.006495">Jenifer, Daniel of St. Thomas, 1723-1790</term><!-- judge for William and Mary -->
+<term xml:id="per.002097">Johnson, Thomas, 1732-1819</term>
+<term xml:id="per.006485">Kerrick, James</term><!-- enslaved Mary Butler; purchased slave from Leonard Watkin -->
+<term xml:id="per.006496">Lee, Philip Thomas</term><!-- judge for William and Mary -->
+<term xml:id="per.006493">Leeds, John</term><!-- judge for William and Mary -->
+<term xml:id="per.006308">Love, Samuel, Sr.</term>
+<term xml:id="per.006340">McPherson, William</term><!-- witness -->
+<term xml:id="per.005494">Merrick, Thomas D.</term><!-- clerk -->
+<term xml:id="per.006363">Neale, Billy</term>
+<term xml:id="per.006359">Piles, Joseph</term>
+<term xml:id="per.006479">Poesy, Elizabeth</term><!-- witness -->
+<term xml:id="per.006478">Proctor, Jane</term><!-- witness -->
+<term xml:id="per.006364">Redhead</term>
+<term xml:id="per.006320">Reeder, John, Jr.</term>
+<term xml:id="per.006355">Ruthom</term>
+<term xml:id="per.006341">Sanders, Pomphrey John</term>
+<term xml:id="per.006354">Short, Ann</term>
+<term xml:id="per.006362">Simpson, William</term>
+<term xml:id="per.006309">Smith, John Jordan</term>
+<term xml:id="per.006339">Soot, Nathaniel</term>
+<term xml:id="per.006510">Spalding</term>
+<term xml:id="per.006472">Steward, David</term><!-- sheriff -->
+<term xml:id="per.006329">Suit, Nathaniel</term>
+<term xml:id="per.006488">Thompson, Joseph</term><!-- deponent; acquaintance of William and Mary -->
+<term xml:id="per.006482">Watkin, Leonard</term><!-- spouse of Ann Hodskin; sold slave to Richard Boarman and James Kerrick -->
+<term xml:id="per.006371">Warren, Elizabeth</term>
+<term xml:id="per.006324">Whitehorn, Ann</term>
+<term xml:id="per.006374">Winter, John</term><!-- legal -->
+<term xml:id="per.006352">Witham</term>
+<term xml:id="per.006356">Yates</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Charles County (Md.)</term>
+<term>Prince George's County (Md.)</term>
+<term>Saint Mary's County (Md.)</term>
+<term>Annapolis (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Judgment for Petitioner</term>
+<term>Appealed by Defendant</term>
+<term>Judgment Reversed</term>
+<term>Appealed by Petitioner</term>
+<term>Judgment Reversed</term>
+<term>Appealed by Defendant</term>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.006469">
+<persName>Butler, Mary</persName>
+</person>
+<person role="defendant" xml:id="per.006470">
+<persName>Craig, Adam</persName> 
+</person>
+<person role="attorney_petitioner" xml:id="per.002102">
+<persName>Chase, Jeremiah Townley, 1748-1828</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.006489">
+<persName>Jennings, Thomas</persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. Court of Appeals</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-01-29" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.065.001"/>
+
+<div2 type="body">
+
+<p>The State of Maryland Sst</p>
+
+<p>At a General Court for the Western Shore of the said State begun and held at the City of Annapolis on the second Tuesday of October being the ninth day of the same month in the year of our Lord one thousand seven hundred and eighty seven</p>
+
+<p>Were present</p>
+
+<p>The Honorable Robert Hanson Harrison Esquire chief Judge<lb/>
+Alexander Contee Hanson and Robert Goldsborough Junior Esquires Judges<lb/>
+David Steward Gent. Sheriff<lb/>
+Thos B Hodgkin Cl</p>
+
+<p>Among other Proceedings was the following to wit:</p>
+
+<p>JH. Mary Butler<lb/>
+a<lb/>
+PP. Adam Craig</p>
+
+<p>Petition</p>
+
+<p>To the Honourable the General Court of the State of Maryland.</p>
+
+<p>The humble petition of Mary Butler sheweth that your Petitioner is descended from a free white woman and is entitled to Liberty; That Adam Craig of Prince Georges County holds your petitioner in Slavery and will not suffer her to go free. Yours Petitioner therefore prays the honourable Court to take her case into Consideration and grant her such Relief as to your Honours shall seem meet and that the said Adam Craig may be summoned to be and appear before your honourable Court to answer the above Complaint. your Petitioner also prays that Subpoenas may issue for the following witnesses returnable next Court, to wit; William McPherson, William Bowling, Thomas Bowling, Benjamin Jameston, Jane Proctor and Elizabeth Poesy all of Charles County, and your Petitioner as in Duty bound will pray &amp; so forth</p>
+
+<p>J. Toy Chase pro petitioner</p>
+
+<p>Which being read and heard and mature deliberation thereupon had it was ruled and Ordered by the Court that Summons issue agreeable to the prayer of the said Petition against Adam Craig of Prince Georges County for his Appearances at next <fw type="catch">(Court)</fw>
+
+<pb n="oscys.mdcase.0014.065.002"/>
+
+Court, to wit: the second Tuesday of May next to answer the Complaint of the said Petitioner; which issued accordingly and was by the Sheriff of the County aforesaid, to wit; John Beall Esquire to whom the same writ was directed returned Sumd J Beall Sheriff</p>
+
+<p>And now here at this day to wit the 11th day of May Anno Domini 1784 comes into Court here the said Adam Craig in his proper person and defends the force and injury when and so forth and prays leave to imparle hereunto until next Court and he hath it and the same day is given to the plaintiff also.</p>
+
+<p>At which said next Court to wit the 12th day of October Anno Domini 1784 come again the said Parties Plaintiff and Defendant <del>by their attorneys</del> aforesaid and the said Defendant prays leave to imparle hereunto until next Court and be hath it and the same day is given to the Plaintiff also.</p>
+
+<p>At which said next Court to wit the 10th day of May Anno Domini 1785 come again the said Parties Plaintiff and Defendant <del>by their attornies</del> And Whereupon this cause standing ready for Trial for special reasons to the Court here shewn and by consent of Parties the same is Continued until next Court.</p>
+
+<p>At which said next Court to wit the 11th day of October Anno Domini 1785 come again as well the said Mary Butler by her said Attorney as the said Adam Craig in his proper person. Whereupon for special reasons to the Court here shewn and by consent of Parties the same is further continued until next Court.</p>
+
+<p>At which said next Court to wit the 9th day of the same month Anno Domini 1786 come again as well the said Mary Butler by her said attorney as the said Adam Craig in his proper reason. Whereupon for special reasons to the Court here shewn and by consent of Parties the cause is further continued until next Court</p>
+
+<p>At which said next Court to wit the 10th day of October Anno Domini 1786 come again as well the said Mary Butler by her said Attorney as the said Adam Craig in his proper person. Whereupon for Special reasons to the Court here shewn and by Consent of Parties the same is further continued until next Court.</p>
+
+<p>At which said next Court to wit the 8th day of May Anno Domini 1787 come again as well the said Mary Butler by her said attorney <fw type="catch">(as)</fw>
+
+<pb n="oscys.mdcase.0014.065.003"/>
+
+as the said Adam Craig in his proper person. Whereupon for Special reasons to the Court here shewn and by consent of Parties the same is continued until next Court.</p>
+
+<p>At which said next Court to wit the 9th day of October Anno Domini 1787 come again as well the said Mary Butler by her the said Attorney as the said Adam Craig in his proper person</p>
+
+<p>Whereupon all and singular the premises aforesaid and the allegations and evidence as well on the part and behalf of the said Mary Butler as the said Adam Craig, being by the Court here seen heard and fully understood and mature deliberation thereupon had. It is considered by the Judges here that the said Mary Butler of and from any further servitude to the said Adam Craig be hence discharged and freed. And it is also considered that the said Mary Butler recover against the said Adam Craig the sum of &#160; &#160; &#160; &#160; &#160; pounds of Tobacco by the Court here unto her on her Assent adjudged for her costs and charges by her about her suit in this behalf laid out and expended by Occasion of the premisses</p>
+
+<p>Thereupon, The said Adam Craig prays an Appeal from the Judgment aforesaid so as aforesaid rendered to the States High Court of Appeals which is accordingly granted and the Record thereof is hereby Transmitted accordingly</p>
+
+<p>Test Thos B Hodgkin Cl</p>
+
+<p>The following Depositions were taken and read in evidence on the Trial of the above cause</p>
+
+<p>The Deposition of Ann Hodskin of Montgomery County aged forty two years or there about being first sworn on the Holy Evangels of Almighty God deposeth and saith that her former Husband Leonard Walkin of Saint Mary's County agreed with Richard Boarman for the Purchase of the <sic>Petioner</sic> William Lazarus Butler and his Sister Mary Butler same time in the year seventeen hundred and sixty eight <fw type="catch">(and)</fw>
+
+<pb n="oscys.mdcase.0014.065.004"/>
+
+and afterwards gave up the said Petitioner to the said Richard Boarman and sold the said Mary to James Kerrick of Charles County. This Deponent further saith that while she lived in Saint Marys she hath frequently heard it said by the neighbours and always understood that the said Petitioner and his Sister Mary were the children of William Butler and Mary Butler, who formerly petitioned for their Liberty and this Deponent also saith she lived within the Distance of four miles from the said Richard Boarman and further saith not</p>
+
+<p>Sworn to in open Court 27th May 1786</p>
+
+<p>Test, Thos B Hodgkin Cl</p>
+
+<p>The Deposition of Jno Hooper Broom of Saint Mary's County aged fifty three years or thereabout being first sworn on the Holy Evangels of Almighty God deposeth and saith that he always understood that the <sic>Petioner</sic> William Lazarus Butler and Nan Butler were the Children of William and Mary, who petitioned against Richard Boarman for their Liberty &amp; that he has known the petitioner upwards of twenty five years, that this Deponent had a Quarter within half a mile of Richard Boarmans That this Deponant thinks the Petitioner and the said Nan resemble the said William and Mary as much as most Children do their Parents</p>
+
+<p>Sworn to in open Court 29th of May 1786</p>
+
+<p>The Deposition of Joseph Thompson of Saint Mary's County aged fifty one years or thereabout being first sworn on the Holy Evangels of almighty God deposeth and saith that he was Overseer for Richard Boarman upwards of twenty years ago or thereabout that he knew Will and Moll who petitioned against Richard Boarman for their Liberty as he has heard and he also knew the Petitioner William Lazarus and Nan who were always called the Children of Will and Moll. and further saith not.</p>
+
+<p>Sworn to in open Court 29 May 1786</p>
+
+<pb n="oscys.mdcase.0014.065.005"/>
+
+<p>Before the Rendition of the above Judgment the Defendant by Thomas Jenings his Attorney filed in Court here the following Bills of Exceptions to wit.</p>
+
+<p>Mary Butler<lb/>
+a<lb/>
+Adam Craig</p>
+
+<p>Petition for Freedom, October Term 1787</p>
+
+<p>The Counsel for the Petitioner produced and read in Evidence to the Court sundry Depositions taken in a former cause then depending between William and Mary Butler the Father and Mother of the present petitioners against Richard Boarman on a petition for Freedom, on a final Hearing of which Petition in the Court of Appeals the said William and Mary Butler were adjudged to be Slaves to the said Richard Boarman. The said Depositions were read by the present petitioners Counsel to prove that the present petitioner was a Descendant from a free white woman named Irish Nell, and therefore entitled to his Freedom. The Counsel for the Defendant <gap extent="one word" reason="strikethrough"/> offered to read in Evidence all the Depositions taken in the same former Cause which are as follow. Charles County Sst Septr 12th 1767.</p>
+
+<p>The Deposition of John Jordan Smith aged about eighty five years taken before me the Subscriber one of the Justices of the said County he been first sworn on the Holy Evangels Deposeth and saith that above sixty years ago he was well acquainted with Eleoner Butteler an Irish woman and negro Charles and that they lived together several years and that they had three Children which then lived with them one named John, one named Sarah and one named Catharine. And this Deponent further saith that he believes that the said John was then between <sic>ninteen</sic> and twenty years of age and Sarah about seventeen and Catharine about fifteen years of age and this Deponent further saith that the said Elioner Butteler use to come several times to his Fathers House to was for the family and further saith that the said Elioner and Charles lived on a Plantation of Majr Boarman's and that he saw them Several times at the Majrs and further this Dep saith not</p>
+
+<p>John Jordan Smith</p>
+
+<p>Allen Davis</p>
+
+<pb n="oscys.mdcase.0014.065.006"/>
+
+<p>I further Certifie that William Butteler was present when the above Deposition was taken</p>
+
+<p>Allen Davies</p>
+
+<p>The Deposition of Jane Howard aged Seventy years or thereabouts being sworn on the Holy Evangelists of Almighty God declares that when she this Dept was ten, eleven or twelve years of age she used frequently to be a Major Boarmans House (his wife being God Mother to this Dept and at that time there was in Major Boarmans possession two mulatto's as Slaves the one a young Man named Jack twenty years of age or therabouts the other a well grown young lusty wench named Kate both which Molattoes she this Deponent often heard Major Boarmans family say was the Children of negro Charles a Slave to the said Boarman and Nell Butler an Irish Woman and also several of the Neighbours say the same Likewise that they were married</p>
+
+<p>Jean Howard<lb/>
+her + mark</p>
+
+<p>St Marys County Sst</p>
+
+<p>I hereby Certify that the above Deposition was taken before me one of his Lordships Justices for the Coty afd</p>
+
+<p>21st Septr 1767. Jno Reeder Junr</p>
+
+<p>The Deposition of Thomas Beach aged seventy eight years being first duly sworn of the Holy Evangels of Almighty God Deposeth and saith that he knew Irish Nell that the first of his knowing her was at Mr Leonard Brookes and that she the said Irish Nell appeared to him at that time to be about forty years old that Nell had a Daughter <del>named</del> called Abigail that when he first knew her she was about nine or ten years old and lived at Leonard Brookes's and that he this Deponant was then about twenty or  twenty one years old. And that he has often heard that William Butler was the son of the said Abigail and that Irish Nell was a white Woman and that when he first knew Irish Nell he was about twenty or twenty one years old</p>
+
+<p>Sworn to in Open Court</p>
+
+<p>Thomas Beach<lb/>
+his x mark</p>
+
+<p>28th Oct 1767, Test R Ghiselin Clk</p>
+
+<fw type="catch">(William)</fw>
+
+<pb n="oscys.mdcase.0014.065.007"/>
+
+<p>William &amp; Mary Butler<lb/>
+agt<lb/>
+Richard Boarman</p>
+
+<p>In the Provincial Court May 27th 1767</p>
+
+<p>Ann Whitehorn Aged seventy six years the eleventh day of December next being first sworn on the Holy Evangels of Almighty God in Open Court Deposeth and saith that William Butler one of the petitioners is a son of Eleanor Butlers Daughter named Elizabeth commonly called Abigail which said Elizabeth this deponant saith was near her Age but something younger that they were Girls together and lived within two miles of each other and that she never knew or heard that the said Eleanor Butler was in a State of Slavery that she frequently used to come and See her Children and stay with them for a month and Longer at a time as other free people do that she never knew or heard that the said Eleanor Butler was married to a negro that the said William Butler is as She believes about forty four years old that the said Elizabeth Mother of the Petitioner has been dead about thirty years that she knew Eleanor Butler from the time that she this Deponent was seven years old or thereabouts to the time of the said Eleanors death and that she the said Deponant always lived within a mile or two of Elizabeth commonly called Abigail daughter of the said Irish Nell and that the said Eleanor was a midwife and lived Chiefly among the Boarmans in Charles County without being confined to any particular place that she knows of That Eleanor bore three or four Children after she this deponant knew her and at the time of her first knowing her was a child bearing Woman that Eleanor she Believes was about forty years old when she died, but does not know how long it is since her death, That one of the Children which the said Eleanor used to go and see was at Richard Boarmans that is now, but then Leonard Brookes in Saint Marys County and another at Richard Brookes in St Marys County That she heard but don't know from whom that Leonard Brookes wife was of the Family of the Sanders; who the wife of Richard Brookes was that he never <fw type="catch">(heard)</fw>
+
+<pb n="oscys.mdcase.0014.065.008"/>
+
+heard, may be she was a Sly, she thinks she has heard so, and further saith not</p>
+
+<p>Ann Whitehorn<lb/>
+her z mark</p>
+
+<p>William &amp; Mary Butler<lb/>
+agt<lb/>
+Richard Boarman</p>
+
+<p>In the Provincial Court 27th May 1767</p>
+
+<p>Samuel Abell Junr Aged fifty years next March being first sworn on the holy Evangels of Almighty God in Open Court Deposeth and saith that in April one thousand seven hundred and sixty four as well as he can remember he was at Annapolis Attending the Provincial Court with Mr Edwards and Lodged at one House and Mr Richard Boarman the Defendant came to their Lodgings and in Discourse about the matter now in Question he the said Boarman told him and Edwards that Lord Baltimore a good many years ago came into this Country to live and brought with him a woman named Butler whose Christian named he do not remember to wash and Iron and board with his Grand Father and that some time after they had been there the said Woman called Butler fell in Love with one of his Grand Fathers Negroes and wanted to Marry him and upon by Lord being informed that she wanted to marry the Negro My Lord sent for her in and Chid her and told her that if she married the Negro she would by that means enslave herself and her posterity upon which the Woman told him that she had rather Marry the Negro under them Circumstances than to marry his Lordship with his Country upon which he told her that she might go and marry him and be damed. Accordingly she went and was married to the Negro and of that marriage came these two negroes William and Mary Butlers the Petitioners upon which he this Deponant or Mr Edwards he dont remember which of them asked him if there were not a Good many of that family he said there was about one hundred and twenty of them but that the Negroes by these Court made near three hundred of them for that they had taken even <fw type="catch">(some)</fw>
+
+<pb n="oscys.mdcase.0014.065.009"/>
+
+some salt water Negroes into their Court and upon asking him how they came to be slaves as they came of white Woman he said he claimed them by a Law of this province whereby white Woman Marrying of Slaves should become Slaves to the House of their Husbands Masters and he took out of his pockett a paper which he said was a coppy of the Act and it appeared to be a coppy of an Act. And under that Act he claimed them and thinks as well as he can remember he said Mr Darnall copyed it for him Afterwards this Deponant and Mr Edwards were talking about the matter and that they would be summoned as Evidences. Upon which Mr Boarman said he only spoke to them as Friends and desired they would say nothing about the matter and after they the said Deponant and Edwards went home several people came to him and asked what the conversation was which passed between him and Boarman upon which he knew he never told any body and when he see Mr Edwards he asked him how he came to tell of it he said it was no Secret. Mr Boarman had told it to fifty people besides, and further saith not</p> 
+
+<p>Sworn to in Open Court</p>
+
+<p>Saml Abell Junr</p>
+
+<p>Test. R Ghiselin Clk</p>
+
+<p>Wm and Mary Butler<lb/>
+a<lb/>
+Richard Boarman</p>
+
+<p>In the Provincial Court 27th May 1767</p>
+
+<p>Nathaniel Suit Aged forty years the twenty second day of July next being first sworn on the Holy Evangels of Almighty God in open Court deposeth and saith that his Father Nathaniel Soot at the time of his death was in the eighty ninth year of his age and that he has been dead ten years last April and that about seventeen or eighteen years ago he told his Father that Ned Butler had sued for his Freedom and his Father said he was a Foolish Dog wou'd never get Free nor none of Irish Nells Children for she was married <fw type="catch">(to)</fw>
+
+<pb n="oscys.mdcase.0014.065.010"/>
+
+to a Negro Fellow of Major Boarmans named Charles and that Enslaved them all and said that he was there when they were married and was a small Boy and went there with his mother and thinks his Father said they wanted him to kiss the Bride or she wanted to kiss him or did kiss him and he runaway and further saith not</p>
+
+<p>Nathaniel Suit</p>
+
+<p>Sworn to in Open Court</p>
+
+<p>Test R Ghiselin Clk</p>
+
+<p>William &amp; Mary Butler<lb/>
+a<lb/>
+Richard Boarman</p>
+
+<p>In the Provincial Court 27 May 1767.</p>
+
+<p>William McPherson Aged sixty years the fifth Day of September next being first sworn on the Holy Evangels of Almighty God in open Court deposeth and saith that he knew Eleanor Butler commonly called Irish Nell about fifty years ago when Pomphrey John Sanders married Major William Boarmans widow and brought his wife home he saw Irish Nell and a Negro Charles at the said Sanders That he has seen Nell an Charles together and that Negro Charles called the said Nell his Old Woman and she called him her old man That he Never knew of the said Nell's being held as a Slave. That when Charles went to Sander's Quarter Nell went there also and acted as a Cook that Nell appeared to him to be an old woman and bore no Children after his knowledge of her That he knew a Daughter of her's called Kate that Kate was the Mother of Pegg that Pegg was the Mother of Moll one of the Petitioners that he first knew Kate about forty five years ago that she then had children and died about seven or eight years ago and thinks she must in his Judgment have been seventy years old if not more at the time of her death. That Eleanor Butler hath been dead about Thirty eight thirty nine or forty years ago that he knew two other Daughters of the said Eleanor called Moll and Nan that Nan was the youngest of <fw type="catch">(the)</fw>
+
+<pb n="oscys.mdcase.0014.065.011"/>
+
+the three and he believes Moll younger than Kate that John Saunders hired Negro Charles to Nacy Boarman that Eleanor Butler either came with him or followed him there and acted as a Free Woman and took in Spinning and Acted as a Midwife that Charles was afterwards hired to Saunders's Son and moved away from Nacy Boarmans but that Eleanor Butler Stayed at Nacy Boarmans till she died that the said Eleanor appear to him much Broken and an Old Woman when she died that when Eleanor first came into the County she lived with Major William Boarman as he has heard that the Children of Nell before spoken of in this deposition were held as Slaves That is Kate by John Baptist Boarman Pegg by Ignatius Boarman and Moll was born at Ignatius Boarmans and fell to a Son of the said Boarmans called Francis Boarman that he knew Ned Butler pretty near twenty seven or twenty eight years ago That he was then a Man Grown and appeared to him to be about twenty seven or twenty eight years old</p> 
+
+<p>Will McPherson</p>
+
+<p>Sworn to in Open Court</p>
+
+<p>Test. R Ghiselin Clk</p>
+
+<p>Richard Boarman<lb/>
+ads<lb/>
+Wm &amp; Mary Butler</p>
+
+<p>In the Provincial Court may 27th 1787</p>
+
+<p>Edward Edelen Aged fifty years or thereabouts being first sworn on the Holy Evangels of Almighty God in Open Court Deposeth and saith that he heard his Father Richard Edelen say a little before he died which was seven years next Fall that he was eighty nine years old or thereabouts and that he heard his Father say he went to Major Boarman one Morning and when he came there he said My Lord Baltimore was there and then lived there and he heard Lord Baltimore Ask for Eleanor Butler a Servant Woman of Major Boarmans when she came to him he said I understand you <fw type="catch">(are)</fw>
+
+<pb n="oscys.mdcase.0014.065.012"/>
+
+are going to be married to day to Negro Charles he said to her what a pitty so Likely a young Girl as you are should fling herself away so as to marry a Negro and he said not only that but you'l make slaves of your Children and their posterity and he heard his Father say he did not Stay to see them Married but he understood they were married that day and lived together afterwards as man and wife This Conversation with his Father happened about Twenty years ago that he says that his Sister married one of the Boarmans who had some of the Descendants of Nell Butler and her children as he has heard now claims them &amp; further saith not</p>
+
+<p>Edward Edelen</p>
+
+<p>Sworn to in open Court<lb/>
+Test. R Ghiselin Clk</p>
+
+<p>Richard Boarman<lb/>
+ads<lb/>
+Wm and Mary Butler</p>
+
+<p>In the Provincial Court May 27. 1767</p>
+
+<p>Benjamin Jameson Aged forty eight years last November being first Sworn on the Holy Evangels of Almighty Go in Open Court deposeth and saith That he has heard his Mother who is now dead say that She has heard old Madam Witham who is also dead say that she saw Irish Nell or Nell Butler he's not certain which Married to Negro Charles That the said Charles at that time belonged to Old Major Boarman further he has heard say she heard Old Mr Doynes who is also dead say that she was at Major Boarman when they were married and thinks she see them married and further has heard her say that she heard one Old Ann Short who is also dead say she was at Major Boarmans when they were married and thinks said she seen them married and also heard old Mrs Ruthorn who is also dead say that she was at Major Boarmans when the same Nell and Charles as she understood was married but that she did not see them married <del>and she heard Old Mrs Ruthorn who is also dead say</del> <fw type="catch">(that)</fw>
+
+<pb n="oscys.mdcase.0014.065.013"/>
+
+<del>that she was at Major Boarmans when the same Nell and Charles as she understood was married but that she did not see them married</del> that she heard several people wish them much Joy and that she behaved as a bride and that he has heard his mother say that she heard many people say that my Lord was at Major Boarmans at the time when they were married and Cautioned this Nell Butler against it that before they were married if she married Negro Charles she would Enslave herself and all her posterity. My Lord Asked her how she would Like to go to Bed to a negro she answered him that she rather go to Bed to Charles than his Lordship. That he heard Mr Yates who was a Magistrate of Charles County and now also dead say That they were married under a Law that made them slaves; That Mr Yates at the time of his death was about fifty or sixty years old as he Apprehends That Mr Yates was not a Native of this province as he believes and was a Man when he first saw him he says he knew Ned Butler when a Man grown that he appeard to him to be above twenty or near thirty or more about seventeen or eighteen years ago but that he is unable to form any Judgment of what age he was and further saith not</p>
+
+<p>Sworn to in Open Court</p>
+
+<p>Benja Jameson</p>
+
+<p>Test. R Ghiselin Clk</p>
+
+<p>Richard Boarman<lb/>
+ads<lb/>
+Wm and Mary Butler</p>
+
+<p>In the Provincial Court 27 May 1767</p>
+
+<p>Thomas Bowling Aged sixty three years last March being first sworn on the Holy Evangels of Almighty God Deposeth and saith That in some discourse with his mother who is now dead I heard her say that in some Discourse with Irish Nell about her Marriage with a Negro. Irish Nell told her the day she expected to be married she was early up intending to clean the House out and a Gentleman wether it was Lord Baltimore or any other person he cant remember. asked her if she was the Girl that was to <fw type="catch">(be)</fw>
+
+<pb n="oscys.mdcase.0014.065.014"/>
+
+be married that day to the Negro she said Yes he then chid her and told her she would put a mark by that upon her children and bring them into slavery that if she would marry a white man her children might be of <gap extent="one word" reason="illegible"/> in the world otherwise they would be in Slavery upon which she fell a crying and said it was to her choise she would rather have Charles than have your Lordship or his Lordship he cant tell which upon which he said Marry him if you will and so were married and this conversation between him and his Mother happened about thirty years ago that he knew Kate a Daughter of Irish Nell who had a Daughter named Pegg who had several Children that he understood Jack was the Eldest Child of Irish Nell That he knew Jack about fifty four or fifty five years ago and then he appeared to be one or two and twenty years of age that several young people were with him in the yard who he knew to be about one or two and twenty and that he appeared to be of their age he himself at that time being six or seven years old. That he always understood the Defendants of the said Irish Nell were held in slavery during his remembrance and that several of them who he knew were held as slaves That he knew Leonard Brooke who he always understood married Major Boarmans Daughter and Richard Brooke and his wife Clear which Clear was the Daughter of Major Boarman. That he this Deponent from his Infancy lived in the neibourhood of Boarmans Family in Charles County until he was, forty years old and then removed into Prince Georges County. That he was nine or ten years old his Mother sent him for corn and then he saw Ned Butler at his Master Joseph Piles his House and that the said Ned Butler was a size Bigger than himself and that he Judged him to be a Year or two older than himself. That he has heard that one Hubbert was a Roman Priest and lived in the Neibourhood near Major Boarmans <fw type="catch">(That)</fw>
+
+<pb n="oscys.mdcase.0014.065.015"/>
+
+that it was before his time and that he never saw him as he knows of that one Haddack succeeded him and that he knew him very well and that Mr Hubbert died an old man as he has heard that he does not know wether Nell was a Slave or not for when he knew her she was old and past her Labour</p>
+
+<p>Thomas Bowling</p>
+
+<p>Sworn to in Open Court</p>
+
+<p>Test. R Ghiselin Cl</p>
+
+<p>Richard Boarman<lb/>
+ads<lb/>
+Wm and Mary Butler</p>
+
+<p>In the Provincial Court 27th May 1767</p>
+
+<p>William Simson Aged sixty nine years being first sworn on the Holy Evangels of Almighty God in Open Court deposeth and saith That as for Irish Nell and her Husband ever since he knew any body he knew them Likewise he knew Kate who came from them and he knew the Grand Son Ned who went for Kates son. And he the said Ned and himself were Pretty near of an Age and were Children and Played together his Master put him out to Work and his Master got this Deponent to work with him he kept onto work for some time and then went away from this Deponant down to his Master called Billy Neale who lived at <unclear reason="illegible">Rob</unclear> that he has heard his Father say he was at the wedding of these two Old People called Nell Butler and Charles and saw them married and heard him tell Captn <unclear reason="illegible">Readhead</unclear> he was at the Wedding and a fine wedding <del>it was</del> it was the Captn told his Father she was a foolish Woman for Marrying the Negro for that it would make herself and her Children Slaves for ever after. And as for the two Couple he used to work abroad and doth not know wether they lived or died Slaves that the time he went to work abroad he was two or three and twenty that he remembered Nell Butler and Negro Charles and they passed as man and wife and called themselves so. And that Charles he believes was a Salt water Negro and always understood was a Slave of Major William Boarmans That his this Deponents Daughter Married Baker Brookes, <fw type="catch">(who)</fw>
+
+<pb n="oscys.mdcase.0014.065.016"/>
+
+who had one or two Mulatoes who he understood were of this Family and that Baker Brooke and his Wife were both dead without Children That Baker Brooke did not get these Mulatto's by his wife That he knew the People when he was two or three and twenty years old by that they did not come into his walks after he went away to Work being Asked how Old Nell was when he first knew her said it was a great while ago and that he dont know, not very old about thirty or Perhaps forty years old. That he has heard his Father talk of one Mr Hubbert being a Roman Priest and that he used to Preach at a Chappel Pretty nigh Major Boarmans and that this deponent dont remember ever to have seen him and further saith not.</p>
+
+<p>Wm Simpson</p>
+
+<p>Sworn to in Open Court</p>
+
+<p>Test. R Ghiselin Cl</p>
+
+<p>Richard Boarman<lb/>
+ads<lb/>
+William &amp; Mary Butler</p>
+
+<p>In the Provincial Court 27th May 1767</p>
+
+<p>Joseph Jameson Aged fifty two years next December being first sworn on the Holy Evangels of Almighty God in Open Court deposeth and saith That he knew Irish Nell very well that she lived at Mr Nacy Boarmans within a Mile of his Fathers that she had a Daughter living with her who died as a Slave of Mr Boarman and being asked how he knew she was a Slave says she worked among the other slaves and lived as they did she there died and Mr Boarman sent for a spade and he went and give it out of the Mill and went with them to the place where they put her in the Ground the old woman Nell was lamenting the Loss of her Daughter and said it was the greatest Loss she had met with since She was married some one there by standing asked her who married her and she answer one Mr Hubbert since that about thirty six or 37 years ago Mrs Doynes happened at his Fathers Major Boarmans Charles was there <fw type="catch">of</fw>
+
+<pb n="oscys.mdcase.0014.065.017"/>
+
+of an Errant sent and his Mother said to Mrs Doynes there was Major Boarmans Charles the Husband of Eleanor Butler who Mrs Doynes said she and Madam Witham saw maried and the morning before they were married My Lord Baltimore then was living at Major Boarmans was pleased to ask this Eleanor Butler wether she was going to be married to negro Charles that day or not her answer to him was she hoped she was that day to be married who said to her he was surprised she was going to marry a Negro which she was likely enough to marry some one of her own Colour her Answer was she had much rather be married to Negro Charles than his Lordship. he then said she did not consider what she was then about or going do for that she did not bring only slavery upon herself but all her Posterity. That he knew Negro Charles and that he was always reputed to be a Negro Slave of Major William Boarman. That the said Negro Charles and Irish Nell were always deemed as Man and wife and wife and did Acknowledge themselves as such. That he knew several Children of Nell Butlers named Kate Moll and Nan that Kate had a Child named Pegg who was the mother of Moll that he believes Kate at the time of her death was between sixty and seventy years old That all the Descendants of the said Nell that he knew lived and died slaves they working and living as such except the said Kate who had heard the Neighbourhood and one Spalding had purchased her Freedom and further saith not.</p>
+
+<p>Sworn to in Open Court</p>
+
+<p>Joseph Jameson</p>
+
+<p>Test R Ghiselin Cl</p>
+
+<p>William &amp; Mary Butler<lb/>
+a<lb/>
+Richard Boarman</p>
+
+<p>In the Provincial Court 27th May 1767</p>
+
+<p>Mary Crosen aged seventy four Years the fifteenth day of February next being first sworn on the Holy Evangels of Almighty God in Open Court deposeth and saith <fw type="catch">(that)</fw>
+
+<pb n="oscys.mdcase.0014.065.018"/>
+
+that she knew Eleanor Butler a White Woman commonly called Irish Nell that she was settled by Nacy Boarman then a Single man with her Children at a place where Gerrard Boarman now lives called Zachiah Swamp near the Old Bridges that she lived within two Miles of Irish Nell that she knew some of her Children one called Kate the other Moll that she knew Nell as Long as She can remember and that she supposes she was twelve or fourteen years old when she first took an Account of her Kate Nells Daughter has been dead between six and seven Years Kate had several Children two of them she knew Jack &amp; Jenny That Kate was upwards of fifty years old when she died that Kate and Moll when she first knew them were young women and that she thinks Kate was fourteen or <sic>ffifteen</sic> years old than herself but cannot be certain and that Kate was Older than Nan that she does not know that Nell was a Free Woman but appeared to her to do as she pleased that she was Hard Labouring body and made Good Crops and she believes Mrs Nacy Boarmans Family got them that she has heard that Kate had a Daughter Called Pegg to the best of her knowledge that she has heard that Nell had a Daughter called Abby and further saith not</p>
+
+<p>Mary Crosen<lb/>
+her N Mark</p>
+
+<p>Sworn to in Open Court<lb/>
+Test. R Ghiselin Cl</p>
+
+<p>Charles County Sct September 17th 1765 Mrs Elizabeth Warren Aged sixty five years being duly sworn deposeth and saith that she knew Negro Charles who was a Slave to Mr William Boarman sixty years ago as also a White woman named Nell which said slave and white Woman she understood from all her acquaintance of them <unclear reason="illegible">times</unclear> to be man and wife and never heard it disputed till some few years ago And this Deponent further saith that as far back as she can remember she saw a Negro Man <fw type="catch">(named)</fw>
+
+<pb n="oscys.mdcase.0014.065.019"/>
+
+named Jack at Major Wm Boarmans a person who went for the son of the aforesaid Charles and Nell that she always understood from the Neighbours he was a Slave to said Boarman that said Jack Run away from his said Master that Mr Boarmans son followed him to the Lower parts of Virginia and that said Jack bought his Freedom that he never returned as she knows of</p>
+
+<p>Elizabeth Warren<lb/>
+her x Mark</p>
+
+<p>Charles County Sst I hereby Certifie that the above Deposition was taken at the Instance of Mr George Boarman in the Presence of Negro Will Butler this 17th Septr 1765</p>
+
+<p>By Geo Dent</p>
+
+<p>September the 18th 1765</p>
+
+<p>Mr Samuel Love Senior Aged seventy nine or thereabouts being duly sworn on the Holy Evangelist of Almighty God deposeth and sayeth that his Mother and Grand Mother &amp; old Mr Richard Edlin and several other People about seventy years ago he has often heard them say that a negro Man slave called John Slave to Major William Boarman was married to Elioner Butler and he has often hearn it said they always went as man and wife and the deponent says he often heard Eleanor Butler call the said Negro John her husband and he saith he never heard the said Eleanor Butler had a base born child</p>
+
+<p>Samuel Love Senr<lb/>
+his S mark</p>
+
+<p>Chas County September the 18th 1765 I certify that the above deposition was taken before me</p>
+
+<p>John Winter</p>
+
+<p>Saint Marys County The deposition of John Branson aged eight two years some time next Month being first sworn on the Holy Evangelist declares that sixty two years ago he this deponent worked at William Boarmans in Charles County at which time a Mulattoe Man called Jack <fw type="catch">(was)</fw>
+
+<pb n="oscys.mdcase.0014.065.020"/>
+
+was put to work with him which he was informed was a son of a white woman called Irish Nell and at that time he declares that the said Jack was about twenty four or five years old and that he understood the said Jack was a Slave and that it was occasioned by his mother intermarrying with a Slave belonging to the aforesaid William Boarman and farther this deponent saith not. Taken before us the Subscribers two of his Lordships Justices of the County aforesaid this 18th day of September Anno Domini 1765</p>
+
+<p>Zach Bond<lb/>
+Tho Bond</p>
+
+<p>True Copies <gap extent="one symbol" reason="illegible"/><lb/>
+R Ghiselin Cl Prov Court</p>
+
+<p>To prove that the said Irish Nell was married to a Negro Slave during the existence of the Act passed in 1663/4. entitled An Act concerning Negroes and other Slaves, and to prove that after the said Marriage the said Irish Nell was held as a Slave, and that all the Issue and Descendants from the said Marriage have been Constantly held and Considered as Slaves, and that the Present Petitioner one of the Descendants aforesaid, has been always held and considered as a Slave by the Defendant. To which Evidence so offered by the Defendant the Present Petitioners Counsel Objected; alleging that a Record of the Conviction of the said Irish Nell for having intermaried with the said Slave should be produced, and that without such Conviction neither the said Irish Nell nor any of her Descendants could legally be slaves, whereupon the Court gave the following Opinion. That without a Conviction in a Court of Record of Irish Nell's having intermarried with a Slave, she could not become a Slave, nor could her Issue become Slaves by Virtue of such Intermarriges. That no Presentation of such Conviction arises from the Petitioner and her Ancestors having been always held in Slavery.</p>
+
+<p>That the Court being satisfied that the Records of Saint Mary's County <fw type="catch">(have)</fw>
+
+<pb n="oscys.mdcase.0014.065.021"/>
+
+have been lost since the period at which such Conviction is supposed to have to have taken place; it is not necescary to shew the Record of the said Conviction, but that Hearsay Evidence being the best which can reasonably be expected in this Case, may be admitted to prove that such Conviction did take place. That no Length of Possession of the said Irish Nell and her Descendants from the said Marriage as Slaves, nor any of the Facts related in any of the Depositions taken in the said former Cause are sufficient to satisfy the Court of such Conviction. To which Opinion the Defendants Counsel prayed Leave to except, and Appeal therefrom to the Court of Appeals, which is granted <unclear reason="illegible">&amp;ta</unclear></p>
+
+<p>A C Hanson (Seal)<lb/>
+R Goldsborough junr (Seal)</p>
+
+<p>Mary Butler<lb/>
+agt<lb/>
+Adam Craig</p>
+
+<p>Petition for Freedom October Term 1787</p>
+
+<p>The Defendant by his Counsel produced and read in Evidence to the Court the following Record Proceedings and Judgment in the Court of Appeals, on a Petition filed by William and Mary Butler the Father and Mother of the present Petitioner.</p>
+
+<p>At a Court held for hearing Appeals and writs of Error in the City of Annapolis on the third Tuesday in October being the sixteenth day of the same month Anno Domini seventeen hundred and seventy, the following Record was transmitted from the Provincial Court</p>
+
+<p>Maryland: to wit, At a Provincial Court begun and held at the City of Annapolis in Ann Arundel County in And for the Province <fw type="catch">(aforesaid)</fw>
+
+<pb n="oscys.mdcase.0014.065.022"/>
+
+aforesaid on the second Tuesday of September being the eleventh day of the same Month and in the Twentieth year of the Dominion of the Right Honorable Frederick Absolute Lord and Proprietary of the Province aforesaid Anno Domini 1770.</p>
+
+<p>Present<lb/>
+The Honble William Hayward Esq Chief Justice<lb/>
+John Hepburne
+John Leeds, John Beale Bordley
+Daniel of Saint Thomas Jenifer and Philip Thomas Lee Esquires Justices<lb/>
+John Clapham Esqr Sheriff. Reverdy Ghiselin Cl.</p>
+
+<p>In the Record and Proceedings of the same Court amongst others is as follows, to wit;</p>
+
+<p>JTC. William Butler &amp; Mary Butler<lb/>
+a<lb/>
+JP. Richard Boarman</p>
+
+<p>Petition</p>
+
+<p>To the Honourable the Justices of the Provincial Court. The Humble Petition of William Butler and Mary Butler Sheweth that they are Justly entitled to Freedom but are detained in a State of Perpetual Slavery by Richard Boarman of St Marys County Planter</p>
+
+<p>Your Petitioners therefore desire your Honours to Consider their case and set them at Liberty and other wise relieve them in the Premisses. And as in duty Bound they will ever pray <unclear reason="illegible">&amp;ta</unclear></p>
+
+<p>J Hall for Petrs</p>
+
+<p>Which being read and heard and mature deliberation thereupon had it was ruled and Ordered by the Court that Summons issue against the said Richard Boarman for his Appearance here next Court, which issued accordingly and was by the Sheriff of Saint Marys County to whom <fw type="catch">(the)</fw>
+
+<pb n="oscys.mdcase.0014.065.023"/>
+
+the same writ was directed returned. At which said next Court to wit the second Tuesday of April Anno Domini 1764 comes again as well the said William Butler and Mary Butler by John Hall their Attorney as the said Richard Boarman by Thomas Johnson Junior his Attorney Thereupon the said cause is continued till next Court. At which said next Court to wit the second Tuesday of September Anno Domini 1764 comes again the Parties aforesaid by their Attorneys aforesaid Thereupon the said cause is further continued untill next Court. At which said next Court to wit the second Tuesday of April Anno Domini 1765 comes again the Parties aforesaid by their Attorneys aforesaid Thereupon it is Ordered and ruled by the said Court that the Depositions of John Branson, Samuel Love Senior, John Jordan Smith and Elizabeth Warren be Admitted as Evidence on behalf of the Defendant on giving four days notice of the time and place of Examination to the Complainants and thereupon the said cause is further continued until next Court. At Which said next Court to wit the second Tuesday of September Anno Domini 1765 comes again the said Parties by their Attorneys aforesaid Thereupon the said Cause is further continued until next Court. At which said next Court to wit the second Tuesday of April Anno Domini 1766 comes again the Parties aforesaid by their Attorneys aforesaid thereupon the said Cause is further continued until next Court. At which said next Court to wit the third Tuesday of October Anno Domini 1766 comes again the said Parties by their Attorneys aforesaid Thereupon it is Ordered and ruled by the said Court that the Depositions of all Witnesses on both sides to be taken before a Magistrate be Admitted as Evidence on the Argument of this cause in case the evidences are not able to attend the Adverse party <fw type="catch">(giving)</fw>
+
+<pb n="oscys.mdcase.0014.065.024"/>
+
+giving two Days notice of the time and place of taking each Deposition and there upon the said Cause is further Continued untill next Court.</p>
+
+<p>At which said next Court to wit the third Tuesday of May Anno Domini 1767 comes again the Parties aforesaid by their Attorneys aforesaid Thereupon the said Cause is further continued untill next Court. At which said next Court to wit the third Tuesday of October Anno Domini 1767 comes again the parties afsd by their Attorneys aforesaid Thereupon the said came is further continued untill next Court.</p>
+
+<p>At which said next Court to wit the third Tuesday of May Anno Domini 1768 comes again the parties aforesaid by their Attorneys aforesaid Thereupon the said cause is further continued untill next Court.</p>
+
+<p>At which said next Court to wit the third Tuesday of October Anno Domini 1768 comes again the Parties aforesaid by their Attorneys aforesaid Thereupon the said Cause is further continued until next Court</p>
+
+<p>At which said next Court to wit the third Tuesday of May Anno Domini 1769 comes again the Parties aforesaid by their Attorneys aforesaid Thereupon the said Cause is further continued untill next Court.</p>
+
+<p>At which said next Court to wit the third Tuesday of October Anno Domini 1769 comes again the Parties aforesaid by their Attorneys aforesaid Thereupon the said cause is further continued untill next Court. At which said next Court to wit the second Tuesday of April Anno Domini 1770 comes again the Parties aforesaid by their Attorneys aforesaid Thereupon the said cause is further continued untill next Court.</p>
+
+<p>At which said next Court to wit the second Tuesday of September Anno Domini 1770 comes again as well the said William Butler and Mary Butler by their Attorney aforesaid as the said Richard Boarman by his Attorney aforesaid Whereupon all and singular the Premisses aforesaid <fw type="catch">(and)</fw>
+
+<pb n="oscys.mdcase.0014.065.025"/>
+
+and the allegations and Evidence as well on the part of the said William Butler and Mary Butler as the said Richard Boarman being by the Court here seen heard fully understood and Mature Deliberation thereupon had It is considered by the Justices here that the said William Butler and Mary Butler of and from any further servitude to the said Richard Boarman be hence discharged and Freed And it is also considered that the said William Butler and Mary Butler recover against the said Richard Boarman the sum of &#160; &#160; &#160; &#160; &#160; pounds of Tobacco by the Court here unto them on their Assent Adjudged for their costs and Charges by them laid out and expended by Occasion of the Premisses <unclear reason="illegible">&amp;ta</unclear> And thereupon the said Richard Boarman by his Attorney aforesaid prays an Appeal from the Judgment aforesaid so as aforesaid rendered to his Lordships High Court of Appeals and the same is granted. it is therefore Ordered that the Record and Proceedings in the Premisses aforesaid be transmitted to the High Court of Appeals accordingly</p>
+
+<p>Test. R Ghiselin Clk</p>
+
+<p>Copies of the Depositions of the Witnesses taken and Admitted as evidence on the hearing of the aforegoing cause is hereto annexed</p>
+
+<p>In Testimony that the aforegoing is a true copy of the Record and Proceedings in the Premises the seal of the Provincial Court is hereto affixed this 15th day of October 1770</p>
+
+<p>(seal) <gap extent="one symbol" reason="illegible"/> R Ghiselin Clk</p>
+
+<p><del>Stop here</del></p>
+
+<p>Charles County Sst September 12th 1767</p>
+
+<p>The Deposition of John Jordan Smith aged about eighty five years taken before me the Subscriber one of the Justices of the said County he been first Sworn on the Holy Evangels Deposeth and saith that about sixty <fw type="catch">(years)</fw>
+
+<pb n="oscys.mdcase.0014.065.026"/>
+
+years ago he was well acquainted with Elionor Butteler an Irish woman and Negro Charles and that they lived together several years and that they had three Children which then lived with them one named John one named Sarah and one named Catharine. And this Deponent further saith that he believes that the said John was then between nineteen and twenty years of age and Sarah about seventeen and Catharine about fifteen years of age and this Deponent further saith that the said Elioner Butteler used to come several times to his Fathers House to wash for the Family and further said that the said Elioner and Charles lived on a Plantation of Majr Boarmans and that he saw them several times at the Major and further this Deps saith not</p>
+
+<p>John Jordan Smith</p>
+
+<p>Allen Davis</p>
+
+<p>I further Certifie that William Buttler was present when the above Deposition was taken.</p>
+
+<p>Allen Davies</p>
+
+<p>The Deposition of Jane Howard aged seventy years or thereabouts being sworn on the Holy Evangelists of Almighty God declares that when she this dept was ten <del>or</del> eleven or twelve years of age she used frequently to be at Major Boarmans House (his wife being Godmother to this Dept and at that time there was in Major Boarmans Possession two Mulatoe's, as Slaves the one a young Man named Jack twenty year of age or thereabouts the other a well grown young lusty wench named Kate both which Mulatto's she this Deponent often heard Major Boarmans family say was the Children of Negro Charles a Slave to the said Boarman and Nell Butler an Irish Woman and also several of the Neighbours say the same. Likewise that they married.</p>
+
+<p>Jean Howard<lb/>
+her + mark</p>
+
+<p>St Marys County Sst I hereby Certify that the above Deposition was taken before me on of his Lordships Justices for the Coty afd 21st Septr 1767. Jno Reeder Junr</p>
+
+<fw type="catch">(The)</fw>
+
+<pb n="oscys.mdcase.0014.065.027"/>
+
+<p>The Deposition of Thomas Beach aged seventy eight years being first duly sworn of the Holy Evangels of Almighty God Deposeth and saith that he knew Irish Nell that the first of his knowing her was at Mr Leonard Brookes and that she the said Irish Nell appeared to him at that time to be about forty years old that Nell had a Daughter called Abigail that when he first knew her she was about nine or ten years old and Lived at Leonard Brookes's and that he this Deponent was then about twenty or twenty one years old. And that he has often heard that William Butler was the son of the said Abigail and that Irish Nell was a white Woman and that when he first knew Irish Nell he was about twenty or twenty one years old</p>
+
+<p>Thomas Beach<lb/>
+his x mark</p>
+
+<p>Sworn to in Open Court.<lb/>
+28th Octr 1767. Test. R Ghiselin Clk.</p>
+
+<p>William &amp; Mary Butler<lb/>
+agt<lb/>
+Richard Boarman</p>
+
+<p>In the Provincial Court May 27th 1767.</p>
+
+<p>Ann Whitehorn aged seventy six years the eleventh day of December next being first sworn on the Holy Evangels of Almighty God in Open Court Deposeth and and saith that William Butler one of the Petitioners is a son of Eleanor Butlers Daughter named Elizabeth commonly called Abigail which said Elizabeth this Deponent saith was near her age but something younger that they were Girls together and lived within two Miles of each other and that she never knew or heard that the said Eleanor Butler was in a State of Slavery that she used frequently to come and see her Children and Stay with them for a Month and Longer at a time as other free people do that she never knew or heard that the said Eleanor Butler was married to a Negro that the said William Butler is as she believes about forty four years old that the said Elizabeth Mother of the Petitioner has been dead about thirty years that she knew Eleanor Butler from the time she this Deponant was seven <fw type="catch">(years)</fw>
+
+<pb n="oscys.mdcase.0014.065.028"/>
+
+years old or thereabouts to the time of the said Eleanors Death and that she the said Deponant always lived within a Mile or two of Elizabeth commonly called Abigail Daughter of the said Irish Nell and that the said Eleanor was a Midwife and lived chiefly among the Boarmans in Charles County without being confined to any Particular Place that she knows of that Eleanor bore three or four Children after she this Deponent knew her and at the time of her first knowing her was a Child bearing woman That Eleanor she believes was about forty years old when she died but does not know how long it since her Death, that one of the Children which the said Eleanor used to go and see was at Richard Boarmans that is now, but then Leonard Brooke's in Saint Marys County and another at Richard Brookes in Saint Marys County. That she heard but dont know from whom that Leonard Brooke's wife was of the Family of the Saunders; who the wife of Richard Brooke's was that she never heard may be she was a Sly she thinks she has heard so and further saith not</p>
+
+<p>Ann Whitehorn<lb/>
+her z Mark</p>
+
+<p>William &amp; Mary Butler<lb/>
+agt<lb/>
+Richard Boarman</p>
+
+<p>In the Provincial Court 27th May 1767</p>
+
+<p>Samuel Abell Junr Aged fifty years next March being first sworn on the Holy Evangels of Almighty God in Open Court Deposeth and saith that in April one thousand seven hundred and sixty four as well as he can remember he was at Annapolis attending the Provincial Court with Mr Edwards and Lodged at one House and Mr Richard Boarman the Defendant came to their Lodgings and in discourse about the matter now in Question he the said Boarman told him and Edwards that Lord Baltimore a good many years ago came into this Country to live and brought with him a woman named Butler whose Christian named he do not remember to was and Iron and boarded with his Grand father and that some time after they had been there the said Woman called Butler fell in Love with one of his Grand fathers negroes and wanted to Marry him and upon my <fw type="catch">(Lord)</fw>
+
+<pb n="oscys.mdcase.0014.065.029"/>
+
+Lord being informed that she wanted to marry the Negro My Lord sent for her in and chid her and told her that if she married the Negro she wou'd by that means enslave herself and her Posterity upon which the woman told him that she had rather marry the negro under them Circumstance than to marry his Lordship with his Country upon which he told her that she might go and marry him and be Damned. Accordingly she went and was married to the Negro and of that Marriage came these two Negroes William and Mary Butler the Petitioners upon which he this Deponant or Mr Edwards he dont remember which of them asked him if there were not a good many of that Family he said there was about one hundred and twenty of them but the Negroes by their Court made near three hundred of them for that they had taken even some Salt Water Negroes into their Court and upon asking him how they came to be Slaves as they came of a white Woman he said he claimed them by a Law of this Province whereby white Women Marrying of Slaves should become Slaves to the House of their Husbands Master and he took out of his Pockett a paper which he said was a coppy of the Act And it appeared to be a coppy of an Act and under that Act he claimed them and thinks as well as he can remember he said Mr Darnall coppied it for him Afterwards this Deponant and Mr Edwards were talking about the matter and that they would be summoned as Evidences upon which Mr Boarman said he only spoke to them as Friends and desired they would say nothing about the matter and after they the said Deponent and Mr Edwards went House several People come to him and asked what the Conversation was which passed between him and Boarman upon which he knew he never told any Body and when he see Mr Edwards he asked him how he came to tell of it he said it was no secret Mr Boarman had told it to fifty people besides and further saith not </p>
+
+<p>Saml Abell Junr</p>
+
+<p>Sworn to in Open Court Test. R Ghiselin Cl.</p>
+
+<fw type="catch">(Wm)</fw>
+
+<pb n="oscys.mdcase.0014.065.030"/>
+
+<p>Wm and Mary Butler<lb/>
+a<lb/>
+Richard Boarman</p>
+
+<p>In the Provincial Court 27th May 1767.</p>
+
+<p>Nathaniel Suit Aged forty years the twenty second day of July next being first sworn on the Holy Evangels of Almighty God in open Court deposeth and saith that his Father Nathaniel Soot at the time of his death was in the eighty ninth year of his age and that he has been dead ten years last April and that about seventeen or eighteen years ago he told his Father that Ned Butler had sued for his Freedom and his Father said he was a Foolish Dog wou'd never get Free nor none of Irish Nells Children for she was married to a Negro Fellow of Major Boarmans named Charles and that enslaved them all and said he was there when they were married and was a Small Boy and went there with his Mother and thinks his Father said they wanted him to kiss the Bride or she wanted to kiss him or did kiss him and he runaway and further saith not</p>
+
+<p>Nathaniel Suit</p>
+
+<p>Sworn to in Open Court. Test. R Ghiselin Clk</p>
+
+<p>William &amp; Mary Butler<lb/>
+a<lb/>
+Richard Boarman</p>
+
+<p>In the Provincial Court 27 May 1767.</p>
+
+<p>William McPherson aged sixty years the fifth day of September next being first sworn on the Holy Evangels of Almighty God in Open Court deposeth and saith that he knew Eleanor Butler commonly called Irish Nell about fifty years ago when Phomphrey John Sanders married Major William Boarmans Widow and brought his wife home he saw Irish Nell and a Negro Charles at the said Sanders's That he has seen Nell and Charles together and that Negro Charles called the said Nell his Old Woman and she called him her old Man That he never knew of the said Nell's being held as a Slave That when Charles went to Saunders Quarter Nell went there also and acted as a Cooke that Nell appeared to him to be an Old woman and bore no Children after his knowledge of her  that he knew a Daughter of her's called Kate that Kate was the Mother of Pegg that Pegg was <fw type="catch">(the)</fw>
+
+<pb n="oscys.mdcase.0014.065.031"/>
+
+the Mother of Moll one of the Petitioners that he first knew Kate about forty five years ago that she then had Children and died about seven or eight years ago, and thinks she must in his Judgment have been seventy years old if not more at the time of her death That Eleanor Butler hath been dead about thirty eight, thirty nine or forty years ago that he knew two other Daughters of the said Eleanor called Moll and Nan that Nan was the youngest of the three and he believes Moll younger than Kate that John Saunders hired Negro Charles to Nacy Boarman that Eleanor Butler either came with him or followed him there and acted as a Free woman and took in Spinning and Acted as as Midwife that Charles was afterwards hired to Saunders's Son and moved away from Nacy Boarmans but that Eleanor Butler stayed at Nacy Boarmans till she died that the said Eleanor appeared to him much Broken and Old woman when she died that when Eleanor first came into the Country she lived with Major William Boarman as he has heard that the Children of Nell before spoken of in this Deposition were held as Slaves that is Kate by John Baptist Boarman, Pegg by Ignatius Boarman and Moll was born at Ignatius Boarmans and fell to a Son of the said Boarmans called Francis Boarman that he knew Ned Butler Pretty near twenty seven or twenty eight years ago, that he was then a man grown and appeared to him to be about twenty seven or twenty eight years old</p>
+
+<p>Will. McPherson</p>
+
+<p>Sworn to in Open Court.</p>
+
+<p>Test. R Ghiselin Clk</p>
+
+<p>Richard Boarman<lb/>
+ads<lb/>
+Wm &amp; Mary Butler</p>
+
+<p>In the Provincial Court May 27th 1767.</p>
+
+<p>Edward Edelen aged fifty years or thereabouts being first Sworn on the Holy Evangels of Almighty God in Open Court Deposeth and saith that he heard his Father Richard <fw type="catch">(Edelen)</fw>
+
+<pb n="oscys.mdcase.0014.065.032"/>
+
+Edelen say a Little before he died which was seven years next Fall that he was eighty nine years old or thereabouts and that he heard his Father say that he went to Major Boarmans one Morning and when he came there he said My Lord Baltimore was there and then lived there and he heard Lord Baltimore ask for Eleanor Butler a Servant woman of Major Boarmans when she came to him he said I understand you are going to be married to Day to Negro Charles he said to her what a Pitty so likely a young Girl as you are should fling herself away so as to Marry a Negro and he said not only that but you'l make Slaves of your Children and their Posterity and he heard his Father say he did not Stay to see them Married but he understood they were Married that day and lived together afterwards as Man and wife This Conversation with his  Father happened about Twenty years ago that he says that his Sister Married one of the Boarmans who had some of the Descendants of Nell Butlers and her Children as he has heard now claims them &amp; further saith not</p>
+
+<p>Edward Edelen</p>
+
+<p>Sworn to in Open Court.</p>
+
+<p>Test. R Ghhiselin Clk</p>
+
+<p>Richard Boarman<lb/>
+ads<lb/>
+Wm and Mary Butler</p>
+
+<p>In the Provincial Court May 27. 1767</p>
+
+<p>Benjamin Jameson aged forty eight years last November being first Sworn on the Holy Evangels of Almighty God in Open Court deposeth and saith that he has heard his Mother who is now dead say that she has heard old Madam Witham who is also dead say that she saw Irish Nell or Nell Butler he's not certain which Married to Negro Charles that the said Charles at that time belonged to Old Major Boarman further he has heard her say She heard Old Mrs Doynes who is also Dead say that she was at Major Boarmans when they were married and thinks she see them married and further has heard her say that she heard one Old Ann Short who is also dead say she was at Major Boarmans when they were <fw type="catch">(married)</fw>
+
+<pb n="oscys.mdcase.0014.065.033"/>
+
+married and thinks said she seen them married and also heard Old Mrs Ruthorn who is also Dead say that she was at Major Boarmans when the same Nell and Charles as She understood was Married but that she did not See them married that she heard several People wish them much Joy and that she behaved as a Bride and that he has heard his Mother say that She heard many People say that my Lord was at Major Boarmans at the time when they were married and Cautioned this Nell Butler against it that before they were married that if she married Negro Charles she would enslave herself and all her Posterity. My Lord Asked her how she would like to go to bed with a Negro she Answered him that she rather go to Bed to Charles than his Lordship. That he heard Mr Yates who was a Magistrate of Charles County and now also dead say That they were Married under a Law that made them Slaves. That Mr Yates at the time of his death was about fifty or Sixty Years old as he Apprehends. That Mr Yates was not a Native of this Province as he believes and was a Man when he first saw him he says he knew Ned Butler when a nam grown that he appeared to him to be above twenty or near thirty or more about seventeen or eighteen years ago but that he is unable to form any Judgment of what Age he was and further saith not.</p>
+
+<p>Benja Jameson</p>
+
+<p>Sworn to in Open Court. Test. R Ghiselin Clk.</p>
+
+<p>Richard Boarman<lb/>
+ads<lb/>
+Wm and Mary Butler</p>
+
+<p>In the Provincial Court 27 May 1767.</p>
+
+<p>Thomas Bowling aged sixty three years last March being first sworn on the Holy Evangels of Almighty God deposeth and saith that in some Discourse with Mother who is now dead I heard her say that in some Discourse with Irish Nell about her Marriage with a Negro Irish Nell told her the day she expected to be married she was early up intending to Clear the House out and a Gentleman wether it was Lord Baltimore or any other person he cant <fw type="catch">(remember)</fw>
+
+<pb n="oscys.mdcase.0014.065.034"/>
+
+remember asked her if she was the Girl that was to be married that day to the Negro she said yes he then Chid her and told her she would put a mark by that upon her Children and bring them into Slavery that if she would marry a White Man her children might be of credit in the world otherwise they wou'd be in Slavery upon which she fell a Crying and said it was to her choice she wou'd rather have have Charles than have your Lordship or his Lordship he cant tell which upon which he said Marry him if you will and so were married and that this Conversation between him and his Mother happened about thirty years ago that he knew Kate a Daughter of Irish Nell who had a Daughter named Pegg who had several Children that he understood Jack was the Eldest Child of Irish Nell that he knew Jack about fifty four or five years ago and then he appeared to be one or two and twenty years of age that several young people were him in the yard who he knew to be about one or two and twenty and that he appeared to be of their Age he himself at that time being six or seven years Old That he always understood the Descendants of the said Irish Nell were held in Slavery during his remembrance and that Several of them who he knew were held as Slaves that he knew Leonard Brooke who he always understood married Major Boarmans Daughter and Richard Brooke and his wife Clear which Clear was the Daughter of Major Boarman. That he this Deponent from his Infancy Lived in the Neighbourhood of Boarmans Family in Charles County until he was forty Years Old and then removed into Prince Georges County. That he was nine or ten years old his mother sent him for corn and then he saw Ned Butler at his Master Joseph Piles his House and that the said Ned Butler was a size Bigger than himself and that he Judged him to be a year or two Older than himself. That he has heard that one Hubbert was a Roman Priest and lived in the Neigh- <fw type="catch">(-bourhood)</fw>
+
+<pb n="oscys.mdcase.0014.065.035"/>
+
+-bourhood near Major Boarmans that it was before his time and that he never saw him as he knows of that are Haddock succeeded him and that he knew him very well and that Mr Hubbert died an Old Man as he has heard That he does not know wether Nell was a Slave or not for when he knew her she was old and part of her Labour</p>
+
+<p>Thomas Bowling</p>
+
+<p>Sworn to in Open Court. Test. R Ghiselin Clk.</p>
+
+<p>Richard Boarman<lb/>
+ads<lb/>
+Wm and Mary Butler</p>
+
+<p>In the Provincial Court 27th May 1767.</p>
+
+<p>William Simpson Aged sixty nine years being first sworn on the Holy Evangels of Almighty God in Open Court Deposeth and saith, that as for Irish nell and her Husband ever since he knew any body he knew them Likewise he knew Kate who came from them and he knew the Grand son Ned who went for Kates Son and he the said Ned and himself were pretty near of an Age and were children and played together his Master put him out to work and his Master got this Deponent to work with him he kept on to work for some time and then went away from this Deponent down to his Master called Billy Neale who lived at Kob that he has heard his Father say he was at the wedding of these two old people called Ned Butler and Charles and saw them married and heard him tell Captn Redhead he was at the Wedding and a fine wedding it was the Captn told his Father She was a foolish woman for marrying the negro for that it would make herself and her Children Slaves forever after And as for the two Couple he used to work abroad and doth not know wether they lived or died Slaves that the time when he went to work abroad he was two or three and twenty that he remembers Nell Butler and Negro Charles and they passed as Man and wife and called themselves so and that Charles he believes was a Salt Water Negro and always understood was a Slave of Major William Boarmans that his this deponents Daughter married Baker Brooke's who had one or two Mulattoes <fw type="catch">(who)</fw>
+
+<pb n="oscys.mdcase.0014.065.036"/>
+
+who he understood were of this Family and that Baker Brooke and his wife were both dead without children. That Baker Brooke did not get these Mulatoes by his wife. that he knew the people when he was two or three and twenty years old by that they did not come into his walks after he went away to work being asked how old Nell was when he first knew her said it was a great while ago and that he dont know not very Old about Thirty or Perhaps forty years old. That he has heard his Father talk of one Mr Hubbert being a Roman Priest and that he used to preach at a Chappell pretty nigh Major Boarman at that this Deponant dont remember over to have seen him and further saith not.</p>
+
+<p>Sworn to in Open Court.</p>
+
+<p>Wm Simpson</p>
+
+<p>Test. R Ghiselin Cl</p>
+
+<p>Richard Boarman<lb/>
+ads<lb/>
+William &amp; Mary Butler</p>
+
+<p>In the Provincial Court 27th May 1767</p>
+
+<p>Joseph Jameson Aged fifty two years next December being first sworn on the Holy Evangels of Almighty God in Open Court deposeth and saith that he knew Irish Nell very well that she lived at Mr Nacy Boarmans within a mile of this Fathers that she had a Daughter living with her who died as a Slave of Mr Boarman and being asked how he knew she was a Slave says she worked among the other Slaves and lived as they did she there died and Mr Boarman sent for a Spade and he went and gave it out of the Mill and went with them to the place where they put her in the Ground the Old Woman Nell was Lamenting the Loss of her Daughter and said it was the greatest Loss She had met with since she was married some one there by Standing asked her who married her and she answered one Mr Hubbert since that about 36 or 37 years ago Mrs Doynes happened at his Father Major Boarmans Charles was there of an Errand sent and his Mother said to Mrs Doynes there was Major Boarmans Charles the Husband of Eleanor Butler who Mrs Doynes said she and Madam William saw married and the morning <fw type="catch">(before)</fw>
+
+<pb n="oscys.mdcase.0014.065.037"/>
+
+before they were married my Lord Baltimore then was living at Major Boarmans was pleased to ask this Eleanor Butler wether she was going to be married to Negro Charles that day or not her Answer to him was she hoped she was that day to be married who said to her he was surprised she was going to Marry a Negro which she was likely enough to marry some one of her own coulour her answer was she had much rather be married to Negro Charles than his Lordship he then said she did not consider what she was about or going to do for that she did not only bring Slavery upon herself but all her posterity. That he knew Negro Charles and that he was always reputed to be a Negro Slave of Major William Boarmans That the said Negro Charles and Irish Nell were always deemed as man and wife and did acknowledge themselves as such. That he knew several Children of Nell Butlers named Kate Moll and Nan that Kate had a Child named Pegg who was the Mother of Moll that he believes Kate at the time of her death was between sixty and seventy years old. That all the Descendants of the said Nell that he knew lived and died Slaves they working and Living as such except the said Kate who he had heard from the neighbourhood and one Spalding had purchased her Freedom and further saith not.</p>
+
+<p>Joseph Jameson</p>
+
+<p>Sworn to in Open Court. Test. R Ghiselin Cl</p>
+
+<pb n="oscys.mdcase.0014.065.038"/>
+
+<p>William &amp; Mary Butler<lb/>
+a<lb/>
+Richard Boarman</p>
+
+<p>In the Provincial Court 27th May 1767.</p>
+
+<p>Mary Crossen aged Seventy four years the fifteenth day of February next being first sworn on the Holy Evangels of Almighty God in Open Court deposeth and saith that she knew Eleanor Butler a White woman commonly called Irish nell that she was Settled by Nacy Boarman then a Single man with her Children at place when Gerrard Boarmans now lives called Zachaik Swamp near the old Bridges that She lived within two miles of Irish Nell that she knew some of her children one called Kate the other Moll that she knew <del>Kate</del> Nell as long as she can remember and that she supposes she was twelve or fourteen years old when she <fw type="catch">(first)</fw>
+
+<pb n="oscys.mdcase.0014.065.039"/>
+
+first took an Account of her Kate Nells Daughter has been Dead between six &amp; seven years Kate had several children Two of them she knew Jack &amp; Jenny that Kat was upwards of fifty years old when she died that Kate and Moll when she first knew them were young women and that she thinks Kate was ffourteen or ffifteen years older than herself but cannot be certain and that Kate was older than Nan that She does not know that Nell was a free woman but appeared to her to do as She pleased. That she was a Hard Labouring body and made Good Crops and she believes Mr Nacy Boarmans Family got them that she has heard that Kate had a Daughter called Pegg to the best of her knowledge. that she has heard that Nell had a Daughter called Abby and further saith not</p>
+
+<p>Mary Crosen<lb/>
+her N mark</p>
+
+<p>Sworn to in Open Court</p>
+
+<p>Test. R Ghiselin Cl</p>
+
+<p>Charles County Sst September 17th 1765 Mrs Elizabeth Warren Aged sixty five years being duly sworn deposeth and saith that she knew Negro Charles who was a Slave to Mr William Boarman sixty years ago as also a white woman named Nell which said Slave and white woman she understood from all her acquaintance of them times to be man and wife and never heard it disputed till some few years Ago And this Deponent further saith that as far back as she can remember She saw she saw a negro man named Jack at Major Wm Boarmans a person who went for the son of the aforesaid Charles and nell that she always understood from the neighbours he was a Slave to said Boarman that said Jack runaway from his said Master that Mr Boarmans son followed him to the Lower parts of Virginia and that said Jack bought his Freedom that he never returned as She knows of</p>
+
+<p>Elizabeth Warren<lb/>
+her x mark</p>
+
+<p>Charles County Sst I Certifie that the above Deposition was taken at the Instance of Mr George Boarman in the presence of Negro Will Butler this 17th September 1765</p>
+
+<p>By Geo Dent</p>
+
+<p>September the 18th 1765.</p>
+
+<p>Mr. Samuel Love Senior Aged seventy <fw type="catch">(nine)</fw>
+
+<pb n="oscys.mdcase.0014.065.040"/>
+
+nine or thereabouts being duly sworn on the Holy Evangelist of Almighty God Deposeth and sayeth that his Mother and Grand Mother &amp; old Mr Richard Edlin and several other people about seventy years ago he has often hearn them say that a Negro Man Slave called John Slave to Major William Boarman was married to Eleanor Butler and he has often hearn it said they always went as man and wife and the deponent says he often heard Eleanor Butler call the said Negro John her husband and he saith henever heard the said Eleanor Butler had a base born child</p>
+
+<p>Samuel Love Snr<lb/>
+his S mark</p>
+
+<p>Chas County September the 18th 1765 I certify that the above deposition was taken before me</p>
+
+<p>John Winter</p>
+
+<p>Saint Marys County. The deposition of John Branson aged eighty two years some time next month being first sworn on the holy Evangelist declares that sixty two years ago he this deponent workt at William Boarmans in Charles County at which time a Mulatto man called Jack was put to work with him which he was informed was a son of a white woman called Irish Nell and at that time he declares that the said Jack was about twenty four or five years old and that he understood the said Jack was a Slave and that it was occasioned by his Mother intermarrying with a Slave belonging to the aforesaid William Boarman and further this deponent saith not. Taken before us the Subscribers two of his Lordships Justices for the County aforesaid this 18th day of September Anno Domini 1765</p>
+
+<p>Zach Bond<lb/>
+Tho Bond.</p>
+
+<p>True Copies ss</p>
+
+<p>R Ghiselin Cl Provl Court.</p>
+
+<p>And it is Ordered by the Court that this Cause be continued until next Court. At which said next Court to wit the third Tuesday in <fw type="catch">(February)</fw>
+
+<pb n="oscys.mdcase.0014.065.041"/>
+
+February being the nineteenth day of the same month Anno Domini 1771. It is ordered by the Court this cause be further continued until next Court. At which said next Court to wit the third Tuesday in May being the twenty first day of the same month Anno Domini 1771 this cause came on to be argued. Whereupon all and singular the premises being by the Court here seen heard and fully understood and mature deliberation thereupon had. It is ordered by the Court here that the Judgment of the Provincial Court be reversed and the Appellees remanded back to Slavery</p>
+
+<p>Test. James Brookes Clk Ct Appls</p>
+
+<p>In Testimony that the aforegoing is a true Copy from the Record and proceedings of the Court of Appeals I have hereto set my hand and affixed the sale of said Office this 22d day of May Anno Domini 1784</p>
+
+<p>Thos D Merrick Clk Ct Appls</p>
+
+<p>And prayed the Opinion of the Court that the said Judgment rendered in the Court of Appeals was a good and sufficient Bar against the present petitioner, and sufficient to preclude her from any Relief on her present Petition. But the Court were of Opinion that the said Record Proceedings, and Judgment were no Bar to prevent the Petitioner from claiming and having her Freedom</p>
+
+<p>To which Opinion of the Court the Defendant by his Counsel prayed Leave to except, and to Appeal therefrom which was granted &amp;c</p>
+
+<p>A C Hanson (seal)<lb/>
+R Goldsborough jun. (seal)</p>
+
+<p>(Jn)</p>
+
+<pb n="oscys.mdcase.0014.065.042"/>
+
+<p>In Testimony that the aforegoing is a true Copy from the Record of Proceedings of the General Court for the Western Shore of Maryland I have hereto set my hand and Affixed the Seal of Office this 19th day of November Anno Domini 1787</p>
+
+<p>Thos B Hodgkin Cl.</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>

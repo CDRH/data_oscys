@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.082">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Jane Butler v. Robert Lawson. Judgment Record</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.082</idno>
+<idno type="case">oscys.caseid.0589</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Judgment Record</title>
+<date when="1791-10">October 1791</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgment Record)</collection>
+<idno>MSA S497-16</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1791-10">October 1791</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.006424">Butler, Agnes</term>
+<term xml:id="per.006399">Butler, Rebecca</term>
+<term xml:id="per.006312">Butler, Eleanor</term>
+<term xml:id="per.001493">Gwinn, John</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Charles County (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Judgment for Petitioner</term>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.006427">
+<persName>Butler, Jane</persName>
+</person>
+<person role="defendant" xml:id="per.006425">
+<persName>Lawson, Robert</persName> 
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_defendant">
+<persName/>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. Court of Appeals</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-02-19" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.082.001"/>
+
+<div2 type="caption">
+
+<p>Jane Butler<lb/>
+against<lb/>
+Robert Lawson</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Be it remembered that heretofore towit on the Fourteenth day of November in the year of our Lord One thousand seven hundred and ninety Jane Butler by Gabriel Duvall her attorney, preferred and filed in the General Court here her Petition for Freedom against Robert Lawson, which is in form following towit.</p>
+
+<p>To the Honorable the Judges of the General Court: The Petition of Jane Butler humbly sheweth that she is held as a Slave by Robert Lawson of Charles County although she is entitled to her Freedom being descended from a Free woman. Your Petitioner is the Daughter of Agnes Butler, who was the Daughter of Rebecca Butler, who was the Daughter of Jane Butler, who was the Daughter of Eleanor Butler a Free Woman. She therefore prays that your Honors would take her case into consideration and discharge her from the custody of the aforesaid Robert Lawson <catchwords>and</catchwords>
+
+<pb n="oscys.mdcase.0014.082.002"/>
+
+and that Summonses may issue for her Witnesses andsoforth. G. Duvall for Petr. (proceed as in the case of Agnes Butler against Robert Lawson entered in this Book in page 26 &amp;ca Mutatis Mutandis). Test. John Gwinn Clk.</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>

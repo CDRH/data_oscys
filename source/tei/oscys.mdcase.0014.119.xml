@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0014.119">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Thomas Butler v. Jezreel Penn. Judgment Record</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0014.119</idno>
+<idno type="case">oscys.caseid.0626</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Judgment Record</title>
+<date when="1792-05">May 1792</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgment Record)</collection>
+<idno>MSA S497-17</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1792-05">May 1792</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.006566">Butler, Anne</term>
+<term xml:id="per.006466">Butler, Charity</term><!-- sibling of Thomas -->
+<term xml:id="per.006431">Butler, Clement</term><!-- sibling of Thomas -->
+<term xml:id="per.006554">Butler, Clement</term>
+<term xml:id="per.006312">Butler, Eleanor</term><!-- parent of Eleanor 6402 -->
+<term xml:id="per.006402">Butler, Eleanor</term><!-- parent of Elizabeth, child of Eleanor 6312, acquaintance of Joseph, sibling of Sarah -->
+<term xml:id="per.006435">Butler, Elizabeth</term><!-- parent of Thomas, child of Eleanor 6402, acquaintance of Joseph -->
+<term xml:id="per.006561">Butler, George</term>
+<term xml:id="per.006433">Butler, Giles</term><!-- sibling of Thomas -->
+<term xml:id="per.006555">Butler, Henny</term><!-- acquaintance of Joseph -->
+<term xml:id="per.006562">Butler, Henrietta</term>
+<term xml:id="per.006467">Butler, Jacob</term><!-- sibling of Thomas -->
+<term xml:id="per.006413">Butler, Joseph</term><!-- acquaintance of Elizabeth, Eleanor 6402, Henny, Charity, Sarah 6557 -->
+<term xml:id="per.006559">Butler, Lewis</term>
+<term xml:id="per.006564">Butler, Rachel</term>
+<term xml:id="per.006557">Butler, Sarah</term><!-- sibling of Thomas -->
+<term xml:id="per.006315">Butler, Sarah</term><!-- sibling of Eleanor 6402, family of Joseph, child of Eleanor 6312 -->
+<term xml:id="per.006558">Butler, William</term>
+<term xml:id="per.002096">Dyson, Thomas A.</term>
+<term xml:id="per.001493">Gwinn, John</term>
+<term xml:id="per.005383">Harrison, Robert Hanson, 1745-1790</term>
+<term xml:id="per.006567">Keech, John</term>
+<term xml:id="per.006563">King, Williamson</term>
+<term xml:id="per.006570">Laidler, John</term>
+<term xml:id="per.006560">Neale, Joseph</term>
+<term xml:id="per.006565">Posey, Benjamin</term>
+<term xml:id="per.006432">Pyke, Henry</term>
+<term xml:id="per.001477">Quynn, Allen</term>
+<term xml:id="per.006556">Smoot, Edward</term>
+<term xml:id="per.006436">Somerville, John</term>
+<term xml:id="per.006468">Taney, Eleanor</term><!-- Elizabeth -->
+<term xml:id="per.006465">Thompson, Joseph</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Annapolis (Md.)</term>
+<term>Anne Arundel County (Md.)</term>
+<term>Charles County (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Judgment for Petitioner</term>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.006552">
+<persName>Butler, Thomas</persName><!-- child of Elizabeth -->
+</person>
+<person role="defendant"  xml:id="per.006553">
+<persName>Penn, Jezreel</persName> 
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. Court of Appeals</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2020-04-23" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0014.119.001"/>
+
+<div2 type="caption">
+
+<p>Thomas Butler<lb/>
+against<lb/>
+Jezreel Penn.</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Be it remembered that at this Term towit the second Tuesday of October, being the Tenth day of the said month in the year of our Lord One thousand seven hundred and eighty nine; Thomas Butler by Gabriel Duvall his attorney, prefers and files in the General Court here his Petition for Freedom against Jezreel Penn, which is in form following towit. To the honorable the Judges of the General Court. The Petition of Thomas Butler humbly sheweth that he is unjustly detained and held in Slavery by a certain Jezreel Penn of Charles County, when he is entitled to his Freedom, being the son of Bett Butler who was the Daughter of Eleanor Butler, who was the Daughter of Eleanor Butler, a Free white woman. He therefore prays your honors to grant a Summons against the said Jezreel Penn, to appear before your honors, and answer the premises, and that he enter into the usual recognizance not to ill treat your Petitioner, and that he be permitted to attend his council when necessary &amp;soforth. G Duvall for Petr. 19th Octo 1789. Thereupon, on motion of the said Thomas Butler by his attorney aforesaid, it is ruled and ordered by the Court here, that the said Jezreel Penn do not remove the said Thomas Butler out of this State, nor obstruct him from attending this Court from time to time in support of his Petition for Freedom, preferred to the Court here; <catchwords>and</catchwords>
+
+<pb n="oscys.mdcase.0014.119.002"/>
+
+and in the mean time to feed, cloath and use the said Thomas Butler well; It is further ruled and ordered by the Court here, that the writ of the State of Maryland of Summons issue forth out of the General Court here against the said Jezreel Penn to answer unto the said Petition of the said Thomas Butler; which said Summons issues accordingly, directed to the Sheriff of Charles County, in form following towit. The State of Maryland Sct To the Sheriff of Charles County, Greeting: We command you that you Summon Jezreel Penn late of Charles County, that all excuses and delays set aside he be and appear before the Judges of our General Court to be held at the City of Annapolis, returnable immediately to answer the Petition of Thomas Butler, preferred against him for Freedom; Hereof he is not to fail, and fail not at your peril and have you then and there this writ. Witness the Honorable Robert Hanson Harrison Esquire chief Judge of our said Court the 13th day of October Anno domini 1789. Issued the 19th day of October 1789. (GD.) Jno Gwinn Clk.</p>
+
+<p>And the Sheriff of Charles County aforesaid, to whom the said Summons was in form aforesaid directed, makes return thereof to the Court here, thus endorsed, towit. "Summoned. Thos A. Dyson, Shff." And the said Jezreel Penn, being so forewarned, comes into the General Court here, by Philip Barton Key his attorney; Thereupon, further process of and upon the premises aforesaid, between the parties aforesaid, by order of the Court here, is continued until the second Tuesday of May next; the same day is given to the parties aforesaid, then, andsoforth.</p>
+
+<p>At which said second Tuesday of May being the Eleventh day of the said month in the year of our Lord One thousand seven hundred and ninety, come again into the General Court here, as well the said Thomas Butler by his attorney aforesaid, as the said Jezreel Penn by his attorney aforesaid: Thereupon further process of and upon the premises aforesaid, between the parties aforesaid, by order of the Court here, is further continued until the second Tuesday of October next; the same day is given to the parties aforesaid, then, andsoforth.</p>
+
+<p>At which said second Tuesday of October, being the Twelfth day of the said month in the year of our Lord One thousand seven hundred and ninety, come again into the General Court here, as well the said Thomas Butler by his attorney aforesaid, as the said Jezreel Penn by his attorney aforesaid; Thereupon further process of and upon the
+
+<pb n="oscys.mdcase.0014.119.003"/>
+
+premises aforesaid, between the parties aforesaid, by order of the Court here is further continued until the Second Tuesday of May next; the same day is given to the parties aforesaid, then, andsoforth.</p>
+
+<p>At which said second Tuesday of May, being the Tenth day of the said month in the year of our Lord One thousand seven hundred and ninety one, come again into the General Court here, as well the said Thomas Butler by his attorney aforesaid, as the said Jezreel Penn by his attorney aforesaid: Thereupon, further process of and upon the premises aforesaid, between the parties aforesaid, by order of the Court here, is further continued until the Second Tuesday of October next; the same day is given to the parties aforesaid, then, andsoforth.</p>
+
+<p>At which said Second Tuesday of October, being the Eleventh day of the said month in the year of our Lord One thousand Seven hundred and ninety one, come again into the General Court here as well the said Thomas Butler by his attorney aforesaid, as the said Jezreel Penn by his attorney aforesaid: Thereupon, further process of and upon the premises aforesaid, between the parties aforesaid by order of the Court here, is further continued until the second Tuesday of May next; the same day is given to the parties aforesaid then, andsoforth.</p>
+
+<p>And now at this day towit, the said Second Tuesday of May being the Eighth day of the said month in the year of our Lord One thousand seven hundred and ninety two, come again into the General Court here, as well the said Thomas Butler by his attorney aforesaid, as the said Jezreel Penn by his attorney aforesaid: And the said Thomas Butler by his attorney aforesaid, files in Court here the Deposition of Joseph Butler, which is in form following towit:</p>
+
+<p>Thomas Butler
+against
+Jezreel Penn</p>
+
+<p>Joseph Butler a Freeman of Colour aged about Fifty one years of upwards, being Sworn on the Holy Evangely of Almighty God deposeth &amp; saith that the Petitioner Thomas is the son of Elizabeth Butler who was the Daughter of Eleanor Butler, which said Elizabeth &amp; Eleanor, this Deponent well knew, upwards of thirty years ago; that Eleanor aforesaid, as this Deponent has been informed and always understood was the Daughter of Eleanor Butler a Free Irish Woman, and the said Eleanor was Sister of this Deponents grandmother <catchwords>Sarah</catchwords>
+
+<pb n="oscys.mdcase.0014.119.004"/>
+
+Sarah Butler who was Daughter of the said Free Irish woman. And further he saith that Clement Butler, Jacob Butler and Giles Butler who have Petitioned against Henry Pyke, Elizabeth Taney &amp; John Somerville, are Brothers of Thomas, who Petitioned against Jezreel Penn. That Henny who petitioned against Edward Smoot is Sister of the said Thomas who this Deponent has known upwards of thirty years. That Sarah who petitioned against Jezreel Penn, and Charity who petitioned against Joseph Thompson are Sisters of the said Thomas, both of whom, this Deponent has known for many years. That William who has petitioned against Joseph Neale, Lewis who has petitioned against John Laidler, Clement who has petitioned against Jezreel Penn, &amp; George who has Petitioned against Jezreel Penn are sons of the aforesaid Sarah who Petitioned against the aforesaid Jezreel Penn, all of whom this Deponent has known ever since they were children at the breast. That Henny who has filed a Petition against Williamson King, and Rachel who has petitioned against Benjamin Posey, and Anne against John Keech, are Sisters of the four last mentioned Petitioners sons of the aforesaid Sarah, which this Deponent has also known ever since they were Small children. And further he saith not. Sworn to this 22d day of December 1791. before the Subscriber one of the Justices of Anne Arundel County. Allen Quynn</p>
+
+<p>Whereupon, the said Jezreel Penn by his attorney aforesaid, saith, that he cannot deny the complaint aforesaid of the said Thomas Butler, the petitioner aforesaid, so as aforesaid made, nor but that the said Thomas Butler, the petitioner aforesaid, is entitled to his Freedom, being the son of Bett Butler who was the Daughter of Eleanor Butler, who was the Daughter of Eleanor Butler, a Free white woman, in manner and form as the said Thomas Butler, by his said Petition to the Court here preferred against him the said Jezreel Penn, above hath alleged; And thereupon, the said Thomas Butler, the Petitioner aforesaid by his attorney aforesaid, prays that he may be dismissed and discharged from the Service of the said Jezreel Penn, together with his costs and charges by him about the prosecution of his said Petition, to him to be adjudged, and soforth. Therefore it is considered by the Court here, that the said Thomas Butler, the Petitioner <gap extent="several words"/>
+
+<pb n="oscys.mdcase.0014.119.005"/>
+
+his Freedom, and that he be hence freed and discharged of and from the Service of the said Jezreel Penn, and that he the said Thomas Butler, the Petitioner aforesaid, go freed and discharged thereof without day, andsoforth. And it is further considered by the Court here, that the said Thomas Butler, the petitioner aforesaid, recover against the said Jezreel Penn, the quantity of One thousand two hundred and thirty three pounds of tobacco, by the Court here, unto the said Thomas Butler, on his assent adjudged, for his costs and charges by him about the prosecution of his said Petition in this behalf laid out and expended, and that he have thereof his Execution andsoforth. Test John Gwinn Clerk.</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>
