@@ -85,7 +85,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term/>
+<term xml:id="per.001493">Gwinn, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -93,24 +93,24 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="original" n="outcome">
-<term>Judgment for Petitioner</term>
+<term>Stayed</term>
 </keywords>
 
 </textClass>
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="">
-<persName></persName>
+<person role="petitioner" xml:id="per.006564">
+<persName>Butler, Rachel</persName>
 </person>
-<person role="defendant" xml:id="">
-<persName></persName> 
+<person role="defendant" xml:id="per.006565">
+<persName>Posey, Benjamin</persName> 
 </person>
-<person role="attorney_petitioner" xml:id="per.001393">
-<persName>Duvall, Gabriel, 1752-1844</persName>
+<person role="attorney_petitioner">
+<persName/>
 </person>
-<person role="attorney_defendant" xml:id="per.004640">
-<persName>Mason, John T. (John Thomson), 1787-1850</persName>
+<person role="attorney_defendant">
+<persName/>
 </person>
 </listPerson>
 
@@ -124,6 +124,7 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-06" who="#kln">encoded people</change>
 <change when="2020-05-19" who="#kln">transcribed; encoded</change>
 </revisionDesc>
 
