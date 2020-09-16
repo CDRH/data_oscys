@@ -57475,6 +57475,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Letty</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
+<socecStatus when="1788-05-27" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.102">enslaved</socecStatus>
+<socecStatus when="1792-05-08" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.102">free</socecStatus>
 </person>
 
 <person xml:id="per.006575" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.093">
@@ -57840,13 +57842,14 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- start oscys.mdcase.0014.102 -->
 
+<!-- same as per.006574
 <person xml:id="per.006615" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.102">
 <persName type="display">Butler, Letty</persName>
-<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Lymus</forename></persName>
+<persName type="full"><surname>Butler</surname>, <forename type="first" full="yes">Letty</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
 <socecStatus when="1788-05-27">enslaved</socecStatus>
-</person>
+</person>-->
 
 <person xml:id="per.006616" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.102">
 <persName type="display">Ware, Francis</persName>
