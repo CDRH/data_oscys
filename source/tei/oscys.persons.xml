@@ -47061,6 +47061,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="display">Coombs, Totty</persName>
 <persName type="full"><surname>Coombs</surname> <addName type="surname" subtype="alternate">Coombes</addName>, <forename type="first" full="yes">Totty</forename></persName>
 <sex>male</sex>
+<note>Real first name may be Joseph.</note>
 </person>
 
 <person xml:id="per.005076" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
@@ -47326,12 +47327,13 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>female</sex>
 </person>
 
+<!-- same as per.005084 
 <person xml:id="per.005113" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
 <persName type="display">Innes, Mary</persName>
 <persName type="full"><surname>Innes</surname>, <forename type="first" full="yes">Mary</forename></persName>
 <sex>female</sex>
 <trait type="color"><ab>white</ab></trait>
-</person>
+</person> -->
 
 <person xml:id="per.005114" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
 <persName type="display">Jeffery</persName>
@@ -47705,8 +47707,8 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.005166" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
-<persName type="display">Neale, Monica</persName>
-<persName type="full"><surname>Neale</surname>, <forename type="first" full="yes">Monica</forename></persName>
+<persName type="display">Digges, Monica Neale</persName>
+<persName type="full"><surname>Digges</surname>, <forename type="first" full="yes">Monica</forename>  <addName type="surname" subtype="maiden">Neale</addName> </persName>
 <sex>female</sex>
 </person>
 
@@ -47716,13 +47718,13 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <sex>female</sex>
 </person>
 
-<!-- same as per.005169 ??
 <person xml:id="per.005168" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
-<persName type="display">Neale, Ralph</persName>
-<persName type="full"><surname>Neale</surname>, <forename type="first" full="yes">Ralph</forename></persName>
+<persName type="display">Neale, Raphael</persName>
+<persName type="full"><surname>Neale</surname>, <forename type="first" full="yes">Raphael</forename></persName>
 <sex>male</sex>
-<residence>St. Mary's County (Md.)</residence>
-</person>-->
+<residence></residence>
+<note>Parent of Mary Simms (per.005165).</note>
+</person>
 
 <person xml:id="per.005169" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
 <persName type="display">Neale, Raphael</persName>
@@ -58324,7 +58326,29 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <!-- end oscys.mdcase.0014.139 -->
 
+<!-- start additional people oscys.mdcase.0012.001 -->
 
+<person xml:id="per.006666" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Neale, Mary Brent</persName>
+<persName type="full"><surname>Neale</surname>, <forename type="first" full="yes">Mary</forename> <addName type="surname" subtype="maiden">Brent</addName></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<note>Wife of Roswell Neale (per.005172). Half-sibling of Mr. Chandler (per.005067).</note>
+</person>
+
+<person xml:id="per.006667" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Randall, John</persName>
+<persName type="full"><surname>Randall</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006668" source="http://earlywashingtondc.org/doc/oscys.mdcase.0012.001">
+<persName type="display">Gibson, John</persName>
+<persName type="full"><surname>Gibson</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
 
 
 <!--
