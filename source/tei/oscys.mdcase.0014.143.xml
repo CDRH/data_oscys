@@ -85,11 +85,19 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term/>
+<term xml:id="per.006312">Butler, Eleanor</term><!-- parent of Jane 6398 -->
+<term xml:id="per.006669">Butler, Elizabeth</term>
+<term xml:id="per.006406">Butler, Jane</term><!-- parent of William, child of Rebecca -->
+<term xml:id="per.006398">Butler, Jane</term><!-- parent of Rebecca -->
+<term xml:id="per.006399">Butler, Rebecca</term><!-- parent of Jane 6406, child of Jane 6398 -->
+<term xml:id="per.001493">Gwinn, John</term>
+<term xml:id="per.002097">Johnson, Thomas, 1732-1819</term>
+<term xml:id="per.006670">Simmes, Joseph</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term/>
+<term>Prince George's County (Md.)</term>
+<term>Annapolis (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">
@@ -100,17 +108,17 @@ Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unpor
 
 <particDesc>
 <listPerson>
-<person role="petitioner" xml:id="">
-<persName></persName>
+<person role="petitioner" xml:id="per.006687">
+<persName>Butler, William</persName><!-- child of Jane 6406 -->
 </person>
-<person role="defendant" xml:id="">
-<persName></persName> 
+<person role="defendant" xml:id="per.006688">
+<persName>Edelen, Joseph</persName> 
 </person>
 <person role="attorney_petitioner" xml:id="per.001393">
 <persName>Duvall, Gabriel, 1752-1844</persName>
 </person>
-<person role="attorney_defendant" xml:id="per.004640">
-<persName>Mason, John T. (John Thomson), 1787-1850</persName>
+<person role="attorney_defendant">
+<persName/>
 </person>
 </listPerson>
 
