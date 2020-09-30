@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Hyman, Christy" xml:id="ch">Christy Hyman</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -84,10 +85,10 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term xml:id="per.001514">Chase, Samuel, 1741-1811</term><!-- chief judge of General Court of the Western Shore -->
-<term xml:id="per.001493">Gwinn, John</term><!-- clerk, General Court of the Western Shore -->
-<term xml:id="per.005217">Shorter, Elizabeth</term><!-- free white woman -->
-<term xml:id="per.002691">Simmes, James</term><!-- alt spelling Simms; sheriff of Charles County -->
+<term xml:id="per.001514">Chase, Samuel, 1741-1811</term>
+<term xml:id="per.001493">Gwinn, John</term>
+<term xml:id="per.005217">Shorter, Elizabeth</term>
+<term xml:id="per.002691">Simmes, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -104,7 +105,7 @@
 <particDesc>
 <listPerson>
 <person role="petitioner" xml:id="per.005283">
-<persName>Shorter, William</persName><!-- enslaved by William Tyer -->
+<persName>Shorter, William</persName>
 </person>
 <person role="defendant" xml:id="per.005284">
 <persName>Tyer, William</persName>
@@ -130,6 +131,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-09" who="#lkw">reviewed; relationship encoding</change>
 <change when="2019-07-09" who="#kln">reviewed and edited transcription; encoded</change>
 <change when="2018" who="#ch">preliminary transcription</change>
 </revisionDesc>
