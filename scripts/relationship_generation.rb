@@ -4,12 +4,18 @@
 # this will generate two lists, you need to put them back together in the csv as columns A and C of the rdf csv
 
 ids = [
-  "per.005337",  
-  "per.005338",  
-  "per.005339",
-  "per.005340",
-  "per.005341",
-  "per.005342"
+  "per.005356",  
+  "per.005357",  
+  "per.005358",
+  "per.005359",
+  "per.005360",
+  "per.005361",
+  "per.005362",  
+  "per.005363",  
+  "per.005364",
+  "per.005365",
+  "per.005366",
+  "per.005367"
 
 
 
