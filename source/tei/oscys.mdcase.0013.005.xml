@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0013.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0013.005">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Anthony Boston v. Gassaway Rawlings. Judgement Record</title>
+<title>Daneil Boston v. Henry Hall. Judgement Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Anna Krause" xml:id="ak">Anna Krause</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,9 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0013.001</idno>
-<idno type="case">oscys.caseid.0543</idno>
-<idno type="case">oscys.caseid.0544</idno>
+<idno type="project">oscys.mdcase.0013.005</idno>
+<idno type="case">oscys.caseid.0546</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -56,7 +54,7 @@
 <msIdentifier>
 <repository>Maryland State Archives</repository>
 <collection>General Court of the Western Shore (Judgment Record)</collection>
-<idno>MSA S497-17 JG 18</idno>
+<idno>MSA S497-19 JG 19</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -85,11 +83,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Boston, Lenah</term><!-- alt: Linah; parent of Violet, child of Maria -->
-<term>Boston, Maria</term><!-- alt: Marea; parent of Lenah -->
-<term>Boston, Violet</term><!-- parent of Anthony and Daniel, child of Lenah -->
-<term xml:id="per.002102">Chase, Jeremiah Townley, 1748-1828</term><!-- judge -->
-<term xml:id="per.001514">Chase, Samuel, 1741-1811</term><!-- judge -->
+<term/>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -97,33 +91,18 @@
 </keywords>
 
 <keywords scheme="original" n="outcome">
-<term>Judgment for Plaintiff</term>
+<term/>
 </keywords>
 
 </textClass>
 
 <particDesc>
-<listPerson type="oscys.caseid.0543">
+<listPerson>
 <person role="petitioner" >
-<persName>Boston, Anthony</persName><!-- child of Violet -->
+<persName>Boston, Daniel</persName>
 </person>
 <person role="defendant" >
-<persName>Rawlings, Gassaway</persName>
-</person>
-<person role="attorney_petitioner" >
-<persName/>
-</person>
-<person role="attorney_defendant">
-<persName/>
-</person>
-</listPerson>
-
-<listPerson type="oscys.caseid.0544">
-<person role="petitioner" >
-<persName>Boston, Daniel</persName><!-- child of Violet -->
-</person>
-<person role="defendant" >
-<persName>Watkins, Anne</persName>
+<persName>Hall, Henry</persName>
 </person>
 <person role="attorney_petitioner" >
 <persName/>
@@ -143,8 +122,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-09" who="#kln">review encoding and transcription</change>
-<change when="2019" who="#ak">preliminary transcription</change>
+<change when="2020-11" who="#kln">transcription and encoding</change>
 </revisionDesc>
 
 </teiHeader>
@@ -155,36 +133,54 @@
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0013.001.001"/>
+<pb n="oscys.mdcase.0013.005.001"/>
 
 <div2 type="caption">
 
-<p>Gassaway Rawlings<lb/>
-vs<lb/>
-Anthony Boston</p>
+<p>Daniel Boston<lb/>
+against<lb/>
+Henry Hall</p>
 
 </div2>
 
 <div2 type="body">
 
-<p>It being admitted that the petitioner is a <sic>discendant</sic> of Violet, the Daughter of Linah the Daughter of Maria or Marea and it appearing to the court on the examination of the depositions taken in this case that Maria or Marea was spanish woman and that her daughter Linah was born before she came into Maryland and was of yellow colour or complexion with long black hair the court are of <sic>oppinion</sic> that the said Maria or Marea was not a slave, but free the court order and adjudge that the petitioner be free, and discharged from all further servitude and that the said Gassaway Rawlings pay him the costs of prosecuting his petition.
-</p>
+<p>Be it remembered that heretofore, to wit, on the twenty
+first day of November in the year of our Lord one thousand
+seven hundred and ninety two, the said Daniel Boston
+by George Jenings his attorney exhibited to the Court
+here his Petition for Freedom against the said Henry Hall and which is of the
+tenor and form following, towit. To the Honourable the Judges of the General Court.
+The Petition of Daniel Boston humbly sheweth, That your Petitioner is held in
+slavery by a certain Henry Hall of Anne Arundel County when he is entitled to
+his Freedom being descended from a free yellow woman one of the Portuguese
+whose name as your Petitioner is informed was Lenah Boston. Your
+Petitioner therefore prays your Honours to take his Case into consideration
+and discharge him from the service of the said Henry Hall and your Petitioner
+as in Duty bound will pray. Geo. Jenings for Petitioner.</p>
 
-<p>Saml Chase, J. Toy Chase</p>
+<p>Thereupon the writ of the State of Maryland of Summons issued forth out
+of the General Court here directed to the Sheriff of Anne Arundel County in
+form following towit. The State of Maryland towit. To the Sheriff of Ann
+Arundel County, Greeting. We command you that you summons Henry Hall
+late of Ann Arundel County that all delays and excuses be set aside he
+be and appear before the Judges of our General Court to be held at the
+City of Annapolis on the second tuesday of May next to answer unto the
+Petition of Daniel Boston preferred against him for freedom, hereof he is not
+to fail and fail not at your Peril; and have you then and there this Writ. Witness
+the Honourable Samuel Chase Esquire Chief Judge of our said Court the 1st day of
+November Anno Domini 1791. (G. Js)</p>
 
-</div2>
+<p>Issued the 21st day of November Anno Domini 1791. Jno Gwinn Clk.</p>
 
-<div2 type="case">
-
-<p>Anne Watkins<lb/>
-vs<lb/>
-Daniel Boston</p>
-
-</div2>
-
-<div2 type="body">
-
-<p>Same Judgment</p>
+<p>At which said second Tuesday of May being the eighth day of the said month
+in the year of our Lord one thousand seven hundred and ninety two, and the
+return day of the said writ comes into the General Cout here the said
+Daniel Boston by her attorney aforesaid; And the Sheriff of Ann Arundel
+County aforesaid to whom the said writ was in foresaid directed towit. William
+Goldsmith Gentleman, makes return thereof to the Court here thereon endorsed
+to Wit; "Summoned. Wm Goldsmith Shff." Thereupon the said
+Henry Hall appears  in Court here by William Cooke his attorney: thereupon</p>
 
 </div2>
 

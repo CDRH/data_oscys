@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0013.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0013.003">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Anthony Boston v. Gassaway Rawlings. Judgement Record</title>
+<title>Daniel Boston v. Anne Watkins. Judgement Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Anna Krause" xml:id="ak">Anna Krause</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,8 +35,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0013.001</idno>
-<idno type="case">oscys.caseid.0543</idno>
+<idno type="project">oscys.mdcase.0013.003</idno>
 <idno type="case">oscys.caseid.0544</idno>
 
 <availability>
@@ -85,11 +83,7 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Boston, Lenah</term><!-- alt: Linah; parent of Violet, child of Maria -->
-<term>Boston, Maria</term><!-- alt: Marea; parent of Lenah -->
-<term>Boston, Violet</term><!-- parent of Anthony and Daniel, child of Lenah -->
-<term xml:id="per.002102">Chase, Jeremiah Townley, 1748-1828</term><!-- judge -->
-<term xml:id="per.001514">Chase, Samuel, 1741-1811</term><!-- judge -->
+<term/>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -97,30 +91,17 @@
 </keywords>
 
 <keywords scheme="original" n="outcome">
-<term>Judgment for Plaintiff</term>
+<term>Judgment for Petitioner</term>
+<term>Appealed by Defendant</term>
+<term>Judgment Affirmed</term>
 </keywords>
 
 </textClass>
 
 <particDesc>
-<listPerson type="oscys.caseid.0543">
+<listPerson>
 <person role="petitioner" >
-<persName>Boston, Anthony</persName><!-- child of Violet -->
-</person>
-<person role="defendant" >
-<persName>Rawlings, Gassaway</persName>
-</person>
-<person role="attorney_petitioner" >
-<persName/>
-</person>
-<person role="attorney_defendant">
-<persName/>
-</person>
-</listPerson>
-
-<listPerson type="oscys.caseid.0544">
-<person role="petitioner" >
-<persName>Boston, Daniel</persName><!-- child of Violet -->
+<persName>Boston, Daniel</persName>
 </person>
 <person role="defendant" >
 <persName>Watkins, Anne</persName>
@@ -143,8 +124,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-09" who="#kln">review encoding and transcription</change>
-<change when="2019" who="#ak">preliminary transcription</change>
+<change when="2020-10" who="#kln">transcription and encoding</change>
 </revisionDesc>
 
 </teiHeader>
@@ -155,28 +135,11 @@
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0013.001.001"/>
+<pb n="oscys.mdcase.0013.003.001"/>
 
 <div2 type="caption">
 
-<p>Gassaway Rawlings<lb/>
-vs<lb/>
-Anthony Boston</p>
-
-</div2>
-
-<div2 type="body">
-
-<p>It being admitted that the petitioner is a <sic>discendant</sic> of Violet, the Daughter of Linah the Daughter of Maria or Marea and it appearing to the court on the examination of the depositions taken in this case that Maria or Marea was spanish woman and that her daughter Linah was born before she came into Maryland and was of yellow colour or complexion with long black hair the court are of <sic>oppinion</sic> that the said Maria or Marea was not a slave, but free the court order and adjudge that the petitioner be free, and discharged from all further servitude and that the said Gassaway Rawlings pay him the costs of prosecuting his petition.
-</p>
-
-<p>Saml Chase, J. Toy Chase</p>
-
-</div2>
-
-<div2 type="case">
-
-<p>Anne Watkins<lb/>
+<p>Ann Watkins<lb/>
 vs<lb/>
 Daniel Boston</p>
 
@@ -184,7 +147,10 @@ Daniel Boston</p>
 
 <div2 type="body">
 
-<p>Same Judgment</p>
+<p>Same proceedings mutatus Mutandis as Gassaay
+Rawlings against Anthony Boston commencing in
+folio five hundred and eighty six costs six hundred
+and ninety two pounds Tobacco.</p>
 
 </div2>
 
