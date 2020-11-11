@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0013.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0013.017">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Daniel Boston v. Anne Watkins. Judgement Record</title>
+<title>John Boston v. John Francis Mercer. Judgement Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0013.003</idno>
-<idno type="case">oscys.caseid.0544</idno>
+<idno type="project">oscys.mdcase.0013.017</idno>
+<idno type="case">oscys.caseid.0558</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -54,7 +54,7 @@
 <msIdentifier>
 <repository>Maryland State Archives</repository>
 <collection>General Court of the Western Shore (Judgment Record)</collection>
-<idno>MSA S497-17 JG 18</idno>
+<idno>MSA S497-25 JG 29</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -79,7 +79,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1793-05">May 1793</date></term>
+<term><date when="1795-10">October 1795</date></term>
 </keywords>
 
 <keywords scheme="lcsh" n="people">
@@ -91,23 +91,21 @@
 </keywords>
 
 <keywords scheme="original" n="outcome">
-<term>Judgment for Plaintiff</term>
-<term>Appealed by Defendant</term>
-<term>Judgment Affirmed</term>
+<term/>
 </keywords>
 
 </textClass>
 
 <particDesc>
 <listPerson>
-<person role="petitioner" >
-<persName>Boston, Daniel</persName>
+<person role="petitioner">
+<persName>Boston, John</persName><!-- enslaved, 11-1-1791 -->
 </person>
-<person role="defendant" >
-<persName>Watkins, Anne</persName>
+<person role="defendant">
+<persName>Mercer, John Francis</persName>
 </person>
-<person role="attorney_petitioner" >
-<persName/>
+<person role="attorney_petitioner">
+<persName>Jenings, George</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
@@ -124,7 +122,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-10" who="#kln">transcription and encoding</change>
+<change when="2020-11" who="#kln">transcription and encoding</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,22 +133,47 @@
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0013.003.001"/>
+<pb n="oscys.mdcase.0013.017.001"/>
 
 <div2 type="caption">
 
-<p>Ann Watkins<lb/>
-vs<lb/>
-Daniel Boston</p>
+<p>John Boston<lb/>
+against<lb/>
+John Francis Mercer</p>
 
 </div2>
 
 <div2 type="body">
 
-<p>Same proceedings mutatus Mutandis as Gassaay
-Rawlings against Anthony Boston commencing in
-folio five hundred and eighty six costs six hundred
-and ninety two pounds Tobacco.</p>
+<p>Be it remembered, that heretofore towit,
+on the first day of November in the
+year of our Lord one thousand seven
+hundred and ninety one, John Boston
+by George Jenings his attorney preferred and filed in the General
+Court here his petition for Freedom against John Francis Mercer
+which is in form following to wit.</p>
+
+<p>To the honourable the Judges of the General Court The Petition of
+John Boston, Humbly sheweth that your Petitioner is held in
+Slavery by a certain John F. Mercer when he is entitled to Freedom
+being descended from a free yellow woman, being one of the <sic>Portugues</sic>
+whose name as your petitioner is informed was Lenar Boston; your
+Petitioner therefore prays your honours to take his case into consideration
+and discharge him from the service of the said John F. Mercer
+and your petitioner as in duty bound will pray &amp;ca</p>
+
+<p>Geo. Jenings for Petitioner</p>
+
+<p>Whereupon, in pursuance of the Rule and order of the Court
+here in such case made, on the twenty first day of November in
+the year of our Lord one thousand seven hundred and ninety one
+the said John Boston by his attorney aforesaid, prosecuted and sued
+forth out of the General Court here, the writ of the State of Maryland
+of Subpoena ad respondendum against the said John Francis Mercer
+directed to the sheriff of Anne Arundel County in form following to wit.</p>
+
+<p>The State of Maryland to wit, To the sheriff of Ann Arundel County
+Greeting.</p>
 
 </div2>
 
