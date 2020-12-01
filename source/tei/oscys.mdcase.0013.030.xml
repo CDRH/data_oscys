@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0013.003">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0013.030">
 
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Daniel Boston v. Anne Watkins. Judgement Record</title>
+<title>Richard Boston v. Joshua Warfield. Judgement Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.mdcase.0013.003</idno>
-<idno type="case">oscys.caseid.0544</idno>
+<idno type="project">oscys.mdcase.0013.030</idno>
+<idno type="case">oscys.caseid.0661</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -47,14 +47,14 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Judgment Record</title>
-<date when="1793-05">May 1793</date>
+<date when="1795-10">October 1795</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>Maryland State Archives</repository>
 <collection>General Court of the Western Shore (Judgment Record)</collection>
-<idno>MSA S497-17 JG 18</idno>
+<idno>MSA S497-25 JG 29</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -79,11 +79,13 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1793-05">May 1793</date></term>
+<term><date when="1795-10">October 1795</date></term>
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term/>
+<term>Boston, John</term>
+<term xml:id="per.001493">Gwinn, John</term>
+<term>Mercer, John Francis</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -91,22 +93,21 @@
 </keywords>
 
 <keywords scheme="original" n="outcome">
-<term>Judgment for Plaintiff</term>
+<term>Judgment for Petitioner</term>
 <term>Appealed by Defendant</term>
-<term>Judgment Affirmed</term>
 </keywords>
 
 </textClass>
 
 <particDesc>
 <listPerson>
-<person role="petitioner" >
-<persName>Boston, Daniel</persName>
+<person role="petitioner">
+<persName>Boston, Richard</persName>
 </person>
-<person role="defendant" >
-<persName>Watkins, Anne</persName>
+<person role="defendant">
+<persName>Warfield, Joshua</persName>
 </person>
-<person role="attorney_petitioner" >
+<person role="attorney_petitioner">
 <persName/>
 </person>
 <person role="attorney_defendant">
@@ -124,7 +125,7 @@
 </profileDesc>
 
 <revisionDesc>
-<change when="2020-10" who="#kln">transcription and encoding</change>
+<change when="2020-11" who="#kln">transcription and encoding</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,22 +136,24 @@
 
 <div1 type="case">
 
-<pb n="oscys.mdcase.0013.003.001"/>
+<pb n="oscys.mdcase.0013.030.001"/>
 
 <div2 type="caption">
 
-<p>Ann Watkins<lb/>
-vs<lb/>
-Daniel Boston</p>
+<p>Richard Boston<lb/>
+against<lb/>
+Joshua Warfield</p>
 
 </div2>
 
 <div2 type="body">
 
-<p>Same proceedings mutatus Mutandis as Gassaway
-Rawlings against Anthony Boston commencing in
-folio five hundred and eighty six costs six hundred
-and ninety two pounds Tobacco.</p>
+<p>The same proceedings and Judgment &amp;ca in this case 
+Mutatis Mutandis as in that of John Boston 
+against John Francis Mercer entered in this book 
+in page fifteen.</p>
+
+<p>Test Jno Gwinn Clk.</p>
 
 </div2>
 
