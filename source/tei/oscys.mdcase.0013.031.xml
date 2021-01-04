@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>George Boston v. John F. Mercer &amp; Sophia Mercer. Judgement Record</title>
+<title>George Boston v. John Francis Mercer &amp; Sophia Mercer. Judgement Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -36,7 +36,7 @@
 </address>
 </distributor>
 <idno type="project">oscys.mdcase.0013.031</idno>
-<idno type="case">oscys.caseid.0</idno>
+<idno type="case">oscys.caseid.0662</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -86,22 +86,28 @@
 <term>Bacon</term>
 <term>Batson, Mary</term>
 <term>Bet</term>
-<term>Boston, Anthony</term>
+<term>Boston, Anthony</term><!-- sibling of Nanny -->
 <term>Boston, Bacon</term>
+<term>Boston, Ben</term><!-- sibling of Maria -->
+<term>Boston, Betty</term><!-- child of Nanny; sibling of Daniel (Hall) -->
 <term>Boston, Caesar</term>
 <term>Boston, Daniel</term><!-- enslaved by Samuel Watkins - petitioner against Anne Watkins -->
-<term>Boston, Daniel</term><!-- petitioner against Henry Hall -->
+<term>Boston, Daniel</term><!-- petitioner against Henry Hall; sibling of Betty; child of Nanny -->
+<term>Boston, Daniel</term><!-- petitioner against Richard Sprigg -->
 <term>Boston, Lenah</term><!-- alt: Lenna -->
-<term>Boston, Maria</term>
-<term>Boston, Maria</term>
+<term>Boston, Maria</term><!-- spanish woman; free -->
+<term>Boston, Maria</term><!-- child of Lenah -->
+<term>Boston, Maria</term><!-- parent of George, Nathan, and Daniel; lived with Dr. Steuart; sibling of Ben -->
+<term>Boston, Nanny</term><!-- parent of Betty and Daniel; enslaved by Gassaway Watkins and Henry Hall; sibling of Anthony; child of Violet -->
 <term>Boston, Nat</term>
+<term>Boston, Nathan</term><!-- petitioner against Richard Sprigg -->
 <term>Boston, Ned</term>
 <term>Boston, Sarah</term>
 <term>Boston, Simon</term>
 <term>Boston, Toney</term>
-<term>Boston, Violet</term>
+<term>Boston, Violet</term><!-- parent of Nanny -->
 <term xml:id="per.004485">Brice, John</term>
-<term>Brown, Anne</term>
+<term>Brown, Anne</term><!-- 66 years (June 3, 1797); acquaintance of Betty and Nanny and Violet, George, Nathan, Daniel -->
 <term>Brown, Isaac</term>
 <term>Brown, Lucy</term>
 <term>Brown, Mark</term>
@@ -110,6 +116,7 @@
 <term>Brown, Tom</term>
 <term xml:id="per.004601">Bullen, J.</term>
 <term>Carr, Benjamin</term>
+<term xml:id="per.002102">Chase, Jeremiah Townley, 1748-1828</term>
 <term xml:id="per.001514">Chase, Samuel, 1741-1811</term>
 <term>Cowman, Joseph</term>
 <term>Cruckley, Mary</term>
@@ -122,7 +129,7 @@
 <term>Galloway, Samuel</term>
 <term>Gibbs, Thomas</term>
 <term>Grey, Susannah</term><!-- alt: Susanna -->
-<term>Hall, Henry</term>
+<term>Hall, Henry</term><!-- slaveholder of Nanny -->
 <term>Harwood</term><!-- Colonel -->
 <term>Harwood, Anne</term>
 <term xml:id="per.005410">Harwood, Richard, Jr.</term>
@@ -152,15 +159,15 @@
 <term>Sellman, Jonathan</term><!-- alt: Selman -->
 <term>Smith, Elizabeth</term>
 <term>Smith, Robert John</term>
-<term>Sprigg, Richard</term>
 <term>Sprigg, Thomas</term>
+<term>Steuart</term><!-- doctor; annapolis -->
 <term xml:id="per.005401">Taylor, Alice</term>
 <term>Toby</term>
 <term>Tydings, John</term>
 <term>Watkins</term><!-- spouse of Ann Watkins; child of Margaret Watkins -->
 <term>Watkins, Anne</term>
 <term>Watkins, Dinah</term>
-<term>Watkins, Gassaway</term>
+<term>Watkins, Gassaway</term><!-- slaveholder of Nanny -->
 <term>Watkins, John</term>
 <term>Watkins, Margaret</term>
 <term>Watkins, Margaret Gassaway</term>
@@ -181,7 +188,7 @@
 </keywords>
 
 <keywords scheme="original" n="outcome">
-<term/>
+<term>Judgment for Plaintiff</term>
 </keywords>
 
 </textClass>
@@ -189,7 +196,10 @@
 <particDesc>
 <listPerson>
 <person role="petitioner">
-<persName>Boston, George</persName>
+<persName>Boston, George</persName><!-- child of Maria; enslaved November 1, 1791; free May 1800 -->
+</person>
+<person role="defendant">
+<persName>Sprigg, Richard</persName><!-- slaveholder of Nathan and Daniels -->
 </person>
 <person role="defendant">
 <persName>Mercer, John Francis</persName>
@@ -211,6 +221,9 @@
 </person>
 <person role="attorney_defendant" xml:id="per.004664">
 <persName>Martin, Luther</persName>
+</person> 
+<person role="attorney_defendant" xml:id="per.005384">
+<persName>Sprigg, Richard, Jr.</persName>
 </person> 
 </listPerson>
 
@@ -283,7 +296,7 @@ At which said second tuesday of May in the year of our Lord One
 thousand seven hundred and ninety two, being the day of the return 
 of the aforegoing summons, comes into the General Court here, the
 said George Boston by his attorney aforesaid, and the sheriff of
-Anne Arundel County to whom the said summons wasa in form
+Anne Arundel County to whom the said summons was in form
 aforesaid directed, makes return thereof to the Court here that he
 hath summoned the said Richard Sprigg to answer the petition of
 the said George Boston prefered against him for Freedom, as by the
@@ -672,7 +685,7 @@ Lenah? Answers she does not recollect to have heard any. Being
 asked whether she recollects from whom she heard that Toby, Nan &amp;
 Bet came from old Robert Lockwoods estate? Answers that she
 knew the persons, but cannot recollect particularly from whom
-she heard that they came from Lockwoods estaate. Being asked
+she heard that they came from Lockwoods estate. Being asked
 how long she has known Mulatto Moll? Answers about 20 years
 or more, &amp; does not believe that Mulatto Moll was older than herself.
 Being asked if Mulatto Moll has been dead 8 or 10 years? Answers
@@ -762,11 +775,11 @@ name of Mulatto Moll; that she has always understood from her
 Mother that she lived in the family of old Robert Lockwood in
 the Swamp in Anne Arundel County, that she was to serve the
 said Robert Lockwood until she was thirty one years old, and
-that when Mrs Lockwood died she waas big with her first child and
+that when Mrs Lockwood died she was big with her first child and
 she further saith that her mother has told her many times that
 the mother of Lenah brought her up and took care of her when
-she was small; and that she has often hearad her said mother
-say that the said Lenah's mother waasa to be Free and was a 
+she was small; and that she has often heard her said mother
+say that the said Lenah's mother was to be Free and was a 
 Spanish woman and she has also heard old Mrs Wayson say
 that Lenah's mother was a Spanish woman and they some times
 called her a Hispaniola woman, and the Deponent has heard
@@ -960,7 +973,184 @@ William Harwood of Anne Arundel County being sworn on the Holy
 Evangels of Almighty God deposeth and saith that in the year
 Seventeen hundred and seventy four, as well as he recollects, he
 happened in company with a Mrs Margaret Watkins an old Lady
-at Colonel Harwoods and in the course of some conversation that</p>
+at Colonel Harwoods and in the course of some conversation that 
+passed between them she informed this Deponent that there were
+some negroes in the neighbourhood entitled to be Free and that
+it was her opinion they would some time or other obtain their
+Freedom; he well remembers that she named negroe Daniel who
+was at that time in the possession of Mr Samuel Watkins as one
+of the persons who ought to be Free. This Deponent is informed
+that the said negro Daniel has since the death of Samuel
+Watkins been discharged and set at liberty. This Deponent has
+been informed that Margaret Watkins was the wife of Nicholas Watkins
+who was the son of Mrs Jones. Sworn before me one of the Justices
+of the peace for Anne Arundel County this 25th day of May 1795.
+Allen Quynn. Thereupon further process of and upon the premises
+aforesaid, between the parties aforesaid, but order of the Court here is
+further continued until the second tuesday of October next.
+At which said second tuesday of October in the year of our Lord one
+
+<pb n="oscys.mdcase.0013.031.017"/>
+
+thousand seven hundred and ninety five, come again into the General Court here
+as well the said George Boston by his attorneys aforesaid, as the said Richard
+Sprigg by his attornies aforesaid: Whereupon the said George Boston by his
+attornies aforesaid, produced and filed in Court here the Deposition of Anne
+Brown, which ensues in form following towit. Anne Brown of Anne
+Arundel County aged sixty six years being sworn on the holy Evangely of
+Almighty God deposeth &amp; saith that she knows Betty the petitioner &amp; has
+known her ever since she the said Betty was a girl; she is the daughter 
+of Nanny who formerly belonged to Gassaway Watkins and afterwards to
+Henry Hall; that the said Betty is sister of Daniel who obtained his
+Freedom on a petition against said Henry Hall; that she knew Nanny
+aforesaid before she had any children; she is sister of Anthony Boston
+who obtained is Freedom on petition against Gassaway Rawlings,
+and is daughter of Violet whom the Deponent knew before the
+aforesaid Nanny was born; Violet belonged to the aforesaid Gassaway
+Watkins, and was the reputed daughter of Lenah Boston whom
+the Deponent knew when she the Deponent was a Girl, that the
+Deponent always understood that Violet aforesaid was the daughter of
+Lenah and she never heard it contradicted. That the Deponent
+knows George Boston, Nathan Boston &amp; Daniel Boston who petitioned
+against Richard Sprigg, they are sons of Maria who some years ago
+lived with Dr Steuart in Annapolis: that the aforesaid Maria is sister
+of Ben who obtained his Freedom against the aforesaid Richard
+Sprigg, and is daughter of Nelly whom the Deponent has known ever
+since she the deponent was a girl, they being born on the same
+plantation, &amp; Nelly was the reputed daughter of Maria Boston whom
+the deponent knew until her death which happened about eighteen or
+twenty years ago; That the said Maria was reputed to be the
+daughter of old Lenah aforesaid &amp; the Deponent never heard it contradicted.
+Sworn to this third day of June 1797. Before Bullen.
+Thereupon further process of and upon the premises aforesaid between the
+parties aforesaid, by order of the Court here is further continued until the
+second tuesday of May next. At which said second tuesday of May
+in the year of our Lord One thousand seven hundred and ninety six,
+come again into the General Court here as well the said George Boston
+by his attornies aforesaid, as the said Richard Sprigg by his attornies aforesaid:
+Thereupon further process of and upon the premises aforesaid between the
+parties aforesaid, by order of the Court here is further continued until the
+second tuesday of October next. At which said second tuesday of
+October in the year of our Lord One thousand seven hundred and ninety
+six, come again into the General Court here as well the said George
+Boston by his attornies aforesaid, as the said Richard Sprigg by his
+attornies aforesaid: Thereupon further process of and upon the premises
+
+<pb n="oscys.mdcase.0013.031.018"/>
+
+aforesaid, between the parties aforesaid, by order of the Court here is further
+continued until the second tuesday of May next. At which said second
+tuesday of May in the year of our Lord One thousand seven hundred and
+ninety seven, come again into the General Court here, as well the said
+George Boston by his attornies aforesaid, as the said Richard Sprigg by his
+attornies aforesaid: Thereupon further process, of and upon the premises
+aforesaid, between the parties aforesaid, by order of the Court here is further
+continued until the second tuesday of October next. At which said second
+tuesday of October in the year of our Lord one thousand seven hundred and
+ninety seven, come again into the General Court here, as well the said
+George Boston by his attornies aforesaid, as the said Richard Sprigg by his
+attornies aforesaid: Thereupon further process of and upon the premises aforesaid
+between the parties aforesaid, by order of the Court here is further continued
+until the second tuesday of May next. At which said second tuesday of
+May in the year of our Lord One thousand seven hundred and ninety eight
+come again into the General Court here, as well the said George Boston by
+his attornies aforesaid, as the said Richard Sprigg by his attornies aforesaid:
+Thereupon further process of and upon the premises aforesaid, between the
+parties aforesaid, by order of the Court here, is continued until the second tuesday
+of October next. At which said second tuesday of October in the year
+of our Lord One thousand seven hundred and ninety eight, come again into the
+General Court here, as well the said George Boston by his attornies aforesaid;
+as the said Richard Sprigg by his attornies aforesaid: Thereupon further
+process of and upon the premises aforesaid, between the parties aforesaid, by
+order of the Court here, is further continued until the second tuesday of May next.
+At which said second tuesday of May in the year of our Lord One thousand
+seven hundred and ninety nine, come again into the General Court here, as
+well the said George Boston by his attornies aforesaid, as the said Richard
+Sprigg by his attornies aforesaid; Thereupon further process of and upon the
+premises aforesaid, between the parties aforesaid, by order of the Court here, is
+further continued until the second tuesday of October next. At which said
+second tuesday of October in the year of our Lord One thousand seven
+hundred and ninety nine, come again into the General Court here,
+the said George Boston by his attornies aforesaid; and the said Richard
+Sprigg by his attornies aforesaid does not come: Whereupon the said
+George Boston by his attornies aforesaid suggests to the Court here; that
+after the last continuance of the plea aforesaid, towit, after the second
+tuesday of May last, and before this time, towit, on the &#8212; day of &#8212; at the
+County aforesaid, the said Richard Sprigg departed the life, and the same
+is not denied; Whereupon it is ordered by the Court here, on the prayer of the
+said George Boston by his attornies aforesaid, that a summons be forthwith
+issued, returnable to the next Term, directed to a certain John Francis
+Mercer and Sophia Mercer his wife Executive of the Testament and last
+
+<pb n="oscys.mdcase.0013.031.019"/>
+
+will of the said Richard Sprigg, commanding them to be and appear before
+the General Court here on the second tuesday of May next, to defend
+the action aforesaid, according to the Act of Assembly in such case made
+and provided; and such summons accordingly issues in form following
+towit. The State of Maryland Sct To the Sheriff of Anne
+Arundel County, Greeting. Whereas Richard Sprigg late of Anne
+Arundel County Gentleman, was heretofore summoned to be in the
+General Court, held at the City of Annapolis, to answer unto
+George Boston in a plea of Freedom and soforth; to which said
+plea the said Richard Sprigg appeared and <sic>impared</sic>; And
+Whereas the said Richard Sprigg is since deceased, as it hath
+been suggested in the said General Court: Therefore you are
+hereby commanded to summon John Francis Mercer and Sophia
+his wife Executrix of the Testament and last will of the said
+Richard Sprigg, that they be and appear before the said General
+Court, to be held at the City of Annapolis on the second tuesday
+of May next, to answer unto the said George Boston in the
+plea aforesaid, according to the directions of the Act of Assembly in
+such case lately made and provided, if to them it shall seem meet.
+Hereof fail not at your peril, and have you then and there
+this writ. Witness the honorable Jeremiah Townley Chase esquire
+chief Judge of the said General Court, the Eighth day of October
+in the year of our Lord One thousand seven hundred and ninety
+nine. Issued the Eleventh day of November 1799. <unclear>JRW.</unclear>
+Jno Gwinn Clk. the same day is given to the said George
+Boston then and there and soforth. And now at this day towit
+the said second tuesday of May in the year of our Lord One thousand
+eight hundred, comes again into the General Court here, the said
+George Boston by his attorney aforesaid, and the said Sheriff of
+Anne Arundel County to whom the said aforegoing writ was in form
+aforesaid directed, makes return thereof to the Court here that he hath
+summoned the said John Francis Mercer and Sophia Mercer his wife
+to answer to the said George Boston, as by the said Summons he
+was commanded: Whereupon the said John Francis Mercer and
+Sophia his wife Executrix of the said Richard Sprigg by Richard
+Sprigg their attorney appear in Court here, and say, that they cannot
+deny the complaint aforesaid of the said George Boston the petitioner
+aforesaid, so as aforesaid made, nor but that the said George Boston the
+petitioner aforesaid, is entitled to his Freedom, being descended, in the
+female line, from a free yellow woman being one of the Portuguese, in manner and form as the said
+George Boston by his said Petition to the Court here preferred against
+the said Richard Sprigg above hath alleged; and thereupon the said
+George Boston by his attorney aforesaid, prays that he may be dismissed
+
+<pb n="oscys.mdcase.0013.031.020"/>
+
+and discharged from the service of the said John Francis Mercer and Sophia
+his wife Executrix as aforesaid, together with his costs and charges by him about
+the prosecution of his said petition, to him to be adjudged and soforth.
+Therefore it is considered by the Court here, that the said George 
+Boston the petitioner aforesaid recover of and against the said John
+Francis Mercer and Sophia his wife Executrix as aforesaid, his Freedom,
+and that he be hence freed and discharged of and from the service of the
+said John Francis Mercer and Sophia his wife Executrix as aforesaid,
+and that he the said George Boston the petitioner aforesaid go freed
+and discharged thereof without day and soforth: And it is further
+considered by the Court here, that the said George Boston the petitioner
+aforesaid, recover against the said John Francis Mercer and Sophia his
+wife Executrix as aforesaid the sum of One thousand five hundred and
+twenty five pounds of tobacco, by the Court here unto the said George
+Boston on his assent adjudged, for his costs and charges by him about
+the prosecution of said petition in this behalf laid out and expended
+and that he have thereof his Execution and soforth.</p>
+
+<p>Test John Gwinn Clk.</p>
+
+<p>111 sids</p>
 
 </div2>
 
