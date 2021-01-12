@@ -83,12 +83,12 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Boston, Anthony</term>
-<term>Boston, Lenah</term><!-- portuguese; family of Maria Boston -->
+<term xml:id="per.006711">Boston, Anthony</term>
+<term xml:id="per.006715">Boston, Lenah</term><!-- family of Maria Boston -->
 <term xml:id="per.001514">Chase, Samuel, 1741-1811</term>
 <term xml:id="per.004367">Goldsmith, William</term>
 <term xml:id="per.001493">Gwinn, John</term>
-<term>Rawlings, Gassaway</term>
+<term xml:id="per.006712">Rawlings, Gassaway</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -104,23 +104,23 @@
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
+<person role="petitioner" xml:id="per.006816">
 <persName>Boston, Maria</persName>
 </person>
-<person role="defendant">
-<persName>Ogle, Benjamin</persName><!-- AAC  -->
+<person role="defendant" xml:id="per.006817">
+<persName>Ogle, Benjamin</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.006805">
 <persName>Jenings, George</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.001393">
 <persName>Duvall, Gabriel, 1752-1844</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.004360">
-<persName>Pinkney, William</persName><!-- add attorney to occupation -->
+<persName>Pinkney, William</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.001496">
-<persName>Cooke, William</persName><!-- add attorney to occupation -->
+<persName>Cooke, William</persName>
 </person>
 </listPerson>
 
