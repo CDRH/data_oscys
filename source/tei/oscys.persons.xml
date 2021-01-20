@@ -21550,7 +21550,7 @@ This file was compiled from information found in:
 <persName type="display">Scott, William A.</persName>
 <persName type="full"><surname>Scott</surname>, <forename type="first" full="yes">William</forename> <forename type="middle" full="init">A.</forename></persName>
 <sex>male</sex>
-<affiliation>Quaker</affiliation>
+<faith>Quaker</faith>
 </person>
 
 <person xml:id="per.002221" source="http://earlywashingtondc.org/doc/oscys.case.0290.001">
@@ -58800,7 +58800,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006715" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.001">
 <persName type="display">Boston, Lenah</persName>
-<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Lenah</forename> <addName type="first" subtype="alternate">Linah</addName> <addName type="first" subtype="alternate">Learner</addName></persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Lenah</forename> <addName type="first" subtype="alternate">Linah</addName> <addName type="first" subtype="alternate">Lenna</addName> <addName type="first" subtype="alternate">Learner</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab>yellow</ab></trait>
 <trait type="color"><ab>dark brown complexion</ab></trait>
@@ -58894,6 +58894,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Maria</forename> <addName type="first" subtype="alternate">Mareer</addName></persName>
 <sex>female</sex>
 <trait type="color"><ab>a very yellow woman</ab></trait>
+<socecStatus>enslaved</socecStatus>
 </person>
 
 <person xml:id="per.006726" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.002">
@@ -58939,6 +58940,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab></ab></trait>
 <residence>Anne Arundel County (Md.)</residence>
 <age when="1792">60</age>
+<age when="1797-06-03" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">66</age>
 </person>
 
 <person xml:id="per.006732" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.002">
@@ -59041,11 +59043,12 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006744" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.002">
-<persName type="display">Fernander, Andrew</persName>
-<persName type="full"><surname>Fernander</surname>, <forename type="first" full="yes">Andrew</forename></persName>
+<persName type="display">Ferrara, Andrew</persName>
+<persName type="full"><surname>Ferrara</surname> <addName type="surname" subtype="alternate">Fernander</addName> <addName type="surname" subtype="alternate">Fenara</addName>, <forename type="first" full="yes">Andrew</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab>yellow man</ab></trait>
 <nationality>Spaniard</nationality>
+<nationality source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">New Spain</nationality>
 </person>
 
 <person xml:id="per.006745" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.002">
@@ -59323,10 +59326,11 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <person xml:id="per.006781" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.002">
-<persName type="display">Sellman, Jonathan</persName>
-<persName type="full"><surname>Sellman</surname>, <forename type="first" full="yes">Jonathan</forename></persName>
+<persName type="display">Sellman, Jonathan, Jr.</persName>
+<persName type="full"><surname>Sellman</surname>, <forename type="first" full="yes">Jonathan</forename> <genName>Junior</genName> <roleName>Major</roleName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<residence>Anne Arundel County (Md.)</residence>
 </person>
 
 <person xml:id="per.006782" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.002">
@@ -59358,6 +59362,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="full"><surname>Sprigg</surname>, <forename type="first" full="yes">Thomas</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<death notAfter="1795-10-17">died before October 17, 1795</death>
 </person>
 
 <person xml:id="per.006786" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.002">
@@ -59774,6 +59779,221 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 </person>
 
 <!-- end oscys.mdcase.0013.016 -->
+
+<!-- start oscys.mdcase.0013.017 -->
+
+<person xml:id="per.006831" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, John</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus when="1791-11-01">enslaved</socecStatus>
+<socecStatus when="1795-10-13">free</socecStatus>
+</person>
+
+<person xml:id="per.006832" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Mercer, John Francis</persName>
+<persName type="full"><surname>Mercer</surname>, <forename type="first" full="yes">John</forename> <forename type="middle" full="yes">Francis</forename> <roleName>Colonel</roleName></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<residence>Anne Arundel County (Md.)</residence>
+</person>
+
+<person xml:id="per.006833" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Anne</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Anne</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006834" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Benjamin</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Benjamin</forename> <addName type="first" subtype="nickname">Ben</addName></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006835" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Bet</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Bet</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006836" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Daniel</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Daniel</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006837" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Deborah</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Deborah</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006838" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Dinah</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Dinah</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<death notAfter="1793-10">died before October 1793</death>
+</person>
+
+<person xml:id="per.006839" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Fanny</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Fanny</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006840" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, George</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">George</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006841" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Guy</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Guy</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+<death notAfter="1795-10">died before October 1795</death>
+</person>
+
+<person xml:id="per.006842" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Hannah</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Hannah</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006843" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Henny</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Henny</forename> <addName type="first" subtype="alternate">Henry</addName></persName>
+<sex>unknown</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006844" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Jenny</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Jenny</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006845" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, John</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">John</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006846" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Maria</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Maria</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006847" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Minta</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Minta</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<death notAfter="1793-10">before October 1793</death>
+</person>
+
+<person xml:id="per.006848" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Nelly</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Nelly</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006849" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Peter</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Peter</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006850" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Boston, Philip</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Philip</forename> <addName type="first" subtype="nickname">Phil</addName></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006851" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.017">
+<persName type="display">Murray, James</persName>
+<persName type="full"><surname>Murray</surname>, <forename type="first" full="yes">James</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- end oscys.mdcase.0013.017 -->
+
+<!-- start oscys.mdcase.0013.031 -->
+
+<person xml:id="per.006852" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">
+<persName type="display">Boston, Nanny</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Nanny</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006853" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">
+<persName type="display">Boston, Betty</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Betty</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006854" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">
+<persName type="display">Boston, George</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">George</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus when="1791-11-01">enslaved</socecStatus>
+<socecStatus when="1800-05">free</socecStatus>
+</person>
+
+<person xml:id="per.006855" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">
+<persName type="display">Mercer, Sophia</persName>
+<persName type="full"><surname>Mercer</surname>, <forename type="first" full="yes">Sophia</forename></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006856" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">
+<persName type="display">Boston, Daniel</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Daniel</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<person xml:id="per.006857" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">
+<persName type="display">Boston, Nathan</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Nathan</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<socecStatus>enslaved</socecStatus>
+</person>
+
+<!-- end oscys.mdcase.0013.031 -->
 
 <!--
 
