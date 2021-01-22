@@ -56716,10 +56716,10 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006472" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
 <persName type="display">Steward, David</persName>
-<persName type="full"><surname>Steward</surname>, <forename type="first" full="yes">David</forename></persName>
+<persName type="full"><surname>Steward</surname> <addName type="surname" subtype="alternate">Steuart</addName>, <forename type="first" full="yes">David</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
-<occupation>sheriff</occupation>
+<occupation>sheriff, Anne Arundel County (Md.)</occupation>
 </person>
 
 <person xml:id="per.006473" source="http://earlywashingtondc.org/doc/oscys.mdcase.0014.065">
@@ -58806,6 +58806,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <trait type="color"><ab>dark brown complexion</ab></trait>
 <trait type="color"><ab>bright yellow woman</ab></trait>
 <trait type="color"><ab>small yellow woman</ab></trait>
+<birth>about 1680</birth>
 <death>about 1749</death>
 <nationality>Spanish</nationality>
 <nationality>East Indian</nationality>
@@ -59327,7 +59328,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 
 <person xml:id="per.006781" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.002">
 <persName type="display">Sellman, Jonathan, Jr.</persName>
-<persName type="full"><surname>Sellman</surname>, <forename type="first" full="yes">Jonathan</forename> <genName>Junior</genName> <roleName>Major</roleName></persName>
+<persName type="full"><surname>Sellman</surname> <addName type="surname" subtype="alternate">Selman</addName>, <forename type="first" full="yes">Jonathan</forename> <genName>Junior</genName> <roleName>Major</roleName></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 <residence>Anne Arundel County (Md.)</residence>
@@ -59993,7 +59994,50 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <socecStatus>enslaved</socecStatus>
 </person>
 
+<person xml:id="per.006858" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">
+<persName type="display">Harwood</persName>
+<persName type="full"><surname>Harwood</surname> <roleName>Colonel</roleName></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<person xml:id="per.006859" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">
+<persName type="display">Harwood, William</persName>
+<persName type="full"><surname>Harwood</surname>, <forename type="first" full="yes">William</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<residence>Anne Arundel County (Md.)</residence>
+</person>
+
+<person xml:id="per.006860" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">
+<persName type="display">Steuart</persName>
+<persName type="full"><surname>Steuart</surname></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+<occupation>doctor</occupation>
+<residence>Annapolis (Md.)</residence>
+</person>
+
+<person xml:id="per.006861" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.031">
+<persName type="display">Wayson</persName>
+<persName type="full"><surname>Wayson</surname></persName>
+<sex>female</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
 <!-- end oscys.mdcase.0013.031 -->
+
+<!-- restart oscys.mdcase.0013.002 -->
+
+<person xml:id="per.006862" source="http://earlywashingtondc.org/doc/oscys.mdcase.0013.002">
+<persName type="display">Boston, Daniel</persName>
+<persName type="full"><surname>Boston</surname>, <forename type="first" full="yes">Daniel</forename></persName>
+<sex>male</sex>
+<trait type="color"><ab></ab></trait>
+</person>
+
+<!-- end oscys.mdcase.0013.002 -->
+
 
 <!--
 
