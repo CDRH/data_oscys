@@ -12,6 +12,7 @@
 <resp>transcription and encoding</resp>
 <name n="Hyman, Christy" xml:id="ch">Christy Hyman</name>
 <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+<name n="Weakly, Laura K." xml:id="lkw">Laura K. Weakly</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>University of Maryland</sponsor>
@@ -95,10 +96,10 @@
 <term xml:id="per.005174">Neale, William</term>
 <term xml:id="per.005170">Neale, Raphael</term>
 <term xml:id="per.005172">Neale, Roswell</term>
-<term xml:id="per.005217">Shorter, Elizabeth</term><!-- family of Basil Shorter -->
+<term xml:id="per.005217">Shorter, Elizabeth</term>
 <term xml:id="per.005224">Shorter, Jenny</term>
 <term xml:id="per.005233">Shorter, Lucy</term>
-<term xml:id="per.005288">Shryock, Henry</term><!-- Sheriff of Washington County -->
+<term xml:id="per.005288">Shryock, Henry</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -127,9 +128,6 @@
 <person role="attorney_defendant" xml:id="per.004640">
 <persName>Mason, John T. (John Thomson), 1787-1850</persName>
 </person>
-<person role="attorney_defendant">
-<persName/>
-</person>
 </listPerson>
 
 <listOrg>
@@ -142,6 +140,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-09" who="#lkw">reviewed; relationship encoding</change>
 <change when="2019-07" who="#kln">reviewed and edited transcription; encoded</change>
 <change when="2018" who="#ch">preliminary transcription</change>
 </revisionDesc>

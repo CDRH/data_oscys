@@ -83,32 +83,56 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term/>
+<term xml:id="per.006806">Boston, Anne</term><!-- sibling of Bacon 6803; mother of Daniel; child of Violet -->
+<term xml:id="per.006803">Boston, Bacon</term><!-- deponent; upward of 40, June 15 1793; sibling of Anne -->
+<term xml:id="per.006807">Boston, Bacon</term><!-- enslaved by Gassaway Watkins; child of Darkey -->
+<term xml:id="per.006808">Boston, Darkey</term><!-- alt: Darky; parent of Richard and Bacon; child of Violet -->
+<term xml:id="per.006809">Boston, Jenny</term><!-- parent of Peter 6811; family of Violet -->
+<term xml:id="per.006715">Boston, Lenah</term><!-- family of Daniel Boston -->
+<term xml:id="per.006810">Boston, Peter</term><!-- enslaved by Stephen Steward; child of Darkey -->
+<term xml:id="per.006811">Boston, Peter</term><!-- enslaved by Richard Wells; child of Jenny -->
+<term xml:id="per.006812">Boston, Richard</term><!-- enslaved by Joshua Warfield; child of Darkey -->
+<term xml:id="per.006717">Boston, Violet</term><!-- parent of Anne and Darkey -->
+<term xml:id="per.001514">Chase, Samuel, 1741-1811</term>
+<term xml:id="per.004367">Goldsmith, William</term>
+<term xml:id="per.001493">Gwinn, John</term>
+<term xml:id="per.004375">Ridgely, Henry</term><!-- alderman -->
+<term xml:id="per.006813">Steward, Stephen</term><!-- slaveholder of Peter -->
+<term xml:id="per.006792">Watkins, Gassaway</term><!-- slaveholder of Bacon 6807 -->
+<term xml:id="per.006814">Warfield, Joshua</term><!-- slaveholder of Richard -->
+<term xml:id="per.006815">Wells, Richard</term><!-- slaveholder of Peter -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">
-<term/>
+<term>Anne Arundel County (Md.)</term>
+<term>Annapolis (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">
-<term/>
+<term>Judgment for Plaintiff</term>
 </keywords>
 
 </textClass>
 
 <particDesc>
 <listPerson>
-<person role="petitioner" >
-<persName>Boston, Daniel</persName>
+<person role="petitioner" xml:id="per.006724">
+<persName>Boston, Daniel</persName><!-- child of Anne -->
 </person>
-<person role="defendant" >
+<person role="defendant" xml:id="per.006753">
 <persName>Hall, Henry</persName>
 </person>
-<person role="attorney_petitioner" >
-<persName/>
+<person role="attorney_petitioner" xml:id="per.006805">
+<persName>Jenings, George</persName>
 </person>
-<person role="attorney_defendant">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.004360">
+<persName>Pinkney, William</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001496">
+<persName>Cooke, William</persName>
 </person>
 </listPerson>
 
@@ -175,9 +199,9 @@ November Anno Domini 1791. (G. Js)</p>
 
 <p>At which said second Tuesday of May being the eighth day of the said month
 in the year of our Lord one thousand seven hundred and ninety two, and the
-return day of the said writ comes into the General Cout here the said
+return day of the said writ comes into the General Court here the said
 Daniel Boston by her attorney aforesaid; And the Sheriff of Ann Arundel
-County aforesaid to whom the said writ was in foresaid directed towit. William
+County aforesaid to whom the said writ was in aforesaid directed towit. William
 Goldsmith Gentleman, makes return thereof to the Court here thereon endorsed
 to Wit; "Summoned. Wm Goldsmith Shff." Thereupon the said
 Henry Hall appears in Court here by William Cooke his attorney: thereupon

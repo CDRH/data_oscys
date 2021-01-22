@@ -85,7 +85,7 @@
 
 <keywords scheme="lcsh" n="people">
 <term xml:id="per.001514">Chase, Samuel, 1741-1811</term>
-<term xml:id="per.005302">Ford, Philip</term><!-- bond to Richard Edelen-->
+<term xml:id="per.005302">Ford, Philip</term>
 <term xml:id="per.001493">Gwinn, John</term>
 <term xml:id="per.005217">Shorter, Elizabeth</term>
 <term xml:id="per.002691">Simms, James</term>
@@ -185,10 +185,10 @@
 <persName>Edelen, Richard</persName>
 </person>
 <person role="attorney_petitioner" xml:id="per.001393">
-<persName>Duvall, Gabriel, 1752-1844</persName><!-- attorney for Leonard Shorter -->
+<persName>Duvall, Gabriel, 1752-1844</persName>
 </person>
 <person role="attorney_defendant" xml:id="per.001495">
-<persName>Key, Philip Barton, 1757-1815</persName><!-- attorney for Richard Edelen -->
+<persName>Key, Philip Barton, 1757-1815</persName>
 </person>
 </listPerson>
 
@@ -202,6 +202,7 @@
 </profileDesc>
 
 <revisionDesc>
+<change when="2020-10" who="#lkw">reviewed; relationship encoding</change>
 <change when="2019-07-24" who="#kln">reviewed and edited transcription; encoded</change>
 <change when="2018" who="#ch">preliminary transcription</change>
 </revisionDesc>

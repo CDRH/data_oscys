@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Anthony Boston v. Gassaway Rawlings. Judgement Record</title>
+<title>Anthony Boston v. Gassaway Rawlings and Daniel Boston v. Anne Watkins. Judgement Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -85,9 +85,9 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Boston, Lenah</term><!-- alt: Linah; parent of Violet, child of Maria -->
-<term>Boston, Maria</term><!-- alt: Marea; parent of Lenah -->
-<term>Boston, Violet</term><!-- parent of Anthony and Daniel, child of Lenah -->
+<term xml:id="per.006715">Boston, Lenah</term><!-- alt: Linah; parent of Violet, child of Maria -->
+<term xml:id="per.006716">Boston, Maria</term><!-- alt: Marea; parent of Lenah -->
+<term xml:id="per.006717">Boston, Violet</term><!-- parent of Anthony and Daniel, child of Lenah -->
 <term xml:id="per.002102">Chase, Jeremiah Townley, 1748-1828</term><!-- judge -->
 <term xml:id="per.001514">Chase, Samuel, 1741-1811</term><!-- judge -->
 </keywords>
@@ -104,13 +104,13 @@
 
 <particDesc>
 <listPerson type="oscys.caseid.0543">
-<person role="petitioner" >
+<person role="petitioner" xml:id="per.006711">
 <persName>Boston, Anthony</persName><!-- child of Violet -->
 </person>
-<person role="defendant" >
+<person role="defendant" xml:id="per.006712">
 <persName>Rawlings, Gassaway</persName>
 </person>
-<person role="attorney_petitioner" >
+<person role="attorney_petitioner">
 <persName/>
 </person>
 <person role="attorney_defendant">
@@ -119,13 +119,13 @@
 </listPerson>
 
 <listPerson type="oscys.caseid.0544">
-<person role="petitioner" >
+<person role="petitioner" xml:id="per.006713">
 <persName>Boston, Daniel</persName><!-- child of Violet -->
 </person>
-<person role="defendant" >
+<person role="defendant" xml:id="per.006714">
 <persName>Watkins, Anne</persName>
 </person>
-<person role="attorney_petitioner" >
+<person role="attorney_petitioner">
 <persName/>
 </person>
 <person role="attorney_defendant">

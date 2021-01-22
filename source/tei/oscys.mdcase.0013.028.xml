@@ -83,9 +83,9 @@
 </keywords>
 
 <keywords scheme="lcsh" n="people">
-<term>Boston, John</term>
+<term xml:id="per.006831">Boston, John</term>
 <term xml:id="per.001493">Gwinn, John</term>
-<term>Mercer, John Francis</term>
+<term xml:id="per.006832">Mercer, John Francis</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">
@@ -101,14 +101,20 @@
 
 <particDesc>
 <listPerson>
-<person role="petitioner">
-<persName>Boston, Maria</persName>
+<person role="petitioner" xml:id="per.006834">
+<persName>Boston, Benjamin</persName>
 </person>
-<person role="defendant">
+<person role="defendant" xml:id="per.006829">
 <persName>Richardson, Sprigg</persName>
 </person>
-<person role="attorney_petitioner">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.006805">
+<persName>Jenings, George</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.004360">
+<persName>Pinkney, William</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
 </person>
 <person role="attorney_defendant">
 <persName/>
