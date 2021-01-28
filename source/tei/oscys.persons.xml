@@ -14688,10 +14688,14 @@ This file was compiled from information found in:
 <!-- oscys.case.0001.009 start  -->
 
 <person xml:id="per.001543" source="http://earlywashingtondc.org/doc/oscys.case.0001.009">
-<persName type="display">Duckett, Allen Bowie</persName>
+<persName type="display" source="#viaf">Duckett, Allen B., 1775-1809</persName> 
 <persName type="full"><surname>Duckett</surname>, <forename type="first" full="yes">Allen</forename> <forename type="middle">Bowie</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
+<birth when="1775" source="#viaf">1775</birth>
+<death when="1809" source="#viaf">1809</death>
+<occupation>judge, Circuit Court for the District of Columbia</occupation>
+<occupation source="https://earlywashingtondc.org/doc/oscys.mdcase.0009.002">attorney</occupation>
 </person>
 
 <!-- oscys.case.0001.009 end  -->
