@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0015.001">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Hannah, Mary, Anne, Hannah, Daniel, Silla, &amp; Peggy Hawkins v. Sarah Disney. Judgment Record</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>University of Maryland</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+
+<editionStmt>
+<edition>
+<date>2020</date>
+</edition>
+</editionStmt>
+
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska–Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.mdcase.0015.001</idno>
+<idno type="case">oscys.caseid.0667</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>
+Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.
+</p>
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Judgment Record</title>
+<date when="1795-10">October 1795</date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Western Shore (Judgment Record)</collection>
+<idno>MSA S497-25 JG 29</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Supplementary Documents</term>
+</keywords>
+
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1795-10">October 1795</date></term>
+</keywords>
+
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.006871">Barnes, Eleanor</term><!-- deponent; neighbor to Sarah Disney; -->
+<term xml:id="per.006877">Barry, Joshua</term><!-- deponent; acquaintance of Sarah Disney and Eleanor Barnes; -->
+<term xml:id="per.006878">Brookes, Daniel</term><!-- acquaintance of William Disney -->
+<term xml:id="per.004601">Bullen, J.</term>
+<term xml:id="per.006884">Burgess, West</term><!-- brother-in-law of William Disney -->
+<term xml:id="per.001514">Chase, Samuel, 1741-1811</term><!-- judge -->
+<term xml:id="per.006741">Disney, James</term><!-- bond for Sarah Disney; sibling of William Disney -->
+<term xml:id="per.006882">Disney, Rachel</term><!-- child of Sarah Disney -->
+<term xml:id="per.000073">Disney, Richard</term><!-- deponent; acquaintance of Hannah Hawkins; uncle of William Disney  -->
+<term xml:id="per.006872">Disney, William</term><!-- spouse of Sarah Disney; nephew of Richard Disney; sibling of James Disney -->
+<term xml:id="per.004367">Goldsmith, William</term><!-- sheriff -->
+<term xml:id="per.001493">Gwinn, John</term><!-- clerk -->
+<term xml:id="per.006881">Hawkins, Quash</term><!-- mother of Hannah Hawkins; parent of Sharpe Hawkins -->
+<term xml:id="per.006873">Hawkins, Sharpe</term><!-- sibling of Hannah Hawkins; child of Quash -->
+<term xml:id="per.006879">Howard, Joseph</term><!-- acquaintance of William Disney -->
+<term xml:id="per.001507">Mackubin, James</term><!-- alt Maccubin; legal -->
+<term xml:id="per.006880">Nicholson, Stephen</term><!-- deponent; acquaintance of Daniel Brooke, William Disney, Sarah Disney, Rachel Disney -->
+<term xml:id="per.001477">Quynn, Allen</term>
+<term xml:id="per.006875">Snowden</term>
+<term xml:id="per.006874">Stevenson, Eleanor</term><!-- deponent; living with Major Snowden -->
+<term xml:id="per.006883">Ward, Sarah</term><!-- deponent; acquaintance of William and Sarah Disney and West Burgess -->
+<term xml:id="per.006876">Williams, Ennion</term><!-- deponent; acquaintance of Eleanor Barnes -->
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Anne Arundel County (Md.)</term>
+<term>Calvert County (Md.)</term>
+<term>Annapolis (Md.)</term>
+</keywords>
+
+<keywords scheme="original" n="outcome">
+<term>Judgment for Plaintiff</term>
+</keywords>
+
+</textClass>
+
+<particDesc>
+<listPerson>
+<person role="petitioner" xml:id="per.006863">
+<persName>Hawkins, Hannah</persName><!-- parent of Mary, Anne, Hannah, Daniel, Silla, Peggy; sibling of Sharper Hawkins; child of Quash Hawkings -->
+</person>
+<person role="petitioner" xml:id="per.006864">
+<persName>Hawkins, Mary</persName><!-- child of Hannah, sibling of Mary, Anne, Hannah, Daniel, Silla, Peggy -->
+</person>
+<person role="petitioner" xml:id="per.006865">
+<persName>Hawkins, Anne</persName><!-- child of Hannah, sibling of Mary, Hannah, Daniel, Silla, Peggy -->
+</person>
+<person role="petitioner" xml:id="per.006866">
+<persName>Hawkins, Hannah</persName><!-- child of Hannah, sibling of Mary, Anne, Daniel, Silla, Peggy -->
+</person>
+<person role="petitioner" xml:id="per.006867">
+<persName>Hawkins, Daniel</persName><!-- child of Hannah, sibling of Mary, Anne, Hannah, Silla, Peggy -->
+</person>
+<person role="petitioner" xml:id="per.006868">
+<persName>Hawkins, Silla</persName><!-- child of Hannah, sibling of Mary, Anne, Hannah, Daniel, Peggy -->
+</person>
+<person role="petitioner" xml:id="per.006869">
+<persName>Hawkins, Peggy</persName><!-- child of Hannah, sibling of Mary, Anne, Hannah, Daniel, Silla -->
+</person>
+<person role="defendant" xml:id="per.006870">
+<persName>Disney, Sarah</persName><!-- parent of Rachel Disney; spouse of William Disney -->
+</person>
+<person role="attorney_petitioner" xml:id="per.001393">
+<persName>Duvall, Gabriel, 1752-1844</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001495">
+<persName>Key, Philip Barton, 1757-1815</persName>
+</person>
+</listPerson>
+
+<listOrg>
+<org>
+<orgName>Maryland. General Court of the Western Shore</orgName>
+<placeName>Annapolis (Md.)</placeName>
+</org>
+</listOrg>
+</particDesc>
+</profileDesc>
+
+<revisionDesc>
+<change when="2021-01-29" who="#kln">transcribed; encoded</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+
+<div1 type="case">
+
+<pb n="oscys.mdcase.0015.001.001"/>
+
+<div2 type="caption">
+
+<p>Hannah Hawkins and her
+Six children Mary, Anne,
+Hannah, Daniel, Silla and Peggy<lb/>
+against<lb/>
+Sarah Disney</p>
+
+</div2>
+
+<div2 type="body">
+
+<p>Be it remembered that heretofore
+to wit, one the Thirtieth day of May
+in the year of our Lord one thousand 
+seven hundred and ninety two;
+Hannah Hawkins for herself and
+her six children, Mary, Anne,
+Hannah, Daniel, Silla and Peggy by Gabriel Duvall her attorney
+preferred and filed in the General Court here, her petition for
+Freedom against Sarah Disney, which is in form following to
+wit.</p>
+
+<p>To the honourable the Judges of the General Court. The petition
+of Hannah Hawkins humbly sheweth, that she (together with
+her six Children, Mary, Anne, Hannah, Daniel, Silla, Peggy) is
+held in slavery by Sarah Disney of Ann Arundel County and
+she is advised that they are entitled to their freedom, being
+<sic>decended</sic> from a free woman. she therefore prays your honours
+
+<pb n="oscys.mdcase.0015.001.002"/>
+
+(the premises be considered) to discharge them from the
+further service of the said Sarah Disney, and that summons
+may issue for the said Sarah Disney to answer unto
+this petition and she will pray and so forth.</p>
+
+<p>G. Duvall for Petnr</p>
+
+<p>Whereupon, in pursuance of the rule and order of the
+Court here in such case made on the day of preferring
+and <sic>fileing</sic> the said Petition the said Hannah Hawkins
+for herself and her six Children aforesaid by her attorney
+aforesaid prosecuted and sued forth out of the General
+Court here, the writ of the State of Maryland of Subpoena
+ad respondendum against the said Sarah Disney directed
+to the sheriff of Anne Arundel County in form following to wit</p>
+
+<p>The State of Maryland Sc. To the sheriff of Ann Arundel
+County, Greeting. We command you that you summons
+Sarah Disney late of Ann Arundel County that all excuses
+and delays be set a side she be and appear before the
+Judges of our General Court to be held at the City of Annapolis
+on the second Tuesday of October next, to answer the
+petition of Hannah Hawkins and her six children,
+Mary, Anne, Hannah, Daniel, Silla, and Peggy, prefered
+against her for freedom. Hereof she is not to fail and
+fail not at your peril and have you then and there
+this writ. Witness the honourable Samuel Chase Esquire
+Chief Judge of our said Court the 25th day of May Anno
+Domini 1792.</p>
+
+<p>Issued the 30th day of May 1792. G.D. Jno Gwinn Clk.</p>
+
+<p>At which said second Tuesday of October being the
+ninth day o the said month in the year of our Lord one
+thousand seven hundred and ninety two, and the day
+of the return of the aforegoing summons comes into the 
+General Court here the said Hannah Hawkins for herself
+and <sic>here</sic> six Children aforesaid by her attorney aforesaid
+and the sheriff of Anne Arundel County aforesaid to whom
+the said Summons was in form aforesaid directed, makes
+return thereof to the Court here thus endorsed to wit.</p>
+
+<p>Summoned. William Goldsmith Sheriff.</p>
+
+<p>Whereupon, comes into the General Court here the said Sarah
+<catchwords>Disney</catchwords>
+
+<pb n="oscys.mdcase.0015.001.003"/>
+
+Disney by Philip Barton Key her attorney, and on motion of the said
+Hannah Hawkins for herself and her six children aforesaid by her
+attorney aforesaid it is ruled by the Court here that the said Sarah
+Disney enter into a Recognizance to the State of Maryland in the
+usual form in such cases made and provided. Whereupon a
+certain James Disney of Anne Arundel County comes into Court here in
+his proper person, and acknowledges himself to owe and stand justly
+indebted to the State of Maryland in the sum of two hundred pounds
+Current money, to be levied of his body goods and Chattels, lands and 
+tenements, to and for the use of the said State of Maryland, on
+Condition that the said Hannah Hawkins and her six children
+or either of them out of the said State of Maryland nor obstruct the
+said Hannah Hawkins from attending this Court from time to time
+in support of her petition for Freedom exhibited on behalf of herself and her six
+Children aforesaid, in the said Court against the said Sarah Disney
+and in the mean time to feed cloath and use her the said
+Hannah Hawkins and her six children aforesaid well, and pay
+whatever satisfaction the Court shall adjudge for the services of the said Hannah Hawkins and her six children aforesaid
+from this Term to the time of the Judgment with costs.</p>
+
+<p>Thereupon further process of and upon the premises aforesaid,
+between the parties aforesaid by order of the Court here is continued
+between the parties aforesaid by order of the Court here is continued
+until the second Tuesday of May next; the same day is given to the parties aforesaid then, and soforth.</p>
+
+<p>At which said second Tuesday of May being the fourteenth
+day of the said month in the year of our Lord one thousand 
+seven hundred and ninety three, come again into the General
+Court here as well the said Hannah Hawkins for herself and
+her six children aforesaid by her attorney aforesaid as the
+said Sarah Disney by her attorney aforesaid and the said
+Hannah Hawkins for herself and her six children aforesaid by her Attorney aforesaid files in Court here the Depositions of Eleanor
+Stevenson and Eleanor Barnes which are in form following towit</p>
+
+<p>Hannah Hawkins and her Children<lb/>
+Against<lb/>
+Sarah Disney</p>
+
+<p>Petition for freedom in the
+General Court.</p>
+
+<p>The deposition of Eleanor Barnes
+of Anne Arundel County
+aged twenty nine years being sworn on the holy Evangely of
+<catchwords>Almighty</catchwords>
+
+<pb n="oscys.mdcase.0015.001.004"/>
+
+Almighty God deposeth and saith that she has lived a near
+Neighbour for nearly two years to Mr Sarah Disney the
+defendant in this cause, and saith that the said Sarah has
+at several different times informed the deponent since her
+acquaintance with her, that the mother of Hannah the
+petitioner who is now present was a free woman, free as
+the deponent is, and that she could take no rest, and could
+not die easy untill she set them at their liberty for that they had
+a right to be free, but her children would not let them go.
+She further saith that the said Sarah Disney the defendant
+informed the deponent that the mother of Hannah had a
+son younger than Hannah and who was sucking at his mothers
+Breast when her husband William Disney bought them, the
+said Hannah and her brother whose name the deponent has
+heard was Sharper, and that he is now a freeman in Calvert
+County, and she further informed the deponent that they were
+bought by her said Husband to serve him untill they come
+of age; that they were brought in a vessel from new England
+with their mother who was a sickly woman, and sold, (without the
+mother) to the defendants Husband; that he bought them when
+young as aforesaid and when he brought them home she asked
+him why he bought two such young things, to which he answered
+that he gave but a mere trifle for them and bought them only
+until they came of age and did not buy them for life and
+took them for pity's sake or charity's Sake or Words to that
+effect. she further told her that the mother died soon after
+somewhere in the Neighbourhood. This the said Sarah Disney
+has repeated several times to the deponent of her own accord
+and seemed to be very uneasy on account of her Children's
+refusing to let them <sic>them</sic> have their liberty.</p>
+
+<p>Sworn before me this 20th May 1793. Allen Quynn.</p>
+
+<p>The deposition of Eleanor Stevenson a free mulatto woman
+born free and living with Major Snowden of Anne Arundel
+County aforesaid about fifty one years deposeth and saith
+being first duly sworn in the Cause aforesaid saith that
+she has heard Sarah Disney the defendant several times
+Cry and say that she could have no rest and could never 
+die easy untill Hannah the Petitioner and her Children <catchwords>were</catchwords>
+
+<pb n="oscys.mdcase.0015.001.005"/>
+
+were free; for that her husband had bought them to serve until
+they come of age and not for life, and that they were free, but
+her children would not agree that they should be free.</p>
+
+<p>Sworn before me this 20th May 1793. Allen Quynn.</p>
+
+<p>Thereupon further process of and upon the premises aforesaid
+between the parties aforesaid, by order of the Court here is further
+continued until the second Tuesday of October next; the same
+day is given to the parties aforesaid then and so forth.</p>
+
+<p>At which said second Tuesday of October being the Eighth day
+of the said month in the year of our Lord one thousand seven
+hundred and ninety three, come again into the General Court here
+as well the said Hannah Hawkins for herself and her six Children
+aforesaid by her attorney aforesaid, as the said Sarah Disney by
+her attorney aforesaid. Thereupon further process of and upon
+the premises aforesaid between the parties aforesaid by order
+of the Court here, is further continued untill the second tuesday
+of May next; the same day is given to the parties aforesaid, then
+and so forth.</p>
+
+<p>At which said second Tuesday of May being the thirteenth
+day of the said month in the year of our Lord one thousand seven
+hundred and ninety four, come again into the General Court
+here as well the said Hannah Hawkins for herself and her six
+Children aforesaid by her attorney aforesaid, as the said Sarah
+Disney by her attorney aforesaid: And the said Hannah Hawkins
+for herself and her six Children aforesaid by her attorney aforesaid
+files in Court here the Deposition of Ennion Williams, which
+is in form following to wit.</p>
+
+<p>Hannah Hawkins<lb/>
+against<lb/>
+<sic>Rachel</sic> Disney</p>
+
+<p>Petition for freedom in the General Court
+Ennion Williams of Anne Arundel County,
+aged about thirty eight years being one of the
+People called Quakers did solemnly truly and
+sincerely declare and affirm that he has known Eleanor Barnes a
+witness sworn in this cause about ten years, that during the space of
+two years the husband of the said Eleanor Barnes was employed
+by this affirmant when they lived very near him, and he
+never heard any thing against the Character of the said
+Eleanor Barnes; that she appeared to conduct herself with
+propriety, and he thinks deserving of Credit. Affirmed before me
+this 15th May 1794. Allen Quynn.</p>
+
+<p><catchwords>Thereupon</catchwords>
+
+<pb n="oscys.mdcase.0015.001.006"/>
+
+Thereupon further process of and upon the premises aforesaid
+between the parties aforesaid by order of the court here is
+further continued until the second tuesday of October next 
+the same day is given to the parties aforesaid, then, and
+so forth.</p>
+
+<p>At which said second Tuesday of October being the
+fourteenth day of the said month in the year of our Lord
+one thousand seven hundred and ninety four, come again
+into the General Court here as well the said Hannah Hawkins
+for herself and her six Children aforesaid by her attorney
+aforesaid, as the said Sarah Disney by her attorney aforesaid
+Thereupon further process of and upon the premises
+aforesaid between the parties aforesaid, by order of the 
+Court here is further continued until the second Tuesday
+of May next; the same day is given to the parties aforesaid
+then and soforth.</p>
+
+<p>At which said second Tuesday of May, being the twelfth
+day of the same month in the year of our Lord one thousand
+seven hundred and ninety five; Thereupon further process
+of and upon the premises aforesaid between the parties aforesaid
+by order of the Court here is further continued until the second
+Tuesday of October next; the same day is given to the parties
+aforesaid then and so forth.</p>
+
+<p>And now at this day to wit, the said second Tuesday of
+October being the thirteenth day of the said month in the year
+of our Lord one thousand seven hundred and ninety five come
+again into the General Court here as well the said Hannah
+Hawkins for herself and her six children aforesaid by her
+attorney aforesaid, as the said Sarah Disney by her
+attorney aforesaid; And the said Hannah Hawkins for
+herself and her six children aforesaid by her attorney
+aforesaid files in Court here the several Depositions in form
+following to wit.</p>
+
+<p>Richard Disney of Anne Arundel County of the age of
+seventy seven years being sworn on the holy <sic>Evangils</sic> of
+Almighty God, deposeth and says, That he remembers the
+Petitioner <sic>Hanah</sic> was a little Girl and bought out of a
+Vessel as he always understood and heard by his Nephew <catchwords>William</catchwords>
+
+<pb n="oscys.mdcase.0015.001.007"/>
+
+William Disney now dead who was the husband of Sarah Disney
+the defendant, This deponent has often heard and always understood
+that the said Hanah was bought as a slave, as other negroes usually
+are, and this deponent never heard untill about the time of the
+present Petition or a little before anything to the contrary. This
+deponent knows that his nephew William Disney always claimed and
+possessed the said Hanah as a slave, and that after the death of
+said William his wife Sarah claimed and possessed Hanah and her
+Children as slaves, and gave them as slaves to her children. This
+deponent has understood that Mrs Sarah Disney changed her religion
+and became a Methodist two or three years ago, and since that
+time this Deponent has heard of a claim of said Hannah to be free
+but this deponent in the course of a very intimate acquaintance
+with the family of his Nephew William for forty years, never
+heard of any claim of the said Hanah to her freedom before Mrs
+Sarah Disney changed her Religion. Sworn to this 19th day of Octo
+1793. Before me, James Maccubin</p>
+
+<p>Hannah Hawkins<lb/>
+against<lb/>
+Sarah Disney</p>
+
+<p>Joshua Barry in the 20th year of his age being
+sworn on the holy Evangely of Almighty God
+deposeth and saith, that about two months
+ago he was at the plantation where Mrs Disney
+the defendant lives, and in conversation with her she told him
+that when the petitioner was small and was offered for sale at the
+Inspection house point, one Daniel Brooke went down to the
+Vessel and asked the old woman (who was the petitioners Mother
+if she and her Children were to be sold, and she answered no
+she was not to be sold, as Brooke told her, he then returned to
+William Disney's (the defendants husband) and William Disney
+asked him where his two little negroes were; he answered he
+was not going to buy free negroes, and said she (Hannah's
+mother) and her children were as free as he was That a few
+days afterwards William Disney went down and bought the
+Children, the old woman was gone; William Disney brought them
+home and in two days afterwards Joseph Howard came over
+and asked William Disney why he bought those two negroes
+and said they were free, and as the new England Vessels were
+going backwards and forwards they would be known and
+taken away; William Disney answered, may be no, they will soon
+<catchwords>grow</catchwords>
+
+<pb n="oscys.mdcase.0015.001.008"/>
+
+grow out of knowledge and no one will know they had free
+parents. The deponent being asked if he knows Eleanor Barnes
+sworn in this cause, answers he does. Being asked her
+general Character, answers he does not know much about her,
+but believes she keeps low company; and says he has seen
+Negroes at her house and laughing and talking with her and
+he has seen them setting on her bed. And he further says that
+as he was <sic>comming</sic> from Mill about a month ago he stopped
+at Eleanor Barnes's house and she asked the deponent if Hannah
+had come home, he answered no, and asked her if she had been to
+Court and was sworn, she answered yes; he then asked her
+what she had sworn and she replied that she had sworn that
+Mrs Disney had told her that she would have set her negroes free long
+ago had it not been for her Children he then went on and when
+he got home he related to Mrs Disney what had passed, and
+she said she did not say so, and if Eleanor Barnes had sworn
+that, she swore false. Being asked if he knew what negroes
+he had seen at Eleanor Barnes's answers they were the forge negroes
+and on Sundays he had seen Strange Negroes but did not
+know to whom they belonged. Being asked if Eleanor Barnes
+lives on Land which belongs to the Messrs Snowden's answers she does
+This deponent says that he did not understand from Mrs Disney
+that she was present or not when the conversation passed
+between her Husband and Howard above related, and that
+Mrs Disney was in a great passion at the time she mentioned this
+conversation. That Mrs Disney, is a Queer old woman she will
+say one thing to day, and if affronted another tomorrow.</p>
+
+<p>Sworn to before me this 24th Octo 1793. James Mackubin.</p>
+
+<p>Hannah Hawkins and others<lb/>
+against<lb/>
+Sarah Disney</p>
+
+<p>Ennion Williams of Anne Arundel
+County aged thirty eight years being
+one of the people called Quakers, and 
+being called on to declare his knowledge
+of this dispute did solemnly declare and affirm that some time in last
+month he in conversation with the defendant Sarah Disney heard
+her say that the mother of the Petitioner Hannah Hawkins
+was a free person and died as such; and that when they
+were brought from New England into the neighbourhood for
+sale, Daniel Brookes one of the Neighbours said he would not
+<catchwords>buy</catchwords>
+
+<pb n="oscys.mdcase.0015.001.009"/>
+
+buy them for they were free; and she said that she the said Sarah
+Disney had never denied them their freedom; and mentioned at the 
+same time that she had understood that Joshua Barry a young
+man had testified to the contrary; and further he saith not.</p>
+
+<p>Affirmed before me this 22 October 1794. Allen Quynn.</p>
+
+<p>Hannah Hawkins
+and her Children<lb/>
+against<lb/>
+Sarah Disney</p>
+
+<p>The Deposition of Stephen Nicholson aged
+thirty six years being sworn on the holy 
+Evangely of Almighty God in this cause saith
+that he has heard that old Daniel Brookes
+who lived near south river <sic>Chruch</sic> in Anne
+Arundel County many years ago, and before William Disney the
+late husband of the defendant bought Hannah the petitioner went
+to Hannah's mother Quash Hawkins to buy Hannah and Sharper
+<sic>he</sic> brother, and Brooks asked Quash the mother if she would sell
+her two Children for life, and she answered no, she would not, the
+said Brookes returned and would not buy them and went to the
+house of William Disney aforesaid and told Disney of the circumstances
+and that he would not buy them as they were not to serve for life
+and were to be free at twenty one years of age; that the said William
+Disney went down and bought them both, and when he bought
+them home his brother asked him his reason for buying the Children
+as they were to serve no longer than until they were twenty one years
+of age; he replied he did not care as he gave but a <sic>trife</sic> for them. Being 
+asked of whom he heard such conversation, answers he does not
+remember, but that he has frequently heard the same over and over
+again from white people; and he has heard Sarah Disney the
+defendant say she wished they could be free, and when it come to
+the point she would put in a good word for them; and he further
+saith that he has heard in the neighbourhood that Sarah Disney the
+defendant has said that Hannah was free, but that she could not set
+her free, for if she did the Children would fall upon her for the Estate
+that had been wasted, but he cannot recollect the persons of whom he
+had this information; and he also says that he has always understood 
+that the said Negroes were bought and sold at the inspecting house
+Point on South river and that they were brought there by water
+This <sic>Deponant</sic> doth not know that Quash Hawkins was the 
+mother of Hannah and Sharper, but hath heard so and he
+believes the said Quash Hawkins to have been a negro woman
+<catchwords>and</catchwords>
+
+<pb n="oscys.mdcase.0015.001.010"/>
+
+and this deponant knoweth nothing of the Petitioners right to
+Freedom, but from flying reports. Sworn to before me this 22d
+October 1792. Jno Brice.</p>
+
+<p>Stephen Nicholson being again sworn in the presence of the
+Counsel on both sides, saith that about ten years ago he heard
+Mrs Disney the defendant and her daughter Rachel say that
+Daniel Brookes went to Hannah's Mother, Quash Hawkins to buy
+Hannah and Sharpe her brother, and asked Quash if she would
+sell them for life to which she answered that she would not. upon 
+which Brookes returned and would not buy them, and that
+he went to the house of William Disney and told him of the
+circumstances; that the said William Disney went down and
+bought them both, and when he brought them home his brother
+James asked him the reason why he bought them as they were to serve
+no longer than until they were twenty one years of age, he replied
+he did not care as he gave but a trifle for them. This he has heard from
+them often and first about ten years ago which was about two years
+after he was acquainted in the Disney family.</p>
+
+<p>Sworn before me this 14th October 1795. Allen Quynn.</p>
+
+<p>Hannah Hawkins<lb/>
+against<lb/>
+Sarah Disney</p>
+
+<p>Petition for freedom in the General Court.
+Sarah Ward a free Mulatto woman as said
+of Anne Arundel County aged between forty
+and fifty years being sworn on the holy
+Evangely of Almighty God to testify the truth of her knowledge in
+<sic>in</sic> this cause deposeth and saith that when she was a young
+woman she went to the house of William Disney husband of the
+defendant Sarah Disney, the day after the said William Disney
+had bought and brought home two small negro children,
+Hannah the Petitioner and her brother, as he informed the deponent
+and West Burgess brother in Law of said William Disney was
+there, and asked said Disney why he bought two such small
+Children that would be of no service to him, he answered that
+he gave but a trifle for them as they were free born, and as soon
+as they came of age he should discharge them; upon which his wife
+murmured; he told her he had bought them and should keep
+them until they were of age, and then should discharge them
+as they were free this deponent thinks she was about 12 or 13
+years old at the time the above conversation passed between
+<catchwords>her</catchwords>
+
+<pb n="oscys.mdcase.0015.001.011"/>
+
+her and Mr Disney. J Bullen.</p>
+
+<p>Whereupon all and singular the premises aforesaid between the
+Parties aforesaid by the Court here being seen heard and fully
+understood, and mature deliberation thereupon had, for that it
+appears to the Court here, that the said Hannah Hawkins the
+Petitioner aforesaid and her six Children Mary, Anne, Hannah,
+Daniel, Silla and Peggy are entitled to their Freedom, being
+descended in the female line, from a Free woman, as she the said
+Hannah Hawkins for herself and her six children aforesaid by her
+said Petition to the Court here hath alledged; Therefore it is
+considered by the Court here that the said Hannah Hawkins the
+Petitioner aforesaid and her six Children Mary Anne, Hannah
+Daniel, Silla and Peggy be free and discharged of and from the
+service of the said Sarah Disney, and that she the said Hannah
+Hawkins the Petitioner aforesaid and her six Children aforesaid
+go thereof without day and so forth: It is also Considered by the
+Court here, that the said Hannah Hawkins the Petitioner aforesaid
+for herself and her six Children aforesaid, recover against the
+said Sarah Disney the quantity of two thousand one hundred and
+nine pounds of tobacco by the Court here unto her the said Hannah
+Hawkins for herself and her six Children aforesaid, on her assent
+adjudged for her costs and charges by her about the prosecution
+of her petition aforesaid laid out and expended, and that she have
+thereof her Execution and so forth.</p>
+
+<p>Test John Gwinn Clk.</p>
+
+</div2>
+
+</div1>
+
+</body>
+</text>
+</TEI>
