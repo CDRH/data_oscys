@@ -1,9 +1,38 @@
-# OSCYS Posting Instructions
+# OSCYS
+
+This is the data repository for the [O Say Can You See](https://earlywashingtondc.org/) website. It contains the following:
+
+__source files__
+
+- TEI-XML
+  - documents
+  - cases
+  - a personography file
+- CSV
+  - information from Washington D.C directories
+  - relationship information between individuals (in `rdf` directory)
+
+__scripts__
+
+- search
+  - add documents, cases, and people into the search results
+- relationship queries
+  - turn relationship CSV into TTL file for querying with RDF / SPARQL
+- html
+  - transforms TEI-XML into HTML files
+  - transforms CSVs into geoJSON for maps
+
+It's important to know that scripts for searching, found in `data_manager.rb` and `tei_to_solr_*` may pull multiple files. For example, a case's solr information may be built by pulling data from multiple document XML files.
+
+Additionally, there is more documentation for the RDF related scripts in the [scripts directory](/scripts/README.md).
+
+__WHATEVER YOU DO__
+
+If you are updating the site and have added new relationships, you will need to follow the below steps and not just the generic data repo steps, or your relationships will be left behind!
 
 ## Update Development
 
 Add your new files and update the relationships CSV.  Now, log into the development server and navigate to the oscys collection repository.
-
 
 If relationships have changed or been updated, run the RDF generation.  This step may take several minutes:
 
