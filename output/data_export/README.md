@@ -1,6 +1,6 @@
 ## About Data Export
 
-Currently these are exported manually from Solr. The queries used are documented below. Keep in mind that the "rows" might need to change based on number of people/cases (and could be set to some arbitratily high number)
+Currently these are exported manually from Solr. The queries used are documented below. Keep in mind that the "rows" might need to change based on number of people/cases (and could be set to some arbitrarily high number)
 
 ### Case
 
