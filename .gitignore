@@ -9,6 +9,7 @@ config/private.yml
 # increase specificity of this path if you wish to only track generated html
 !/output/production/
 !/output/development/html
+!/output/data_export/
 
 # we don't know why stuff is getting copied in here
 /collections/*
