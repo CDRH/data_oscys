@@ -170,6 +170,7 @@ def sources_csv(xml)
 		uri = i.xpath("./str[@name='uri']").text
 		name = i.xpath("./str[@name='title']").text
 		type = "Civil (document)"
+		project = "O Say Can You See"
 		dateAll = i.xpath(".//str[@name='date']").text
 		date = dateAll.split("T00:00:00Z").first
 		event = []
@@ -183,11 +184,11 @@ def sources_csv(xml)
 			people << node.text
 		end
 		people = people.join(";")
-		list << [identifier,uri,name,type,date,event,source,people]
+		list << [identifier,uri,name,type,project,date,event,source,people]
 	end
 
 	CSV.open("output_sources.csv",'wb') do |row|
-		row << ['identifier','uri','name','type','date','event','source','people']
+		row << ['identifier','uri','name','type','project','date','event','source','people']
 		list.each do |data|
 			row << data
 		end
