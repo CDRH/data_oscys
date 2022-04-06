@@ -142,19 +142,19 @@ def personEvent_csv(xml)
 
 	list = []
 
-	cols = ["person", "event", "statusWithinEvent"]
+	cols = ["person", "source", "statusWithinEvent"]
 	rows = []
 
   	new_doc.xpath('//personEvent').each do |i|
   		person = i.xpath("./person").text
-  		event = i.xpath("./event").text
+  		source = i.xpath("./event").text
   		statusWithinEvent = i.xpath("./statusWithinEvent").text
 
 		list << [person,event,statusWithinEvent]
 	end
 
 	CSV.open("output_personEvent.csv",'wb') do |row|
-		row << ['person', 'event', 'statusWithinEvent']
+		row << ['person', 'source', 'statusWithinEvent']
 		list.each do |data|
 			row << data
 		end
