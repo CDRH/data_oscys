@@ -1,8 +1,8 @@
 require 'csv'
 require 'nokogiri'
 
-puts "This script converts XML files into CSV. Before running this script be sure you have an XML file (named personEvent.xml, people.xml, sources.xml, or events.xml) saved to the same directory. For one of the XML files (oscys.persons.xml), an XSLT script is used for an intermediary transformation. If you want to transform that file, make sure you have an xml_to_csv.xsl file saved to the same directory.\n\n"
-puts "Enter the name of the XML file you want to transform. Options are events.xml, people.xml, oscys.persons.xml (to create personEvent.csv), and sources.xml."
+puts "This script converts XML files into CSV. Before running this script be sure you have an XML file (named people.xml, sources.xml, or events.xml) saved to the same directory. These files are currently exported from SOLR.\n\n"
+puts "Enter the name of the output file you want to create. Options are output_events.csv, output_people.csv, output_personEvent.csv, and output_sources.csv."
 filename = gets.chomp()
 
 def events_csv(xml)
@@ -136,25 +136,49 @@ end
 
 def personEvent_csv(xml)
 	doc = Nokogiri::XML(xml)
-	xslt = Nokogiri::XSLT(File.read('xml_to_csv.xsl'))
-
-	new_doc = xslt.transform(doc)
-
 	list = []
 
-	cols = ["person", "event", "statusWithinEvent"]
-	rows = []
+	doc.xpath('//doc').each do |i|
+		petitioners = []
+		i.xpath(".//arr[@name='plaintiffID_ss']/str").each do |y|
+			petitioners << y.text
+		end
+		defendants = []
+		i.xpath(".//arr[@name='defendantID_ss']/str").each do |y|
+			defendants << y.text
+		end
+		attorneysP = []
+		i.xpath(".//arr[@name='attorneyPID_ss']/str").each do |y|
+			attorneysP << y.text
+		end
+		attorneysD = []
+		i.xpath(".//arr[@name='attorneyDID_ss']/str").each do |y|
+			attorneysD << y.text
+		end
+		i.xpath(".//arr[@name='personID_ss']/str").each do |node|
+			person = node.text
+			event = node.xpath("ancestor::doc/str[@name='id']").text
+			roleWithinEvent = []
+			if petitioners.include?(person)
+				roleWithinEvent << "petitioner"
+			elsif defendants.include?(person)
+				roleWithinEvent << "defendant"
+			elsif attorneysP.include?(person)
+				roleWithinEvent << "petitionerAttorney"
+			elsif attorneysD.include?(person)
+				roleWithinEvent << "defendantAttorney"
+			else
+				roleWithinEvent = []
+			end
 
-  	new_doc.xpath('//personEvent').each do |i|
-  		person = i.xpath("./person").text
-  		event = i.xpath("./event").text
-  		statusWithinEvent = i.xpath("./statusWithinEvent").text
+			roleWithinEvent = roleWithinEvent.join("; ")
 
-		list << [person,event,statusWithinEvent]
+			list << [person,event,roleWithinEvent]
+		end
 	end
 
 	CSV.open("output_personEvent.csv",'wb') do |row|
-		row << ['person', 'event', 'statusWithinEvent']
+		row << ['person','event','roleWithinEvent']
 		list.each do |data|
 			row << data
 		end
@@ -196,21 +220,21 @@ def sources_csv(xml)
 end
 
 if filename.include? "events"
-	xml = File.read(filename)
+	xml = File.read("events.xml")
 	events_csv(xml)
 	puts "Transformation successful. See the output_events.csv file for results."
 elsif filename.include? "people"
-	xml = File.read(filename)
+	xml = File.read("people.xml")
 	people_csv(xml)
 	puts "Transformation successful. See the output_people.csv file for results."
-elsif filename.include? "persons"
-	xml = File.read(filename)
+elsif filename.include? "person"
+	xml = File.read("events.xml")
 	personEvent_csv(xml)
 	puts "Transformation successful. See the output_personEvent.csv file for results."
 elsif filename.include? "sources"
-	xml = File.read(filename)
+	xml = File.read("sources.xml")
 	sources_csv(xml)
 	puts "Transformation successful. See the output_sources.csv file for results."
 else 
-	puts "Alas, no XML file with that name exists in the directory. Please try again."
+	puts "Alas, that is not one of the possible output files. Please try again."
 end
