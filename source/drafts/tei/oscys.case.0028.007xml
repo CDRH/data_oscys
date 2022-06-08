@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="<!-- file name, check Case Spreadsheet; e.g. - oscys.case.0011.015 -->">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Summons of Henry T. Garnett) --></title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<!-- add you name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!-- file name - same as xml:id above --></idno>
+<idno type="case"><!-- caseid number, check Case Spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
+<date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration</repository>
+<collection>Record Group 267</collection>
+<idno><!-- Box #, Folder #--></idno><!-- Check Case Spreadsheet for box and folder information. e.g. - Box 33, Folder 691 -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory"><!-- Document Type. See list on websitec. -->
+<term/>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term/><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName><!-- Last Name, First Name --></persName> 
+</person>
+<person role="defendant"> 
+<persName><!-- Last Name, First Name --></persName>
+</person>
+<person role="attorney_petitioner">
+<persName/><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+</person>
+<person role="attorney_defendant">
+<persName/><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Supreme Court</orgName>
+<placeName>Washington (D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>             
+<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="IMG_3619.jpg"/>
+District of Columbia tour
+At a Circuit Court of the District of Columbia
+begun and held in and for the County of Washington, at the City of
+Washington on the first Monday of June being the sixth day of the
+same month in the year of our Lord one thousand eight hundred
+and fourteen. And of American Independence the 38th.
+presents
+The Honorable William Cranch Esquire Chief Judge
+Nicholas Fitzhugh
+Buckner Thruston Esquire Assistant Judges
+Washington Boyd Esq. Marshal <unclear>Hm Brent lk.</unclear> 
+In the record of proceedings of the said
+court among other were the following <unclear></unclear>
+Sally Henry by William 
+Henry her father and next friend 
+against
+Henry W Ball
+Be if remembered that heretofore court
+on the twenty third day of March in the year of our Lord eighteen
+hundred and thirteen the petitioners
+in this cause by William henry
+her father and a next friend by
+Francis S Key Esquire her attorney preferred to the Court here the
+following petition for freedom <unclear></unclear> "To the Honorable the Judges
+of the Circuit Court of the District of Columbia for the County of Washington.
+The petition of Negro Sally (an infant by William her father and next friend)
+humbly sheweth that your petitioner is <unclear>enulled</unclear> to her freedom and is <unclear></unclear>
+held in bondage by a certain Henry W Ball who holds and claims
+your petitioner as a slave. Wherefore your petitioner prays that a 
+subpoena may be issued directly to the said Henry Ball that
+he may appear and answer unto the premises and your Petitioner be
+<pb xml:id="p001" facs="IMG_3621.jpg"/>
+<p>allowed to produce the proof of her said claim to freedom and be
+allowed all such other and further relief in the premises as may
+be agreeable to law and may seem right to your Honor</p>
+<p>F J Key for <unclear>Petitioner</unclear></p>
+<p>Thereupon it is ordered by the Court here that a subpoena issue is directed to the<del>Marshal of the District <unclear></unclear></del>
+said Henry W Ball commanding him to appear andsoforth
+which subpoena is as follows court</p>
+<p>"District of Columbia Court The
+United States of America to Henry W Ball. You are hereby
+Commanded that all excuses and delays set aside, you be and
+appear before the Circuit Court of the District of Columbia to be held
+for the County of Washington on the first Monday of June next to
+answer the petition for freedom of Sally Henry by William Henry
+her father and next friend in the said Court exhibited against
+you. Hereof you are not to fail as you will answer the contrary
+at your peril witness William Cranch Esquire Chief <unclear></unclear> of
+the said court the 30th day of January 1813
+issued the 23rd day of March 1813</p>
+<p>FSKey</p>
+<p>Wm Brent clk</p>
+<p>At which mentioned first Monday of June being
+the seventh day of the same month in the year of our Lord eighteen
+hundred and thirteen and the day of the return of the aforegoing
+subpoena comes into the Circuit Court here the said Sally Henry
+by her attorney aforesaid and the Marshal of the District aforesaid
+makes return of the aforegoing subpoena to the Court here thus endorsed
+court</p>
+<p>Summoned H Boyd Marshal</p>
+
+
+
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
