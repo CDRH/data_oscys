@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="<!-- file name, check Case Spreadsheet; e.g. - oscys.case.0011.015 -->">
-    
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0315.014">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Summons of Henry T. Garnett) --></title>
+<title>Susan Nigel V. Henry Naylor</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<!-- add you name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
+<name n="Morales, Ellyzabeth." xml:id="eml">Ellyzabeth Morales</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +33,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check Case Spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.case.0315.014</idno>
+<idno type="case">oscys.caseid.0317</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +44,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
-<date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
+<title level="m" type="main">Nigel v. Naylor Judgement Record</title>
+<date when="1859-01-19">January 19, 1859</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 267</collection>
-<idno><!-- Box #, Folder #--></idno><!-- Check Case Spreadsheet for box and folder information. e.g. - Box 33, Folder 691 -->
+<idno>440,3837</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -65,8 +64,8 @@
 <term>Case Papers</term>
 </keywords>
     
-<keywords scheme="original" n="subcategory"><!-- Document Type. See list on websitec. -->
-<term/>
+<keywords scheme="original" n="subcategory">
+<term>Judgement Record</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,11 +77,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+<term><date when="1859-12">December,1859</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Naylor, George</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -94,10 +93,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Vigel, Susan</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Naylor, Henry</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/><!-- If needed; consult website list of attorneys for help; link on Trello. -->
@@ -117,7 +116,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+<change when="2022-06" who="eml">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -128,12 +127,59 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="<!-- image name-->.jpg"/>
+<pb xml:id="p001" facs="IMG_4010.jpg"/>
 
-<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
+<p>Supreme Court of the United States no.193</p>
+<p>Susan Vigel Plaintiff in Error vs. Henry Naylor Administrator of  George Naylor Deceased Defendant in Error</p>
+<p>In Error to the circuit court US <del> for Washington D.C.</del> for the District of Columbia </p>
+<p>Index</p>
+<p><table>
+<row>
+<cell>Writ of Error</cell>
+<cell>1</cell>
+</row>
+<row>
+    <cell></cell>
+    <cell>Citation</cell>
+</row>
+<row><cell>2</cell></row>
+<row>
+<cell>Appeal Bond</cell><cell>3</cell>
+</row>
+<row>
+<cell>Style of Court</cell><cell>4</cell>
+</row>
+<row>
+    <cell>Parties</cell><cell>5</cell>
+</row>
+<row>
+<cell>Petition for Freedom</cell><cell>"</cell>
+</row>
+<row>
+<cell>Defendant’s appearance + plea of not free</cell><cell>6</cell>
+<cell>Issue Joined and Venire Facias </cell><cell>"</cell>
+</row>
+<row>
+    <cell>Jury and Verdict </cell> <cell>"</cell>
 
+</row>
+<row>
+<cell>Judgement</cell><cell>7</cell>
+</row>
+ <row>
+    <cell>Plaintiff's Bill of Exception</cell><cell>"</cell>
+</row>
+<row>
+    <cell>Extract from Will  of John B. Kirby</cell><cell>"</cell>
+</row>
+<row>
+<cell>Clerk's Certificate and Seal</cell><cell>10</cell>
+</row>
+</table>
+</p>
 </div1>
-    
+
+
 </body>
 </text>
 </TEI>
