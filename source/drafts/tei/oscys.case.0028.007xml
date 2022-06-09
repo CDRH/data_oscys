@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="<!-- file name, check Case Spreadsheet; e.g. - oscys.case.0011.015 -->">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=oscys.case.0028.006>
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Summons of Henry T. Garnett) --></title>
+<title>Sally Henry vs Henry W Ball</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
-<resp>transcription and encoding</resp>
-<!-- add you name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
+<resp>transcription and encoding</resp><name> n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +33,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check Case Spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.case.0028.006</idno>
+<idno type="case">oscys.caseid.0028</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,14 +45,14 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
-<date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
+<date when="1814-07-04"> July 4th, 1814</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 267</collection>
-<idno><!-- Box #, Folder #--></idno><!-- Check Case Spreadsheet for box and folder information. e.g. - Box 33, Folder 691 -->
+<idno>Box 33, Folder 692</idno> 
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -78,15 +77,41 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+<term><date when="yyyy-mm">1814-07</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term/> Blackwell, George W B
+Boyd, Washington
+Cranch, William
+Dunn, Thomas
+Fitzhugh, Nicholas
+Gustine, Robert G
+Frost, John T
+Henry, William
+Holmead, Anthony
+Jones, Walter Jr
+McDonald, John G
+Moore, William
+Morsell, James S
+Naylor, John L
+Newton, Clement
+Rankin, Mr
+Rankin, Elizabeth K
+Reynolds, Thomas
+Thruston, Buckner
+Tomlinson, Bernard H
+Wharton, James
+Young, James
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term/><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term/>United States of America
+State of Virginia
+Fairfax County
+Northcumberland County
+City of Washington, District of Columbia
+
 </keywords>
 
 </textClass>
@@ -94,16 +119,16 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Henry, Sally</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Ball, Henry W</persName>
 </person>
 <person role="attorney_petitioner">
-<persName/><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>Key, Francis Scott
 </person>
 <person role="attorney_defendant">
-<persName/><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>Law, John
 </person>
 </listPerson>
             
@@ -129,26 +154,26 @@
 <div1 type="case">
 
 <pb xml:id="p001" facs="IMG_3619.jpg"/>
-District of Columbia tour
-At a Circuit Court of the District of Columbia
+<p>District of Columbia tour</p>
+<p>At a Circuit Court of the District of Columbia
 begun and held in and for the County of Washington, at the City of
 Washington on the first Monday of June being the sixth day of the
 same month in the year of our Lord one thousand eight hundred
-and fourteen. And of American Independence the 38th.
-presents
+and fourteen. And of American Independence the 38th</p>
+<p>presents
 The Honorable William Cranch Esquire Chief Judge
 Nicholas Fitzhugh
 Buckner Thruston Esquire Assistant Judges
-Washington Boyd Esq. Marshal <unclear>Hm Brent lk.</unclear> 
-In the record of proceedings of the said
+Washington Boyd Esq. Marshal Wm Brent clk.</p>
+<p>In the record of proceedings of the said
 court among other were the following <unclear></unclear>
 Sally Henry by William Henry her father and next friend 
 against 
-Henry W Ball
-Be if remembered that heretofore court
+Henry W Ball</p>
+<p>Be if remembered that heretofore court
 on the twenty third day of March in the year of our Lord eighteen
 hundred and thirteen the petitioners
-in this cause by William henry
+in this cause by William Henry
 her father and a next friend by
 Francis S Key Esquire her attorney preferred to the Court here the
 following petition for freedom <unclear></unclear> "To the Honorable the Judges
@@ -160,7 +185,7 @@ your petitioner as a slave. Wherefore your petitioner prays that a
 subpoena may be issued directly to the said Henry Ball that
 he may appear and answer unto the premises and your Petitioner be
 <pb xml:id="p001" facs="IMG_3621.jpg"/>
-<p>allowed to produce the proof of her said claim to freedom and be
+allowed to produce the proof of her said claim to freedom and be
 allowed all such other and further relief in the premises as may
 be agreeable to law and may seem right to your Honor</p>
 <p>F J Key for <unclear>Petitioner</unclear></p>
@@ -187,7 +212,7 @@ subpoena comes into the Circuit Court here the said Sally Henry
 by her attorney aforesaid and the Marshal of the District aforesaid
 makes return of the aforegoing subpoena to the Court here thus endorsed
 court</p>
-<p>Summoned H Boyd Marshal</p>
+<p>Summoned W Boyd Marshal</p>
 <pb xml:id="p001" facs="IMG_3623.jpg"/>
 <fw>2</fw>
 <p>Thereupon further process of and upon the premises aforesaid between the
@@ -256,7 +281,7 @@ the Court here immediately by whom and soforth and who neither &amp;c
 to recognize &amp;c because as well &amp;c who being called come that is
 to say Thomas Dunn Thomas Reynolds James Wharton John L Naylor
 Clement Newton William Moore Robert G Gustine Bernard H Tomlinson
-John G M Donald George W B Blackwell Anthony Holmead and
+John G McDonald George W B Blackwell Anthony Holmead and
 James Young who being empanelled and sworn to say the truth in
 the premises upon their oath do say that they said Sally Henry is not
 free as the said Henry W Ball above in pleading has alleged.
@@ -312,8 +337,89 @@ then on a visit to Virginia where this deponent lived on said visit for
 two years with the mother, by Mr. Henry W Ball who also resided 
 at that tune in Fairfax County Virginia where the said negro girl
 was about nine miles from Washington</p>
-<p></p>
-
+<p>That in consideration of the
+services of the girl this deponent was to furnish the girl with victual
+and cloath &amp; that this deponent was to keep the girl for a year
+but no particular bargain was made between Mr. Ball &amp; the
+deponent about the girl. That some time in the month of May
+in the year 1810 this deponent removed to the City of Washington
+from Virginia &amp; brought the said girl Sally with her Mr. Henry
+W Ball being as this deponent thinks in Northumberland County
+in Virginia at the time of this deponents removal to Washington
+<unclear>Quest.</unclear> Did you ever ask or obtain permission as Mr Ball to
+remove Sally to Washington?</p>
+<p>Ans. I cannot recollect but
+Mr Ball was frequently in the habit of coming to our house &amp; probably
+heard of our intention to remove to Washington. But I do not
+know whether he was ever asked or gave permission for the removal
+of Sally.</p>
+<p>At the time of our removal Mr Ball was to the
+best of my recollection in Northcumberland County Virginia &amp;
+had gone there sometime before our removal.</p>
+<pb xml:id="p001" facs="IMG_3634.jpg"/>
+<p>Quest. Did you not after your removal to Washington frequently
+pass backwards &amp;forwards to &amp;from Virginia &amp;generally carry
+Sally with you.</p>
+<p>Ans. I did in several instances pass
+to &amp;from Virginia to Washington &amp;generally carried Sally with
+me &amp; on these visits to Virginia sometimes stayed a week or ten
+days. Sally once ran away from me while here &amp;
+went over to Virginia where the deponent sent after her.</p>
+<p>Quest. How long did Sally remain with you in Washington &amp; who
+took her away.</p>
+<p>Ans. Sally remained with me until after Mr
+Ball married which was in October 1810. Having remained
+with me seven or eight months short time after his marriage
+Mr. Ball took her away &amp; carried her to Virginia the deponent 
+conceiving herself bound to give her up to Mr. Ball whenever
+he called for her</p>
+<p>Questions on the part of the petitioner</p>
+<p>1st Did or did not Mr. Henry W Ball to the best of your knowledge
+and belief know of your intention to return to the City of Washington
+and to bring Sally with you?</p> <p>Answer she cannot say positively but she rather imagines he did</p>
+<p>2nd Did or did not Mr Ball shortly after you had brought
+Sally to the city see you and her there? and did he make
+any objection to her having been brought here or remaining here?</p>
+<p>Answer he did &amp; made no objection</p>
+<p>3rd How far did Mr. Ball live from your mothers in Virginia?</p>
+<p>Answer a mile or two</p>
+<p>4 Did you or did you not know of Mr H W Ball's ever
+residing in Washington till after his marriage?</p>
+<pb xml:id="p001" facs="IMG_3636.jpg"/>
+<p>Answer He did not reside here till after his marriage though
+he was frequently here</p>
+<p>5 Where was your husband during the period of your aforesaid
+stay in Fairfax?</p>
+<p>Answer This deponent's husband was
+an Officer in the Marine Corps stationed in Washington where he
+was the greater portion of his time and which he only left on
+obtaining leaves of absence keeping no house in Washington
+but living when in Washington in the marine barracks nearly
+all his cloathes being in Virginia and he contributing to the expence
+of the family in Fairfax &amp; visiting in Fairfax sometimes every
+week sometimes not so often and sometimes staying 5 or 6 weeks
+together. Until the period of this visit the deponent &amp; Mr
+Rankin had lived in Washington. this deponent always 
+contemplated returning to Washington but did not suppose it would
+take place till late in the year, but Mr. Rankin having obtained
+an appointment they were induced to return earlier.</p>
+<p>This deposition is agreed to be read in evidence
+as far as admissible in the law Sally vs Ball</p>
+<p>FSKey for Pet.</p>
+<p>JLaw for Defendt.</p>
+<pb xml:id="p001" facs="IMG_3638.jpg"/>
+<p>District of Columbia
+Washington County <unclear>Scl</unclear></p>
+<p>I William Brent Clerk of the Circuit Court
+of the United States for the District of Columbia and County of Washington
+hereby certify that the aforegoing is <unclear>haly</unclear> taken and copied
+from the record of proceedings of the County aforesaid in the
+above mentioned suit wherein Negro Sally Henry is Petitioner
+and Henry W Ball is defendant.</p>
+<p>In testimony whereof I have hereto set my hand
+and affixed the public seal of the County <add>Court</add> aforesaid
+the fourth day July 1814</p>
+<p>Wm Brent clk</p>
 
 
 
