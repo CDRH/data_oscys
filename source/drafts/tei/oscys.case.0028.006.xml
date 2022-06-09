@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
+<<<<<<<< HEAD:source/drafts/tei/oscys.case.0028.006.xml
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0028.006">
     
+========
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0315.014">
+>>>>>>>> 987147408f39f943a0112672626f6f67dee2ca4b:source/drafts/tei/oscys.case.0315.015.xml
 <teiHeader>
 <fileDesc>
 <titleStmt>
 <title>Sally Henry v. Henry W. Ball</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
+<<<<<<<< HEAD:source/drafts/tei/oscys.case.0028.006.xml
 <resp>transcription and encoding</resp><name n="Martin, Heidi K." xml:id="hkm"> Heidi K. Martin</name>
+========
+<resp>transcription and encoding</resp>
+<name n="Morales, Ellyzabeth." xml:id="eml">Ellyzabeth Morales</name>
+>>>>>>>> 987147408f39f943a0112672626f6f67dee2ca4b:source/drafts/tei/oscys.case.0315.015.xml
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -33,8 +42,13 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
+<<<<<<<< HEAD:source/drafts/tei/oscys.case.0028.006.xml
 <idno type="project">oscys.case.0028.006</idno>
 <idno type="case">oscys.caseid.0028</idno>
+========
+<idno type="project">oscys.case.0315.014</idno>
+<idno type="case">oscys.caseid.0317</idno>
+>>>>>>>> 987147408f39f943a0112672626f6f67dee2ca4b:source/drafts/tei/oscys.case.0315.015.xml
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -64,8 +78,13 @@
 <term>Case Papers</term>
 </keywords>
     
+<<<<<<<< HEAD:source/drafts/tei/oscys.case.0028.006.xml
 <keywords scheme="original" n="subcategory"><!-- Document Type. See list on websitec. -->
 <term/>
+========
+<keywords scheme="original" n="subcategory">
+<term>Judgement Record</term>
+>>>>>>>> 987147408f39f943a0112672626f6f67dee2ca4b:source/drafts/tei/oscys.case.0315.015.xml
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -77,11 +96,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
+<<<<<<<< HEAD:source/drafts/tei/oscys.case.0028.006.xml
 <term><date when="1814-02">February 1814</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
 <term/>E.B. Caldwell, John Marshall, William Henry, 
+========
+<term><date when="1859-12">December,1859</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term>Naylor, George</term> <term>Smith, Jonathon </term> <term>Kirby, John</term>
+>>>>>>>> 987147408f39f943a0112672626f6f67dee2ca4b:source/drafts/tei/oscys.case.0315.015.xml
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -93,11 +120,18 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
+<<<<<<<< HEAD:source/drafts/tei/oscys.case.0028.006.xml
 <persName>Henry, Sally</persName> 
 </person>
 <person role="defendant"> 
 <persName>Ball, Henry W.
 </persName>
+========
+<persName>Vigel, Susan</persName> 
+</person>
+<person role="defendant"> 
+<persName>Naylor, Henry</persName>
+>>>>>>>> 987147408f39f943a0112672626f6f67dee2ca4b:source/drafts/tei/oscys.case.0315.015.xml
 </person>
 <person role="attorney_petitioner">
 <persName/>Key, Francis Scott
@@ -117,7 +151,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+<change when="2022-06" who="eml">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -127,6 +161,7 @@
 <body>  
                
 <div1 type="case">
+<<<<<<<< HEAD:source/drafts/tei/oscys.case.0028.006.xml
 United States....88:<p>THE PRESIDENT OF THE UNITED STATES, To the Judges of the Circuit Court of the United Sates for the district of 
 Columbia in Washington County Greeting:</p> 
 <p>BECAUSE in the record and proceedings as also in the rendition 
@@ -172,8 +207,88 @@ fourteen and of the Independence of the United States the thirty seventh</p>
 
 </div2>
 
+========
+<div2>
+<pb xml:id="p001" facs="IMG_4010.jpg"/>
+
+<p>Supreme Court of the United States no.193</p>
+<p>Susan Vigel Plaintiff in Error vs. Henry Naylor Administrator of  George Naylor Deceased Defendant in Error</p>
+<p>In Error to the circuit court US <del> for Washington D.C.</del> for the District of Columbia </p>
+<p>Index</p>
+<p><table>
+<row>
+<cell>Writ of Error</cell>
+<cell>1</cell>
+</row>
+<row>
+    <cell></cell>
+    <cell>Citation</cell>
+</row>
+<row><cell>2</cell></row>
+<row>
+<cell>Appeal Bond</cell><cell>3</cell>
+</row>
+<row>
+<cell>Style of Court</cell><cell>4</cell>
+</row>
+<row>
+    <cell>Parties</cell><cell>5</cell>
+</row>
+<row>
+<cell>Petition for Freedom</cell><cell>"</cell>
+</row>
+<row>
+<cell>Defendant’s appearance + plea of not free</cell><cell>6</cell>
+<cell>Issue Joined and Venire Facias </cell><cell>"</cell>
+</row>
+<row>
+    <cell>Jury and Verdict </cell> <cell>"</cell>
+
+</row>
+<row>
+<cell>Judgement</cell><cell>7</cell>
+</row>
+ <row>
+    <cell>Plaintiff's Bill of Exception</cell><cell>"</cell>
+</row>
+<row>
+    <cell>Extract from Will  of John B. Kirby</cell><cell>"</cell>
+</row>
+<row>
+<cell>Clerk's Certificate and Seal</cell><cell>10</cell>
+</row>
+</table>
+</p>
+</div2>
+<div2>
+<pb xml:id="poo2" facs="IMG_3982.jpg"/>
+<fw>1</fw>
+<p>Writ of Error </p>
+<p>United States of America</p>
+<p>The President of The United States to the Judges of the Circuit Court of the District of Columbia, sitting for the county of Washington Greeting:</p>
+<p>Because in the Record and Proceedings and also in the rendition of the Judgement of a plea which is in the said Court before you or some of you, wherein Susan Vigel is Plaintiff and Henry Naylor, Administrator of George Naylor, is Defendant, a manifest error hath happened to the great damage of the said Plaintiff as by her complaint appears; We,being willing that error of any hath been should be duly corrected and full and speedy justice done to  the parties aforesaid  in this behalf do command you that if judgement be therein give that under your seal distinctly and openly you send the Record and proceedings aforesaid, with all things concerning the same to the Supreme Court of the United States, together with Writ so that you have the same at Washington for on the first Monday in December next, in said Supreme Court to be then and there held and that the record and proceedings aforesaid being inspected, the said Supreme Court may cause further to be done to the correct that error. </p>
+</div2>
+<div2>
+<pb xml:id="poo3" facs="IMG_3984.jpg"/>
+<fw>2</fw>
+<p>which of right and according to the laws and custom of the United States should be done </p>
+<p>Witness the Hon. Roger B. Taney, Chief Justice of said Supreme Court. Issued the 31st day of December 1858 Jno A. Smith CLK</p>
+<p>Citation</p>
+<p>District of Columbia to wit The United States of America to Henry Naylor, Administrator of George Naylor Greeting;</p>
+<p>You are hereby cited and admonished to be and appear at a Supreme Court if the United States on the first Monday in December next pursuant to a Writ of Error filed in the Clerk's office of the Circuit Court of the District of Columbia sitting for the county of Washington Wherein Susan Vigel is Plaintiff in error and you are Dependent to show cause if any there be. Why judgement rendered against the said Susan Vigel in the said Writ of Error mentioned should not be corrected and why speedy justice should not be done to the parties involved in this behalf. </p>
+<p>Witness the Hon. James Dunlop, Chief Justice of the Circuit Court of the District of Columbia this 31st Day of December 1858 Jas. Dunlop</p>
+</div2>
+<div2>
+<pb xml:id="poo4" facs="IMG_3986.jpg"/>
+<fw>3</fw>
+<p>Appeal Bond</p>
+<p>Know all Men by these Present that I Montgomery Blair am held and firmly bound unto Henry Naylor, Administrator of George Naylor in the full and just sum of three hundred dollars lawful money to which payment well and truly to be made and done, we bind ourselves and each of us heirs Executors and Administrators jointly and severally firmly by these presents seated with our seat and dated this 29 day of December 1858 </p>
+<p></p>
+</div2>
+>>>>>>>> 987147408f39f943a0112672626f6f67dee2ca4b:source/drafts/tei/oscys.case.0315.015.xml
 </div1>
-    
+
+
 </body>
 </text>
 </TEI>
