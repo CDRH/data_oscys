@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=oscys.case.0028.006>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0028.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Sally Henry vs Henry W Ball</title>
+<title>Sally Henry vs Henry W Ball. Judgment Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
-<resp>transcription and encoding</resp><name> n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<resp>transcription and encoding</resp><name n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.case.0028.006</idno>
+<idno type="project">oscys.case.0028.007</idno>
 <idno type="case">oscys.caseid.0028</idno>
 
 <availability>
@@ -44,7 +44,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
+<title level="m" type="main">Judgment Record</title>
 <date when="1814-07-04"> July 4th, 1814</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -64,8 +64,8 @@
 <term>Case Papers</term>
 </keywords>
     
-<keywords scheme="original" n="subcategory"><!-- Document Type. See list on websitec. -->
-<term/>
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -77,40 +77,40 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">1814-07</date></term>
+<term><date when="1814-07">July 1814</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term/> Blackwell, George W B
-Boyd, Washington
-Cranch, William
-Dunn, Thomas
-Fitzhugh, Nicholas
-Gustine, Robert G
-Frost, John T
-Henry, William
-Holmead, Anthony
-Jones, Walter Jr
-McDonald, John G
-Moore, William
-Morsell, James S
-Naylor, John L
-Newton, Clement
-Rankin, Mr
-Rankin, Elizabeth K
-Reynolds, Thomas
-Thruston, Buckner
-Tomlinson, Bernard H
-Wharton, James
-Young, James
+<term>Blackwell, George W B</term>
+<term>Boyd, Washington</term>
+<term>Cranch, William</term>
+<term>Dunn, Thomas</term>
+<term>Fitzhugh, Nicholas</term>
+<term>Gustine, Robert G</term>
+<term>Frost, John T</term>
+<term>Henry, William</term>
+<term>Holmead, Anthony</term>
+<term>Jones, Walter Jr</term>
+<term>McDonald, John G</term>
+<term>Moore, William</term>
+<term>Morsell, James S</term>
+<term>Naylor, John L</term>
+<term>Newton, Clement</term>
+<term>Rankin, Mr</term>
+<term>Rankin, Elizabeth K</term>
+<term>Reynolds, Thomas</term>
+<term>Thruston, Buckner</term>
+<term>Tomlinson, Bernard H</term>
+<term>Wharton, James</term>
+<term>Young, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term/>United States of America
-State of Virginia
-Fairfax County
-Northcumberland County
-City of Washington, District of Columbia
+<term/><term>United States of America</term>
+<term>State of Virginia</term>
+<term>Fairfax County</term>
+<term>Northcumberland County</term>
+<term>City of Washington, District of Columbia</term>
 
 </keywords>
 
@@ -125,10 +125,9 @@ City of Washington, District of Columbia
 <persName>Ball, Henry W</persName>
 </person>
 <person role="attorney_petitioner">
-<persName/>Key, Francis Scott
-</person>
+<persName>Key, Francis Scott</persName></person>
 <person role="attorney_defendant">
-<persName/>Law, John
+<persName>Law, John</persName>
 </person>
 </listPerson>
             
@@ -142,7 +141,7 @@ City of Washington, District of Columbia
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+<change when="2022-06" who="#hkm">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -154,22 +153,27 @@ City of Washington, District of Columbia
 <div1 type="case">
 
 <pb xml:id="p001" facs="IMG_3619.jpg"/>
+
 <p>District of Columbia tour</p>
+
 <p>At a Circuit Court of the District of Columbia
 begun and held in and for the County of Washington, at the City of
 Washington on the first Monday of June being the sixth day of the
 same month in the year of our Lord one thousand eight hundred
 and fourteen. And of American Independence the 38th</p>
+
 <p>presents
 The Honorable William Cranch Esquire Chief Judge
 Nicholas Fitzhugh
 Buckner Thruston Esquire Assistant Judges
 Washington Boyd Esq. Marshal Wm Brent clk.</p>
+
 <p>In the record of proceedings of the said
 court among other were the following <unclear></unclear>
 Sally Henry by William Henry her father and next friend 
 against 
 Henry W Ball</p>
+
 <p>Be if remembered that heretofore court
 on the twenty third day of March in the year of our Lord eighteen
 hundred and thirteen the petitioners
@@ -184,7 +188,7 @@ held in bondage by a certain Henry W Ball who holds and claims
 your petitioner as a slave. Wherefore your petitioner prays that a 
 subpoena may be issued directly to the said Henry Ball that
 he may appear and answer unto the premises and your Petitioner be
-<pb xml:id="p001" facs="IMG_3621.jpg"/>
+<pb xml:id="p002" facs="IMG_3621.jpg"/>
 allowed to produce the proof of her said claim to freedom and be
 allowed all such other and further relief in the premises as may
 be agreeable to law and may seem right to your Honor</p>
@@ -213,7 +217,7 @@ by her attorney aforesaid and the Marshal of the District aforesaid
 makes return of the aforegoing subpoena to the Court here thus endorsed
 court</p>
 <p>Summoned W Boyd Marshal</p>
-<pb xml:id="p001" facs="IMG_3623.jpg"/>
+<pb xml:id="p003" facs="IMG_3623.jpg"/>
 <fw>2</fw>
 <p>Thereupon further process of and upon the premises aforesaid between the
 party aforesaid by order of the Court here is continued until the
@@ -243,7 +247,7 @@ and in the meantime to feed cloath and use her well. Whereupon
 on motion of the said petitioned by her attorney aforesaid it is ruled by the 
 laws here that the said Henry W Ball answer to the petition aforesaid
 of the said petitioner Sally Henry in the plea aforesaid</p>
-<pb xml:id="p001" facs="IMG_3626.jpg"/>
+<pb xml:id="p004" facs="IMG_3626.jpg"/>
 <p>or Judgment by the Court here will be rendered against him by
 default and the said Henry W Ball by his said attorney defends
 the force and injury when <unclear>VC</unclear> and prays leave of the Court here to <unclear>imparse</unclear> until the first Monday of June next, to answer to
@@ -272,7 +276,7 @@ says that by anything before by the said Henry W Ball in pleading
 alleged she ought not to be precluded from having and maintaining
 her action aforesaid against the said Henry W Ball
 because protesting that she is not a slave, but is entitled to her</p>
-<pb xml:id="p001" facs="IMG_3627.jpg"/>
+<pb xml:id="p005" facs="IMG_3627.jpg"/>
 <fw>3</fw>
 <p>freedom and this she prays may be enquired of by the Country and
 soforth and the said Henry W Ball in like manner and soforth</p>
@@ -302,7 +306,7 @@ the petitioner by Mrs. Rankin and did not object to it, then
 such importation by Mrs. Rankin entitled the petitioner to her freedom
 and further it is competent for the Jury to infer from his knowing
 of the importation and not objecting to if that such importation</p>
-<pb xml:id="p001" facs="IMG_3631.jpg"/>
+<pb xml:id="p006" facs="IMG_3631.jpg"/>
 <p>was made with his consent, which instruction the Court 
 refused to give but instructed the Jury that if they should be of
 opinion from the evidence that Mrs. Rankin whose deposition
@@ -325,7 +329,7 @@ and this their joint and several bill of exception is signed
 sealed and <unclear>enveloped</unclear></p>
 <p>W Cranch seal</p>
 <p>B Thurston seal</p>
-<pb xml:id="p001" facs="IMG_3633.jpg"/>
+<pb xml:id="p007" facs="IMG_3633.jpg"/>
 <p>the deposition mentioned in the aforegoing Bill of exceptions is as follows Court</p>
 <p>Washington County District of Columbia <unclear>Scl</unclear></p>
 <p>On this 3rd day of June before me the subscriber a Justice of the Peace
@@ -356,7 +360,7 @@ of Sally.</p>
 <p>At the time of our removal Mr Ball was to the
 best of my recollection in Northcumberland County Virginia &amp;
 had gone there sometime before our removal.</p>
-<pb xml:id="p001" facs="IMG_3634.jpg"/>
+<pb xml:id="p008" facs="IMG_3634.jpg"/>
 <p>Quest. Did you not after your removal to Washington frequently
 pass backwards &amp;forwards to &amp;from Virginia &amp;generally carry
 Sally with you.</p>
@@ -385,7 +389,7 @@ any objection to her having been brought here or remaining here?</p>
 <p>Answer a mile or two</p>
 <p>4 Did you or did you not know of Mr H W Ball's ever
 residing in Washington till after his marriage?</p>
-<pb xml:id="p001" facs="IMG_3636.jpg"/>
+<pb xml:id="p009" facs="IMG_3636.jpg"/>
 <p>Answer He did not reside here till after his marriage though
 he was frequently here</p>
 <p>5 Where was your husband during the period of your aforesaid
@@ -407,7 +411,7 @@ an appointment they were induced to return earlier.</p>
 as far as admissible in the law Sally vs Ball</p>
 <p>FSKey for Pet.</p>
 <p>JLaw for Defendt.</p>
-<pb xml:id="p001" facs="IMG_3638.jpg"/>
+<pb xml:id="p010" facs="IMG_3638.jpg"/>
 <p>District of Columbia
 Washington County <unclear>Scl</unclear></p>
 <p>I William Brent Clerk of the Circuit Court
@@ -420,7 +424,15 @@ and Henry W Ball is defendant.</p>
 and affixed the public seal of the County <add>Court</add> aforesaid
 the fourth day July 1814</p>
 <p>Wm Brent clk</p>
-
+<pb xml:id="p011" facs="IMG_3641.jpg"/>
+<p><unclear></unclear> 33 Washington</p>
+<p>Negress Sally Henry
+v
+Henry W Ball <unclear></unclear></p>
+<p>Filed 4th August 1814
+Dist Col
+Decided 1816</p>
+<p>692</p>
 
 
 
