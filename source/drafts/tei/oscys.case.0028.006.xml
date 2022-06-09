@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
+<<<<<<<< HEAD:source/drafts/tei/oscys.case. example
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0028.006">
+========
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0028.006">
+>>>>>>>> 987147408f39f943a0112672626f6f67dee2ca4b:source/drafts/tei/TEI TEMPLATE - CASE PAPERS SC.xml
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Sally Henry v. Henry W. Ball</title>
+<title>Sally Henry v Henry W Ball. Writ of Declaration</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
-<resp>transcription and encoding</resp><name n="Martin, Heidi K." xml:id="hkm"> Heidi K. Martin</name>
+<resp>transcription and encoding</resp><name> n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,7 +38,7 @@
 </address>
 </distributor>
 <idno type="project">oscys.case.0028.006</idno>
-<idno type="case">oscys.caseid.0028</idno>
+<idno type="case">oscys.caseid.0323</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,15 +48,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
-<date when="1814--02--07"><1814></February></date>
+<title level="m" type="main">Writ of Declaration</title>
+<date when="1814-02-07">February 7th, 1814</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 267</collection>
-<idno>Box 33,Folder 692</idno>
+<idno>Box 33, Folder 692</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -64,8 +68,8 @@
 <term>Case Papers</term>
 </keywords>
     
-<keywords scheme="original" n="subcategory"><!-- Document Type. See list on websitec. -->
-<term/>
+<keywords scheme="original" n="subcategory">
+<term>Writ of Declaration</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -81,11 +85,11 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term/>E.B. Caldwell, John Marshall, William Henry, 
+<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term/>United States of America, District of Columbia, Washington County, Washington, 
+<term/><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
 </keywords>
 
 </textClass>
@@ -96,14 +100,13 @@
 <persName>Henry, Sally</persName> 
 </person>
 <person role="defendant"> 
-<persName>Ball, Henry W.
-</persName>
+<persName>Ball, Henry W</persName>
 </person>
 <person role="attorney_petitioner">
-<persName/>Key, Francis Scott
+<persName>Key, Francis Scott</persName>
 </person>
 <person role="attorney_defendant">
-<persName/>Law, John
+<persName>Law, John</persName>
 </person>
 </listPerson>
             
@@ -117,60 +120,50 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+<change when="2022-06" who="#hkm">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
     
-<text> 
+<text>
 
 <body>  
                
 <div1 type="case">
-United States....88:<p>THE PRESIDENT OF THE UNITED STATES, To the Judges of the Circuit Court of the United Sates for the district of 
-Columbia in Washington County Greeting:</p> 
-<p>BECAUSE in the record and proceedings as also in the rendition 
-of the judgment of a plea which is in the said circuit court before you or some 
-of you, between negro Sally Henry by William Henry 
-her next friend was Petitioner and Henry W. Ball 
-was defendant on a petition for freedom 
-a manifest error hath happened, to the great damage of the said petitioner
- as by her complaint appears. We being willing that error, if any hath 
-been, should be duly corrected, and full and speedy justice done to the parties 
-aforesaid in this behalf: Do command you, if judgement be therein given, that 
-then under your seal distinctly and openly, you send the record and proceedings 
-aforesaid, with all things concerning the same, to the Supreme Court of 
-the United States, together with this writ, so that you have the same at 
-Washington, on the first Monday of August next, in the said 
-Supreme Court, to be then and there held, that the record and proceedings 
-aforesaid being inspected, the said Supreme Court may cause further to be 
-done therein to correct that error, what of right and according to the law and 
-custom of the United States should be done. </p> 
-<p>Witness, the honorable John Marshall 
-chief justice of the said Supreme Court, this first Monday of 
-February in the year of our Lord one thousand eight hundred and 
-fourteen and of the Independence of the United States the thirty seventh</p> 
-<p>EB Caldwell Clk. Sup. Ct. U.S.</p>
 
 <pb xml:id="p001" facs="IMG_3617.jpg"/>
+<p>United States....ss:</p>
+<p>The President of the United States,</p>
+<p>To the Judges of the Circuit Court of the United States for the district of 
+Columbia in Washington County</p>
+<p>Greeting:</p>
+<p>BECAUSE in the record and proceedings as also in the rendition
+of the judgment of a plea which is in said circuit court before you or some
+of you, between negro Sally Henry by William Henry
+her next friend was Petitioner and Henry W Ball
+was Defendant on a petition for freedom
+a manifest error hath happened, to the great damage of the said petitioner
+as by her complaint appear<add>s</add>. We being willing that error, if any hath
+been, should be duly corrected, and full and speedy justice done to the parties
+aforesaid in this behalf: Do command you, if judgment be therein given, that
+then under your seal distinctly and openly, you send the record and proceedings
+aforesaid, with all things concerning the same, to the Supreme Court of
+the United States, together with this writ, so that you have the same at
+Washington, on the first Monday of August next, in the said
+Supreme Court, to be then and there held, that the record and proceedings
+aforesaid being inspected, the said Supreme Court may cause further to be
+done therein to correct that error, what of right and according to the law and 
+custom of the United States should be done.</p>
+<p>WITNESS, the honorable John Marshall
+chief justice of the said Supreme Court, this first Monday of 
+February in the year of our Lord one thousand eight hundred and
+fourteen and of the Independence of the United States the thirty seventh</p>
+<p>EB Caldwell</p>
+<p>Clk. Sup. Ct. U. S.</p>
+<pb xml:id="p002" facs="IMG_3618.jpg"/>
+<p>Filed 22 July 1814</p>
 
-<div2 type="caption">
 
-</div2>
-
-<div2 type="body">
-     
-<p></p>     
-
-</div2>
-
-<div2 type="back"> Filed 22 July 2014.
-
-<pb xml:id="p001" facs="IMG_3618.jpg"/>
-
-<p></p>
-
-</div2>
 
 </div1>
     
