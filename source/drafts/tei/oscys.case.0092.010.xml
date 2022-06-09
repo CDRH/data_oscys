@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<<<<<<<< HEAD:source/drafts/tei/oscys.case. example
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0092.010.xml">
+========
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0092.010.xml">
+>>>>>>>> 987147408f39f943a0112672626f6f67dee2ca4b:source/drafts/tei/TEI TEMPLATE - CASE PAPERS SC.xml
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>George Mason and Alexander Moore v Matilda Derrick. <!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Summons of Henry T. Garnett) --></title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp><name n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0092.010</idno>
+<idno type="case">oscys.caseid.0092</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
+<date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration</repository>
+<collection>Record Group 267</collection>
+<idno>Box 144, Folder 132</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory"><!-- Document Type. See list on websitec. -->
+<term/>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term/><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Derrick, Louisa</persName> 
+<persName>Derrick, Lucy</persName>
+<persName>Derrick, Matilda</persName> 
+
+</person>
+<person role="defendant"> 
+<persName>Mason, George</persName> 
+<persName>Moore, Alexander</persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Jones, Walter</persName>
+<persName>Key, Francis Scott</persName>
+<persName>Taney, Augustus</persName>
+<persName>Turner, Thomas</persName>
+</person>
+<person role="attorney_defendant">
+<persName>Jones, Walter</persName>
+<persName>Lear, Benjamin L</persName>
+<persName>Sampson</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Supreme Court</orgName>
+<placeName>Washington (D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>             
+<change when="2022-06" who="#hkm">Transcribed, encoded.</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="IMG_3649.jpg"/>
+<p>In the Supreme Court of the United States</p>
+<p>MASON AND MOORE,
+vs.
+MATILDA DERRICK AND ALS.</p>
+
+
+</div1>
+    
+</body>
+</text>
+</TEI>
