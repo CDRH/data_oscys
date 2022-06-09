@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0315.014"
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0315.014">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -9,7 +9,7 @@
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-"Morales, Ellyzabeth." xml:id="Eml"
+<name n="Morales, Ellyzabeth." xml:id="eml">Ellyzabeth Morales</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -33,7 +33,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
+<idno type="project">oscys.case.0315.014</idno>
 <idno type="case">oscys.caseid.0317</idno>
 
 <availability>
@@ -64,8 +64,8 @@
 <term>Case Papers</term>
 </keywords>
     
-<keywords scheme="original" n="subcategory">Judgement Record
-<term/>
+<keywords scheme="original" n="subcategory">
+<term>Judgement Record</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -77,11 +77,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="">December,1859</date></term>
+<term><date when="1859-12">December,1859</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Naylor, George</term> <term>Smith, Jonathon </term> <term>Kirby, John</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -93,10 +93,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Vigel, Susan</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Naylor, Henry</persName>
 </person>
 <person role="attorney_petitioner">
 <persName/><!-- If needed; consult website list of attorneys for help; link on Trello. -->
@@ -116,7 +116,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+<change when="2022-06" who="eml">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -126,29 +126,86 @@
 <body>  
                
 <div1 type="case">
+<div2>
+<pb xml:id="p001" facs="IMG_4010.jpg"/>
 
-<pb xml:id="p001" facs="<!-- image name-->.jpg"/>
+<p>Supreme Court of the United States no.193</p>
+<p>Susan Vigel Plaintiff in Error vs. Henry Naylor Administrator of  George Naylor Deceased Defendant in Error</p>
+<p>In Error to the circuit court US <del> for Washington D.C.</del> for the District of Columbia </p>
+<p>Index</p>
+<p><table>
+<row>
+<cell>Writ of Error</cell>
+<cell>1</cell>
+</row>
+<row>
+    <cell></cell>
+    <cell>Citation</cell>
+</row>
+<row><cell>2</cell></row>
+<row>
+<cell>Appeal Bond</cell><cell>3</cell>
+</row>
+<row>
+<cell>Style of Court</cell><cell>4</cell>
+</row>
+<row>
+    <cell>Parties</cell><cell>5</cell>
+</row>
+<row>
+<cell>Petition for Freedom</cell><cell>"</cell>
+</row>
+<row>
+<cell>Defendant’s appearance + plea of not free</cell><cell>6</cell>
+<cell>Issue Joined and Venire Facias </cell><cell>"</cell>
+</row>
+<row>
+    <cell>Jury and Verdict </cell> <cell>"</cell>
 
-<div2 type="caption"> <!-- if necessary -->
-
+</row>
+<row>
+<cell>Judgement</cell><cell>7</cell>
+</row>
+ <row>
+    <cell>Plaintiff's Bill of Exception</cell><cell>"</cell>
+</row>
+<row>
+    <cell>Extract from Will  of John B. Kirby</cell><cell>"</cell>
+</row>
+<row>
+<cell>Clerk's Certificate and Seal</cell><cell>10</cell>
+</row>
+</table>
+</p>
+</div2>
+<div2>
+<pb xml:id="poo2" facs="IMG_3982.jpg"/>
+<fw>1</fw>
+<p>Writ of Error </p>
+<p>United States of America</p>
+<p>The President of The United States to the Judges of the Circuit Court of the District of Columbia, sitting for the county of Washington Greeting:</p>
+<p>Because in the Record and Proceedings and also in the rendition of the Judgement of a plea which is in the said Court before you or some of you, wherein Susan Vigel is Plaintiff and Henry Naylor, Administrator of George Naylor, is Defendant, a manifest error hath happened to the great damage of the said Plaintiff as by her complaint appears; We,being willing that error of any hath been should be duly corrected and full and speedy justice done to  the parties aforesaid  in this behalf do command you that if judgement be therein give that under your seal distinctly and openly you send the Record and proceedings aforesaid, with all things concerning the same to the Supreme Court of the United States, together with Writ so that you have the same at Washington for on the first Monday in December next, in said Supreme Court to be then and there held and that the record and proceedings aforesaid being inspected, the said Supreme Court may cause further to be done to the correct that error. </p>
+</div2>
+<div2>
+<pb xml:id="poo3" facs="IMG_3984.jpg"/>
+<fw>2</fw>
+<p>which of right and according to the laws and custom of the United States should be done </p>
+<p>Witness the Hon. Roger B. Taney, Chief Justice of said Supreme Court. Issued the 31st day of December 1858 Jno A. Smith CLK</p>
+<p>Citation</p>
+<p>District of Columbia to wit The United States of America to Henry Naylor, Administrator of George Naylor Greeting;</p>
+<p>You are hereby cited and admonished to be and appear at a Supreme Court if the United States on the first Monday in December next pursuant to a Writ of Error filed in the Clerk's office of the Circuit Court of the District of Columbia sitting for the county of Washington Wherein Susan Vigel is Plaintiff in error and you are Dependent to show cause if any there be. Why judgement rendered against the said Susan Vigel in the said Writ of Error mentioned should not be corrected and why speedy justice should not be done to the parties involved in this behalf. </p>
+<p>Witness the Hon. James Dunlop, Chief Justice of the Circuit Court of the District of Columbia this 31st Day of December 1858 Jas. Dunlop</p>
+</div2>
+<div2>
+<pb xml:id="poo4" facs="IMG_3986.jpg"/>
+<fw>3</fw>
+<p>Appeal Bond</p>
+<p>Know all Men by these Present that I Montgomery Blair am held and firmly bound unto Henry Naylor, Administrator of George Naylor in the full and just sum of three hundred dollars lawful money to which payment well and truly to be made and done, we bind ourselves and each of us heirs Executors and Administrators jointly and severally firmly by these presents seated with our seat and dated this 29 day of December 1858 </p>
 <p></p>
-
 </div2>
-
-<div2 type="body">
-     
-<p></p>     
-
-</div2>
-
-<div2 type="back"> <!-- if necessary -->
-
-<p></p>
-
-</div2>
-
 </div1>
-    
+
+
 </body>
 </text>
 </TEI>
