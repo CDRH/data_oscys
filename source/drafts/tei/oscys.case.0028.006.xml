@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<<<<<<<< HEAD:source/drafts/tei/oscys.case. example
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0028.006">
-========
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0028.006">
->>>>>>>> 987147408f39f943a0112672626f6f67dee2ca4b:source/drafts/tei/TEI TEMPLATE - CASE PAPERS SC.xml
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Sally Henry v Henry W Ball. Writ of Declaration</title>
+<title>Sally Henry v. Henry W. Ball. Writ of Error</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
-<resp>transcription and encoding</resp><name> n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<resp>transcription and encoding</resp>
+<name n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -38,7 +36,7 @@
 </address>
 </distributor>
 <idno type="project">oscys.case.0028.006</idno>
-<idno type="case">oscys.caseid.0323</idno>
+<idno type="case">oscys.caseid.0028</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -48,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Writ of Declaration</title>
-<date when="1814-02-07">February 7th, 1814</date>
+<title level="m" type="main">Writ of Error</title>
+<date when="1814-02-07">February 7, 1814</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -69,7 +67,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Writ of Declaration</term>
+<term>Writ of Error</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -81,32 +79,35 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1814-02">February 1814</date></term>
+<term><date when="1816-02">February 1816</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term xml:id="per.000194">Caldwell, Elias Boudinot, 1776-1825</term>
+<term xml:id="per.000230">Henry, William</term>
+<term xml:id="per.000725">Marshall, John, 1755-1835</term>  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term/><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Henry, Sally</persName> 
+<person role="petitioner" xml:id="per.000231">
+<persName>Henry, Sally</persName>
 </person>
-<person role="defendant"> 
-<persName>Ball, Henry W</persName>
+<person role="defendant" xml:id="per.000232">
+<persName>Ball, Henry W.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Key, Francis Scott</persName>
+<persName/>
 </person>
 <person role="attorney_defendant">
-<persName>Law, John</persName>
+<persName/>
 </person>
 </listPerson>
             
@@ -120,6 +121,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2022-06-09" who="#kln">Reviewed.</change>
 <change when="2022-06" who="#hkm">Transcribed, encoded.</change>
 </revisionDesc>
 
@@ -132,18 +134,29 @@
 <div1 type="case">
 
 <pb xml:id="p001" facs="IMG_3617.jpg"/>
+
+<div2 type="caption">
+
 <p>United States....ss:</p>
+
 <p>The President of the United States,</p>
+
 <p>To the Judges of the Circuit Court of the United States for the district of 
 Columbia in Washington County</p>
+
 <p>Greeting:</p>
-<p>BECAUSE in the record and proceedings as also in the rendition
+
+</div2>
+
+<div2 type="body">
+
+<p>Because in the record and proceedings as also in the rendition
 of the judgment of a plea which is in said circuit court before you or some
-of you, between negro Sally Henry by William Henry
-her next friend was Petitioner and Henry W Ball
+of you, between Negro Sally Henry by William Henry
+her next friend was Petitioner and Henry W. Ball
 was Defendant on a petition for freedom
-a manifest error hath happened, to the great damage of the said petitioner
-as by her complaint appear<add>s</add>. We being willing that error, if any hath
+a manifest error hath happened, to the great damage of the said Petitioner
+as by her complaint appear<add>s.</add> We being willing that error, if any hath
 been, should be duly corrected, and full and speedy justice done to the parties
 aforesaid in this behalf: Do command you, if judgment be therein given, that
 then under your seal distinctly and openly, you send the record and proceedings
@@ -154,16 +167,24 @@ Supreme Court, to be then and there held, that the record and proceedings
 aforesaid being inspected, the said Supreme Court may cause further to be
 done therein to correct that error, what of right and according to the law and 
 custom of the United States should be done.</p>
-<p>WITNESS, the honorable John Marshall
+
+<p>Witness, the honorable John Marshall
 chief justice of the said Supreme Court, this first Monday of 
 February in the year of our Lord one thousand eight hundred and
 fourteen and of the Independence of the United States the thirty seventh</p>
-<p>EB Caldwell</p>
-<p>Clk. Sup. Ct. U. S.</p>
+
+<p>E B Caldwell<lb/>
+Clk. Sup. Ct. U. S.</p>
+
+</div2>
+
 <pb xml:id="p002" facs="IMG_3618.jpg"/>
-<p>Filed 22 July 1814</p>
 
+<div2 type="back">
 
+<p>Filed 22 July 1814.</p>
+
+</div2>
 
 </div1>
     
