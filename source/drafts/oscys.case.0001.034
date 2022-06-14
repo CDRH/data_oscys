@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygeoscys.case.0001.034n RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="<!-- file name, check Case Spreadsheet; e.g. - oscys.case.0011.015 -->">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Summons of Henry T. Garnett) --></title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<!-- add you name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!-- file name - same as xml:id above --></idno>
+<idno type="case"><!-- caseid number, check Case Spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
+<date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration</repository>
+<collection>Record Group 267</collection>
+<idno><!-- Box #, Folder #--></idno><!-- Check Case Spreadsheet for box and folder information. e.g. - Box 33, Folder 691 -->
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term><!-- Document Type. See list on website. --></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term></term><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Ben</persName> 
+</person>
+<person role="defendant"> 
+<persName>Scott, Sabret</persName>
+</person>
+<person role="attorney_petitioner">
+<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+</person>
+<person role="attorney_defendant">
+<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Supreme Court</orgName>
+<placeName>Washington (D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>             
+<change when="2022-06-14" who="#AG">Transcribed, encoded.</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="<IMG_4537.jpg"/>
+
+<p>
+ <lb>Negroe Ben</lb>
+ <lb>V.</lb>
+ <lb>Sabret Scott</lb>
+</p>
+    
+<p> On the mal of their cause the Petitioners offered evidence to prove that he had worked as a slave by the Defendants from the State of Virginia into George <gap extent="two words"reason="burnt document"></gap>Maryland Jones; <unclear reason="illegible"> niece</unclear> between the year 1794 &amp 1796 <gap extent="two words" readon="burnt document"></gap> defendant on his part offered evidence <gap extent="four words" reason="burnt document"></gap> in for his the said Petitioner he the Defendant  <gap extent="three words" reason="burnt document"></gap>whereupon and came into the State of Maryland <gap extent="two words" reason="burnt document"></gap> first wherein of sitting therin came <gap extent="four words" reason="burnt document"></gap> State of Maryland for one year and  <ucnlear>imprisoned etc.  </ucnlear> and next succeeding his coming into the States and that the petitioner at the time of being so imported owned for a long time before, belonged to the defendant, and had been an inhabitant of the State of Virginia for the space of three whole years <unclear> before</unclear> proceeding such. Importation- and the Court upon the <gap extent="one word" reason="burnt document"></gap> motion of the petitioner, having decided that <unclear>those</unclear> is sufficient for the defendant to prove these circumstances as on the <unclear>mal</unclear> that it  be a necessary for the Defendant <unclear readon="faded document">being that the resistance </unclear> the Petitioner <gap extent="two words" reason="burnt document"></gap> United States for three years as antecedent as to his coming into the State of Maryland and been found proved to the satisfaction fo the Naval Officer or the collector of the tax, by the oath of the owner or same officer were credible <unclear reason="faded document">and true or within said</unclear> whereupon the defendant offered the Crt. this certificate of John Barnes the Collector of Customs and naval officer of the United States for the District and Port of George Town aforesaid in the notes and figures following ist.</p>
+<p>District of Columbia County of Washington Court. On this 16th day of June in the year eighteen hundred and four. Sabrett Scott etc. 5</p>
+    
+<pb xml:id="p002" facs="<IMG_4538.jpg"/>
+    
+ <p>The United States. Owner of a mullatto slave named Ben</p>   <p>By his oath before me the herefore Cstm. Cllctor. and Naval Officer of the Port of Georgetown in the County of Washington and District of Columbia proved to my satisfaction that the said negro Ben was a resident of the State of Virginia and of the United States for three whole years preceeding <gap extent="one word" reason="burnt document"></gap> time when the said mullatto Ben was brought to the State of Maryland    John Barnes. Collector--- The John Barnes being at the time of taking the judgement granting certificate aforesaid in <unclear reason="faded document"> in matters </unclear>to have been issued the year 1806 duly appointed by the president of the United States Collector and Naval Officer and aforesaid, and the said Sabrett Scott being then and ever since, such his removal and importation into the State of Maryland as aforesaid is resident of George Town aforesaid within the present being of the County of Washington in the District of Columbia aforesaid, and upon the Mation of the Petitioner the Court decided that the said Certificate was not a sufficient evidence, Whereupon the Defendent offered in Evidence the certicate of Richard Jameson who was admitted to have been since the year 1801 and at the time of taking the <unclear reason="smeared ink">oath</unclear>and making the certificate having been duly appointed by the Levy Court of the County of Washington Collector of the Tax for the County of Washington aforesaid, which certificate is in the writ and signed following. to writ. District of Columbia County of Washington to writ. On this 12th day of June in the year of eighteen hundred and four<gap extent="one word" reason="burnt document"></gap> Sabrett Scott the owner of a mullatto man called Ben <gap extent="one word" reasoning="burnt document"></gap> fully proced to the satisfaction of the said officer the collector of</p>
+
+<pb xml:id="p003" facs="<IMG_4542.jpg"/>
+
+<p>of the Tax for the county of Washington and District of Columbia aforesaid that the said negro Ben was a resident of the State of Virginia </p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
