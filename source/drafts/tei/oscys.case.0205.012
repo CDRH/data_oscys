@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Summons of Henry T. Garnett) --></title>
+<title>Joseph Wallingsford v. Sarah Ann Allen. Will Appointment </title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<!-- add you name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
+<name n="Morales-Ledesma, Ellyzabeth" xml:id="eml">Ellyzabeth Morales-Ledesma</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check Case Spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.case.0205.012</idno>
+<idno type="case">oscys.caseid.0251</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
-<date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
+<title level="m" type="main">Appointment of Joseph Wallingsford as Administrator </title>
+<date when="1835-01-13 ">January,01 1853 </date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 267</collection>
-<idno><!-- Box #, Folder #--></idno><!-- Check Case Spreadsheet for box and folder information. e.g. - Box 33, Folder 691 -->
+<idno>210, 1903</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -78,15 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+<term><date when="1835, 01"></date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term></term>James Meade
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term></term>Prince Georgia Country
 </keywords>
 
 </textClass>
@@ -94,10 +94,12 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Sarah Ann Allen</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName> Anthony Brorke
+ Philemon Chew Regs
+Joseph Wallingsford </persName>
 </person>
 <person role="attorney_petitioner">
 <persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
@@ -117,7 +119,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+<change when="2022-06-14" who="eml">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -128,9 +130,18 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="<!-- image name-->.jpg"/>
+<pb xml:id="p001" facs="IMG_3711.jpg"/>
 
-<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
+<p>Maryland Feb. To all to whom these presents shall come greetings. Know you that on the 13th day of January Eighteen hundred and thirty five <unclear></unclear>and before Philadelphia Register of write for Prince Georgia County &amp; state of Maryland duly there to constituted and appointed for probate of Wills &amp; granting administration according to the act of Assembly in such case made &amp;provided Administration of all and singular the goods chattels &amp; credits which whereof the estate of Joseph Wallingsford late of said county release were granted &amp; committed unto James Meade of said Country he having first entered into bond with sufficient Securities <unclear></unclear> due performance of his duty administrator also taken his oath to all and truly to administer the same to <unclear></unclear> a true &amp; perfect inventory of the said goods &amp; chattel and to lender a just account of his administration when hes Thanks be there to legally required. </p>
+<p>Witness Ano. Brorke Esquire Chief Jads of the orphans court of said County this 13th day of January Eight Hundred and Thiry Five </p>
+<p> Judge Philemon Chew Regs of Willy Prince Georgia County</p>
+
+<pb xml:id="p002" facs="IMG_3715.jpg"/>
+<p></p>
+<p> No.79 Letters of Admin. Jas. Meade (seal) </p>
+<p>16th Jany-81==1836</p>
+
+
 
 </div1>
     
