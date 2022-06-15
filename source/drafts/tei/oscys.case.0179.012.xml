@@ -82,12 +82,58 @@
 <term><date when="1843-01">January 1843</date></term>
 </keywords>
 
-<keywords scheme="lcsh" n="people"><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
-<term></term> 
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.001347">Alexander, Frances</term>
+<term xml:id="per.001344">Alexander, William B.</term>
+<term xml:id="per.004470">Barnes, Thomas T.</term>
+<term xml:id="per.004471">Boyle, John</term>
+<term xml:id="per.000737">Brent, Robert J., 1811-1872</term>
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.000738">Brent, William Leigh, 1784-1848</term>
+<term xml:id="per.004472">Brook, Richard</term>
+<term xml:id="per.001348">Brown, Elizabeth</term>
+<term xml:id="per.003886">Butler, Charles</term>
+<term xml:id="per.000287">Clarke, Walter</term>
+<term xml:id="per.000004">Cranch, William, 1769-1855</term>
+<term xml:id="per.001346">Dunbar, Christiana</term>
+<term xml:id="per.001352">Dunbar, Milly</term>
+<term xml:id="per.001345">Graham, Ann</term>
+<term xml:id="per.001355">Graham, Rachel</term>
+<term xml:id="per.000739">Hunter, Alexander</term>
+<term xml:id="per.001349">Jenny</term>
+<term xml:id="per.000001">Key, Francis Scott, 1779-1843</term>
+<term xml:id="per.004473">Lowry, George</term>
+<term xml:id="per.001350">Lucinda</term>
+<term xml:id="per.001351">Magruder, Elizabeth</term>
+<term xml:id="per.000977">McPherson, Henry H.</term>
+<term xml:id="per.001353">Milly</term>
+<term xml:id="per.000721">Moore, Alexander</term>
+<term xml:id="per.000044">Morsell, James Sewall</term>
+<term xml:id="per.004474">Ricards, Philip A.</term>
+<term xml:id="per.002315">Roach, Edward N.</term>
+<term xml:id="per.001356">Semmes, Thomas</term>
+<term xml:id="per.003892">Smith, Anthony</term>
+<term xml:id="per.003923">Smoot, Samuel</term>
+<term xml:id="per.001357">Swann, Frances</term>
+<term xml:id="per.001358">Swann, Mary</term>
+<term xml:id="per.001359">Swann, William T.</term>
+<term xml:id="per.001360">Taylor, R. I.</term>
+<term xml:id="per.001155">Taney, Roger Brooke, 1777-1864</term>
+<term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
+<term xml:id="per.001361">Tyler, Charles</term>
+<term xml:id="per.001362">Tyler, Elizabeth</term>
+<term xml:id="per.001363">Tyler, Richard B.</term>
+<term xml:id="per.001364">Tyler, Sarah</term> 
+<term xml:id="per.001365">Venus</term>
+<term xml:id="per.000513">Wharton, Charles H. W.</term>
 </keywords>
 
-<keywords scheme="lcsh" n="places"><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
-<term></term>
+<keywords scheme="lcsh" n="places">
+<term>Alexandria County (D.C.)</term>
+<term>Washington County (D.C.)</term>
+<term>Alexandria (D.C.)</term>
+<term>Georgetown (Washington, D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
@@ -100,11 +146,14 @@
 <person role="defendant" xml:id="per.001342">
 <persName>Graham, Moses</persName>
 </person>
-<person role="attorney_petitioner">
-<persName>James Dermott</persName>
+<person role="attorney_petitioner" xml:id="per.000873">
+<persName>Dermott, John J.</persName>
 </person>
-<person role="attorney_defendant">
-<persName>Edward and William Thomas Swann</persName>
+<person role="attorney_defendant" xml:id="per.001366">
+<persName>Swann, Edward</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.001367">
+<persName>Swann, William Thomas</persName>
 </person>
 </listPerson>
 
@@ -118,7 +167,7 @@
 </profileDesc>
 
 <revisionDesc> 
-<change when="2022-06-09" who="#kln">Reviewed.</change>
+<change when="2022-06" who="#kln">Reviewed.</change>
 <change when="2022-06" who="#ag">Transcribed, encoded.</change>
 </revisionDesc>
 
@@ -251,7 +300,7 @@ is not the remotest implication by which his freedom can be effected.</p>
  
 <p>Notwithstanding the said will does not emancipate the petitioner, and although the law peremptorily requires the emancipation to be by deed or last will and testament, the Court, gives to the petitioner his freedom at the age of 31 years.</p>
  
-<p>The error above assigned involves a question of law of extensive interest, both public and private– of a public interest, since it admits the reception of parol evidence to explain and enlarge the meaning of a will, to give to a last will and testament a different meaning from that which the words in themselves evidently and necessarily imply,– of a private interest to the Defendant, since there are several other Slaves having similar claims, in whose favour similar verdicts would be found, and which verdicts would be construed by the Court, as having a similar legal effect and operation, unless the Supreme Court shall reverse so errorneous a decision.</p>
+<p>The error above assigned involves a question of law of extensive interest, both public and private– of a public interest, since it admits the reception of parol evidence to explain and enlarge the meaning of a will, to give to a last will and testament a different meaning from that which the words in themselves evidently and necessarily imply,– of a private interest to the Defendant, since there are several other Slaves having similar claims, in whose favour similar verdicts would be found, and which verdicts would be construed by the Court, as having a similar legal effect and operation, unless the Supreme Court shall reverse so erroneous a decision.</p>
 
 <p>Wherefore your petitioner prays that your Honor will issue an order to the Clerk of the said Court directing him to issue a writ of error under the terms and conditions
  
@@ -328,7 +377,7 @@ Edwd Swann</p>
 <p>Present<lb/> 
 The Honble William Cranch Chief Judge<lb/>
 Buckner Thruston &amp;<lb/>
-James P. Morsell Asst Judges<lb/>
+James S. Morsell Asst Judges<lb/>
 Alexander Hunter Esqr. Marshal.<lb/> 
 William Brent Clerk.</p>
  
@@ -340,205 +389,181 @@ William Brent Clerk.</p>
 vs.<lb/>
 Richard B. Alexander</p>
  
-<p>Be it remembered, that heretofore, to writ: on the first day of June in the year of Our Lord one thousand eight hundred and thirty eight the said Moses Graham by John J. Dermott Esquire, filed in Court here, the following, petition, to wit:</p> 
+<p>Be it remembered, that heretofore, to wit: on the first day of June in the year of Our Lord one thousand eight hundred and thirty eight the said Moses Graham by John J. Dermott Esquire, filed in Court here, the following, petition, to wit:</p> 
     
 <pb xml:id="p011" facs="IMG_3871.jpg"/>
+
+<p>Petition</p>
     
-<p>To the Honorable the judge of the Circuit Court of the District of Columbia, for the County of Washington.</p>
+<p>To the Honorable the Judges of the Circuit Court of the District of Columbia, for the County of Washington.</p>
     
-<p>The petition of Moses Graham humbly complaining,<unclear>showeth</unclear> unto your Honors that your Petitioner is entitled to his freedom, and is unjustly held in bondage by Richard B. Alexander who claims your Petitioner as his slave Wherefore your Petitioner prays your Honors to grant a Subpeana to the said Richard B. Alexander directed, and such relief in the premises as may be according to law. </p> 
+<p>The Petition of Moses Graham humbly complaining, sheweth unto your Honors, that your Petitioner is entitled to his freedom, and is unjustly held in bondage by Richard B. Alexander who claims your Petitioner as his slave. Wherefore your Petitioner prays your Honors, to grant a Subpoena to the said Richard B. Alexander directed, and such relief in the premises as may be according to law.</p> 
  
-<p>John L Derwott</p>
-<p>Ally for Petitioner </p>
+<p>John J. Dermott<lb/>
+Atty for Petitioner</p>
     
-<p>Whereupon subpoena issued as prayed and returned executed as the next <unclear>member term</unclear> of the said Circuit Court </p>
+<p>Whereupon subpoena issued as prayed and returned executed at the next November Term of the said Circuit Court.</p>
     
- <p>Plea of Not Free  &amp; issue joined venire</p>
-<p>Therefore the said Richard B. Alexander by Brent and Brent Esquires his attornies comes into court here and defends teh complaint aforesaid, when and where the said Court shall take the same into consideration and for plea they say that the said petitioner is not entitled to his freedom as is alleged and of this he puts himself upon the County and the said Petitioner in like manner and soforth. Therefore let a jury therein appear before teh Court here here on the Fourth monday of March next, by whom + and who neither to recognize &amp;c because as well the same day is given to the said parties there and then and soforth.- </p>
-    
-<p>March Term 1839</p>
-<p>At which mentioned fourth monday of March in the year of our Lord one thousand eight hundred and thirty nine: comes again. </p>
+<p>Plea of Not Free &amp; issue joined venire facias to March Term 1839</p>
+
+<p>Thereupon the said Richard B. Alexander by Brent and Brent, Esquires, his attornies, comes into Court here and defends the complaint aforesaid, when and where the said Court shall take the same into consideration, and for plea they say that the said petitioner is not entitled to his freedom as is alledged and of this, he puts himself upon the Country and the said Petitioner in like manner and so forth. Therefore let a Jury thereon appear before the Court here <sic>here</sic> on the fourth monday of March next, by whom &amp;c and who neither &amp;c to recognize &amp;c because as well &amp;c the same day is given to the said parties then and there and so forth.</p>
+
+<p>Appearances</p>
+
+<p>At which mentioned fourth monday of March in the year of our Lord one thousand eight hundred and thirty nine; comes again.
 
 <pb xml:id="p012" facs="IMG_3875.jpg"/>
     
-<p>Appearances</p>
-<p>Continuance to November Term 1839</p>
-<p>into the Circuit Court here, as well the said Moses Graham by his attorney aforesaid as the said Richard B. Alexander by his attorneya aforesaid thereforoe further process of and upon the promises aforesaid believes the parties aforesaid by counsel of the said parties and their attornies aforesaid &amp; by order of the Court here therein the said cause is continued until the fourth monday of November next.</p>
- <p>And now to wit: the said fourth monday of November, in the year of Our Lord one thousand eight hundred and thirty nine comes into the Circuit Court here, as will the said petitioner by his attorney aforesaid as the said defendant by his said attorney: Whereupon for trying the issue aforesaid, it is ordered by the Court here that twelve persons from the pannel of petit jurors returned to the Court here by the Marshal of the district of Columbia here called, who being called come to int: </p>
+into the Circuit Court here, as well the said Moses Graham by his attorney aforesaid, as the said Richard B. Alexander by his attorney aforesaid thereupon further process, of and upon the premises aforesaid, between the parties aforesaid, by consent of the said parties and their attornies aforesaid &amp; by order of the Court here therein, the said cause is continued until the fourth monday of November next.</p>
 
-<p>1, C. H. W. Wharton</p>
-<p>2. Thomas J. Barnes</p>
-<p>3. Walter Clarke</p>
-<p>4. George Lowry </p>
-<p>5. John Boyle</p>
- <p>6. Samuel Smoot </p>
- <p>7. Anthony Smith</p>
- <p>8. Henry H. M. Pherson</p>
- <p>9. Charles Butler</p>
- <p>10. Richard Brook</p>
-  <p>11. Philip A Ricards</p>
- <p>12. Edward N. Roach</p>
- <p>who being duly enpannelled and sworn to say the truth in the promises before their oath, do say: we find that the petitioner is the son of Milly who was the slave of Miss. Brown, who resided in George Town about the year 1790 and for two or three years afterwards with her sister Mrs. Magruder that she afterwards lived with the same sister in Maryland and afterwards, but not before 1806 with  </p>
+<p>Continuance to November Term 1839</p>
+
+<p>And now, to wit: the said fourth monday of November, in the year of Our Lord one thousand eight hundred and thirty nine, comes into the Circuit Court here, as well the said petitioner by his attorney aforesaid, as the said defendant by his said attorney: Whereupon for trying the issue aforesaid, it is ordered by the Court here, that twelve persons from the pannel of petit jurors, returned to the Court here by the Marshal of the District of Columbia, be called, who being called come to wit:</p>
+
+<p>Jury</p>
+
+<list rend="simple">
+<item>1 C. H. W. Wharton</item>
+<item>2 Thomas T. Barnes</item>
+<item>3 Walter Clarke</item>
+<item>4 George Lowry</item>
+<item>5 John Boyle</item>
+<item>6 Samuel Smoot </item>
+<item>7 Anthony Smith</item>
+<item>8 Henry H. McPherson</item>
+<item>9 Charles Butler</item>
+<item>10 Richard Brook</item>
+<item>11 Philip A Ricards</item>
+<item>12 Edward N. Roach</item>
+</list>
+
+<p>who being duly empannelled and sworn to say the truth in the premises, upon their oath, do say:</p>
+
+<p>Special Verdict</p> 
+
+<p>We find that the petitioner is the son of Milly who was the slave of Miss Brown, who resided in George Town about the year 1790 and for two or three years afterwards with her sister Mrs Magruder. that she afterwards lived with the same sister in Maryland, and afterwards, but not before 1806 with 
  
 <pb xml:id="p013" facs="IMG_3876.jpg"/>
  
-<p>her sister Mrs. Alexander in Alexandria Country- that during all this time the petitioners mother and grandmother belonged to Miss. Brown who some time about the year 1873, while she was living with Mrs. Alexander brought Milly from Washington County where she had been <gap>strikethrough residing</gap> living, hired out by her mistress for one or two years to Mrs. Alexander, in Alexandria County.</p>
-<p>That Milly then had two female children and that the petitioner was born afterwards and while Milly was at Mrs. Alexanders, that Mrs. Brown on brining her to Mrs. Alexander's sold Milly and her two children to Mrs. Alexander, she to be free at 31 and her children then born and those afterwards to be born at the same age.</p>
-<p>That the petitioner was held by Mrs. Alexander during her life, and by her administrator the present defendant since, not as a slave for life, but as entitled to freedom at 31 years of age.</p>
-<p>That Miss. Brown died in 1825 making her last will and testament (copied in page 20.)</p>
-<p>That Miss. Brown by her will recognized the terms of sale of said negroes to her sister to be, that they were to be free at 31 years of age-</p>
-<p>Ant that the petitioner will be on the 25th of Dec. 1839 twenty six years of age.</p>
-<p>That Miss. Brown sent an officer for Milly to George Town where she was then residing and from whence she was brought in 1813 to her</p>
+her sister Mrs Alexander in Alexandria County, that during all this time the petitioners mother and grand mother belonged to Miss Brown, who some time about the year 1813, while she was living with Mrs Alexander brought Milly from Washington County where she had been <del>residing</del> living, hired out by her mistress for one or two years to Mrs Alexander, in Alexandria County.</p>
+
+<p>That Milly then had two female children and that the petitioner was born afterwards and while Milly was at Mrs Alexanders. That Mrs Brown on bringing her to Mrs Alexander's sold Milly and her two Children to Mrs Alexander, she to be free at 31 and her Children then born and those afterward to be born at the same age.</p>
+
+<p>That the petitioner was held by Mrs Alexander during her life, and by her administrator the present Defendant since, not as a slave for life, but as entitled to freedom at 31 years of age.</p>
+
+<p>That Miss Brown died in 1825 making her last will and testament (copied in page 20.).</p>
+
+<p>That Miss Brown by her Will recognized the terms of sale of said negroes to her sister to be, that they were to be free at 31 years of age.</p>
+
+<p>And that the petitioner will be on the 25th of Decr 1839 twenty six years of age.</p>
+
+<p>That Miss Brown sent an Officer for Milly to George Town where she was then residing and from whence she was brought in 1813 to her
  
- <pb xml:id="p014" facs="IMG_3879.jpg"/>
+<pb xml:id="p014" facs="IMG_3879.jpg"/>
     
-<p>sister with the intention to sell her and her children to her sister, and did therefore sell her as before stated on the terms and conditions stated in her will.</p>
-<p>And that said Milly was held in Alexandria County from the time of her said impertations till she became 31 years of age, when she was suffered to go free and is free now-and the petitioner was so kept in said County til the filing of this petition. </p>
-<p>That Miss. Brown when <gap>strikethrough the</gap> she had the said Milly and her two children brought into Alexandria County not any time before or afterwards, did not take this oath required by the 4th Section of 17th Dec 1792- and if upon the facts aforesaid, the law be for the petitioner we find for the Petitioner, and if otherwise we find for the defendant.</p>
+sister with the intention to sell her and her children to her sister, and did thereupon sell her as before stated on the terms and conditions stated in her Will.</p>
+
+<p>And that said Milly was kept in Alexandria County from the time of her said importation till she became 31 years of age, when she was suffered to go free and is free now. And the petitioner was so kept in said County til the filing of this petition.</p>
+
+<p>That Miss Brown when <del>the</del> she had the said Milly and her two children, brought into Alexandria County, or at any time before or afterwards, did not take this oath required by the 4th Section of 17th Decr 1792. And if upon the facts aforesaid, the law be for the petitioner we find for the Petitioner, and if otherwise we find for the Defendant.</p>
  
- <p>C.H. Mr. Wharton</lb>
-<p>Cforeuance </lb>
- <p> continuance curia asvisare nult
- to March Term 1840</p>
+<p>C. H. W. Wharton<lb/>
+Foreman</p>
+
+<p>Continuance curia advisare vult to March Term 1840</p>
  
- <p><gap>Strikethrough four</gap>Whereupon for that the Court here are not advised to give their judgement of and upon the promises aforesaid, day therefore is further given to the said parties to hear thereof their judgement until the fourth monday of March next, for that the said Court here are not advised &amp;c</p>
-<p>At which mentioned fourth monday of March in the year of our Lord one thousand eight hundred and forty come again into the Circuit Court here as well the said petitioner by his attorney aforesaid as the said defendant by his attorney aforesaid: Whereupon all and jury unto thte promises, being by the Court seen heard and fully understood, and upon full</p>
+<p><del>Therupon further process of and</del> Whereupon for that the Court here, are not advised to give their judgment of and upon the premises aforesaid, day therefore is further given to the said parties to hear thereof their judgment until the fourth monday of March next, for that the said Court here, are not advised &amp;c</p>
+
+<p>Judgment of the Court for the Defendant upon Special Verdict</p>
+
+<p>At which mentioned fourth monday of March in the year of our Lord one thousand eight hundred and forty comes again into the Circuit Court here as well the said Petitioner by his Attorney aforesaid as the said defendant by his attorney aforesaid: Whereupon all and singular the premises, being by the Court here seen heard and fully understood, and upon full
     
 <pb xml:id="p015" facs="IMG_3881.jpg"/>
  
- <p>consideration the Court is of opinion that the petitioner will be entitled to his freedom on the 26th of December, which will be in teh year 1844 and not before- and therefore that the judgement at law where the said specidal verdict must be for the defendant, But in as much as the said petitioner has filed his bill in Equity: stating his fears that the said defendant Richard B. Alexander will become the petitioner from the District of Columbia, under the laws whereof his claim for freedom has accrued, and from the jurisdiction of this Court before teh said 26 of December 1844, whereby he may be defensed of the means of establishing his right to freedom where it shall have become absolute. It is this 18th day of APril 1840, ordered that the said Defendant Richard B. Alexander shall not be permitted to take the said Petitioner into his <gap>strikethrough custody </gap> possession (the said petitioner now being in the custody of the Marshal for safe keeping and for the protection of the Rights of said petitioner) until the said Richard B. Alexander shall has given bond to the Until States with good security in the penalty of one thousand dollars with condition to be boid if he shall have the petitioner forthcoming and produce him to this Court or to the Marshal of this District on the aforesaid 26th day of December 1844 the said bond and security to be approved by this Court or one of the judges thereof; Provided however that the said petitioner Moses Graham shall have first given security to the said Richard B. Alexander by bond with good security to be approved by this Court or one of the judges thereof, in the penalty of $800. continued that he the said Moses, shall entimed</p>
+consideration the Court is of opinion that the petitioner will be entitled to his freedom on the 26th of December, which will be in the year 1844 and not before. And therefore that the judgment at law upon the said special verdict must be for the Defendant; But in as much as the said petitioner has filed his bill in Equity; stating his fears that the said Defendant Richard B. Alexander will remove the petitioner from the District of Columbia, under the laws whereof his claim for freedom has accrued, and from the jurisdiction of this Court; before the said 26 of December 1844, whereby he may be deprived of the means of establishing his right to freedom when it shall have become absolute. It is this 18th day of April 1840, ordered that the said Defendant Richard B. Alexander shall not be permitted to take the said Petitioner into his <del>custody</del> possession (the said petitioner now being in the custody of the Marshal for safe keeping and for the protection of the Rights of the said petitioner) until he the said Richard B. Alexander shall have given bond to the Until States with good security in the penalty of one thousand dollars, with condition to be void, if he shall have the petitioner forthcoming, and produce him to this Court or to the Marshal of this District on the aforesaid 26th day of December 1844, the said bond and security to be approved by this Court or one of the judges thereof; Provided however that the said petitioner Moses Graham shall have first given security to the said Richard B. Alexander by bond with good security to be approved by this Court, or one of the Judges thereof, in the penalty of $800. conditioned that he the said Moses, shall continue
     
- <pbxml:id="p016"facs="IMG_3883.jpg"/>
+<pb xml:id="p016" facs="IMG_3883.jpg"/>
  
- <p>18"</p>
- <p>Appeal to the Supreme Court</p>
- <p>faithful service of the said Richard B. Alexander in the District of Columbia until the said 26th day of December 1844- and upon the said bonds being given and approved as appearing and filed in this Court, or in the Clerks Office, the said petitioner shall be delivered up to the said Richard B. Alexander upon demand. The will of Miss. Brown page 20 refers to in special verdict to be inserted here.)
-    And whereas, afterwards to int on the tenth day of April in the year of our Lord one thousand eight hundred and fourty, the said Richard B. Alexander produced and filed in Court here, the United States writ for the correcting of errors, of and where the judgement aforesaid directed to the judges of the Circuit Court of the district of Columbia, in the County of Washington, and in pursuance thereof, and according to the formed effect of the law in such case made and provided, a transcript of the record of proceedings of the judgement of aforesaid and all things therein to relating with the writ of error aforesaid and a copy of the appeal bond herein annexed is hereby transmitted to the said Supreme Court accordingly. <p/> 
- <p>On testimony whereof I have hereunto subscribed my name and affixed the seal of said Court at the County of Washington this 18th day of December 1840.<lb>
-     <p>W. Brent Clerk</lb>
-     
- <pbxml:id="p017"facs="IMG_3884.jpg"/>
+faithful in the service of the said Richard B. Alexander in the District of Columbia, until the said 26th day of December 1844. And upon the said bonds being given and approved as aforesaid and filed in this Court, or in the Clerks Office, the said Petitioner shall be delivered up to the said R. B. Alexander upon demand.</p>
 
-<P>14</P>
-     
-<pbxml:id="p017"facs="IMG_3886.jpg"/>
-     
-<p>20</p>
- <p>Will of Miss. Brown referred to in Special Verdict page 15.
- </p>
-     
-<p>I, Elizabeth Brown of the County of Alexandria do make this my last will and testament in manner following, hereby revoking all former wills by me made-
-First, whereas I have heretofore sold to my sister Alexander, a negro woman called Milly, and her two children Ann and Rachel, since which time, the said Milly has had two other children, Jenny and Christy- and Whereas the term for which the said Milly was sold had expired- and her said children are bound to serve til they shall have attained the age of thirty one years respectively- now it is my will and desire that the time of the said four children of Milly shall be purchased by my executors and that they shall be forthwith emancipated by him. And I do hereby authorize him to make such purchase out of the estate i shall leave. But as the amount for which I sold the said Milly and her two children, has never been paid to me is is my desire that that debt shall be applied if practicable towards this said purchase.
-    Secondly, I devise to my niece Frances Swann widower of William T. Swann deceased, my blankets and sheets</p>
+<p>The will of Miss Brown. page 20. &amp; referred to in Special Verdict to be inserted here)</p>
 
- <pbxml:id="p018"facs="IMG_3887.jpg"/>
+<p>Test: W Brent Clk.</p>
 
-<p>and my Star Set pin for the hair, and one thicls sills. 
-Thirdly, The residence of my best cloaths I devise to my niece Elizabeth Mugmuder.
-Fourthly, My watch and the rest of my jewellry except the said set pin I devise to my niece Elizabeth Tyler- Fifthly, I devise my beds and pillows to my nephew William B. Alexander.
-Sixthly- I devise my old set of drawers to and looking glass to my sister Sarah Tyler widower of Charles Tyler. 
-Seventhly- I divest my common cloaths to be given to the following servants who have attended on me, that is to say: Jenny, Milly and Ann, being with Mrs. Frances Swann and Milly venns and Liscensed, living at Preston.
-Eighthly, I devise teh residue of my estate of every description to my nieces Elizabeth Magruder, Elizabeth Tyler, and Mary Swann (daughter of Mrs. Frances Swann)
-Ninthly, I constitute and appoint my nephew Richard B. Tyler Executor of this my will. Be wittness whereof I have hereto set my hand this seventh day of June 1825.</p>
-     <p>Elizabeth Brown</lb>
-     <p>Signed and published by the testatint and her last will and testament in our presence who in her presence and at her request have</lb>
-<pbxml:id="p019"facs="IMG_3889.jpg"/>
+<p>Appeal to Sup. Court.</p>
+
+<p>And whereas, afterwards, to wit: on the <unclear>nineteenth</unclear> day of April in the year of our Lord one thousand eight hundred and forty, the said Richard B. Alexander produced and filed in Court here, the United States writ for the correcting of errors, of and upon the judgment aforesaid, directed to the Judges of the Circuit Court of the District of Columbia, in the County of Washington, and in pursuance thereof, and according to the form and effect of the law in such case made and provided, a transcript of the record of proceedings of the judgment aforesaid, and all things thereunto relating, with the writ of error aforesaid, and a copy of the appeal bond herewith annexed is hereby transmitted to the said Supreme Court accordingly.</p> 
+
+<p><unclear>Cut</unclear> &amp; Seal</p>
+
+<p>In Testimony whereof I have hereunto subscribed my name and affixed the seal of said Court at the Coty of Washington this 18th day of December 1840.</p>
+
+<p>W. Brent Clk</p>
+     
+<pb xml:id="p017" facs="IMG_3886.jpg"/>
+     
+<p>Will of Miss Brown referred to in Special Verdict, page 15.</p>
+     
+<p>I, Elizabeth Brown of the County of Alexandria, do make this my last will and Testament in manner following, hereby revoking all former wills by me made.</p>
+
+<p>First. Whereas, I have heretofore sold to my sister Alexander, a negro woman called Milly, and her two children Ann and Rachael, since which time, the said Milly has had two other children, Jenny and Christy. And Whereas the term for which the said Milly was sold has expired, and her said children are bound to serve 'til they shall have attained the age of thirty one years respectively. Now it is my will and desire that the time of the said four children of Milly shall be purchased by my Executor and that they shall be forthwith emancipated by him. And I do hereby authorize him to make such purchase out of the Estate I shall leave. But as the amount for which I sold the said Milly and her two children, has never been paid to me it is my desire that that debt shall be applied if practicable towards this said purchase.</p>
+
+<p>Secondly. I devise to my niece Frances Swann widow of William T. Swann deceased, my blankets and sheets
+
+<pb xml:id="p018" facs="IMG_3887.jpg"/>
+
+and my star set pin for the hair, and one thick silk.</p>
  
- <p>22</p>
-  <p>hereto set our names in attestation thereof</p>
-<p>R. J. Taylor</lb>
-<p>Thos: Semmes</lb>
+<p>Thirdly. The residue of my best cloaths I devise to my niece Elizabeth Magruder.</p>
+
+<p>Fourthly. My watch and the rest of my jewellry except the said set pin I devise to my niece Elizabeth Tyler.</p> 
+
+<p>Fifthly. I devise my beds and pillows to my nephew William B. Alexander.</p>
+
+<p>Sixthly. I devise my old set of drawers to and looking glass to my sister Sarah Tyler widow of Charles Tyler.</p> 
+
+<p>Seventhly. I direct my common cloathes to be given to the following servants who have attended on me, that is to say: Jenny, Milly and Ann, living with Mrs Frances Swann and Milly Venus and Lucinda, living at Preston.</p>
+
+<p>Eighthly. I devise the residue of my estate of every description to my nieces Elizabeth Magruder, Elizabeth Tyler, and Mary Swann (daughter of Mrs Frances Swann).</p>
+
+<p>Ninthly. I constitute and appoint my nephew Richard B. Tyler, Executor of this my will. In witness whereof I have hereto set my hand this seventh day of June 1825.</p>
+
+<p>Elizabeth Brown</p>
+
+<p>Signed and published by the Testatrix as her last will and testament in our presence who in her presence and at her request have
+
+<pb xml:id="p019" facs="IMG_3889.jpg"/>
+ 
+hereto set our names in attestation thereof.</p>
+
+<p>R. I. Taylor<lb/>
+Thos: Semmes</p>
     
- <p>at a session of the Orphans Court for the County of Alexandria, in the District of Columbia, the 5th day of September 1825 this last will and testament of Elizabeth Brown deceased, was proced by the oaths of R.J Taylor and Thomas Semmes witnesses thereto and ordered to be recorded, and on the same day letters testament any were granted to Richard B. Tyler the executor named in said will.</p>
+<p>at a session of the Orphans Court for the County of Alexandria, in the District of Columbia, the 5th day of September 1825 this last will and testament of Elizabeth Brown deceased was proved by the oaths of R. I. Taylor and Thomas Semmes witnesses thereto and ordered to be recorded, and on the same day letters testamentary were granted to Richard B. Tyler the executor named in said will.</p>
     
-<p>A. Moore</lb>
-<p>Reg. Wills</lb>
-<p>A copy attest 
-A.Moore
+<p>A. Moore<lb/>
+Regr Wills</p>
+
+<p>A copy<lb/> 
+attest<lb/> 
+A. Moore
 Reg: Wills</p>
      
-<pbxml:id="p020"facs="IMG_3892.jpg"/>  
-     Washington C.C.U.S
-     <gap extent="three or four numbers" reason="incomplete image"/>
-    
- <p>Richard B. Alexander Plaintiff in error</p>
- <p>vs.</p>
-<p>Moses Graham</p>
- <p>Filed 5th February 1841.</p>
-<p>Dismissed with cost 11th January 1845.</p>
-    
-<pbxml:id="p021"facs="IMG_3894.jpg"/>
-    
-<p>No. 15. Richard B. Alexander Plff. In Er. V. Moses Graham- In error to the circuit court of the United States for the district of Columbia for the County of Washington-
-The Plff. in such having filed an order in writing directing the clerk to issue this suit, be it therefore now here considered granted and assigned by this Court that this issue of law is hereby dismissed with costs</p>
+<pb xml:id="p020" facs="IMG_3892.jpg"/> 
  
-<p>R. Mr. Jus. Thompson</lb>
- <p>11th January. 1843.</lb>
-     
-<pbxml:id="p022"facs="IMG_3895.jpg"/>
-     
- <p>No. 13</p>
- <p>Alexander</lb>
- <p>V.</lb>
- <p>Graham</lb>
- <p>Judgement</lb>
- <p>11 January 1843.</p>
-     
-<pbxml:id="p023"facs="IMG_3898.jpg"/>  
-     
-<p>To the Clerk of the Supreme Court of the U.S </lb>
-<p>Dear Sir,</lb>
-<p>You will greatly oblige me by dismissing the suit in error in my name vs. Moses Graham. The Supreme Court in error having his name in a bond, a neccsity for its continuance  </p>
- <p>Yours Respectfully</lb>
- <p>R.B. Alexander</lb>
-  <p>Aug't 22nd 1842.</lb>
-      
-<pbxml:id="p024"facs="IMG_3901.jpg"/>  
+<p>Washington C.C.U.S.</p>
 
-<p>No. 13</lb>
-<p>R. B. Alexander</lb>
- <p>Order to dismiss suit against Moses Graham</lb>     
- <p>Clerk of the Supreme Court U.S</lb>     
- <p>Filed 25th Aug: 1842</lb>
-     
- <pbxml:id="p025"facs="IMG_3902.jpg"/>      
-     
- <p>No. 50-RIchard B. Alexander</p>    
- <p>V.</lb>
- <p>Moses Graham</lb>
- <p>The defendants death since the judgement of the cause in this court is hereby suggested, the clerk will please attatch the suggestion.</p>    
-<p>January Term, 1842.</lb>
-<p>T. Swann For Deft.</p>
- 
-<pbxml:id="p026"facs="IMG_3905.jpg"/>  
+<p>No <del>85.</del> <del>50.</del> 13.</p>
     
-<p>No. 50. 13.</lb>  
-<p>Alexander</lb>
-<p>V.</lb>    
-<p>Graham</lb>
- <p>Judge of certs dearth</lb>    
-     
-<pbxml:id="p027"facs="IMG_3908.jpg"/>  
-     
- <p>United States of America, ss:</lb>    
- <p>The President of the United States Of America</lb>
- <p>To the Honorable the Judges of the Circuit Court of the United States for the District of Columbia holding in and for the County of Washington greeting:</p>
- <p>Whereas, lately, in the Circuit Court of the United States for the District of Columbia before you, or some of you, in a cause between Moses Graham Plaintiff and Richard B. Alexander, defendant, judgement was rendered in favor of the said plaintiff and against the said defendant. </p>
- <p>as by the inspection of the transcript of the record of the said Circuit Court, which was brought into the Supreme Court of the United States, by virtue of a writ of error agreeably to the act of congress in such case made and provided, fully and at large appears.</p>
-     
-<pbxml:id="p028"facs="IMG_3909.jpg"/>    
-     
-<p>And whereas, in the present term of January in the year of our Lord one thousand eight hundred and forty three the said cause came on to be heard before the said Supreme Court <gap: reason="Strikethrough"> and if appearing to the Court that the plaintiff in Error has filed an order in writing directing the clerk to dismiss this suit. It is thereupon now here considered ordered and adjudged by this court that this writ of error be and the same is hereby dismissed with costs. And it is further ordered and adjudged that the said plaintiff recover against the said Defendent, Richard B. Alexander dollars and costs for his costs herein expended and have execution therefor-Jan 11-
-You, therefore, are hereby commanded that such execution &amp proceedings be had in said cause, as according to right and justice, and the laws of the United States ought to be had, the said writ of error notwithstanding: WITNESS the Honorable Roger B. Taney Chief Justice of said Supreme Court, the Second Monday of January teh year of our Lord one thousand eight hundred and forty three</p:><lb>Costs of Plaintiff </lb>
-<lb>Clerk--$</lb>   
- <lb>Attorney---$20</lb>
- <lb>Payed by Wm. Thomas Carroll Clerk of the Supreme Court of the United States</lb>   
- 
-<pbxml:id="p029"facs="IMG_3911.jpg"/>  
- 
- <p>No. 13. Mandate-1843</p>
- <lb>Alexander v. Graham</lb>
+<p>Richard B. Alexander<lb/>
+Plff in Er<lb/>
+vs<lb/>
+Moses Graham</p>
 
+<p>Filed 5th February 1841.</p>
+
+<p>Dismissed with Costs<lb/>
+11th Jany 1843</p>
 
 </div1>
 

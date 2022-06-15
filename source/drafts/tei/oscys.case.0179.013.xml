@@ -1,27 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0205.011">
-    
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0179.013">
+
 <teiHeader>
 <fileDesc>
 <titleStmt>
-    <title>Joseph Wallingsford v. Sarah Ann Allen</title>
+<title>Richard B. Alexander v. Moses Graham. Judgment</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Morales-Ledesma,Ellyzabeth" xml:id="eml">Ellyzabeth Morales-Ledesma</name> 
+<name n="Green, Autumn" xml:id="ag">Autumn Green</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
 </titleStmt>
-    
+
 <editionStmt>
 <edition>
 <date>2022</date>
 </edition>
 </editionStmt>
-            
+
 <publicationStmt>
 <authority>O Say Can You See</authority>
 <publisher>University of Nebraska-Lincoln</publisher>
@@ -34,38 +35,39 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-    <idno type="project">"oscys.case.0205.011"</idno>
-    <idno type="case">"oscys.caseid.0210"</idno>
+<idno type="project">oscys.case.0179.013</idno>
+<idno type="case">oscys.caseid.0181</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
 <p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
 </availability>
 </publicationStmt>
-            
+
 <sourceDesc>
 <bibl>
-<title level="m" type="main">"letter"</title>
-<date when="1836-01-16">< January 16 1836></date>
+<title level="m" type="main">Judgment</title>
+<date when="1843-01-11">January 11, 1843</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 267</collection>
-<idno>210,1903</idno>
+<idno>Box 234, Folder 2204</idno>
+</msIdentifier>
 </msDesc>
 </sourceDesc>
 </fileDesc>
-        
+
 <profileDesc>
 <textClass>
 <keywords scheme="original" n="category">
 <term>Case Papers</term>
 </keywords>
-    
+
 <keywords scheme="original" n="subcategory">
-<term>note</term>
+<term>Judgment</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -77,35 +79,36 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm"><!-- Month Year --></date></term>
-</keywords>
-    
-<keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term><date when="1843-01">January 1843</date></term>
 </keywords>
 
-<keywords scheme="lcsh" n="places">    
-<term></term><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<keywords scheme="lcsh" n="people"> 
+<term/> 
+</keywords>
+
+<keywords scheme="lcsh" n="places">
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
-            
+
 <particDesc>   
-<listPerson>            
-<person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<listPerson>
+<person role="petitioner" xml:id="per.001343">
+<persName>Alexander, Richard B.</persName>
 </person>
-<person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<person role="defendant" xml:id="per.001342">
+<persName>Graham, Moses</persName>
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>
 </person>
 </listPerson>
-            
+
 <listOrg>
 <org>
 <orgName>United States. Supreme Court</orgName>
@@ -114,27 +117,42 @@
 </listOrg>   
 </particDesc> 
 </profileDesc>
-        
-<revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+
+<revisionDesc> 
+<change when="2022-06-14" who="#kln">Reviewed.</change>
+<change when="2022-06" who="#ag">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
-    
+
 <text>
 
 <body>  
-               
+   
 <div1 type="case">
+    
+<pb xml:id="p001" facs="IMG_3894.jpg"/>
+    
+<p>No. 15. Richard B. Alexander Plff. In Er. v. Moses Graham. In error to the Circuit Court of the United States for the District of Columbia holden in &amp; for the County of Washington.</p>
 
-<pb xml:id="p001" facs="IMG_3701.JPEG/>
+<p>The Plff. in Error having filed an order in writing directing the clerk to dismiss this suit, It is thereupon now here considered <gap extent="one word" reason="illegible"/> and adjudged by this Court that this Writ of Error be &amp; the same is hereby dismissed with Costs.</p>
+ 
+<p><unclear>Pr. Mr. Jus. Thompson</unclear><lb/>
+11th Jany. 1843.</p>
 
-<p>My dear sir</p>
-<p>enclosed is the letters of administration granted to Mr. Meade on Wallingsford estate please put it in the case I worked to request appealant's death and attain leave for his representtatives to appear <unclear></unclear></p>
-<p>Yours Truly</p>
-<p>W. <unclear></unclear></p>
+<pb xml:id="p002" facs="IMG_3895.jpg"/>
+     
+<p>No. 13</p>
 
+<p>Alexander<lb/>
+vs<lb/>
+Graham</p>
+
+<p>Judgment<lb/>
+11 Jany 1843.</p>
+     
 </div1>
+
 </body>
 </text>
 </TEI>
