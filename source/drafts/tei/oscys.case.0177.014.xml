@@ -6,10 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James Rhodes v. Moses Ball. Writ of Error</title>
+<title>James Rhodes v. Moses Ball. Mandate</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
-<resp>transcription and encoding</resp><name> n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<resp>transcription and encoding</resp>
+<name n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -44,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
+<title level="m" type="main">Mandate</title>
 <date when="1844-01-08">January 8, 1844</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -65,7 +67,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Writ of Error</term>
+<term>Mandate</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -81,35 +83,30 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Carroll, William Thomas</term>
-<term>Taney, Roger B</term>
+<term xml:id="per.004934">Carroll, William Thomas, -1863</term>
+<term xml:id="per.001155">Taney, Roger Brooke, 1777-1864</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>The United States of America</term>
-<term>District of Columbia</term>
-<term>County of Washington</term>
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Bell, Moses</persName> 
+<person role="petitioner" xml:id="per.001277">
+<persName>Bell, Moses</persName>
 </person>
-<person role="defendant"> 
+<person role="defendant" xml:id="per.001278">
 <persName>Rhodes, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Bradley, Joseph H</persName>
-<persName>Hoban, James</persName>
-<persName>Wallach, Richard</persName>
-
+<persName/>
 </person>
 <person role="attorney_defendant">
-<persName>Brent, Robert J</persName>
-<persName>Brent, William Leigh</persName>
+<persName/>
 </person>
 </listPerson>
             
@@ -122,7 +119,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc> 
+<change when="2022-06" who="#kln">Reviewed.</change>           
 <change when="2020-06" who="#hkm">Transcribed, encoded.</change>
 </revisionDesc>
 
@@ -137,23 +135,28 @@
 <pb xml:id="p001" facs="IMG_3919.jpg"/>
 
 <p>United States of America, ss:</p>
+
 <p>The President of the United States of America,</p>
+
 <p>To the Honorable the Judges of the Circuit Court of the United
-States for the &#160;&#160;&#160;District of Columbia holden
+States for the District of Columbia holden
 in and for the County of Washington
 greeting:</p>
-<p>WHEREAS, lately, in the Circuit Court of the United States, for the &#160;&#160;&#160; District
-of Columbia &#160;&#160;&#160; before you, or some of you 
+
+<p>Whereas, lately, in the Circuit Court of the United States, for the District
+of Columbia before you, or some of you 
 in a cause, between Moses Bell, Plaintiff and James Rhodes,
 defendant, the judgment of the said Circuit Court
-was in the following words, viz: &#160;&#160;&#160;
-"Therefore, it is considered by the court here that the
+was in the following words, viz:</p>
+
+<p>"Therefore, it is considered by the court here that the
 said Moses Bell, the petitioner aforesaid, recover 
 his freedom of and against the said James Rhodes,
 and that he be free and discharged of and from
 the service of the said James Rhodes, and that he the 
 said Moses Bell go thereof freed and discharged 
-without day, &amp;c." &#160;&#160;&#160;</p>
+without day, &amp;c."</p>
+
 <p>"It is also considered by the court here that the said
 Moses Bell recover against the said James Rhodes
 the sum of twenty one dollars and seventy two cents,
@@ -164,6 +167,7 @@ and expended, and that he have thereof his execution,
 &amp;c.</p>
 
 <pb xml:id="p002" facs="IMG_3921.jpg"/>
+
 <p>as by inspection of the transcript of the record of the said Circuit Court, which was brought into the
 Supreme Court of the United States, by virtue of a writ of Error agreeably to the act of Congress
 in such case made and provided, fully and at large appears. And whereas, in the present term of January
@@ -172,26 +176,33 @@ heard before the said Supreme Court, on the said transcript of the record, and w
 whereof, it is adjudged and ordered by this Court that the judgment of the said 
 Circuit Court, in this cause be, and the same is hereby, affirmed with costs; and that
 the said Plaintiff recover against the said defendant
-Twenty dollars &#160;&#160;&#160; for his costs 
-herein expended and have execution therefor. Mar 15</p>
-<p>You, therefore, are hereby commanded that such expectation &amp; proceedings be had in said cause, as according to
-right and justice, and the laws of the United States ought to be had, the said writ of Error notwithstanding:
-WITNESS the Honorable Roger B. Taney Chief Justice of said Supreme Court, the
+Twenty dollars for his costs 
+herein expended and have execution therefor. Mar: 15</p>
+
+<p>You, therefore, are hereby commanded that such Execution &amp; proceedings be had in said cause, as according to
+right and justice, and the laws of the United States ought to be had, the said writ of Error notwithstanding:</p>
+
+<p>Witness the Honorable Roger B. Taney Chief Justice of said Supreme Court, the
 second Monday of January in the year of our Lord one thousand eight hundred and forty four.</p>
-<p>Costs of Plaintiff
-Clerk,......$paid by deft
-Attorney,...$20.00
+
+<p>Wm Thos Carroll<lb/>
+Clerk of the Supreme Court of the United States.</p>
+
+<p>Costs of Plaintiff<lb/>
+Clerk, $ paid by Deft<lb/>
+Attorney, $20.00<lb/>
 $20.00</p>
+
 <p>Taxed by</p>
-<p>Wm Th Carroll</p>
-<p>Clerk of the Supreme Court of the United States</p>
+
 <pb xml:id="p003" facs="IMG_3923.jpg"/>
+
 <p>No 45. Mandate 1844.</p>
+
 <p>Bell vs Rhodes</p>
+
 <p>1844 July 23. Both bills
 paid by Rhodes</p>
-
-
 
 </div1>
     

@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>James Rhodes v. Moses Bell. </title>
+<title>James Rhodes v. Moses Bell. Judgment</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
-<resp>transcription and encoding</resp> <name> n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
-
+<resp>transcription and encoding</resp>
+<name n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -45,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"></title>
+<title level="m" type="main">Judgment</title>
 <date when="1844-03-15">March 15, 1844</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -66,7 +67,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>ADD</term>
+<term>Judgment</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,38 +79,33 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1844-03">March 1844</date></term>
+<term><date when="1844-01">January 1844</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>McLean, John</term> 
+<term xml:id="per.002803">McLean, John, 1785-1861</term> 
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>United States</term>
-<term>District of Columbia</term>
-<term>County of Washington</term>
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Bell, Moses</persName> 
+<person role="petitioner" xml:id="per.001277">
+<persName>Bell, Moses</persName>
 </person>
-<person role="defendant"> 
+<person role="defendant" xml:id="per.001278">
 <persName>Rhodes, James</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Bradley, Joseph H</persName>
-<persName>Hoban, James</persName>
-<persName>Wallach, Richard</persName>
+<persName/>
 </person>
-
 <person role="attorney_defendant">
-<persName>Brent, Robert J</persName>
-<persName>Brent, William Leigh</persName>
+<persName/>
 </person>
 </listPerson>
             
@@ -123,6 +119,7 @@
 </profileDesc>
         
 <revisionDesc>             
+<change when="2022-06" who="#kln">Reviewed.</change>
 <change when="2022-06" who="#hkm">Transcribed, encoded.</change>
 </revisionDesc>
 
@@ -136,30 +133,42 @@
 
 <pb xml:id="p001" facs="IMG_3916.jpg"/>
 
-<p>No. 45 James Rhodes
-v
+<p>No. 45.</p>
+
+<p>James Rhodes<lb/>
+vs<lb/>
 Moses Bell</p>
-<p>Plff in Error</p>
+
+<p>Plff in Error.</p>
+
 <p>In error to the 
 Circuit Court of the United States for
 the District of Columbia, holden in and
 for the County of Washington.</p>
+
 <p>This cause came on to be heard on the transcript
 of the record from the Circuit Court
 of the United States for the District of Columbia
 holden in and for the County of Washington
-and was argued by counsel, on consideration.
+and was argued by counsel, on consideration
 Whereof, It is now here ordered and adjudged
 by this court that the judgment of the said
 Circuit Court in this cause be and the same
 is hereby affirmed with costs.</p>
-<p>Pr M. Jus. McLean</p>
+
+<p>Pr. Mr. Jus. McLean</p>
+
 <p>15 Mar 1844</p>
+
 <pb xml:id="p002" facs="IMG_3918.jpg"/>
-<p>No. 45
-Rhodes v Bell</p>
-<p><unclear>They In.</unclear>Mr. Jus. McLean</p>
-<p>15 Mar 1844</p>
+
+<p>No. 45</p>
+
+<p>Rhodes v Bell</p>
+
+<p><unclear>Judgt</unclear> Pr. Mr. Jus. McLean<lb/>
+15 Mar 1844</p>
+
 </div1>
     
 </body>
