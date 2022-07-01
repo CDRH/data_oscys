@@ -9,7 +9,9 @@
 <title>George Mason and Alexander Moore v. Matilda Derrick. Summons of Matilda Derrick</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
-<resp>transcription and encoding</resp><name> n="Martin, Heidi K." xml:id="hkm>Heidi K. Martin</name>
+<resp>transcription and encoding</resp>
+<name n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -44,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summonds of Matilda Derrick</title>
-<date when="1823-12-03">December 3, 1823</date>
+<title level="m" type="main">Summons of Matilda Derrick</title>
+<date when="1823-12-06">December 6, 1823</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -77,46 +79,47 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1823-12">December 1823</date></term>
+<term><date when="1827-01">January 1827</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Brent, William</term>
-<term>Lear, Benjamin L</term>
-<term>Morsell, James S</term>
-
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.000545">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</term>
+<term xml:id="per.000044">Morsell, James Sewall</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>United States of America</term>
-<term>District of Columbia</term>
-<term>Washington County</term>
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Derrick, Louisa</persName> 
+<person role="petitioner" xml:id="per.000708">
+<persName>Derrick, Louisa</persName>
+</person>
+<person role="petitioner" xml:id="per.000709">
 <persName>Derrick, Lucy</persName>
-<persName>Derrick, Matilda</persName>
+</person>
+<person role="petitioner" xml:id="per.000710">
 <persName>Derrick, Matilda</persName>
 </person>
-<person role="defendant"> 
-<persName>Mason, George</persName> 
+<person role="petitioner" xml:id="per.000711">
+<persName>Derrick, Matilda</persName>
+</person>
+<person role="defendant" xml:id="per.000712">
+<persName>Mason, George</persName>
+</person>
+<person role="defendant" xml:id="per.000713">
 <persName>Moore, Alexander</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Jones, Walter</persName>
-<persName>Key, Francis Scott</persName>
-<persName>Taney, Augustus</persName>
-<persName>Turner, Thomas</persName>
+<persName/>
 </person>
 <person role="attorney_defendant">
-<persName>Jones, Walter</persName>
-<persName>Lear, Benjamin L</persName>
-<persName>Sampson</persName>
+<persName/>
 </person>
 </listPerson>
             
@@ -129,7 +132,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc> 
+<change when="2022-06" who="#kln">Reviewed.</change>             
 <change when="2022-06" who="#hkm">Transcribed, encoded.</change>
 </revisionDesc>
 
@@ -143,23 +147,30 @@
 
 <pb xml:id="p001" facs="IMG_3673.jpg"/>
 
-<p>UNITED STATES OF AMERICA.</p>
+<p>United States of America.</p>
+
 <p>District of Columbia, Washington County, ss.</p>
-<p>To Matilda Derrick and her children, Lucy, Matilda, &amp;Louisa infants &amp; GREETING:</p>
-<p>YOU are hereby cited and admonished to be and appear at a Supreme Court of the
+
+<p>To Matilda Derrick and her children, Lucy, Matilda &amp; Louisa infants &amp;c Greeting:</p>
+
+<p>You are hereby cited and admonished to be and appear at a Supreme Court of the
 United States, to be holden at Washington on the first Monday in February next, pursuant
 to a writ of Error, filed in the Clerk's office of the Circuit Court of the United States for the
 District of Columbia, in the County of Washington, wherein George Mason &amp; Alexander Moore are
-Plaintiff<add>s</add> in Error and you are Defendant<add>s</add> in Error, to show cause if any there
+Plaintiffs in Error, and you are Defendants in Error, to show cause if any there
 be, why Judgment rendered against the said George Mason &amp; Alexander
 Moore
 as in the said writ of Error mentioned, should not be corrected, and why speedy justice should
 not be done to the parties in that behalf.</p>
-<p>WITNESS <del>the honourable</del> James S Morsell one of the
-<add>Judges of the</add> Circuit Court for the District of Columbia, in the County of Washington, this third
+
+<p>Witness the honourable James S Morsell one of the Asst.
+Judges of ye Circuit Court for the District of Columbia, in the County of Washington, this third
 day of December A.D. 1823</p>
+
 <p>James S Morsell</p>
-<p>DISTRICT OF COLUMBIA, Washington County, ss.</p>
+
+<p>District of Columbia, Washington County, ss.</p>
+
 <p>On this sixth day of December in the year of our Lord one
 thousand eight hundred and twenty three personally appeared Benjamin
 L Lear in open <del>before me, the subscriber,</del> court
@@ -167,13 +178,19 @@ and makes oath that he delivered a true copy of the above citation
 to Matilda Derrick the Petitioner above named &amp;
 at the same time read it to her &amp; told her what
 it was.</p>
-<p>Sworn to an Open Court
-Dec 6th 1823</p>
-<p>Wm Brent CK</p>
+
+<p>Sworn to in Open Court<lb/>
+Wm Brent Clk</p>
+
+<p>Decr 6th 1823</p>
+
 <pb xml:id="p002" facs="IMG_3675.jpg"/>
-<p>Matilda
-v
-Mason &amp; Moore <unclear></unclear></p>
+
+<p>Matilda<lb/>
+vs<lb/>
+Mason &amp; Moore</p>
+
+<p>Citn.</p>
 
 </div1>
     

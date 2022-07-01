@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>George Mason and Alexander Moore v Matilda Derrick. Bond</title>
+<title>George Mason and Alexander Moore v. Matilda Derrick. Bond</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
-<resp>transcription and encoding</resp><name n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
-
+<resp>transcription and encoding</resp>
+<name n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -78,44 +79,48 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1823-12">December 1823</date></term>
+<term><date when="1827-01">January 1827</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Brent, William</term>
-<term> Caldwell, E B</term>
-<term>Morsell, J S</term>
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.000194">Caldwell, Elias Boudinot, 1776-1825</term>
+<term xml:id="per.000545">Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</term>
+<term xml:id="per.000044">Morsell, James Sewall</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>District of Columbia</term>
-<term>County of Washington</term><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Derrick, Louisa</persName> 
+<person role="petitioner" xml:id="per.000708">
+<persName>Derrick, Louisa</persName>
+</person>
+<person role="petitioner" xml:id="per.000709">
 <persName>Derrick, Lucy</persName>
-<persName>Derrick, Matilda</persName>
+</person>
+<person role="petitioner" xml:id="per.000710">
 <persName>Derrick, Matilda</persName>
 </person>
-<person role="defendant"> 
-<persName>Mason, George</persName> 
+<person role="petitioner" xml:id="per.000711">
+<persName>Derrick, Matilda</persName>
+</person>
+<person role="defendant" xml:id="per.000712">
+<persName>Mason, George</persName>
+</person>
+<person role="defendant" xml:id="per.000713">
 <persName>Moore, Alexander</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Jones, Walter</persName>
-<persName>Key, Francis Scott</persName>
-<persName>Taney, Augustus</persName>
-<persName>Turner, Thomas</persName>
+<persName/>
 </person>
 <person role="attorney_defendant">
-<persName>Jones, Walter</persName>
-<persName>Lear, Benjamin L</persName>
-<persName>Sampson</persName>
+<persName/>
 </person>
 </listPerson>
             
@@ -128,7 +133,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>     
+<change when="2022-06" who="#kln">Reviewed.</change>         
 <change when="2022-06" who="#hkm">Transcribed, encoded.</change>
 </revisionDesc>
 
@@ -142,56 +148,65 @@
 
 <pb xml:id="p001" facs="IMG_3668.jpg"/>
 
-<p>Know all men by these presents that me
-George Mason, Alexander Moore &amp;Benjamin Lear
-are held and firmly bound into Matilda Derrick for herself
-and her children Lucy, Matilda, &amp; Louisa infants on a
+<p>Know all men by these presents That we
+George Mason, Alexander Moore &amp; Benjamin Lear
+are held and firmly bound unto Matilda Derrick for herself
+and her children Lucy Matilda &amp; Louisa infants &amp;c on a
 petition for freedom in the full and just sum of two hundred
 dollars to be paid to the said Matilda Derrick certain
-attorney, executors, administrators, or assigns to which payment
-well and truly to be made <unclear>will</unclear>bind ourselves
+attorney, executors, administrators or assigns to which payment
+well and truly to be made, we bind ourselves
 our heirs, executors and administrators, jointly and 
-personally by these presents, sealed <unclear></unclear> our seals
+severally by these presents, sealed <unclear>with</unclear> our seals
 and dated this third day of December in the year
 of our Lord one thousand eight hundred and
 twenty three.</p>
+
 <p>Whereas lately at a circuit court of the United
 States for the District of Columbia in the County
-of Washington on a suit depending on said Circuit
+of Washington in a suit depending on said Circuit
 Court. Wherein the said Matilda Derrick for
 herself and her children Lucy, Matilda and Louisa
-infants &amp;c petitioners on a petition for freedom and <unclear>they</unclear>
-paid George Mason and Alexander Moore were defendants
-judgement was rendered against the said George
-Mason and Alexander Moore
-and the said George Mason and Alexander 
+infants &amp;c Petitioners on a petition for freedom and the
+said George Mason and Alexander Moore were defendants
+Judgment was rendered against the said George
+Mason and Alexander Moore.</p>
+
+<p>And the said George Mason and Alexander 
 Moore having obtained a writ of error, and
 filed a copy thereof in the Clerk's Office
+
 <pb xml:id="p002" facs="IMG_3669.jpg"/> 
+
 of the said Circuit Court to reverse the judgment in
-the aforesaid suit and a citation divided to the said
-Matilda Derick and her children Lucy, Matilda, 
+the aforesaid suit, and a citation directed to the said
+Matilda Derrick and her children Lucy Matilda 
 &amp; Louisa citing and admonishing them to be and
 appear at a Supreme Court of the United States
-to be holden at Washington on the first Monday 
+to be holden at Washington, on the first Monday 
 of February next.</p>
+
 <p>Now the Condition of the above obligation
-is such that if the said George Mason and
-Alexander Moore shall prosecute this writ to <unclear>offer</unclear>
-and answer all damages and costs if they 
-face to make this plea good, then the above
-obligation to be read is to remain in full force
+is such; That if the said George Mason and
+Alexander Moore shall prosecute their Writ to <unclear>affect</unclear>
+and Answer all damages and costs, if they 
+fail to make this plea good, then the above
+obligation to be void else to remain in full force
 and virtue.</p>
-<p>G Mason &amp;</p>
-<p>B L Lear &amp;</p>
-<p>Sealed and delivered
+
+<p>G Mason (seal)<lb/>
+B. L. Lear (seal)</p>
+
+<p><del>Signed</del> Sealed and delivered
 in presence of
 E. B. Caldwell</p>
-<p>Approved 
-J S Morsell
-3 Decr 1823</p>
-<p><unclear>Copy test WM Brent clk</unclear></p>
 
+<p>Approved<lb/> 
+J. S. Morsell<lb/>
+3 Decr 1823.</p>
+
+<p>True Copy<lb/>
+Test Wm Brent Clk</p>
 
 </div1>
     

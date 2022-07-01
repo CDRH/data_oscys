@@ -6,10 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>George Mason and Alexander Moore v. Matilda Derrick. Deposition</title>
+<title>George Mason &amp; Alexander Moore v. Matilda Derrick. Affidavit of Margaret Moore</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
-<resp>transcription and encoding</resp><name> n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<resp>transcription and encoding</resp>
+<name n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -33,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="oscys.case.0092.011"></idno>
-<idno type="oscys.caseid.0028"></idno>
+<idno type="project">oscys.case.0092.011</idno>
+<idno type="case">oscys.caseid.0092</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -44,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Deposition</title>
+<title level="m" type="main">Affidavit of Margaret Moore</title>
 <date when="1827-03-12"> March 12, 1827</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -65,7 +67,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Deposition</term>
+<term>Affidavit</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -77,42 +79,47 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1827-03">March 1827</date></term>
+<term><date when="1827-01">January 1827</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Moore, Margaret</term>
+<term xml:id="per.000468">Vowell, Thomas</term>  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term>Alexandria County (Va.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Derrick, Louisa</persName> 
+<person role="petitioner" xml:id="per.000708">
+<persName>Derrick, Louisa</persName>
+</person>
+<person role="petitioner" xml:id="per.000709">
 <persName>Derrick, Lucy</persName>
-<persName>Derrick, Matilda</persName>
+</person>
+<person role="petitioner" xml:id="per.000710">
 <persName>Derrick, Matilda</persName>
 </person>
-<person role="defendant"> 
-<persName>Mason, George</persName> 
+<person role="petitioner" xml:id="per.000711">
+<persName>Derrick, Matilda</persName>
+</person>
+<person role="defendant" xml:id="per.000712">
+<persName>Mason, George</persName>
+</person>
+<person role="defendant" xml:id="per.000713">
 <persName>Moore, Alexander</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Jones, Walter</persName>
-<persName>Key, Francis Scott</persName>
-<persName>Taney, Augustus</persName>
-<persName>Turner, Thomas</persName>
+<persName/>
 </person>
 
 <person role="attorney_defendant">
-<persName>Jones, Walter</persName>
-<persName>Lear, Benjamin L</persName>
-<persName>Sampson</persName>
+<persName/>
 </person>
 </listPerson>
             
@@ -125,7 +132,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>  
+<change when="2022-06" who="#kln">Reviewed.</change>             
 <change when="2022-06" who="#hkm">Transcribed, encoded.</change>
 </revisionDesc>
 
@@ -139,31 +147,37 @@
 
 <pb xml:id="p001" facs="IMG_3657.jpg"/>
 
-<p>District of Columbia
-County of Alexandria <unclear></unclear></p>
+<p>District of Columbia<lb/>
+County of Alexandria Sct</p>
+
 <p>Personally appeared before me, the subscriber one
 of the Justices of the Peace for the County aforesaid
 Margaret Moore, Widow, and made oath upon
 the Holy Evangelists of Almighty God that
 she is well acquainted with Matilda Derrick
-and her three children named in the aforegoing briefs
+and her three children named in the foregoing brief
 and has been acquainted with them many years
-that she this <unclear></unclear> verily believe, the said
+that she this affiant verily believes the said
 Matilda and her these children would
-sell for one thousand dollars. This <unclear></unclear>
-<unclear></unclear> her knowledge of the value of slaves
+sell for one thousand dollars. This affiant
+derives her knowledge of the value of slaves
 from having recently sold one when she made
-particular inquiry as to such value.
-Given under my hand this 12th March 1827.</p>
-<p><unclear>Thom Vowell</unclear></p>
-<p>Margaret Moore</p>
-<pb xml:id="p002" facs="IMG_3659.jpg"/>
-<p>Mason Moore
-v
-Matilda Derrick
-<unclear>No 65-Washington</unclear></p>
-<p>filed March 12, 1827</p>
+particular inquiry as to such value.</p>
 
+<p>Given under my hand this 12th March 1827<lb/>
+Thos Vowell</p>
+
+<p>Margaret Moore</p>
+
+<pb xml:id="p002" facs="IMG_3659.jpg"/>
+
+<p>Mason Moore<lb/>
+vs<lb/>
+Matilda Derrick</p>
+
+<p>No 65. Washington</p>
+
+<p>filed March 12, 1827.</p>
 
 </div1>
     

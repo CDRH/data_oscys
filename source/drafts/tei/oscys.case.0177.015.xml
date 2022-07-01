@@ -83,60 +83,59 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Bender, Jacob A</term>
-<term>Brent, William</term>
-<term>Briscoe, Richard G</term>
-<term>Brooke, Edward</term>
-<term>Campbell, Daniel</term>
-<term>Clarke, James I</term>
-<term>Clarke, Joseph S</term>
-<term>Cranch, William</term>
-<term>Dashiell, George W</term>
-<term>Goddard, John H</term>
-<term>Harr, Henry</term>
-<term>Hoff, Lawrence</term>
-<term>Hunter, Alexander</term>
-<term>Keeting</term>
-<term>King, Vincent</term>
-<term>Little</term>
-<term>Lusby, James</term>
-<term>McGill, Howard</term>
-<term>Middleton, Benjamin F</term>
-<term>Morsell, James S</term>
-<term>Nevitt, Robert K</term>
-<term>Riley, Thomas B</term>
-<term>Taney, Robert B</term> 
-<term>Thruston, Buckner</term>
-
+<term xml:id="per.001280">Bender, Jacob</term>
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.001294">Briscoe, Richard G.</term>
+<term xml:id="per.001281">Brooke, Edward</term>
+<term xml:id="per.001282">Campbell, Daniel</term>
+<term xml:id="per.001295">Clarke, James I.</term>
+<term xml:id="per.001296">Clarke, Joseph S.</term>
+<term xml:id="per.000004">Cranch, William, 1769-1855</term>
+<term xml:id="per.001283">Dashiell, George W.</term>
+<term xml:id="per.001285">Goddard, John H.</term>
+<term xml:id="per.003903">Haw, Henry</term>
+<term xml:id="per.001286">Hoff, Lawrence</term>
+<term xml:id="per.000739">Hunter, Alexander</term>
+<term xml:id="per.001284">Keeting</term>
+<term xml:id="per.001287">King, Vincent</term>
+<term xml:id="per.001288">Little</term>
+<term xml:id="per.001289">Lusby, James</term>
+<term xml:id="per.001290">MacGill, Thomas</term>
+<term xml:id="per.001291">Middleton, Benjamin F.</term>
+<term xml:id="per.000044">Morsell, James Sewall</term>
+<term xml:id="per.001292">Nevitt, Robert K.</term>
+<term xml:id="per.001293">Reily, Thomas B.</term>
+<term xml:id="per.001155">Taney, Roger Brooke, 1777-1864</term> 
+<term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
 </keywords>
 
-<keywords scheme="lcsh" n="places">    
-<term>United States of America</term>
-<term>District of Columbia</term>
-<term>County of Washington</term>
-<term>County of Alexandria</term>
-<term>City of Washington</term>
-
+<keywords scheme="lcsh" n="places"> 
+<term>Alexandria County (Va.)</term>
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Bell, Moses</persName> 
+<person role="petitioner" xml:id="per.001277">
+<persName>Bell, Moses</persName>
 </person>
-<person role="defendant"> 
+<person role="defendant" xml:id="per.001278">
 <persName>Rhodes, James</persName>
 </person>
-<person role="attorney_petitioner">
-<persName>Bradley, Joseph H</persName>
+<person role="attorney_petitioner" xml:id="per.000744">
 <persName>Hoban, James</persName>
-<persName>Wallach, Richard</persName>
 </person>
-<person role="attorney_defendant">
-<persName>Brent, Robert J</persName>
-<persName>Brent, William Leigh</persName>
+<person role="attorney_petitioner" xml:id="per.000753">
+<persName>Wallach, Richard, 1816-1881</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000737">
+<persName>Brent, Robert J., 1811-1872</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000738">
+<persName>Brent, William Leigh, 1784-1848</persName>
 </person>
 </listPerson>
             
@@ -300,7 +299,7 @@ Deft. in Error</p>
 
 <fw type="pageNum">2</fw>
 
-<p>Petition to Ch. Justice U.S. for Writ of Error.</p>
+<note place="margin">Petition to Ch. Justice U.S. for Writ of Error.</note>
 
 <p>To the Honorable Roger B. Taney Chief
 Justice of the United States.</p>
@@ -342,7 +341,7 @@ attorneys</p>
 
 <fw type="pageNum">3</fw>
 
-<p>Asst. of Errors</p>
+<note place="margin">Asst. of Errors</note>
 
 <p>Assignment of Errors in the judgment,
 referred to in the aforegoing petition</p>
@@ -406,7 +405,7 @@ the District of Columbia</p>
 <p>Thereupon the following Writ of Error 
 issued as ordered, to wit:</p>
 
-<p>Writ of Error</p>
+<note place="margin">Writ of Error</note>
 
 <p>District of Columbia, to wit:</p>
 
@@ -455,7 +454,7 @@ Chief Justice of said Supreme Court</p>
 
 <pb xml:id="p008" facs="IMG_3942.jpg"/>
 
-<p>8</p>
+<fw type="pageNum">6.</fw>
 
 <p>District of Maryland to wit</p>
 
@@ -475,312 +474,403 @@ there be, why judgement rendered against the
 said James Rhodes, Plaintiff in Error, should
 it be corrected, and why speedy justice
 would not be done to the parties in this behalf.</p>
+
 <p>Witness my hand and seal this 13th
 day of December 1842</p>
 
-<p>R.B. Taney
+<p>R. B. Taney<lb/>
 Chief Justice of the
 Supreme Court of the U. States</p>
 
-<p>Service acknowledged 
-J Hoban
-for Moses Bell
-Dec 14. 1842</p>
+<p>Service acknowledged<lb/>
+J Hoban<lb/>
+for Moses Bell<lb/>
+Decr 14. 1842</p>
 
 <p>Seal</p>
 
 <pb xml:id="p009" facs="IMG_3943.jpg"/>
 
-<p>7</p>
-<p>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</p>
+<fw type="pageNum">7</fw>
+<p>&#160;</p>
 
 <pb xml:id="p010" facs="IMG_3945.jpg"/>
-<p>8</p>
-<p>Copy of Appeal Bond</p>
+
+<fw type="pageNum">8</fw>
+
+<note place="margin">Copy of Appeal Bond</note>
+
 <p>Know all men by these presents, that 
-the James Rhodes, Joseph S. Clarke, &amp;
+We James Rhodes, Joseph S. Clarke, &amp;
 Richard G. Briscoe of Washington County in
 the District of Columbia, are held and
 firmly bound unto Moses Bell in the full
-and just sum of five hundred dollars
-current money of the United States to be
+and just sum of Five hundred dollars
+current money of the United States, to be
 paid to the said <del>United</del> Moses Bell his
-Certain Attorney executes, administers, 
-or assigns to which payment well and truly
+Certain Attorney, executors, administers 
+or assigns, to which payment well and truly
 to be made and done, we bind ourselves 
-and each of us over and each from him
-executes and administrators, jointly and 
+and each of us over and each from heirs,
+executors, and administrators, jointly and 
 severally firmly by these presents, sealed with
 our seals and dated this 1st day of December
 1842.</p>
+
 <p>Whereas application is about to be
 made to prosecute and sue forth a Writ 
 of Error to reverse the judgment of the Circuit
 Court of the District of Columbia, sitting for
 the County of Washington in a suit pending
-with the said Court between Moses 
+with the said Court, between Moses 
 Bell plaintiff and James Rhodes, defendant,
-wherein judgement was rendered against
+wherein judgment was rendered against
 the said James Rhodes.</p>
-<p>Now the conditions of the above
-obligations is such, that if the said James
+
+<p>Now the Condition of the above
+obligation is such, that if the said James
 Rhodes, shall prosecute his writ with effect
 and answer all damages and costs, if he fails
 to make his plea good, then the above
-obligations to be null and void, otherwise
+obligation to be null and void, otherwise
 to be and remain in full force and
+
 <pb xml:id="p011" facs="IMG_3946.jpg"/>
+
+<fw type="pageNum">9.</fw>
+
 virtue in law.</p>
-<p>Signed, Sealed, and <gap extent="unknown" reason="illegible"/>
+
+<p>James Rhodes (seal)<lb/>
+Joseph S. Clarke (seal)<lb/>
+Rich'd G. Briscoe (seal)</p>
+
+<p>Signed, Sealed, &amp; Delivered
 in presence of
 James I. Clarke</p>
-<p>James Rhodes</p>
-<p>seal</p>
-<p>Joseph S. Clarke</p>
-<p>seal</p>
-<p>Richard G. Briscoe</p>
-<p>seal</p>
-<p>Dec 13, 1842
-Approved 
-R.B. Taney</p>
+
+<p>Decr 13, 1842.<lb/>
+Approved<lb/>
+R. B. Taney</p>
 
 <pb xml:id="p012" facs="IMG_3950.jpg"/>
-<p>10</p>
-<p>Style of Court</p>
+
+<fw type="pageNum">10</fw>
+
+<note place="margin">Style of Court.</note>
+
 <p>District of Columbia To wit:</p>
+
 <p>At a Circuit Court of the District
-of Columbia, began and held in and for the
+of Columbia, begun and held in and for the
 County of Washington, at the City of Washington
 on the Fourth Monday of March, being the
-Twenty eight today of the same month, in
+Twenty Eighth day of the same month, in
 the year of our Lord one thousand eight
 hundred and forty two, and of the Independence
-of the United Stats the Sixty-sixth</p>
-<p>Present
-William Cranch Chief Judge</p>
-<p>the Honorable Buckner Thruston &amp;</p>
-<p>James S Morsell Afs. Judges</p>
-<p>Alexander Hunter Esq. Marshal</p>
-<p>William Brent Clerk</p>
+of the United States the Sixty Sixth.</p>
+
+<p>Present<lb/>
+William Cranch Chief Judge<lb/>
+The Honble Buckner Thruston &amp;
+James S. Morsell Asst Judges<lb/>
+Alexander Hunter Esq. Marshal<lb/>
+William Brent Clerk</p>
+
 <p>In the records of the proceedings of the
-said Court among others are the following
+said Court among others are the following:
 to wit;</p>
-<p>Parties Moses Bell
-vs.
+
+<note place="margin">Parties</note>
+
+<p>Moses Bell<lb/>
+vs.<lb/>
 James Rhodes</p>
+
 <p>Be it remembered, that
 heretofore, to wit: on the
-eighteenth day of March
+Eighteenth day of March
 in the year of our Lord
+
 <pb xml:id="p013" facs="IMG_3952.jpg"/>
+
+<fw type="pageNum">11</fw>
+
 one thousand eight hundred and forty one, the
 said Moses Bell by Richard Wallach, Esquire,
 his attorney filed in Court here, the following
 Petition, to wit:</p>
-<p>To the Honorable the Judges of the Circuit Court of the
+
+<note place="margin">Petition for Freedom</note>
+
+<p>To the Honble the Judges of the Circuit Court of the
 District of Columbia, for Washington County.</p>
+
 <p>The Petition of Moses Bell respectfully represents
-unto your Honor that your petitioner
+unto your Honors that your petitioner
 is entitled to his freedom, that he is held in slavery
 by one James Rhodes of the said County, 
 and prays that a subpoena may issue to the said
 James Rhodes and his rights be inquired into
-by your Honors. </p>
-<p>R. Wallach
+by your Honors.</p>
+
+<p>R. Wallach<lb/>
 for Petitioner</p>
+
 <p>Thereupon the United States Writ of Subpoena
 was issued directed to the Marshal of
 the District of Columbia in the words and of
-the <gap extent="one word" reason="illegible"/> following to wit:
-The United States of America,
+the tenor following to wit:</p>
+
+<note place="margin">Subpoena</note>
+
+<p>District of Columbia, to wit:<lb/>
+The United States of America,<lb/>
 To the Marshal of the District of Columbia,
 Greeting:</p>
+
 <p>We command you that you summon
-James Rhodes late of Washington County if he
+James Rhodes late of Washington County, if he
 shall be found within the County of Washington
 in your said District, so that he be and appear
 before the Circuit Court of the District of Columbia
 to be held for the County aforesaid, at the City
 of Washington on the fourth Monday of March
+
 <pb xml:id="p014" facs="IMG_3954.jpg"/>
+
+<fw type="pageNum">12</fw>
+
 next, to answer unto Moses Bell's petition
 for freedom filed in the said Court against him.</p>
+
+<p>Hereof fail not, at your peril, and have
+you then and there this Writ:</p>
+
 <p>Witness William Cranch Esquire, Chief Judge
-of our said Court, as the City of Washington, the 27th
+of our said Court, at the City of Washington, the 27th
 day of January Anno Domini one thousand
 eight hundred and forty one.</p>
-<p>Issued the 18th day of March 1841
-Wallach
-W. Brent Clk</p>
+
+<p>Issued the 18th day of March 1841.<lb/>
+W. Brent, Clk</p>
+
+<p>Wallach</p>
+
 <p>At which mentioned fourth Monday of
 March in the year of Our Lord one thousand
-eight hundred and forty one and the day of
+eight hundred and forty one, and the day of
 the return of the above subpoena, comes 
 again into the Circuit Court here, the said petitioner
 by his Attorney aforesaid; and the 
 Marshal of the District aforesaid, to whom the
-same was directed, makes believe thereof to the
-Court here thus endorsed, to wit:</p>
-<p>"Summoned"
-"A Hunter"
+same was directed, makes return thereof to the
+Court here, thus endorsed, to wit:</p>
+
+<note place="margin">Marshal's Return &amp; Defendants Appce &amp; An plea.</note>
+
+<p>"Summoned"<lb/>
+"A Hunter"<lb/>
 "Marshal."</p>
-<p>Marshal's Return &amp; Defendant App. &amp; An plea.</p>
+
 <p>And the said defendant being called
 appears in Court here by Brent &amp; Brent, Esqrs.
 his attornies; whereupon a motion of the said
 petitioner by his attorney aforesaid it is ruled
 by the Court here, that the said defendant
 answer to the said complaint of the petitioner
-in the plea aforesaid, or judgement by the
+in the plea aforesaid, or judgment by the
 Court here will be entered against him in
+
 <pb xml:id="p015" facs="IMG_3957.jpg"/>
+
+<fw type="pageNum">13</fw>
+
 default thereof; and the said defendant by
-his attornies aforesaid defend the face and
+his attornies aforesaid defends the force and
 injury when and so forth and prays leave
-of the Court here, to <unclear>imparte</unclear> until the fourth
+of the Court here, to imparle until the fourth
 Monday of November next, and then to
 answer the complaint of the said petitioner
-in the plea aforesaid and to him it is posted,
+in the plea aforesaid and to him it is granted,
 the same day is given to the said petitioner also.</p>
+
+<note place="margin">Imparlance to Nov Term 1841</note>
+
 <p>At which mentioned fourth Monday
 of November in the year of Our Lord one thousand
 eight hundred and forty one, to which
 said day the said defendant had leave to
-<unclear>imparte</unclear> and then to answer to the Complaint
+imparle and then to answer to the Complaint
 of the said petitioner in the plea
 aforesaid, comes again into the Circuit Court
 here, as well the said petitioner by his
 attorney aforesaid, as the said defendant
 by his attornies aforesaid; and the said
 defendant by his attorney aforesaid as before
-defends the face and injury when and so 
-forth and says that the said petitioner
+defends the force and injury when and so 
+forth, and says that the said petitioner
 is not entitled to his freedom as is alleged
 and of this he puts himself upon the country,
 and the said petitioner in like manner 
-and so forth; therefore by a Jury therein appear
+and so forth; therefore let a Jury therein appear
 before the Court here on the fourth Monday of
-March next, by when &amp;c and who neither
-&amp; to recognize &amp;c because as well &amp;c and 
+March next, by whom &amp;c. and who neither
+&amp;c. to recognize &amp;c. because as well &amp;c. and 
 the same day is given to the said parties
+
 <pb xml:id="p016" facs="IMG_3959.jpg"/>
+
+<fw type="pageNum">14</fw>
+
 then and there &amp;</p>
+
+<note place="margin">Not free &amp; Issue joined Venire facias to
+March Term 1842</note>
+
 <p>And now at this day, to wit: the
 said fourth Monday of March in the year
 of our Lord one thousand eight hundred and
 forty two, comes again into the Circuit Court
-here, as well the said petitioner by his attorney
+here, as well the said Petitioner by his Attorney
 aforesaid, as the said Defendant by his
 Attorney aforesaid: Whereupon for trying the
 issue aforesaid, it is ordered by the Court here,
-that twelve persons from the <sic>pannel</sic> of petit
+that twelve persons from the pannel of petit
 jurors returned to the Court here, by the Marshal
 of the District of Columbia be called, 
-who being called, come to wit:</p>
-<p>1 John H Goddard</p>
-<p>2 Daniel Campbell</p>
-<p>3 Benjamin F. Middleton</p>
-<p>4 Howard McGill</p>
-<p>5 Jacob A. Bender</p>
-<p>6 Henry Harr</p>
-<p>7 Robert K. Nevitt</p>
-<p>8 Vincent King</p>
-<p>9 George W. Dashiell</p>
-<p>10 Thomas B. Riley</p>
-<p>11 James Lusby</p>
-<p>12 Edward Brooke</p>
+who being called, come, to wit:</p>
+
+<note place="margin">Jury</note>
+
+<list>
+<item>1 John H. Goddard</item>
+<item>2 Daniel Campbell</item>
+<item>3 Benjamin F. Middleton</item>
+<item>4 Thomas McGill</item>
+<item>5 Jacob A. Bender</item>
+<item>6 Henry Haw</item>
+<item>7 Robert K. Nevitt</item>
+<item>8 Vincent King</item>
+<item>9 George W. Dashiell</item>
+<item>10 Thomas B. Riley</item>
+<item>11 James Lusby</item>
+<item>12 Edward Brooke</item>
+</list>
+
+<note place="margin">Special Verdict</note>
+
 <p>who being duly empannelled and sworn to say
 the truth in the premises, upon their oath, do say,
 "We of the Jury find that previous to the year
-1837, the petitioner was the salve of a certain
+1837, the petitioner was the slave of a certain
 Lawrence Hoff, a resident of Alexandria County
-in the District of Columbia, that in the year 1837
+in the District of Columbia, that in the year 1837,
 the said Hoff, then owning &amp; possessing the 
 petitioner as his slave in the County of Alexandria
 aforesaid whereof he continued to be a resident,
 did sell and deliver the petitioner to one Little
 then being a resident of Washington County in the
+
 <pb xml:id="p017" facs="IMG_3961.jpg"/>
-District aforesaid, and that the delivery of the petitioner
+
+<fw type="pageNum">15</fw>
+
+District aforesaid, and that the delivery of the Petitioner
 was made to the said Little in Alexandria
-County aforesaid, and the petitioner was immediately
+County aforesaid, and the Petitioner was immediately
 removed by said Little to Washington County
 aforesaid to reside and also for sale whereof said
 Little was resident, that the said Little shortly
 afterwards to wit: about one year or a little more
-sold the petitioner to me Keeting in Washington County
+sold the petitioner to one Keeting in Washington County
 who sold and delivered him to the defendant, that
-<unclear>twice</unclear> said sale, to said Little the petitioner has
+since said sale, to said Little the Petitioner has
 always been kept and held in slavery in the
-County of Washington aforesaid. That at the time 
-of the sale and delivery of the petition was
+County of Washington aforesaid. that at the time 
+of the sale and delivery of the Petitioner as
+aforesaid by Hoff to Little the Petitioner was
 more than forty five years of age, to wit: he
 was 54 or 55 years old, and is now 59 or 60 
 years old. And if upon the facts aforesaid
-the law is for the petitioner, then we find
-for the petitioner on the issue joined the defendant
+the law is for the Petitioner, then we find
+for the Petitioner on the issue joined. if upon 
+the facts aforesaid the law is for the defendant
 then we find for the Defendant on the issue
-joined. Whereupon here seen, heard, and fully 
-understood and mature deliberation being
+joined" Whereupon all and singular the premises 
+being by the Court here seen, heard, and fully 
+understood, and mature deliberation being
 thereupon had, the Court is of opinion
 from the statement of facts aforesaid, that
-the law is for the petitioner. Therefore it 
-is counselered by the Court here, that the said
-Moses Bell the petitioner aforesaid, recover
+the law is for the petitioner:
+
+<note place="margin">Judgment for Petitioner</note>
+
+Therefore it 
+is considered by the Court here, that the said
+Moses Bell, the Petitioner aforesaid, recover
 his freedom of and against the said James
+
 <pb xml:id="p018" facs="IMG_3962.jpg"/>
-Rhodes and that he be free and discharged
+
+<fw type="pageNum">16</fw>
+
+Rhodes, and that he be free and discharged
 of and from the service of the said James
 Rhodes, and that he the said Moses Bell
-go thereof freed and discharged without day
+go thereof freed and discharged without day,
 &amp;c. It is also considered by the Court here, that 
 the said Moses Bell, recover against the
-said James Rhodes the sum of twenty 
-one dollars and seventy two cents by
-the court here into him the said Moses Bell,
-argued on his appeal for his costs and
+said James Rhodes the sum of Twenty 
+one Dollars and Seventy two cents by
+the Court here unto him the said Moses Bell,
+adjudged on his assent for his costs and
 charges by him about the prosecution of
-his petition aforesaid laid out and 
+his petition aforesaid, laid out and expended
 and that he have thereof his execution &amp;c.</p>
-<p>Memorandum. 1842 August 20th Judgment
-rendered in this case on Special verdict
-for Petitioner and $21.72/no costs.</p>
-<p>Test. W Brent Clk</p>
 
-<p>Writ of Error Produced</p>
-<p>And whereas afterwards, to wit: on the
-<del>twenty</del> nineteenth day of December in the year
+<p>Memorandum. 1842 August 20th Judgment
+rendered in this case on Special Verdict
+for Petitioner and $21.72/100 Costs.</p>
+
+<p>Test: W. Brent Clk.</p>
+
+<note place="margin">Writ of Error Produced</note>
+
+<p>And whereas, afterwards, to wit: on the
+<del>Twenty</del> <unclear>thirteenth</unclear> day of December in the year
 of our Lord one thousand eight hundred
-and forty two, the said James Rhodes the 
+and forty two, the said James Rhodes, the 
 defendant aforesaid, by his attorney aforesaid,
 produced and filed in Court here, the United
-States Writ for the correcting of errors of and
+States Writ for the Correcting of Errors of and
 upon the judgment aforesaid, directed to the
 Judges of the Circuit Court of the District of
 Columbia in the County of Washington, and in
 pursuance thereof, and according to the form
+
 <pb xml:id="p019" facs="IMG_3961.jpg"/>
+
+<fw type="pageNum">17</fw>
+
 and effect of the law in such case made and
-provided a Transcript of the Record of
-proceedings of the judgment aforesaid
+provided, a Transcript of the Record of
+proceedings of the Judgment aforesaid,
 and all things thereunto relating with the Writ
 of Error aforesaid, and a Copy of the Appeal
 bond hereunto annexed, are hereby transmitted
 to the said Supreme Court accordingly.</p>
-<p>The Testimony whereof I have hereunto 
+
+<p>In Testimony whereof I have hereunto 
 subscribed my name and affixed
 the seal of said Court at the City of 
 Washington this 24th day of December
 1842.</p>
-<p>W Brent Clk</p>
 
-
-
+<p>W. Brent, Clk</p>
 
 </div1>
 
-
-    
 </body>
 </text>
 </TEI>

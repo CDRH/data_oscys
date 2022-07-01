@@ -9,7 +9,9 @@
 <title>George Mason and Alexander Moore v. Matilda Derrick. Writ of Error</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
-<resp>transcription and encoding</resp><name> n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<resp>transcription and encoding</resp>
+<name n="Martin, Heidi K." xml:id="hkm">Heidi K. Martin</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -65,7 +67,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Writ of Error</term>
+<term>Writ</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -77,44 +79,46 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1823-08">August 1827</date></term>
+<term><date when="1827-01">January 1827</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Marshall, John</term>
-<term>Caldwell, E B  </term>
+<term xml:id="per.000725">Marshall, John, 1755-1835</term>
+<term xml:id="per.000194">Caldwell, Elias Boudinot, 1776-1825</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>United States of America</term>
-<term>District of Columbia</term>
-<term>County of Washington </term>
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Derrick, Louisa</persName> 
+<person role="petitioner" xml:id="per.000708">
+<persName>Derrick, Louisa</persName>
+</person>
+<person role="petitioner" xml:id="per.000709">
 <persName>Derrick, Lucy</persName>
-<persName>Derrick, Matilda</persName>
+</person>
+<person role="petitioner" xml:id="per.000710">
 <persName>Derrick, Matilda</persName>
 </person>
-<person role="defendant"> 
-<persName>Mason, George</persName> 
+<person role="petitioner" xml:id="per.000711">
+<persName>Derrick, Matilda</persName>
+</person>
+<person role="defendant" xml:id="per.000712">
+<persName>Mason, George</persName>
+</person>
+<person role="defendant" xml:id="per.000713">
 <persName>Moore, Alexander</persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Jones, Walter</persName>
-<persName>Key, Francis Scott</persName>
-<persName>Taney, Augustus</persName>
-<persName>Turner, Thomas</persName>
+<persName/>
 </person>
 <person role="attorney_defendant">
-<persName>Jones, Walter</persName>
-<persName>Lear, Benjamin L</persName>
-<persName>Sampson</persName>
+<persName/>
 </person>
 </listPerson>
             
@@ -127,7 +131,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>    
+<change when="2022-06" who="#kln">Reviewed.</change>         
 <change when="2022-06" who="#hkm">Transcribed, encoded.</change>
 </revisionDesc>
 
@@ -142,15 +147,18 @@
 <pb xml:id="p001" facs="IMG_3662.jpg"/>
 
 <p>United States of America, ss.</p>
-<p>THE PRESIDENT OF THE UNITED STATES,</p>
+
+<p>The President of the United States,</p>
+
 <p>To the Judges of the Circuit Court of the United States for the District of
-Columbia in the county of Washington Greeting:</p>
+Columbia in the County of Washington Greeting:</p>
+
 <p>Because in the record and proceedings, as also in the rendition of the judgment of a plea
 which is in the said Circuit Court, before you or some of you, between Matilda Derrick
-for herself &amp; her children Lucy, Matilda, &amp; Louisa infants &amp; Petitioner
-and George Mason &amp; Alexander Moore Defendants on a petition
+for herself &amp; her children Lucy, Matilda, &amp; Louisa infants &amp;c Petitioner
+and George Mason &amp; Alexander Moore Defendants on a Petition
 for freedom
-a manifest error hath happened, to the great damage of the said defendants
+a manifest error hath happened, to the great damage of the said Defendants
 as by their complaint appears. We being willing that error, if any hath been,
 should duly be corrected, and full and speedy justice done to the parties aforesaid in this behalf:
 Do command you, if judgment be therein given, that, then under your seal distinctly and
@@ -160,20 +168,27 @@ same at Washington, on the first Monday of February next, in the said
 Supreme Court, to be then and there held; that the record and proceedings aforesaid being
 inspected, the said Supreme Court may cause further to be done therein to correct that error,
 what of right, and according to the laws and custom of the United States should be done.</p>
+
 <p>Witness, the honourable John Marshall
 Chief Justice of the said Supreme Court, this first Monday
 of August in the year of our Lord one thousand
 eight hundred and twenty three.</p>
-<p>E B Caldwell
+ 
+<p>E. B. Caldwell<lb/>
 Clk. Sup. Ct. U. S.</p>
+
 <pb xml:id="p002" facs="IMG_3663.jpg"/>
-<p>583 <unclear></unclear>1823</p>
-<p>Matilda
-v
-Mason &amp;Mason and Moore</p>
-<p><unclear></unclear></p>
-<p>Filed 3rd December
-1823</p>
+
+<p>583 Apl 1823</p>
+
+<p>Matilda<lb/>
+vs<lb/>
+Mason &amp; Moore</p>
+
+<p>Writ of Error</p>
+
+<p>filed 3d December 1823</p>
+
 </div1>
     
 </body>
