@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Joseph Wallingsford v. Sarah Ann Allen</title>
+<title>Joseph Wallingsford v. Sarah Ann Allen. William L. Brent to William T. Carroll</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Morales-Ledesma,Ellyzabeth" xml:id="eml">Ellyzabeth Morales-Ledesma</name> 
+<name n="Morales-Ledesma, Ellyzabeth" xml:id="eml">Ellyzabeth Morales-Ledesma</name> 
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">"oscys.case.0205.011"</idno>
-<idno type="case">"oscys.caseid.0210"</idno>
+<idno type="project">oscys.case.0205.011</idno>
+<idno type="case">oscys.caseid.0210</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,15 +46,16 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">"letter"</title>
-<date when="1836-01-16">January 16, 1836></date>
+<title level="m" type="main">William L. Brent to William T. Carroll</title>
+<date when="1836-01-16">January 16, 1836</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 267</collection>
-<idno>210,1903</idno>
+<idno>Box 210, Folder 1903</idno>
+</msIdentifier>
 </msDesc>
 </sourceDesc>
 </fileDesc>
@@ -65,7 +67,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>note</term>
+<term>Correspondence</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -77,32 +79,41 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+<term><date when="1836-01">January 1836</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term xml:id="per.004934">Carroll, William Thomas, -1863</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term/>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<person role="petitioner" xml:id="per.001683">
+<persName>Allen, Eliza Jane</persName>
 </person>
-<person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<person role="petitioner" xml:id="per.001684">
+<persName>Allen, John Davy</persName>
+</person>
+<person role="petitioner" xml:id="per.001685">
+<persName>Allen, Julia Maria</persName>
+</person>
+<person role="petitioner" xml:id="per.001686">
+<persName>Allen, Sarah Ann</persName>
+</person>
+<person role="defendant" xml:id="per.001687">
+<persName>Wallingsford, Joseph</persName>
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>
 </person>
-<person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<person role="attorney_defendant" xml:id="per.000738">
+<persName>Brent, William Leigh, 1784-1848</persName>
 </person>
 </listPerson>
             
@@ -116,7 +127,8 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="06-21-2022" who="eml">Transcribed, encoded.</change>
+<change when="2022-07" who="#kln">Reviewed.</change>
+<change when="2022-06-21" who="#eml">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -127,12 +139,26 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="IMG_3701.JPEG/>
+<pb xml:id="p001" facs="IMG_3708.JPG"/>
 
 <p>My dear sir</p>
-<p>enclosed is the letters of administration granted to Mr. Meade on Wallingsford estate please put it in the case I worked to request appellant’s death and attain leave for his representatives to appear <unclear></unclear></p>
-<p>Yours Truly</p>
-<p>W. <unclear></unclear></p>
+
+<p>Enclosed is the letters of administration granted to Mr. Meade on Wallingsford's estate. Please to file it in the case I asked you to <unclear>suggest</unclear> <del>Defend</del> appellants death and obtain leave for his representatives to appear &amp;c.</p>
+
+<p>yrs truly<lb/>
+Wm Brent</p>
+
+<p>16 Jany 1836</p>
+
+<pb xml:id="p002" facs="IMG_3710.JPG"/>
+
+<p>Wm T. Carroll Esqr<lb/>
+Clerk Sup. Court</p>
+
+<p>Wm L. Brent<lb/>
+1836, 16th Jany</p>
+
+<p>No. 79</p>
 
 </div1>
 </body>

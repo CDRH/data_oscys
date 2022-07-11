@@ -6730,7 +6730,7 @@ This file was compiled from information found in:
 
 <person xml:id="per.000710" source="http://earlywashingtondc.org/doc/oscys.case.0092.001">
 <persName type="display">Derrick, Matilda</persName>
-<persName type="full"><surname>Derrick</surname>, <forename type="first" full="yes">Matilda</forename> <addName type="first" subtype="alternate">Mydilla</addName></persName>
+<persName type="full"><surname>Derrick</surname>, <forename type="first" full="yes">Matilda</forename> <addName type="first" subtype="alternate">Mydilla</addName> <addName type="first" subtype="alternate">Myrtilla</addName></persName> 
 <sex>female</sex>
 <trait type="color"><ab>negro</ab></trait>
 <trait type="color" when="1823-06-13"  source="http://earlywashingtondc.org/doc/oscys.case.0092.003"><ab>negro</ab></trait>
@@ -6821,8 +6821,8 @@ This file was compiled from information found in:
 </person>
 
 <person xml:id="per.000719" source="http://earlywashingtondc.org/doc/oscys.case.0092.004">
-<persName type="display">Craik, Marianne</persName>
-<persName type="full"><surname>Craik</surname>, <forename type="first" full="yes">Marianne</forename></persName>
+<persName type="display">Craik, Mariamne</persName>
+<persName type="full"><surname>Craik</surname>, <forename type="first" full="yes">Mariamne</forename></persName>
 <death notBefore="1815-04-10" notAfter="1815-04-20" source="http://earlywashingtondc.org/doc/oscys.case.0092.004">April 1815</death>
 <sex>female</sex>
 <trait type="color"><ab></ab></trait>
@@ -7671,8 +7671,8 @@ This file was compiled from information found in:
 </person>
 
 <person xml:id="per.000806" source="http://earlywashingtondc.org/doc/oscys.case.0104.010">
-<persName type="display">Chew, Philimon</persName>
-<persName type="full"><surname>Chew</surname>, <forename type="first" full="yes">Philimon</forename></persName>
+<persName type="display">Chew, Philemon</persName>
+<persName type="full"><surname>Chew</surname>, <forename type="first" full="yes">Philemon</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -16137,7 +16137,7 @@ This file was compiled from information found in:
 
 <person xml:id="per.001688" source="http://earlywashingtondc.org/doc/oscys.case.0205.002">
 <persName type="display">Meade, James</persName>
-<persName type="full"><surname>Meade</surname>, <forename type="first" full="yes">James</forename></persName>
+<persName type="full"><surname>Meade</surname> <addName type="surname" subtype="alternate">Mead</addName>, <forename type="first" full="yes">James</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -18070,15 +18070,15 @@ This file was compiled from information found in:
 <!-- oscys.mb.0013.002 start -->
 
 <person xml:id="per.001868" source="http://earlywashingtondc.org/doc/oscys.mb.0013.002">
-<persName type="display">Boothe, George N.</persName>
-<persName type="full"><surname>Boothe</surname>, <forename type="first" full="yes">George</forename> <forename type="middle" full="init">N.</forename></persName>
+<persName type="display">Boothe, Jeremiah</persName>
+<persName type="full"><surname>Boothe</surname>, <forename type="first" full="yes">Jeremiah</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
 
 <person xml:id="per.001869" source="http://earlywashingtondc.org/doc/oscys.mb.0013.002">
-<persName type="display">Coombs, Griffith</persName>
-<persName type="full"><surname>Coombs</surname> <addName>Coombe</addName>, <forename type="first" full="yes">Griffith</forename></persName>
+<persName type="display">Coombe, Griffith</persName>
+<persName type="full"><surname>Coombe</surname> <addName>Coombs</addName>, <forename type="first" full="yes">Griffith</forename></persName>
 <sex>male</sex>
 <trait type="color"><ab></ab></trait>
 </person>
@@ -53841,6 +53841,7 @@ source="http://earlywashingtondc.org/doc/oscys.report.0084.001">
 <persName type="display">Reintzel, Daniel</persName>
 <persName type="full"><surname>Reintzel</surname>, <forename type="first" full="yes">Daniel</forename></persName>
 <sex>male</sex>
+<occupation source="http://earlywashingtondc.org/doc/oscys.case.0092.015">justice of the peace</occupation>
 </person>
 
 <person xml:id="per.006072" source="http://earlywashingtondc.org/doc/oscys.supp.0004.001">

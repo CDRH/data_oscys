@@ -83,56 +83,53 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Adams, Samuel W</term>
-<term>Brent, William</term>
-<term>Cheshire, Archibald</term>
-<term>Clark, Joseph S</term>
-<term>Craik, James</term>
-<term>Craik, Maria D</term>
-<term>Craik, Marianne</term>
-<term>Cranch, William</term>
-<term><unclear>Crofs, Elie</unclear>,</term>
-<term>Davis, Richard</term>
-<term>Dawson, Alfred R</term>
-<term>Forrest, John B</term>
-<term>Frost, John T</term>
-<term>Gassaway, Hanson</term>
-<term>Harrison, Ann Louisa</term>
-<term>Harrison, Gustavus</term>
+<term xml:id="per.003759">Ault, Henry</term>
+<term xml:id="per.003758">Adams, Samuel W.</term>
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.004038">Cheshire, Archibald</term>
+<term xml:id="per.000972">Clarke, Joseph S.</term>
+<term xml:id="per.000705">Craik, James, 1730-1814</term>
+<term xml:id="per.000718">Craik, Maria D.</term>
+<term xml:id="per.000719">Craik, Mariamne</term>
+<term xml:id="per.000004">Cranch, William, 1769-1855</term>
+<term>Cross, Elie</term>
+<term xml:id="per.003762">Davis, Richard</term>
+<term>Dawson, Alfred R.</term>
+<term xml:id="per.000490">Forrest, John B.</term>
+<term xml:id="per.002721">Frost, John T.</term>
+<term xml:id="per.003764">Gassaway, Hanson</term>
+<term xml:id="per.003992">Harrison, Gustavus</term>
 <term>Hyatt, Seth</term>
-<term>Mason, Louisa</term>
-<term>Moore, Ann</term>
-<term>Morsell, James S</term>
-<term>Pyfer, Henry</term>
-<term>Ridgely, William G</term>
-<term>Reintzel, Daniel</term>
-<term>Rhodes, William</term>
-<term>Ringgold, Tench</term>
-<term>Ritchie, John T</term>
-<term>Sandiford, Thomas</term>
-<term>Semmes, Raphael</term>
-<term>Smith, Henry</term>
+<term xml:id="per.000720">Mason, Anne Louisa</term>
+<term xml:id="per.000721">Moore, Alexander</term>
+<term xml:id="per.000722">Moore, Ann</term>
+<term xml:id="per.000044">Morsell, James Sewall</term>
+<term xml:id="per.002549">Pyfer, Henry</term>
+<term xml:id="per.003767">Ridgely, William G.</term>
+<term xml:id="per.006071">Reintzel, Daniel</term>
+<term xml:id="per.003729">Rhodes, William</term>
+<term xml:id="per.000461">Ringgold, Tench</term>
+<term>Ritchie, John T.</term>
+<term xml:id="per.004028">Sandiford, Thomas</term>
+<term xml:id="per.001252">Semmes, Raphael</term>
+<term xml:id="per.004000">Smith, Henry</term>
 <term>Talbott, William</term>
-<term>Thompson, William</term>
-<term>Thruston, Buckner </term>
-<term>Washington, Baily</term>
-<term>Washington, William</term>
+<term xml:id="per.003916">Thompson, William</term>
+<term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
+<term xml:id="per.000109">Washington, Bailey</term>
+<term xml:id="per.000723">Washington, William</term>
 <term>Wilson, James</term>
-<term>Wittberger, Charles H</term>
-<term><unclear></unclear>, Henry</term>
-  
+<term xml:id="per.001262">Wiltberger, Charles H.</term> 
 </keywords>
 
-<keywords scheme="lcsh" n="places">    
-<term>United States of America</term>
-<term>Virginia</term>
-<term>Maryland</term>
-<term>District of Columbia</term>
-<term>County of Alexandria</term>
-<term>County of Fairfax</term>
-<term>County of Washington</term>
-<term>City of Washington</term>
-<term>George Town</term>
+<keywords scheme="lcsh" n="places"> 
+<term>Alexandria County (Va.)</term>
+<term>Charles County (Md.)</term>
+<term>Fairfax County (Va.)</term>
+<term>Washington County (D.C.)</term>
+<term>Alexandria (D.C.)</term>
+<term>Georgetown (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
@@ -157,11 +154,17 @@
 <person role="defendant" xml:id="per.000713">
 <persName>Moore, Alexander</persName>
 </person>
-<person role="attorney_petitioner">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.000460">
+<persName>Taney, Augustus</persName>
 </person>
-<person role="attorney_defendant">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.000640">
+<persName>Turner, Thomas</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000545">
+<persName>Lear, Benjamin L. (Benjamin Lincoln), 1792-1832</persName>
 </person>
 </listPerson>
             

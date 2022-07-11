@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0147.009">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0147.010">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William H. Williams v. James Ash.</title>
+<title>William H. Williams v. James Ash. Mandate</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Morales-Ledesma, Ellyzabeth" xml:id="eml">Ellyzabeth Morales-Ledesma</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -45,7 +46,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
+<title level="m" type="main">Mandate</title>
 <date when="1842-01-10">January 10, 1842</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -53,7 +54,7 @@
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 267</collection>
-<idno>232,2183</idno>
+<idno>Box 232, Folder 2183</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -66,7 +67,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!-- Document Type. See list on website. --></term>
+<term>Mandate</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,32 +79,33 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1842-01"><!-- Month Year --></date></term>
+<term><date when="1843-01">January 1843</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term xml:id="per.001155">Taney, Roger Brooke, 1777-1864</term>  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<person role="petitioner" xml:id="per.000816">
+<persName>Ash, James</persName>
 </person>
-<person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<person role="defendant" xml:id="per.001145">
+<persName>Williams, William H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>
 </person>
 </listPerson>
             
@@ -129,11 +131,35 @@
 <div1 type="case">
 
 <pb xml:id="p001" facs="IMG_3806.jpg"/>
+
 <p>United States of America, ss:</p>
+
 <p>The President of the United States of America,</p>
-<p>To the honorable the Judge of the Circuit Court of the United States, for the     District of Colombia holdein and for the County of Washington greeting </p>
-<p> Whereas lately in the Circuit Court of the United States for the                   District of Columbia            before you, or some of you in a cause between James Ash, Petitioner and William H. Williams, Defendant, the judgement of the said Circuit Court was in the following words orig:</p>
-<p>" Therefore it is considered by the court here, that the said James Ash, the petitioner aforesaid be free and discharged of and from the service of the said William H. Williams, and that said petitioner go thereof without day. It is further considered by the Court here, that the said Petitioner recover against the said William H. Williams the sum of            dollars and            costs his costs and charges by him about the petition in that behalf laid out and expended ve.</p>
+
+<p>To the Honorable the Judges of the Circuit Court of the United States, for the &#160;&#160;&#160; District of Columbia holden in and for the County of Washington greeting:</p>
+
+<p>Whereas, lately, in the Circuit Court of the United States, for the &#160;&#160;&#160; District of Columbia before you, or some of you in a cause, between James Ash, Petitioner and William H. Williams, Defendant, the judgment of the said Circuit Court was in the following words viz:</p>
+
+<p>"Therefore it is considered by the Court here, that the said James Ash, the Petitioner aforesaid be free and discharged of and from the service of the said William H. Williams, and that said Petitioner go thereof without day. It is further considered by the Court here, that the said Petitioner recover against the said William H. Williams the sum of &#160;&#160;&#160; dollars and &#160;&#160;&#160; cents his costs and charges by him about his Petition in that behalf laid out and expended &amp;c."</p>
+
+<pb xml:id="p002" facs="IMG_3807.jpg"/>
+
+<p>as by the inspection of the transcript of the record of the said Circuit Court, which was brought into the Supreme Court of the United States, by virtue of a writ of Error agreeably to the act of Congress in such case made and provided, fully and at large appears. And whereas, in the present term of January in the year of our Lord one thousand eight hundred and forty two the said cause came on to be heard before the said Supreme Court, on the said transcript of the record, and was argued by counsel; on consideration whereof, it is adjudged and ordered by this Court that the judgment of the said Circuit Court, in this cause be, and the same is hereby, affirmed with costs; and that the said Petitioner recover against the said defendant Forty six dollars and ninety nine cents for his costs herein expended and have execution therefor. Mar: 4th</p>
+
+<p>You, therefore, are hereby commanded that such Execution &amp; proceedings be had in said cause, as according to right and justice, and the laws of the United States ought to be had, the said writ of Error notwithstanding: Witness the Honorable Roger B. Taney Chief Justice of said Supreme Court, the 2d Monday of January in the year of our Lord one thousand eight hundred and forty two.</p>
+
+<p>Costs of Petitioner<lb/>
+Clerk, $26.99<lb/>
+Attorney, $20.00<lb/>
+$46.99</p>
+
+<p>Taxed by</p>
+
+<p>Clerk of the Supreme Court of the United States.</p>
+
+<pb xml:id="p003" facs="IMG_3811.jpg"/>
+
+<p>No. 33. Mandate 1842</p>
 
 </div1>
     

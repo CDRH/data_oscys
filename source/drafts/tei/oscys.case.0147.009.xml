@@ -6,11 +6,12 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William H. Williams v. James Ash.</title>
+<title>William H. Williams v. James Ash. Judgment</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Morales-Ledesma, Ellyzabeth" xml:id="eml">Ellyzabeth Morales-Ledesma</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -45,15 +46,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">William H. Williams v. James Ash writ of error</title>
-<date when="1842-03-04">March 04, 1842</date>
+<title level="m" type="main">Judgment</title>
+<date when="1842-03-04">March 4, 1842</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
 <repository>National Archives and Records Administration</repository>
 <collection>Record Group 267</collection>
-<idno>232,2183</idno>
+<idno>Box 232, Folder 2183</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -66,7 +67,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!-- Document Type. See list on website. --></term>
+<term>Judgment</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,32 +79,33 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1842-03"><!-- Month Year --></date></term>
+<term><date when="1843-01">January 1843</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term xml:id="per.001155">Taney, Roger Brooke, 1777-1864</term>  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Ash, James</persName> 
+<person role="petitioner" xml:id="per.000816">
+<persName>Ash, James</persName>
 </person>
-<person role="defendant"> 
-<persName>Williams, H, William</persName>
+<person role="defendant" xml:id="per.001145">
+<persName>Williams, William H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>
 </person>
 </listPerson>
             
@@ -116,8 +118,9 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
-<change when="2022-06-21" who="eml">Transcribed, encoded.</change>
+<revisionDesc>  
+<change when="2022-06-09" who="#kln">Reviewed.</change>           
+<change when="2022-06-21" who="#eml">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -130,14 +133,30 @@
 
 <pb xml:id="p001" facs="IMG_3802.jpg"/>
 
-<p>No.33 Wm H. Williams Deff in Er. vs James Ash</p>
-<p>In error to the Circuit Court of the United Stats for the district of Colombia holden in for the County of Washington</p>
-<p>This cause came on to be heard in the Transcript of the record from the Circuit Court of the United States for the District of Colombia holden in &amp; for the County of Washington, &amp; was argued by counsel, on concatenation to hereof, It is now here <unclear></unclear> by this court that the  judgement of the said  circuit court in this cause be  <unclear></unclear> is herby affirmed with costs </p>
-<p>Tn. Wm. Ch. Jus. Taney</p>
+<p>No. 33</p>
+
+<p>Wm H. Williams Plff. in Er.<lb/>
+v<lb/>
+James Ash</p>
+
+<p>In error to the Circuit Court of the United States for the district of Columbia holden in &amp; for the County of Washington.</p>
+
+<p>This cause came on to be heard on the Transcript of the record from the Circuit Court of the United States for the District of Columbia holden in &amp; for the County of Washington &amp; was argued by counsel. On consideration whereof, It is now here ordered &amp; adjudged by this Court that the Judgement of the said Circuit Court in this cause be &amp; the same is hereby affirmed with costs</p>
+
+<p>Pr. Mr. Ch. Jus. Taney</p>
+
 <pb xml:id="p002" facs="IMG_3803.jpg"/>
-<p>No.33</p>
-<p>William V. Ash</p>
-<p>Litagent In Ch. Jus. Taney</p>
+
+<p>No. 33</p>
+
+<p>Williams<lb/>
+v<lb/>
+Ash</p>
+
+<p>Judgemt
+pr
+Ch. Jus. Taney</p>
+
 <p>4 March 1842</p>
 
 </div1>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.case.0250.010">
+
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>John Davis v. Hezekiah Wood. Transcript</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Green, Autumn" xml:id="ag">Autumn Green</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2022</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.case.0250.010</idno>
+<idno type="case">oscys.caseid.0251</idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Transcript</title>
+<date/>
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository>National Archives and Records Administration</repository>
+<collection>Record Group 267</collection>
+<idno>Box 33, Folder 691</idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Transcript</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1816-02">February 1816</date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term>Beall, Walter B.</term>
+<term xml:id="per.000006">Boyd, Washington</term>
+<term xml:id="per.001560">Brent, Robert, 1764-1819</term>
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.004033">Brown, Joel</term>
+<term xml:id="per.003733">Bryan, Benjamin</term>
+<term xml:id="per.000194">Caldwell, Elias Boudinot, 1776-1825</term>
+<term xml:id="per.003700">Clarke, Joseph</term>
+<term xml:id="per.000004">Cranch, William, 1769-1855</term>
+<term>Crossfield, Jehiel</term>
+<term xml:id="per.000160">Davis, Susan</term>
+<term xml:id="per.003726">Duvall, William</term>
+<term xml:id="per.005656">Emack, William</term>
+<term xml:id="per.000063">Fitzhugh, Nicholas</term>
+<term>Gilpin, Thomas B.</term>
+<term xml:id="per.002743">Lee, Archibald</term>
+<term xml:id="per.000725">Marshall, John, 1755-1835</term>
+<term xml:id="per.000100">McCormick, Alexander</term>
+<term xml:id="per.003711">Mudd, Jeremiah</term>
+<term xml:id="per.000103">Renner, Daniel</term>
+<term xml:id="per.003728">Reynolds, Thomas</term>
+<term xml:id="per.001461">St. Clair, George</term>
+<term xml:id="per.000168">Swann, Caleb</term>
+<term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
+<term>Ward, Joseph</term>
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>
+<person role="petitioner" xml:id="per.001601">
+<persName>Davis, John</persName>
+</person>
+<person role="petitioner" xml:id="per.001602">
+<persName>Davis, Mary Ann</persName>
+</person>
+<person role="petitioner" xml:id="per.001603">
+<persName>Davis, Teresa</persName>
+</person>
+<person role="defendant" xml:id="per.001604">
+<persName>Wood, Hezekiah</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.000023">
+<persName>Law, John</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.001563">
+<persName>Lee, Charles, 1758-1815</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.000122">
+<persName>Lee, Edmund J.</persName>
+</person>
+<person role="attorney_petitioner" xml:id="per.000044">
+<persName>Morsell, James Sewall</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>United States. Supreme Court</orgName>
+<placeName>Washington (D.C.)</placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>             
+<change when="2022-07" who="#kln">Reviewed.</change>
+<change when="2022-06" who="#ag">Transcribed, encoded.</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001" facs="IMG_3525.jpg"/>
+
+<p>District of Columbia towit</p>
+
+<p>At a Circuit Court of the United States for the District of Columbia and County of Washington begun and held in and for the County of Washington at the City of Washington on the first monday of June being the seventh day of the same month in the year of our Lord one thousand eight hundred and thirteen and of the Independence of the United States the 37th.</p>
+
+<p>Were Present<lb/>
+The Honble<lb/>
+William Cranch Esqr Chief Judge<lb/>
+Nicholas Fitzhugh &amp;<lb/>
+Buckner Thruston Esqrs Assistant Judges<lb/>
+Washington Boyd Esq. Marshal<lb/>
+Wm Brent clk.</p>
+
+<p>In the record of proceedings of the same Court among other is the following towit</p>
+
+<p>John Davis Terese Davis and Mary Davis Petitioners<lb/>
+against<lb/>
+Hezekiah Wood Defendant</p>
+ 
+<p>Be it remembered that heretofore towit on the twenty sixth day of January in the year of our Lord Eighteen Hundred and thirteen the following writ of the United States was <del>issued</del> filed in the Office of the Clerk of the Circuit Court of the United States for the District of Columbia and County of Washington towit, "United States of America Sct. The President of the United States to the Judges of the Circuit Court of the United States for the District of Columbia in the County of Washington Greeting: Whereas lately in the Circuit
+    
+<pb xml:id="p002" facs="IMG_3528.jpg"/>
+
+Court of the United States for the District of Columbia in the County of Washington in a cause wherein John, Terese, and Mary Davis were plaintiffs or petitioners and Hezekiah Wood was defendant on a petition for freedom Judgment was rendered by the said Circuit Court for the said plaintiffs or petitioners as by the Inspection of the Transcript of the record of the said Circuit Court which was brought into the Supreme Court of the United States agreeably to the Act of Congress in such case made and provided fully and at large appears. And whereas in the Term of February in the year of our Lord one thousand eight hundred and twelve the said cause came on to be heard before the said Supreme Court on the said Transcript of the record of the said Circuit Court and was argued by counsel, on consideration whereof. It is the Opinion of the Court that the said Circuit Court erred in giving the direction prayed by the counsel for the Petitioners. It is therefore adjudged ordered and decreed that the Judgment of the said Circuit Court in this case be and the same is hereby reversed and annulled, and the said cause is hereby remanded to the said Circuit Court for further proceedings to be had therein according to Law. and the same is hereby remanded accordingly.</p> 
+
+<p>You therefore are hereby commanded that such proceedings be had in said cause as according to right and Justice and the Laws of the United States and agreeably to the said opinion and Judgment of the said Supreme Court ought to be had, the said writ of error notwithstanding Witness the Honble John Marshall Chief Justice of said Supreme Court, this first monday in August in the year of our Lord one 
+
+<pb xml:id="p003" facs="IMG_3533.jpg"/>
+
+thousand eight hundred and twelve.</p>
+ 
+<p>E. B. Caldwell Clk. Sup. Ct. U.S.</p>
+ 
+<p>And now here at this day towit the first monday of June 1813 comes again into Court here as well the said Petitioners <del>appears in Court here,</del> by Edmund J Lee and James S Morsell Esquires their attorneys as the said Hezekiah Wood by Walter Jones Junr. &amp; Francis S Key his attornies</p>
+ 
+<p>Whereupon for trying the issue Joined between the parties aforesaid. It is ordered by the Court here that twenty persons from the pannel of Petit Jurors returned to the Court here by the Marshal of the District aforesaid be drawn by ballot according to the act of Assembly in such case made and provided, and thereupon the twenty persons being so drawn by ballot, and written upon two lists one of which said lists is delivered to the Counsel for the respective parties, and the counsel for each of the said parties having stricken out four persons from the said lists, thereupon the remaining twelve persons being called come towit Archabald Lee William Duvall Benjamin Bryan Jehiel Crossfield George St Clair, Thomas Reynolds Jeremiah Mudd Walter B Beall Joseph Clarke Joseph Ward Alexander McCormick and William Emack who being empannelled, and sworn to say the truth in the premises, upon their oath do say, that <del>that</del> the said John Davis, Terese Davis and Mary Davis are not free as they by their petition aforesaid have alleged. Therefore it is considered by the Court here that the said Hezekiah Wood go thereof without delay and soforth</p> 
+
+<p>Test. Wm Brent clk.</p>
+
+<p>Memorandum Before the Jurors aforesaid returned from the Bar of the Court here to consider of and upon their Verdict aforesaid the said John Davis Terese Davis and Mary Davis by their attornies aforesaid file in Court here the following
+    
+<pb xml:id="p004" facs="IMG_3535.jpg"/>
+
+Bill of exceptions which is signed sealed and enrolled according to the Act of Assembly in such case made and provided and which is as follows towit,</p>
+
+<p>John Davis
+Terese Davis &amp;
+Mary Davis<lb/>
+vs<lb/>
+Hezekiah Wood</p>
+    
+<p>Memorandum. Upon the trial of this cause the Petitioners offered to prove by competent witnesses that they the said witnesses have heard old persons who are now dead declare that a certain Mary Davis now dead, was a white woman born in England, and such was the general report in the neighborhood where the said Mary Davis lived. and also offered the same kind of Testimony to prove that Susan Davis the mother of the petitioners was lineally descended in the female line from the said Mary Davis, and it was admitted that the said Susan Davis was at the time of the commencement of this petition free and acting in all respects as a free woman which evidence by hearsay and general reputation as aforesaid the Court reused to admit except so far as it was applicable to the facts of pedigree of the petitioners to which refusal the petitioners except and this their bill of exceptions is signed sealed and enrolled this sixth July 1813.</p>
+
+<p>W Cranch (seal)<lb/>
+N. Fitzhugh (seal)</p>
+
+<p>John Davis
+Therese Davis &amp;
+Mary Davis<lb/>
+vs<lb/>
+Hezekiah Wood</p>
+    
+<p>In the Trial of this cause the petitioners to support the issue on their part joined proved that the petitioners are the Children of Susan Davis that the said Susan Davis is the same person named in the following record (here insert it) they then offered to read the said record in evidence to the Jury as prima facie Evidence that the said petitioners are the descendants in the 
+    
+<pb xml:id="p005" facs="IMG_3536.jpg"/>
+
+female line from a free woman who was born free and are of free condition connected with the fact that the defendant in this case sold the said Susan Davis to Coll. Swann the person mentioned as the defendant in the aforesaid record, But the Court refused to suffer the petitioners to read the said record to the Jury as Evidence in this cause. To which refusal the petitioners except &amp; this their bill of exceptions is signed sealed and enrolled this 6th of July 1813.</p>
+
+<p>W. Cranch (seal)<lb/>
+N. Fitzhugh (seal)</p>
+
+<p>And thereupon the said John Davis Terese Davis and Mary Davis by their attornies aforesaid pray an Appeal from the Judgment aforesaid, so as aforesaid rendered to the Supreme Court of the United States and it is granted them Whereupon the said John Davis Terese Davis and Mary Davis by their attornies aforesaid, file in Court here a certain writing obligating commonly called an Appeal Bond and which is contained in the following words towit "Know all men by these presents that we Daniel Renner and Joel Brown are held and firmly bound unto Hezekiah Wood in the full and Just sum of two hundred Dollars to be paid to the said Hezekiah Wood certain attorney, executors, administrators or assigns: to which payment well and truly to be made, we bind ourselves, our heirs, executors and administrators jointly and severally by these presents sealed with our seals and dated this twenty first day of February in the year of our Lord one thousand eight hundred and fourteen</p>
+
+<p>Whereas lately at a Circuit Court of the United States for the District of Columbia in Washington County in June Term of said Court last past in a suit depending 
+    
+<pb xml:id="p006" facs="IMG_3541.jpg"/>
+    
+in said Circuit Court wherein John, Terese and Mary Davis were Petitioners and Hezekiah Wood was defendant Judgment was rendered against the said Petitioners and the said Petitioners having obtained a writ of error and filed a Copy thereof in the Clerks office of the said Circuit Court, to reverse the Judgment in the aforesaid suit, and a citation directed to the said Hezekiah Wood citing and admonishing him to be and appear at a Supreme Court of the United States, to be holden at Washington on the first Monday of February Instant Now the Condition of the above obligation is such, that if the said Petitioners shall prosecute their writ to effect and answer all damages and costs, if they fail to make their plea good, then the above obligation to be void else to remain in full force and virtue.</p> 
+
+<p>&#160;&#160;&#160; (seal)<lb/>
+Danl. Renner (seal)<lb/>
+Joel Brown (seal)</p>
+
+<p>Sealed and delivered in presence of 
+Robert Brent Thomas B. Gilpin</p>
+  
+<p>Which being read and heard and the securities in the said Bond being by the Court here approved it is therefore ordered by the said Court here that the record and proceedings aforesaid in the plea aforesaid, with all things thereunto relating be transmitted to the said Supreme Court of the United States; and the same are transmitted to the said Court accordingly</p>
+
+<p>Test. Wm Brent clk.</p>
+
+<pb xml:id="p007" facs="IMG_3570.jpg"/>
+     
+<p>District of Columbia<lb/>
+Washington County Sct.</p>
+
+<p>I William Brent Clerk of the Circuit Court 
+of the United States for the District of Columbia and County aforesaid 
+hereby certify that the aforegoing is truly taken and copied 
+from the record of proceedings of the County aforesaid in the  
+above mentioned suit wherein John, Terese, and Mary Davis 
+are petitioners and the said Hezekiah Wood is defendant.</p>
+ 
+<p>In Testimony whereof I hereunto subscribe my
+name and affix the seal of said Court this 26th day 
+of July 1814.</p> 
+
+<p>Wm Brent clk</p>
+     
+<pb xml:id="p008" facs="IMG_3571.jpg"/>
+
+<p>32 <del>88</del> Washington</p>
+     
+<p>Negro John Davis &amp; others<lb/>
+vs<lb/>
+Hezekiah Wood</p>
+
+<p>Transcript</p>
+  
+<p>filed 4th August 1814<lb/>
+D Cola 1816</p>
+    
+</div1>
+
+</body>
+</text>
+</TEI>
