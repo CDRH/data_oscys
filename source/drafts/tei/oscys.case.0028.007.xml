@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Sally Henry v. Henry W. Ball. Transcript</title>
+<title>Sally Henry v. Henry W. Ball. Transcript from Circuit Court</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Transcript</title>
-<date when="1814-07-04"> July 4th, 1814</date>
+<title level="m" type="main">Transcript from Circuit Court</title>
+<date when="1814-07-04">July 4, 1814</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -83,54 +83,56 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Blackwell, George W B</term>
-<term>Boyd, Washington</term>
-<term>Cranch, William</term>
-<term>Dunn, Thomas</term>
-<term>Fitzhugh, Nicholas</term>
-<term>Gustine, Robert G</term>
-<term>Frost, John T</term>
-<term>Henry, William</term>
-<term>Holmead, Anthony</term>
-<term>Jones, Walter Jr</term>
-<term>McDonald, John G</term>
-<term>Moore, William</term>
-<term>Morsell, James S</term>
-<term>Naylor, John L</term>
-<term>Newton, Clement</term>
-<term>Rankin, Mr</term>
-<term>Rankin, Elizabeth K</term>
-<term>Reynolds, Thomas</term>
-<term>Thruston, Buckner</term>
-<term>Tomlinson, Bernard H</term>
-<term>Wharton, James</term>
-<term>Young, James</term>
+<term xml:id="per.004015">Blackwell, George W. B.</term>
+<term xml:id="per.000006">Boyd, Washington</term>
+<term xml:id="per.000003">Brent, William, 1774-1848</term>
+<term xml:id="per.000004">Cranch, William, 1769-1855</term>
+<term xml:id="per.004059">Dunn, Thomas</term>
+<term xml:id="per.000063">Fitzhugh, Nicholas</term>
+<term xml:id="per.004017">Gustine, Robert G.</term>
+<term xml:id="per.002721">Frost, John T.</term>
+<term xml:id="per.000230">Henry, William</term>
+<term xml:id="per.003708">Holmead, Anthony</term>
+<term xml:id="per.004062">McDonald, John G.</term>
+<term xml:id="per.001458">Moore, William</term>
+<term xml:id="per.001579">Naylor, John L.</term>
+<term xml:id="per.003712">Newton, Clement</term>
+<term xml:id="per.000233">Rankin, Elizabeth K.</term>
+<term xml:id="per.003728">Reynolds, Thomas</term>
+<term xml:id="per.000064">Thruston, Buckner, 1763-1845</term>
+<term xml:id="per.004064">Tomlinson, Bernard H.</term>
+<term xml:id="per.004031">Wharton, James</term>
+<term xml:id="per.004065">Young, James</term>
 </keywords>
 
-<keywords scheme="lcsh" n="places">    
-<term/><term>United States of America</term>
-<term>State of Virginia</term>
-<term>Fairfax County</term>
-<term>Northcumberland County</term>
-<term>City of Washington, District of Columbia</term>
-
+<keywords scheme="lcsh" n="places">
+<term>Fairfax County (Va.)</term>
+<term>Northumberland County (Va.)</term>
+<term>Washington County (D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Henry, Sally</persName> 
+<person role="petitioner" xml:id="per.000231">
+<persName>Henry, Sally</persName>
 </person>
-<person role="defendant"> 
-<persName>Ball, Henry W</persName>
+<person role="defendant" xml:id="per.000232">
+<persName>Ball, Henry W.</persName>
 </person>
-<person role="attorney_petitioner">
-<persName>Key, Francis Scott</persName>
+<person role="attorney_petitioner" xml:id="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_petitioner" xml:id="per.000044">
+<persName>Morsell, James Sewall</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000023">
 <persName>Law, John</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
 </person>
 </listPerson>
             

@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ben v. Sabrett Scott.</title>
+<title>Ben v. Sabrett Scott. Transcript from Circuit Court</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -46,8 +46,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
-<date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
+<title level="m" type="main">Transcript from Circuit Court</title>
+<date/>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -67,7 +67,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!-- Document Type. See list on website. --></term>
+<term>Transcript</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -79,15 +79,25 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+<term><date when="1810-02">February 1810</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term xml:id="per.001546">Barnes, John</term>
+<term xml:id="per.001555">Brent, Daniel Carroll, 1759-1815</term>
+<term xml:id="per.000004">Cranch, William, 1769-1855</term>
+<term xml:id="per.001543">Duckett, Allen B., 1775-1809</term>  
+<term xml:id="per.000063">Fitzhugh, Nicholas</term>
+<term xml:id="per.001552">Jameson, Richard</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term>Maryland</term>
+<term>Virginia</term>
+<term>West Indies</term>
+<term>Washington County (D.C.)</term>
+<term>Georgetown (Washington, D.C.)</term>
+<term>Washington (D.C.)</term>
 </keywords>
 
 </textClass>
@@ -100,11 +110,14 @@
 <person role="defendant" xml:id="per.000005">
 <persName>Scott, Sabret</persName>
 </person>
-<person role="attorney_petitioner">
-<persName/>
+<person role="attorney_petitioner" xml:id="per.000001">
+<persName>Key, Francis Scott, 1779-1843</persName>
 </person>
-<person role="attorney_defendant">
-<persName/>
+<person role="attorney_defendant" xml:id="per.000044">
+<persName>Morsell, James Sewall</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.000435">
+<persName>Jones, Walter, 1776-1861</persName>
 </person>
 </listPerson>
             
@@ -118,7 +131,7 @@
 </profileDesc>
         
 <revisionDesc>    
-<change when="2022-06" who="#kln">Reviewed.</change>         
+<change when="2022-07" who="#kln">Reviewed.</change>         
 <change when="2022-06-14" who="#ag">Transcribed, encoded.</change>
 </revisionDesc>
 
@@ -245,7 +258,7 @@ Court the 25th day of June 1806. Issued this 17th day of September</p>
 <p>And the said Negro Ben by his solicitor aforesaid at the time of 
 suing forth the aforesaid writ of subpoena filed in Court here this Petition
 against the said Sabritt Scott, which is in the words and of the 
-tenor following towit. 
+tenor following towit.</p> 
 
 <p>To the Honble the Judges of the Circuit Court of the District 
 of Columbia The Petition of Ben (a man of Colour) humbly 
@@ -438,7 +451,7 @@ and District of Columbia proved to my satisfaction that the
 said negro Ben was a resident of the State of Virginia and 
 of the United States three whole years next preceding
 time when the said Mulatto Ben was brought into the State
-of Maryland.  John Barnes. Collector. The John 
+of Maryland. John Barnes. Collector. The John 
 Barnes being at the time of taking the proof and granting 
 certificate aforesaid admitted to have been since the year
 1801, duly appointed by the President of the United States 

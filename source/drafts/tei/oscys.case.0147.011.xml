@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William H. Williams v. James Ash.</title>
+<title>William H. Williams v. James Ash. Transcript from Circuit Court</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Judgment Record Wiliams vs Ash</title>
-<date when="1842-03-04">March 04, 1842</date>
+<title level="m" type="main">Transcript from Circuit Court</title>
+<date when="1842-03-04">March 4, 1842</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!-- Document Type. See list on website. --></term>
+<term>Transcript</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,11 +78,11 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1842-03"><!-- Month Year --></date></term>
+<term><date when="1843-01">January 1843</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term/>  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -90,24 +90,23 @@
 <term>Greenfield, Maria A. </term>
 <term>Thomas Williams</term>
 <term>Lee, Alexander</term>
-<term></term><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Ash, James</persName> 
+<person role="petitioner" xml:id="per.000816">
+<persName>Ash, James</persName>
 </person>
-<person role="defendant"> 
+<person role="defendant" xml:id="per.001145">
 <persName>Williams, William H.</persName>
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/>
 </person>
 </listPerson>
             
@@ -120,8 +119,9 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
-<change when="2022-06-21" who="eml">Transcribed, encoded.</change>
+<revisionDesc>    
+<change when="2022-07" who="#kln">Reviewed.</change>             
+<change when="2022-06-21" who="#eml">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -133,115 +133,282 @@
 <div1 type="case">
 
 <pb xml:id="p001" facs="IMG_3813.jpg"/>
-<p>Washington D. C. U. S.</p>
-<p>No.33</p>
-<p>William H. Williams Plaintiff in Error </p>
+
+<p>Washington C.C.U.S.</p>
+
+<p>No. <del>64.</del> 33.</p>
+
+<p>William H. Williams 
+Plaintiff in Error<lb/>
+vs<lb/>
+James Ash
+Defendant in Error</p>
+
 <p>Transcript Record of Proceedings</p>
-<p>James Ash Defendant in Error</p>
+
 <p>Filed January 13th 1841</p>
-<p>Affirmed with costs </p>
-<p>4 March 1842.</p>
+
+<p>Affirmed with costs<lb/>
+4 March 1842.</p>
+
 <pb xml:id="p002" facs="IMG_3815.jpg"/>
+
 <p>Supreme Court of the United States</p>
-<p>No.64.</p>
-<p>William H. Williams Plaintiff in Error vs James Ash defendent in Error</p>
-<p>In Error to the Circuit Court U.S. for Washington D.C.</p>
+
+<p>No. 64.</p>
+
+<p>William H. Williams 
+Plaintiff in Error<lb/>
+vs<lb/>
+James Ash
+defendant in Error</p>
+
+<p><del>Index</del> In Error to the Circuit Court U.S. for Washington D.C.</p>
+
 <p>Index</p>
-<p>Solution of Plaintiff to the Honorable R.B. Taney Ch:Jus. Supr. Ct. U. States praying for a writ of error Page 1</p>
-<p>Order of Chief Justice directing Sam to open "4</p>
-<p>Writ of Error " 5</p>
-<p>Citation " 6</p>
-<p>Appeal Bond "7</p>
-<p>Style of Court "9</p>
-<p>Parties "9</p>
-<p>Petition for freedom "10</p>
-<p>Defendant appearance &amp;plea of not free "10</p>
-<p>Issue joined &amp; venire facias "10</p>
-<p>Jury Drawn &amp; verdict "11</p>
-<p>Judgement on Verdict "11</p>
-<p> Defendant Bill of Exceptions "11</p>
-<p>Extract from the will of Maud A. J Garfield "12</p>
-<p>Clerk certificate &amp; seal "13</p>
+
+<table>
+<row>
+<cell>Petition of Plaintiff to the Hon R. B. 
+Taney Ch: Jus. Sup. Ct. U. States 
+praying for a Writ of Error</cell>
+<cell>Page 1.</cell>
+</row>
+<row>
+<cell>Order of Chief Justice directing same to issue</cell>
+<cell> " 4.</cell>
+</row>
+<row>
+<cell>Writ of Error</cell>
+<cell> " 5.</cell>
+</row>
+<row>
+<cell>Citation</cell>
+<cell> " 6.</cell>
+</row>
+<row>
+<cell>Appeal Bond</cell>
+<cell> " 7.</cell>
+</row>
+<row>
+<cell>Style of Court</cell>
+<cell> " 9.</cell>
+</row>
+<row>
+<cell>Parties</cell>
+<cell> " 9.</cell>
+</row>
+<row>
+<cell>Petition for freedom</cell>
+<cell> " 10.</cell>
+</row>
+<row>
+<cell>Defendants Appearance &amp; plea of not free</cell>
+<cell> " 10.</cell>
+</row>
+<row>
+<cell>Issue joined &amp; venire facias</cell>
+<cell> " 10.</cell>
+</row>
+<row>
+<cell>Jury Sworn &amp; Verdict</cell>
+<cell> " 11.</cell>
+</row>
+<row>
+<cell>Judgment on Verdict</cell>
+<cell> " 11.</cell>
+</row>
+<row>
+<cell>Defendants Bill of Exceptions</cell>
+<cell> " 11.</cell>
+</row>
+<row>
+<cell>Extract from the Will of Maria A. T. Greenfield</cell>
+<cell> " 12.</cell>
+</row>
+<row>
+<cell>Clerk Certificate &amp; Seal</cell>
+<cell>" 13.</cell>
+</row>
+</table>
+
 <pb xml:id="p003" facs="IMG_3816.jpg"/>
-<p>James Ash vs William H.Williams  Circuit  Court of the District of Columbia for the county of Washington Petition for Freedom.</p>
-<p>Be it remembered that on the first day of May in the year of our Lord one thousand eight hundred and forty judgement by the said court was rendered against the Defendant in the above cause, as appears from the minutes and proceedings of said Court.</p>
-<p>Whereupon the said defendant by John Marbury esquire his Attorney filed in court here the following petition, which appears to have been addressed to the Honorable Roger B Taney Chief Justice of the Supreme Court of the United States in the word &amp;off the <unclear></unclear> following to writ:</p>
-<p>Petition to the Hon. R.B. Taney</p>
-<p>To the Honorable the Ch. Justice of the United States</p>
-<p>The petition of William H. Williams of Washington City in the District of Columbia respectfully shows. That in the month of December last he purchased from Gerrard T. Greenfield, a negro man named James Ash, with notice that the said Greenfield claimed the said negro under the will of Maria A. Greenfield late of Prince Georges County, Maryland, deceased, and that the said Maria had, by a proviso in her will restricted the <del><unclear></unclear></del> right of saw Gerrard to any one or to reserve him from the State of Maryland,a restriction</p>
+
+<fw type="pageNum">1</fw>
+
+<p>James Ash<lb/>
+vs.<lb/>
+William H. Williams</p>
+
+<p>Circuit Court of the District of Columbia for the County of Washington.</p>
+
+<p>Petition for Freedom.</p>
+
+<p>Be it remembered that on the first day of May in the year of Our Lord one thousand eight hundred and forty, Judgment by the said Court was rendered against the Defendant in the above cause, as appears from the minutes and proceedings of said Court.</p>
+
+<p>Whereupon the said Defendant by John Marbury Esquire his Attorney filed in Court here the following petition, which appears to have been addressed to the Honorable Roger B. Taney Chief Justice of the Supreme Court of the United States, in the words &amp; <sic>off</sic> the tenor following, to wit:</p>
+
+<note place="margin">Petition to the Hon. R.B. Taney</note>
+
+<p>To the Honorable the Ch. Justice of the United States of America</p>
+
+<p>The petition of William H. Williams of Washington City in the District of Columbia, respectfully shews. That in the month of December last he purchased from Gerrard T. Greenfield, a negro man named James Ash, with notice that the said Greenfield claimed the said negro under the will of Maria A. Greenfield, late of Prince Georges County, Maryland, deceased, and that the said Maria had, by a proviso in her will restricted the <del>sai</del> right of said Gerrard to any one or to reserve him from the State of Maryland, a restriction
+
 <pb xml:id="p004" facs="IMG_3818.jpg"/>
-<p>Which she in like manner impaled upon the said Gerard as legatee of sixteen other negroes in her said will. Your petitioner was also informed that the said Gerrard had been advised that such restriction upon the right to dispose of the property given him by the said will , being repugnant to the  nature of the estate given, was void, and that his object in selling the negro James Ash was to obtain a judicial decision on that question. the negro James was therefore informed of the sale and an opportunity  given him to commerce a suit for his freedom of the said negro. </p>
-<p>Your petitioner further shows that the said negro James did commence his said suit and the same was tried as the term of the Circuit Court of the District of Columbia for Washington County <del></del> which closed its sittings on Friday the 1st of this month, and the judgement of the said court in said cause being against your petitioners be, finding himself aggrieved thereby, did pray an appeal, but in as much as the said negro is not of the value of one thousand dollars your petitioner cannot have the length of his appeal without an order from one of the justices of the Supreme Court <del></del> directing the same to be allowed. Your petitioner therefore believing that there is error in the judgement of the said Circuit Court in the said cause and that such error involves a question of law,</p>
+
+<fw type="pageNum">2</fw>
+
+which she in like manner imposed upon the said Gerrard as legatee of sixteen other negroes in her said will. Your petitioner was also informed that the said Gerrard had been advised that such restriction upon the right to dispose of the property given him by the said will, being <sic>repugnent</sic> to the nature of the estate given, was void, and that his object in selling the negro James Ash was to obtain a Judicial decision on that question. the negro James was therefore informed of the sale and an opportunity given him to commence a suit for his freedom. Your petitioner was fully indemnified in the event of a decision in favour of the freedom of the said negro.</p>
+
+<p>Your petitioner further shews that the said negro James did commence his said suit, and the same was tried at the term of the Circuit Court of the District of Columbia for Washington County <del>whi</del> <del>on finding</del> which closed its sittings on Friday the 1st of this month, and the judgment of the said Court in said cause being against your petitioner, be, feeling himself <sic>agrieved</sic> thereby, did pray an Appeal, but in as much as the said negro is not of the value of one thousand dollars your petitioner cannot have the benefit of his appeal without an order from one of the Justices of the Supreme Court <del>directed</del> directing the same to be allowed. Your petitioner therefore believing that there is error in the judgment of the said Circuit Court in the said cause, and that such error involves a question of law,
+
 <pb xml:id="p005" facs="IMG_3820.jpg"/>
-<p>important to the slave sates, and therefore of such <del>important</del> extensive interest as to render a final decision of the same by the Supreme Court of the United States desirable respectfully lays before your hand a copy of the proceedings, complained of, and prays, that the same may be considered, and that your Hand would direct such order to the Clerk of the said Circuit Court as will enable your petitioners to reverse the said cause by appeal to the Supreme Court-the will pray-</p>
-<p> And your petitioner asks leave to suggest the following as a sufficient cause why such order should be allowed.</p>
-<p>That in the decision of the case of James Ash the Circuit Court have held virtually that the will of law which would have been applied in the trial often right to any other property inapplicable to a case in which the right of a negro to freedom was involved, it having been exceeded on all hands that if the request had related to other than negro property with a devise over in case of sale or removal the devise over would have been void as depending on a refulgent condition - on if Maria A. Greenfield had, instead of giving freedom to the negroes in the event of their being sold or received given them in such event to some third person that the devise over would have been void for the same reason.</p>
-<p>In additon to which your petition may suggest that the value of the property</p>
+
+<fw type="pageNum">3</fw>
+
+important to the slave states, and therefore of such <del>important</del> extensive interest as to render a final decision of the same by the Supreme Court of the United States desirable, respectfully lays before your Honor a copy of the proceedings complained of, and prays, that the same may be considered, and that your Honor would direct such order to the Clerk of the said Circuit Court as will enable your petitioner to reverse the said cause by appeal to the Supreme Court. &amp; he will pray.</p>
+
+<p>And your petitioner asks leave to suggest the following as a sufficient cause why such order should be allowed.</p>
+
+<p>That in the decision of the case of James Ash, the Circuit Court have held virtually that the rule of law which would have been applied in the trial often right to any other property inapplicable to a case in which the right of a negro to freedom was involved, it having been <sic>conceeded</sic> on all hands, that if the bequest had related to other than negro property with a devise over in case of sale or removal, the devise over would have been void as depending on a repugnant condition. Or if Maria A. Greenfield had, instead of giving freedom to the negroes, in the event of their being sold or removed, given them in such event to some third person that the devise over would have been void for the same reason.</p>
+
+<p>In addition to which your petitioner may suggest that the value of the property
+
 <pb xml:id="p006" facs="IMG_3822.jpg"/>
-<p>effected by the decision of James case is very <del></del> considerable as appears by the clause of the will under which he claims his freedom. he further begs leave to refer to the case of Bradley vs Piexote. 3 Vs:326</p>
-<p>John Marbury for Petitioner</p>
-<p>May 5. 1840</p>
+
+<fw type="pageNum">4</fw>
+
+effected by the decision of James' case is very <del>dif</del> considerable as appears by the clause of the will under which he claims his freedom. he further begs leave to refer to the case of Bradley vs Peixote. 3 Ves: 324.</p>
+
+<p>John Marbury 
+for the Petitioner</p>
+
+<p>May 5. 1840.</p>
+
 <p>Upon the back of the aforegoing petition was the following endorsement to wit:</p>
-<p>To William Brent Clerk of the Circuit Court of the District of Columbia for the county of Washington.</p>
-<p> You are hereby directed to issue the writ of error prayed for in the aforegoing petition upon the terms and conditions prescribed by law.</p>
-<p>District of Maryland Baltimore May 12, 1840</p>
-<p>R.B. Taney Chief Justice of the Supreme Court of the United States.</p>
-<p>Whereupon, in the virtue of the above order the writ of Error issued as prayed, with a citation directed to the sames James Ash and the said William H. Williams, having given bond, as required by law, the following transcript of the record proceedings in the said cause is accordingly transmitted to the Supreme Court of the United States.</p>
+
+<note place="margin">Order of Ch: Justice directing same to issue</note>
+
+<p>To William Brent Clerk of the Circuit Court of the District of Columbia for the County of Washington.</p>
+
+<p>You are hereby directed to issue the Writ of Error prayed for in the aforegoing petition, upon the terms and conditions prescribed by law.</p>
+
+<p>District of Maryland<lb/>
+Baltimore May 12, 1840</p>
+
+<p>R. B. Taney Chief Justice of the Supreme Court of the United States.</p>
+
+<p>Whereupon, in the virtue of the above order the Writ of Error issued as prayed, with a citation directed to the sames James Ash and the said William H. Williams, having given bond, as required by law, the following Transcript of the record proceedings in the said cause is accordingly transmitted to the Supreme Court of the United States.</p>
+
 <pb xml:id="p007" facs="IMG_3823.jpg"/>
+
 <p>United States if America Sct.</p>
-<p>The president of the United States to the judges of the circuit court of the District of Columbia setting for the County of Washington- Greeting.</p>
-<p>Because in the record &amp; proceedings as also in the rendition of the Judgement of a plea, which is in the said Court before you, between James Ash Petitioner, and William H Williams Defendant, a manifest error hath happened to the great damage of the said <del>James Ash</del> William H Williams, as by his complaint, appears. And me being willing that error if any hath been should be duly connected and full and speedy justice done to the parties aforesaid in this behalf, do command you if Judgment be therein given that under your Seal, <unclear></unclear> and openly, you send the Record &amp;proceedings aforesaid with ale things concerning the same to the Supreme Court of the United States together with this writ, so that you have the same <del></del> There on the second Monday of January next in said Supreme Court then there had held. And that the Record &amp; proceedings aforesaid being inspected the said Supreme Court may cause further to be done therein, to connect that error which of right &amp; according to the laws &amp; the custom of the United States should be done. Witness the Hon. Roger B. Taney Issued 14th May 1840</p>
-<p>Wm. Brendhill</p>
+
+<p>The President of the United States</p>
+
+<p>To the Judges of the Circuit Court of the District of Columbia, sitting for the County of Washington, Greeting.</p>
+
+<p>Because in the Record &amp; Proceedings as also in the rendition of the Judgment of a plea, which is in the said Court before you, between James Ash Petitioner, and William H Williams Defendant, a manifest error hath happened to the great damage of the said <del>James Ash</del> William H Williams, as by his Complaint, appears. And we being willing that error if any hath been, should be duly connected and full and speedy justice done to the parties aforesaid in this behalf, do command you if Judgment be therein given, that under your Seal, distinctly and openly, you send the Record &amp; Proceedings aforesaid with all things concerning the same to the Supreme Court of the United States together with this writ, so that you have the same <del>at W</del> there on the Second Monday of January next in said Supreme Court then &amp; there had &amp; held. And that the Record &amp; Proceedings aforesaid being inspected the said Supreme Court may cause further to be done therein, to correct that error which of right &amp; according to the laws &amp; the custom of the United States should be done. Witness the Hon: Roger B. Taney Chief Justice of said Supreme Court. Issued 14th May 1840</p>
+
+<p>Wm Brent Clk</p>
+
 <pb xml:id="p008" facs="IMG_3826.jpg"/>
-<p>Writ of Error filed 14th May 1840</p>
+
+<p>Writ of Error</p>
+
+<p>filed 14th May 1840</p>
+
 <pb xml:id="p009" facs="IMG_3827.jpg"/>
-<p>District of Columbia Sct. The United States of America to James Ash Greeting.</p>
-<p>You are hereby cited and admonished to be and appear at a Supreme Court of the United States on the Second Monday of January next pursuant to a Writ of Error filed in the Clerks office of the Circuit Court of the United States for the Disctrict of Columbia in the county of Washington wherein William H. Williams is plaintiff in error, and you are Defendant in error to show cause if any there be why the judgement rendered against the William H. Williams should not be done to the parties aforesaid in this behalf</p>
-<p> Witness the Hon. Wm. Cranch Chief Justice of the Circuit Court of the District of Columbia <del>Issued this 22nd January 1840</del> Issued this 14th of May 1840</p>
-<p>Wm Cranch.</p>
+
+<p>District of Columbia Sct.<lb/>
+The United States of America<lb/>
+To James Ash Greeting.</p>
+
+<p>You are hereby cited and admonished to be and appear at a Supreme Court of the United States on the Second Monday of January next pursuant to a Writ of Error filed in the Clerks Office of the Circuit Court of the United States for the District of Columbia in the County of Washington wherein William H. Williams is Plaintiff in error, and you are Defendant in error to shew cause if any there be why the Judgment rendered against the William H Williams should not be corrected, and why speedy justice should not be done to the Parties aforesaid in this behalf</p>
+
+<p>Witness the Hon Wm Cranch Chief Judge of the Circuit Court of the District of Columbia.</p>
+
+<p><del>Issued this 22d January 1840.</del> Issued this 14th of May 1840</p>
+
+<p>W. Cranch.</p>
+
 <pb xml:id="p010" facs="IMG_3830.jpg"/>
+
 <p>Citation</p>
-<p>Hilov William 1840</p>
+
+<p>Filed 14 May 1840.</p>
 
 <pb xml:id="p011" facs="IMG_3831.jpg"/>
-<p>Know all men by these presents. That we William H. Williams, Thomas Williams and Alexander Lee all of Washington County in the Disctrict of Columbia, are held and firmly bound onto James Ash, in the just and full sum of five hundred dollars current money. To be paid to the said James Ash, his executors, administrators or assigns, to which payment will and truly to be much and done the <unclear></unclear> ourselves and each of us, our &amp;each of our heirs, executes and administrators, jointly severally firmly by these presents, sealed with our seals and dated this 14th day of May in the year one thousand eight hundred and forty. </p>
+
+<p>Know all men by these presents, that we William H. Williams, Thomas Williams and Alexander Lee all of Washington County in the District of Columbia, are held and firmly bound unto James Ash, in the just &amp; full sum of Five hundred dollars current money, to be paid to the said James Ash, his executors, administrators or assigns, to which payment well and truly to be made and done we bind ourselves and each of us, our &amp; each of our heirs, executors and administrators, jointly severally firmly by these presents, sealed with our seals and dated this 14th day of May in the year one thousand eight hundred and forty. </p>
+
 <p>Whereas lately in a Circuit Court of the District of Columbia, sitting for the County of Washington in a suit depending in the said Court, wherein the said James Ash, was the petitioner, and the said William H. Williams was defendant, judgement was rendered against the said defendant, and he having obtained a writ of error and filed a copy thereof in the Clerks Office of the Circuit Court, To reverse the judgement in the aforesaid suit, and a citation is the said James Ash to be and appear at a Supreme Court if the United States to be and appear at a Supreme Court of the United States, to be filed on the Second Monday of January next.</p>
+
 <p> Now the Conditions of the above obligation is such, that if the said William H. Williams, shall prosecute his said writ with effect, and answer all damages and costs if he fails to make his plea good, then the above obligayion to be null &amp;void, olterurse to be and remain in the full force and virtue of Law</p>
+
 <p>Signed Sealed &amp; Delivered in the Presence of Beryiaruiu Burns Approved W. Cranch</p>
+
 <p> Wm. H. Williams (seal)</p>
+
 <p>Thomas Williams (seal)</p>
+
 <p>Alexander Lee (seal)</p>
+
 <p> Copy test. W. Brushell</p>
+
 <pb xml:id="p012" facs="IMG_3833.jpg"/>
+
 <p>Style of Court</p>
+
 <p> District of Columbia Sc.</p>
+
 <p> At  Circuit Court of the District of Columbia, begun and held in and for the County of Washington, as the City of Washington, on the fourth day of the same month, in the year of our Lord one thousand eight hundred and forty, and of the Independce of the United States the Sixty Fourth</p>
+
 <p>Present</p>
+
 <p> William Cranch Chief Judge </p>
+
 <p> The Honble. Buckner Thruston V James S. Marsell  Asst. Judges</p>
 <p>Alexander Hunter Esquire Marshal </p>
+
 <p>William Breut Clerk.</p>
+
 <p> In the record after the proceedings of the said Court, among others are the following to wit:</p>
+
 <p>James Ash vs. William H Williams </p>
+
 <p>Be it remembered that hereafter to wit: on the nineteenth day of December in the year of our Lord one thousand eight hundred thirty nine, the said James Ash, by Joseph H. Bradley Esq. his attorney filed in the Court here the following petition to wit:</p>
+
 <pb xml:id="p013" facs="IMG_3836.jpg"/>
+
 <p>The Petition of James Ash to the Honorable, the Judges of the Circuit Court of the District of Columbia for the County of Washington</p>
+
 <p>Humbly Showeth that the said James Ash is entitled to his freedom and he hath filed his petition, in Prince Georges County Court &amp; state of Maryland, that the said petition is still pending in the said County of Prince George; that a certain John Grimy hath arrested your petitioner ,and now holds him in the private jail of William H. Williams in the city of Washington.</p>
+
 <p>Your petitioner prays that subpoena may be issued for the said William H. Williams and that your petitioner may have a fair trial of his said petition in your honorable court.</p>
+
 <p> Jos.H. Bradley for Petitioner</p>
+
 <p> Whereupon subpoena issued as prayed, and the said William H. Williams. by John Marbury Esquire , his attorney, comes into Court here, and defends the complaint aforesaid, when and where the said Court shall take the same into consideration and for plea he says that the said Petitioner is not entitled to his freedom as is alleged and of this he puts himself upon the County: and the said petitioner in like manner and so forth. Therefore let a John therein appear before the Court here immediately by whom &amp;c and who neither &amp; recognize because as well &amp; who  being called, come to writ:</p>
+
 <pb xml:id="p014" facs="IMG_3837.jpg"/>
+
 <p>Jury</p>
+
 <p> William W. Waters, Samuel Phillips, Hyam Phusen, Geo M. Phillips, W. C. Orne, Jus. B. Ford, Wm. Clarke, Thomas Onus, John Puedy, John H. Ferguson, A. N. Turner, Jospeh H. Daniels</p>
+
 <p> who being duly elected, empanelled and sworn to say the truth in the premises upon their oath do say, that the said Petitioner is entitled to his freedom, as he above alleges. Therefore it is considered by the Court here, that the said James Ash, the Petitioner aforesaid be free and discharged of and from service of the said William H. Williams, and that the said petitioner go thereof without day. It is further considered by the Court here that the said Petitioner recover against the said William H. Williams the sum of            and          cents, his cost and charges by him about his petition in that behalf laid out and expended &amp;c</p>
+
 <p> Memorandum. Before the judges aforesaid withdrew from the bar of the Court here the said William H. Williams, by his attorney aforesaid filed in the Court here, the following bill of Exceptions to wit:</p>
+
 <p> Defendent Bill of Exceptions</p>
+
 <p>Upon the trial of this cause, the Petitioner by his counsel, to support the issue on his part joined, produced and gave evidence to the jury, the last will and testament of Maria Ann T. Garfield.. hereto answered; and it was admitted</p>
+
 <pb xml:id="p015" facs="IMG_3839.jpg"/>
 
 </div1>
 
-    
 </body>
 </text>
 </TEI>
