@@ -21,6 +21,8 @@ default:
 development:
   data_base: https://cdrhdev1.unl.edu/media
   solr_path: https://cdrhdev1.unl.edu/solr
+  es_path: https://cdrhdev1.unl.edu/elastic
+  es_index: cdrhapidev-v1
 
 production:
   solr_path: https://cors1601.unl.edu/solr
