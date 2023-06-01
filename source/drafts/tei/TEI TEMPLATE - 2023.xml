@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Summons of Henry T. Garnett) --></title>
+<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Judgment Record) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<!-- add you name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
+<!-- add your name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -18,7 +18,7 @@
     
 <editionStmt>
 <edition>
-<date>2022</date>
+<date>2023</date>
 </edition>
 </editionStmt>
             
@@ -45,15 +45,15 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!-- Document Name (e.g. - Summons of Henry T. Garnett) --></title>
+<title level="m" type="main">Judgment Record</title>
 <date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository>National Archives and Records Administration</repository>
-<collection>Record Group 267</collection>
-<idno><!-- Box #, Folder #--></idno><!-- Check Case Spreadsheet for box and folder information. e.g. - Box 33, Folder 691 -->
+<repository></repository>
+<collection></collection>
+<idno></idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -65,8 +65,8 @@
 <term>Case Papers</term>
 </keywords>
     
-<keywords scheme="original" n="subcategory"><!-- Document Type. See list on websitec. -->
-<term/>
+<keywords scheme="original" n="subcategory">
+<term>Judgment Record</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -100,17 +100,17 @@
 <persName><!-- Last Name, First Name --></persName>
 </person>
 <person role="attorney_petitioner">
-<persName/><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/><!-- If needed -->
 </person>
 <person role="attorney_defendant">
-<persName/><!-- If needed; consult website list of attorneys for help; link on Trello. -->
+<persName/><!-- If needed -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>United States. Supreme Court</orgName>
-<placeName>Washington (D.C.)</placeName>
+<orgName></orgName>
+<placeName></placeName>
 </org>
 </listOrg>   
 </particDesc> 
