@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=oscys.mdcase.0019.001oscys.mdcase.0019.001"<!-- file name, check Case Spreadsheet; e.g. - oscys.case.0011.015 -->">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0019.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Judgment Record) --></title>
+<title>Tom v. William M. Robertson. Judgment Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -35,7 +35,7 @@
 </address>
 </distributor>
 <idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check Case Spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="oscys.caseid.0673">></idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -78,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+<term><date when="1793-04">April 1793</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
@@ -113,8 +113,8 @@
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on Case Spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on Case Spreadsheet - e.g. Easton (Md.) --></placeName>
+    <orgName>Maryland. General Court of the Eastern Shore</orgName>
+<placeName>Easton (Md.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,9 +132,10 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="<!-- image name-->.jpg"/>
+<pb xml:id="p001" facs=IMG_8124.jpg"<!-- image name-->.jpg"/>
 
-<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
+<p>And now here on this day
+towit, the second Tuesday of</p>
 
 </div1>
     
