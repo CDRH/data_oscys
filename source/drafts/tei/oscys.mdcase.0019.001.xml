@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0017.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0019.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>William v. Thomas and Zachariah Roberts. Judgement Record</title>
+<title>Tom v. William M. Robertson. Judgment Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-Kevin-Aligah, Grace O.
+<!-- add your name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@ Kevin-Aligah, Grace O.
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscya.mdcase.0017.001</idno>
-<idno type="case">oscys.caseid.0671</idno>
+<idno type="project"><!-- file name - same as xml:id above --></idno>
+<idno type="oscys.caseid.0673">></idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -78,7 +78,7 @@ Kevin-Aligah, Grace O.
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">April 1787</date></term>
+<term><date when="1793-04">April 1793</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
@@ -113,8 +113,8 @@ Kevin-Aligah, Grace O.
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on Case Spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on Case Spreadsheet - e.g. Easton (Md.) --></placeName>
+    <orgName>Maryland. General Court of the Eastern Shore</orgName>
+<placeName>Easton (Md.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -132,9 +132,10 @@ Kevin-Aligah, Grace O.
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="<!-- image name-->.jpg"/>
+<pb xml:id="p001" facs=IMG_8124.jpg"<!-- image name-->.jpg"/>
 
-<p>Memorandum: The defendants in this <unclear> by <unclear> their attornery sued out the state of Maryland's unit of certiorari, the </unclear> whereof ensures in the following words to wit: the state of Maryland to the justices of Queen Ann's County Court greeting: whereas balck William is unjustly and unlawfully detained as a slave by Thomas and Zachariah Roberts of Queen Ann's Country, planters, and praying that a subpoena might <unclear> to </unclear> the attendance of the said Thomas and Zachariah Roberts of  </p>
+<p>And now here on this day
+towit, the second Tuesday of</p>
 
 </div1>
     
