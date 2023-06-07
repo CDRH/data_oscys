@@ -6,7 +6,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Judgment Record) --></title>
+<title>Arthur Savoy and Jane Savoy v. William Bright. Judgment Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check Case Spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.mdcase.0024.001</idno>
+<idno type="case">oscys.caseid.0678</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -74,47 +74,59 @@
 </keywords>
 
 <keywords scheme="original" n="subtype">
-<term>Petition for Freedom</term>
+<term>Petition for Freedom</term> <!--Note: this is an assault case-->
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+<term><date when="1756-11">November 1756</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+
+
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term/><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term>Maryland</term>, 
+<term>Prince George's County (Md.)</term>
+<term>Upper Marlboro (Md.)</term> 
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term/><!-- What was the outcome of the case? e.g. Judgment for Petitioner -->
+<term>Verdict for Defendant</term>
+<term>Judgment for Defendant</term>
+<term>Judgment for Plaintiff for Costs</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
+
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Savoy, Arthur</persName> 
 </person>
+
+<person role="petitioner">
+<persName>Savoy, Jane</persName>
+</person>
+
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Bright, William</persName>
 </person>
 <person role="attorney_petitioner">
-<persName/><!-- If needed -->
+<persName>Darnall, Henry</persName>
 </person>
 <person role="attorney_defendant">
-<persName/><!-- If needed -->
+<persName>Dulany, Daniel</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on Case Spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on Case Spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Maryland. Prince George's County Court</orgName>
+<placeName>Upper Marlboro (Md.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -135,21 +147,96 @@
 <pb xml:id="p001" facs="<!-- image name-->.jpg"/>
 
 <p>
-372
-November Court 1756
-<unclear>County</unclear> on the fourth Tuesday in March <unclear></unclear> and he <unclear>hath</unclear> it, and the same day is given to the same 
-Edward <unclear></unclear> here <unclear></unclear> at which day <unclear>towit</unclear> the fourth Tuesday in March <unclear></unclear> comes here at the
-Town <unclear>and</unclear> before the Justices of the Court here <unclear>as well</unclear> the said Edward as the said William by their attorneys
-<unclear></unclear> and the said William by his attorney <unclear>and</unclear> <unclear>pays further lycence</unclear> thereof to <unclear></unclear> here until the 
-next County Court to be held at Upper <unclear></unclear> Town in said County on the fourth Tuesday in June <unclear>next the hath it</unclear>. The same day is given the same Edward here <unclear></unclear> at which day to wit the
-fourth Tuesday in June <unclear></unclear> comes here at the Town <unclear></unclear> before the Justices of the Court here as well the said Edward as the said William by their attorneys <unclear>and</unclear> the said William by his attorney <unclear></unclear> prays
-for the <unclear>lycence</unclear> thereof to <unclear></unclear> here until the next County Court to be held at Upper <unclear>Marlboro Town</unclear> in said County on the fourth Tuesday in August next <unclear>and</unclear> he hath it, <unclear>and</unclear> the same day is given the same
-Edward here <unclear></unclear>at which day towit the fourth Tuesday in august <unclear></unclear> <unclear>Comes here</unclear> at the Town <unclear>and</unclear>
-before the Justices of the Court here as well the said Edward as the said William by their attorneys <unclear>and and</unclear> the said William by his attorney <unclear>and</unclear> prays for <unclear>then lycence</unclear> thereof to <unclear></unclear> here until the next County Court to be held at upper <unclear>martha Town</unclear>
-on said County on the fourth Tuesday in August next <unclear>and</unclear>  he <unclear>hath</unclear> it, <unclear></unclear> the same day is given the same 
-Edward here
- 
 
+Arthur Savoy &amp; Jane his Wife v William Bright
+Verdict of Judgment for Defendant
+
+Prince Georges County <unclear></unclear> William Bright of Prince Georges County <unclear>Planter</unclear> was attached to answer unto Arthur 
+Savoy &amp; Jane his wife of <unclear></unclear>wherefore with force and <unclear>arms</unclear> of prince Georges County the said William Bright 
+<unclear>or her</unclear> the said Jane an assault did make and her the said Jane did beat Wound and Evilly Treat so that of <unclear>his</unclear>
+life it was greatly despaired and other great <unclear>harmes</unclear> to her did do to the great damage of her the said Jane and
+against the Peace of the Right Honourable the Lord Proprietary and so forth. And whereupon the <unclear>same</unclear>
+Arthur Savoy &amp;Jane his Wife by <unclear>Henry Darnall</unclear> their attorney complains that the afd. William Bright
+the Sixteenth day of November in the year of our Lord one thousand Seven hundred &amp;fifty five <unclear>at</unclear>
+Prince Georges County afd with force and <unclear>arms</unclear> to wit with Firsts, Clubs, Whips, <unclear>Staves</unclear>, teeth &amp;nails <unclear>upon</unclear>
+her the said Jane at the County afd an assault did make and her did Beat wound &amp;evilly Treat <unclear></unclear>
+that of her life it was greatly despaired and other great harmes to her did against the <unclear>Right/Bright</unclear>
+Honourable the Lord Proprietary that now is &amp;ca and to the damage of the said Arthur Savoy &amp;Jane his wife 
+Thirty pounds Current money of Maryland and therefore they bring suit &amp;ca ... Pledges &amp;ca <unclear></unclear> <unclear></unclear>
+and the afd William Bright by Daniel <unclear>Dulany</unclear> his attorney Comes &amp;defends the force and Injury when <unclear></unclear>
+and prays lycence of the Court here to Imparle until the Next County Court to be held at Upper Marlbro
+Town in said County on the fourth Tuesday in March next and <unclear>he hath it</unclear>, and the same day is given to the <unclear>same</unclear>
+Arthur Savoy &amp;Wife here <unclear>Zca.</unclear> at which day towit the fourt Tuesday in March afd. Comes here at the Town <unclear></unclear>
+before the Justices of the Court here as well the said Arthur &amp;wife as the said William by their attorneys afd <unclear></unclear>
+the said William by his attorney afd prays further Lycence thereof to Imparle here until the next County Court <unclear>to be</unclear>
+held at Upper Marlbro Town in said County on the fourth Tuesday in June next <unclear>&amp;he hath it,</unclear> and the same <unclear></unclear>
+is given the same Arthur &amp;wife here <unclear>zca</unclear> at which day towit the fourth Tuesday in June afd. Comes <unclear></unclear>
+at the Town afd. before the Justices of the Court here as well the said Arthur &amp;wife as the said William by 
+their attorneys afd. and the said William by his attorney afd prays further Lycence thereof to Imparle
+here untill the Next County Court to be held at Upper Marlbro Town in said County on the fourth <gap></gap>
+in August next &amp;he hath it and the same day is given the same Arthur Savoy here zca. at which day <gap></gap>
+the fourth Tuesday in August afd. Comes here at the Town afd before the Justices of the Court here as <gap></gap>
+said Arthur &amp; wife as the said William by their Attorneys afd and the said William by his attorney afd 
+
+<pb facs="IMG_7986">
+<fw>November Court 1756</fw>
+<fw>373</fw>
+
+prays further Lycence thereof to Imparle here until the next County Court to be held at Upper Marlbro Town in said
+County on the fourth Tuesday in November Next and he hath it, and the same day is given the same Arthur and
+Wife here zca: at which day to wit the fourth Tuesday in November afd. come here at the Town afd before the Justices of the
+Court here as well the said Arthur &amp;wife as the said William by their attorneys afd and the said Arthur Wife
+by their attorneys afd prays that the said William to <unclear>their Dictaration</unclear> above against him may Answer. And the 
+afd. William by Daniel <unclear>Dulany</unclear> his attorney comes &amp;defends the forces of Injury <unclear>when</unclear> zca. and <unclear>saith</unclear> that he is not 
+guilty of the <unclear></unclear> and assault above said to his Charge, in manner and form as the afd Arthur &amp; James above Complains
+against him, and of this he <unclear></unclear> himself upon the <unclear>Country</unclear> &amp;the afd. Arthur &amp; Jane <unclear>like wises</unclear>, and the afd William
+by leave of the Court here &amp; according to the form of the <unclear>statutes</unclear> in such <unclear>cases</unclear>made &amp; provided, further comes &amp;defends 
+the force of injury when &amp;ca and as to the <unclear>residence</unclear> of the <unclear></unclear> and assault, by the said William in the <unclear></unclear>
+<unclear>whom</unclear> afd above supposed to be done, the said William <unclear>saith</unclear> that the afd Arthur &amp; Jane ought not to have their  
+action afd against him, because he saith, that the afd Jane the day and year in the declaration afd above <unclear></unclear>
+<unclear></unclear> at the County afd with force and arms upon the said William made an assault, and him the said William then 
+&amp;there would have beaten, wounded and evilly treated, <unclear></unclear> the same William then and there had sooner defended 
+himself against the said Jane, and so the said William saith, that if any Damage or Evil then &amp; there <unclear>accrued</unclear> to
+the said Jane, it was of the said Jane's own fault and this the said William is Ready to Verify, wherefore he prays Judgment, 
+if the afd Arthur and Jane ought to have or maintain their action afd against him &amp;ca and the afd
+Arthur &amp;Jane as to all the Residue of the Trespass and assault by the said William in the declaration afd above
+<unclear>supposed</unclear> to be done, <unclear>say</unclear>, that.they. for anything by the said William above <unclear>on</unclear> that behalf by pleading before 
+<unclear>alledged</unclear>, ought not to be precluded from having their action afd thereof against him, because they say. that 
+the afd William of his own <unclear>proper</unclear> <unclear>Wrong</unclear>, and without such <unclear>Causes</unclear>, as by the said William above in that
+<unclear>behalf</unclear> by pleading alledged, made an assault upon the said jane, and her did beat, wound and Evilly
+treat, in manner and form as the afd Arthur &amp;Jane have Complained against the said William and this
+they pray may be <unclear>Inquired</unclear>of the <unclear>Country</unclear>, and the afd William likewise. It is therefore Commanded the
+<unclear>Sheriff</unclear> to wit <unclear>Colmore Beanes</unclear> Gentleman that he <unclear>Cause</unclear> to come here <unclear>Immidiately</unclear> this day to wit the fourth Tuesday 
+in November afd Twelve &amp;ca by <unclear>whom</unclear> &amp;ca and who neither &amp;ca to Recognize &amp;ca because as well &amp;ca and
+the same day is further given the Parties afd an now at this day to with the third Tuesday in November afd
+Comes here again at the Town afd before the Justices of the Court here the Parties afd by their attorneys afd and 
+the jurors thereon <unclear>Impannelled</unclear> being called Namely, Richard Duckett, James Gibbs, William Higgins,
+Robert Whittaker, Paul Talbutt, James Wood, Thomas <unclear>Baden</unclear>, John <unclear>Berry</unclear>, James <unclear>Burgelo</unclear>, James Jones. Daniel <unclear>Frouirer</unclear> &amp; Benjamin Brooke. Likewise Come who to say the <unclear></unclear><unclear></unclear> the <unclear></unclear> being Elected <unclear>Tryed</unclear> and sworn
+do say upon their oath, that the said William is not Guilty of the Trespass and Assault afd in manner and 
+form as the said Arthur &amp; Jane above in their Declaration against him have Complained, therefore the
+said William go without <unclear>day</unclear> <unclear>&amp;</unclear> the said Arthur &amp; Jane in <unclear>Macy</unclear> zca. Whereupon on the prayer of the
+said William by his attorney afd that Judgment on the Verdict afd for him be Rendered, November <unclear>23d</unclear>
+1756. It is <unclear>considered</unclear> by the Court here that the said William Recover against the said Arthur &amp; Jane
+Six Hundred and Fifty Five pounds of Tobacco for his Costs &amp; Charges by him about his <unclear>defense/defence</unclear> in
+this <unclear>part</unclear> sustained by the Court hereof the said Lord the Proprietary of the <unclear></unclear> of the said William
+adjudged that thereof he have Execution <unclear>zca</unclear>: 
+
+Arthur Savoy v William Bright
+Judgment for Plantif for Costs
+Prince Georges County <unclear></unclear> William Brightt of Prince Georges County Planter was attached to answer unto Arthur Savoy
+<unclear></unclear> wherefore with force and arms at Prince Georges County <unclear></unclear> the said William Brightt on him the said Arthur an assault
+did make and him the said Arthur did beat wound and evilly Treat so that of his life <unclear>is was</unclear> greatly <unclear>dispaired</unclear> and other
+great harms to him did do to the great damage of him the said Arthur and against the Peace of the Right
+Honourable the Lord Proprietary and <unclear>soforth</unclear>. And whereupon the same Arthur Savoy by Henry <unclear>Darnall</unclear>
+his attorney complains that the afd William Brightt the sixteenth day of November in the year of our Lord one
+Thousand Seven hundred &amp; fifty five at prince Georges County afd with force &amp; arms to wit Fists, Clubs
+Whips, Staves Teeth &amp;Nails upon him the said Arthur Savoy at the County afd an assault did make
+and him did beat wound &amp;evilly Treat so that of his life it was Greatly despaired and other great
+<unclear>Enormities</unclear> to him did against the peace of the Right Honourable the Lord Proprietary <unclear>thas</unclear> now is
+<unclear>&amp;ca</unclear> and to the damage of the said Arthur Savoy Thirty Pounds Current Money of Maryland
+and <unclear>therefore</unclear> he brings <unclear></unclear> &amp;ca. 
+
+Pledges &amp;ca <unclear>John Doe &amp;</unclear> <unclear>R2. Roe</unclear>
 </p>
 
 </div1>
