@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Judgment Record) --></title>
+<title>Juan Domingo Lopez v. Francis Phillips. Judgment Record</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<!-- add your name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
+ <name n="Mbaukwu, Somi" xml:id="sm">Somi Mbaukwu</name> 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -35,7 +35,7 @@
 </address>
 </distributor>
 <idno type="project">oscys.mdcase.0021.001</idno>
-<idno type="case"><!-- caseid number, check Case Spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="case">oscys.caseid.0675</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Judgment Record</title>
-<date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
+<date when="1770-04-10">April 10, 1770</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -78,19 +78,48 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+<term><date when="1770-04">April 1770</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term> Henry Brown </term>  
+<term> Richard Simms </term>  
+<term> Mary Whitwick </term>  
+<term>William Russell </term>  
+<term> Thomas Russell </term>  
+<term> John Price </term>  
+<term> Andrew Scanoon</term>  
+<term ref = "http://viaf.org/viaf/29889230"> Baltimore, Frederick Calvert, Baron, 1731-1771</term>  
+<term> John Hepburne </term>  
+<term>  Reverdy Ghiselin </term>  
+<term> J.B. Bordley </term>  
+<term> Edward Song  </term>  
+<term> Manuel Antonio  </term>  
+<term> Ogay </term>  
+<term> Franciso</term>  
+<term> Jacob </term>  
+<term> Antonio Troy </term>  
+<term> Joseph </term>  
+<term> Alexander Graham  </term>  
+<term> Hendrick Brown </term>   
+
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term/><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term>Baltimore county </term>  
+<term> Saint Domingo </term>  
+<term> the Island of Hispaniola   </term>  
+<term> the Island of Curacoa </term>  
+<term> Annapolis </term>  
+<term> Saint Jago Dela Vega </term>  
+<term> Kingston  </term>  
+<term> Jamaica  </term>  
+
+
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term/><!-- What was the outcome of the case? e.g. Judgment for Petitioner -->
+<term> Dismissed </term>
 </keywords>
 
 </textClass>
@@ -98,30 +127,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Lopez, Juan Domingo </persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Phillips, Francis</persName>
 </person>
 <person role="attorney_petitioner">
-<persName/><!-- If needed -->
+<persName>Chase, Samuel </persName>
 </person>
 <person role="attorney_defendant">
-<persName/><!-- If needed -->
+<persName>Rumsey, Benjamin </persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on Case Spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on Case Spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Maryland. Provincial Court </orgName>
+<placeName> Annapolis (Md.) </placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+<change when="2023-06-07" who="sm">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,7 +161,7 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="<!-- image name-->.jpg"/>
+<pb xml:id="p001" facs="IMG_7975.jpg"/>
 
 <p> Juan Domingo Lopez against Francis Phillips </p>
 
@@ -164,9 +193,9 @@ was condemned by a Decree of the Court of Vice Admiralty of Jamaica as a prize
 on a Sibel exhibited against her on or about the fourteenth day of May one thousand 
 seven hundred and sixy four.  </p>
 
-<P> That your petitioner has been informed that he with the other negroes 
+<p>That your petitioner has been informed that he with the other negroes 
 taken as Prisoners as aforesaid was by the said Court of Vice Admiralty condemned 
-and to be sold for the benefit of the captors. </P>
+and to be sold for the benefit of the captors </p>
 
 <p> That your petitioner ignorant of such condemnation only by information
  since his arrival into this province, no party to the said Sibel, deprived of the  
@@ -179,7 +208,7 @@ sold him as a slave without his consent to a company called by the name of the
 Principio Company in Baltimore county and who as your petitioner is informed </p>
 
 
- <pb xml:id="p001" facs="<!-- image name-->.jpg"/>
+ <pb xml:id="p002" facs="IMG_7976.jpg"/>
         
 <p>consists of a certain Mary Whitwick, William Russell, Thomas Russell and John 
 Price. Your petititioner further sheweth that he is detained by a certain Francis 
@@ -210,14 +239,14 @@ here comes the said Francis by Benjamin Rumsey his attorney, and the said
 complainant produces to the court here the Right Honourable the Lord Proprietary 
 that now is his Writ of Certiorari in these words, to wit.  </p>
 
-<p>Fredrick absolute Lord and Proprietary of the Provinces of Maryland and 
-avalon Lord Baron of Baltimore and so forth. To the justices and clerk of Baltimore 
+<p>Fredrick Absolute Lord and Proprietary of the Provinces of Maryland and 
+Avalon Lord Baron of Baltimore and so forth. To the justices and clerk of Baltimore 
 county greeting, we being willing for certain causes to be certified of the record and 
 proceedings of a certain petition before you depending between Juan Domingo 
 Lopez complainant and Francis Phillips Defendant. We command you that the 
 record and preceedings of the petition aforesaid with all things thereunto relating as 
 far as before you it remains whatsoever names the parties in the same are distinguis-
-hed to our Justices of your provincial court to be held at annapolis the third Tuesday 
+hed to our Justices of your provincial court to be held at Annapolis the third Tuesday 
 of May next under your hands and seals you send together with this writ that our 
 said Justice may further do therein that which of Right they see ought to be done 
 Witness John Hepburne Esquire one of the Justice of our provincial court the 29th 
@@ -233,7 +262,7 @@ court to be held at annopolis on the third Tuesday of May next </p>
 
         <p>Test  J.B. Bordley, clk</p>
 
-  <pb xml:id="p001" facs="<!-- image name-->.jpg"/>
+  <pb xml:id="p003" facs="IMG_7977.jpg"/>
 
 <p>In Testimony whereof the seal of the county aforesaid is affixed hereto this 
 twentieth day of April anno Domini one thousand seven hundred and 
@@ -250,7 +279,7 @@ aforesaid. Thereupon the said cause is continued until next court. </p>
 <p> At which said next court to wit the seventeenth day of October anno Domini 
 seventeen hundred and sixty nine comes again as well the said Juan Domingo Lopez 
 by his attorney aforesaid as the said Francis Phillips by his attorney aforesaid. 
-Thereupon the said cause is further continued until nect court </p>
+Thereupon the said cause is further continued until next court </p>
 
  <p>At which said next court to wit the tenth day of April anno Domini seventeen
 hundred and seventy comes again as well the said Juan Domingo Lopez by his 
@@ -288,6 +317,53 @@ taken in this cause were severally read upon hearing whereof and what was alledg
 by Mr Advocate General his Honour the judge was pleased to order adjudge and 
 Decree as it is hereby ordered adjudged and decreed that the said Armed sloop 
 or vessell called the Polena her guns tackle furniture ammunition and apparell </p>
+
+<pb xml:id="p004" facs="IMG_7978.jpg"/>
+
+<p>April Term 1770 </p>
+
+<p>and the negroe slaves named Manuel Antonio Jacob Ogay Franciso, Juan 
+Domingo Antonio Toy and Joseph, and the goods wares merchandized and effects on 
+board her taken and seised be confiscated and condemned to our sovereign Lord the 
+King for the use of the captors and that the same may be sold and the price and prices 
+thereof and of every part and parcel thereof be distributed and divided among the said 
+Henry Brown his owners officers and mariners agreeable to their Articles and provision 
+to the statute and his majesty's Declaration and Proclamation for that purpose made
+amd issued</p>
+
+<p>Alex Graham Dep. Regr Cur. Vic Admirl</p> 
+
+<p>Jamaica 1st </p>
+
+<p>I Alexander Graham Esquire Deputy Register and scribe of the
+Acts causes and Businesses of the High Court of Vice Admiralty in and for the Island 
+aforesaid duty admitted and sworn dwelling in the Town of Kingston in the said 
+Island do hereby certify unto all persons to whom these presents shall come or may 
+concen that the sheet of paper writing hereunto annexed marked (A) contains a true 
+and exact copy of the sentence made and pronounced by the Honourable Edward 
+Song Esquire sole judge of the said court on Thursday the fourteenth day of May last 
+against a certain armed sloop on vessell called the Polena (whereof one Hendrick 
+Brown a mulatto man late was master her guns tackle furniture ammunition and 
+apparell and the nregro slave named Manuel Antonio, Ogay, Franciso, Juan 
+Domingo, Antonio Troy and Joseph and also the good wares merchandizes and 
+effects on board her taken and seized by Henry Brown Commander of a certain 
+Brigantine or private vessell of war called the Hawk his officers and marines and 
+that the same hath been by me carefully examined and compared with the original 
+sentence now of record in the said court </p>
+
+ <p>In Testimony of the truth whereof, I the said Alexander Graham have 
+hereunto set my hand (and by order of the Honourbale Edward 
+Song Esqr. sole judge as aforesaid affixed the seal of the 
+said court at Kingston aforesaid this sixteenth day of July 
+in the year of our soul one thousand seven hundred and 
+sixty one </p>
+
+<p>Seal of the Court of Vice Admiralty in the Island of Jamaica</p>
+
+<p> Alexr. Graham Dep. Regr. Cur. Vic Admirl</p>
+
+ <p> Test Reverdy Ghiselin, clk </p>
+
 </div1>
     
 </body>
