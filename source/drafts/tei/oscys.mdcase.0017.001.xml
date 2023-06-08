@@ -10,11 +10,7 @@
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<<<<<<< Updated upstream
-<name n="Kevin-Aligah, Grace O." xml:id="gok">Grace O. Kevin-Aligah</name>
-=======
-<name>Kevin-Aligah, Grace O.</name>
->>>>>>> Stashed changes
+<name n="Kevin-Aligah, Grace O." xml:id="goka">Grace O. Kevin-Aligah</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -50,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Judgment Record</title>
-<date when=" April 1787</date>
+<date when=" 1787-04-10"> April 10 1787</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -82,19 +78,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">April 1787<date></term>
+<term><date when="1787-04">April 1787</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Bordley, James</term>
-<term> Brown, John</term>
-<term> Downes, Vachel</term>
-<term> Hanson Harrison, Robert </term>
-<term> Horman </term>
-<term> Ridgaway, Saml. </term>
- <term>  Sewell, Clement </term>
-<term> Thomas </term>
-<term> Wright, Robert </term>
+<term xml:id="per.006918">Bordley, James</term>
+<term xml:id="per.006920" > Brown, John</term>
+<term xml:id="per.006923"> Downes, Vachel</term>
+<term xml:id="per.006922"> Earle, James</term>
+<term xml:id="per.005383"> Harrison, Robert Hanson, 1745-1790</term>
+<term xml:id="per.006925"> Forman </term>
+<term xml:id="per.006926"> Ridgaway, Samuel. </term>
+ <term xml:id="per.006927">  Sewell, Clement </term>
+<term xml:id="per.006928"> Thomas </term>
+<term xml:id="per.004871"> Wright, Robert </term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
@@ -113,17 +110,18 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>William</persName> 
+<persName xml:id="per.006933" >William</persName> 
 </person>
 <person role="defendant"> 
-<persName>Roberts, Thomas </persName>
-<persName> Roberts, Zacariah </persName>
+<persName xml:id="per.006930">Roberts, Thomas </persName>
+<persName xml:id="per.006931"> Roberts, Zacariah </persName>
 </person>
 <person role="attorney_petitioner">
 <persName> </persName>
 </person>
 <person role="attorney_defendant">
-<persName> Scott, Gustavus </persName>
+<persName xml:id="per.006932"> Scott, Gustavus </persName>
+</person>
 </listPerson>
             
 <listOrg>
@@ -136,7 +134,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+<change when="2023-06-08" who="#goka">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -149,23 +147,23 @@
 
 <pb xml:id="p001" facs="IMG_8189.jpg"/>
 
-<p>Memorandum: The defendants in this cause by Gustavus Scott their attornery sued out the state of Maryland's writ of Certiorari, the tenor whereof ensues in the following words to writ: the state of Maryland to the justices of Queen Anns County Court greeting: whereas Black William hath preferred a petition to you our said Justices humbly showing that he the said William is unjustly and unlawfully detained as a slave by Thomas and Zachariah Roberts of Queen Anns Country, planters, and praying that a subpoena might issue to compel the attendance of the said Thomas and Zachariah Roberts to answer unto him the Petitioner of and upon the Premises and that the Petitioner might be discharged from servitude &amp;c: which said petition is still depending before you in our said court as it is said and we being desirous for certain reasons that the record of the said petition should by you be certified to us: Do command you that you send under your seals the record of the petition <del> and </del> and all the proceedings thereon with all things touching the sources into our general court for the Eastern Shores of this state to be held at Talbot Courty Court house the second Tuesday of September next plainly and distinctly and in as full and ample manner as it more remains before you to gather with this writ so that we may be able thereou to proceed, and to do, what shall appear to us of right ought to be done witness Robert Hanson Harrison esquire chief judge of our said court this twentieth day of April Anno Domini 1784</pb> 
+<p>Memorandum: The defendants in this cause by Gustavus Scott their attornery sued out the state of Maryland's writ of Certiorari, the tenor whereof ensues in the following words to writ: the state of Maryland to the justices of Queen Anns County Court greeting: whereas Black William hath preferred a petition to you our said Justices humbly showing that he the said William is unjustly and unlawfully detained as a slave by Thomas and Zachariah Roberts of Queen Anns Country, planters, and praying that a subpoena might issue to compel the attendance of the said Thomas and Zachariah Roberts to answer unto him the Petitioner of and upon the Premises and that the Petitioner might be discharged from servitude &amp;c: which said petition is still depending before you in our said court as it is said and we being desirous for certain reasons that the record of the said petition should by you be certified to us: Do command you that you send under your seals the record of the petition <del> and </del> and all the proceedings thereon with all things touching the sources into our general court for the Eastern Shores of this state to be held at Talbot Courty Court house the second Tuesday of September next plainly and distinctly and in as full and ample manner as it more remains before you to gather with this writ so that we may be able thereou to proceed, and to do, what shall appear to us of right ought to be done witness Robert Hanson Harrison esquire chief judge of our said court this twentieth day of April Anno Domini 1784</p> 
 
 <pb xml:id="p002" facs="IMG_8190.jpg"/>
 
 <p> issued the 15 day of May 1784.  James Earle Clk</p> 
 <p> At which said second Tuesday of September anno domini one thousand seven hundred and eighty four, being the day of the return of the aforegoing writ the Justices and Clerk of Queen Anns County in compliance with the writ also made return thereof to the Court here with the following record annexed to writ: Maryland to writ, at a County Court held for Queen Anns County at Chester Mill in the said County on the fourth of Tuesday in March being the twenty third day of the same month, and in the year seventeen hundred and eighty four, By the commisioners and officers authorized and impowered to hold the same Court, of whom were present.</p> 
 
-<p> Mr. John Brown, Mr. Clement Sewell, Mr. Vachel Downes, Mr. Thomas, Mr. Horman, Saml. Ridgaway Sheriff Downes CLK:</p> 
+<p> Mr. John Brown, Mr. Clement Sewell, Mr. Vachel Downes, Mr. Thomas, Mr. Forman, Saml. Ridgaway Sheriff Downes CLK:</p> 
 <p> Black William, prefered the following Petition, to writ: </p> 
-<p> To the worshipped the Justices of Queen Ann's County Court The Petition of black William humbly sheweth that he the said William humbly is unjustly and unlawfully detained as a slave by Thomas and Zacariah Roberts of Queen Ann's County planter, your Petitioner therefore prays that a subpeona may issue forth will to compel the attendance of the said Thomas and Zachariah Roberts to answer unto your petitioner of and upon the premises, and that your Petitioner may be discharged from her servitude, and as in duty bound <unclear></p> 
-<p> Robert Wright <unclear> for the Petitioner <gap> William, Petitioner. On reading the above Petition, ordered by the Court here, that the same be granted and that subpena issue forth the writ to compel the attendance of the said Thomas and Zachariah Roberts according to the prayer of the same Petitioner which was accordingly issued, and the Sheriff of Queen Anns Country makes return thereou in the following words, to writ, summoned <unclear> Saml Ridgaway Sheriff, where upon <unclear> same Thomas and Zachariah Roberts appeared in open Court, and recognized in forty pounds current money, conditioned for the appearance of the said black William on the third monday in May next to prosecution </p> 
+<p> To the worshipped the Justices of Queen Ann's County Court The Petition of black William humbly sheweth that he the said William humbly is unjustly and unlawfully detained as a slave by Thomas and Zacariah Roberts of Queen Ann's County planter, your Petitioner therefore prays that a subpeona may issue forth will to compel the attendance of the said Thomas and Zachariah Roberts to answer unto your petitioner of and upon the premises, and that your Petitioner may be discharged from her servitude, and as in duty bound <unclear> </unclear></p> 
+<p> Robert Wright <unclear></unclear> for the Petitioner <gap/> William, Petitioner. On reading the above Petition, ordered by the Court here, that the same be granted and that subpena issue forth the writ to compel the attendance of the said Thomas and Zachariah Roberts according to the prayer of the same Petitioner which was accordingly issued, and the Sheriff of Queen Anns Country makes return thereou in the following words, to writ, summoned <unclear> </unclear> Saml Ridgaway Sheriff, where upon <unclear></unclear> same Thomas and Zachariah Roberts appeared in open Court, and recognized in forty pounds current money, conditioned for the appearance of the said black William on the third monday in May next to prosecution </p> 
 
 <pb xml:id="p003" facs="IMG_8191.jpg"/>
 
-<p> his said Petition for Freedom; and also for their appearance at the same time to defend.</p> <p> The Court adjourns till the third Monday in May next Monday <unclear> May 1784. The Court met according to adjournment Present Mr. John Brown, Mr. James Bordley, Mr. Clement Sewell, Mr. Vachel Downes: Thomas and Zacariah Roberts appear with black William in open court according to the tenor of their recognizance, and was orderd by the Court here to be discharged therefrom, and at the same time the same Thomas and Zacariah Roberts recognized in the sum of forty pounds current money each, conditioned for the appearance of Black William at the next general court to be held for the Eastern Shore in the State of Maryland at Talbot County Court House on the second Tuesday in September next, to prosecute his Petition for Freedom; and also for their appearance at the same time and place to defend.</p> <p> The Court recieved a Certiorari to remove the Petition of black William for freedom and the record of the proceedings thereon, and ordered that the same be transmitted under seal, to the next general court to be held for the Eastern Shore in the State of Maryland. No Testimony that the foregoing is a true copy taken from the records of Queen Anns County afd, I have hereto not my hand and affixed the public seal of the county afd this 2d day of Sept. anno Dom 1784. Downes CLK </unclear></p> 
+<p> his said Petition for Freedom; and also for their appearance at the same time to defend.</p> <p> The Court adjourns till the third Monday in May next Monday <unclear></unclear> May 1784. The Court met according to adjournment Present Mr. John Brown, Mr. James Bordley, Mr. Clement Sewell, Mr. Vachel Downes: Thomas and Zacariah Roberts appear with black William in open court according to the tenor of their recognizance, and was orderd by the Court here to be discharged therefrom, and at the same time the same Thomas and Zacariah Roberts recognized in the sum of forty pounds current money each, conditioned for the appearance of Black William at the next general court to be held for the Eastern Shore in the State of Maryland at Talbot County Court House on the second Tuesday in September next, to prosecute his Petition for Freedom; and also for their appearance at the same time and place to defend.</p> <p> The Court recieved a Certiorari to remove the Petition of black William for freedom and the record of the proceedings thereon, and ordered that the same be transmitted under seal, to the next general court to be held for the Eastern Shore in the State of Maryland. No Testimony that the foregoing is a true copy taken from the records of Queen Anns County afd, I have hereto not my hand and affixed the public seal of the county afd this 2d day of Sept. anno Dom 1784. Downes CLK <unclear></unclear></p> 
 
-<p> and now here at this day, to writ, the said second Tuesday of September anno Dominis, one thousand seven hundred and eighty four, comes into the general court here as well the said Negro William by his attorney afd, as the said Thomas and Zacariah Roberts by their attorney aforesaid: Thereupon further <unclear> of and upon the premises aforesiad between the</p>
+<p> and now here at this day, to writ, the said second Tuesday of September anno Dominis, one thousand seven hundred and eighty four, comes into the general court here as well the said Negro William by his attorney afd, as the said Thomas and Zacariah Roberts by their attorney aforesaid: Thereupon further <unclear></unclear> of and upon the premises aforesiad between the</p>
 
 <pb xml:id="p004" facs="IMG_8192.jpg"/>
 
