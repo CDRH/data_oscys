@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0028.001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="<!-- file name, check Case Spreadsheet; e.g. - oscys.case.0011.015 -->">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Peter, et al. v. Susanna Elliott and Rachell Elliott. Judgment Record.</title>
+<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Judgment Record) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name> n="Krohn, Esme M." xml:id="emk">Esme M. Krohn</name>
+<!-- add your name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="oscys.mdcase.0028.001"></idno>
-<idno type="oscys.caseid.0682"></idno>
+<idno type="project"><!-- file name - same as xml:id above --></idno>
+<idno type="case"><!-- caseid number, check Case Spreadsheet; e.g. - oscys.caseid.0323 --></idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Judgment Record</title>
-<date when="1787-04">April 1787</date>
+<date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -78,50 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1787-04">April 1787</date></term>
+<term><date when="yyyy-mm"><!-- Month Year --></date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Amos</term>
-<term>Andrew</term>
-<term>Carter Jr., Henry</term>
-<term>Cesar</term>
-<term>Daniel</term>
-<term>Darkey</term>
-<term>Dinah</term>
-<term>Downes, H.C.</term>
-<term>Elliott, Susanna</term>
-<term>Elliott, Rachell</term> 
-<term>Elliott, John</term>
-<term>Elliott, Thomas</term>
-<term>Errickson, William</term>
-<term>Esther</term>
-<term>Fann</term>
-<term>Jack</term>
-<term>Job</term> 
-<term>Joe</term>
-<term>Long</term>
-<term>Nan</term>
-<term>Peg</term>
-<term>Peter</term>
-<term>Phillis</term>
-<term>Ridgaway, Sam</term>
-<term>Ringgold, Jacob</term>
-<term>Rose</term>
-<term>Sabina</term>
-<term>Sal</term>
-<term>Sam</term>
-<term>Scott, Gustavus</term>
-<term>Sue</term>
-<term>Violet</term>
-<term>Will</term>
-<term>Wright, Robert</term>
+<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
-<keywords scheme="lcsh" n="places"> 
-<term>Maryland</term>   
-<term>Queen Ann's County</term>
-<term>Kent Island</term>
+<keywords scheme="lcsh" n="places">    
+<term/><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -133,33 +98,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Peter et. al.</persName> 
+<persName><!-- Last Name, First Name --></persName> 
 </person>
 <person role="defendant"> 
-<persName>Elliot, Susanna</persName>
-</person>
-<person role="defendant"> 
-<persName>Elliot, Rachell</persName>
+<persName><!-- Last Name, First Name --></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>Wright, Robert</persName>
+<persName/><!-- If needed -->
 </person>
 <person role="attorney_defendant">
-<persName>Scott, Gustavus</persName>
+<persName/><!-- If needed -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Maryland. General Court of the Eastern Shore</orgName>
-<placeName>Easton (Md.)</placeName>
+<orgName><!-- Name of the Court listed on Case Spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
+<placeName><!-- Location of the Court listed on Case Spreadsheet - e.g. Easton (Md.) --></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="2023-06-08" who="#emk">Transcribed, encoded.</change>
+<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -170,386 +132,12 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="IMG_8170.jpg"/>
+<pb xml:id="p001" facs="<!-- image name-->.jpg"/>
 
-<p>Negroes, Peter, Will, Jack, Amos, 
-Joe, Job, Sam, Cesar, Phillis, Violet, 
-Sabina, Sal, Darkey, Rose, Peg, Nan,
-Esther, Dinah, Andrew, Fann, Sue
-Daniel
-against
-Susanna Elliot &amp; Rachell Elliot 
-Executrix's of John Elliot</p>
-
-<p>
-This Judgment was rendered at September Term 1786.
-Be it remembered that the second
-Tuesday of April to wit on the fourteenth
-day of the same month Anno Domini
-One thousand seven hundred and eighty
-five, the aforesaid Negroes Peter, 
-Will, Jack, Amos, Joe, Job, Sam,
-Cesar, Phillis, Violett, Sabina, Sal
-Darkey, Rose, Peg, Nan, Esther,
-Dinah, Andrew, Fann, Sue, and
-Daniel by Robert Wright their Attorney presented to the Judges of our Gene-
-ral Court here, the following Petition, to wit: To the honorable the Judges
-of the General Court. The Petition of the following Negroes, to wit, Peter
-Will, Jack, Amos, Joe, Job, Sam, Cesar, Phillis Violet, Sabina, Sal,
-Darkey, Rose, Peg, Nan, Esther, Dinah, Andrew, Fann, Sue, Daniel
-</p> 
-
-<pb xml:id="p002" facs="IMG_8171.jpg"/>
-
-<p>humbly sheweth, that they are unjustly detained as Slaves by Susanna
-Elliott and Rachell Elliott, Executrixes of John Elliott, deceased, of Queen
-Ann's County, they therefore pray your honors to grant them a Subpenea
-against the said Susanna and Rachel, to answer to their complaint afd.
-and to give them such Relief herein as to your honors may seem meet,
-to and on Duty eta. Peter, Will, Jack, Amos, Joe, Job, Sam, Cesar
-Phillis, Violet, Sabina, Sal, Darkey, Rose, Peg, Nan, Esther, Dinah
-Andrew, Fann, Sue, Daniel, which being read and heard, mature
-deliberation being thereupon had, it was ruled and ordered by the Court,
-that Summons issue against the said Susanna Elliott and Rachell Elliott,
-Executrixes of John Elliott, for them to appear here this Term to answer
-to the Petition aforesaid, which issued accordingly, and was by the Sheriff
-of Queen Ann's County, to whom the same writ was directed, retured
-endorsed–"Summoned Sam Ridgaway Sheriff–"
-</p>
-<p>
-At which said Court, that is to say, the second Tuesday of April
-Anno Domini one thousand seven hundred and eighty five came as well
-the said Negroes Peter, Will, Jack, Amos, Joe, Job, Sam, Cesar, Phillis,
-Violet, Sabina, Sal, Darkey, Rose, Peg, Nan, Esther, Dinah, Andrew,
-Fann, Sue, and Daniel, by Robert Wright their Attorney as the said
-Susanna Elliott and Rachel Elliott Executrixs of John Elliott by Gusta-
-vus Scott their Attorney, Thereupon it was ordered by the Court here, that
-the said Susanna Elliott, and Rachel Elliott Executors of John Elliott
-enter into Recognizance with good security, that they will not transport the 
-said Negroes Peter, Will, Jack, Amos, Joe, Job, Sam Cesar, Phillis,
-Violet, Sabina, Sal, Darkey, Rose, Peg, Nan, Esther, Dinah, Andrew, Fann
-Sue, and Daniel but shall suffer and permit them the said Negroes 
-to appear at <add>the next General Court, the Scond Tuesday of September to <unclear></unclear> their petition in <unclear></unclear> at </add>
-all times to suffer the said Negroes, on any of them 
-to have reasonable time to advise with their Counsel on their said
-Petition: Whereupon Thomas Elliott of Queen Ann's County present 
-here in Court acknowlege himself to owe and stand justly indebted
-</p>
-
-<pb xml:id="p003" facs="IMG_8172.jpg"/>
-<p>
-unto the State of Maryland in the sum of one thousand pounds current
-money to be made and levied of his body, Goods and chattels, Lands, and 
-Tenements to and for the use of the said State, in case the said Susanna
-Elliott and Rachell Elliott Executrix's of John Elliot shall transport the 
-said Negroes Peter, Will, Jack, Amos, Joe, Job, Sam, Cesar, Phillis, Violet
-Sabina, Sal, Darkey, Rose, Peg, Nan, Esther, Dinah, Andrew, Fann, Sue,
-and Daniel or shall not permit them the said Negroes to appear at the
-next General Court, the second Tuesday of September next to prosecute their
-said Petition for freedom or shall not suffer the said Negroes or any of them
-to have reasonable time to advise with their Counsel, or their said Petition
-and herewith he acknowledges himself to be content: Thereupon the 
-said Cause is Continued until the second Tuesday of September next
-At which said second Saturday of September Anno Domini seventeen
-hundred and eighty five came as well the said Negroes Peter, Will,
-Jack, Amos, Joe, Job, Sam, Cesar, Phillis, Violet, Sabina, Sal, Darkey
-Rose, Peg, Nan, Esther, Dinah, Andrew, Fann, Sue, and Daniel by their Attorney 
-aforesaid, as the aforesaid Susanna Elliott and Rachell Executrix's 
-aforesaid, by their attorney aforesaid; and the said Negroes Peter, Will, 
-Jack, Amos, Joe, Job, Sam, Cesar, Phillis, Violet, Sabina, Sal, Darkey
-Rose, Peg, Nan, Esther, Dinah, Andrew, Fann, Sue, and Daniel by
-their attorney aforesaid files in Court here the following Deed of Manu-
-mission, to wit: Queen Ann's County, to wit; October 20th 1784, The follow-
-ing Instrument of writing was brought to be Recorded, Viz. Know all
-men by these presents, that I John Elliott of Kent Island, Queen Ann's County
-in the State of Maryland, do hereby give and grant full Liberty Freedom
-and Manumission (which Liberty, Freedom and Manumission shall com-
-mence on the twenty fifth day of December next) to each and every 
-one of my Slaves called and known by the names as follow, to wit, Negro
-</p>
-
-<pb xml:id="p004" facs="IMG_8173.jpg"/>
-
-<p>Man Peter aged forty five years, Negro Man Will aged thirty eight years,
-Negro Man Jack aged thirty two, Negro Man Amos aged twenty five, 
-Negro Man Joe aged twenty two, Negro Man Job aged twenty, Negro Lad
-Sam aged nineteen, Negro Lad Cesar aged sixteen, Negro Woman Phillis 
-aged forty nine, Negro woman Violet aged forty seven, negro woman Sabina
-aged thirty one negro woman Sal aged thirty, Negro Woman Darkey aged
-twenty four, Negro Woman Rose aged twenty five, Negro woman Peg aged
-Seventeen, Negro Girl Nan aged fourteen, Negro Girl Esther aged thirteen,
-Negro Girl Dinah aged nine, Negro Boy Andrew aged nine years, Negro
-Girl Fann aged three, Negro Girl Sue aged two years and Six Months, Negro
-boy Daniel aged eight months, Negro boy Isaac aged twelve months–
-Witness my hand and Seal this twenty third day of October seven-
-teen hundred and eighty four.–
-John Elliott
-</p>
-
-<p>Test. Mr. Erickson, Henry Carter Jr.
-I hereby Certify, that on the twenty third day of October seventeen hundred
-and eighty four, John Elliott appeared before me, and acknowledged the within
-Instrument of writing to be his act and Deed for the purposes within mentioned
-Jacob Linggold
-True Copy H.C. Downes Clk.
-</p>
-
-<p>And the aforesaid Susanna Elliott and Rachell Elliott by their Attorney
-aforesaid, produces in Court here William Errickson, who being sworn
-in open Court upon the holy Evangels of Almighty God respecting the subject
-of the above Petition, deposeth, and saith, that he was present on the twenty
-third day of October in the year seventeen hundred and eighty four at the
-Execution of a Deed by John Elliott for the Mannumission of all his
-Negroes, which he said were in number twenty three–That John Elliott
-was at that time in a very low State of Health as a man could well
-be to exist one minute after the other—That the said John Elliott
-on that day kept his Bed, and was not able to set up, and only</p>
-
-<pb xml:id="p005" facs="IMG_8174.jpg"/>
-
-<p> did so for the purpose of signingthe Deed—That he had been in a very
-lingering low way for two Months now or less—That the Deponent can't recollect
-how long he liv'd after this, it might be ten days or a Fortnight—That the
-Deponent lived about a Mile from the said Elliott—That the Deponent
-saw him two or three times or perhaps none after this and before his Death.
-That he heard from him almost every day—That at the time of the Execution
-of the Deed he, the deceased, expected his Death momentarily and seemed to
-hurry those that were about him respecting the Business; for that he expected
-his Fever every moment and when it raised it might kill him, for that he 
-was but a Shell, and upon that Business depended his Salvation—That
-the Deponent had been very intimate with Elliott during his Life, and
-it was Elliott's opinion for the last five years of his Life that his Negroes
-ought to be set free, but he declined doing it because it was against the
-Interest of the Public—That the Deponent believes the mind of Elliott was 
-perfectly composed at the time of the Execution of the Deed, and that the next day
-this Deponent conversed with him upon what he had done, and the deceased
-declared he was extremly pleased and woud not have it otherwise for all the world
-and ten thousand worlds—That the said Elliott never had any such disease—
-after the Execution of the Deed until he died; but the Deponent used to hear of him
-every day and that he was sometimes better in the morning and worse in the Evening
-that the Deponent never saw him out of his Bed after the signing of the Deed;
-till he saw him a Corpse </p>
-
-<p>
-On being cross examined, the Deponent further 
-saith, that he Elliott had been in a low, wasting consumptive State for two
-Months before the above Transaction, That he had not been a hearty Man
-for several years—That the Deponent has heard Elliott often complain
-at the time he executed the Deed, not as a new Complaint, but only
-an Increase of his old Disorder—That the Deponent believes the deceased
-never had a hope of his Recovery after he executed the Deed—That the
-</p>
-
-<pb xml:id="p006" facs="IMG_8175.jpg"/>
-
-<p>Deponent has often heard the deceased, before he executed the Deed, say he
-should rot over it. that he heard him say this in his Room—That two 
-months before he signed the Deed, Elliott used to visit his Neighbours
-now and then, but was in general very much at home, and not fond of going
-abroad—That about a Fortnight before he executed the said Deed, he
-the Deponent heard Elliot say that if all the Negroes coud be sent away,
-he woud very cheerfully set his own free; but thought it coud not be done
-without prejudicing the Public, which which amazed the Deponent more.
-when he <add>so</add> soon after set them free—And further the Deponent saith met.—
-And also produce in Court here Thomas Elliott who being also sworn in open
-Court upon the holy Evangels of Almighty God respecting the Subject aforesaid
-was Executed. He sent for him—That his said Brother was in such a State
-of Health, that he thought he coud not live but a very few days—That the
-said deceased died on the eighth day of November at about eleven o'Clock at
-Night, having executed the Deed on the twenty third day of October—That
-the Deponent saw him two or three times or more between the Execution
-of the Deed and the Death of his Brother That he lived about four miles
-from him, and went to see him as often as he coud, being his only Brother
-That there were markes of an Inflamation about his Throat and breast at the
-time and before he executed the Deed, and that these appeared worse after 
-he died. That the Deponent did not think he coud have lived so Long as he 
-did after he executed the Deed—That the Deponent went to Baltimore
-before the Deed was executed and than thought he never should see his Brother 
-again—That the Marks of the Inflamation appeared to the best of his 
-the Deponents recollections about a Fortnight before he executed the Deed—
-That the said Inflamation in his Thr<add>o</add>at and breast certainly was the cause
-of his Death—The Deponent and his Brother, the Deceased, had frequent
-Conversations together, before he executed the Deed, about the Subject of
-</p>
-
-<pb xml:id="p007" facs="IMG_8176.jpg"/>
-
-<p>manumitting his Negroes—That the deceased was against the mode of setting
-Negroes free; but if they all coud be sent away to same, he should not be
-against it That when he was sick, this Deponent heard him say the same
-thing, and was also much surprised when he was sent for by his Brother
-to find he was about to set his Negroes free—That the mind of his Brother
-must have been weakened when he executed the Deed, but it seemed to be 
-well composed—The Deponent does not know that any person recommended
-this measure to his Brother, but supposed some of the Girls had done so, as 
-they were Methodists—That the Deponent accused two of his Daughters, but
-they denied it, and were against the Proceedings—That the deceased was a member
-of the Church of England—That after the Execution of the Deed untill his death,
-the Deponent believes his Brother never left his room, nor his Bed, except to
-set down by it occasionally whilst they were making up his Bed, and not then
-with out assistance
-</p>
-
-<p>On being cross examined, the Deponent further saith,
-That for some time, perhaps four or five months before he was confined to his
-room, he was in a low State of Health, and was troubled with a Cough
-and Spitting—That—the Deponent imagines it was an Increse of his
-Cough and spitting that was the cause of his death, That he was also in a Decay
-for about the same Time before his Confinement, and had an Inflamation
-in his Throat and Breast, which together with his Cough and spitting occasioned 
-his Death—That the Deponent was with his Brother the day before he died
-and at the time of it—That this Deponent cannot say when he saw his Brother
-for the first time after the Execution of the Deed and before his Death—That it was
-from the information of the Deponent's mother, and being there himself now and 
-then, that he believes his Brother was unable to leave his Bed without
-Assistance—That the Deponent never thought it wourth his while to converse
-with the deceased about the Manumission of his Negroes after he execu-
-ted the Deed, and further this Deponent saith not. 
-</p>
-
-<p>
-And further produces in Court here Henry Carter 
-</p>
-
-<pb xml:id="p008" facs="IMG_8177.jpg"/>
-
-<p>
-who also being sworn in open Court on the holy Evangels respecting the 
-Subject of the above Petition deposeth and saith he was present at the Execution
-of a Deed by John Elliot deceased for the Manumission of all his Negroes which
-deed he believes was Executed on the twenty third day of October last John 
-Elliott's State of health at that time appeared to be very desperate. He
-was then confined to his Bed and unable to move about without help
-or to leave his bed. John Elliot lived afterwards until the 8th day of 
-the November following. This Deponent saw the said John Elliot frequently
-after the Execution of the Deed sometimes twice a day. Sometimes every 
-day, sometimes every other day, he supposes at least 8 or 10 different
-times before his Death, and his State of health appeared to this Deponent
-to be worse and worse every time he was him; and the said John Elliot himself
-told the Deponent frequently in answer to his inquiries about his heath,
-that he was not better. Elliott complained of a Bad Cough &amp; Spitting &amp; an
-inflamation in his throat and Breast. It was thought the inflamation
-killed him and it mortified. his throat was Sore &amp; frequently washed.
-This Deponent lived within about three quarters of a mile of the said
-John Eliot at the time of the Execution of the Deed &amp; untile his Death.
-He believes from what he saw that John Elliot from the time of the Execution
-of the Deed, to the time of his Death, never left his bed, but for the purpose 
-of having it made up, and then not without assistance.—On Cross exam-
-ination this Deponent saith, he hath known John Elliott a long time.
-for five or six months before his death he was poorly, but till about 
-the middle of August, he was able to go a fishing, and that was he believes
-the last time he went a fishing. After that time his health was worse,
-but he used at times to come over to see this Deponent, it being but a 
-little <add>distance</add>. he believes after the middle of August he was not able to go a
-fishing, and he seemd otherwise disposed, and to have be come
-religious; &amp; he believes after this time he continued still worse.–
-</p>
-
-<pb xml:id="p009" facs="IMG_8178.jpg"/>
-<p> and from indisposition cou'd not have gone fishing without fatigue.–
-John Elliot did live about a quarter of a mile from the head of a Creek—
-where he usually kept his Canoe, but when he went fish was further.
-John Elliot was very fond of fishing. He this Deponent never heard John 
-Elliott say any thing about setting his Negroes free, but hath heard him 
-say it would be of bad Consequence to his Neighbour Long, if he set his
-Negroes free. This Deponent thinks John Elliott was confined to his
-house about the beginning of October, and from that time grew worse.
-</p>
-
-<p>
-He was confined to his house from this time, weak &amp; low spirited, but
-moved about from Room to Room &amp; sometimes to the Rooms above
-Stairs. This Deponent did not dis cover that John Elliott's understanding
-was at this time impaired; but whether it was the case at the time
-of the Execution of the Deed, this Deponent cannot undertake to say—
-nor what was the State of his mind from the execution of the Deed,
-to the time of his death. never had any conversation with him
-on that subject afterwards: nor does this Deponent know that
-John Elliot was in a better Disposition of mind after the manu-
-mission, then at the time when it was made; and saith, that
-John Elliott executed his will on the same day, on which he executed
-the deed for the Manumission of his Slaves: but the Will was executed
-last, after dark as this Deponent recollects. The Deed was executed
-pretty late in the Evening. 
-</p>
-
-<p> Thereupon the said Cause was 
-continued until the second Tuesday of April next—At which said
-Second Tuesday of April Anno Domini one thousand seven hundred
-and eight <add>six</add> came again as well the said Negroes Peter, Will, Jack, Amos
-Joe, Job, Sam, Cesar, Phillis, Violet, Sabina, Sal, Darkey, Rose, Peg, 
-Nan, Esther, Dinah, Andrew, Fann, Sue, and Daniel by their Attorney 
-aforesaid, as the said Susanna Elliott and Rachell Elliott by their 
-Attorney aforesaid; and the aforesaid Negroes Peter, Will, Jack, Amos
-</p>
-
-<pb xml:id="p010" facs="IMG_8179.jpg"/>
-
-<p> Joe, Job, Sam, Cesar, Phillis, Violet, Sabina, Sal, Darkey, Rose
-Peg, Nan, Esther, Dinah, Andrew, Fan, Sue, and Daniel by their 
-Attorney aforesaid produces in Court here Doctor Jacob Ringgold
-aged about thirty four years and being sworn in open Court 
-on the Holy Evangels of Almighty God deposeth and saith, <add>on the day that</add> that
-John Elliott executed the Deed of Manumission, a negro slave of Elliott
-came to the deponents house, and told him the deponent that his Master
-Mr. Elliott wanted to see him. The deponent went to Mr. Elliott's the 
-same day, and when he the deponent went into Mr. Elliott's room, he
-informed the deponent, that he Elliott wanted to manumit his Slaves
-and had sent for the deponent, to have it done; the deponent observed,
-to Elliott that it was a matter of Consequence and deserved consideration
-and asked Elliott if he had considered it well that Elliot informed
-him he had.—The deponent saith that he then took a List of his 
-Slaves, retired into another room and drew the deed of Manumission,
-and returned then and read it to him, and asked Elliot if it was
-agreeable to his intentions, who answered it was. The deponent then 
-returned into the room where he drew the deed, to obtain Evidences
-to the deed and called on William Erickson, who at first refused saying
-that he could not think that Mr. Elliott was in his Senses as he had
-expressed great abherience to to measure a few days before, and 
-conceived it to be highly injurious to the Country. The deponent then 
-returned to Mr. Elliott, and told Elliott that there was a suspicion 
-among some of his Neighbours that he Mr. Elliot was not in his
-senses, because that he Mr. Elliot, in a fretfull manner answered
-that such changes could be done in an Instant signifying that it
-was an act of divine providence. The deponent further saith that
-Mr. Elliott said that his conscience was extremely uneasy, and that
-</p>
-
-<pb xml:id="p011" facs="IMG_8180.jpg"/>
-
-<p>
-he could not rest until he had set the Negroes free. The deponent
-saith, that Mr. Elliott, from his conduct and conversation in the
-oppinion of the Deponent, appeared to be perfectly in his senses at 
-the time of the Conversation above mentioned, and also at the time of
-the execution of the said Deed. The deponent then went into the room
-where Mr. Erckson was and informed him that he the deponent thought
-and was perfectly satisfied that Mr. Elliot was perfectly in his senses,
-and prevailed with Mr. Erickson to be a Witness. which he accordingly
-was. The deponent at the time of executing the deed, asked Mr. Elliot
-his complaing who from what he the deponent could collect from Elliot,
-laboured under an inflammation in the breast that Mr. Elliot, had
-laboured under this complaint for some considerable time before;
-The defendant saith that at the time above mentioned he did not
-discover any symptoms of a speedy death, but that he the deponent thought
-there was no hopes of a recovery. The deponent saith that after the execution
-of the deed Mr. Elliott requested him the deponent to draw his Will,
-which he the deponent attempted to do but not pleasing him Mr. Elliott
-declined as it grew late in the day, and obliged Mr. Elliott to set some other
-person to do it. The deponent saith that he was acquainted with Mr. Elliott, 
-seven, eight or nine years before, and he appeared to be an infirm
-person, tho in the opinions of the deponent he Mr. Elliot did not appear 
-to be in a wasting or Consumptive State. The deponent saith that he 
-never saw Mr. Elliott after the day of the execution of the Deed, That
-Mr. Elliott appeared to the deponent to be under steady solid impressions,
-and not under any religious frenzy; but appeared, perfectly in his
-senses and that he Mr. Elliott as the Deponent believes never changed
-his religions, and that Mr. Elliott expressed to the deponent his belief 
-that he should not recover. The deed was executed in the afternoon 
-about four O'Clock.—
-</p>
+<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
 
 </div1>
+    
 </body>
 </text>
 </TEI>
