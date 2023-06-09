@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="<!-- file name, check Case Spreadsheet; e.g. - oscys.case.0011.015 -->">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0025.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Croxton Monday v. Henry T. Garnett. Judgment Record) --></title>
+<title>Daphne, Mary, Adam, Comfort, Tom, Ned, and Stephen v. Frederick Causey. Judgment Record.</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<!-- add your name; e.g. - <name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> -->
+<name n="Chen, Ellis" xml:id="ec">Ellis Chen</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check Case Spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.mdcase.0025.001</idno>
+<idno type="case">oscys.caseid.0679</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Judgment Record</title>
-<date when="<!-- yyyy-mm-dd -->"><!-- June 25, 1810 --></date>
+<date></date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -78,50 +78,79 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm"><!-- Month Year --></date></term>
+<term><date></date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term/><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Earle, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term/><!-- Organize by largest place entity first: States, then Counties, then Cities. -->
+<term>Maryland</term>
+<term>Caroline County (Md.)</term> 
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term/><!-- What was the outcome of the case? e.g. Judgment for Petitioner -->
+<term>Judgment for Petitioner</term> 
 </keywords>
 
 </textClass>
             
 <particDesc>   
-<listPerson>            
+<listPerson>    
+
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Adam</persName> 
 </person>
+
+<person role="petitioner">
+<persName>Comfort</persName> 
+</person>
+        
+<person role="petitioner">
+<persName>Daphne</persName> 
+</person>
+
+<person role="petitioner">
+<persName>Mary</persName> 
+</person>
+
+<person role="petitioner">
+<persName>Ned</persName> 
+</person>
+
+<person role="petitioner">
+<persName>Stephen</persName> 
+</person>
+
+<person role="petitioner">
+<persName>Tom</persName> 
+</person>
+
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Causey, Frederick</persName>
 </person>
+
 <person role="attorney_petitioner">
-<persName/><!-- If needed -->
+<persName>Goldsborough, Robert</persName>
 </person>
+
 <person role="attorney_defendant">
-<persName/><!-- If needed -->
+<persName>Scott, Gustavus</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on Case Spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on Case Spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Maryland. General Court of the Eastern Shore</orgName>
+<placeName>Easton (Md.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+<change when="2023-06-09" who="#ec">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,9 +161,62 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="<!-- image name-->.jpg"/>
+<pb xml:id="p001" facs="IMG_8160.jpg"/>
 
-<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
+<p>
+Mulattoes Daphne 
+Mary Adam Comfort
+Tom Ned &amp;Stephen
+against
+Frederick Causey.
+</p>
+
+<p>
+The State of Maryland. Be it remembered 
+That Mulattoes Daphne, Mary, 
+Adam, Comfort, Tom, Ned, and Stephen 
+to the Court here prefers the following Petition 
+to wit. To the Honourable the Judges of the
+General Court for the Eastern Shore of Maryland
+in Court now sitting The Petition of Mulattoes Daphne, Mary, Adam, 
+Comfort, Tom, Ned, and Stephen Humbly Showeth That your Petitioners
+are held and unjustly detained as Slaves by a certain Frederick Causey
+of Caroline County. Your Petitioners therefore pray your Honors to Issue
+Subpena against the said Frederick Causey to answer unto your Petitioners
+of and upon the Premisses. And that your Petitioner may have such
+relief in the Premisses as to your Honors may seem <unclear>meet </unclear> and your Petitioners
+will ever Pray. Robert Goldsborough Counsel for Petitioners. 
+</p>
+
+<p>
+Which Petition being read and Granted. it is by the said Court ordered
+that Summons issue against the said Frederick Causey for his immediate
+appearance to answer the Complaint of the afd. Petitioners which said Summons
+being Issued and return being made of the same by the Sheriff of Caroline 
+County for the time being that he hath Summoned the afd Frederick 
+Causey to appear and Answer according to the Exigence of the same Summons.
+</p>
+
+<p>
+And the afd Frederick Causey by Gustavus Scott his Attorney comes
+and defends the force and Injury when and so forth and produces to the
+Court his several Witnesses to testify  on his behalf of and upon the Premisses
+And the said Petitioners in like manner and so forth.
+</p>
+
+<p>
+Whereupon all and singular the Premisses being seen and by the Court
+here fully understood and mature deliberation thereon had.
+</p>
+
+<p>
+Therefore It is considered by the Court here that the afd Mulattoes
+Daphne, Mary, Adam, Comfort, Tom, Ned and Stephen be no longer held
+and detained as Slaves by the said Frederick Causey but that they the
+same Mulattoes Daphne, Mary, Adam, Comfort, Tom, Ned and Stephen 
+be and are set by the Court free and at full Liberty from the said Frederick
+Causey to all intents and Purposes whatsoever <unclear></unclear> James Earle Clk
+</p>
 
 </div1>
     
