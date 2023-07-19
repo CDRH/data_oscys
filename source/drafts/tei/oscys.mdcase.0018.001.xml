@@ -10,8 +10,9 @@
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Kevin-Aligah, Grace Ogechi" xml:id="goka">Grace Ogechi Kevin-Aligah</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 <name n="Zuniga, Santiago" xml:id="sz">Santiago Zuniga</name>
-<name n="Kevin-Aligah, Grace Ogechi" xml:id="goka"> Grace Ogechi Kevin-Aligah</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -47,14 +48,14 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Judgment Record</title>
-<date when="1784-09-19">September 19, 1784</date>
+<date when="1787-04-10">April 10, 1787</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Eastern Shore (Judgment Record)</collection>
+<idno>MSA S482-4, S482-6</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -84,23 +85,21 @@
     
 <keywords scheme="lcsh" n="people"> 
 <term xml:id="per.006918">Bordley, James</term>
-<term xml:id="per.006920">Brown, John</term> 
-<term xml:id="per.006919">Byron, James</term> 
+<term xml:id="per.006920">Brown, John</term>  
 <term xml:id="per.006923">Downes, Vachel</term> 
-<term xml:id="per.006922">Earle, James, Jr.</term> 
-<term xml:id="per.006924">Emory, Arthur</term> 
-<term xml:id="per.006925">Forman</term> 
-<term xml:id="per.005383">Harrison, Robert Hanson</term> 
+<term xml:id="per.006922">Earle, James</term> 
+<term xml:id="per.006924">Emory, Arthur, Jr.</term> 
+<term xml:id="per.006925">Forman, Thomas M.</term> 
+<term xml:id="per.005383">Harrison, Robert Hanson, 1745-1790</term>
+<term xml:id="per.006919">O'Byron, James</term> 
 <term xml:id="per.006926">Ridgaway, Samuel</term> 
 <term xml:id="per.006927">Sewell, Clement</term>
-<term xml:id="per.006928">Thomas</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Maryland</term>
-<term>Queen Ann's County</term>
-<term>Talbot County</term>
-<term>Chester Mills</term>
+<term>Queen Anne's County (Md.)</term>
+<term>Talbot County (Md.)</term>
+<term>Chester Mill (Md.)</term> 
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -111,20 +110,20 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName xml:id="per.006929">Rachel</persName> 
+<person role="petitioner" xml:id="per.006929">
+<persName>Rachel</persName> 
 </person>
-<person role="defendant"> 
-<persName xml:id="per.006930">Roberts, Thomas</persName>
+<person role="defendant" xml:id="per.006930"> 
+<persName>Roberts, Thomas</persName>
 </person>
-<person role="defendant"> 
-<persName xml:id="per.006931">Roberts, Zachariah</persName>
+<person role="defendant" xml:id="per.006931"> 
+<persName>Roberts, Zachariah</persName>
 </person>
-<person role="attorney_petitioner">
-<persName xml:id="per.004871">Wright, Robert</persName>
+<person role="attorney_petitioner" xml:id="per.004871">
+<persName>Wright, Robert</persName>
 </person>
-<person role="attorney_defendant">
-<persName xml:id="per.006932">Scott, Gustavus</persName>
+<person role="attorney_defendant" xml:id="per.006932">
+<persName>Scott, Gustavus</persName>
 </person>
 </listPerson>
             
@@ -137,9 +136,10 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>     
+<change when="2023-07-11" who="#kln">Reviewed, edited.</change>          
+<change when="2023-06-08" who="#goka">Reviewed.</change>
 <change when="2023-06-07" who="#sz">Transcribed, encoded.</change>
-<change when="2023-06-08" who="#goka">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -152,55 +152,48 @@
 
 <pb xml:id="p001" facs="IMG_8193.jpg"/>
 
-<p>Memorandum the Defendants in this cause by Gustavus Scott their attorney sued out the State of Maryland's unit of certiorari, the tenor whereof ensues in the following words, towit:</p>
-    
-<p>The State of Maryland To the Justices of Queen Ann's County Greeting:</p>
+<p>Negro Rachel<lb/>
+against<lb/>
+Thomas Roberts and 
+Zachariah Roberts</p>
 
-<p>whereas black Rachel hath prepared a Petition before
+<p>Memorandum the Defendants in this cause by Gustavus Scott their attorney sued out the State of Maryland's writ of Certiorari, the Tenor whereof ensues in the following words, towit: The State of Maryland To the Justices of Queen Ann's County Greeting: Whereas black Rachel hath prefered a Petition before
 you our said Justices humbly shewing that she the said Rachel is unjustly and unlawfully detained as a slave by Thomas and Zachariah
-Roberts of Queen Ann's County, planters, and praying that a subpena might
+Roberts of Queen Anns County, planters, and praying that a Subpena might
 issue forthwith to compel the attendance of the said Thomas and Zachariah
-Roberts to answer unto lieu the Petitioner of and upon the Premises and
-that she the said Petitioner might be discharged from servitude to
-which said Petition is still depending  before you our said Justices in
+Roberts to answer unto her the Petitioner of and upon the Premises and
+that she the said Petitioner might be discharged from servitude &amp;ca
+which said Petition is still depending before you our said Justices in
 our said court as it is said and we being desirous for certain reasons
-that the Record of the said Petition with all proceedings thereon
-had should by you be certified:</p>
-    
-<p>Do command you that you send under your seals the Record of the Petition afd and all the Proceedings
+that the Record of the said Petition with all Proceedings thereon
+had should by you be certified: Do command you that you send under your seals the Record of the Petition afd and all the Proceedings
 thereon with all things touching the same to the Judges of our General
 Court to be held for the Eastern Shore of this State at Talbot County Court
-House the second Tuesday of September next plainly and distinctly</p>
+house the second Tuesday of September next plainly and distinctly
     
 <pb xml:id="p002" facs="IMG_8194.jpg"/>
     
-<p>and distinctly and in as full and ample manner as it now remains before you
+and distinctly and in as full and ample manner as it now remains before you
 together with this writ so that we may be able thereon to proceed and to do what
-shall appear to us of right ought to be done--</p>
+shall appear to us of right ought to be done. Witness Robert Hanson Harrison
+Esqr chief Judge of our said Court this 20. day of April Anno Domini 1784.</p>
+
+<p>Issued 19. June 1784.<lb/>
+James Earle Clk</p>
     
-<p>witness Robert Hanson Harrison
-Esqr chief Judge of our said Court this 20. day of april anno Domini 1784.
-Sued 19 June 1784.</p>
-    
-<p>James Earle Clk:</p>
-    
-<p>At which said day, towit, the second Tuesday of September anno Domini
+<p>At which said day, towit, the second Tuesday of September Anno Domini
 one thousand seven hundred and eighty four, being the day of the return of the
-aforegoing writ the Justices and Clerk of Queen Ann's County in compliance
+aforegoing writ the Justices and Clerk of Queen Anns County in compliance
 with the writ aforesaid make return thereof to the Court here with the following
-Record annexed, towit:</p>
-    
-<p>Maryland towit:</p>
-    
-<p>At a county court held for Queen
-Ann's County at Chester Mills in the said County on the fourth Tuesday
+Record annexed, towit: Maryland towit: At a County Court held for Queen
+Anns County at Chester Mill in the said County on the fourth Tuesday
 in March, being the twenty third day of the same month and in the year
 seventeen hundred and eighty four, By the Commissioners and
 Officers authorized and impowered to hold the same Court of whom
 were Present Mr. John Brown, Mr. Clement Sewell, Mr. Vachel
-Downes, Mr. Thomas Mr. Forman.--</p>
+Downes, Mr. Thomas M. Forman.</p>
     
-<p>Saml. Ridgaway Esq Sheriff.--</p>
+<p>Saml. Ridgaway Esq Sheriff.</p>
     
 <p>Downes Clk</p>
     
@@ -208,138 +201,115 @@ Downes, Mr. Thomas Mr. Forman.--</p>
 
 <p>To the worshipful the Justices of Queen Ann's County Court
 The Petition of black Rachel Humbly sheweth that she the said
-Rachel is unjustly and unlawfully detained as a slave by Thomas &amp; Zachriah
+Rachel is unjustly and unlawfully detained as a slave by Thomas &amp; Zachariah
 Roberts of Queen Ann's County Planters and your Petitioner therefore
-prays that a subpena, may issue forthwith to compel the attendance
+prays that a Subpena may issue forthwith to compel the attendance
 of the said Thomas and Zachariah Roberts to answer unto your Petitioner
-of and whom the Premises and that your Petitioner may be discharged
+of and upon the Premises and that your Petitioner may be discharged
 from servitude, and as in duty bound &amp;c</p>
     
-<p>Rachel Petitioner</p>
-    
-<p>Rob Wright atty for Pettr.</p>
+<p>Rachel Petitioner<lb/>
+Robt Wright Atty for Pettr</p>
 
 <p>On reading the above Petition, ordered by the Court here, that the same be
-granted and that subpena issue forthwith to compel the attendance</p>
+granted and that Subpena issue forthwith to compel the attendance
     
 <pb xml:id="p003" facs="IMG_8195.jpg"/>
 
-<p>of the said Thomas and Zachariah Roberts according to the prayer of the same Petition:</p>
-    
-<p>which was accordingly issued, and the Sheriff of Queen Ann's County
+of the said Thomas and Zachariah Roberts according to the prayer of the same 
+Petition: which was accordingly issued, and the Sheriff of Queen Anns County
 makes return thereon in the following words, towit, Summoned by Saml. Ridgaway
-Sheriff:</p>
-
-<p>whereupon the same Thomas and Zachariah Roberts appeared in
+Shrff: Whereupon the same Thomas and Zachariah Roberts appeared in
 open Court, and Recognized in Forty pounds current money each, conditioned
 for the appearance of the said black Rachel on the third Monday
 in May next to prosecute her said Petition for freedom, and also for
-their appearance at the same time to Defend.--</p>
+their appearance at the same time to Defend.</p>
     
 <p>The Court adjourns till the third Monday in May next
 Monday 17. May 1784. The Court met according to adjournment
 Present Mr. John Brown, Mr. James Bordley, Mr. Clement Sewell,
-Mr. Vachel Downes:</p>
-    
-<p>Thomas and Zachariah Roberts appears
-with black Rachel, in open Court, according to the tenor of their
-Recognizance and was by the court here, ordered to be discharged
-there from, and at the same time the same Thomas and Zachariah Roberts
+Mr. Vachel Downes: Thomas and Zachariah Roberts appears
+with black Rachel, in open Court, according to the Tenor of their
+Recognizance and was by the Court here, ordered to be discharged
+therefrom, and at the same time the same Thomas and Zachariah Roberts
 Recognized in the sum of Forty pounds current money each conditioned
 for the appearance of black Rachel at June Court next, to prosecute
 her Petition of Freedom, and also for their appearance at the same time to
-Defend.--</p>
-    
-<p>Maryland, towit, at a County Court held for Queen Ann's County
+Defend. Maryland, towit, at a County Court held for Queen Anns County
 at Chester Mill in said County the fourth Tuesday in June being the
-twenty second day of the same month and in the year seventeen hundred and eighty four.--</p>
-    
-<p>By commissioners and officers authorized
+twenty second day of the same month and in the year seventeen 
+hundred and eighty four. By commissioners and officers authorized
 and impowered to hold the same Court, of whom were Present
-Mr. John Brown, Mr. James Bordley, Mr. James Bryon, Mr. Clement
-Sewell, Mr. Arthur <unclear>Emory jur</unclear>.</p>
+Mr. John Brown, Mr. James Bordley, Mr. James OBryon, Mr. Clemt
+Sewell, Mr. Arthur Emory jur.</p>
     
-<p>Saml. Ridgaway Esq Sheriff</p>
+<p>Saml. Ridgaway Esq Shrff</p>
     
 <p>Downes Clk</p>
     
-<p>(Thomas)</p>
+<p><catchwords>(Thomas)</catchwords>
     
 <pb xml:id="p004" facs="IMG_8196.jpg"/>    
     
-<p>Thomas and Zachariah Roberts appears with black Rachel, according to the Tenor
+Thomas and Zachariah Roberts appears with black Rachel, according to the Tenor
 of their Recognizance. The Court here received a Certiorari to remove the Petition
-of black Rachel for Freedom and the Record of the Proceedings thereon:</p>
-
-<p>and ordered that the same be Transmitted under Seal to the next General Court to be
-held for the Eastern Shore in the State of Maryland:</p>
+of black Rachel for Freedom and the Record of the Proceedings thereon: and ordered 
+that the same be Transmitted under Seal to the next General Court to be
+held for the Eastern Shore in the State of Maryland: In Testimony 
+that the aforegoing is a true copy taken from the Records of Queen Anns
+County afd I have hereto set my hand and affixed the public Seal of the County
+(Queen Ann's County Sst) afd this 2d day of Septr Anno Dom 1784. Downes Clk:</p>
     
-<p>In Testimony that the aforegoing is a true copy taken from the Records of Queen Ann's
-County afd I have hereto set my hand and affixed the public seal of the County
-afd this 2d. day of Septr. anno Dom 1784. Downes Clk:</p>
-    
-<p>and now here at this day, towit, the said second Tuesday of September anno Domini
+<p>and now here at this day, towit, the said second Tuesday of September Anno Domini,
 one thousand seven hundred and eighty four, comes into the General Court here as
 well the said Negro Rachel by her attorney aforesaid, as the said Thomas and 
-Zachariah Roberts by their attorney aforesaid:</p>
-    
-<p>Thereupon further process of and upon the Premises aforesaid
-between the Parties aforesaid by consent of the said Parties and their attorneys
-aforesaid and by order of the Court here thereon was continued until the
-second Tuesday of April next following.--</p>
+Zachariah Roberts by their attorney aforesaid: Thereupon further process of and 
+upon the Premises aforesaid between the parties aforesaid by consent of the said 
+parties and their attorneys aforesaid and by order of the Court here thereon was 
+continued until the second Tuesday of April next following.</p>
 
 <p>At which said second Tuesday of April anno Domini One thousand
 seven hundred and eighty five came again the parties aforesaid by their
-attorneys aforesaid:</p>
-
-<p>Thereupon further process of and upon the Premises aforesaid
+attorneys aforesaid: Thereupon further process of and upon the Premises aforesaid
 between the Parties aforesaid by consent of the said Parties and their attorneys
 aforesaid and by order of the Court here thereon was continued until the
-second Tuesday of September next following.--</p>
+second Tuesday of September next following..</p>
 
-<p>At which said second Tuesday of April anno Domini One thousand
+<p>At which said second Tuesday of April Anno Domini, One thousand
 seven hundred and eighty five came again the parties aforesaid by their
-attorneys aforesaid:</p>
-
-<p>Thereupon further process of and upon the Premises aforesaid,
+attorneys aforesaid: Thereupon further process of and upon the Premises aforesaid,
 between the Parties aforesaid by consent of the said Parties and their attorneys
 aforesaid and by order of the Court here thereon, was further continued until the
-second Tuesday of September next following.--</p>
-
-<p>At which said second Tuesday of April anno Domini One thousand seven hundered and eighty six, came again the
-parties aforesaid by their attorneys afd:</p>
-    
-<p>Thereupon further process of</p>
-
-<p>|cond|</p>
+second Tuesday of September next following. At which said second Tuesday of April Anno Domini One thousand seven hundred and eighty six, came again the
+parties aforesaid by their attorneys afd: Thereupon further process of 
+<catchwords>and</catchwords>
 
 <pb xml:id="p005" facs="IMG_8197.jpg"/>   
 
-<p>and upon the Premises aforesaid between the parties aforesaid by consent of the said
+and upon the Premises aforesaid between the parties aforesaid by consent of the said
 Parties and their attorneys aforesaid and by order of the Court here thereon was
-continued until the second Tuesday of September then next following.--</p>
+continued until the second Tuesday of September then next following.</p>
 
-<p>At which said second Tuesday of September anno Domini, one
+<p>At which said second Tuesday of September Anno Domini, one
 thousand seven hundred and eighty six, came again the parties aforesaid
-by their attorneys aforesaid :</p>
-
-<p>Thereupon further process of and upon the Premsises aforesaid, between the parties aforesaid, by consent of the
+by their attorneys aforesaid: Thereupon further process of and upon 
+the Premises aforesaid, between the parties aforesaid by consent of the
 said Parties and their attorneys aforesaid and by order of the Court here
-thereon was continued until the second Tuesday of April next following.--</p>
+thereon was continued until the second Tuesday of April next following.</p>
 
-<p>And now here at this day, towit the said
-second Tuesday of April anno Domini, One thousand seven hundred
+<p>And now here at this day, towit, the said
+second Tuesday of April Anno Domini, One thousand seven hundred
 and eighty seven, comes as well the aforesaid Negro Rachel by her
 attorney aforesaid, as the said Thomas and Zachariah Roberts by
 their attorney aforesaid: whereupon all and singular the Premises
 aforesaid and the allegations and Evidences as well on the part and
-of the said Negro Rachel, as also on the part and behalf-
-behalf of the said Thomas and Zachariah Roberts being by the
-Court here seen, heard, fully understood and mature deliberation thereon
+behalf of the said Negro Rachel, as also on the part and behalf
+of the said Thomas and Zachariah Roberts being by the
+Court here seen, heard &amp; fully understood and mature deliberation thereon
 had; It is considered by the Judges here that the Petitioner is intitled
 to her Freedom and that thereof she be free liberated and discharged
-from the Custody and possession of the said Thomas and Zachariah
-Roberts her Master.--</p>
+from the Custody and Possession of the said Thomas and Zachariah
+Roberts her Master.</p>
 
 <p>James Earle Clk:</p>
 

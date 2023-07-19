@@ -10,7 +10,9 @@
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III </principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
+<name n="Childs, Isabelle S." xml:id="isc">Isabelle S. Childs</name>
 <name n="Mbaukwu,Somi L." xml:id="slm">Somi L. Mbaukwu</name> 
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name> 
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -46,7 +48,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Judgment Record</title>
-<date when="1789-05-06"> May 6, 1789 </date>
+<date when="1789-05-06">May 6, 1789</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -78,55 +80,56 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1789-04"> April,1789</date></term>
+<term><date when="1789-04">April 1789</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term xml:id="per.006980" >Cox, Daniel P. </term>
-<term xml:id="per.006981" >Hughes, Maria </term>
+<term xml:id="per.006980">Cox, Daniel P.</term>
+<term xml:id="per.006981">Hughes, Maria</term>
 <term xml:id="per.006941">Dickinson, Henry</term>
-<term  xml:id="per.006922">Earle, James</term>
+<term xml:id="per.006922">Earle, James, Jr.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term> Talbot County (Md.)</term>
+<term>Talbot County (Md.)</term>
 
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term>Judgment for Defendant </term>
+<term>Judgment for Defendant</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName xml:id="per.006978" > Hughes, Levin </persName> 
+<person role="petitioner" xml:id="per.006978">
+<persName>Hughes, Levin</persName> 
 </person>
-<person role="defendant"> 
-<persName xml:id="per.006979">Singleton, John </persName>
+<person role="defendant" xml:id="per.006979"> 
+<persName>Singleton, John</persName>
 </person>
-<person role="attorney_petitioner">
-<persName  xml:id="per.004871">Wright, Robert </persName>
+<person role="attorney_petitioner" xml:id="per.004871">
+<persName>Wright, Robert</persName>
 </person>
-<person role="attorney_defendant">
-<persName xml:id="per.006491"> Hayward, William </persName>
+<person role="attorney_defendant" xml:id="per.006491">
+<persName>Hayward, William</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName> Maryland. General Court of the Eastern Shore </orgName>
-<placeName>Easton (Md.) </placeName>
+<orgName>Maryland. General Court of the Eastern Shore</orgName>
+<placeName>Easton (Md.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
-<change when="2023-06-09" who="sm">Transcribed, encoded.</change>
-<change when ="2023-06-09" who="isc">Reviewed.</change>
+<revisionDesc>      
+<change when="2023-07-19" who="#kln">Reviewed, edited.</change>   
+<change when="2023-06-09" who="#isc">Reviewed.</change>    
+<change when="2023-06-09" who="#slm">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,46 +142,48 @@
 
 <pb xml:id="p001" facs="IMG_8157.jpg"/>
 
-<p>Levin Hughes against John Singleton</p>
+<p>Levin Hughes<lb/> 
+against<lb/> 
+John Singleton</p>
 
 <p>Be it remembered that on the thirteenth 
-day of September Anno Domini Seventeen hundred &amp; 
+day of September Anno Domini seventeen hundred &amp; 
 eighty eight, Levin Hughes, by Robert Wright his Attorney 
-preferred to the court here the following Petition for Freedom 
+preferred to the Court here the following Petition for Freedom, 
 to wit. "To the Honorable the Judges of the General Court. The Petition of Levin 
-Hughes most humbly sheweth that he is unlawfully detained as a slave by a 
-certain John Singleton of Talbot County. Your Petitioner therefore prayes that a 
-writ of subpona may issue against the said John Singleton to appear at this Court 
-to shew cause if any he hath why he detains your said Petitioner in slavery and do 
-therein what to your honors may seem just and right and as &amp; c - Levin Hughes 
-Robert Wright pro plff~ Which said Petition being read and granted it was 
-ordered by the court here, that a subpona should be issued for the said John Single-
-ton to appear before the judges of the Court here immediately to answer to the said Petition
-whereupon command was given to the sheriff of Talbot County to summon John 
+Hughes most humbly sheweth that he is unlawfully detained as a Slave by a 
+certain John Singleton of Talbot County. Your Petitioner therefore <sic>prayes</sic> that a 
+Writ of Subpona may issue against the said John Singleton to appear at this Court 
+to shew cause if any he hath why he detains your said Petitioner in Slavery and do 
+therein what to your honors may seem just and right and as &amp;c. Levin Hughes 
+Robert Wright pro plff. Which said Petition being read and granted it was 
+ordered by the court here, that a Subpona should be issued for the said John Singleton
+to appear before the Judges of the Court here immediately to answer to the said Petition:
+Whereupon command was given to the Sheriff of Talbot County to summon John 
 Singleton Esquire that all excuses and delays set aside he be and appear before the  
-Judges of the General Court now sitting for the Eastern shore of this state at Talbot 
-County Court-House <del>the Second Tuesday</del> immediately to answer the Petition of
+Judges of the General Court now sitting for the Eastern Shore of this State at Talbot 
+County Court-House, <del>the Second Tuesday</del> immediately to answer the Petition of
 Freedom of a certain Levin Hughes and he (the sheriff afd) should not fail at his 
-peril and so forth ~ and the sheriff of Talbot County afd came and made return of 
-the said subpona thus endorsed to wit, "summoned Daniel P Cox shff." ~
-and the said John Singleton by William Hayward his Attorney came here into 
+peril and so forth. And the Sheriff of Talbot County afd came and made return of 
+the said Subpona thus endorsed to wit, "summoned Daniel P Cox Shff."
+And the said John Singleton by William Hayward his Attorney came here into 
 Court, and thereupon day was given by the Court here to the said Parties, to hear the
 allegations and evidence as well on the part and behalf of the said Levin Hughes 
-as the said John Singleton, being the Second Tuesday in April then next following-
+as the said John Singleton, being the Second Tuesday in April then next following.
 And now here at this day to wit the said second Tuesday of April Anno Domini
 One thousand seven hundred and eighty nine, come again the Parties afd by  
 their Attorney afd, and it is agreed that this petitioner is a child of Maria Hughes 
 who Petitioned agt Henry Dickinson to obtain her freedom whose Petition has 
-been dismissed, and that all the evidence in that Case apply to this case</p>
+been dismissed, and that all the evidence in that Case apply to this case.
 
 <pb xml:id="p002" facs="IMG_8158.jpg"/>
 
-<fw>April Term 1789 </fw>
+And the said evidence being previously heard, it is considered by the Court here,
+that the said Petitioner is not entitled to his freedom, and therefore he is remanded again 
+to the service of his master John Singleton. James Earle Clk.</p>
 
-<p>and the said evidence being previously heard, it is considered by the Court here,
-that the said Petitioner is not entitled to his freedom, and therefore he is remanded a 
-gain to the service of his master John Singleton. James Earle Clk.
-Judgment was rendered in this action on the 6th day of May Anno Domini 1789.</p>
+<p>Judgment was rendered in this action on the 6th day of May Anno Domini 1789.</p>
+
 </div1>
     
 </body>

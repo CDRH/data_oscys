@@ -10,7 +10,7 @@
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name> n="Chen, Ellis" xml:id="ec">Ellis Chen</name>
+<name n="Chen, Ellis" xml:id="ec">Ellis Chen</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -82,7 +82,7 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term xml:id="per.006922">Earle, James</term>
+<term xml:id="per.006922">Earle, James, Jr.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">  
@@ -98,32 +98,26 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName xml:id="per.006981">Hughes, Maria</persName> 
+<person role="petitioner" xml:id="per.006981">
+<persName>Hughes, Maria</persName> 
 </person>
-
-<person role="petitioner">
-<persName xml:id="per.007117">Hughes, Daniel</persName> 
+<person role="petitioner" xml:id="per.007117">
+<persName>Hughes, Daniel</persName> 
 </person>
-
-<person role="petitioner">
-<persName xml:id="per.007118">Hughes, Frank</persName> 
+<person role="petitioner" xml:id="per.007118">
+<persName>Hughes, Frank</persName> 
 </person>
-
-<person role="petitioner">
-<persName xml:id="per.007119">Hughes, Lydia</persName> 
+<person role="petitioner" xml:id="per.007119">
+<persName>Hughes, Lydia</persName> 
 </person>
-
-<person role="defendant"> 
-<persName xml:id="per.007122">Dickinson, Henry</persName>
+<person role="defendant" xml:id="per.006941"> 
+<persName>Dickinson, Henry</persName>
 </person>
-
-<person role="attorney_petitioner">
-<persName xml:id="per.006984">Wright, Robert</persName>
+<person role="attorney_petitioner" xml:id="per.006984">
+<persName>Wright, Robert</persName>
 </person>
-
-<person role="attorney_defendant">
-<persName xml:id="per.007120">Scott, Gustavus</persName>
+<person role="attorney_defendant" xml:id="per.007120">
+<persName>Scott, Gustavus</persName>
 </person>
 </listPerson>
             

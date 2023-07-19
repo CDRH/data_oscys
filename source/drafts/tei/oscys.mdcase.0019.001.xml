@@ -10,7 +10,8 @@
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Childs, Isabelle S." xml:id="isc">Isabelle S. Childs</name> <name n="Hope, Gabrielle" xml:id="gh"></name>
+<name n="Childs, Isabelle S." xml:id="isc">Isabelle S. Childs</name>
+<name n="Hope, Gabrielle" xml:id="gh">Gabrielle Hope</name>
 <name n="Nash, Kaci L. " xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
@@ -36,7 +37,7 @@
 </address>
 </distributor>
 <idno type="project">oscys.mdcase.0019.001</idno>
-<idno type="oscys.caseid.0673"></idno>
+<idno type="case">oscys.caseid.0673</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -147,9 +148,9 @@
 </profileDesc>
         
 <revisionDesc>
-<change when="2023-07-13" who="kln">Reviewed, edited.</change>  
-<change when="2023-06-12" who="gh">Reviewed</change>
-<change when="2023-06-07" who="isc">Transcribed, encoded.</change> 
+<change when="2023-07-13" who="#kln">Reviewed, edited.</change>  
+<change when="2023-06-12" who="#gh">Reviewed</change>
+<change when="2023-06-07" who="#isc">Transcribed, encoded.</change> 
 </revisionDesc>
 
 </teiHeader>
