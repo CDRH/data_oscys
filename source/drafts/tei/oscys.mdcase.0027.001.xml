@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.caseid.0681">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0027.001">
     
 <teiHeader>
 <fileDesc>
@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Krohn, Esme M." xml:id="emk">Esme M. Krohn</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="oscys.mdcase.0027.001"></idno>
-<idno type="oscys.caseid.0681"></idno>
+<idno type="project">oscys.mdcase.0027.001</idno>
+<idno type="case">oscys.caseid.0681</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,14 +47,14 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Judgment Record</title>
-<date when="1722-04">April 1722</date>
+<date when="1722-04-10">April 10, 1722</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Maryland State Archives</repository>
+<collection>Provincial Court (Judgment Record)</collection>
+<idno>MSA S551-35</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -81,60 +82,60 @@
 <term><date when="1722-04">April 1722</date></term>
 </keywords>
     
-<keywords scheme="lcsh" n="people"> 
-<term  xml:id="per.007049">Bess</term>
-<term xml:id="per.007039">Beale, Jon </term>
-<term xml:id="per.007051">Bordley, Thomas</term>
-<term xml:id="per.007040">Benson, Edward</term>
-<term xml:id="per.007042">Chapman, William</term>
+<keywords scheme="lcsh" n="people">
+<term xml:id="per.007039">Beale, J. B.</term>
+<term xml:id="per.007040">Benson, Edmund</term>
+<term xml:id="per.007041">Chapman, William</term>
 <term xml:id="per.007043">Dorsey, Caleb</term>
-<term xml:id="per.007044">Forogood, Josias</term> 
-<term xml:id="per.007050">Howard, Ruth</term>
-<term xml:id="per.007045">Jones, Phillip</term>
+<term xml:id="per.007045">Jones, Philip</term>
 <term xml:id="per.007046">Lambert, Anne</term>
 <term xml:id="per.007047">Smith, Samuel</term>
-<term xml:id="per.007048"> Warman, Stephen</term>
+<term xml:id="per.007044">Towgood, Josias</term>
+<term xml:id="per.007048">Warman, Stephen</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Maryland</term>
-<term>Howard County</term>
-<term>Ann Anrundell County</term>
+<term>Anne Arundel County (Md.)</term>
+<term>Howard County (Md.)</term>
+<term>Annapolis (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term>Judgement for neither, but freedom not restored</term> 
+<term>Judgment for Petitioner</term>
+<term>Appealed by Defendant</term>
+<term>Judgment Reversed</term> 
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="petitioner" xml:id="per.007049">
 <persName>Bess</persName> 
 </person>
-<person role="defendant"> 
-<persName>Ruth Howard</persName>
+<person role="defendant" xml:id="per.007050"> 
+<persName>Howard, Ruth</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName/>
 </person>
-<person role="attorney_defendant">
-<persName> Thomas Bordley</persName>
+<person role="attorney_defendant" xml:id="per.007051">
+<persName>Bordley, Thomas</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName></orgName>
-<placeName>Maryland Provincial Court, Annapolis (Md.)</placeName>
+<orgName>Maryland Provincial Court</orgName>
+<placeName>Annapolis (Md.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
-<change when="2023-06-07" who="emk">Transcribed, encoded.</change>
+<revisionDesc>
+<change when="2023-07-20" who="#kln">Reviewed, edited.</change>                  
+<change when="2023-06-07" who="#emk">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -147,119 +148,123 @@
 
 <pb xml:id="p001" facs="IMG_8006.jpg"/>
 
-<p>Ruth Howard vs. Negroe Bess</p>
+<p>TB Ruth Howard<lb/>
+a<lb/>
+Negroe Bess</p>
 
-<p>The Justices of his Lordship's County Court of <unclear></unclear>
-Transmit to the Justices of the Provincial Court 
+<p>The Justices of his Lordships County Court of Ann Arundell
+Transmit to the Justices of the Provinciall Court 
 here the following Record on an Appeal made by the 
-said Ruth Howard from Howard County Court the <unclear></unclear> whereof
-follows in these words viz.–</p>
+said Ruth Howard from the said County Court the Tenr whereof
+follows in these words vizt</p>
 
 <p>In the Records and Proceedings of Ann Arundell County Court amongst
-other things is Contained as follows viz.–</p>
+other things is Contained as follows vizt</p>
 
-<p>Ann Arundell County: At a County Court of the Most Honorable Charles 
-Absolute Lord and <unclear>proxy</unclear> of the Provinces of Maryland and Avalon Lord
-Baron of Baltimore and hold at the City of Annapolis for the County of 
-Ann Arundele the Second Tuesday of June being the thirteenth day of
-the June Month in the Sixth year of his Lordships Dominion
-Anno Dom. 1721 </p>
+<p>Ann Arundell County Sst At a County Court of the Rt Honble Charles 
+Absolute Lord and Propry of the Provinces of Maryland and Avalon Lord
+Baron of Baltimore &amp; held at the City of Annapolis for the County of 
+Ann Arundell the Second Tuesday of June being the thirteenth day of
+the same Month in the Sixth year of his Lordships Domn &amp;ca</p>
 
-<p>Present
-The Worshipfull:
-Mr. Josias Forogood
-Mr. Edwd. Benson
-Mr. Caleb Dorsey
-Mr. Wm. Chapman
-Lord Phillip Jones
-Mr. Samuel Smith
-Court Justices
-J. Beale Clk.
-Stephen Warman Sherr.</p>
+<p>Annoq Dom. 1721</p>
 
-<p>Negroe Bess....
-v. 
-Ruth Howard...</p>
+<p>Present<lb/>
+The Worshipfull<lb/>
+Majr. Josias Towgood<lb/>
+Mr. Edmd. Benson<lb/>
+Mr. Caleb Dorsey<lb/>
+Mr. Wm. Chapman<lb/>
+Capt. Philip Jones<lb/>
+Mr. Samuel Smith Gent Justices<lb/>
+Stephen Warman Sherrf.<lb/>
+J B Beale Clk</p>
 
-<p>On the said Bess's Complaint against the said Ruth Howard 
-to the Court here for her freedom the said Ruth Howard
+<p>Negroe Bess<lb/>
+a<lb/>
+Ruth Howard</p>
+
+<p>On the said Bess's Complaint agt the sd Ruth Howard 
+to the Court here for her <sic>fredom</sic> the said Ruth Howard
 being present in Court. And Whereupon all and Singular
-the allegations <unclear>assailed</unclear> of the Negroe Bess as the said Ruth Howard
-being fully heard in relation to the premises and Mature Deliberation.–
-Moreupon had for that it Seems to the Court here that it was the Designe
-of Mrs. Anne Lambert Deceased the former Mistress of the said Negroe Bess
-that She Should be free at the Age of Twenty five years.– </p>
+the allegations <unclear>assaile</unclear> of the Negroe Bess as the said Ruth Howard
+being fully heard in relation to the premisses and Mature Deliberation.
+Whereupon had for that it Seems to the Court here that it was the <sic>Designe</sic>
+of Mrs. Anne Lambert Deced the former Mistress of the said Negroe Bess
+that She Should be free at the Age of Twenty five years.</p>
 
-<p>It is therefore Considered by the Justices here that the said Negroe 
-Bess be free at the Age of twenty five years.–</p>
+<p>It is therefore Considered by the Justices here that the sd Negroe 
+Bess be free at the Age of twenty five years.</p>
 
 <p>Whereupon the said Mrs. Ruth Howard the Mistress of the said Negroe 
 Bess prays an Appeal from the Judgment of the Court to the next
-Provincal Court to be held for this Province which is granted and the 
-Record ordered to be Transmitted Accordingly–</p>
+Provinciall Court to be held for this Province which is granted and the 
+Record ordered to be Transmitted Accordingly.</p>
 
-<p>In Testimony whereof the Seal of Ann Arundell 
-County is hereunto affixed 
-John Beale Clk. of Ann Arundell County</p>
+<p>(The Seale of Arunll County Court)</p>
+
+<p>In Testimony whereof the Seale of Ann Arundell 
+County is hereunto affixed<lb/> 
+J B Beale Cl of Ann Arundell Coy Court</p>
 
 <pb xml:id="p002" facs="IMG_8007.jpg"/>
 
-<p> And now here at this day to wit the 10 day of October Anno Domini 1721 Comes the said
+<p>And now here at this day to wit the 10th day of October Anno Dom. 1721 Comes the said
 Ruth Howard by Thomas Bordley her attorney in to his Lordships Provinciall Court
-of Maryland before the Justices thereof and Saith that in the Record and process
-aforesaid <unclear></unclear> in the Pondering the Judgement aforesaid this Manifestly End to wit in this
-that the Court having taken upon them to make a Negroe which is by Act of Assembly
-<unclear>of</unclear> this province declared a Slave for Life to become free at Twenty five years–
-<unclear></unclear> Ago Contrary to the Express words of the same Act and to the great
+of Maryland before the Justices thereof and Saith that in the Record and Process
+afd as <sic>alsoe</sic> in the Rendering the Judgement afd tis Manifestly Err'd to wit in this</p>
+
+<p>Imps. That the Court having taken upon them to make a Negroe which is by Act of Assembly
+of this Province declared a Slave for Life to become free at Twenty five years
+of Age Contrary <del>Contrary</del> to the Express words of the same Act and to the great
 Annoyance of his Majestys Christian Subjects within this province by allowing these
-Africans the Enjoyment of Liberty &amp; of Privledges Equal to those of English 
-men whereas the Royall Charter of this province granted by his Majesty–
-progenitors to those of the Lord <unclear>Proxy</unclear> appears to have been for the planting
-an Ample Colony of the English Nation in these parts.–</p>
+Africans the Enjoyment of Liberty &amp; of <sic>Previledges</sic> Equal to those of Englishmen 
+whereas the Royall Charter of this province granted by his Majestys
+Progenitors to those of the Lord Propry appears to have been for the planting
+an Ample Colony of the English Nation in these parts.</p>
 
-<p> In this that the Court Declared the reason of Setting her free was because it seemed 
+<p><unclear>Is</unclear> In this that the Court Declared the reason of Setting her free was because it seemed 
 to them it was the Design of her former Mistress Anne Lambert that She Should
-be free <unclear>etc.</unclear>but that it appears not that the said Anne Lambert had Executed these
-designes whilst it was in her Power to have rendered them Effectuale Nor that 
-Ever she designed to <add>set</add> her free before she Disposed of her to the said Ruth Nor that
+be free &amp;t but that it appears not that the said Anne Lambert had Executed these
+designes whilst it was in her Power to have rendered them Effectuall Nor that 
+Ever she designed to set her free before she Disposed of her to the said Ruth Nor that
 the said Negroe was set free or designed to be set free by her Mistress for that
-time being but by her former Mistress whose Power was Determined.–
-</p>
+time being but by her former Mistress whose Power was Determined.</p>
 
-<p> In this that the said Court ought to have given Judgment against the said Bess
+<p><unclear>Is</unclear> In this that the said Court ought to have given Judgment against the said Bess
 that She Should Continue a Slave and not that She Should be free at twenty five
 years of Age for all which and many Other Errors in the Record and Process
-aforesaid the said Ruth Howard prays that the Judgment be reverst and that She to
-all that She Hereby Lost may be restored that the said Bess to the Errors– 
-aforesaid may rejoin and that the Court will proceed to Examine the same according
-to Law–</p>
+afd the said Ruth Howard prays that that Judgment be reverst and that She to
+all that She thereby Lost may be restored that the said Bess to the Errors 
+afd may Rejoyn and that the Court will proceed to Examine the same according
+to Law &amp;t</p>
 
 <p>Whereupon the said Negro Bess in her proper person
 appears and Says that in the Record and proceedings and also in the 
-rendering Judgement therein it is in nothing Erred and prays that the same
-Judgment may in all things be affirmed and there upon as well the said
-Negroe Bess as the said Ruth Howard by her attorney aforesaid pray the Court of
-the Lord <unclear>Proxy</unclear> here will proceed as well to the Equaniming of the Record
-and proceedings aforesaid as of the Matters above for Errors assigned.
-</p>
+rendering Judgement therein it is in no thing Erred and prays that the same
+Judgment may in all things be affirmed &amp;t and there upon as well the said
+Negroe Bess as the said Ruth Howard by her attorney afd pray the Court of
+the Lord Propry here will proceed as well to the Examining of the Record
+and proceedings afd as of the Matters above for Errors assigned &amp;t.</p>
 
 <p>Whereupon for that the Court here are not advised of their Judgment of
 and upon the premises day is given to the said parties to hear thereof
-their Judgment until next Court for that the said Court as yet are not
-At which said next Court to wit 10 day of Anno Dom 1782 Come again in as well
-the said Ruth Howard by her attorney and the said Negro Bess in hers.
-</p>
+their <del>Jug</del> Judgment untill next Court for that the said Court as yet are not &amp;t</p>
+
+<p>At which said next Court to wit the 10th day of Anno Dom 1722 Comes again in as well
+the said Ruth Howard by her attorney afd as the said Negro Bess in her <gap extent="one word" reason="incomplete image"/>
 
 <pb xml:id="p003" facs="IMG_8008.jpg"/>
 
-<p> And whereupon all and Singular the premises being by the Court now
+And whereupon all and Singular the premises being by the Court now
 soon heard fully understood and Mature Deliberation whereupon had 
-It is Considered by the Justices here the 10 day of April Anno
-Dom 1722 aforesaid that the Judgment aforesaid for the Error aforesaid be <unclear></unclear>
-Annulled and altogether hold for None and that the said Ruth Howard
-too all things that thereby She hath lost be Restored 
-And it is further Considered that the Said Negroe Bess Continue a Slave
-to the said Ruth Howard during her life. </p>
+It is Considered by the Justices here the 10th day of April Anno
+Dom 1722 afd that the Judgment afd for the Errors afd be reversed
+Annulled and altogether held for None and that the said Ruth Howard
+too all things that thereby She hath lost be Restored &amp;t</p>
+ 
+<p>And it is further Considered that the Said Negroe Bess Continue a Slave
+to the said Ruth Howard during her life.</p>
 
 </div1>
     

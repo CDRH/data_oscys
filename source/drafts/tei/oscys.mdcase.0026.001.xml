@@ -11,6 +11,7 @@
 <respStmt>
 <resp>transcription and encoding</resp>
 <name n="Chen, Ellis" xml:id="ec">Ellis Chen</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="oscys.mdcase.0026.001"></idno>
-<idno type="oscys.caseid.0680"></idno>
+<idno type="project">oscys.mdcase.0026.001</idno>
+<idno type="case">oscys.caseid.0680</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -51,9 +52,9 @@
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Eastern Shore (Judgment Record)</collection>
+<idno>MSA S482-8</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -116,8 +117,11 @@
 <person role="attorney_petitioner" xml:id="per.006984">
 <persName>Wright, Robert</persName>
 </person>
-<person role="attorney_defendant" xml:id="per.007120">
+<person role="attorney_defendant" xml:id="per.006932">
 <persName>Scott, Gustavus</persName>
+</person>
+<person role="attorney_defendant" xml:id="per.004664">
+<persName>Martin, Luther</persName>
 </person>
 </listPerson>
             
@@ -130,7 +134,8 @@
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
+<revisionDesc>  
+<change when="2023-07-20" who="#kln">Reviewed, edited.</change>             
 <change when="2023-06-09" who="#ec">Transcribed, encoded.</change>
 </revisionDesc>
 
@@ -144,69 +149,72 @@
 
 <pb xml:id="p001" facs="IMG_8155.jpg"/>
 
-<p>
-Maria, Daniel, Frank 
-and Lydia Hughes
-against
-Henry Dickinson
+<p>Maria, Daniel, Frank 
+and Lydia Hughes<lb/>
+against<lb/>
+Henry Dickinson</p>
 
-Be it remembered that at September Term Anno Domini Seventeen hundred and eighty 
+<p>Be it remembered that at September Term 
+Anno Domini Seventeen hundred and eighty 
 seven, on the thirteenth day of the same Month,
 the following Petition for freedom was by Robert
 Wright attorney for the said Maria, Daniel, Frank
 and Lydia Hughes preferred to the Court here to wit. "To the Honourable the Judges
 of the General Court. The Petition of Bridget alias Maria Hughes Daniel Hughes 
-Frank Hughes and Lydia Hughes most humbly showeth that they are unlawfully
-detained as slaves by a certain Henry Dickinson of Caroline County
-Your Petitioners therefore pray that a Subpena may issue against the said Henry
-Dickinson to appear at this Court to show cause if any he hath why he detains 
+Frank Hughes and Lydia Hughes most <del>most</del> humbly sheweth that they are unlawfully
+detained as Slaves by a certain Henry Dickinson of Caroline County
+Your Petitioners therefore pray that a Subpoena may issue against the said Henry
+Dickinson to appear at this Court to shew cause if any he hath why he detains 
 your said Petitioners in Slavery, and do therein what to your honours may
-seem just &amp; right and as &amp;ca - Daniel Hughes Frank Hughes
-Robert Wright <unclear>Pro Petio</unclear> Lydia Hughes — "
-Which Petition being read and granted it was ordered by the Court here that 
-a Subpena be issued for the said Henry Dickinson to appear on the second Tuesday
+seem just &amp; right and as &amp;c.</p> 
+
+<p>Robert Wright pro peters</p>
+
+<p>Daniel Hughes Frank Hughes Lydia Hughes"</p>
+
+<p>Which Petition being read and granted it was ordered by the Court here that 
 of April then next whereupon command was given to the Sheriff of Caroline
+County to summon Henry Dickinson, that all excuses and delays set aside he be
+a Subpoena be issued for the said Henry Dickinson to appear on the second Tuesday
+of April then next, whereupon command was given to the Sheriff of Caroline
 County to summon Henry Dickinson, that all excuses and delays set aside he be
 and appear before the Judges of our Genl. Court on the secondary Tuesday of April then
 next, to answer the Petition of Maria, Daniel Frank and Lydia Hughes preferred agt.
-him for freedom and that he should have then and there that <unclear></unclear> summons.
+him for freedom and that he should have then and there that <del>writ</del> summons.
 At which said second Tuesday of April in the year Seventeen hundred and eighty 
-eight here came the said Petitioners by their Attorney aforesaid and the sheriff of
+eight here came the said Petitioners by their Attorney aforesaid and the Sheriff of
 Caroline County aforesaid to whom the said summons was directed came and
 made return that he could not summon the said Henry Dickinson as by the 
-said Subpena he was commanded; and thereupon it was again ordered by the 
-Court here, that <unclear></unclear> another Subpena should be issued for the said Henry to be and
+said Subpoena he was commanded; and thereupon it was again ordered by the 
+Court here, that <del>the</del> another Subpoena should be issued for the said Henry to be and
 appear before the Judges of our said Court on the second Tuesday of September, then next
-to answer and soforth as above: whereupon command was given to the Sheriff
-of Caroline County to summon Henry Dickinson, that all causes and delays be 
+to answer and soforth as above: Whereupon command was given to the Sheriff
+of Caroline County to summon Henry Dickinson, that all excuses and delays be 
 set aside, he be and appear before the Judges of our said General Court on the second
-</p>
 
 <pb xml:id="p002" facs="IMG_8156.jpg"/>
 
-<fw>April Term 1789.</fw>
-<fw>331</fw>
-
-<p>
 Tuesday of September then next; to answer to the Petition of Maria, Daniel, Frank
-and Lydia Hughes, preferred against him for freedom, and that the said sheriff
-should have then and there that subpena — At which said second Tuesday of
+and Lydia Hughes, preferred against him for freedom. and that the said sheriff
+should have then and there that subpoena. At which said second Tuesday of
 September in the year seventeen hundred and eighty eight, here come again the said
 Petitioners by their Attorney aforesaid; and the Sheriff of Caroline County aforesaid
-to whom the same Subpena was directed came and made return to the Court here
-that he had summoned the said Henry as by the same subpena he was commanded
+to whom the same Subpoena was directed came and made return to the Court here
+that he had summoned the said Henry as by the same Subpoena he was commanded;
 and thereupon came into court the said Henry Dickinson by Gustavus Scott and 
-Luther Martin his Attorneys: whereupon day was given by the Court here to the said
-parties, to hear the <sic>alegations</sic> and evidence as well on the part and behalf of the said
-Petitioners; as the said Henry until the second Tuesday of April then next following.
-And now here at this day to wit, the said second Tuesday of April, in the year
-One thousand seven hundred and eighty nine come again the Parties afd by their 
-Attorneys afd, and upon hearing the Petition, the allegations of each Party, and
-the Testimony by each <unclear>adduced</unclear> it is considered by the Court that the Petitioners
-are not entitled to their Freedom and therefore they are remaned again to the service of their master Henry Dickinson. James Earle Clk:
-Judgment was <unclear>rendered</unclear> in this action on the 6th day of May Anno Domini 1789.
-</p>
+Luther Martin his Attorneys: Whereupon day was given by the Court here to the said
+Parties, to hear the <sic>alegations</sic> and evidence as well on the part and behalf of the said
+Petitioners; as the said Henry until the second Tuesday of April then next following.</p>
 
+<p>And now here at this day to wit, the said second Tuesday of April, in the year
+One thousand seven hundred and eighty nine come again the Parties afd by their 
+Attorneys af'd, and upon hearing the Petition, the allegations of each Party, and
+the Testimony by each adduced it is considered by the Court that the Petitioners
+are not entitled to their Freedom and therefore they are remanded again to the service of their master Henry Dickinson.</p>
+
+<p>James Earle Clk:</p>
+
+<p>Judgment was rendered in this action on the 6th day of May Anno Domini 1789.</p>
 
 </div1>
 </body>
