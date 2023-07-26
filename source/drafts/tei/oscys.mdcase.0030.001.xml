@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0030.001"/>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.mdcase.0030.001">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Joseph v. James Birchhead</title>
+<title>Joseph v. James Birckhead</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Kevin-Aligah, Grace Ogechi" xml:id="goka">Grace Ogechi Kevin-Aligah</name> -->
+<name n="Kevin-Aligah, Grace Ogechi" xml:id="goka">Grace Ogechi Kevin-Aligah</name>
+<name n="Nash, Kaci L." xml:id="kln">Kaci L. Nash</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +35,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"> oscys.mdcase.0030.001</idno>
-<idno type="case">oscys.caseid.0685 --></idno>
+<idno type="project">oscys.mdcase.0030.001</idno>
+<idno type="case">oscys.caseid.0685</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,14 +47,14 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Judgment Record</title>
-<date when="<1794-09-10>"><September 10, 1794></date>
+<date when="1794-09-10">September 10, 1794</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
 <msIdentifier>
-<repository></repository>
-<collection></collection>
-<idno></idno>
+<repository>Maryland State Archives</repository>
+<collection>General Court of the Eastern Shore (Judgment Record)</collection>
+<idno>MSA S482-15</idno>
 </msIdentifier>
 </msDesc>
 </sourceDesc>
@@ -82,49 +83,49 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Chase, Samuel</term>
-<term xml:id="per.006922> Earle, James</term>
+<term xml:id="per.001514">Chase, Samuel, 1741-1811</term>
+<term xml:id="per.006922">Earle, James, Jr.</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Maryland</term>
-<term>Talbot County</term>
-<term>Easton</term>
+<term>Talbot County (Md.)</term>
+<term>Easton (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term/><Judgment for Petitioner: Freed>
+<term>Judgment for Petitioner</term>
 </keywords>
 
 </textClass>
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName xml:id="per.006974">Joseph</persName> 
+<person role="petitioner" xml:id="per.007126">
+<persName>Joseph</persName> 
 </person>
-<person role="defendant"> 
-<persName>Birchhead, James</persName>
+<person role="defendant" xml:id="per.007127"> 
+<persName>Birckhead, James</persName>
 </person>
-<person role="attorney_petitioner">
-<persName/> Waggaman, Henry</person>
+<person role="attorney_petitioner" xml:id="per.007128">
+<persName>Waggaman, Henry</persName>
 </person>
-<person role="attorney_defendant">
-<persName/>Hammond, Nicholas </person>
+<person role="attorney_defendant" xml:id="per.007129">
+<persName>Hammond, Nicholas</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>< Maryland. General Court of the Eastern Shore</orgName>
-<placeName><Easton (Md.)></placeName>
+<orgName>Maryland. General Court of the Eastern Shore</orgName>
+<placeName>Easton (Md.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
-<revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change>
+<revisionDesc> 
+<change when="2023-07-26" who="#kln">Reviewed, edited.</change>
+<change when="2023-06-12" who="#goka">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -135,19 +136,32 @@
                
 <div1 type="case">
 
-<pb xml:id="p001" facs="<IMG_8145.jpg"/>
+<pb xml:id="p001" facs="IMG_8145.jpg"/>
 
-<p>The Plantiff by Henry Waggaman his attorney preferred to the Judge of our general Court a filed the following Petition, to writ.</p>
-<p>To the honrble the Judges of the general court. </p>
-<p>The Petition of negro Jospeh humbly sheweth- That your Petitioner is illegally held in slavery by a certain James Birchhead of Talbot County wherefore your Petitioner prays that your honour's would grant him such relief in the premises as to your honours shall seem right and your Petitioner as in duty bound will even pray"- And thereupon by order of the Court a subpena was issued for the afd James Birchhead, which ensues in form following "The State of Maryland" To the Sheriff of Talbot Country greeting: We command you to appear immediately before the Judges of the general court now sitting at Easton, to answer the petition of Negro Joseph prefergainst the said James Birchhead for freedom. Hereof fail not at your <unclear>peril</unclear> and have you then and there their writ. Witness the honorable Samuel Chase Esquire chief Judge for the said Court the tenth day of Sept. Anno Domini 1793. </p>
-<p>Issued 12 day of Sept. 1793                                       James Earle Junr CLK</p>
-<p>Whereupon the sheriff of Talbot County to whom the said summons was directed made return that</p>
+<p>Negro Joseph<lb/>
+against<lb/>
+James Birckhead</p>
 
-<pb xml:id="p002" facs="<IMG_8146.jpg"/>
-<p>summoned the said James Birchhead, as by the same subpeona he was required, and the said James Birchhead by Nicholas Hammond his attorney came into court; and the said Nicholas Hammond attorney for the said James as afd, a filed in court here the following letter, to wit: "To the Honorble the judges of the general court gentlemen A negro fellow of mine named Joseph having petitioned for his freedom request your honours to enter judgmt for the Petitioner. I have the honour to be gentlemen your James Birchhead  </p>
-<p> 17th Sept 1793</p>
-<p>Whereupon the process of &amp; upon the premises between the Parties afd was continued by the Court, until the second Tuesday of April then next following &amp; so forth. At which said second Tuesday of April, to wit in the year seventeen hundred &amp; ninety four, here came again into Court the Parties afd by their Attys afd and thereupon the process upon the the premises between the parties afd, was further continued by the Court, until, the second Tuesday of September then next following.   And now at this day, to writ. The said second Tuesday of September in the year Seventeen hundred &amp; ninety four, here come again into Court the Parties afd by their attorneys afd  and thereupon the process upon  the premises between the parties afd, was further continued by the Court until the second Tuesday of September then next following.     And now at this day, to writ. The ssaid second Tuesday of September in the year seventeen hundred and ninety four, here come again into Court the Petition afd by their attorneys afd: Whereupon all &amp; singular the premises between the parties afd being by the Court here seen, heard &amp; fully understood and mature deliberation thereon had It is considered by the Court that the said Negro Joseph <add> is entitled to his freedom that he</add> be forthwith discharged, dismissed &amp; forever freed from the service of the said James Birkhead, and also that he recover against the said James Birchhead the quantity of five hundred thirty one pounds of tobacco for his costs &amp; charges in this behalf expended: and that the said James Birchhead be in money &amp;c  James Earle Junr CLK </p>
-<p>Judg. for the Petitioner was rendered on the tenth day of September in the year seventeen hundred ninety four. </p>
+<p>The Plantiff by Henry Waggaman his Attorney preferred to the Judge of our General Court &amp; affiled the following Petition, to wit.</p>
+
+<p>"To the Honble the Judges of the General Court.</p>
+
+<p>The Petition of negro Joseph humbly sheweth. That your Petitioner is illegally held in slavery by a certain Jas Birckhead of Talbot County wherefore your Petitioner prays that your <sic>honour's</sic> would grant him such relief in the premises as to your honours shall seem right and your Petitioner as in duty bound will even pray." And thereupon by order of the Court a subpoena was issued for the afd James Birckhead, which ensues in form following towit "The State of Maryland To the Sheriff of Talbot Country Greeting: We command you to summon immediately before the Judges of the General Court now setting at Easton, to answer the Petition of Negro Joseph prefered against the said James <sic>Burkhead</sic> for freedom. Hereof fail not at your peril and have you then and there their writ. Witness the honourable Samuel Chase Esquire chief Judge for the said Court the tenth day of Septr Anno Domini 1793.</p>
+
+<p>Issued 12 day of Septr 1793.<lb/>
+James Earle junr Clk.</p>
+
+<p>Whereupon the Sheriff of Talbot County to whom the said Summons was directed made return <unclear>thereto</unclear>
+
+<pb xml:id="p002" facs="IMG_8146.jpg"/>
+
+summoned the said James Birckhead, as by the same subpoena he was required, and the said James Birckhead by Nicholas Hammond his attorney came into Court, and the said Nicholas Hammond Attorney for the said James as afd, affiled in Court here the following Letter, to wit. "To the Honble the Judges of the General Court Gentlemen A negro fellow of mine named Joseph having Petitioned for his Freedom I request your honours to enter Judgmt for the Petitioner. I have the honour to be Gentlemen your Hble Servt James Birckhead.<lb/>
+17th Septr 1793.</p>
+
+<p>Whereupon the process of &amp; upon the premises between the Parties afd was continued by the Court, until the second Tuesday of April then next following &amp; so forth. At which said second Tuesday of April, to wit in the year Seventeen hundred &amp; ninety four, here came again into Court the Parties afd, by their Attys afd, and thereupon the process upon the premises between the parties afd, was further continued by the Court until the second Tuesday of September then next following. And now at this day, to wit. The said second Tuesday of September in the year Seventeen hundred &amp; ninety four, here come again into Court the Parties afd by their attorneys afd: Whereupon all &amp; singular the premises between the Parties afd being by the Court here seen, heard &amp; fully understood and mature deliberation thereon had It is considered by the Court that the said Negro Joseph is entitled to his freedom &amp; that he be forthwith discharged, dismissed &amp; forever freed from the service of the said James Birkhead, and also that he recover against the said James Birckhead the quantity of five hundred &amp; thirty one pounds of Tobacco for his costs &amp; charges in this behalf expended: and that the said James Birckhead be in mercy &amp;c  James Earle junr Clk</p>
+
+<p>Judgt for the Petitioner was rendered on the tenth day of September in the year seventeen hundred &amp; ninety four.</p>
+
 </div1>
     
 </body>
