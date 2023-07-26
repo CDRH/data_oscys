@@ -83,47 +83,22 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term xml:id="per.007052">Amos</term>
-<term xml:id="per.007070">Andrew</term>
-<term xml:id="per.007075">Carter Jr., Henry</term>
-<term xml:id="per.007059">Cesar</term>
+<term xml:id="per.007075">Carter, Henry, Jr.</term>
 <term xml:id="per.007076">Cockey, Susanna</term>
-<term xml:id="per.007073">Daniel</term>
-<term xml:id="per.007064">Darkey</term>
-<term xml:id="per.007069">Dinah</term>
-<term xml:id="per.007078">Downes, H.C.</term>
-<term xml:id="per.007079">Elliott, Susanna</term>
-<term xml:id="per.007080">Elliott, Rachell</term> 
+<term xml:id="per.007078">Downes, Charles</term>
+<term xml:id="per.006922">Earle, James, Jr.</term>
 <term xml:id="per.007081">Elliott, John</term>
 <term xml:id="per.007082">Elliott, Thomas</term>
-<term xml:id="per.007083">Erickson, William</term>
-<term xml:id="per.007068">Esther</term>
-<term xml:id="per.007071">Fann</term>
+<term xml:id="per.007083">Earickson, William</term>
 <term xml:id="per.007074">Isaac</term>
-<term xml:id="per.007055">Jack</term>
-<term xml:id="per.007057">Job</term> 
-<term xml:id="per.007056">Joe</term>
-<term xml:id="per.007067">Nan</term>
-<term xml:id="per.007066">Peg</term>
-<term xml:id="per.007053">Peter</term>
-<term xml:id="per.007060">Phillis</term>
-<term xml:id="per.007084">Ridgaway, Sam</term>
+<term xml:id="per.007084">Ridgaway, Samuel</term>
 <term xml:id="per.007085">Ringgold, Jacob</term>
-<term xml:id="per.007065">Rose</term>
-<term xml:id="per.007062">Sabina</term>
-<term xml:id="per.007063">Sal</term>
-<term xml:id="per.007058">Sam</term>
-<term xml:id="per.006932">Scott, Gustavus</term>
-<term xml:id="per.007072">Sue</term>
-<term xml:id="per.007061">Violet</term>
-<term xml:id="per.007054">Will</term>
-<term xml:id="per.006984">Wright, Robert</term>
 </keywords>
 
-<keywords scheme="lcsh" n="places"> 
-<term>Maryland</term>   
-<term>Queen Ann's County</term>
-<term>Kent Island</term>
+<keywords scheme="lcsh" n="places">   
+<term>Queen Ann's County (Md.)</term>
+<term>Baltimore (Md.)</term>
+<term>Kent Island (Md.)</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -134,19 +109,82 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
-<persName>Peter et. al.</persName> 
+<person role="petitioner" xml:id="per.007053">
+<persName>Peter</persName> 
 </person>
-<person role="defendant"> 
+<person role="petitioner" xml:id="per.007054">
+<persName>Will</persName> 
+</person>
+<person role="petitioner" xml:id="per.007055">
+<persName>Jack</persName> 
+</person>
+<person role="petitioner" xml:id="per.007052">
+<persName>Amos</persName> 
+</person>
+<person role="petitioner" xml:id="per.007056">
+<persName>Joe</persName> 
+</person>
+<person role="petitioner" xml:id="per.007057">
+<persName>Job</persName> 
+</person>
+<person role="petitioner" xml:id="per.007058">
+<persName>Sam</persName> 
+</person>
+<person role="petitioner" xml:id="per.007059">
+<persName>Cesar</persName> 
+</person>
+<person role="petitioner" xml:id="per.007060">
+<persName>Phillis</persName> 
+</person>
+<person role="petitioner" xml:id="per.007061">
+<persName>Violet</persName> 
+</person>
+<person role="petitioner" xml:id="per.007062">
+<persName>Sabina</persName> 
+</person>
+<person role="petitioner" xml:id="per.007063">
+<persName>Sal</persName> 
+</person>
+<person role="petitioner" xml:id="per.007064">
+<persName>Darkey</persName> 
+</person>
+<person role="petitioner" xml:id="per.007065">
+<persName>Rose</persName> 
+</person>
+<person role="petitioner" xml:id="per.007066">
+<persName>Peg</persName> 
+</person>
+<person role="petitioner" xml:id="per.007067">
+<persName>Nan</persName> 
+</person>
+<person role="petitioner" xml:id="per.007068">
+<persName>Esther</persName> 
+</person>
+<person role="petitioner" xml:id="per.007069">
+<persName>Dinah</persName> 
+</person>
+<person role="petitioner" xml:id="per.007070">
+<persName>Andrew</persName> 
+</person>
+<person role="petitioner" xml:id="per.007071">
+<persName>Fann</persName> 
+</person>
+<person role="petitioner" xml:id="per.007072">
+<persName>Sue</persName> 
+</person>
+<person role="petitioner" xml:id="per.007073">
+<persName>Daniel</persName> 
+</person>
+<person role="defendant" xml:id="per.007079"> 
 <persName>Elliot, Susanna</persName>
 </person>
-<person role="defendant"> 
+<person role="defendant" xml:id="per.007080"> 
 <persName>Elliot, Rachell</persName>
 </person>
-<person role="attorney_petitioner">
+<person role="attorney_petitioner" xml:id="per.006984">
 <persName>Wright, Robert</persName>
 </person>
-<person role="attorney_defendant">
+<person role="attorney_defendant" xml:id="per.006932">
 <persName>Scott, Gustavus</persName>
 </person>
 </listPerson>
@@ -285,17 +323,17 @@ hundred and eighty four.</p>
 
 <p>John Elliott (Seal)</p>
 
-<p>Test. Wm Earickson, Henry Carter <unclear>Sr.</unclear></p>
+<p>Test. Wm Earickson, Henry Carter Jr.</p>
 
 <p>I hereby Certify, that on the twenty third day of October seventeen hundred
 and eighty four, John Elliott appeared before me, and acknowledged the within
 Instrument of writing to be his act and Deed for the purposes within mentioned</p>
 
-<p>Jacob Linggold<lb/>
+<p>Jacob Ringgold<lb/>
 True Copy <unclear>P</unclear> C. Downes Clk.</p>
 
 <p>And the aforesaid Susanna Elliott and Rachell Elliott by their Attorney
-aforesaid, produces in Court here William Errickson, who being sworn
+aforesaid, produces in Court here William <sic>Errickson</sic>, who being sworn
 in open Court upon the holy Evangels of Almighty God respecting the subject
 of the above Petition, deposeth, and saith, that he was present on the twenty
 third day of October in the year seventeen hundred and eighty four at the
@@ -487,7 +525,7 @@ Slaves, retired into another room and drew the deed of Manumission,
 and returned then and read it to him, and asked Elliot if it was
 agreeable to his intentions, who answered it was. The deponent then 
 returned into the room where he drew the deed, to obtain Evidences
-to the deed and called on William Erickson who at first refused saying
+to the deed and called on William <sic>Erickson</sic> who at first refused saying
 that he could not think that Mr. Elliott was in his Senses as he had
 expressed great <sic>abherience</sic> to the measure a few days before, and 
 conceived it to be highly injurious to the Country. The deponent then 
@@ -508,7 +546,7 @@ the time of the Conversation above mentioned, and also at the time of
 the execution of the said Deed. The deponent then went into the room
 where Mr. <sic>Erckson</sic> was and informed him that he the deponent thought
 and was perfectly satisfied that Mr. Elliot was perfectly in his senses,
-and prevailed with Mr. Erickson to be a Witness. which he accordingly
+and prevailed with Mr. <sic>Erickson</sic> to be a Witness. which he accordingly
 was. The deponent at the time of executing the deed, asked Mr. Elliot
 his complaint who from what he the deponent could collect from Elliot,
 laboured under an inflammation, in the breast that Mr. Elliot, had
