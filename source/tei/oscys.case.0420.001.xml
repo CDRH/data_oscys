@@ -111,10 +111,9 @@
 <person role="defendant">
 <persName/>
 </person>
-<!--
 <person role="attorney_petitioner">
-<persName xml:id="per.000122">Lee, Edmund J.</persName>
-</person> -->
+<persName/>
+</person>
 <person role="attorney_defendant">
 <persName/>
 </person>
@@ -130,7 +129,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="2016-10-13" who="#lkw">added xml:ids; removed Lee as attorney, placed him wtih people</change>  
+<change when="2016-10-13" who="#lkw">added xml:ids; removed Lee as attorney, placed him with people</change>  
 <change when="2016-07-11" who="#kln">reviewed, edited</change>
 <change when="2016-06-20" who="#ea">Encoded and transcribed.</change>
 </revisionDesc>
