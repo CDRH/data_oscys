@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=""><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0007.001"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title>Amelia Thompson v. William R. Jouett. Deposition of James D. Doty<!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="Arneal, Thomas G." xml:id="TGA">Thomas G. Arneal</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="oscys.reu.0007.001"><!-- file name - same as xml:id above --></idno>
+<idno type="oscys.caseid.0692"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Deposition of James D. Doty<!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<date when="1844-11-25">November 25, 1844</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Deposition<!--Type of Document; e.g. - Deposition --></term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1844-11">November 1844</date></term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
@@ -113,15 +113,15 @@
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Kentucky. Louisville Chancery Court<!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
+<placeName>Louisville (Ky.)<!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-07" who="#TGA">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -134,7 +134,105 @@
 
 <pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
-<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
+<p>Deposition</p>
+
+<p>of James D. Doty, of Taycheedah in the Territory of Wiskonsan, to be
+read in evidence in the case of Amelia Thompson &amp;c of Calor, Complainants
+and William (R.) Jouett, defendent, in the Louisville Chancery Court, in
+the State of Kentucky, taken by Charles Doty under and by virtue of a
+Commission issued to him by the said Court, bearing date the 2nd day
+of November 1844 amd hereunto annexed.</p>
+
+<p>I, the Said James D. Doty being duly sworn do testify, depose and
+say, in reply to the several interrogatories annexed to the said
+Commission as follows, to wit:</p>
+
+<p>To the 1st Intertogatory</p>
+<p>That I am acquainted with the parties to this Suit</p>
+
+<p>To the 2nd Interrogatory</p>
+<p>That I have no knowledge of their purchase by the defendent</p>
+
+<p>To the 3d Interrogatory</p>
+<p>That I have known the Said Jouett as an officer in the Army of</p>
+
+<pb xml:id="p002"/> 
+
+<p>the United States for thirteen years (and more) last part: That I have
+frequently seen him on Service as such officer, at the United States
+Garrisons at Fort Crawford and at Fort Winnebago in the Territory of
+Wiskonsan</p>
+
+<p>To the 4th Interrogatory</p>
+<p>That since the latter part of the year 1841 or the beginning
+of the year 1842 (or thereabouts) the said Jouett has been stationed at
+said Fort.Winnebago, in command of that post: That his quarters are 
+and at all times been within the pickets of the Garrison: That the
+said Fort is on land which is reserved by the United States for Military
+purposes, over which the Territorial authorities exercise no civil
+jurisdiction otherwise than in the execution of the laws of the United
+States: That I have frequently visited the said Jouett at his quarters
+in the in the said Garrison, on some of which  occasions I have seen (as I
+suppose) the said Complainanrs, who were engaged in domestic service
+in the quarters of the said Jouett. That they were regarded in the family
+of the said Jouett, and spoken of by him and them, as his slaves: That
+I understood he had brought them with him from Kentucky when he came
+to this Post.</p>
+
+<p>To the 5th.Interrogatory</p>
+<p>That the reply is contained (so far as I know) in my answer</p>
+
+<p>To the 6th Interrogatory</p>
+<p>That during the time the deft. held the Complainants
+in his service as his slaves in this Territory, he resided and kept them (as
+before stated) within the said Garrison of Fort Winnebago, on the
+Military Reservation of the United States; and that the said Jouett
+has continued to occupy quarters in the said garrison from that time to
+the present.</p>
+
+<p>To the 7th.Interrogatory</p>
+<p>That the defendant has not to my knowledge been in the said
+Territory, during the period I have known him, for any other purpose
+than to obey the orders of his superior officers as he had during the
+whole of that time been a member of the army: That such officer as</p>
+
+<pb xml:id="p003"/>
+
+<p>aforesaid, acting under the orders of his superior, he had not, in my
+opinion, the choice of a place of residence either here or elsewhere;
+it being contrary to Military usage, as I understand, for an officeer
+to select his station--- of course it cannot be optional with him how
+long he shall remain at any post; he comes to a Post, and remains there,
+at the wish of his government. If he refuse to obey he may be punished
+for his disobedience-- and the committing this offence can give him no civil
+rights when it occurs; he may seek to avoid an order to move to or from
+a Post by tendering a resignation of his commission; but the President
+may refuse to accept his resignation; and if the officer attempts to
+exercise his own will he becomes liable to be tried for his disobedience.
+The defendant therefore could not have come to this Territory "to reside,"
+he came in the Military service, and for the purpose expressed in his
+orders: he came for the purpose of the government and not for his own, and
+could have legally had no other intention than to comply with and to
+execute them. To acquire residence in a country I understand that it is
+necessary that the person should have liberty to remain or go to
+another--- that he should have the will to choose --- and that he
+should actually determine for himself whether his domicil shall be at
+the place where he is or continue at the place where he previously dwelt.
+These remarks I have deemed necessary that my reply to this and to
+the 10th interrogatories may be correctly understood --- which is that
+Jouett did not come "to reside permanently in Wiskonsan" </p>
+
+<p>And I will add farther, in reply, that Jouett has, during the time
+he held the complainants in his service in this Territory, dwelt upon a
+Military Reservation which is under the sole and exclusive jurisdiction
+of the United States; and that no man can obtain a "permanent" residence 
+on such a reservation as every person there is under a Military juris-
+diction and subject to be removed at any moment. The Acts of Congress,
+also, prohibit all settlement upon lands so situated, and indeed upon
+all public lands except such as are subject to pre-emption. No residence
+therefore, either permanent or otherwise can be acquired on such lands.</p>
+
+<pb xml:id="p004"/>
 
 </div1>
     
