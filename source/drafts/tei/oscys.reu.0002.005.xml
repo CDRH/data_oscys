@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0002.005">
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Minton, Ryan A." xml:id="ram">Ryan A. Minton</name>
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2023</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="oscys.reu.0002.005"></idno>
+<idno type="oscys.caseid.0687"></idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<date when="1836-11-18">November 18, 1836</date><!-- Fill in date in both places. -->
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Deposition</term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1836-11"></date></term>
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+</keywords>
+
+<keywords scheme="original" n="outcome">    
+<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Edward Gantt</persName> 
+</person>
+<person role="defendant"> 
+<persName>Thomas Baldwin</persName>
+</person>
+<person role="attorney_petitioner">
+<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+</person>
+<person role="attorney_defendant">
+<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
+<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>             
+<change when="2024-06-11" who="#ini">Transcribed, encoded.</change>
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
+
+<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>
