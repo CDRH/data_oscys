@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title> Matilda v. Isaac Van Bibber. Summons of Isaac Van Bibber.</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="Martinez, Miranda" xml:id="MM">Miranda Martinez</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.reu.0003.002</idno>
+<idno type="case">oscys.caseid.0688</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<title level="m" type="main">Summons of Isaac Van Bibber</title>
 <date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Summons</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -98,10 +98,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Matilda</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Van Bibber, Isaac</persName>
 </person>
 <person role="attorney_petitioner">
 <persName><!-- Last Name, First Name --></persName><!-- If needed -->
@@ -111,17 +111,18 @@
 </person>
 </listPerson>
             
+
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Missouri. Circuit Court (Saint Charles)</orgName>
+<placeName>Saint Charles (Mo.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-07" who="MM">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -134,7 +135,62 @@
 
 <pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
-<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
+<p>Territory of Missouri <lb/>
+County of St. Charles</p>
+
+<p>SS</p>
+
+<p>The United States of America to the Sheriff of  <unclear>said</unclear> County Greeting</p>
+
+<p><unclear>(INSERT NEEDED)</unclear>to summon Issac Van Bibbler
+<unclear>(INSERT NEEDED)</unclear>County, to be and appear before 
+His Honarable the Judge of our Circuit Court
+to be held in <unclear>far the</unclear> county of Saint Charles <unclear>at the</unclear>
+<unclear>(INSERT NEEDED)</unclear> in the town of Saint Charles, on
+the first monday in July <unclear>(INSERT NEEDED)</unclear>being the third day of 
+<unclear>INSERT NEEDED</unclear>Month then &amp; there to answer <unclear>onto</unclear> Matilda
+a free black girl in a plea of <unclear>trespass, view</unclear>
+<unclear>INSERT NEEDED</unclear>, to the damage of the said Matilda
+five thousand dollars<unclear>INSERT NEEDED</unclear></p>
+
+<p><unclear>INSERT NEEDED</unclear> William <unclear>Charly</unclear> Jr, Clerk
+<unclear>INSERT NEEDED</unclear> Circuit Court at Saint
+Charles the <unclear>twentieth</unclear> day of a <unclear>day</unclear>
+in the year of our Lord one thousand 
+eighteenth and fifteen and in 
+the <unclear>INSERT NEEDED</unclear>year of <unclear>INSERT NEEDED</unclear>
+<unclear>INSERT NEEDED</unclear>of the United States</p>
+
+ <p>WM Christy Jr.</p>
+
+<pb/>
+
+<p>Greeting
+N <unclear>Insert</unclear>Sheriff</p>
+
+<p>1 Summons 0.80
+Mileage 2.50
+$3.30</p>
+
+<p>8</p>
+
+<p>Matilda a free black
+girl
+vs.
+Isaac Van Bibbler</p>
+
+<p><unclear></unclear></p>
+
+<p>To the Clerk
+Let a Summons
+in <unclear> INSERT NEEDED</unclear>
+Damages $5000
+<unclear>INSERT NEEDED</unclear>
+<unclear>INSERT NEEDED</unclear> </p>
+
+<p><unclear>INSERT NEEDED</unclear>20th day April 1815</p>
+
+<p>WM Christy esq</p>
 
 </div1>
     
