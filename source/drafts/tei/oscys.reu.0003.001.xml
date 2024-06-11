@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title>Matilda v. Van Bibber. Petition (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="KNOPIK, ANDY" xml:id="AK">KNOPIK, ANDY</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -35,7 +35,7 @@
 </address>
 </distributor>
 <idno type="project">oscys.reu.0003.001<!-- file name - same as xml:id above --></idno>
-<idno type="case">oscys.caseid.0688d<!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="case">oscys.caseid.0688<!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main">The petition of Mathilda a free black girl for freedom</title>
+<date when="1815-04-08">APRIl 08, 1815</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term><!--Petition--></term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,15 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1815-04">APRIL 1815</date></term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Mitchell</term><term>Rector, John</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Indiana Territory</term><term>Louisiana</term><term>Missouri Territory</term><term>Northwestern Territory</term><term>St. Charles Country</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -97,31 +97,31 @@
             
 <particDesc>   
 <listPerson>            
-<person role="petitioner">
+<person role="Matilda">
 <persName><!-- Last Name, First Name --></persName> 
 </person>
-<person role="defendant"> 
+<person role="Van Bibber, Isaac"> 
 <persName><!-- Last Name, First Name --></persName>
 </person>
-<person role="attorney_petitioner">
+<person role="McGirk, Mathias.">
 <persName><!-- Last Name, First Name --></persName><!-- If needed -->
 </person>
-<person role="attorney_defendant">
+<person role="Christy, William">
 <persName><!-- Last Name, First Name --></persName><!-- If needed -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Missouri. Circuit Court (Saint Charles)</orgName>
+<placeName>Saint Charles (Mo.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-11" who="AK">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -139,7 +139,7 @@ Mathilda a free <lb/>
 black girl for <lb/>
 freedom </p>
 <p>Filed the 8 April 1815<lb/>
-W Chianey Esqire</p>
+W Christy Esqire</p>
 <pb xml:id="p002"/> 
 <p>Territory of Missouri<lb/>
 Country of St Charles</p> 
@@ -148,14 +148,46 @@ in the Circuit Court <lb/>
 April <unclear></unclear> 1815</p>
 <p>The petition of Mathida a black free
 girl about the age of twelve or thirteen
-now in possession of Isaac Vanbibber
+now in possession of Isaac Van Bibber
 Humbly herewith by her attorney
 To this Honorable the Judge
 of the said court now in session
 That your petition was brot from one of
 the United States long since and before that
 any act was passed by the Legislature of
-the</p>
+the Indiana Territory respecting slavery
+or of indeturing slaves into the said territory
+by a person by name of Mitchell
+and your peptioner there remained in said 
+territory whereby she became entitled to her 
+freedom by virtue of an Ordinance of 
+Congress made by Congress for the govern
+ment of the Northwestern territory and
+your petitioner being so free of right and 
+by law was afterwards forcibly and 
+against her will taken from said teri
+tory by a person as well as your peti
+tioner remembers by the name of John
+Rector and brot to <unclear>this</unclear><unclear>their</unclear> territory
+of Louisiana and sold as a slave to one
+William Christy and by him detained and <pb xml:id="p003"/>
+<unclear>of the </unclear> by him detained forcibly and
+against her will in servitude for a long
+time and your petitioner was afterwards
+sold or disposed of by said Christy as a slave
+to one Isaac Van Bibber who has ever
+since kept her forcibly and aginst her
+will in servitude as a slave and still
+detains her in servitude whereas the said 
+Matilda is free and of rights ought to
+be according to law and your petitioner
+prays that process may be directed against
+the said Isaac according to law and that
+he be compelled to answer thereto and that
+your petitioner be permitted to sue as a poor person 
+and your petitioners as in duty bound now pray &amp; </p>
+<p>M McGirk attorney
+for petitioner</p>
 
 </div1>
     
