@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0002.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0002.005">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Edward Gant vs. Thomas Baldwin. Plea of Thomas Baldwin</title>
+<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="oscys.reu.0002.002"></idno>
+<idno type="oscys.reu.0002.005"></idno>
 <idno type="oscys.caseid.0687"></idno>
 
 <availability>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plea</title>
-<date when="1836-11-22">Novermber 22, 1836</date>
+<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<date when="1836-11-18">November 18, 1836</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Plea</term>
+<term>Deposition</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,19 +78,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1836-11">November 1836</date></term>
+<term><date when="1836-11"></date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>John Ruland</term>
+<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>St. Louis</term>
+<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term></term>
+<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
 </keywords>
 
 </textClass>
@@ -104,24 +104,24 @@
 <persName>Thomas Baldwin</persName>
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName><!-- Last Name, First Name --></persName><!-- If needed -->
 </person>
 <person role="attorney_defendant">
-<persName>J. Spalding</persName>
+<persName><!-- Last Name, First Name --></persName><!-- If needed -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Missouri. Cicruit Court (Saint Louis)</orgName>
-<placeName>Saint Louis (Mo.)</placeName>
+<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
+<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="2024-06-07" who="ram">Transcribed, encoded.</change>
+<change when="2024-06-11" who="#ini">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,31 +132,10 @@
                
 <div1 type="case">
 
-<pb xml:id="p001"/>
+<pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
-<p>St. Louis Circuit Court</p>
-<p>Edward Gant
-<lb/>vs.
-<lb/>Thomas Baldwin</p>
-<p>November Term 1836</p>
-<p>And the said defendant by J. Spalding his attorney comes &amp; defends the wrong &amp; injury &amp;c, &amp; says that he is not guilty of the said grievences above in said declaration laid to his charge &amp; of this he puts himself upon the county &amp;c.</p>
-<p>J. Spalding
-<lb/>atty. for deft.</p>
+<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
 
-<pb xml:id="p002"/>
-
-<p>No95
-<lb/> Nov: Term 1836</p>
-<p>St. Louis Circuit Court</p>
-<p>Edward Gantt
-<lb/>vs.
-<lb/>Thomas Baldwin</p>
-<p>plea</p>
-<p>not guilty</p>
-<p>J. Spalding
-<lb/>atty.</p>
-<p>Filed 22d Nov; 1836
-<lb/>John Ruland clerk</p>
 </div1>
     
 </body>
