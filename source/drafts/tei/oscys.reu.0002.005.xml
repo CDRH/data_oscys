@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=""><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 --> "oscys.reu.0005.001"
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0002.005">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Paul Jones v. George Jones) --></title>
+<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="Minton, Ryan A." xml:id="ram">Ryan A. Minton</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="oscys.reu.0002.005"></idno>
+<idno type="oscys.caseid.0687"></idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<date when="1836-11-18">November 18, 1836</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Deposition</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1836-11"></date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
@@ -98,10 +98,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Edward Gantt</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Thomas Baldwin</persName>
 </person>
 <person role="attorney_petitioner">
 <persName><!-- Last Name, First Name --></persName><!-- If needed -->
@@ -121,7 +121,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-11" who="#ini">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>

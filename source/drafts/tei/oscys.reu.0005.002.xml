@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=""><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="">oscys.reu.0005.002<!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title>Paul Jones v. George W Jones<!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="Williams, Zoe" xml:id="ZW">Zoe Williams</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.reu.0005.002<!-- file name - same as xml:id above --></idno>
+<idno type="case">oscys.reu.0005<!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Interrogative of John Scott and Lewis F Linn<!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<date when="2024-06-11">June 11, 2024</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Interrogative<!--Type of Document; e.g. - Deposition --></term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,15 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1840-08">August 1840</date></term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Eolony Le Compte, John A. Le Compte, S. La Compte, John Scott, Lewis F Linn</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Illinois, Missouri, Wisconsin, St.Genevive, Kaskaskia and Prairie Du Rocher</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -98,10 +98,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Jones, Paul<!-- Last Name, First Name --></persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Jones, W. George<!-- Last Name, First Name --></persName>
 </person>
 <person role="attorney_petitioner">
 <persName><!-- Last Name, First Name --></persName><!-- If needed -->
@@ -113,15 +113,15 @@
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Wisconsin Territory District Court<!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
+<placeName>Lancaster, WI<!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-11" who="ZW">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -134,9 +134,87 @@
 
 <pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
-<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
+<p>Interrogative to be propounded to
+John Scott and Lewis F Linn of the 
+<s>coud</s> County of St Genevive in the
+State of Missouri, Wituepes to be pro=
+duced sworn and examined in a certain
+cause at common law now pending
+and undetermined in the United States
+District bound for the county of Grant
+and territory of Wisconsin where Paul
+Jones a colored man is plaintiff
+and George W Jones defendant on the
+part, and in behalf of the said defendant</p>
+    
+<p>Interrogatory 1st</p>
+    
+<p>Do you know the parties plantiff and
+defendant in the title of of these interrogatives named
+or ev either of them, and how long have you knonwn
+them respectively</p>
+    
+<p>And your acquainted with the hand writing of. S. La Compte
+John A. Le Compte and Eolony Le Compte the vendors whose
+names and signed to the annexed Bill of Sale marked
+A, if so please state,</p>
+    
+<p>Were you present when the laid Bill of sale of instrument 
+in writing was executed and delivered to George W. Jones
+the defendant, and did you sign the same as such 
+scribing wituepes,</p>
+    
+<pb xml:id="p002"/>
+    
+<p>Is the signature of Lewis F Linn attached to the
+said instrument of writing and a subscribing witness
+to the same your own signature, if so state when
+you signed the same and at whose request?</p>
+    
+<p>Are you or either of you acquainted with the colored
+man named Paul, sold and transferred in the said
+bill of sale and did you or either if you known who
+was his mother, whether she was or is a slave so called
+under the rights of property secured to the ancient
+inhabitants of the Kaskaskia and Prairie
+Du Rocher then north western territory now Illinois
+by the orderance of congress the thirteenth day of
+July AD 1787. for the government of the territory
+of the United States north west of the ohio xx if so
+please state all you known in relation to xx as fully
+as if particularly interrogated thereto?</p>
+    
+<p>do you know where and when the coloured man
+called Paul mentioned in the said bill of sale and
+the plaintiff in this suit, was born, and whether before
+the sale to the defendant George W Jones as aforesaid
+he was bound to vendor service to his former owner
+for life as a slave so called according to the ancient
+usages and customs governing the French and Canadian
+inhabitants of said vilages</p>
+    
+<pb xml:id="p0003"/>
+    
+<p>do you know if the sale of the said coloured <unclear></unclear>
+called Paul mentioned in the said bill of sale to the
+defendant was with or against the wish and request
+of the said <add>Paul</add> <s>George W Jones</s> and did or not the said
+Paul go willingly into the service of the said defendant</p>
 
+<p>Do you known of any other matter or thing further that
+may tend to the benefit and advntage of the defendant
+in this cause <unclear></unclear> elucidation of this subject, if so
+please state fully and particularly</p>
+    
+<p>George W Jones by 
+Hempstead &amp; Dunn his
+Attorney</p>
+    
+<p>examined and approved, 6<hi>th</hi>, Aug<hi>s</hi> 1840
+Cha<hi>s</hi>. Dunn, judge 1<hi>st</hi>, Jnd: Dis: W.J</p>
 </div1>
+    
+
     
 </body>
 </text>
