@@ -82,11 +82,16 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Mitchell</term><term>Rector, John</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Mitchell</term>
+<term>Rector, John</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Indiana Territory</term><term>Louisiana</term><term>Missouri Territory</term><term>Northwestern Territory</term><term>St. Charles Country</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Indiana Territory</term>
+<term>Louisiana</term>
+<term>Missouri Territory</term>
+<term>Northwestern Territory</term>
+<term>St. Charles County</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -97,17 +102,17 @@
             
 <particDesc>   
 <listPerson>            
-<person role="Matilda">
-<persName><!-- Last Name, First Name --></persName> 
+<person role="petitioner">
+<persName>Matilda</persName> 
 </person>
-<person role="Van Bibber, Isaac"> 
-<persName><!-- Last Name, First Name --></persName>
+<person role="defendant"> 
+<persName>Van Bibber, Isaac</persName>
 </person>
-<person role="McGirk, Mathias.">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<person role="attorney_petitioner">
+<persName>McGirk, Mathias</persName><!-- If needed -->
 </person>
-<person role="Christy, William">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<person role="attorney_defendant">
+<persName>Christy, William</persName><!-- If needed -->
 </person>
 </listPerson>
             
