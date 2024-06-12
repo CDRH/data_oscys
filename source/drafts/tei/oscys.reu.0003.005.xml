@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0003.004.xml"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=""><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Matilda v. Van Bibber<!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="KNOPIK, ANDY" xml:id="AK">ANDY KNOPIK</name><!-- Add your name where indicated. -->
+<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><oscys.reu.0003.004.xml</idno>
-<idno type="case">oscys.caseid.0688</idno>
+<idno type="project"><!-- file name - same as xml:id above --></idno>
+<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of John P Cabina</title>
-<date when="1815-09-06">SEPTEMBER 06, 1815</date><!-- Fill in date in both places. -->
+<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Summons</term>
+<term><!--Type of Document; e.g. - Deposition --></term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,17 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1815-09">SEPTEMBER 1815</date></term><!-- Fill in date in both places. -->
+<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Cabina, John P.</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Territory of Missouri</term>
-<term>St. Charles County</term>
-<term>St. Louis County</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -100,30 +98,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Mathilda</persName> 
+<persName><!-- Last Name, First Name --></persName> 
 </person>
 <person role="defendant"> 
-<persName>Van Bibber, Isaac</persName>
+<persName><!-- Last Name, First Name --></persName>
 </person>
 <person role="attorney_petitioner">
-<persName>McGirk, Mathias</persName><!-- If needed -->
+<persName><!-- Last Name, First Name --></persName><!-- If needed -->
 </person>
 <person role="attorney_defendant">
-<persName>Christy, William</persName><!-- If needed -->
+<persName><!-- Last Name, First Name --></persName><!-- If needed -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Missouri Circuit Court</orgName>
-<placeName>Saint Charles</placeName>
+<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
+<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="2024-04-12" who="AK">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -136,19 +134,21 @@
 
 <pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
-<p>TERRITORY OF MISSOURI<lb/>
-County of St. Charles,</p>
-<p>The United States of America, <lb/>
-TO THE SHERIFF OF THE COUNTY OF St. Louis GREETING
-WE command you to summon John P. Cabina
-that letting abide pretences and delays he be and appear before the Judge of our <add>Circuit</add> Court <del>of Common Pleas</del> at their next 
-October term on the Second day thereof, and testify to the best of his knowledge in a certain suit now pend-
-ing and undetermined in our said court wherein Mathida a Black Girl is plaintiff and Isacc 
-Vanbibber is defendant on the part of the plaintiff
-And have you then there this writ.</p>
-<p> Witness William Christy Jr clerk of the St. Charles <add>Circuit</add> court <del>of Commmon</del>
-<del>Pleas</del>this Sixth day of September, in the year of our Lord on thousand
-eight hundred and fifteen and of our independence the fortyeth <lb/> William Christy Jr.</p>
+<p>Executed, This Subpo by reading To
+John P Cabbeina Saint Louis Sept
+13th 1815 For John <unclear>N</unclear> Thompson Sheriff
+<unclear>A. B. Cano</unclear> D Sheriff
+Service, 33 Cents</p>
+<p>St. Charles<lb/>
+Circuit Court,<lb/>
+October Term 1815.</p>
+<p>Matilda, Black Girl,<lb/>
+16th Sept <lb/>
+Isaac Vanbibber</p>
+<p>Summon <lb/>
+John P. Cabina <lb/>
+for plff.<lb/>
+Executed</p>
 
 </div1>
     
