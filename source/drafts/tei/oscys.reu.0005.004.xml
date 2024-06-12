@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=""><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2023</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project"><!-- file name - same as xml:id above --></idno>
+<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term><!--Type of Document; e.g. - Deposition --></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+</keywords>
+
+<keywords scheme="original" n="outcome">    
+<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName><!-- Last Name, First Name --></persName> 
+</person>
+<person role="defendant"> 
+<persName><!-- Last Name, First Name --></persName>
+</person>
+<person role="attorney_petitioner">
+<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+</person>
+<person role="attorney_defendant">
+<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
+<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>             
+<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
+
+<p>Paul Jones (a man of colour) vs. George W. Jones <lb/>District County for Grant
+County Wisconsin Territory
+September Term 1840
+Desposition of Thomas W. Knight
+to be read in the above entitled cause 
+taken on the application of the defendent &amp;</p> 
+<p><unclear>1<hi>st</hi></unclear> interrogatory<lb/> 
+Are you acquainted with the parties in the above case.<lb/>
+I am</p>
+<p>2<hi>nd</hi> interrogatory are you acquainted with the matters in the differences between the parties in this suit.<lb/>
+I am.</p>
+<p>3<hi>rd</hi> interrogatory. State all you know about it.<lb/>
+answer. I have always understood<add>from others <unclear>&amp;</unclear> Plff also</add>that Plff
+was an Illinois slave &amp; belonged to Deft
+I know Plffs mother &amp; she told me Pett was
+ a slave. I employed <add>Plff</add> in the <s>Deft</s> in the <s>winter</s>
+summer of 1836 &amp; winter following. Plffs
+told witness that he owed Deft. two or three
+hundred dollars &amp; wanted to pay him
+Plff wanted witness to write to Deft
+&amp; inform him Plff on settlement for 
+work which was about eighty dollars
+for which amount <add>gave Plff aWsder on</add> <s><unclear></unclear></s> Deft <s>for
+Plff.</s> Witness thinks that Plff had not been
+in the service or employment of Deft
+since that time. Witness knows that 
+Plff while in the service of Deft was
+not an industrious or valuable servant
+witness thinks that the situations &amp; condition 
+of Plff was better while in the service
+of Deft there since he left Deft's service</p>
+<p><unclear>press</unclear> interrogatory <lb/>
+How long have you been aquainted with Plff. <lb/>
+answer. Since the year 1829</p>
+
+<pb/> ####
+
+<p>2<hi>nd</hi> X interrogatory <lb/>
+Has Plff been in the employ of Deft
+since that time &amp; how <s>much</s> long. <lb/>
+answer. Plff has been in the employ of Deft since 1829. four or five years </p>
+<p>#<hi>rd</hi> X interrogatory <lb/>
+When was Plff in the employ of Deft during that time <lb/>
+answer In that <add>part of the</add> Territory of Michigan 
+<s>and <unclear>his</unclear> </s> now called Wisconsin.</p>
+<p>4<hi>th</hi> X interrogatory <lb/>
+Did you know Plff in Missouri &amp; was 
+he there in the employ of Deft.<lb/>
+answer. I know Plff. in Missouri &amp; I do 
+not know whether he was there in the 
+employ of Deft or not but was living
+with our Mrs. Scott</p>
+<p>5<hi>th</hi> X interrogatory Do you know what was the 
+consideration of Plffs indebtedness to Dft <lb/>
+answer. Witness does not know exactly 
+but thinks it was for the purchase 
+of his freedom from Deft. Witness comes
+to this <add>conclusion</add> from the fact that he had been
+a slave of deft &amp; was at work for himself
+but never it from either party </p>
+<p>6<hi>th</hi> X interrogatory was Plff while in the 
+service of Deft as valuable a servent as
+he was while in your service <lb/>
+answer. Witness thinks Plff was not 
+as valuable a servient while in the
+service of Deft as he was while in
+the service of witness &amp; he did not 
+earn while in witness's service the amount
+witness paid him Plff.</p>
+<p>4<hi>th</hi> interrogatory. Do you know of Plff working
+as a smelting foreman for Deft if so
+how long </p>
+
+<pb/> ####
+
+<p>answer. <s>Plff</s> I do know of Plff working
+ in attending to Deft <add><unclear>as a</unclear></add> foreman but does
+not know how long </p>
+<p>8<hi>th</hi> interrogatory Do you know how Plff's
+situation &amp; condition was better which in 
+Defts service than since that time <lb/>
+answer. Plff was better fed and better
+clothed while Deft's service than since 
+he left deft's service &amp; was not under
+much restraint while in deft's service
+&amp; appeared to act as he pleased. Witness
+has known Plff since he left Deft's service
+two years in what is now <add>called</add> Iowa Territory
+&amp; while he has lived in this Territory
+Plff was working off &amp; on for witness while
+he Plff lived in s<hi>d</hi> Iowa Territory &amp; was
+under witness direction all the time Plff
+lived in what is now called Iowa Territory</p>
+
+<p>Questions by Deft <lb/>
+1<hi>st</hi> interrogatory Do you know of Plff\
+being indebted to Deft on other accounts
+than for the purchase of his freedom <lb/>
+answer. I do know of Plff being indebted 
+to Deft for goods sold &amp; delivered by Deft to 
+Plff. Exact amount witness does not know. Witness knows of plff 
+getting <unclear>of</unclear> Deft at one time this time of fourteen dollars <add>in goods</add> a fiddle <add>and in addition</add>
+<unclear>told</unclear> witness he owed Deft for some other things.</p>
+
+<p>2<hi>nd</hi>. Do you know whether <s>Pff</s>
+Deft has been engaged in business in the 
+State of Missouri since he purhcased the 
+Plff a a slave.</p>
+</div1>
+    
+</body>
+</text>
+</TEI>
