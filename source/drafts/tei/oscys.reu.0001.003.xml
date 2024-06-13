@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=""><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
-    
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.003">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title>Ann v. Haight. W. Bolin Whitesides Affidavit of Annes Residence in Illinois</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,8 +33,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.0001.003.xml</idno>
+<idno type="case">oscys.caseid.0686</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main"> W. Bolin Whitesides Affidavit of Annes Residence in Illinois</title>
+<date when="1816-06-10">June 10, 1816</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +65,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Affidavit</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,15 +77,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1816-06">June 1816</date></term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Hay, John</term>
+<term>Rayen, James</term>
+<term>Whiteside, William Bolin</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Illinois, St Clair County</term>
+<term>Illinois, Madison County</term>
+<term>Missouri, Saint Charles County, Salt River</term>
+<term>Belleville</term> <!-----!Unclear if in Missouri or Illinois. -->
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -98,10 +102,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Anne</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName> Haight, Henry</persName>
 </person>
 <person role="attorney_petitioner">
 <persName><!-- Last Name, First Name --></persName><!-- If needed -->
@@ -143,7 +147,7 @@ says that in the year one thousand eight hundred
 and nine or thereabout be the depoent became
 acquainted with one James Rayen who there lived
 in the then County of Saint Claire <add>Indiana Territory</add> more now Madison
-County and that he Rayer left said Territory of 
+County and that he Rayen left said Territory of 
 <del/> Illinois in the year 1811 that when
 he came to the aforesaid County of St Clair and 
 then Indiana Territory now Illinois Territory
@@ -170,7 +174,10 @@ Belleville 10 June 1818 <p/>
 
 <p> John Hay Clerk <p/>
 
-
+<pb xml:id="p002"/>
+<p> W. Bolin Whiteside <lb/>
+affidavit of Anne
+Residence in Illinois</p>
 
 
 </p>
