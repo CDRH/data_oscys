@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Edward Gantt v. Thomas Baldwin. Deposition of Peter Brown<!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title>Edward Gantt v. Thomas Baldwin. Deposition of John Burt<!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="REITER, ETHAN" xml:id="ER">Ethan Reiter</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.reu.0002.004<!-- file name - same as xml:id above --></idno>
+<idno type="case">oscys.caseid.0687<!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Deposition of Peter Brown<!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<date when="1836-11-24">NOVEMBER 24, 1836</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Deposition<!--Type of Document; e.g. - Deposition --></term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,15 +78,15 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1836-11">NOVEMBER 1836</date></term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Burt, John</term><term>Burt, John</term><term>Capt Reed</term><term>Massie, William</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Missouri</term><term>Ohio</term><term>St. Louis</term><term>New Orleans</term><term>Pittsburgh</term><term>Louisville</term><term>Quincy</term><term>Alton</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -98,30 +98,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Gantt, Edward</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Baldwin, Thomas<!-- Last Name, First Name --></persName>
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>Allen<!-- Last Name, First Name --></persName><!-- If needed --><persName>Gamble</persName>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>Spalding<!-- Last Name, First Name --></persName><!-- If needed -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Missouri. Circuit Court (Saint Louis)<!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
+<placeName>Saint Louis (Mo.)<!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-14" who="ER">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -141,7 +141,7 @@ that day, at the office of David Hough in the
 City of St. Louis
 depositions will be taken by the undersigned, to be read on the trial of the 
 above entitled case, on behalf of the defendant; and that the taking 
-of said depositions, if not completed on that day, will be continued from dat to
+of said depositions, if not completed on that day, will be continued from day to
 day at the same place and between the same hours, until completed.
 To the above named plantiff &amp; Allen &amp; Gamble his attys. 19 Novr. 1836 Thomas Baldwin </p>
 
@@ -169,7 +169,7 @@ Court of Saint Louis County between Edward
 Gantt plaintiff and Thomas Baldwin defedent
 on behalf of the defendant <lb></lb>
 
-John Burt being produced sowrn and
+John Burt being produced sworn and
 examined deposith and saith that he went
 on board the Steam Boat Tempest as
 <unclear>clerk</unclear> in September 1835 and remained
@@ -184,7 +184,7 @@ higher on account of it.
 
 <pb xml:id="p004"/>
 
-and then returend to St. Louis _ and
+and then returned to St. Louis _ and
 again attempted to go up, and suceeded
 in going a little higher than
 the first time, but found the river
@@ -197,7 +197,7 @@ Stean Boat started from St. Louis <del>for
 Louisville</del> <add>down the river</add> the day before the Tempest
 did, and on the voyage the Tempest
 overtook her aground about 100 miles
-below St. Louis, and to ask her passengers
+below St. Louis, and took her passengers
 who were bound for Louisvile _ 
 The Steam Boat Indian left St. Louis
 for Louisville on the same day the
@@ -213,7 +213,7 @@ was the last trip the Tempest made
 <pb xml:id="p005"/>
 
 from St. Louis in 1835 - There was
-a deck passenger cmae on board
+a deck passenger came on board
 at St. Louis with three negroes, two
 of them females and one boy _ they
 were all black, should think the
@@ -227,8 +227,8 @@ the Chamber Maid and old <del>negro</del> mulatto
 woman who shipped from Pittsburgh
 and is now with this deponent on
 the J.D Pavillion _ there were also
-a negro foreman _ two cooks, free
-men, a <unclear></unclear> and, foreman, one cabin
+a negro freeman _ two cooks, free
+men, a <unclear>stuard</unclear>, free man, one cabin
 boy slave belonging to Baldwin _ the
 above mentioned negroes all came
 to St. Louis on the Boat _ soon after
@@ -243,7 +243,7 @@ mulatto woman from St. Louis
 which Boat the Tempest met on that trip about twenty
 miles below St. Louis _ the report
 led to conversation among the 
-hands down of the Boat, and
+hands &amp; crew of the Boat, and
 enquiry on the part of the Africans 
 deponent is confident that no
 negro or Mulatto woman except
@@ -269,7 +269,7 @@ of Lead about 20 Tons _ It was very
 cold freezing weather during all
 said trip _ No Boat overtook the
 Tempest on the trip _ <lb></lb>
-Cook Examined <lb/>
+Cross Examined <lb/>
 The other girl spoken of above above
 was small, not more than 14 year old _
 Known of no other Boat leaving St. Louis
@@ -286,7 +286,7 @@ Louisville after the Tempest, but does
 not recollect how long after, or whether
 she or the Gov Clark arrived first _
 Lady Jackson did not arrive at all
-which the Tempest <unclear>lay</unclear> at Louisville
+while the Tempest <unclear>lay</unclear> at Louisville
 which was 5 or 6 days - The Tempest
 arrived at Louisville in the evening &amp; witness
 saw Capt Reed of the Gov Clark the next
@@ -304,9 +304,9 @@ Christian name _ no assisstant
 clerk that trip, there was one the
 trip before, but he remained at Louisville
 sick _ witness does not recollect 
-the number of foremen on board
+the number of freemen on board
 that trip, does no recollect whether
-any foreman were engaged at St. Louis,
+any freemen were engaged at St. Louis,
 but thinks there were none, nor on
 the trip _ the J. B. Robert Morris arrived
 at Louisville from St. Louis while
@@ -339,7 +339,7 @@ paid by <unclear>H M Davis</unclear>
 for defendant <lb/>
 D Hough
 
-<pb xml:id="p009"/>
+<pb xml:id="p010"/>
 
 Gantt vs Baldwin <lb/>
 Deposition <lb/>
