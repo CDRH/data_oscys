@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=""><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0005.007"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
     
 <teiHeader>
 <fileDesc>
@@ -10,7 +10,7 @@
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="Mendiola, Madison" xml:id="MKM">Madison K. Mendiola</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.reu.0005.007</idno>
+<idno type="case">oscys.caseid.0690</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,7 +45,7 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<title level="m" type="main">Deposition of Lewis F. Linn, John Scott, and Eloy LeCompt</title>
 <date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Deposition</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -82,11 +82,20 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Charlotte</term> <!-- Paul Jones's sister -->
+<term>Linn, Lewis F.</term>
+<term>LeCompt, Eloy</term>
+<term>LeCompt, John H.</term>
+<term>LeCompt, S.</term>
+<term>Scott, john</term>
+
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Illinois, Prairie Du Rocher</term>
+<term>Illinois, Cahokia</term>
+<term>Illinois, Kaskaskia</term>
+<!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -98,10 +107,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Jones, Paul</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Jones, George W.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName><!-- Last Name, First Name --></persName><!-- If needed -->
@@ -121,7 +130,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-17" who="MKM">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -151,10 +160,10 @@ known Paul about thirty years that he knew him
 first as a slave in the family of John Le Compte
 the father of John H Le Compte &amp; Eloy Le Compte
 and the Husband of S. Le Compte the vendor
-in the bill of sale to George W. Lewis. that they 
-then resided in Prarie De Roche Illinois.</p>
+in the bill of sale to George W. Jones. that they 
+then resided in Prairie du Rocher Illinois.</p>
 <p>And for answer to the second interrogatory he 
-says that he is not acquainted with the ###
+says that he is not acquainted with the handwriting
 of S Le Compte &amp; John H Le Compte. but that the 
 Hand write of Eloy Le Compet he is well acquainted 
 with having frequently seen him write and 
@@ -177,14 +186,14 @@ named Paul transfered in the said Bill of
 Sale to George W Jones and have known <add>him</add> about 
 thirty years. that he knows the woman who was 
 called his mother who lived with John H. Le Compte
-<add>the elder</add> Prarie De Roche in Illinois as his slave.
+<add>the elder</add> Prairie du Rocher in Illinois as his slave.
 from AD 1805-6. till he left the country some 
 several years ago.</p>
 
 <p>And for answer to the sixth interrogatory he 
 answers &amp; says that his of own knowledge he does
 not known when Paul the Plft was born
-but believes he was from Prarie De Roche
+but believes he was from Prairie du Rocher
 Illinois for there he first saw him a small
 Boy at the house of John <add>H</add> Le Compte the father 
 of two of the vendor to Jones. the reputed mother
@@ -193,18 +202,17 @@ a slave.</p>
 
 <p>And for answer to the seventh interrogatory 
 he answers and says that he knows the said Plaintiff
-Paul went into the service of Lewis willingly
-aand that Lewis purchased him with his 
+Paul went into the service of Jones willingly
+and that Jones purchased him with his 
 approbation and consent.</p>
 
 <p>And for answer to the eighth interrogatory 
 he answers and says that he has no recollection
 of anything that would tend further to illucidate
-the subject &amp; further he saith not/p>
+the subject &amp; further he saith not</p>
 
 <p>John Scott</p>
 
-######### maybe a new doc. I'll have to check it out. 
 <pb xml:id="p003"/>
 <p>And the follow interrogatories were propounded
 to Eloy Le Compte</p>
@@ -223,23 +231,23 @@ and at what time it took place</p>
 
 <p>3 <unclear></unclear> Do you or either of you know who 
 was the mother of the said coloured man Paul
-when did the #### by what name called
+when did she <unclear>reside</unclear> by what name called
 whether she was not held as a slave in the 
-state of Illinois if so by what ### or right.</p>
+state of Illinois if so by what <unclear>tenure</unclear> or right.</p>
 
-<p>4<hi>th</hi> #### Do you or either of you know where and 
+<p>4<hi>th</hi> witns Do you or either of you know where and 
 when the before named Paul was born if so 
 please state </p>
 
 <p>5<hi>th</hi> interrogatory Do you or either of you know whether 
 the said Paul was held to service for life as 
-a slave i nIllinois under the Laws &amp; wages 
+a slave in Illinois under the Laws &amp; wages 
 in free in the late North Western Territory now 
-State of Illinois in #### of the #####
+State of Illinois in favour of the <unclear></unclear> french
 and Canadians inhabitants of the vilages 
-of Kask#### and ###### ####
-and other vilages in the ### north western territory 
-now state of Illinois ####  if so please
+of Kaskaskia and Prairie du Rocher Cahokia
+and other vilages in the former north western territory 
+now state of Illinois aforesaid if so please
 state all you know in relation to it as 
 fully as if particularly interrogated there to </p>
 
@@ -255,22 +263,22 @@ state what you know in relation to it.</p>
 <p>7<hi>th</hi> Do you or either of you know whether the 
 said Paul was a slave in the state of Illinois 
 according to any Law or wage then in free
-is to state by ### held and by what 
-right &amp; ####</p>
+if so state by <unclear>when</unclear> held and by what 
+right &amp; tenure</p>
 
 <p>8<hi>th</hi> are you <s>acquainted</s> or either of you 
-### directly or indirectly in the ####
+interested directly or indirectly in the <unclear></unclear>
 and termination of this suit. </p>
 
 <p>9<hi>th</hi> Do you know of any thing further that 
-may told to the ### and advantage of the 
+may told to the benefit and advantage of the 
 defendant in the cause or the illucidation of 
-### if so please state fully &amp; particularly.</p>
+subject if so please state fully &amp; particularly.</p>
 
 <p>When Eloy Lecompte being first duly 
 sworn answer the said interrogatories as follows
 to the first he answers &amp; says that he 
-is acquainted with the Pett and ### ### in 
+is acquainted with botj Pett and defendant in 
 the above named suit that he has known defendant
 about fifteen years. that he has known the plaintiff
 Paul since he can remember anything that is to say 
