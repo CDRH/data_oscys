@@ -5,7 +5,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Ann v. Haight. W. Bolin Whitesides Affidavit of Annes Residence in Illinois</title>
+<title>Ann v. Haight. W. Bolin Whitesides Affidavit of Anne's Residence in Illinois</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -44,8 +44,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"> W. Bolin Whitesides Affidavit of Annes Residence in Illinois</title>
-<date when="1816-06-10">June 10, 1816</date><!-- Fill in date in both places. -->
+<title level="m" type="main"> W. Bolin Whitesides Affidavit of Anne's Residence in Illinois</title>
+<date when="1816-06-10">June 10, 1816</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -77,20 +77,20 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1816-06">June 1816</date></term><!-- Fill in date in both places. -->
+<term><date when="1816-06">June 1816</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
 <term>Hay, John</term>
-<term>Rayen, James</term>
+<term>Rayen, James</term> <!-- Also known as Rein, James -->
 <term>Whiteside, William Bolin</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Illinois, St Clair County</term>
+<term>Illinois, Saint Clair County</term>
 <term>Illinois, Madison County</term>
 <term>Missouri, Saint Charles County, Salt River</term>
-<term>Belleville</term> <!-----!Unclear if in Missouri or Illinois. -->
+<term>Belleville</term> <!-- Unclear if in Missouri or Illinois. -->
 </keywords>
 
 <keywords scheme="original" n="outcome">    
@@ -102,30 +102,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Anne</persName> 
+<persName>Ann</persName> <!-- Also known as Anne -->
 </person>
 <person role="defendant"> 
-<persName> Haight, Henry</persName>
+<persName>Haight, Henry</persName> <!-- Also known as Hight -->
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName> McGirk, Andrew S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>Hempstead, Edward</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Missouri. Circuit Court (Saint Charles)</orgName>
+<placeName>Saint Charles (Mo.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-18" who="IF">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -139,12 +139,12 @@
 <pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
 <p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
-<p> Illinois Territory</lb>
+<p> Illinois Territory<lb/>
 St. Clair County </p>
 
 <p> Bolin Whiteside being deposed
 says that in the year one thousand eight hundred
-and nine or thereabout be the depoent became
+and nine or thereabout be the deponent became
 acquainted with one James Rayen who there lived
 in the then County of Saint Claire <add>Indiana Territory</add> more now Madison
 County and that he Rayen left said Territory of 
@@ -164,15 +164,15 @@ informed that said Rayen has since died
 and that Henry Haight has administered 
 on his estate that said Anne when 
 known to this deponent was about the 
-age of twenty years <p/>
+age of twenty years</p>
 
-<p>William Whiteside<p/>
+<p>William Whiteside</p>
 
 <p>Sworn to &amp; subscribed<lb></lb>
 in open Court <lb/>
-Belleville 10 June 1818 <p/>
+Belleville 10 June 1818</p>
 
-<p> John Hay Clerk <p/>
+<p>John Hay Clerk </p>
 
 <pb xml:id="p002"/>
 <p> W. Bolin Whiteside <lb/>

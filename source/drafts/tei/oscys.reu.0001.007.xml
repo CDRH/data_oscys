@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.007.xml"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.007">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
-<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<title>Ann v. Haight. Pleas.</title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal>
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="Ferrell, Isabella" xml:id="IF">Isabella Ferrell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.reu.0001.007</idno>
+<idno type="case">oscys.caseid.0686</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Pleas</title>
+<date when="1816-10-29">October 29, 1816</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Plea</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,19 +78,21 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1816-10">October 1816</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Christy, William Jr.</term>
+<term>McGirk, Matthias</term>
+<term>Rayen, James</term><!-- Also known as Rein -->
+<term>Tompkins, George</term>
 </keywords>
-
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Missouri, Saint Charles County</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+<term></term>
 </keywords>
 
 </textClass>
@@ -98,30 +100,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Anne</persName> 
+<persName>Ann</persName> <!-- Also known as Anne-->
 </person>
 <person role="defendant"> 
-<persName>Haight, Henry</persName>
+<persName>Haight, Henry</persName> <!-- Also known as Hight -->
 </person>
 <person role="attorney_petitioner">
-<persName>McGirk, Andrew S.</persName><!-- If needed -->
+<persName>McGirk, Andrew S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>Hempstead, Edward</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Missouri. Circuit Court (Saint Charles)</orgName>
+<placeName>Saint Charles (Mo.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-18" who="IF">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -166,15 +168,15 @@ said Ann was then there in the possession of and lawfully owned
 as a slave for life by one James Rein; and being to wit
 owned and possessed the said James Rein afterwards to wit
 then that said <del></del> Haight <del></del> and after his death
-To wit then &amp; there letters of administraton on his estate
+To wit then &amp; there letters of administration on his estate
 now in the force of Law granted to the said Henry
 Hight, under the hand and Seal of the Clerk of the Court
-of Common Pleas for the said County of Saint Chalres where
+of Common Pleas for the said County of Saint Charles where
 said letters of administration on herewith <unclear></unclear> and
 which said letter of administration are still in full
 force unmatched and <unclear></unclear> and by on her of 
 said letters of administration, and the laws of this 
-terriotry in which case made and provided, the
+territory in which case made and provided, the
 
 <pb xml:id="p002"/>
 said Henry Hight an administrator an aforesaid &amp;C, then 
@@ -186,7 +188,7 @@ and false imprisonment complaining of and which is the
 same trespass assault &amp; battery and false imprisonment
 complained of and to other, without <unclear></unclear> that the said
 Henry did then with force and arms and against The 
-Peace assault, beat, heat, wound, and illy treat and imprison
+Peace assault, beat, wound, and illy treat and imprison
 and detain the said Ann as the said declaration 
 supposes without any just cause in lawful authority
 all which he is ready to verify &amp; prove. Therefore

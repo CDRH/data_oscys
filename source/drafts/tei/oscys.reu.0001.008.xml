@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=""><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.008">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title> Ann v. Haight. Replication</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="Ferrell, Isabella" xml:id="IF">Isabella Ferrell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.reu.0001.008</idno>
+<idno type="case">oscys.caseid.0686</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Replication</title>
+<date when="1816-10-31">October 10, 1831</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Replication</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,19 +78,22 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1816-10">October 1816</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Christy, William Jr.</term>
+<term>McGirk, Matthias</term>
+<term>Tompkins, George</term>
+<term>Rayen, James</term> <!-- Also known as Rein, James -->
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term></term>
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+<term></term>
 </keywords>
 
 </textClass>
@@ -98,30 +101,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Anne</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Haight, Henry </persName> <!-- Also known as Hight -->
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>McGirk, Andrew</persName>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>Hempstead, Edward</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Missouri. Circuit Court (Saint Charles)</orgName>
+<placeName>Saint Charles (Mo.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-18" who="#IF">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -146,8 +149,8 @@ maintaining her aforesaid action thereof against him the said defendant
 because he says that though it is true that the said defendant
 was in due form of care appointed administrator of the estate
 of one James Rein in manner and form as the said defendant has 
-in his said second plea stated, yet neverthereof for replication to 
-the said plea the said plaintiff says that the the said plaintiff
+in his said second plea stated, yet nevertheless for replication to 
+the said plea the said plaintiff says that she the said plaintiff
 was not on the the first day of January in the year one thousand
 eight hundred and twelve in at any other time either before or
 after the said first day of January possessed and carefully served
@@ -156,6 +159,42 @@ defendant committed the trespasses in the plaintiff and declaration
 complained of without the causes in his second plea stated: and 
 this she the said plaintiff prays may be inquired of by the county.</p>
 
+<p>And the said Plaintiff as to the third plea of the said defendant
+above pleaded, says that she the said plaintiff ought 
+not for any thing in the said third plea alledged to be barred &amp; precluded
+from having and maintaining her aforesaid action thereof
+against him the said defendant because she says that, 
+though true it is that the said defendant was in due form
+of law appointed administrator of the estate of one James Rein
+in manner and form of the as the said said defendant how in his 
+said third plea stated, yet nevertheless for replication to 
+the said third plea she said plaintiff says that she the 
+said plaintiff was not on the first day of January one thousand 
+eight hundred &amp; twelve or at any time either before the said 
+first day of January or after the same day the servant
+of the said James Rein in manner and form as the said
+defendant has in his said third plea stated, and that the 
+said defendant committed the trespasses in the plaintiffs 
+said declaration complained of without the 
+causes in his said third plea stated: and this she prays 
+may be inquired of by the country.</p>
+
+<p>McGirk &amp; Tompkins atts <lb/>
+for plaintiff</p>
+
+<pb xml:id="p002"/>
+<p>Ann a free black woman <lb/>
+vs. <lb/>
+Henry Hight</p>
+
+<p>Replication</p>
+
+<p>Filed 31 October 1816 <lb/>
+WM Christy Jr Clk</p>
+
+<p>freedom case</p>
+
+<p>Filed as April 1817</p>
 </div1>
     
 </body>

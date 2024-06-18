@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.0001.0004"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title>Ann v. Haight. Summons</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="Ferrell, Isabella" xml:id="IF">Isabella Ferrell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.reu.0001.004</idno>
+<idno type="case">oscys.caseid.0686</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Summons</title>
+<date when="1816-07-25">July 25, 1816</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Summons</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,19 +78,23 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1816-07">July 1816</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Christy, William Jr</term>
+<term>Devine, <unclear></unclear></term>
+<term>McGirk, Matthias</term>
+<term>Tompkins, George</term> 
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Missouri, County of Saint Charles, Saint Charles</term>
+<term>Missouri, County of Saint Charles, Portage Des Sioux</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+<term></term>
 </keywords>
 
 </textClass>
@@ -98,30 +102,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Ann</persName> <!-- Also known as Anne -->
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Haight, Henry</persName> <!-- Also known as Hight -->
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName> McGirk, Andrew S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>Hempstead, Edward</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Missouri. Circuit Court (Saint Charles)</orgName>
+<placeName>Saint Charles (Mo.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-18" who="IF">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -145,7 +149,7 @@ The Sheriff of the County of Saint Charles Greetings</p>
 <p>We command you to Summon Henry Haight, if he be 
 found in your county to be and appear before the Honorable The
 Judge of our Circuit Court to be holden for the County of Saint Charles
-at the Court House in the Town of Saint Charles, On the fourthteenth day
+at the Court House in the Town of Saint Charles, On the fourteenth day
 in October next. Then and there to answer Ann a free black 
 woman, of a plea of trespass withfore and arm, to the 
 damage of the said Ann of Five hundred dollars.
@@ -155,12 +159,43 @@ And have then there also this week.  </p>
 of our said court at Saint Charles the fourteenth
 day of August, in the year of our lord one 
 thousand and eight hundred sixteen, And in 
-the forty first year of the in defendence of 
+the forty first year of the independence of 
 the United States
 
-WM Christy Jr.
+WM Christy Jr.</p>
 <pb xml:id="p002"/>
+<p>Ann a free black woman <lb/>
+vs. <lb/> 
+H Haight</p>
 
+<p> <unclear></unclear> trespass
+Damages $500 </p>
+
+<p> Executed the 8<hi>th</hi> day of Octo 1816 <lb/>
+<unclear></unclear> Devine Sherrif
+Service $.80_
+Mileage $.70</p>
+
+<p>To the Clerk of the 
+Circuit Court for
+St Charles County
+in Northern Circuit</p>
+
+<p>Let a summons
+issue in this case </p>
+
+<p>McGirk &amp; Tom <lb/>
+Tompkins </p>
+
+
+<p>Filed the 25<hi>th</hi> July 1816 <lb/>
+William Christy Jr. Clerk </p>
+
+<p>Received the within declaration with summons enclosed on the 28 <hi>th</hi> august
+1816 and executed the same at the Residence of the defendant in the township 
+of Portage Des Sioux on the eighth day of October 1816 </p>
+
+<p><unclear></unclear> Devine Sheriff</p>
 
 </div1>
     
