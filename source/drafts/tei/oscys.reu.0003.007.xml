@@ -6,11 +6,11 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title>Matilda v. Isaac Van Bibber. Replication of Matilda</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="KNOPIK, ANDY" xml:id="AK">FULL NAME</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="oscys.reu.0003.007"><!-- file name - same as xml:id above --></idno>
+<idno type="oscys.caseid.0688"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Replication of Matilda</title>
+<date when="1815-07-04">July 4, 1815</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Replication</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1815-07">JULY 1815</date></term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
@@ -98,30 +98,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Matilda</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Van Bibber, Issac</persName>
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>McGirk, Mathias</persName><!-- If needed -->
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>Carr, William</persName><!-- If needed -->
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Missouri. Circuit Court (Saint Charles)</orgName>
+<placeName>Saint Charles (MO.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-20" who="AK">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -136,7 +136,7 @@
 
 <p>Matilda a free black<lb/>
 vs <lb/>
-Isaac Vanbibber</p>
+Isaac Van Bibber</p>
 <p>Replication</p>
 <p> The said Matilda says that she
 ought not to be barred from having &amp; maintain
@@ -157,7 +157,7 @@ plea</p>
 for pltff</p>
 
 <p> and the said Matilda says altho such bill of sale
-as the defedant has let out in his second plea
+as the defendant has let out in his second plea
 pleaded yet she protests agianst the Conclusion
 their in contain to wit that she is a slave
 by virture of said bill of sale</p>
