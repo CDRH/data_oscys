@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=""><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.002">
     
 <teiHeader>
 <fileDesc>
@@ -35,7 +35,7 @@
 </address>
 </distributor>
 <idno type="project">oscys.reu.0001.0002.xml</idno>
-<idno type="case"> <oscys.caseid.0686</idno>
+<idno type="case"> oscys.caseid.0686</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -46,7 +46,7 @@
 <sourceDesc>
 <bibl>
 <title level="m" type="main">Petition to have Cause to Sue as a Poor Person to Circuit Court St Charles</title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<date></date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -82,19 +82,17 @@
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Anne</term>
-<term>Haight, Henry</term>
-<term>Rayen, James</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Rayen, James</term><!-- Also known as Rein, James -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
 <term>Missouri, St. Charles</term>
 <term>Indiana</term>
-<term> Illinois</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term> Illinois</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term>Judgement for the plaintiff</term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+<term>Judgement for the plaintiff</term>
 </keywords>
 
 </textClass>
@@ -102,16 +100,16 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Anne</persName> 
+<persName>Ann</persName> <!-- Also known as Anne -->
 </person>
 <person role="defendant"> 
-<persName>< Haight, Henry</persName>
+<persName>Haight, Henry</persName> <!-- Also known as Hight -->
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName> McGirk, Andrew S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>Hempstead, Edward</persName>
 </person>
 </listPerson>
             
@@ -147,30 +145,30 @@ as a poor person
 to Circuit Court
 St. Charles</p>
 
-<p>H-Haight administer
-for <unclear>decomisioned</unclear> of the
+<p>H-Hight administer
+for <unclear> decomisnor</unclear> of the
 estate of James Rayen
 Deceased <del></del></p>
 
 <p> The Jurors find 
 for the plaintiff <unclear></unclear>
-and five dollars damages <p/>
+and five dollars damages </p>
 
 <p> An action of assault &amp; battery and false
-imprisonment <add> against Henry Haight administrator</add> <del> from the</del> leave a Blemish
+imprisonment <add> against Henry Hight administrator</add> <del> from the</del> leave a Blemish
 from the time of assault and battery and let
-the imprisonment be to the present time 
+the imprisonment be to the present time </p>
 
-In the Petition state all the facts of residence
+<p>In the Petition state all the facts of residence
 contained in the old petition state her removal 
-and Haight Administration and Rayen death
+and Hight Administration and Rayen death
 and her claim to freedom by actions of said 
 Residence and the Ordinance of Congress for
 the government of the NorthWestern Territory
 of which the Indiana &amp; Illinois were a part
-state the part of Haight claiming her as the property
-of Rayen estate and exercising dominion over her
-of <unclear/> damages in allowance $500</p>
+state the fact of Hight claiming her as the property
+of Rayens estate and exercising dominion over her
+of <unclear/> damages in declaration of $500</p>
 
 
 

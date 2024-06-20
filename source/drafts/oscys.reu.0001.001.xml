@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.001">
 <teiHeader>
@@ -45,7 +45,7 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
 <sourceDesc>
 <bibl>
 <title level="m" type="main">The Petition of Anne a free black woman</title>
-<date when="1816-03-07">March 7, 1816</date><!-- Fill in date in both places. -->
+<date when="1816-03-07">March 7, 1816</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -65,7 +65,7 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><Petition</term>
+<term>Petition</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -77,25 +77,24 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1816-03">March 1816</date></term><!-- Fill in date in both places. -->
+<term><date when="1816-03">March 1816</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-
 <term>Charles, Joseph</term>
 <term> Hay, John</term>
-<term> Rayen, James</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term> Rayen, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
 <term>Missouri,County of Saint Louis</term>
 <term>Missouri, County of Saint Charles, Salt River</term>
 <term>Maryland</term>
-<term>Illinois, Saint Claire County</term>
+<term>Illinois, Saint Clair County</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+<term></term>
 </keywords>
 
 </textClass>
@@ -103,10 +102,10 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Anne</persName> 
+<persName>Ann</persName> <!-- Also known as Anne -->
 </person>
 <person role="defendant"> 
-<persName>Haight, Henry</persName>
+<persName>Haight, Henry</persName> <!-- Also known as Hight -->
 </person>
 <person role="attorney_petitioner">
 <persName>McGirk, Andrew</persName>
@@ -118,8 +117,8 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
             
 <listOrg>
 <org>
-<orgName><Missouri.Circuit Court (Saint Charles)</orgName>
-<placeName><Saint Charles (Mo.) </placeName>
+<orgName> Missouri.Circuit Court (Saint Charles)</orgName>
+<placeName> Saint Charles (Mo.) </placeName>
 </org>
 </listOrg>   
 </particDesc> 
@@ -142,8 +141,8 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
 <p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
 <p>Territory of Missouri<lb/>
 County of Saint Louis</p>
-<p></p> The Petition of Anne<lb/>
-a free black woman<p/>
+<p>The petition of Anne<lb/>
+a free black woman</p>
 
 <p>To the honorable The Circuit Court for the County 
 of Saint Charles The petition or your petitioners
@@ -166,8 +165,8 @@ expiration of the time of service agreed on in
 pursuance of said law shall render such indentured
 person from said Territory without the Consent
 of such indentured person which Consent shall be 
-attained before one or more of the Judges of the Coun
--ty Court of that Territory a certificate writing
+attained before one or more of the Judges of the County 
+Court of that Territory a certificate writing
 shall be given by said Judge or Judges then such 
 master or owner shall forfeit for such removal
 of such person the sum of One thousand dollars
@@ -186,7 +185,7 @@ River in the present County of Saint Charles without
 having attained her consent before a Judge or Judges
 of the County Court or in any manner whatever
 attaining her consent by which removal of <unclear></unclear>
-your petitioner the is advised and believes
+your petitioner she is advised and believes
 that she has a right to demand of the said Rayen
 the two thirds of the aforesaid forfeiture <add>of</add> one
 thousand dollars But so the said James is now
@@ -207,21 +206,21 @@ very poor and usable to pay costs or give security for costs
 and that she may have counsel accorded in the law
 <pb xml:id="p003"/>
 appointed to aid her in prosecuting said action
-your petitioner as in duty bound will ever pray 
+your petitioner as in duty bound will ever pray </p>
  
 <p>Signed Anne X her mark</p>
 
 <p>Test <lb/>
 Andrew S. McGirk <lb/>
 Territory of Missouri<lb/>
-County of Saint Louis<p/> 
+County of Saint Louis</p> 
 
 <p><del/>This day Anne the above 
 petitioner swore to the
 above as containing the 
 truth to the best of her 
 knowledge and belief <lb/>
-March 7<hi>th<hi/> the 1816 <lb/>
+March 7<hi>th</hi> the 1816 <lb/>
 Joseph Charles a <lb/>
 Justice of the Peace</p>
  
