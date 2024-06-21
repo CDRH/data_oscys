@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id=""><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
-    
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.001">
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<title>Anne v. Haight. The Petition of Anne A Free Black Woman) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="Ferrell, Isabella" xml:id="IF">Isabella Ferrell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +33,8 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.reu.0001.001</idno>
+<idno type="case">oscys.caseid.0686</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +44,8 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main">The Petition of Anne a free black woman</title>
+<date when="1816-03-07">March 7, 1816</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +65,7 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Petition</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,19 +77,24 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1816-03">March 1816</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Charles, Joseph</term>
+<term> Hay, John</term>
+<term> Rayen, James</term>
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term></term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Missouri,County of Saint Louis</term>
+<term>Missouri, County of Saint Charles, Salt River</term>
+<term>Maryland</term>
+<term>Illinois, Saint Clair County</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+<term></term>
 </keywords>
 
 </textClass>
@@ -98,30 +102,30 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Ann</persName> <!-- Also known as Anne -->
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Haight, Henry</persName> <!-- Also known as Hight -->
 </person>
 <person role="attorney_petitioner">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>McGirk, Andrew</persName>
 </person>
 <person role="attorney_defendant">
-<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+<persName>Hempstead, Edward</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName> Missouri.Circuit Court (Saint Charles)</orgName>
+<placeName> Saint Charles (Mo.) </placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-11" who="IF">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -137,8 +141,8 @@ oscys.reu.0001.001oscys.reu.0001.001<?oxygen RNGSchema="http://digitalhumanities
 <p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
 <p>Territory of Missouri<lb/>
 County of Saint Louis</p>
-<p></p> The Petition of Anne<lb/>
-a free black woman<p/>
+<p>The petition of Anne<lb/>
+a free black woman</p>
 
 <p>To the honorable The Circuit Court for the County 
 of Saint Charles The petition or your petitioners
@@ -148,8 +152,8 @@ your petitioner <unclear>was took</unclear> <add>by James Rayen</add> from the S
 to the then Territory of Indiana Now Illinois <add>Territory</add> to 
 St Clair County and according to a statute of that Territory
 was <unclear>taken</unclear> before Mr Hay clerk of the County Court
-for said? County and in his presence was <unclear>indented</unclear>
-to serve the said James Rayer for fifteen years
+for said County and in his presence was <unclear>indented</unclear>
+to serve the said James Rayen for fifteen years
 from that date to wit the 28<hi>th</hi> day of July 1809
 a copy of which entry and indenture is now here
 Therein to the Court and whereas your petitioner
@@ -161,8 +165,8 @@ expiration of the time of service agreed on in
 pursuance of said law shall render such indentured
 person from said Territory without the Consent
 of such indentured person which Consent shall be 
-attained before one or more of the Judges of the Coun
--ty Court of that Territory a certificate writing
+attained before one or more of the Judges of the County 
+Court of that Territory a certificate writing
 shall be given by said Judge or Judges then such 
 master or owner shall forfeit for such removal
 of such person the sum of One thousand dollars
@@ -173,7 +177,7 @@ the person injured  Now your petitioner <unclear>thus</unclear>
 <pb xml:id="p002"/>
 that in the year One Thousand eight hundred
 and eleven your petitioner <unclear></unclear> in the month of may of
-that year the said James Rayer did remove your
+that year the said James Rayen did remove your
 petitioner from the then Territory of Illinois before
 that a part of then Indiana to the New Territory 
 of Louisiana now Missouri to a place called Salt 
@@ -181,14 +185,14 @@ River in the present County of Saint Charles without
 having attained her consent before a Judge or Judges
 of the County Court or in any manner whatever
 attaining her consent by which removal of <unclear></unclear>
-your petitioner the is advised and believes
-that she has a right to demand of the said Rayer
+your petitioner she is advised and believes
+that she has a right to demand of the said Rayen
 the two thirds of the aforesaid forfeiture <add>of</add> one
 thousand dollars But so the said James is now
 dead your petitioner is advised that if she has any 
 right to demand <del/> aforesaid two thirds of the said
 forfeiture she must pursue her remedy against
-The administrator of the said Rayer There being
+The administrator of the said Rayen There being
 no executor and your petitioner is informed
 that Henry Haight of Saint Charles County is
 that administrator and your petitioner may
@@ -202,24 +206,27 @@ very poor and usable to pay costs or give security for costs
 and that she may have counsel accorded in the law
 <pb xml:id="p003"/>
 appointed to aid her in prosecuting said action
-your petitioner as in duty bound will ever pray 
+your petitioner as in duty bound will ever pray </p>
  
 <p>Signed Anne X her mark</p>
 
-<p> ____ <lb/>
-Andrew _____ <lb/>
+<p>Test <lb/>
+Andrew S. McGirk <lb/>
 Territory of Missouri<lb/>
-County of Saint Louis<p/> 
+County of Saint Louis</p> 
 
 <p><del/>This day Anne the above 
 petitioner swore to the
 above as containing the 
 truth to the best of her 
 knowledge and belief <lb/>
-March 7<hi>th<hi/> the 1816 <lb/>
+March 7<hi>th</hi> the 1816 <lb/>
 Joseph Charles a <lb/>
-Justice of the Peace
- </p>
+Justice of the Peace</p>
+ 
+
+
+<p>Anne a free black woman</p>
 </div1>
     
 </body>

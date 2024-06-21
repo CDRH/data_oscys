@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0003.002"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0003.006"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title> Matilda v. Isaac Van Bibber. Summons of Isaac Van Bibber.</title>
+<title><!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Martinez, Miranda" xml:id="MM">Miranda Martinez</name><!-- Add your name where indicated. -->
+<name n="KNOPIK, ANDY" xml:id="AK">ANDY KNOPIK</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.reu.0003.002</idno>
+<idno type="project">oscys.reu.0003.006</idno>
 <idno type="case">oscys.caseid.0688</idno>
 
 <availability>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of Isaac Van Bibber</title>
-<date when="1815-04-20">April 20, 1815</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Subpoena of John P. Cabina</title>
+<date when="1815-09-06">SEPTEMBER 6 1815</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Summons</term>
+<term>Subpoena</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,16 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1815-04">MONTH YEAR</date>April 1815</term><!-- Fill in date in both places. -->
+<term><date when="1815-09">SEPTEMBER 1815</date></term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Christy, William</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>John P. Cabina</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Missouri, Saint Charles.</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>St. Charles County</term><term>St. Louis County</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
 </keywords>
+
 <keywords scheme="original" n="outcome">    
 <term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
 </keywords>
@@ -106,11 +107,10 @@
 <persName>McGirk, Mathias</persName><!-- If needed -->
 </person>
 <person role="attorney_defendant">
-<persName>Carr, William</persName><!-- If needed -->
+<persName>Christy, William</persName><!-- If needed -->
 </person>
 </listPerson>
             
-
 <listOrg>
 <org>
 <orgName>Missouri. Circuit Court (Saint Charles)</orgName>
@@ -121,7 +121,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="2024-06-11" who="MM">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-13" who="AK">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -134,64 +134,20 @@
 
 <pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
-<p>Territory of Missouri <lb/>
-County of St. Charles</p>
-
-<p>SS</p>
-
-<p>The United States of America to the Sheriff of said County Greeting</p>
-
-<p>We command you to summon Issac Van Bibber
-if he is found in your County, to be and appear before 
-His Honarable the Judge of our Circuit Court
-to be holden for the county of Saint Charles at the
-Court house in the town of Saint Charles, on
-the first monday in July <unclear>third</unclear>being the third day of 
-said month then &amp; there to answer onto Matilda
-a free black girl in a plea of trespass, <unclear>with
-arms,</unclear> to the damage of the said Matilda
-five thousand dollars<unclear>Have him there by then.</unclear></p>
-
-<p><unclear>Apoint</unclear> William Christy Jr, Clerk
-our said Circuit Court at Saint
-Charles the twentieth day of April
-in the year of our Lord one thousand 
-eighteenth and fifteen and in 
-the thirty nineth year of the independence
-of the United States</p>
-
- <p>WM Christy Jr.</p>
-
-<pb/>
-
-<p>Greeting
-N <unclear>Simmons</unclear>Sheriff</p>
-
-<p>1 Summons 0.80
-Mileage 2.50
-$3.30</p>
-
-<p>8</p>
-
-<p>Matilda a free black
-girl
-vs.
-Isaac Van Bibber</p>
-
-<p><unclear> Sector in trespass 
-with forces arising </unclear>
-Damages $5,000</p>
-
-<p>To the Clerk
-Let a Summons
-in trespass <unclear> be it aimlessness</unclear>
-Damages $5000
-M McGirk
-Atty</p>
-
-<p><unclear>Filed</unclear>20th day April 1815</p>
-
-<p>WM Christy <unclear>Jr</unclear></p>
+<p>To the Clerk of the Circuit Court St Charles County<lb/>
+To October term 1815
+In the case Matilda vs Isaac Vanbibber
+let <unclear>us</unclear> subpoena you to St Louis County for John
+P. Cabina for plantiff
+6th September 1815 <lb/>
+M McGirk atto.
+for plaintiff</p>
+<pb xml:id="p002"/>
+<p>M. McGirk
+a Mr.
+I. Vanbibber </p>
+<p>Wed 6 Sept 1815
+W. Christy <unclear>for df.</unclear> </p>
 
 </div1>
     

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0003.002"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.004">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title> Matilda v. Isaac Van Bibber. Summons of Isaac Van Bibber.</title>
+<title>Ann v. Haight. Summons</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Martinez, Miranda" xml:id="MM">Miranda Martinez</name><!-- Add your name where indicated. -->
+<name n="Ferrell, Isabella" xml:id="IF">Isabella Ferrell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.reu.0003.002</idno>
-<idno type="case">oscys.caseid.0688</idno>
+<idno type="project">oscys.reu.0001.004</idno>
+<idno type="case">oscys.caseid.0686</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of Isaac Van Bibber</title>
-<date when="1815-04-20">April 20, 1815</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Summons</title>
+<date when="1816-07-25">July 25, 1816</date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -78,18 +78,23 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1815-04">MONTH YEAR</date>April 1815</term><!-- Fill in date in both places. -->
+<term><date when="1816-07">July 1816</date></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Christy, William</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>Christy, William Jr</term>
+<term>Devine, <unclear></unclear></term>
+<term>McGirk, Matthias</term>
+<term>Tompkins, George</term> 
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Missouri, Saint Charles.</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Missouri, County of Saint Charles, Saint Charles</term>
+<term>Missouri, County of Saint Charles, Portage Des Sioux</term>
 </keywords>
+
 <keywords scheme="original" n="outcome">    
-<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+<term></term>
 </keywords>
 
 </textClass>
@@ -97,20 +102,19 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Matilda</persName> 
+<persName>Ann</persName> <!-- Also known as Anne -->
 </person>
 <person role="defendant"> 
-<persName>Van Bibber, Isaac</persName>
+<persName>Haight, Henry</persName> <!-- Also known as Hight -->
 </person>
 <person role="attorney_petitioner">
-<persName>McGirk, Mathias</persName><!-- If needed -->
+<persName> McGirk, Andrew S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>Carr, William</persName><!-- If needed -->
+<persName>Hempstead, Edward</persName>
 </person>
 </listPerson>
             
-
 <listOrg>
 <org>
 <orgName>Missouri. Circuit Court (Saint Charles)</orgName>
@@ -121,7 +125,7 @@
 </profileDesc>
         
 <revisionDesc>             
-<change when="2024-06-11" who="MM">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-18" who="IF">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -134,64 +138,64 @@
 
 <pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
+<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
+
 <p>Territory of Missouri <lb/>
-County of St. Charles</p>
+County of Saint Charles</p>
 
-<p>SS</p>
+<p>Yet The United States of America To
+The Sheriff of the County of Saint Charles Greetings</p>
 
-<p>The United States of America to the Sheriff of said County Greeting</p>
+<p>We command you to Summon Henry Hight, if he be 
+found in your county to be and appear before the Honorable The
+Judge of our Circuit Court to be holden for the County of Saint Charles
+at the Court House in the Town of Saint Charles, On the fourteenth day
+in October next. Then and there to answer Ann a free black 
+woman, of a plea of trespass withfore and arm, to the 
+damage of the said Ann of Five hundred dollars.
+And have then there also this week.  </p>
 
-<p>We command you to summon Issac Van Bibber
-if he is found in your County, to be and appear before 
-His Honarable the Judge of our Circuit Court
-to be holden for the county of Saint Charles at the
-Court house in the town of Saint Charles, on
-the first monday in July <unclear>third</unclear>being the third day of 
-said month then &amp; there to answer onto Matilda
-a free black girl in a plea of trespass, <unclear>with
-arms,</unclear> to the damage of the said Matilda
-five thousand dollars<unclear>Have him there by then.</unclear></p>
+<p> Witness William Christy Junior clerk
+of our said court at Saint Charles the fourteenth
+day of August, in the year of our lord one 
+thousand and eight hundred sixteen, And in 
+the forty first year of the independence of 
+the United States
 
-<p><unclear>Apoint</unclear> William Christy Jr, Clerk
-our said Circuit Court at Saint
-Charles the twentieth day of April
-in the year of our Lord one thousand 
-eighteenth and fifteen and in 
-the thirty nineth year of the independence
-of the United States</p>
+WM Christy Jr.</p>
+<pb xml:id="p002"/>
+<p>Ann a free black woman <lb/>
+vs. <lb/> 
+H Hight</p>
 
- <p>WM Christy Jr.</p>
+<p> <unclear></unclear> trespass
+Damages $500 </p>
 
-<pb/>
+<p> Executed the 8<hi>th</hi> day of Octo 1816 <lb/>
+<unclear></unclear> Devine Sherrif
+Service $.80_
+Mileage $.70</p>
 
-<p>Greeting
-N <unclear>Simmons</unclear>Sheriff</p>
+<p>To the Clerk of the 
+Circuit Court for
+St Charles County
+in Northern Circuit</p>
 
-<p>1 Summons 0.80
-Mileage 2.50
-$3.30</p>
+<p>Let a summons
+issue in this case </p>
 
-<p>8</p>
+<p>McGirk &amp; Tom <lb/>
+Tompkins </p>
 
-<p>Matilda a free black
-girl
-vs.
-Isaac Van Bibber</p>
 
-<p><unclear> Sector in trespass 
-with forces arising </unclear>
-Damages $5,000</p>
+<p>Filed the 25<hi>th</hi> July 1816 <lb/>
+William Christy Jr. Clerk </p>
 
-<p>To the Clerk
-Let a Summons
-in trespass <unclear> be it aimlessness</unclear>
-Damages $5000
-M McGirk
-Atty</p>
+<p>Received the within declaration with summons enclosed on the 28 <hi>th</hi> august
+1816 and executed the same at the Residence of the defendant in the township 
+of Portage Des Sioux on the eighth day of October 1816 </p>
 
-<p><unclear>Filed</unclear>20th day April 1815</p>
-
-<p>WM Christy <unclear>Jr</unclear></p>
+<p><unclear></unclear> Devine Sheriff</p>
 
 </div1>
     

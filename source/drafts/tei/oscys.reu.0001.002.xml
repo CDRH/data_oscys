@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0002.002">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.002">
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Edward Gant vs. Thomas Baldwin. Plea of Thomas Baldwin</title>
+<title>Anne v. Haight. Petition to have Cause to Sue as a Poor Person to Circuit Court St Charles</title> 
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Minton, Ryan A." xml:id="ram">Ryan A. Minton</name>
+<name n="Ferrell, Isabella" xml:id="IF">Isabella Ferrell</name>
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="oscys.reu.0002.002"></idno>
-<idno type="oscys.caseid.0687"></idno>
+<idno type="project">oscys.reu.0001.0002.xml</idno>
+<idno type="case"> oscys.caseid.0686</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Plea</title>
-<date when="1836-11-22">Novermber 22, 1836</date>
+<title level="m" type="main">Petition to have Cause to Sue as a Poor Person to Circuit Court St Charles</title>
+<date></date>
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Plea</term>
+<term>Petition</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,19 +78,21 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1836-11">November 1836</date></term>
+<term></term>
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>John Ruland</term>
+<term>Rayen, James</term><!-- Also known as Rein, James -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Saint Louis County</term>
+<term>Missouri, St. Charles</term>
+<term>Indiana</term>
+<term> Illinois</term>
 </keywords>
 
 <keywords scheme="original" n="outcome">    
-<term></term>
+<term>Judgement for the plaintiff</term>
 </keywords>
 
 </textClass>
@@ -98,30 +100,30 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Edward Gantt</persName> 
+<persName>Ann</persName> <!-- Also known as Anne -->
 </person>
 <person role="defendant"> 
-<persName>Thomas Baldwin</persName>
+<persName>Haight, Henry</persName> <!-- Also known as Hight -->
 </person>
 <person role="attorney_petitioner">
-<persName></persName>
+<persName> McGirk, Andrew S.</persName>
 </person>
 <person role="attorney_defendant">
-<persName>J. Spalding</persName>
+<persName>Hempstead, Edward</persName>
 </person>
 </listPerson>
             
 <listOrg>
 <org>
-<orgName>Missouri. Cicruit Court (Saint Louis)</orgName>
-<placeName>Saint Louis (Mo.)</placeName>
+<orgName> Missouri. Circuit Court (Saint Charles)</orgName>
+<placeName>Saint Charles (Mo.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="2024-06-07" who="ram">Transcribed, encoded.</change>
+<change when="2024-06-11" who="IF">Transcribed, encoded.</change>
 </revisionDesc>
 
 </teiHeader>
@@ -132,31 +134,44 @@
                
 <div1 type="case">
 
-<pb xml:id="p001"/>
+<pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
-<p>St. Louis Circuit Court</p>
-<p>Edward Gant
-<lb/>vs.
-<lb/>Thomas Baldwin</p>
-<p>November Term 1836</p>
-<p>And the said defendant by J. Spalding his attorney comes &amp; defends the wrong &amp; injury &amp;c, &amp; says that he is not guilty of the said grievences above in said declaration laid to his charge &amp; of this he puts himself upon the county &amp;c.</p>
-<p>J. Spalding
-<lb/>atty. for deft.</p>
+<p> Anne a free black 
+woman </p>
 
-<pb xml:id="p002"/>
+<p>Petition to have 
+cause to sue 
+as a poor person
+to Circuit Court
+St. Charles</p>
 
-<p>No95
-<lb/> Nov: Term 1836</p>
-<p>St. Louis Circuit Court</p>
-<p>Edward Gantt
-<lb/>vs.
-<lb/>Thomas Baldwin</p>
-<p>plea</p>
-<p>not guilty</p>
-<p>J. Spalding
-<lb/>atty.</p>
-<p>Filed 22d Nov; 1836
-<lb/>John Ruland clerk</p>
+<p>H-Hight administer
+for <unclear> decomisnor</unclear> of the
+estate of James Rayen
+Deceased <del></del></p>
+
+<p> The Jurors find 
+for the plaintiff <unclear></unclear>
+and five dollars damages </p>
+
+<p> An action of assault &amp; battery and false
+imprisonment <add> against Henry Hight administrator</add> <del> from the</del> leave a Blemish
+from the time of assault and battery and let
+the imprisonment be to the present time </p>
+
+<p>In the Petition state all the facts of residence
+contained in the old petition state her removal 
+and Hight Administration and Rayen death
+and her claim to freedom by actions of said 
+Residence and the Ordinance of Congress for
+the government of the NorthWestern Territory
+of which the Indiana &amp; Illinois were a part
+state the fact of Hight claiming her as the property
+of Rayens estate and exercising dominion over her
+of <unclear/> damages in declaration of $500</p>
+
+
+
 </div1>
     
 </body>

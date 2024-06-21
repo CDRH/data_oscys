@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0002.004"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Edward Gantt v. Thomas Baldwin. Deposition of John Burt<!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="REITER, ETHAN" xml:id="ER">Ethan Reiter</name><!-- Add your name where indicated. -->
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2023</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.reu.0002.004<!-- file name - same as xml:id above --></idno>
+<idno type="case">oscys.caseid.0687<!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main">Deposition of Peter Brown<!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<date when="1836-11-24">NOVEMBER 24, 1836</date><!-- Fill in date in both places. -->
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Deposition<!--Type of Document; e.g. - Deposition --></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1836-11">NOVEMBER 1836</date></term><!-- Fill in date in both places. -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term>Burt, John</term><term>Burt, John</term><term>Capt Reed</term><term>Massie, William</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term>Missouri</term><term>Ohio</term><term>St. Louis</term><term>New Orleans</term><term>Pittsburgh</term><term>Louisville</term><term>Quincy</term><term>Alton</term><term>St. Louis County</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+</keywords>
+
+<keywords scheme="original" n="outcome">    
+<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName>Gantt, Edward</persName> 
+</person>
+<person role="defendant"> 
+<persName>Baldwin, Thomas<!-- Last Name, First Name --></persName>
+</person>
+<person role="attorney_petitioner">
+<persName>Allen<!-- Last Name, First Name --></persName><!-- If needed --><persName>Gamble</persName>
+</person>
+<person role="attorney_defendant">
+<persName>J. Spalding<!-- Last Name, First Name --></persName><!-- If needed -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName>Missouri. Circuit Court (Saint Louis)<!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
+<placeName>Saint Louis (Mo.)<!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>             
+<change when="2024-06-14" who="ER">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
+
+<p>Edward Gantt vs. Thomas Baldwin ST. LOUIS CIRCUIT COURT. <pb></pb>
+Take notice that on the 24th day of November in the year of our Lord on thousand eight hundred and thirty-six, between the 
+hours of eight in the forenoon and five in the afternoon, of 
+that day, at the office of David Hough in the
+City of St. Louis
+depositions will be taken by the undersigned, to be read on the trial of the 
+above entitled case, on behalf of the defendant; and that the taking 
+of said depositions, if not completed on that day, will be continued from day to
+day at the same place and between the same hours, until completed.
+To the above named plaintiff &amp; Allen &amp; Gamble his attys. 19 Novr. 1836 Thomas Baldwin </p>
+
+<pb xml:id="p002"/>
+
+<p>Gantt vs. Baldwin notice <lb></lb>
+County of St. Louis ss; Peter Brown being sworn says that he gave a true 
+copy of written notice to messrs Allen &amp; 
+Gamble attorneys at St. Louis on this 19th November 1836 sworn to &amp; subscribed before
+me this 19 Nov. 1836  
+D. Hough, <unclear>P G Burns</unclear>
+</p>
+
+<pb xml:id="p003"/>
+<p>State of Missouri County Saint Louis ss Deposition of a witness produced
+sworn and examined the twenty fourth day
+of November eighteen hundred and thirty six, between
+the hours of eight in the afternoon and five
+in the afternoon of said day, in pursuance of the
+notice hereto announced before me D Hough a
+<unclear>justice</unclear> of the peace within and for the County aforesaid
+, at my office in the City of Saint Louis,
+in a certain cause now pending in the Circuit
+Court of Saint Louis County between Edward
+Gantt plaintiff and Thomas Baldwin defendant
+on behalf of the defendant <lb></lb>
+
+John Burt being produced sworn and
+examined deposith and saith that he went
+on board the Steam Boat Tempest as
+<unclear>clerk</unclear> in September 1835 and remained
+on board after as clerk till the ensuing
+April, and then as capitain 
+till August 1836 _ the said Boat
+was at St. Louis on the 24th November
+1835 _ an attempt was made to go
+up to Quincy, but ran up 3 or 4 miles
+above Alton and was prevented ascending
+higher on account of it. 
+
+<pb xml:id="p004"/>
+
+and then returned to St. Louis _ and
+again attempted to go up, and succeeded
+in going a little higher than
+the first time, but found the river
+frozen over and finally returned
+again to St. Louis _ and then the said 
+Boat started for Louisville somewhere
+toward the 10th <unclear>dec</unclear> - 1835 the exact day
+not recollected _ The Lady Jackson
+Stean Boat started from St. Louis <del>for 
+Louisville</del> <add>down the river</add> the day before the Tempest
+did, and on the voyage the Tempest
+overtook her aground about 100 miles
+below St. Louis, and took her passengers
+who were bound for Louisville _ 
+The Steam Boat Indian left St. Louis
+for Louisville on the same day the
+Tempest did perhaps about 4 or 5
+hours before the Tempest left, and 
+about 9 Oclock in the morning _ the Tempest
+left about 12 or 1 - The Tempest
+overtook the Indian also and took
+her passengers - it was a very icy
+time _ The trip above mentioned 
+was the last trip the Tempest made
+
+<pb xml:id="p005"/>
+
+from St. Louis in 1835 - There was
+a deck passenger came on board
+at St. Louis with three negroes, two
+of them females and one boy _ they
+were all black, should think the
+eldest female to be about 18 years
+old _ the said passenger claims
+them as his negroes paid their passage
+to the mouth of the Ohio, at which
+place he took them oft- There were
+no other negroes on board excepting
+the Chamber Maid and old <del>negro</del> mulatto
+woman who shipped from Pittsburgh
+and is now with this deponent on
+the J.D Pavillion _ there were also
+a negro fireman _ two cooks, free
+men, a <unclear>stuard</unclear>, free man, one cabin
+boy slave belonging to Baldwin _ the
+above mentioned negroes all came
+to St. Louis on the Boat _ soon after
+perhaps the next morning <add>or sometime during the next day</add> after the Boat
+arrived at Louisville, heard that the
+Tempest was charged with taking a
+mulatto woman from St. Louis
+
+<pb xml:id="p006"/>
+
+<add>heard it</add> from Capt Reed of the Steam Boat <unclear>Gov</unclear>-Clark
+which Boat the Tempest met on that trip about twenty
+miles below St. Louis _ the report
+led to conversation among the 
+hands &amp; crew of the Boat, and
+enquiry on the part of the Africans 
+deponent is confident that no
+negro or Mulatto woman except
+what property belonged to the Boat
+was on said Boat during her
+last trip to Louisville, this deponent
+made search on this trip
+as well as all others to see that
+no person was on board who did 
+not belong on the Boat, always made
+search immediately on leaving port
+being so instructed by the Capt and 
+having frequently heard of difficult 
+ties arising from taking away
+Slaves _ deponent <add>on that trip</add> went in to all
+parts of the Boat except the hold _
+visiting the hold was the duty of the
+mate _ The cargo consisted entirely
+of Lead about 20 Tons _ It was very
+
+<pb xml:id="p007"/>
+
+cold freezing weather during all
+said trip _ No Boat overtook the
+Tempest on the trip _ <lb></lb>
+Cross Examined <lb/>
+The other girl spoken of above above
+was small, not more than 14 year old _
+Known of no other Boat leaving St. Louis
+the same day the Tempest did except
+the Indian _ The "Aid" was advertised
+to leave the same day but do not
+know whether she did _ <unclear>she</unclear> was the
+only Boat lying in port bound for
+Louisville _ does not know when 
+the Aid arrived in Louisville, does
+not know whether she or the Gov Clark
+arrived first _ The Indian arrived at
+Louisville after the Tempest, but does
+not recollect how long after, or whether
+she or the Gov Clark arrived first _
+Lady Jackson did not arrive at all
+while the Tempest <unclear>lay</unclear> at Louisville
+which was 5 or 6 days - The Tempest
+arrived at Louisville in the evening &amp; witness
+saw Capt Reed of the Gov Clark the next
+
+<pb xml:id="p008"/>
+
+morning as he thinks _ thinks the Gov
+Clark arrived within 24 hours after
+the tempest - no person by the name of 
+Mr Massie was on board that trip &amp;
+witness knows no man by that name.
+Known a man by the name of Massie now
+Capt of Robert Morris, dont know his
+Christian name _ no assistant
+clerk that trip, there was one the
+trip before, but he remained at Louisville
+sick _ witness does not recollect 
+the number of freemen on board
+that trip, does no recollect whether
+any freemen were engaged at St. Louis,
+but thinks there were none, nor on
+the trip _ the J. B. Robert Morris arrived
+at Louisville from St. Louis while
+the Tempest lay at Louisville before 
+she went to N Orleans and arrived
+there after the Gov Clark <lb></lb>
+Sworn to and subscribed
+before me this 24th November
+AD 1836 - <pb/>
+D Hough J.P. <pb/>
+John Burt <pb/>
+State of Missouri <pb/>
+County Saint Louis <pb/>
+a justice of the peace within and for the
+
+<pb xml:id="p009"/>
+
+County aforesaid do certify that
+John Burt the foregoing witness was
+by me sworn to testify the whole truth
+touching the matter in controversy aforesaid,
+that he was examined, and
+his examination reduced to writing
+sworn &amp; subscribed to by said witness
+all in my presence, on the day between
+the hours and at the place in that
+behalf first aforesaid <lb></lb>
+Justice for $2 <add>50</add>
+paid by <unclear>H M Davis</unclear>
+for defendant <lb/>
+D Hough
+
+<pb xml:id="p010"/>
+
+Gantt vs Baldwin <lb/>
+Deposition <lb/>
+Opened &amp; filed 19th Nov: 1837 <lb/>
+John Ruland Clerk
+
+</p>
+</div1>
+    
+</body>
+</text>
+</TEI>

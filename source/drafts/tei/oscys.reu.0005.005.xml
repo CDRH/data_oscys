@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0005.005"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+    
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> Paul Jones v. George Jones<!-- Case Name. Document (e.g. - Edward Queen v. John Ashton. Deposition of Thomas Warfield) --></title>
+<principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
+<respStmt>
+<resp>transcription and encoding</resp>
+<name n="Williams, Zoe" xml:id="ZW">Zoe Williams</name><!-- Add your name where indicated. -->
+</respStmt>
+<sponsor>University of Nebraska-Lincoln</sponsor>
+<sponsor>National Endowment for the Humanities</sponsor>
+</titleStmt>
+    
+<editionStmt>
+<edition>
+<date>2023</date>
+</edition>
+</editionStmt>
+            
+<publicationStmt>
+<authority>O Say Can You See</authority>
+<publisher>University of Nebraska-Lincoln</publisher>
+<distributor>
+<name>Center for Digital Research in the Humanities</name>
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska&#8211;Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+</distributor>
+<idno type="project">oscys.reu.0005.005<!-- file name - same as xml:id above --></idno>
+<idno type="case">oscys.caseid.0690<!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+
+<availability>
+<licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
+<p>Licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Derivatives must be credited to O Say Can You See, made available non-commercially, and distributed under the same terms. Requests for permission for commercial publication or other use should be emailed to the project team.</p>
+</availability>
+</publicationStmt>
+            
+<sourceDesc>
+<bibl>
+<title level="m" type="main"> Interrogatory of Lewis F Linn, Eloy Le Compte, and John Scott=<!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
+<date when="1840-09-19">September 19th, 1840</date><!-- Fill in date in both places. -->
+<note type="project">Our transcription is based on a digital image of the original.</note>
+</bibl>
+<msDesc>
+<msIdentifier>
+<repository></repository>
+<collection></collection>
+<idno></idno>
+</msIdentifier>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+        
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="category">
+<term>Case Papers</term>
+</keywords>
+    
+<keywords scheme="original" n="subcategory">
+<term>Interrogatory<!--Type of Document; e.g. - Deposition --></term>
+</keywords>
+
+<keywords scheme="original" n="type">
+<term>Civil</term>
+</keywords>
+
+<keywords scheme="original" n="subtype">
+<term>Petition for Freedom</term>
+</keywords>
+
+<keywords scheme="original" n="term">
+<term><date when="1840-09">September 1840</date></term><!-- Fill in date in both places. -->
+</keywords>
+    
+<keywords scheme="lcsh" n="people"> 
+<term>Eloy Le Compte, John Le Compte, S. Le Compte, Lewis F. Linn, Mary, John Scott</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. Mary was also known was Caiwnin-->  
+</keywords>
+
+<keywords scheme="lcsh" n="places">    
+<term>Illinois, Missouri, Wisconsin, St. Genevieve, Kaskaskia, Prairie Du Rocher</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+</keywords>
+
+<keywords scheme="original" n="outcome">    
+<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+</keywords>
+
+</textClass>
+            
+<particDesc>   
+<listPerson>            
+<person role="petitioner">
+<persName> Jones, Paul<!-- Last Name, First Name --></persName> 
+</person>
+<person role="defendant"> 
+<persName> Jones George<!-- Last Name, First Name --></persName>
+</person>
+<person role="attorney_petitioner">
+<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+</person>
+<person role="attorney_defendant">
+<persName><!-- Last Name, First Name --></persName><!-- If needed -->
+</person>
+</listPerson>
+            
+<listOrg>
+<org>
+<orgName> Wisconsin Territory District Court (Grant County)<!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
+<placeName>Lancaster, WI<!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+</org>
+</listOrg>   
+</particDesc> 
+</profileDesc>
+        
+<revisionDesc>             
+<change when="2024-06-17" who="ZW">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+</revisionDesc>
+
+</teiHeader>
+    
+<text>
+
+<body>  
+               
+<div1 type="case">
+
+<pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
+
+<p> State of Missouri County of St Genevieve</p>
+<p>Paul Jones man of color
+vs
+G W Jones</p>
+<p>Trespass on premises in the
+district county for the county
+of Grant Territory of Wisconsin
+We the undersigned two of commissiners 
+in the annexed commission named &amp; to us directed
+by the Honorable the District court for the county of
+<unclear></unclear> in the Territory of Wisconsin did on the
+19<hi>th</hi> day of September AD 1840 cause to come before
+us as the court house in the town of the St Genevieve 
+and State of Missouri Lewis F Linn John Scott and
+Eloy Le Compte three of the persons in the caption
+of said several interrogatives named being unable
+to procure the attendance of the others as witnesses to
+answer said interrogatories or the part of the defendant
+in the above named suit and they bring duly
+sworn upon this corporal oaths  by us examined
+diligantly &amp; faithfully upon said interrogatives
+in the order in which they propounded and
+the answer of each of them thereto annexed in the
+order in which the same was given</p>
+    
+<p>Conrad L. Ziegler
+La. Grafton</p>
+    
+<pb xml:id="p002"/>
+    
+<p>of these interrogatives named or either of them
+and how long have you known them respectively</p>
+    
+<p>2<hi>nd</hi> Interrogatory- Are you acquainted with the 
+hand writing of S. La Compte John H Le Compte
+and Eloy Le Compte the vendors whose names
+are signed to the annexed Bill of sale marked
+A. if so pleae state;</p>
+    
+<p>3 interrogatory- Were you present when the said
+Bill of Sale or instrument in writing was executed
+and delivered to George W. Jones the defendant and
+did you sign the same as subscribing witnesses</p>
+    
+<p>4<hi>th</hi>interrogatory- Is the signature of Lewis F Linn
+attached to the said instrument of writing as
+a subscribing witness to the same your own signature,
+if so state when you signed the same
+and at whose request?</p>
+    
+<p>5<hi>th</hi> interrogatory Are you or either of you acquainted
+with the coloured man named Paul sold
+and transferred in the said bill of sale and do
+you or either of you know was  his mother
+whether she was or is a slave so called under
+the right of property secured to the ancient inhabitants
+of the vilage of Kaskaskia and Prairie Du 
+Rocher then north western territory now Illinois
+by the orderance of congress of the thirtennth day
+of July AD 1787 for the government of the 
+Territory of the United States north west of the
+Ohio river if so pleae state all you know in
+relation to as fully as if particularly interrogated
+thereto?</p>
+    
+<p>6<hi>th</hi>interrgatory Do you know where and</p>
+    
+<pb xml:id="p003"/>
+    
+<p>mentioned in the said bill of sale and the plantiff
+in this suit was born and whether before the
+sale to the defendant George W Jones as aforesaid
+he was bound to vendor service to this former
+owner for life as a slave so called according
+to the ancient usages and customs governing 
+French and Canadian inhabitants of said
+vilages</p>
+    
+<p>7 interrogatory Do you know if the sale of 
+the said colored man called Paul mentioned
+in the said bill of sale to the defendant was
+with or against the wish &amp; request of the said
+Paul and did or not the said Paul go willingly
+into the service of the said defendant</p>
+    
+<p>8<hi>th</hi> interrogatory Do you known of any other matter
+or thing further that may tend to the benefit
+and advantages of the defendant in this cause
+in the elucidation of this subject if so please
+state fully &amp; particularly</p>
+    
+<p>When Lewis F Linn who being first duly sworn
+answers to said interrogatories as follows to the
+first he answers &amp; says that he knowns both the 
+parties plaintiff and defendant that he has known
+the plantiff &amp; defendant that he has known
+the plaintiff about seventeen years and the defendant
+since he was a small boy</p>
+
+<p> And to the second interrogatory he answers &amp; says
+that he is acquainted with the handwriting of S Le Compte
+John H Le Compte &amp; Eloy Lecompte that the signatures
+of said persons to the bill of sale marked A
+is in the proper hand writing of said persons that
+his knowledge of this handwriting is derived from
+the part of having seen them often write &amp; also
+from having seen them sign &amp; acknowledge</p>
+    
+<pb xml:id="p004"/>
+    
+<p>Said Bill of sale
+and to the third interrogatory he answers &amp; says
+that he was present when said instrument of writing
+was executed &amp; delievered to George W Jones and that
+he signed the same as a subscribing witness</p>
+
+<p>And for answers to the fourth interrogatory
+he answers &amp; says that the signatures of Lewis F
+Linn to said instrument is his proper handwriting
+&amp; signature and that he subscribed the same on the 
+day and year it porports to be executed and at the
+request of the parties thereto</p>
+
+<p>And for answer to the 5<hi>th</hi>interrogatory he answers
+and says that he has been acquainted with Paul
+who was transferred by said bill of sale about
+Seventeen years. that he (Paul) was brot to Missouri
+from Illinois by the vendor as a slave that he was
+by said bill of sale sold to George W. Jones as a slave
+and that Paul acknowledged to him <del></del> that he 
+was a slave and that he was born in the family
+of LE Compte in Illinois &amp; Prairie Du Rocher
+and that <del>that<add>from part</add></del> of his own knowledge he believes that said
+Paul was born in Illinois and that he always
+understood that Paul was what was called 
+a French slave. held under the ordinance
+of the 13<hi>th</hi> July AD 1787 as to the mother of Paul
+he say he knows nothing</p>
+    
+<p>And for the answer to the sixth interrogatory he says
+that of his own knowledge he does not know when said
+Paul was born but has always understood from
+the family of Le compte &amp; from others that he was
+born in Prairie Du Rocher Illinois as a French slave
+And for answers to the the seventh interrogatory he 
+answers &amp; says that the sale of Paul by the vendor
+in the Bill of sale named to George. W. Jones was
+made at the request and desire of Paul and
+that Paul was very anxious that Jones </p>
+    
+<pb xml:id="p005"/>
+    
+<p>And for the answer to the 3<hi>d</hi>  interrogatory he
+answers &amp; says that the mother of said Paul
+was well known to him that she was a Slave
+in Illinois prior to the year 1787 that she was purchased
+of one Lacond resident of Illinois either a Canadian
+by birth or <del><add></add></del> of Canadian parents that she resided
+until within a few years in the village of Prairie Du Rocher
+Illinois that she was sometimes called so mulle alias
+Caiwnin that her right name is Mary that he always
+understood from the family and others that she was
+what was called a French slave for life she purchased
+her freedom of S. Le. Compte between the years 1820 and
+1824 for the sum of two hundred dollars as near as 
+he can remember</p>
+
+<p> And for answer to the 4<hi>th</hi> interrogatory he says
+that Paul was born in the Village of Prairie
+Du Rocher Illinois about the year 1805</p>
+ 
+<p>And for answer to the 5<hi>th</hi> interrogatory he says
+that Paul was held as a slave to service for life
+in Illinois under the laws &amp; usages of the late North
+Western Territory in favor of the ancient French
+&amp; Canadian inhabitants of the villages of Kashkakia
+Prairie Du Rocher &amp; Chahokia &amp; that said Paul was
+born the property of the father of deponent who
+always resided in Prairie Du Rocher Illinois and that
+he never was Canadian other than a slave for life</p>
+
+<p>And for answer to the 6<hi>th</hi> interrogatory he says
+that from the information received from the family
+and from others who were old enough to known
+he always understood &amp; believes that the mother
+of Paul was a slave in Prairie Du Rocher Illinois
+prior to the 13 July 1787 held &amp; owned and such
+by one of the Canadian inhabitants mentioned 
+in the 5<hi>th</hi> interrogatory And for answer to
+the 7<hi>th</hi> interrogatory he replies that from information
+derived from the family that the mother of Paul
+was held by the above named Lacond as a slave
+for life prior to 13<hi>th</hi> July 1787</p>
+   
+<pb xml:id="p006"/>
+
+<p>And for answer to the 8<hi>th</hi> interrogatory he answers
+&amp; that he is in no wise directly or indirectly 
+interested in the event of the said between Plantiff
+&amp; defendant above named</p>
+
+<p>And for answer to the 9<hi>th</hi> interrogatory he answers
+ &amp; says that he does not now remeber
+anything further that would tend to illucidate the
+mother in controversy    Eloy Le Compte</p>
+
+<p>We the undersigned two of the commissioners to
+whom the annexed commission was directed do
+herby certify that Lewis F Linn John Scott &amp; Eloy
+Le Compte three if the witnesses in the caption of the
+interrogatories named on the 9<hi>th</hi> day of september AD 1840
+of the court house in the town of St Genevieve and
+State of Missouri appeared before us to answer said
+interrogatories which were then &amp; there propounded to
+them in the order in which the same are herein set
+forth and were by us first sworn on the Holy 
+of almighty god to make true &amp; full answers to
+interrogatories and the answers herein given &amp; set forth
+are the answers given by said witnesses respectively and
+the signatures of said witnesses <hi>to said depostiion</hi> in the proper hand writing
+of said witnesses who subscribed the same in our
+presence on the day and year aforesaid at the place
+aforesaid and that said deponents were sworn to the court
+of said depositions after the same were reduced to writing
+&amp; subscribed by them of the time &amp; place aforesaid
+In witness whereof we have herewith
+set on hands this 9<hi>th</hi> day of september 1840
+St genevieve State of Missouri</p>
+
+<p>Conrad L. Ziegler
+La. Grafton</p>
+
+</div1>
+    
+</body>
+</text>
+</TEI>

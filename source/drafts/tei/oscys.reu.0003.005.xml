@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0003.002"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0003.005"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title> Matilda v. Isaac Van Bibber. Summons of Isaac Van Bibber.</title>
+<title>Matilda v. Van Bibber, Summons of John P. Cabina</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="Martinez, Miranda" xml:id="MM">Miranda Martinez</name><!-- Add your name where indicated. -->
+<name n="KNOPIK, ANDY" xml:id="AK">ANDY KNOPIK</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.reu.0003.002</idno>
+<idno type="project">oscys.reu.0003.005</idno>
 <idno type="case">oscys.caseid.0688</idno>
 
 <availability>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of Isaac Van Bibber</title>
-<date when="1815-04-20">April 20, 1815</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Summons of John P. Cabina</title>
+<date when="1815-09-13">SEPTEMBER 13, 1815</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -78,18 +78,19 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1815-04">MONTH YEAR</date>April 1815</term><!-- Fill in date in both places. -->
+<term><date when="1815-09">SEPTEMBER 1815</date></term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Christy, William</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term>John P. Cabina</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Missouri, Saint Charles.</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>St. Charles</term><term>St. Louis</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
 </keywords>
-<keywords scheme="original" n="outcome">    
-<term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
+
+<keywords scheme="original" n="outcome">
+<term></term>
 </keywords>
 
 </textClass>
@@ -97,7 +98,7 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName>Matilda</persName> 
+<persName>Mathilda</persName> 
 </person>
 <person role="defendant"> 
 <persName>Van Bibber, Isaac</persName>
@@ -106,22 +107,21 @@
 <persName>McGirk, Mathias</persName><!-- If needed -->
 </person>
 <person role="attorney_defendant">
-<persName>Carr, William</persName><!-- If needed -->
+<persName>Christy, William</persName><!-- If needed -->
 </person>
 </listPerson>
             
-
 <listOrg>
 <org>
-<orgName>Missouri. Circuit Court (Saint Charles)</orgName>
-<placeName>Saint Charles (Mo.)</placeName>
+<orgName>Missouri. Circuit Court</orgName>
+<placeName>Saint Charles, (Mo.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="2024-06-11" who="MM">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-12" who="AK">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -134,64 +134,21 @@
 
 <pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
-<p>Territory of Missouri <lb/>
-County of St. Charles</p>
-
-<p>SS</p>
-
-<p>The United States of America to the Sheriff of said County Greeting</p>
-
-<p>We command you to summon Issac Van Bibber
-if he is found in your County, to be and appear before 
-His Honarable the Judge of our Circuit Court
-to be holden for the county of Saint Charles at the
-Court house in the town of Saint Charles, on
-the first monday in July <unclear>third</unclear>being the third day of 
-said month then &amp; there to answer onto Matilda
-a free black girl in a plea of trespass, <unclear>with
-arms,</unclear> to the damage of the said Matilda
-five thousand dollars<unclear>Have him there by then.</unclear></p>
-
-<p><unclear>Apoint</unclear> William Christy Jr, Clerk
-our said Circuit Court at Saint
-Charles the twentieth day of April
-in the year of our Lord one thousand 
-eighteenth and fifteen and in 
-the thirty nineth year of the independence
-of the United States</p>
-
- <p>WM Christy Jr.</p>
-
-<pb/>
-
-<p>Greeting
-N <unclear>Simmons</unclear>Sheriff</p>
-
-<p>1 Summons 0.80
-Mileage 2.50
-$3.30</p>
-
-<p>8</p>
-
-<p>Matilda a free black
-girl
-vs.
-Isaac Van Bibber</p>
-
-<p><unclear> Sector in trespass 
-with forces arising </unclear>
-Damages $5,000</p>
-
-<p>To the Clerk
-Let a Summons
-in trespass <unclear> be it aimlessness</unclear>
-Damages $5000
-M McGirk
-Atty</p>
-
-<p><unclear>Filed</unclear>20th day April 1815</p>
-
-<p>WM Christy <unclear>Jr</unclear></p>
+<p>Executed, This Subpo by reading To
+John P Cabbeina Saint Louis Sept
+13th 1815 For John <unclear>N</unclear> Thompson Sheriff
+<unclear>A. B. Cano</unclear> D Sheriff
+Service, 33 Cents</p>
+<p>St. Charles<lb/>
+Circuit Court,<lb/>
+October Term 1815.</p>
+<p>Matilda, Black Girl,<lb/>
+16th Sept <lb/>
+Isaac Vanbibber</p>
+<p>Summon <lb/>
+John P. Cabina <lb/>
+for plff.<lb/>
+Executed</p>
 
 </div1>
     

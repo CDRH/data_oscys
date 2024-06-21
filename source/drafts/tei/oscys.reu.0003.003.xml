@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0003.002"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0003.003"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
     
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title> Matilda v. Isaac Van Bibber. Summons of Isaac Van Bibber.</title>
+<title> Matilda v. Isaac Van Bibber. Petition for Freedom.</title>
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
@@ -34,7 +34,7 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project">oscys.reu.0003.002</idno>
+<idno type="project">oscys.reu.0003.003</idno>
 <idno type="case">oscys.caseid.0688</idno>
 
 <availability>
@@ -45,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main">Summons of Isaac Van Bibber</title>
-<date when="1815-04-20">April 20, 1815</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Petition for Matilda</title>
+<date when="1815-07">July, 1815</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -66,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term>Summons</term>
+<term>Petition</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -78,16 +78,17 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="1815-04">MONTH YEAR</date>April 1815</term><!-- Fill in date in both places. -->
+<term><date when="1815-07">MONTH YEAR</date>July 1815</term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
-<term>Christy, William</term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
+<term></term><!-- Alphabetized. Only people mentioned in the document. Parties and attorneys go in particDesc. -->  
 </keywords>
 
 <keywords scheme="lcsh" n="places">    
-<term>Missouri, Saint Charles.</term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
+<term>Missouri, Saint Charles, Saint Charles, Saint Louis. </term><!-- Places mentioned in the document, organized by largest place first: States, then Counties, then Cities. -->
 </keywords>
+
 <keywords scheme="original" n="outcome">    
 <term></term><!-- Was the outcome of the case stated in this document? What was it? e.g. - Judgment for Petitioner -->
 </keywords>
@@ -110,18 +111,17 @@
 </person>
 </listPerson>
             
-
 <listOrg>
 <org>
 <orgName>Missouri. Circuit Court (Saint Charles)</orgName>
-<placeName>Saint Charles (Mo.)</placeName>
+<placeName>Saint Charles (MO.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="2024-06-11" who="MM">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-14" who="MM">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -134,64 +134,47 @@
 
 <pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
-<p>Territory of Missouri <lb/>
+<p>Territory of Missouri
 County of St. Charles</p>
 
 <p>SS</p>
 
-<p>The United States of America to the Sheriff of said County Greeting</p>
+<p>In the Circuit Court 
+Northern Circuit July 
+Term 1815</p>
 
-<p>We command you to summon Issac Van Bibber
-if he is found in your County, to be and appear before 
-His Honarable the Judge of our Circuit Court
-to be holden for the county of Saint Charles at the
-Court house in the town of Saint Charles, on
-the first monday in July <unclear>third</unclear>being the third day of 
-said month then &amp; there to answer onto Matilda
-a free black girl in a plea of trespass, <unclear>with
-arms,</unclear> to the damage of the said Matilda
-five thousand dollars<unclear>Have him there by then.</unclear></p>
+<p>Matilda a free black girl by her attorney <unclear>complain
+aims</unclear> of Isaac Van Bibber in a plea of trespass with 
+force and arms for that on the first day of April
+in the year one thousand eight hundred and 
+fourteen at St. Louis to wit at St. Charles and 
+within the jurisdiction of the court the said
+Isaac with force and arms made an assault 
+on the said Matilda and then and there beat 
+wounded and ill treated the said Matilda whereof 
+the said Matilda was in great danger of loosing 
+her life and also for that afterwards to wit on
+the same day and year aforesaid at the plea
+aforesaid with force and arms the said Isaac 
+then and there made another assault on the 
+said Matilda and then and again beat wounded
+and imprionsed and ill treated the said 
+Matilda and her the said Matilda put
+in prison without any reasonable 
+cause against the view of the said Matilda 
+and against the <unclear>causes</unclear> of the land for a 
+long time to <unclear>wit</unclear> ever since that times to the
+jury of this present action and fail actions 
+the said Matilda without reasonable 
+cause and against her view and many other
+injuries then &amp; there did to the said Matilda
+contrary to the peace and dignity of 
+the United States and to the damage of 
+the said Matilda five thousand dollars 
+therefore she sues. </p>
 
-<p><unclear>Apoint</unclear> William Christy Jr, Clerk
-our said Circuit Court at Saint
-Charles the twentieth day of April
-in the year of our Lord one thousand 
-eighteenth and fifteen and in 
-the thirty nineth year of the independence
-of the United States</p>
-
- <p>WM Christy Jr.</p>
-
-<pb/>
-
-<p>Greeting
-N <unclear>Simmons</unclear>Sheriff</p>
-
-<p>1 Summons 0.80
-Mileage 2.50
-$3.30</p>
-
-<p>8</p>
-
-<p>Matilda a free black
-girl
-vs.
-Isaac Van Bibber</p>
-
-<p><unclear> Sector in trespass 
-with forces arising </unclear>
-Damages $5,000</p>
-
-<p>To the Clerk
-Let a Summons
-in trespass <unclear> be it aimlessness</unclear>
-Damages $5000
-M McGirk
-Atty</p>
-
-<p><unclear>Filed</unclear>20th day April 1815</p>
-
-<p>WM Christy <unclear>Jr</unclear></p>
+<p>M. McGirk, atto
+for Plaintiff</p>
 
 </div1>
     

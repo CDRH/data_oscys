@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.2.6.0/tei_all.rng" type="xml"?> 
 
-<<<<<<<< HEAD:source/drafts/tei/oscys.reu.0005.003.xml 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0005.001">
-========
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0001.005">
->>>>>>>> 4a0ffc3cf990886f4984cb764dd76c26d5aaa234:source/drafts/tei/oscys.reu.0001.005.xml
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="oscys.reu.0005.008"><!-- Insert file name inside quotes. Check spreadsheet; e.g. - oscys.reu.0011.015 -->
     
 <teiHeader>
 <fileDesc>
@@ -14,7 +10,7 @@
 <principal n="Thomas, William G., 1964-" xml:id="wgt">William G. Thomas III</principal> 
 <respStmt>
 <resp>transcription and encoding</resp>
-<name n="LAST, FIRST" xml:id="INITIALS">FULL NAME</name><!-- Add your name where indicated. -->
+<name n="Mendiola, Madison" xml:id="MKM">Madison Mendiola</name><!-- Add your name where indicated. -->
 </respStmt>
 <sponsor>University of Nebraska-Lincoln</sponsor>
 <sponsor>National Endowment for the Humanities</sponsor>
@@ -38,8 +34,8 @@
 <addrLine>cdrh@unl.edu</addrLine>
 </address>
 </distributor>
-<idno type="project"><!-- file name - same as xml:id above --></idno>
-<idno type="case"><!-- caseid number, check spreadsheet; e.g. - oscys.caseid.0323 --></idno>
+<idno type="project">oscys.0005.008</idno>
+<idno type="case">oscys.caseid.0690</idno>
 
 <availability>
 <licence>http://creativecommons.org/licenses/by-nc-sa/3.0/</licence>
@@ -49,8 +45,8 @@
             
 <sourceDesc>
 <bibl>
-<title level="m" type="main"><!--Name of Document; e.g. - Deposition of Thomas Warfield --></title>
-<date when="yyyy-mm-dd">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
+<title level="m" type="main">Jury Instructions</title>
+<date when="1839-08-31">MONTH DAY, YEAR</date><!-- Fill in date in both places. -->
 <note type="project">Our transcription is based on a digital image of the original.</note>
 </bibl>
 <msDesc>
@@ -70,7 +66,7 @@
 </keywords>
     
 <keywords scheme="original" n="subcategory">
-<term><!--Type of Document; e.g. - Deposition --></term>
+<term>Jury Instructions</term>
 </keywords>
 
 <keywords scheme="original" n="type">
@@ -82,7 +78,7 @@
 </keywords>
 
 <keywords scheme="original" n="term">
-<term><date when="yyyy-mm">MONTH YEAR</date></term><!-- Fill in date in both places. -->
+<term><date when="1839-08">October 1839</date></term><!-- Fill in date in both places. -->
 </keywords>
     
 <keywords scheme="lcsh" n="people"> 
@@ -102,10 +98,10 @@
 <particDesc>   
 <listPerson>            
 <person role="petitioner">
-<persName><!-- Last Name, First Name --></persName> 
+<persName>Jones, Paul</persName> 
 </person>
 <person role="defendant"> 
-<persName><!-- Last Name, First Name --></persName>
+<persName>Jones, George W.</persName>
 </person>
 <person role="attorney_petitioner">
 <persName><!-- Last Name, First Name --></persName><!-- If needed -->
@@ -117,15 +113,15 @@
             
 <listOrg>
 <org>
-<orgName><!-- Name of the Court listed on spreadsheet - e.g. Maryland. General Court of the Eastern Shore --></orgName>
-<placeName><!-- Location of the Court listed on spreadsheet - e.g. Easton (Md.) --></placeName>
+<orgName>Wisconsin Territory. District Court (Grant County)</orgName>
+<placeName>Lancaster (Wi.)</placeName>
 </org>
 </listOrg>   
 </particDesc> 
 </profileDesc>
         
 <revisionDesc>             
-<change when="yyyy-mm-dd" who="#ini">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
+<change when="2024-06-18" who="MKM">Transcribed, encoded.</change><!-- Fill in the date and your initials as defined above. -->
 </revisionDesc>
 
 </teiHeader>
@@ -138,56 +134,42 @@
 
 <pb xml:id="p001"/><!-- Add a new page break for every new page and change the page number. -->
 
-<<<<<<<< HEAD:source/drafts/tei/oscys.reu.0005.003.xml 
-<p>Interrogations to the propounded to the Elroy Le Compte Francis Baptist Valle, Bartholomew <unclear/> Durreher and Joseph Bogy of the Lou of St. Genevieve and State of Missouri with helps to the produced sworn and examined in a certain cause at common law now pleading and undetermined in the United States district court for the County of Grant and territory of Wisconsin wherein Paul Jones a colored man is plantiff and  George W. Jones is defendant on the part and in behalf of the laid defendant.</p> 
-========
-<p><!-- Start transcribing your document. Each chunk of text gets its own paragraph tags. --></p>
-<p>Ann a free black woman <lb/>
-vs. <lb/> 
-H Haight</p>
+<p>1 <hi>st</hi> the Defendant ask the court to instruct the jury 
+that if they believe from the testimony that the plaintiff 
+is a French slave or a descendant of a French Slave
+owned as such under the treaty with the french <add>&amp; other inhabitants</add> 
+<add>of the North Western territory</add> <s></s> at the time the North Western Territory was 
+<add>conquered</add> by the United States <add>under Treaty with said inhabitants</add> then he cannot recover. </p>
 
-<p> <unclear></unclear> trespass
-Damages $500 </p>
+<p>2 if there is not a contract expressed or implied 
+proven to pay for services rendered, then the 
+plaintiff cannot recover</p>
 
-<p> Executed the 8<hi>th</hi> day of Octo 1816 <lb/>
-<unclear></unclear> Devine Sherrif
-Service $.80_
-Mileage $.70</p>
+<p>If the jury believe from the testimony that 
+the plaintiff acknowledged himself indebted 
+to the defendant after he had left the defendants 
+services than it is necessary, that the plaintiff should 
+<s></s> prove indebtedness from plaintiff to the 
+defendant after such acknolwedgement <add>of indebtedness</add> was made 
+</p>
 
-<p>To the Clerk of the 
-Circuit Court for
-St Charles County
-in Northern Circuit</p>
+<p>4<hi>th</hi> If the jury believe from the testimony that the plaintiff 
+went into the service of the defendant of his plaintiff owns 
+accord solicitation and request them there must be 
+an express undertaking and promise to pay by the by the <add>proved</add> defendant  
+before he can recover</p>
 
-<p>Let a summons
-issue in this case </p>
+<p>5<hi>th</hi> to enable the plaintiff to recover <unclear></unclear>
+indebtedness assumpset count there must be a 
+contract proved to pay some amount certain</p>
 
-<p>McGirk &amp; Tom <lb/>
-Tompkins </p>
-
-
-<p>Filed the 25<hi>th</hi> July 1816 <lb/>
-William Christy Jr. Clerk </p>
-
-<p>Received the within declaration with summons enclosed on the 28 <hi>th</hi> august
-1816 and executed the same at the Residence of the defendant in the township 
-of Portage Des Souix on the eighth day of October 1816 </p>
-
-<p><unclear></unclear> Devine Sheriff</p>
-
-
-
-
-
-
-
-
-<p> 
-
-
->>>>>>>> 4a0ffc3cf990886f4984cb764dd76c26d5aaa234:source/drafts/tei/oscys.reu.0001.005.xml
-
-
+<pb xml:id="p002"/>
+<p>## 31
+ Paul Jones man of color v Geo W Jones</p>
+<p>Filed in Grant County 
+work Office Oct 31 <hi>st</hi> 
+1939
+## Jn<hi>o</hi> L ### Clerk</p>
 </div1>
     
 </body>
