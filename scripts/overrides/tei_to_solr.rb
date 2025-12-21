@@ -24,7 +24,7 @@ class TeiToSolr
 
   def build_title_fields(x, title)
     x.field(title, "name" => "title")
-    x.field(CommonXml.normalize_name(title), "name" => "titleSort")
+    x.field(Datura::Helpers.normalize_name(title), "name" => "titleSort")
     # grab the first letter of the title
     letter = title[0] ? title[0].downcase : ""
     x.field(letter, "name" => "titleLetter_s")
