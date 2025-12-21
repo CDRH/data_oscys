@@ -10,7 +10,7 @@ class Datura::DataManager
 
   def get_doc_type(xml)
     categories = xml.xpath("//keywords[@n='category']")
-                    .map { |node| CommonXml.normalize_space(node.text) }
+                    .map { |node| Datura::Helpers.normalize_space(node.text) }
     categories.include?("Case Papers") ? "document" : "related.document"
   end
 

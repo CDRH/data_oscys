@@ -11,13 +11,13 @@ class TeiToSolrPersonography < TeiToSolr
     @people_xml = CommonXml.create_xml_object(file_location)
     @viaf = @people_xml.at_xpath("//sourceDesc[1]//bibl[1]/ref/text()").text
     # Note different than tei_to_solr build_pi_fields because of how personography would call it repeatedly
-    @principals = @people_xml.xpath("//principal").map { |pi| CommonXml.normalize_space(pi.text) }
+    @principals = @people_xml.xpath("//principal").map { |pi| Datura::Helpers.normalize_space(pi.text) }
   end
 
   def build_json_field(val, label=nil)
     json = {}
 
-    json["label"] = label || CommonXml.normalize_space(val.text)
+    json["label"] = label || Datura::Helpers.normalize_space(val.text)
 
     # Note it seems wrong to have "date" be a non date format (includes text, etc)
     # but this is how it was being outputted in XSLT
@@ -183,7 +183,7 @@ class TeiToSolrPersonography < TeiToSolr
             person.traverse do |node|
               text << node.text if node.class == Nokogiri::XML::Text
             end
-            x.field(CommonXml.normalize_space(text.join(" ")), "name" => "text")
+            x.field(Datura::Helpers.normalize_space(text.join(" ")), "name" => "text")
           }
         end
       }

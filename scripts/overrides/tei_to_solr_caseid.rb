@@ -67,9 +67,9 @@ class TeiToSolrCaseid < TeiToSolr
       doc.xpath("//listPerson[@type='#{@id}']/person", "//listPerson[not(@*)]/person").each do |pnode|
         if pnode.text
           person = {
-            "label" => CommonXml.normalize_space(pnode.text),
+            "label" => Datura::Helpers.normalize_space(pnode.text),
             "id" => pnode["id"],
-            "role" => CommonXml.normalize_space(pnode["role"])
+            "role" => Datura::Helpers.normalize_space(pnode["role"])
           }
           if person["id"] && person["label"] && person["role"]
             # "person" contains all individuals mentioned cases regardless of roles
@@ -172,7 +172,7 @@ class TeiToSolrCaseid < TeiToSolr
               end
             end
           end
-          x.field(CommonXml.normalize_space(text.join(" ")), "name" => "text")
+          x.field(Datura::Helpers.normalize_space(text.join(" ")), "name" => "text")
 
           # NOTE this is a change from the original xpath which was looking for div1 type case
           narrative = get_field(@xml, "//div2[@type='narrative']")

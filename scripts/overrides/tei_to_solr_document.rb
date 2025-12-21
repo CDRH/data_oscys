@@ -62,7 +62,7 @@ class TeiToSolrDocument < TeiToSolr
 
           # contributor
           names = @xml.xpath("/TEI/teiHeader/fileDesc/titleStmt/respStmt/name")
-                      .map { |n| CommonXml.normalize_space(n.text) }
+                      .map { |n| Datura::Helpers.normalize_space(n.text) }
           names.each do |n|
             x.field(n, "name" => "contributors")
           end
@@ -115,9 +115,9 @@ class TeiToSolrDocument < TeiToSolr
           @xml.xpath("//listPerson/person").each do |pnode|
             if pnode.text
               person = {
-                "label" => CommonXml.normalize_space(pnode.text),
+                "label" => Datura::Helpers.normalize_space(pnode.text),
                 "id" => pnode["id"],
-                "role" => CommonXml.normalize_space(pnode["role"])
+                "role" => Datura::Helpers.normalize_space(pnode["role"])
               }
               if person["id"] && person["label"] && person["role"]
                 # "person" contains all individuals mentioned cases regardless of roles
@@ -183,7 +183,7 @@ class TeiToSolrDocument < TeiToSolr
               end
             end
           end
-          x.field(CommonXml.normalize_space(text.join(" ")), "name" => "text")
+          x.field(Datura::Helpers.normalize_space(text.join(" ")), "name" => "text")
         }
       }
     end

@@ -57,14 +57,14 @@ class TeiToSolr
       date_node = doc_xml.at_xpath("/TEI/teiHeader/fileDesc/sourceDesc/bibl/date")
     end
     if date_node
-      { "date" => date_node["when"], "dateDisplay" => CommonXml.normalize_space(date_node.text) }
+      { "date" => date_node["when"], "dateDisplay" => Datura::Helpers.normalize_space(date_node.text) }
     end
   end
 
   # returns an array of strings
   def get_field(xml_in, xpath)
     values = xml_in.xpath(xpath)
-    values = values.map { |val| CommonXml.normalize_space(val.text) }
+    values = values.map { |val| Datura::Helpers.normalize_space(val.text) }
     values.reject { |val| val.empty? }
   end
 
