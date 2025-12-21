@@ -40,6 +40,18 @@ class FileCsv < FileType
     # write_json_to_file("var testing = #{features.to_json};", "testing")
   end
 
+  def read_csv(file_location, encoding="utf-8")
+    # Updated from Datura v1.0.1
+    # https://github.com/CDRH/datura/blob/v1.0.1/lib/datura/file_types/file_csv.rb
+    CSV.read(file_location, **{
+      encoding: encoding,
+      headers: true,
+      return_headers: true,
+      header_converters: lambda {|f| f.strip},
+      converters: lambda {|f| f ? f.strip : nil}
+    })
+  end
+
   # no support for elasticsearch, leave blank
   def transform_es
   end
