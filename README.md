@@ -65,3 +65,36 @@ The Center for Digital Research in the Humanities (CDRH) is a joint initiative o
 **Center for Digital Research in the Humanities GitHub:** [https://github.com/CDRH](https://github.com/CDRH)
 
 **Center for Digital Research in the Humanities Website:** [https://cdrh.unl.edu/](https://cdrh.unl.edu/)
+
+## Index Data in Solr
+
+Ensure `threads` config in any `private.yml` overrides stays `1`.
+Run the Datura commmands from this repository to create the Solr core.
+Then, post the data and generate the HTML.
+
+```bash
+solr_create_api_core api_oscys
+
+# First
+post -x html
+
+# After
+post -x solr
+```
+
+These commands use development environment config by default.
+Add `-e production` option to run the commands in production environments
+
+## Update RDF
+
+The RDF data for querying with SPARQL (for example via the Fuseki software)
+is stored in `rdf/oscys.relationships.ttl`. It can be updated from changes in
+`rdf/oscys.relationships.csv` with a Ruby script in this repository.
+
+```bash
+ruby scripts/csv_to_rdf.rb
+```
+
+Commit the changes, push to GitHub, and pull to the server(s) to be loaded for
+querying. If the software is loading the RDF data via the .ttl file at start,
+the software will need to be restarted as well.
